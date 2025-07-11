@@ -1,0 +1,22 @@
+# Banco de Dados de CEPs com Coordenadas Geográficas  
+
+Modificação dos arquivos JSON do [OpenCEP](https://github.com/SeuAliado/OpenCEP) para incluir latitude e longitude.  
+
+## 📌 Sobre  
+Dados dos correios ibge e CEP reunidos pelo OpenCEP, agora com a adição dos campos `latitude` e `longitude` aos CEPs. 
+
+## 📊 Estrutura dos Dados  
+
+```json
+{
+  "cep": "01001000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "latitude": "-23.5498772",
+  "longitude": "-46.6339869"
+}
+```
