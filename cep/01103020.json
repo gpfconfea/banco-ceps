@@ -5,5 +5,7 @@
   "bairro": "Luz",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5358128",
+  "longitude": "-46.6285706"
 }
