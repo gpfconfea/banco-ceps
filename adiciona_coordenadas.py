@@ -140,7 +140,7 @@ def main():
     arquivos = arquivos[:BATCH_SIZE]
 
     opcoes = webdriver.ChromeOptions()
-    # opcoes.add_argument('--headless=new')
+    opcoes.add_argument('--headless')
     opcoes.add_argument('--no-sandbox')
     opcoes.add_argument('--disable-dev-shm-usage')
     opcoes.add_argument('--disable-gpu')
