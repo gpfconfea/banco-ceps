@@ -12,7 +12,7 @@ from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut, GeocoderQuotaExceeded
 
 DIRETORIO_CEPS = os.path.join(os.path.dirname(__file__), 'cep')
-BATCH_SIZE = 20000
+BATCH_SIZE = 10
 
 def obter_coordenadas_nominatim(cep, dados, geolocalizador):
     print(f"[API NOMINATIM] Buscando coordenadas para o CEP: {cep}")
@@ -29,22 +29,22 @@ def obter_coordenadas_nominatim(cep, dados, geolocalizador):
         "logradouro cidade cep"
     ]
     for endereco, formato in zip(enderecos, formatos):
-        print(f"[API NOMINATIM] Tentando formato: {formato} => {endereco}")
+        # print(f"[API NOMINATIM] Tentando formato: {formato} => {endereco}")
         try:
             time.sleep(1)  # O LIMITE DA API É DE 1 REQUISIÇÃO POR SEGUNDO
             localizacao = geolocalizador.geocode(endereco, timeout=10)
             if localizacao:
-                print(f"[API NOMINATIM] Coordenadas encontradas para {cep} com formato '{formato}': {localizacao.latitude}, {localizacao.longitude}")
+                # print(f"[API NOMINATIM] Coordenadas encontradas para {cep} com formato '{formato}': {localizacao.latitude}, {localizacao.longitude}")
                 return {'latitude': str(localizacao.latitude), 'longitude': str(localizacao.longitude)}
         except (GeocoderTimedOut, GeocoderQuotaExceeded):
-            print(f"[API NOMINATIM] Timeout ou limite excedido para {cep} (formato {formato})")
+            print(f"[API NOMINATIM] Timeout ou limite excedido para {cep}")
         except Exception as e:
             print(f"[API NOMINATIM] Erro: {e}")
-    print(f"[API NOMINATIM] Não foi possível encontrar coordenadas para {cep} em nenhum formato")
+    print(f"[API NOMINATIM] Não foi possível encontrar coordenadas para o cep {cep}")
     return None
 
 def obter_coordenadas_site_principal(cep, navegador):
-    print(f"[SCRAPING 1] Tentando buscar coordenadas para {cep} no site principal...")
+    print(f"[SCRAPING 1] Tentando buscar coordenadas para o cep {cep} no site principal...")
     try:
         url = f"https://site.buscarcep.com.br/?secao=endereco&cep={cep}"
         navegador.get(url)
@@ -53,25 +53,25 @@ def obter_coordenadas_site_principal(cep, navegador):
         for _ in range(15):
             html = navegador.page_source
             if 'Cep não encontrado!' in html:
-                print(f"[SCRAPING 1] CEP não encontrado no site principal: {cep}")
+                print(f"[SCRAPING 1] CEP não encontrado no site principal")
                 return None
             lat_match = re.search(r'LATITUDE:</strong>\s*([\-\d\.]+)', html)
             lon_match = re.search(r'LONGITUDE:</strong>\s*([\-\d\.]+)', html)
             if lat_match and lon_match:
-                print(f"[SCRAPING 1] Coordenadas encontradas para {cep}: {lat_match.group(1)}, {lon_match.group(1)}")
+                # print(f"[SCRAPING 1] Coordenadas encontradas para o cep {cep}: {lat_match.group(1)}, {lon_match.group(1)}")
                 return {
                     'latitude': lat_match.group(1),
                     'longitude': lon_match.group(1)
                 }
             time.sleep(0.3)
-        print(f"[SCRAPING 1] Não encontrou coordenadas para {cep} no site principal.")
+        # print(f"[SCRAPING 1] Não encontrou coordenadas para o cep {cep}.")
         return None
     except Exception as e:
-        print(f"[SCRAPING 1] Erro ao buscar {cep}: {e}")
+        print(f"[SCRAPING 1] Erro ao buscar o cep {cep}: {e}")
         return None
 
 def obter_coordenadas_site_secundario(cep, navegador):
-    print(f"[SCRAPING 2] Tentando buscar coordenadas para {cep} no site secundário...")
+    print(f"[SCRAPING 2] Tentando buscar coordenadas para o cep {cep} no site secundário...")
     try:
         navegador.get(f"https://www.ruacep.com.br/pesquisa/?q={cep}")
         time.sleep(0.7)
@@ -88,7 +88,8 @@ def obter_coordenadas_site_secundario(cep, navegador):
             except Exception:
                 time.sleep(0.2)
         if not clicou:
-            print(f"[SCRAPING 2] Nenhum resultado encontrado para {cep}")
+            # print(f"[SCRAPING 2] Nenhum resultado encontrado para o cep {cep}")
+            return None
         tabela = None
         for _ in range(15):
             try:
@@ -112,12 +113,12 @@ def obter_coordenadas_site_secundario(cep, navegador):
                             elif 'longitude' in chave:
                                 lon = valor.split('\n')[0].strip()
                     if lat and lon:
-                        print(f"[SCRAPING 2] Coordenadas encontradas para {cep}: {lat}, {lon}")
+                        # print(f"[SCRAPING 2] Coordenadas encontradas para {cep}: {lat}, {lon}")
                         return {'latitude': lat, 'longitude': lon}
                 time.sleep(0.3)
             except Exception:
                 time.sleep(0.3)
-        print(f"[SCRAPING 2] Não encontrou coordenadas para {cep} no site secundário.")
+        # print(f"[SCRAPING 2] Não encontrou coordenadas para o cep {cep} no site secundário.")
         return None
     except Exception as e:
         print(f"[SCRAPING 2] Erro ao buscar {cep}: {e}")
@@ -177,10 +178,10 @@ def main():
                     json.dump(dados, f, ensure_ascii=False, indent=2)
                 print(f"[OK] Atualizado: {nome_arquivo}")
             else:
-                print(f"[FALHA] Não encontrou coordenadas para {nome_arquivo}")
+                print(f"[FALHA] Não encontrou coordenadas para o cep {nome_arquivo}")
                 ceps_sem_coordenadas.append(nome_arquivo)
         except Exception as e:
-            print(f"[ERRO] Erro ao processar {nome_arquivo}: {e}")
+            print(f"[ERRO] Erro ao processar o cep {nome_arquivo}: {e}")
             ceps_sem_coordenadas.append(nome_arquivo)
     navegador.quit()
 
