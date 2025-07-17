@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Tangará da Serra",
   "uf": "MT",
-  "ibge": "5107958"
+  "ibge": "5107958",
+  "latitude": "-14.6371696",
+  "longitude": "-57.4633161"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Altos do Piracicaba",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.6859431",
+  "longitude": "-47.6608086"
 }

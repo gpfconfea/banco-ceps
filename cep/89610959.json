@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Herval D'Oeste",
   "uf": "SC",
-  "ibge": "4206702"
+  "ibge": "4206702",
+  "latitude": "-27.1724159",
+  "longitude": "-51.5124705"
 }

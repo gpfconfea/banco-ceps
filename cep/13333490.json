@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Villa Suíça",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "47.5595986",
+  "longitude": "7.5885761"
 }

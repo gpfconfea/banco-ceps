@@ -5,5 +5,7 @@
   "bairro": "Residencial São Tomaz",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5122066",
+  "longitude": "-47.4115274"
 }

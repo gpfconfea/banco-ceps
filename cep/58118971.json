@@ -1,9 +1,11 @@
 {
   "cep": "58118971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado São Pedro",
   "localidade": "Lagoa Seca",
   "uf": "PB",
-  "ibge": "2508307"
+  "ibge": "2508307",
+  "latitude": "-7.1569088",
+  "longitude": "-35.8534783"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Manduri",
   "uf": "SP",
-  "ibge": "3528601"
+  "ibge": "3528601",
+  "latitude": "-23.0046085",
+  "longitude": "-49.3209249"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55181970",
   "logradouro": "Rua João Candido Ferreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Vila Jacu",
   "localidade": "Jataúba",
   "uf": "PE",
-  "ibge": "2608008"
+  "ibge": "2608008",
+  "latitude": "-8.0711592",
+  "longitude": "-36.5615936"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-14.235004",
+  "longitude": "-51.92528"
 }

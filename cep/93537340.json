@@ -5,5 +5,7 @@
   "bairro": "São Jorge",
   "localidade": "Novo Hamburgo",
   "uf": "RS",
-  "ibge": "4313409"
+  "ibge": "4313409",
+  "latitude": "-29.6662353",
+  "longitude": "-51.0915546"
 }

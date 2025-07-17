@@ -5,5 +5,7 @@
   "bairro": "Jardim Pilar",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3764623",
+  "longitude": "-51.9612594"
 }

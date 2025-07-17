@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boa Saúde",
   "uf": "RN",
-  "ibge": "2405306"
+  "ibge": "2405306",
+  "latitude": "-6.1561315",
+  "longitude": "-35.5994703"
 }

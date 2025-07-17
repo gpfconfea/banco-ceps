@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Peritiba",
   "uf": "SC",
-  "ibge": "4212601"
+  "ibge": "4212601",
+  "latitude": "-27.3736365",
+  "longitude": "-51.9050311"
 }

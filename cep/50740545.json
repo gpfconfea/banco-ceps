@@ -5,5 +5,7 @@
   "bairro": "Cidade Universitária",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0566932",
+  "longitude": "-34.9555793"
 }

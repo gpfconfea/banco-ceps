@@ -5,5 +5,7 @@
   "bairro": "Residencial Bellagio",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.6947762",
+  "longitude": "-49.7632438"
 }

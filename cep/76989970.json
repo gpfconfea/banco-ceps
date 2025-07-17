@@ -5,5 +5,7 @@
   "bairro": "Nova Conquista",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "latitude": "-9.963258",
+  "longitude": "-62.8034102"
 }

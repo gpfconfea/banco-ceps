@@ -5,5 +5,7 @@
   "bairro": "Presidente Altino",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.5238328",
+  "longitude": "-46.7714029"
 }

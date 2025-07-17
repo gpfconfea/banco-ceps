@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0204559",
+  "longitude": "-45.5563555"
 }
