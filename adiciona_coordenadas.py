@@ -12,7 +12,7 @@ from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut, GeocoderQuotaExceeded
 
 DIRETORIO_CEPS = os.path.join(os.path.dirname(__file__), 'cep')
-BATCH_SIZE = 10
+BATCH_SIZE = 5000
 
 def obter_coordenadas_nominatim(cep, dados, geolocalizador):
     print(f"[API NOMINATIM] Buscando coordenadas para o CEP: {cep}")
