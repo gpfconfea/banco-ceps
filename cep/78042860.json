@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Vila Jardim",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6170395",
+  "longitude": "-56.0764249"
 }

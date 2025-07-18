@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Três Arroios",
   "uf": "RS",
-  "ibge": "4321634"
+  "ibge": "4321634",
+  "latitude": "-27.499674",
+  "longitude": "-52.1502646"
 }

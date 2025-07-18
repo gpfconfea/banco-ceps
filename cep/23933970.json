@@ -1,9 +1,11 @@
 {
   "cep": "23933970",
   "logradouro": "Rua Francelino Alves de Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Angra (Cunhambebe)",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "latitude": "-22.9738013",
+  "longitude": "-44.2970862"
 }

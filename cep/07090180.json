@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Maria",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4680028",
+  "longitude": "-46.5358"
 }

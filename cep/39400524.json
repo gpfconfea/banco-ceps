@@ -5,5 +5,7 @@
   "bairro": "Vila Exposição",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7075884",
+  "longitude": "-43.8513368"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Fátima",
   "localidade": "Paracatu",
   "uf": "MG",
-  "ibge": "3147006"
+  "ibge": "3147006",
+  "latitude": "-17.2175165",
+  "longitude": "-46.872278"
 }

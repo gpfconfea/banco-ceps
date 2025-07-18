@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Jardim Humberto Salvador",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-21.8762362",
+  "longitude": "-51.8223362"
 }

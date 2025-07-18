@@ -6,5 +6,7 @@
   "bairro": "Rio Branco",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "latitude": "-30.0342967",
+  "longitude": "-52.880525"
 }

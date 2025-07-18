@@ -5,5 +5,7 @@
   "bairro": "Jardim Colonial",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.2873592",
+  "longitude": "-45.8948047"
 }
