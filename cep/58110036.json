@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bayeux",
   "uf": "PB",
-  "ibge": "2501807"
+  "ibge": "2501807",
+  "latitude": "-7.1283563",
+  "longitude": "-34.9295618"
 }

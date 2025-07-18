@@ -5,5 +5,7 @@
   "bairro": "Dom Bosco",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.4725453",
+  "longitude": "-44.0630233"
 }

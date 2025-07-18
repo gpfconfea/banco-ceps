@@ -5,5 +5,7 @@
   "bairro": "Jardim Irene",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5324005",
+  "longitude": "-46.4165324"
 }

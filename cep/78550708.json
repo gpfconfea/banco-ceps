@@ -5,5 +5,7 @@
   "bairro": "Residencial Cidade Jardim",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "latitude": "-13.101488",
+  "longitude": "-55.90276"
 }

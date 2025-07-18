@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulistano (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5078338",
+  "longitude": "-46.7708569"
 }

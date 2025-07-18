@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rochedo de Minas",
   "uf": "MG",
-  "ibge": "3156205"
+  "ibge": "3156205",
+  "latitude": "-21.6266281",
+  "longitude": "-43.0185518"
 }

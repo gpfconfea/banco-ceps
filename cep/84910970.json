@@ -1,9 +1,11 @@
 {
   "cep": "84910970",
   "logradouro": "Rua São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Amorinha",
   "localidade": "Ibaiti",
   "uf": "PR",
-  "ibge": "4109708"
+  "ibge": "4109708",
+  "latitude": "-23.9106092",
+  "longitude": "-50.2535158"
 }

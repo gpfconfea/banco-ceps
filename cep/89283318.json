@@ -6,5 +6,7 @@
   "bairro": "Centenário",
   "localidade": "São Bento do Sul",
   "uf": "SC",
-  "ibge": "4215802"
+  "ibge": "4215802",
+  "latitude": "-26.2517388",
+  "longitude": "-49.3325483"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Cerqueira",
   "localidade": "Cerqueira César",
   "uf": "SP",
-  "ibge": "3511409"
+  "ibge": "3511409",
+  "latitude": "-23.5634975",
+  "longitude": "-46.6737305"
 }

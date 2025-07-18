@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "latitude": "-29.6971193",
+  "longitude": "-53.8497177"
 }

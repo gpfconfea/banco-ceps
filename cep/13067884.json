@@ -5,5 +5,7 @@
   "bairro": "Nova Aparecida",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.1869998",
+  "longitude": "-46.9346196"
 }

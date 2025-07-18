@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Mirante do Vale",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.2734402",
+  "longitude": "-45.9230956"
 }

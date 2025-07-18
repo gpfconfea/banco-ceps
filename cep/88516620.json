@@ -5,5 +5,7 @@
   "bairro": "Cidade Alta",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.8127327",
+  "longitude": "-50.3709299"
 }

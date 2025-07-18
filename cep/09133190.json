@@ -5,5 +5,7 @@
   "bairro": "Jardim Riviera",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.7454133",
+  "longitude": "-46.4981732"
 }
