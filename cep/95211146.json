@@ -5,5 +5,7 @@
   "bairro": "Petrópolis",
   "localidade": "Vacaria",
   "uf": "RS",
-  "ibge": "4322509"
+  "ibge": "4322509",
+  "latitude": "-28.5136856",
+  "longitude": "-50.9478393"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78579959",
   "logradouro": "Avenida Santa Catarina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itanhangá",
   "uf": "MT",
-  "ibge": "5104542"
+  "ibge": "5104542",
+  "latitude": "-12.2376507",
+  "longitude": "-56.6455401"
 }

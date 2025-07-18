@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Pastor",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.673697",
+  "longitude": "-46.5533632"
 }

@@ -5,5 +5,7 @@
   "bairro": "Recreio Sertãozinho",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.6432507",
+  "longitude": "-46.3328783"
 }

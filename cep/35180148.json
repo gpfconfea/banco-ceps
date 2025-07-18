@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "latitude": "-19.5448417",
+  "longitude": "-42.6260741"
 }

@@ -5,5 +5,7 @@
   "bairro": "Daniela",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.4464247",
+  "longitude": "-48.5270611"
 }

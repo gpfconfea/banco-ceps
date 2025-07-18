@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Eliza",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.9145684",
+  "longitude": "-48.4760002"
 }

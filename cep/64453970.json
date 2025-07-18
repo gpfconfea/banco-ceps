@@ -1,9 +1,11 @@
 {
   "cep": "64453970",
   "logradouro": "Avenida São Raimundo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Curralinhos",
   "uf": "PI",
-  "ibge": "2203255"
+  "ibge": "2203255",
+  "latitude": "-5.6192793",
+  "longitude": "-42.8320075"
 }

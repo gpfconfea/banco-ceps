@@ -5,5 +5,7 @@
   "bairro": "Parque das Flores",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.2410102",
+  "longitude": "-45.8940092"
 }

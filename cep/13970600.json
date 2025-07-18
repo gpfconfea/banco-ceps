@@ -5,5 +5,7 @@
   "bairro": "Prados",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4483776",
+  "longitude": "-46.8156661"
 }

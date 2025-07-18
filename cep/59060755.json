@@ -5,5 +5,7 @@
   "bairro": "Bom Pastor",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "71.706936",
+  "longitude": "-42.604303"
 }

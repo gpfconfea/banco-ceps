@@ -5,5 +5,7 @@
   "bairro": "Vila Silva Ribeiro",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "latitude": "-23.5359639",
+  "longitude": "-46.834858"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "96913970",
   "logradouro": "Estrada da Serrinha Velha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serrinha Velha",
   "localidade": "Segredo",
   "uf": "RS",
-  "ibge": "4320263"
+  "ibge": "4320263",
+  "latitude": "-29.3653268",
+  "longitude": "-52.8445754"
 }

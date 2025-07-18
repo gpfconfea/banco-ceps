@@ -5,5 +5,7 @@
   "bairro": "Núcleo Leão XIII",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-23.5077744",
+  "longitude": "-46.516914"
 }

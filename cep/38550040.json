@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Coromandel",
   "uf": "MG",
-  "ibge": "3119302"
+  "ibge": "3119302",
+  "latitude": "-18.4795417",
+  "longitude": "-47.2027469"
 }

@@ -5,5 +5,7 @@
   "bairro": "Ibicuitaba",
   "localidade": "Icapuí",
   "uf": "CE",
-  "ibge": "2305357"
+  "ibge": "2305357",
+  "latitude": "-4.727761",
+  "longitude": "-37.316482"
 }

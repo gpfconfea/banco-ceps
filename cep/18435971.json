@@ -1,9 +1,11 @@
 {
   "cep": "18435971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itaoca de Cima",
   "localidade": "Nova Campina",
   "uf": "SP",
-  "ibge": "3532827"
+  "ibge": "3532827",
+  "latitude": "-24.1809086",
+  "longitude": "-48.901347"
 }

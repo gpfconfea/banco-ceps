@@ -5,5 +5,7 @@
   "bairro": "Autódromo",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.08959",
+  "longitude": "-52.7105591"
 }

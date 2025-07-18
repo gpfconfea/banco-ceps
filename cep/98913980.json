@@ -1,9 +1,11 @@
 {
   "cep": "98913980",
   "logradouro": "Estrada de Barrinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barrinha",
   "localidade": "Três de Maio",
   "uf": "RS",
-  "ibge": "4321808"
+  "ibge": "4321808",
+  "latitude": "-27.7434769",
+  "longitude": "-54.1847471"
 }

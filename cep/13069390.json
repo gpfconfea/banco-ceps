@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Residencial Olímpia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8539625",
+  "longitude": "-47.1481065"
 }
