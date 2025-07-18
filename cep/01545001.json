@@ -5,5 +5,7 @@
   "bairro": "Jardim da Glória",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5813828",
+  "longitude": "-46.6149757"
 }

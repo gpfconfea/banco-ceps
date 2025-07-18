@@ -1,9 +1,11 @@
 {
   "cep": "01301989",
-  "logradouro": "Rua da Consolação 2406 Locker Correios Estação Metrô Paulista - Ent Exc",
+  "logradouro": "Rua da Consolação 2406 Estação Metrô Paulista Ent Exc",
   "complemento": "",
   "bairro": "Consolação",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5553678",
+  "longitude": "-46.662094"
 }

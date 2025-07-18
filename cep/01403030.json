@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.5645515",
+  "longitude": "-47.3999335"
 }

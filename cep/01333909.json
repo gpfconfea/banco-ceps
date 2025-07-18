@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5699164",
+  "longitude": "-46.644355"
 }

@@ -5,5 +5,7 @@
   "bairro": "Higienópolis",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5492283",
+  "longitude": "-46.6606742"
 }

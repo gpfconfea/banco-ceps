@@ -5,5 +5,7 @@
   "bairro": "Vila Buarque",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5461949",
+  "longitude": "-46.648456"
 }

@@ -10,11 +10,14 @@ import time
 from selenium.webdriver.chrome.service import Service
 from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut, GeocoderQuotaExceeded
+from geopy.extra.rate_limiter import RateLimiter
 
 DIRETORIO_CEPS = os.path.join(os.path.dirname(__file__), 'cep')
-BATCH_SIZE = 5000
+BATCH_SIZE = 2000
 
-def obter_coordenadas_nominatim(cep, dados, geolocalizador):
+geocode_with_delay = None
+
+def obter_coordenadas_nominatim(cep, dados):
     print(f"[API NOMINATIM] Buscando coordenadas para o CEP: {cep}")
     logradouro = dados.get('logradouro', '')
     bairro = dados.get('bairro', '')
@@ -24,23 +27,18 @@ def obter_coordenadas_nominatim(cep, dados, geolocalizador):
         f"{logradouro}, {bairro}, {cidade}, {uf}, {cep}",
         f"{logradouro} {cidade} {cep}"
     ]
-    formatos = [
-        "logradouro, bairro, cidade, uf, cep",
-        "logradouro cidade cep"
-    ]
-    for endereco, formato in zip(enderecos, formatos):
-        # print(f"[API NOMINATIM] Tentando formato: {formato} => {endereco}")
+    for endereco in enderecos:
         try:
-            time.sleep(1)  # O LIMITE DA API É DE 1 REQUISIÇÃO POR SEGUNDO
-            localizacao = geolocalizador.geocode(endereco, timeout=10)
+            localizacao = geocode_with_delay(endereco, timeout=10)
             if localizacao:
-                # print(f"[API NOMINATIM] Coordenadas encontradas para {cep} com formato '{formato}': {localizacao.latitude}, {localizacao.longitude}")
                 return {'latitude': str(localizacao.latitude), 'longitude': str(localizacao.longitude)}
         except (GeocoderTimedOut, GeocoderQuotaExceeded):
-            print(f"[API NOMINATIM] Timeout ou limite excedido para {cep}")
+            print(f"[API NOMINATIM] Timeout ou limite excedido para {cep}.")
+            continue
         except Exception as e:
-            print(f"[API NOMINATIM] Erro: {e}")
-    print(f"[API NOMINATIM] Não foi possível encontrar coordenadas para o cep {cep}")
+            print(f"[API NOMINATIM] Erro ao buscar {cep}: {e}")
+            continue
+
     return None
 
 def obter_coordenadas_site_principal(cep, navegador):
@@ -50,21 +48,26 @@ def obter_coordenadas_site_principal(cep, navegador):
         navegador.get(url)
         time.sleep(0.7)
         navegador.execute_script("window.stop()")
-        for _ in range(15):
-            html = navegador.page_source
-            if 'Cep não encontrado!' in html:
-                print(f"[SCRAPING 1] CEP não encontrado no site principal")
-                return None
-            lat_match = re.search(r'LATITUDE:</strong>\s*([\-\d\.]+)', html)
-            lon_match = re.search(r'LONGITUDE:</strong>\s*([\-\d\.]+)', html)
-            if lat_match and lon_match:
-                # print(f"[SCRAPING 1] Coordenadas encontradas para o cep {cep}: {lat_match.group(1)}, {lon_match.group(1)}")
-                return {
-                    'latitude': lat_match.group(1),
-                    'longitude': lon_match.group(1)
-                }
-            time.sleep(0.3)
-        # print(f"[SCRAPING 1] Não encontrou coordenadas para o cep {cep}.")
+        
+        try:
+            WebDriverWait(navegador, 5).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, "body")) 
+            )
+        except Exception as e:
+            print(f"[SCRAPING 1] Página do site principal não carregou a tempo para {cep}: {e}")
+            return None
+
+        html = navegador.page_source
+        if 'Cep não encontrado!' in html:
+            print(f"[SCRAPING 1] CEP não encontrado no site principal")
+            return None
+        lat_match = re.search(r'LATITUDE:</strong>\s*([\-\d\.]+)', html)
+        lon_match = re.search(r'LONGITUDE:</strong>\s*([\-\d\.]+)', html)
+        if lat_match and lon_match:
+            return {
+                'latitude': lat_match.group(1),
+                'longitude': lon_match.group(1)
+            }
         return None
     except Exception as e:
         print(f"[SCRAPING 1] Erro ao buscar o cep {cep}: {e}")
@@ -124,9 +127,9 @@ def obter_coordenadas_site_secundario(cep, navegador):
         print(f"[SCRAPING 2] Erro ao buscar {cep}: {e}")
         return None
 
-def obter_coordenadas_cep(cep, dados, navegador, geolocalizador):
+def obter_coordenadas_cep(cep, dados, navegador):
     print(f"[BUSCA] Iniciando busca para o CEP: {cep}")
-    info = obter_coordenadas_nominatim(cep, dados, geolocalizador)
+    info = obter_coordenadas_nominatim(cep, dados)
     if info:
         return info
     info = obter_coordenadas_site_principal(cep, navegador)
@@ -136,10 +139,28 @@ def obter_coordenadas_cep(cep, dados, navegador, geolocalizador):
     return info
 
 def main():
-    arquivos = [f for f in os.listdir(DIRETORIO_CEPS) if f.endswith('.json')]
-    print(f"Total de arquivos encontrados: {len(arquivos)}")
-    arquivos = arquivos[:BATCH_SIZE]
+    global geocode_with_delay
 
+    log_falhas_path = os.path.join(os.path.dirname(__file__), 'ceps_que_falharam.txt')
+    log_sucesso_path = os.path.join(os.path.dirname(__file__), 'ceps_processados_com_sucesso.txt')
+    
+    ceps_que_falharam = set()
+    if os.path.exists(log_falhas_path):
+        with open(log_falhas_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                ceps_que_falharam.add(line.strip())
+    print(f"[INFO] Total de CEPs falhos até a execução anterior: {len(ceps_que_falharam)}")
+
+    ceps_processados_com_sucesso = set()
+    if os.path.exists(log_sucesso_path):
+        with open(log_sucesso_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                ceps_processados_com_sucesso.add(line.strip())
+    print(f"[INFO] Total de CEPs com sucesso até a execução anterior: {len(ceps_processados_com_sucesso)}")
+
+    todos_arquivos_json = [f for f in os.listdir(DIRETORIO_CEPS) if f.endswith('.json')]
+    print(f"[INFO] Total de arquivos de CEPs: {len(todos_arquivos_json)}")
+    
     opcoes = webdriver.ChromeOptions()
     opcoes.add_argument('--headless')
     opcoes.add_argument('--no-sandbox')
@@ -150,50 +171,98 @@ def main():
     opcoes.add_argument('--disable-extensions')
     servico = Service(log_path=os.devnull)
     navegador = webdriver.Chrome(options=opcoes, service=servico)
-    geolocalizador = Nominatim(user_agent="cep_worker_seq")
-    caminho_log = os.path.join(os.path.dirname(__file__), f'log.txt')
-    ceps_sem_coordenadas = []
-    for nome_arquivo in arquivos:
-        caminho = os.path.join(DIRETORIO_CEPS, nome_arquivo)
+    
+    geolocalizador_nominatim = Nominatim(user_agent="cep_worker_seq")
+    geocode_with_delay = RateLimiter(geolocalizador_nominatim.geocode, min_delay_seconds=1.1) 
+
+    tentativas_nesta_rodada = 0
+    
+    novos_ceps_sucesso = []
+    novos_ceps_falha = []
+
+    print(f"\nIniciando processamento. BATCH_SIZE: {BATCH_SIZE}")
+
+    for nome_arquivo in todos_arquivos_json:
+        if tentativas_nesta_rodada >= BATCH_SIZE:
+            print("\n")
+            print("="*100)
+            print(f"[INFO] Limite de {BATCH_SIZE} tentativas atingido. Encerrando o processamento do lote.")
+            break
+
+        cep_do_arquivo = nome_arquivo.replace('.json', '').strip()
+        caminho_completo_arquivo = os.path.join(DIRETORIO_CEPS, nome_arquivo)
+
+        if cep_do_arquivo in ceps_processados_com_sucesso:
+            continue
+        if cep_do_arquivo in ceps_que_falharam:
+            continue
+
         try:
-            with open(caminho, 'r', encoding='utf-8') as f:
+            with open(caminho_completo_arquivo, 'r', encoding='utf-8') as f:
                 dados = json.load(f)
+            
             if 'logradouro' in dados and 'locker correios' in dados['logradouro'].lower():
                 dados['logradouro'] = dados['logradouro'].replace(' - ', ' ').strip()
                 dados['logradouro'] = dados['logradouro'].replace('Locker Correios ', '').replace('locker correios ', '').strip()
                 dados['logradouro'] = dados['logradouro'].replace(' Entrega Exclusiva', '').replace(' entrega exclusiva', '').strip()
             if 'complemento' in dados and dados['complemento'].strip().lower() == 's/n':
                 dados['complemento'] = ''
-            if 'latitude' in dados and 'longitude' in dados:
-                continue
-            cep = dados.get('cep', '')
+
+            cep = dados.get('cep', '').strip()
             if not cep:
                 print(f"[ERRO] Arquivo {nome_arquivo} sem campo 'cep'.")
+                novos_ceps_falha.append(cep_do_arquivo)
+                tentativas_nesta_rodada += 1
                 continue
-            info = obter_coordenadas_cep(cep, dados, navegador, geolocalizador)
+            
+            if 'latitude' in dados and 'longitude' in dados and dados['latitude'] and dados['longitude']:
+                print(f"[AVISO] CEP {cep_do_arquivo} já possui coordenadas. -> Adicionando ao log de sucesso e pulando busca.")
+                novos_ceps_sucesso.append(cep_do_arquivo)
+                continue
+            
+            tentativas_nesta_rodada += 1 
+
+            info = obter_coordenadas_cep(cep, dados, navegador) 
+            
             if info and 'latitude' in info and 'longitude' in info:
                 dados['latitude'] = info['latitude']
                 dados['longitude'] = info['longitude']
-                with open(caminho, 'w', encoding='utf-8') as f:
+
+                temp_caminho = caminho_completo_arquivo + ".tmp"
+                with open(temp_caminho, 'w', encoding='utf-8') as f:
                     json.dump(dados, f, ensure_ascii=False, indent=2)
+                os.replace(temp_caminho, caminho_completo_arquivo)
                 print(f"[OK] Atualizado: {nome_arquivo}")
+                novos_ceps_sucesso.append(cep_do_arquivo)
             else:
-                print(f"[FALHA] Não encontrou coordenadas para o cep {nome_arquivo}")
-                ceps_sem_coordenadas.append(nome_arquivo)
+                print(f"[FALHA] Não encontrou coordenadas para o cep {nome_arquivo} nesta rodada. Adicionando à lista de falhas.")
+                novos_ceps_falha.append(cep_do_arquivo)
+        except json.JSONDecodeError:
+            print(f"[ERRO] Arquivo JSON inválido: {nome_arquivo}. Adicionando à lista de falhas.")
+            novos_ceps_falha.append(cep_do_arquivo)
+            tentativas_nesta_rodada += 1
         except Exception as e:
-            print(f"[ERRO] Erro ao processar o cep {nome_arquivo}: {e}")
-            ceps_sem_coordenadas.append(nome_arquivo)
+            print(f"[ERRO] Erro geral ao processar o cep {nome_arquivo}: {e}. Adicionando à lista de falhas.")
+            novos_ceps_falha.append(cep_do_arquivo)
+            tentativas_nesta_rodada += 1
+    
     navegador.quit()
 
-    # Gera relatório final dos ceps sem coordenadas
-    if ceps_sem_coordenadas:
-        print(f"\n[RESUMO] Arquivos sem coordenadas: {len(ceps_sem_coordenadas)}")
-        with open(caminho_log, 'w', encoding='utf-8') as flog:
-            for nome in ceps_sem_coordenadas:
-                flog.write(f"{nome}\n")
-        print(f"[RESUMO] Lista salva em {caminho_log}")
-    else:
-        print("[RESUMO] Todos os arquivos receberam coordenadas!")
+    if novos_ceps_falha:
+        ceps_que_falharam.update(novos_ceps_falha) 
+        with open(log_falhas_path, 'w', encoding='utf-8') as flog:
+            for cep_falho in sorted(list(ceps_que_falharam)):
+                flog.write(f"{cep_falho}\n")
+    
+    if novos_ceps_sucesso:
+        ceps_processados_com_sucesso.update(novos_ceps_sucesso)
+        with open(log_sucesso_path, 'w', encoding='utf-8') as flog:
+            for cep_sucesso in sorted(list(ceps_processados_com_sucesso)):
+                flog.write(f"{cep_sucesso}\n")
+    
+    print(f"[INFO] Novo total de CEPs que falharam: {len(ceps_que_falharam)}")
+    print(f"[INFO] Novo total de CEPs com sucesso: {len(ceps_processados_com_sucesso)}")
+    print("="*100)
 
 if __name__ == "__main__":
-    main() 
+    main()

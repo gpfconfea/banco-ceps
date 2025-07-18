@@ -1,9 +1,11 @@
 {
   "cep": "01501900",
   "logradouro": "Praça Doutor João Mendes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.1845142",
+  "longitude": "-45.8846676"
 }

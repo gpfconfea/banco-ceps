@@ -6,5 +6,7 @@
   "bairro": "Jardim Paulistano",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.8626607",
+  "longitude": "-49.4168635"
 }

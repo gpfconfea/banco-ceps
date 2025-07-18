@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6370601",
+  "longitude": "-46.5003097"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.0177498",
+  "longitude": "-47.8857193"
 }

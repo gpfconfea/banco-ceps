@@ -5,5 +5,7 @@
   "bairro": "Zona Cívico-Administrativa",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.7887865",
+  "longitude": "-47.893357"
 }

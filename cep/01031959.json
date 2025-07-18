@@ -1,9 +1,11 @@
 {
   "cep": "01031959",
   "logradouro": "Praça do Correio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.544245",
+  "longitude": "-46.6363379"
 }

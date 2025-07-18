@@ -1,9 +1,11 @@
 {
   "cep": "01234900",
   "logradouro": "Praça Charles Miller",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pacaembu",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5439233",
+  "longitude": "-46.6651377"
 }

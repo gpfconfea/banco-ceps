@@ -5,5 +5,7 @@
   "bairro": "Sumaré",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5439218",
+  "longitude": "-46.683431"
 }
