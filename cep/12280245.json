@@ -5,5 +5,7 @@
   "bairro": "Centro Empresarial Industrial e Comercial de Caçapava",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.0972268",
+  "longitude": "-45.6856236"
 }

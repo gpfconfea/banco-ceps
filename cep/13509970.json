@@ -1,9 +1,11 @@
 {
   "cep": "13509970",
   "logradouro": "Rua Maria Ferraz Pereira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Recanto das Pedras (Assistência)",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "latitude": "-23.583169",
+  "longitude": "-46.6862812"
 }

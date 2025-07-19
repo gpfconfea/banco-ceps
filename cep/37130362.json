@@ -5,5 +5,7 @@
   "bairro": "Residencial Floresta",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.4239",
+  "longitude": "-45.9339127"
 }

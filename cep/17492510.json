@@ -5,5 +5,7 @@
   "bairro": "Parque Fazenda Bandeirantes",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-22.3902088",
+  "longitude": "-49.1484103"
 }

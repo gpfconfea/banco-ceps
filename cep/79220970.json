@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nioaque",
   "uf": "MS",
-  "ibge": "5005806"
+  "ibge": "5005806",
+  "latitude": "-21.1602597",
+  "longitude": "-55.8307912"
 }

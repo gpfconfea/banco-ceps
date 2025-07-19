@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Clara",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-22.6688098",
+  "longitude": "-50.4493304"
 }

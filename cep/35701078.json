@@ -5,5 +5,7 @@
   "bairro": "São Vicente",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "latitude": "-19.4400878",
+  "longitude": "-44.2198849"
 }

@@ -5,5 +5,7 @@
   "bairro": "COHAB",
   "localidade": "Passos",
   "uf": "MG",
-  "ibge": "3147907"
+  "ibge": "3147907",
+  "latitude": "-20.7114476",
+  "longitude": "-46.6296489"
 }

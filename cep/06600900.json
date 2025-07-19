@@ -1,9 +1,11 @@
 {
   "cep": "06600900",
   "logradouro": "Parque Municipal Carlos Piteri",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5349816",
+  "longitude": "-46.9365418"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "35675977",
   "logradouro": "Avenida João Pinheiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Francelinos",
   "localidade": "Juatuba",
   "uf": "MG",
-  "ibge": "3136652"
+  "ibge": "3136652",
+  "latitude": "-19.9722072",
+  "longitude": "-44.2910733"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Roberto Monteiro",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "latitude": "-16.6667829",
+  "longitude": "-49.4939443"
 }

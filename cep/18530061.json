@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.1060234",
+  "longitude": "-47.7123893"
 }

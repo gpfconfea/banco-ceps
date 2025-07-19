@@ -1,9 +1,11 @@
 {
   "cep": "35702990",
   "logradouro": "Avenida Constelação - Estiva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "latitude": "-19.3611821",
+  "longitude": "-44.2526218"
 }

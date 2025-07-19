@@ -1,9 +1,11 @@
 {
   "cep": "85200973",
   "logradouro": "Rua Sete de Setembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra Bonita",
   "localidade": "Pitanga",
   "uf": "PR",
-  "ibge": "4119608"
+  "ibge": "4119608",
+  "latitude": "-24.7566492",
+  "longitude": "-51.7593564"
 }

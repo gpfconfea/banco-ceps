@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Cecília",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5381431",
+  "longitude": "-46.9194781"
 }
