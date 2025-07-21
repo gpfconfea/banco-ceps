@@ -13,7 +13,7 @@ from geopy.exc import GeocoderTimedOut, GeocoderQuotaExceeded
 from geopy.extra.rate_limiter import RateLimiter
 
 DIRETORIO_CEPS = os.path.join(os.path.dirname(__file__), 'cep')
-BATCH_SIZE = 6000
+BATCH_SIZE = 4000
 
 geocode_with_delay = None
 
