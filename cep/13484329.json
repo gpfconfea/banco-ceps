@@ -5,5 +5,7 @@
   "bairro": "Jardim Piratininga",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5608055",
+  "longitude": "-47.4168927"
 }

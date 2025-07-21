@@ -5,5 +5,7 @@
   "bairro": "Residencial Florisa",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5738272",
+  "longitude": "-47.4747526"
 }

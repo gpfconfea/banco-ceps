@@ -5,5 +5,7 @@
   "bairro": "Edson Brito Garcia",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.5241084",
+  "longitude": "-54.5734587"
 }

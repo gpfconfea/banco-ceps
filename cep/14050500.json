@@ -5,5 +5,7 @@
   "bairro": "Vila Tibério",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-20.4872564",
+  "longitude": "-47.3970606"
 }

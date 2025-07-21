@@ -5,5 +5,7 @@
   "bairro": "Triângulo",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.7910486",
+  "longitude": "-50.3235594"
 }

@@ -5,5 +5,7 @@
   "bairro": "Raia",
   "localidade": "Barra do Chapéu",
   "uf": "SP",
-  "ibge": "3505351"
+  "ibge": "3505351",
+  "latitude": "-24.4697103",
+  "longitude": "-49.024192"
 }

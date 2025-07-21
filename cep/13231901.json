@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-23.2025136",
+  "longitude": "-46.7859336"
 }

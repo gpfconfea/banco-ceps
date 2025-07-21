@@ -5,5 +5,7 @@
   "bairro": "Vila Cuiabá",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.225128",
+  "longitude": "-54.773874"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Jorge",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7874635",
+  "longitude": "-47.2783117"
 }

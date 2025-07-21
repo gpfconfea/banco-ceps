@@ -5,5 +5,7 @@
   "bairro": "Aurora",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5483964",
+  "longitude": "-44.2328876"
 }

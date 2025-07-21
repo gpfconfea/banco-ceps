@@ -1,9 +1,11 @@
 {
   "cep": "55575970",
   "logradouro": "Praça Agamenon Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Rio Formoso",
   "uf": "PE",
-  "ibge": "2611903"
+  "ibge": "2611903",
+  "latitude": "-8.6603305",
+  "longitude": "-35.1522394"
 }

@@ -5,5 +5,7 @@
   "bairro": "Rádio Clube",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-23.9377403",
+  "longitude": "-46.3803806"
 }

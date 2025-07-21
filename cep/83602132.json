@@ -5,5 +5,7 @@
   "bairro": "Loteamento Vila Verde",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4704411",
+  "longitude": "-49.5381802"
 }

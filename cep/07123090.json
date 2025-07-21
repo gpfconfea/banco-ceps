@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Clara",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4475702",
+  "longitude": "-46.527871"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Califórnia",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2599448",
+  "longitude": "-45.9230772"
 }

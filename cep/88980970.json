@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Passo de Torres",
   "uf": "SC",
-  "ibge": "4212254"
+  "ibge": "4212254",
+  "latitude": "-29.3234216",
+  "longitude": "-49.7192738"
 }

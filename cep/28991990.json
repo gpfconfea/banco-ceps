@@ -1,9 +1,11 @@
 {
   "cep": "28991990",
   "logradouro": "Estrada Jacarepiá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "latitude": "-22.9013802",
+  "longitude": "-42.4668581"
 }

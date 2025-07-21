@@ -5,5 +5,7 @@
   "bairro": "Residencial Nossa Terra",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "latitude": "-23.2664847",
+  "longitude": "-51.2852878"
 }

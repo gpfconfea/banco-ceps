@@ -5,5 +5,7 @@
   "bairro": "Atalaia",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "latitude": "-21.2096214",
+  "longitude": "-41.883745"
 }

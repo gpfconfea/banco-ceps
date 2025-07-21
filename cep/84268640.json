@@ -5,5 +5,7 @@
   "bairro": "Área 01",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-24.3213383",
+  "longitude": "-50.6297867"
 }

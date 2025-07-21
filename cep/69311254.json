@@ -5,5 +5,7 @@
   "bairro": "Residencial Monte Cristo",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "latitude": "2.8750396",
+  "longitude": "-60.7129961"
 }

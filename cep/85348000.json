@@ -5,5 +5,7 @@
   "bairro": "Porto Santana",
   "localidade": "Porto Barreiro",
   "uf": "PR",
-  "ibge": "4120150"
+  "ibge": "4120150",
+  "latitude": "-25.6535046",
+  "longitude": "-52.4674092"
 }

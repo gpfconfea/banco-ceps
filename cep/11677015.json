@@ -5,5 +5,7 @@
   "bairro": "Loteamento Villagio Verde Mare",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.6284246",
+  "longitude": "-45.4354298"
 }

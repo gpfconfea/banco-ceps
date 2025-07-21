@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Leopoldina",
   "uf": "ES",
-  "ibge": "3204500"
+  "ibge": "3204500",
+  "latitude": "-20.0987046",
+  "longitude": "-40.5269434"
 }

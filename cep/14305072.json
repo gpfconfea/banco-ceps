@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Batatais",
   "uf": "SP",
-  "ibge": "3505906"
+  "ibge": "3505906",
+  "latitude": "-20.8823759",
+  "longitude": "-47.5761771"
 }

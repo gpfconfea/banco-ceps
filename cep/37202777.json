@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.2375975",
+  "longitude": "-44.983679"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "37915971",
   "logradouro": "Rua Dois",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Babilônia",
   "localidade": "Delfinópolis",
   "uf": "MG",
-  "ibge": "3121209"
+  "ibge": "3121209",
+  "latitude": "-20.3521862",
+  "longitude": "-46.840785"
 }
