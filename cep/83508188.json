@@ -5,5 +5,7 @@
   "bairro": "Lamenha Pequena",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.3737133",
+  "longitude": "-49.3173223"
 }

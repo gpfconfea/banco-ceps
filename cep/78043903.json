@@ -1,9 +1,11 @@
 {
   "cep": "78043903",
   "logradouro": "Avenida Bernardo Antônio de Oliveira Neto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Santa Marta",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5751929",
+  "longitude": "-56.1072371"
 }

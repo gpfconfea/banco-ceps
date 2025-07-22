@@ -5,5 +5,7 @@
   "bairro": "Delfim Verde",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.613873",
+  "longitude": "-45.3536405"
 }

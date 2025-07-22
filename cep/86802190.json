@@ -5,5 +5,7 @@
   "bairro": "Vila Formosa",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5612247",
+  "longitude": "-51.464345"
 }

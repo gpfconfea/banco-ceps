@@ -5,5 +5,7 @@
   "bairro": "Jardim Cachoeira",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.9233468",
+  "longitude": "-47.3654708"
 }

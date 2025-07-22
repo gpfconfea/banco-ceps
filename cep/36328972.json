@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Cruz de Minas",
   "uf": "MG",
-  "ibge": "3157336"
+  "ibge": "3157336",
+  "latitude": "-21.1169526",
+  "longitude": "-44.2237827"
 }

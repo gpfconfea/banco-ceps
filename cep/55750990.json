@@ -1,9 +1,11 @@
 {
   "cep": "55750990",
   "logradouro": "Rua Oscar Cavalcante - Diogo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Surubim",
   "uf": "PE",
-  "ibge": "2614501"
+  "ibge": "2614501",
+  "latitude": "-7.8249717",
+  "longitude": "-35.7424483"
 }

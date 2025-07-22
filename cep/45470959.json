@@ -1,9 +1,11 @@
 {
   "cep": "45470959",
   "logradouro": "Rua Engenheiro Dantas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jiquiriçá",
   "uf": "BA",
-  "ibge": "2918209"
+  "ibge": "2918209",
+  "latitude": "-13.2563951",
+  "longitude": "-39.5743756"
 }

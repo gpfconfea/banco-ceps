@@ -1,9 +1,11 @@
 {
   "cep": "58378970",
   "logradouro": "Rua Joaquim Francisco de Andrade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itatuba",
   "uf": "PB",
-  "ibge": "2507200"
+  "ibge": "2507200",
+  "latitude": "-7.3770485",
+  "longitude": "-35.628693"
 }

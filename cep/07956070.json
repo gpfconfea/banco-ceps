@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Esperança",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.2746177",
+  "longitude": "-46.7165843"
 }

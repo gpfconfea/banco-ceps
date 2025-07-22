@@ -5,5 +5,7 @@
   "bairro": "Vila São Cristóvão",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.448775",
+  "longitude": "-49.0523431"
 }

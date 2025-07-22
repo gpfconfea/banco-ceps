@@ -5,5 +5,7 @@
   "bairro": "Bom Jardim",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.8015811",
+  "longitude": "-38.6047333"
 }
