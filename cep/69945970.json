@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Acrelândia",
   "uf": "AC",
-  "ibge": "1200013"
+  "ibge": "1200013",
+  "latitude": "-10.0783009",
+  "longitude": "-67.0556812"
 }

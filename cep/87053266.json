@@ -5,5 +5,7 @@
   "bairro": "Parque da Gávea",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4524934",
+  "longitude": "-51.918526"
 }

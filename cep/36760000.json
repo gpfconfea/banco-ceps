@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Laranjal",
   "uf": "MG",
-  "ibge": "3138005"
+  "ibge": "3138005",
+  "latitude": "-21.365278",
+  "longitude": "-42.477778"
 }

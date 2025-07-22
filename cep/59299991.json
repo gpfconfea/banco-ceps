@@ -1,9 +1,11 @@
 {
   "cep": "59299991",
   "logradouro": "Rua Principal - Povoado de Oiteiros - São Gonçalo do Amarante",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São Gonçalo do Amarante",
   "uf": "RN",
-  "ibge": "2412005"
+  "ibge": "2412005",
+  "latitude": "-5.7915025",
+  "longitude": "-35.3285282"
 }

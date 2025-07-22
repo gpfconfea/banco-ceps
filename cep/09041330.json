@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.663956",
+  "longitude": "-46.5389677"
 }

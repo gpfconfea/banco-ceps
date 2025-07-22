@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.7600623",
+  "longitude": "-47.614824"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Presidente Jânio Quadros",
   "uf": "BA",
-  "ibge": "2925709"
+  "ibge": "2925709",
+  "latitude": "-14.6830184",
+  "longitude": "-41.6747631"
 }

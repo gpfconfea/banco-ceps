@@ -5,5 +5,7 @@
   "bairro": "Vila Franci",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5074904",
+  "longitude": "-46.511018"
 }

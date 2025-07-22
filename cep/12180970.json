@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Natividade da Serra",
   "uf": "SP",
-  "ibge": "3532306"
+  "ibge": "3532306",
+  "latitude": "-23.3769124",
+  "longitude": "-45.442947"
 }

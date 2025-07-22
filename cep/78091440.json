@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Ilhas Canárias",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-22.4180215",
+  "longitude": "-52.0212596"
 }

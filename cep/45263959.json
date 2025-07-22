@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Jesus da Serra",
   "uf": "BA",
-  "ibge": "2903953"
+  "ibge": "2903953",
+  "latitude": "-14.3751563",
+  "longitude": "-40.5038713"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "35860974",
   "logradouro": "Praça São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ouro Fino",
   "localidade": "Conceição do Mato Dentro",
   "uf": "MG",
-  "ibge": "3117504"
+  "ibge": "3117504",
+  "latitude": "-19.0357363",
+  "longitude": "-43.4247512"
 }

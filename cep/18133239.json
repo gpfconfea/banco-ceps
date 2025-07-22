@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-22.7203921",
+  "longitude": "-43.568982"
 }

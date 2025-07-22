@@ -1,9 +1,11 @@
 {
   "cep": "69162970",
   "logradouro": "Rua Rui Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cametá",
   "localidade": "Barreirinha",
   "uf": "AM",
-  "ibge": "1300508"
+  "ibge": "1300508",
+  "latitude": "-2.8367392",
+  "longitude": "-57.415793"
 }

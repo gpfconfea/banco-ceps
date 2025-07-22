@@ -1,9 +1,11 @@
 {
   "cep": "74968970",
   "logradouro": "Avenida Independência Quadra 14 Lote 7 / 8",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Residencial Village Garavelo",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.8223816",
+  "longitude": "-49.2505636"
 }

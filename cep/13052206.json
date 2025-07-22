@@ -6,5 +6,7 @@
   "bairro": "Jardim Paraíso de Viracopos",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9634731",
+  "longitude": "-47.1257793"
 }

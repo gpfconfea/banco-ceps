@@ -6,5 +6,7 @@
   "bairro": "Tavares",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.4067379",
+  "longitude": "-43.5166641"
 }

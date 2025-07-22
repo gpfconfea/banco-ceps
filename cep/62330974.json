@@ -1,9 +1,11 @@
 {
   "cep": "62330974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pindoguaba",
   "localidade": "Tianguá",
   "uf": "CE",
-  "ibge": "2313401"
+  "ibge": "2313401",
+  "latitude": "-4.336771",
+  "longitude": "-40.7125466"
 }

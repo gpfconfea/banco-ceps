@@ -5,5 +5,7 @@
   "bairro": "Jardim Barcelona",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.097877",
+  "longitude": "-51.4114129"
 }

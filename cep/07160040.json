@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Portugal",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4215775",
+  "longitude": "-46.4569075"
 }

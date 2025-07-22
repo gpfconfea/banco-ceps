@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Parque da Amizade",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9478705",
+  "longitude": "-47.165997"
 }

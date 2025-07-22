@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.4842926",
+  "longitude": "-47.4882238"
 }

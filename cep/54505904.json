@@ -1,9 +1,11 @@
 {
   "cep": "54505904",
   "logradouro": "Praça Ministro André Cavalcante",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "latitude": "-8.2409246",
+  "longitude": "-34.9961284"
 }

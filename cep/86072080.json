@@ -5,5 +5,7 @@
   "bairro": "Leste Oeste",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2949575",
+  "longitude": "-51.2035496"
 }

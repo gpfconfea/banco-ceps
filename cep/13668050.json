@@ -5,5 +5,7 @@
   "bairro": "Jardim Águas Claras",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.8535826",
+  "longitude": "-47.503566"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Prainha",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "latitude": "-23.9828519",
+  "longitude": "-46.3805495"
 }

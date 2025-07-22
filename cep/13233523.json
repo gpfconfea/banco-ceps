@@ -5,5 +5,7 @@
   "bairro": "Estância Figueira Branca",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-23.208281",
+  "longitude": "-46.7893658"
 }
