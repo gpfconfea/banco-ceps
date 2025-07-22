@@ -5,5 +5,7 @@
   "bairro": "Jardim Alviverde",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7631894",
+  "longitude": "-46.764965"
 }

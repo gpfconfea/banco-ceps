@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barra do Corda",
   "uf": "MA",
-  "ibge": "2101608"
+  "ibge": "2101608",
+  "latitude": "-5.508303",
+  "longitude": "-45.2402147"
 }

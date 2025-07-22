@@ -1,9 +1,11 @@
 {
   "cep": "35428972",
   "logradouro": "Rua Dona Olinda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bento Rodrigues",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "latitude": "-20.2359557",
+  "longitude": "-43.4189196"
 }

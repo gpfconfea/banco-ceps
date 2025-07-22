@@ -1,9 +1,11 @@
 {
   "cep": "47966970",
   "logradouro": "Travessa Alto Francisco Guimarães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Missão do Aricobe",
   "localidade": "Angical",
   "uf": "BA",
-  "ibge": "2901403"
+  "ibge": "2901403",
+  "latitude": "-12.0073749",
+  "longitude": "-44.6986014"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44913970",
   "logradouro": "Avenida Irecê",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Soares",
   "localidade": "América Dourada",
   "uf": "BA",
-  "ibge": "2901155"
+  "ibge": "2901155",
+  "latitude": "-11.3082053",
+  "longitude": "-41.4757209"
 }

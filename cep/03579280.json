@@ -5,5 +5,7 @@
   "bairro": "Jardim Marília",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5617227",
+  "longitude": "-46.493862"
 }

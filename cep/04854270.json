@@ -5,5 +5,7 @@
   "bairro": "Jardim Almeida Prado",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7754786",
+  "longitude": "-46.687615"
 }

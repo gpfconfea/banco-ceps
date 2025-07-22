@@ -5,5 +5,7 @@
   "bairro": "Residencial Serra Azul Etapa I",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6285496",
+  "longitude": "-49.3534329"
 }

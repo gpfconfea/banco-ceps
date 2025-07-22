@@ -5,5 +5,7 @@
   "bairro": "Vila Imperial (Barro Vermelho)",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.9130051",
+  "longitude": "-50.9021888"
 }

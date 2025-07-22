@@ -5,5 +5,7 @@
   "bairro": "Residencial Águas do Jaguari",
   "localidade": "Jaguariúna",
   "uf": "SP",
-  "ibge": "3524709"
+  "ibge": "3524709",
+  "latitude": "-22.6939087",
+  "longitude": "-47.0279018"
 }

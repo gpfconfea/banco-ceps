@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte Alegre dos Campos",
   "uf": "RS",
-  "ibge": "4312377"
+  "ibge": "4312377",
+  "latitude": "-28.6840498",
+  "longitude": "-50.7820322"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jaqueline",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8008944",
+  "longitude": "-43.9332032"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vista Verde",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.1039341",
+  "longitude": "-47.179417"
 }

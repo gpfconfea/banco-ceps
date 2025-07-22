@@ -1,9 +1,11 @@
 {
   "cep": "27160970",
   "logradouro": "Rua Barão do Turvo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dorândia",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "latitude": "-22.46817",
+  "longitude": "-43.9408112"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Cambuí",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-22.6605905",
+  "longitude": "-50.4309838"
 }

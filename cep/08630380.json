@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rita de Cássia",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.6484092",
+  "longitude": "-46.3232917"
 }

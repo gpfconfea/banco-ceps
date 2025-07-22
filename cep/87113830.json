@@ -5,5 +5,7 @@
   "bairro": "Jardim Tropical",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4187283",
+  "longitude": "-51.8675813"
 }

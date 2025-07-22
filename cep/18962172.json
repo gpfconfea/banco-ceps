@@ -6,5 +6,7 @@
   "bairro": "Jardim Bercam",
   "localidade": "Bernardino de Campos",
   "uf": "SP",
-  "ibge": "3506300"
+  "ibge": "3506300",
+  "latitude": "-23.0184337",
+  "longitude": "-49.4751705"
 }

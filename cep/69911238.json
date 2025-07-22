@@ -5,5 +5,7 @@
   "bairro": "Conjunto Castelo Branco",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-23.1800762",
+  "longitude": "-46.8856473"
 }

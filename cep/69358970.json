@@ -1,9 +1,11 @@
 {
   "cep": "69358970",
   "logradouro": "Rua Cici Mota",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Uiramutã",
   "uf": "RR",
-  "ibge": "1400704"
+  "ibge": "1400704",
+  "latitude": "4.6028228",
+  "longitude": "-60.1819672"
 }
