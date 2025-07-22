@@ -5,5 +5,7 @@
   "bairro": "Vila Cardoso",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-23.0012183",
+  "longitude": "-47.4959134"
 }

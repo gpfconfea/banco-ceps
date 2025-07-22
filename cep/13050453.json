@@ -5,5 +5,7 @@
   "bairro": "Vila Pompéia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9289531",
+  "longitude": "-47.0880781"
 }

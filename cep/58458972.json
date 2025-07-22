@@ -1,9 +1,11 @@
 {
   "cep": "58458972",
   "logradouro": "Avenida Liberdade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Barra de Santana",
   "uf": "PB",
-  "ibge": "2501575"
+  "ibge": "2501575",
+  "latitude": "-7.5218444",
+  "longitude": "-35.9943688"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68723970",
   "logradouro": "Vila de Cafezal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cafezal",
   "localidade": "Magalhães Barata",
   "uf": "PA",
-  "ibge": "1504109"
+  "ibge": "1504109",
+  "latitude": "-0.7547185",
+  "longitude": "-47.6702614"
 }

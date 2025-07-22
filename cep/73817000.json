@@ -5,5 +5,7 @@
   "bairro": "Bezerra",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "-15.4933331",
+  "longitude": "-47.1060316"
 }

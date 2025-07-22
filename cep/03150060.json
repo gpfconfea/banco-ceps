@@ -5,5 +5,7 @@
   "bairro": "Quinta da Paineira",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.1481038",
+  "longitude": "-46.705368"
 }

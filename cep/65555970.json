@@ -1,9 +1,11 @@
 {
   "cep": "65555970",
   "logradouro": "Avenida Roseana Sarney",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santana do Maranhão",
   "uf": "MA",
-  "ibge": "2110237"
+  "ibge": "2110237",
+  "latitude": "-3.1188898",
+  "longitude": "-42.3827637"
 }

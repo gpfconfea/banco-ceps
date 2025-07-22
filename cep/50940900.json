@@ -1,9 +1,11 @@
 {
   "cep": "50940900",
   "logradouro": "Avenida Liberdade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sancho",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0818944",
+  "longitude": "-34.9620844"
 }

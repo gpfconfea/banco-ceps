@@ -5,5 +5,7 @@
   "bairro": "Vila Suíça",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0682641",
+  "longitude": "-47.216201"
 }

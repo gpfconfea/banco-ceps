@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bonito",
   "uf": "MS",
-  "ibge": "5002209"
+  "ibge": "5002209",
+  "latitude": "-21.1274021",
+  "longitude": "-56.4868481"
 }

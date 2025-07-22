@@ -5,5 +5,7 @@
   "bairro": "Jardim Fregadolli",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4529968",
+  "longitude": "-51.9147582"
 }

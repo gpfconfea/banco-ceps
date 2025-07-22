@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caldeirão Grande",
   "uf": "BA",
-  "ibge": "2905503"
+  "ibge": "2905503",
+  "latitude": "-11.0194287",
+  "longitude": "-40.3037265"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Agronômica",
   "uf": "SC",
-  "ibge": "4200309"
+  "ibge": "4200309",
+  "latitude": "-27.2644246",
+  "longitude": "-49.7105241"
 }

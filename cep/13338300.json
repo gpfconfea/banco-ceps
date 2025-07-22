@@ -5,5 +5,7 @@
   "bairro": "Jardim Moacyr Arruda",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0902681",
+  "longitude": "-47.1941568"
 }

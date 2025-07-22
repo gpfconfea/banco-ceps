@@ -5,5 +5,7 @@
   "bairro": "Vila Atlântica",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.627194",
+  "longitude": "-45.3872594"
 }

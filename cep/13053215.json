@@ -5,5 +5,7 @@
   "bairro": "Jardim Marisa",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0354931",
+  "longitude": "-47.1068507"
 }

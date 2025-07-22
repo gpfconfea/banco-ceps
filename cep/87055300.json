@@ -5,5 +5,7 @@
   "bairro": "Jardim São Silvestre",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4568956",
+  "longitude": "-51.9052282"
 }

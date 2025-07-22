@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa Santa",
   "uf": "MG",
-  "ibge": "3137601"
+  "ibge": "3137601",
+  "latitude": "-19.6349244",
+  "longitude": "-43.9003301"
 }

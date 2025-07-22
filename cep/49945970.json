@@ -1,9 +1,11 @@
 {
   "cep": "49945970",
   "logradouro": "Travessa Nova Brasília",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Francisco",
   "uf": "SE",
-  "ibge": "2806909"
+  "ibge": "2806909",
+  "latitude": "-10.3496211",
+  "longitude": "-36.8878201"
 }

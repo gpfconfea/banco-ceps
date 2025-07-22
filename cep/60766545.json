@@ -5,5 +5,7 @@
   "bairro": "Planalto Ayrton Senna",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.76308",
+  "longitude": "-38.5985417"
 }

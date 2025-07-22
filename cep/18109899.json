@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Sorocaba",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4920256",
+  "longitude": "-48.3981144"
 }

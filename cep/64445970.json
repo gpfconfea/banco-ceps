@@ -1,9 +1,11 @@
 {
   "cep": "64445970",
   "logradouro": "Rua Demerval Lobão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Miguel Leão",
   "uf": "PI",
-  "ibge": "2206308"
+  "ibge": "2206308",
+  "latitude": "-5.6805183",
+  "longitude": "-42.7375184"
 }

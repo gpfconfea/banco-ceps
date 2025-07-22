@@ -5,5 +5,7 @@
   "bairro": "Barracas",
   "localidade": "Capela",
   "uf": "SE",
-  "ibge": "2801306"
+  "ibge": "2801306",
+  "latitude": "-10.389137",
+  "longitude": "-37.0302071"
 }

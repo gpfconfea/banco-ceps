@@ -5,5 +5,7 @@
   "bairro": "Jardim San Mateo",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-22.4175764",
+  "longitude": "-49.1328528"
 }
