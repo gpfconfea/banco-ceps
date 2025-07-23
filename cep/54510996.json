@@ -1,9 +1,11 @@
 {
   "cep": "54510996",
   "logradouro": "Engenho Tiriri",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "latitude": "-8.0925733",
+  "longitude": "-34.9768428"
 }

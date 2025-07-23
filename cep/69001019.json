@@ -5,5 +5,7 @@
   "bairro": "Margem Esquerda do Rio Negro",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-14.235004",
+  "longitude": "-51.92528"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9405675",
+  "longitude": "-46.9956469"
 }

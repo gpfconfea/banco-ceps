@@ -5,5 +5,7 @@
   "bairro": "Residencial COOPEMI I",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.8036879",
+  "longitude": "-45.1858834"
 }

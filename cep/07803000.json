@@ -5,5 +5,7 @@
   "bairro": "Companhia Fazenda Belém",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-23.3299996",
+  "longitude": "-46.7339438"
 }

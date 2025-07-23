@@ -1,9 +1,11 @@
 {
   "cep": "66816900",
   "logradouro": "Rodovia Artur Bernardes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pratinha (Icoaraci)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-1.4218347",
+  "longitude": "-48.4895999"
 }

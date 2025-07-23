@@ -6,5 +6,7 @@
   "bairro": "Capela de São Pedro",
   "localidade": "Vargem Grande Paulista",
   "uf": "SP",
-  "ibge": "3556453"
+  "ibge": "3556453",
+  "latitude": "-23.5830857",
+  "longitude": "-47.009246"
 }

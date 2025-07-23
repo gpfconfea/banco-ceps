@@ -5,5 +5,7 @@
   "bairro": "Jardim Mazzei 1",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3349977",
+  "longitude": "-51.1485546"
 }

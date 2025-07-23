@@ -5,5 +5,7 @@
   "bairro": "Residencial Atlântico Sul",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-23.7278546",
+  "longitude": "-46.526839"
 }

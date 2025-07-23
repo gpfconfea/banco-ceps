@@ -1,9 +1,11 @@
 {
   "cep": "38300901",
   "logradouro": "Rua Cônego Ângelo Tardio Bruno",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "latitude": "-18.9782789",
+  "longitude": "-49.475964"
 }

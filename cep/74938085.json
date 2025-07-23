@@ -5,5 +5,7 @@
   "bairro": "Vila Mariana",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7513169",
+  "longitude": "-49.2856157"
 }

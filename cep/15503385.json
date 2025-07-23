@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Líbano",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.3867183",
+  "longitude": "-49.9716939"
 }

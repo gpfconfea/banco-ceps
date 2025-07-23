@@ -5,5 +5,7 @@
   "bairro": "Parque do Lago",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4875976",
+  "longitude": "-46.4719798"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64850970",
   "logradouro": "Rua Nove de Novembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Landri Sales",
   "uf": "PI",
-  "ibge": "2205607"
+  "ibge": "2205607",
+  "latitude": "-7.2641858",
+  "longitude": "-43.9282983"
 }

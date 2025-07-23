@@ -5,5 +5,7 @@
   "bairro": "Padre José de Anchieta",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "45.7093519",
+  "longitude": "13.8738185"
 }
