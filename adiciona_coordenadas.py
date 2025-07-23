@@ -11,11 +11,16 @@ from selenium.webdriver.chrome.service import Service
 from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut, GeocoderQuotaExceeded
 from geopy.extra.rate_limiter import RateLimiter
+import requests
+from dotenv import load_dotenv
 
 DIRETORIO_CEPS = os.path.join(os.path.dirname(__file__), 'cep')
 BATCH_SIZE = 4000
 
 geocode_with_delay = None
+
+load_dotenv()
+AWESOME_API_TOKEN = os.getenv('AWESOME_API_TOKEN')
 
 def obter_coordenadas_nominatim(cep, dados):
     print(f"[API NOMINATIM] Buscando coordenadas para o CEP: {cep}")
@@ -40,6 +45,29 @@ def obter_coordenadas_nominatim(cep, dados):
             continue
 
     return None
+
+def obter_coordenadas_awesomeapi(cep):
+    print(f"[AWESOMEAPI] Buscando coordenadas para o CEP: {cep}")
+    if not AWESOME_API_TOKEN:
+        print("[AWESOMEAPI] AWESOME_API_TOKEN não está configurado.")
+        return None
+    
+    url = f"https://cep.awesomeapi.com.br/json/{cep}?token={AWESOME_API_TOKEN}"
+    try:
+        response = requests.get(url, timeout=5)
+        response.raise_for_status()
+        data = response.json()
+        
+        if data and data.get('lat') and data.get('lng'):
+            return {'latitude': str(data['lat']), 'longitude': str(data['lng'])}
+        else:
+            return None
+    except requests.exceptions.Timeout:
+        print(f"[AWESOMEAPI] Timeout ao buscar {cep}.")
+        return None
+    except requests.exceptions.RequestException as e:
+        print(f"[AWESOMEAPI] Erro ao buscar {cep}")
+        return None
 
 def obter_coordenadas_site_principal(cep, navegador):
     print(f"[SCRAPING 1] Tentando buscar coordenadas para o cep {cep} no site principal...")
@@ -132,6 +160,11 @@ def obter_coordenadas_cep(cep, dados, navegador):
     info = obter_coordenadas_nominatim(cep, dados)
     if info:
         return info
+    
+    info = obter_coordenadas_awesomeapi(cep)
+    if info:
+        return info
+
     info = obter_coordenadas_site_principal(cep, navegador)
     if info:
         return info
