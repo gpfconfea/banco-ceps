@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova União",
   "uf": "RO",
-  "ibge": "1101435"
+  "ibge": "1101435",
+  "latitude": "-22.9912442",
+  "longitude": "-43.3654969"
 }

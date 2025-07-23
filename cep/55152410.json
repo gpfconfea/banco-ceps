@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Belo Jardim",
   "uf": "PE",
-  "ibge": "2601706"
+  "ibge": "2601706",
+  "latitude": "-8.3383285",
+  "longitude": "-36.4353841"
 }

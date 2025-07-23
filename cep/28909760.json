@@ -5,5 +5,7 @@
   "bairro": "Manoel Correa",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "latitude": "-22.9027829",
+  "longitude": "-42.043575"
 }

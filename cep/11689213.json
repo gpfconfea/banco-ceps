@@ -6,5 +6,7 @@
   "bairro": "Estufa I",
   "localidade": "Ubatuba",
   "uf": "SP",
-  "ibge": "3555406"
+  "ibge": "3555406",
+  "latitude": "-23.4468118",
+  "longitude": "-45.0768374"
 }

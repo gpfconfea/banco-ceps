@@ -1,9 +1,11 @@
 {
   "cep": "37500901",
   "logradouro": "Rua Antônio Simão Mauad",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "latitude": "-22.4210194",
+  "longitude": "-45.4543365"
 }

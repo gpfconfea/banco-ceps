@@ -5,5 +5,7 @@
   "bairro": "Jardim Panamericano Condominio Empresarial (Área D)",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4476792",
+  "longitude": "-47.4238337"
 }

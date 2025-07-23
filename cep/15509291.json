@@ -5,5 +5,7 @@
   "bairro": "Jardim Barcelona",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.3875259",
+  "longitude": "-49.983894"
 }

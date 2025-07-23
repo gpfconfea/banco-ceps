@@ -5,5 +5,7 @@
   "bairro": "Vila Costa",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0238133",
+  "longitude": "-45.5838173"
 }

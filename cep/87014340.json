@@ -5,5 +5,7 @@
   "bairro": "Jardim Laodiceia",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4385456",
+  "longitude": "-51.9493974"
 }

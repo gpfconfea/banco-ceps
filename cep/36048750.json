@@ -5,5 +5,7 @@
   "bairro": "Vale do Amanhecer",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.7090431",
+  "longitude": "-43.3306678"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Neusa Maria",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0227146",
+  "longitude": "-45.5433535"
 }

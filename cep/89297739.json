@@ -5,5 +5,7 @@
   "bairro": "Jardim Hantschel",
   "localidade": "Rio Negrinho",
   "uf": "SC",
-  "ibge": "4215000"
+  "ibge": "4215000",
+  "latitude": "-26.2506006",
+  "longitude": "-49.5319425"
 }

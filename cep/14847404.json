@@ -6,5 +6,7 @@
   "bairro": "Residencial Alpheu Bellodi",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.369682",
+  "longitude": "-48.2460688"
 }

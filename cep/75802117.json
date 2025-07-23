@@ -5,5 +5,7 @@
   "bairro": "Vila Paraíso II",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "latitude": "-17.9029613",
+  "longitude": "-51.7269976"
 }

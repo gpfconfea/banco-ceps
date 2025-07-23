@@ -1,9 +1,11 @@
 {
   "cep": "89822970",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cambuinzal",
   "localidade": "Xanxerê",
   "uf": "SC",
-  "ibge": "4219507"
+  "ibge": "4219507",
+  "latitude": "-26.7110423",
+  "longitude": "-52.5075222"
 }

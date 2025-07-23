@@ -1,9 +1,11 @@
 {
   "cep": "28975970",
   "logradouro": "Rua João Alberto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Morro Grande",
   "localidade": "Araruama",
   "uf": "RJ",
-  "ibge": "3300209"
+  "ibge": "3300209",
+  "latitude": "-22.8732325",
+  "longitude": "-42.2811402"
 }

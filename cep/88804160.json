@@ -5,5 +5,7 @@
   "bairro": "Santa Bárbara",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6898817",
+  "longitude": "-49.3863501"
 }

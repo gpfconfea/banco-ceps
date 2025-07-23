@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sério",
   "uf": "RS",
-  "ibge": "4320453"
+  "ibge": "4320453",
+  "latitude": "-29.3875631",
+  "longitude": "-52.2675193"
 }

@@ -5,5 +5,7 @@
   "bairro": "Serra do Cipó",
   "localidade": "Santana do Riacho",
   "uf": "MG",
-  "ibge": "3159001"
+  "ibge": "3159001",
+  "latitude": "-19.3361662",
+  "longitude": "-43.6281841"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Progresso",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7346565",
+  "longitude": "-46.680776"
 }

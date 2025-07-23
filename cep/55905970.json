@@ -1,9 +1,11 @@
 {
   "cep": "55905970",
   "logradouro": "Avenida Goiana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tejucopapo",
   "localidade": "Goiana",
   "uf": "PE",
-  "ibge": "2606200"
+  "ibge": "2606200",
+  "latitude": "-7.6023771",
+  "longitude": "-34.9001421"
 }

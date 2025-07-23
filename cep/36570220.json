@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Viçosa",
   "uf": "MG",
-  "ibge": "3171303"
+  "ibge": "3171303",
+  "latitude": "-20.7583107",
+  "longitude": "-42.8785716"
 }

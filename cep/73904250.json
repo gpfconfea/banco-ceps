@@ -5,5 +5,7 @@
   "bairro": "Bela Vista II",
   "localidade": "Posse",
   "uf": "GO",
-  "ibge": "5218300"
+  "ibge": "5218300",
+  "latitude": "-14.0715857",
+  "longitude": "-46.33865"
 }

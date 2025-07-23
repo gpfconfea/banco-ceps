@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Sapiranga",
   "uf": "RS",
-  "ibge": "4319901"
+  "ibge": "4319901",
+  "latitude": "-29.634561",
+  "longitude": "-51.0023358"
 }

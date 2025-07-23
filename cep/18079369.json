@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Imperatriz",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.424358",
+  "longitude": "-47.4591814"
 }

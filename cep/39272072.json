@@ -6,5 +6,7 @@
   "bairro": "Industrial",
   "localidade": "Pirapora",
   "uf": "MG",
-  "ibge": "3151206"
+  "ibge": "3151206",
+  "latitude": "-17.3248904",
+  "longitude": "-44.9030312"
 }

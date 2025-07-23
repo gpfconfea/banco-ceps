@@ -1,9 +1,11 @@
 {
   "cep": "06407901",
   "logradouro": "Estrada Doutor Cícero Borges de Morais",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Universal",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.495549",
+  "longitude": "-46.9106996"
 }

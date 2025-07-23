@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Fé",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "latitude": "-16.6336086",
+  "longitude": "-49.5289723"
 }

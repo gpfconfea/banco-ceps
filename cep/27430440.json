@@ -5,5 +5,7 @@
   "bairro": "Alto Paraíso",
   "localidade": "Quatis",
   "uf": "RJ",
-  "ibge": "3304128"
+  "ibge": "3304128",
+  "latitude": "-22.3026478",
+  "longitude": "-44.1887826"
 }

@@ -5,5 +5,7 @@
   "bairro": "Rio Madeira",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.7354838",
+  "longitude": "-63.8746292"
 }

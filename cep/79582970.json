@@ -1,9 +1,11 @@
 {
   "cep": "79582970",
   "logradouro": "Avenida Inocência",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Pedro",
   "localidade": "Inocência",
   "uf": "MS",
-  "ibge": "5004403"
+  "ibge": "5004403",
+  "latitude": "-19.9232871",
+  "longitude": "-51.9420254"
 }

@@ -5,5 +5,7 @@
   "bairro": "Imperador",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-25.7695321",
+  "longitude": "-48.5330995"
 }

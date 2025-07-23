@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "latitude": "-16.7357264",
+  "longitude": "-49.2830864"
 }

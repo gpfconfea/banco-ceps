@@ -5,5 +5,7 @@
   "bairro": "Araras",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "latitude": "-22.4342459",
+  "longitude": "-42.9686619"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Salgado",
   "uf": "SE",
-  "ibge": "2806206"
+  "ibge": "2806206",
+  "latitude": "-11.0327599",
+  "longitude": "-37.4743152"
 }

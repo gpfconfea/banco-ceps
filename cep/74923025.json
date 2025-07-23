@@ -5,5 +5,7 @@
   "bairro": "Chácaras São Pedro",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7792555",
+  "longitude": "-49.2246199"
 }

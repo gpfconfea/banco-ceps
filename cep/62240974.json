@@ -1,9 +1,11 @@
 {
   "cep": "62240974",
   "logradouro": "Rua Gregório Pereira de Sousa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "América",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "latitude": "-4.4430301",
+  "longitude": "-40.799121"
 }

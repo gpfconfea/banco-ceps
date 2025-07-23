@@ -1,9 +1,11 @@
 {
   "cep": "07141900",
   "logradouro": "Rua Jamil João Zarif",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Capri",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4195333",
+  "longitude": "-46.4835861"
 }

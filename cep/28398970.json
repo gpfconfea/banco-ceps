@@ -1,9 +1,11 @@
 {
   "cep": "28398970",
   "logradouro": "Rua João Antônio da Costa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Clara",
   "localidade": "Porciúncula",
   "uf": "RJ",
-  "ibge": "3304102"
+  "ibge": "3304102",
+  "latitude": "-20.8203831",
+  "longitude": "-41.9061128"
 }

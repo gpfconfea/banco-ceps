@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.7130925",
+  "longitude": "-43.5724825"
 }

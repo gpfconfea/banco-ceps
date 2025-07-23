@@ -6,5 +6,7 @@
   "bairro": "Vila Aparecida",
   "localidade": "Ipeúna",
   "uf": "SP",
-  "ibge": "3521101"
+  "ibge": "3521101",
+  "latitude": "-22.4331293",
+  "longitude": "-47.7114706"
 }

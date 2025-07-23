@@ -5,5 +5,7 @@
   "bairro": "Tabuleiro",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-7.3059455",
+  "longitude": "-38.9437405"
 }

@@ -5,5 +5,7 @@
   "bairro": "Meu Cantinho",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5730074",
+  "longitude": "-46.3265782"
 }

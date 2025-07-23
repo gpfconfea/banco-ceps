@@ -5,5 +5,7 @@
   "bairro": "Pico do Amor",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6085603",
+  "longitude": "-56.0813945"
 }

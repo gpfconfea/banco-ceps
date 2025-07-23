@@ -1,9 +1,11 @@
 {
   "cep": "97620970",
   "logradouro": "Estrada de Beluno",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Beluno",
   "localidade": "São Francisco de Assis",
   "uf": "RS",
-  "ibge": "4318101"
+  "ibge": "4318101",
+  "latitude": "-29.4783654",
+  "longitude": "-54.9680338"
 }

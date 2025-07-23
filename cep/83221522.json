@@ -5,5 +5,7 @@
   "bairro": "Rocio",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.5573718",
+  "longitude": "-48.550197"
 }

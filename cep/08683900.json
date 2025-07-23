@@ -1,9 +1,11 @@
 {
   "cep": "08683900",
   "logradouro": "Rua Soldado Edivaldo Tavares de Assunção",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Maria Helena",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5287811",
+  "longitude": "-46.3169095"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Rene",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5369741",
+  "longitude": "-47.1315558"
 }

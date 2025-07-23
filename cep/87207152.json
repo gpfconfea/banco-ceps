@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Ana",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "-23.6803188",
+  "longitude": "-52.6181175"
 }

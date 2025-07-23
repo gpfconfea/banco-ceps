@@ -5,5 +5,7 @@
   "bairro": "Jardim Jequitibá",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1181515",
+  "longitude": "-51.4357901"
 }

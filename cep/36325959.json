@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tiradentes",
   "uf": "MG",
-  "ibge": "3168804"
+  "ibge": "3168804",
+  "latitude": "-21.1089963",
+  "longitude": "-44.1741465"
 }

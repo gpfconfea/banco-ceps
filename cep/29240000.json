@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alfredo Chaves",
   "uf": "ES",
-  "ibge": "3200300"
+  "ibge": "3200300",
+  "latitude": "-20.6356507",
+  "longitude": "-40.7484424"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brochier",
   "uf": "RS",
-  "ibge": "4302659"
+  "ibge": "4302659",
+  "latitude": "-29.5539731",
+  "longitude": "-51.5957906"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "47690970",
   "logradouro": "Rua Santa Cruz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Coribe",
   "uf": "BA",
-  "ibge": "2909109"
+  "ibge": "2909109",
+  "latitude": "-13.8282783",
+  "longitude": "-44.4519022"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "77378970",
   "logradouro": "Avenida 26 de Julho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Chapada da Natividade",
   "uf": "TO",
-  "ibge": "1705102"
+  "ibge": "1705102",
+  "latitude": "-11.6102153",
+  "longitude": "-47.7479829"
 }

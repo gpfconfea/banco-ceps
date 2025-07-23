@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boninal",
   "uf": "BA",
-  "ibge": "2904001"
+  "ibge": "2904001",
+  "latitude": "-12.7099908",
+  "longitude": "-41.8290683"
 }

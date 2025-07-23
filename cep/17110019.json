@@ -5,5 +5,7 @@
   "bairro": "Tibiriçá",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.6200292",
+  "longitude": "-48.7880043"
 }

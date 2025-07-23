@@ -5,5 +5,7 @@
   "bairro": "Presidente Juscelino",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.3933812",
+  "longitude": "-45.9566209"
 }

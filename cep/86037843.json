@@ -5,5 +5,7 @@
   "bairro": "Loteamento Chamonix",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.315678",
+  "longitude": "-51.1181534"
 }

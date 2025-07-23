@@ -5,5 +5,7 @@
   "bairro": "Manoel Bezerra Lopes",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.3057721",
+  "longitude": "-35.9615536"
 }

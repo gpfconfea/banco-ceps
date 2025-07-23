@@ -5,5 +5,7 @@
   "bairro": "Prolongamento Jardim Aeroporto II",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5852664",
+  "longitude": "-47.3679865"
 }

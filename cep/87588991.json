@@ -1,9 +1,11 @@
 {
   "cep": "87588991",
   "logradouro": "Avenida São Jorge",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paulistânia",
   "localidade": "Alto Piquiri",
   "uf": "PR",
-  "ibge": "4100707"
+  "ibge": "4100707",
+  "latitude": "-24.1560436",
+  "longitude": "-53.3744996"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4629604",
+  "longitude": "-46.3170573"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29244981",
   "logradouro": "Estrada Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibitiruí",
   "localidade": "Alfredo Chaves",
   "uf": "ES",
-  "ibge": "3200300"
+  "ibge": "3200300",
+  "latitude": "-20.4983551",
+  "longitude": "-40.7362919"
 }

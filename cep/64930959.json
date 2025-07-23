@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gilbués",
   "uf": "PI",
-  "ibge": "2204402"
+  "ibge": "2204402",
+  "latitude": "-9.8323338",
+  "longitude": "-45.3423427"
 }

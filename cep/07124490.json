@@ -5,5 +5,7 @@
   "bairro": "Vila Itapoan",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4287623",
+  "longitude": "-46.5340403"
 }

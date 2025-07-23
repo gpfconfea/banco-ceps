@@ -1,9 +1,11 @@
 {
   "cep": "44590959",
   "logradouro": "Praça Ápio Medrado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Teresinha",
   "uf": "BA",
-  "ibge": "2928505"
+  "ibge": "2928505",
+  "latitude": "-12.7775827",
+  "longitude": "-39.5378926"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Cidade Universitária",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.1609627",
+  "longitude": "-34.8429527"
 }

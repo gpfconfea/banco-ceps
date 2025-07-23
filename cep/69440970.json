@@ -1,9 +1,11 @@
 {
   "cep": "69440970",
   "logradouro": "Rua Manoel Pinto Brandão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Anori",
   "uf": "AM",
-  "ibge": "1300102"
+  "ibge": "1300102",
+  "latitude": "-3.7439888",
+  "longitude": "-61.6586992"
 }

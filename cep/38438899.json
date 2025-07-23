@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Uberlândia",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.9361871",
+  "longitude": "-48.2442659"
 }

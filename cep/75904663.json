@@ -5,5 +5,7 @@
   "bairro": "Santo Agostinho",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-17.7847396",
+  "longitude": "-50.9055998"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "61760903",
   "logradouro": "Rodovia CE-040 Quilômetro 22",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pires Façanha",
   "localidade": "Eusébio",
   "uf": "CE",
-  "ibge": "2304285"
+  "ibge": "2304285",
+  "latitude": "-3.8890027",
+  "longitude": "-38.4546562"
 }

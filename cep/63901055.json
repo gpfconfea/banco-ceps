@@ -5,5 +5,7 @@
   "bairro": "Planalto Renascer",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.9589743",
+  "longitude": "-39.0318581"
 }

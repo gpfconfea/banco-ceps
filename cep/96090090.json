@@ -5,5 +5,7 @@
   "bairro": "Laranjal",
   "localidade": "Pelotas",
   "uf": "RS",
-  "ibge": "4314407"
+  "ibge": "4314407",
+  "latitude": "-31.7705571",
+  "longitude": "-52.2322088"
 }

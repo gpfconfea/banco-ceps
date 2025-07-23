@@ -5,5 +5,7 @@
   "bairro": "São Gerardo",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.73179",
+  "longitude": "-38.5524757"
 }

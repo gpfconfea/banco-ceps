@@ -5,5 +5,7 @@
   "bairro": "Jardim Real",
   "localidade": "Cubatão",
   "uf": "SP",
-  "ibge": "3513504"
+  "ibge": "3513504",
+  "latitude": "-23.923569",
+  "longitude": "-46.4305172"
 }
