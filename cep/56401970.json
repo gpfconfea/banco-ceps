@@ -1,9 +1,11 @@
 {
   "cep": "56401970",
   "logradouro": "Vila de Carqueja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado de Carqueja",
   "localidade": "Floresta",
   "uf": "PE",
-  "ibge": "2605707"
+  "ibge": "2605707",
+  "latitude": "-7.60565",
+  "longitude": "-37.3125"
 }

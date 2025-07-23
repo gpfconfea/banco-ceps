@@ -5,5 +5,7 @@
   "bairro": "Paraíso Dourado",
   "localidade": "Guaiçara",
   "uf": "SP",
-  "ibge": "3517208"
+  "ibge": "3517208",
+  "latitude": "-21.47675",
+  "longitude": "-49.69573"
 }

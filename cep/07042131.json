@@ -5,5 +5,7 @@
   "bairro": "Vila Flora",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-22.950619",
+  "longitude": "-45.4191981"
 }

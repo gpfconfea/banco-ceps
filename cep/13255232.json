@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Rio das Flores",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-22.98991",
+  "longitude": "-46.82783"
 }

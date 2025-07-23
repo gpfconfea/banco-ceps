@@ -1,9 +1,11 @@
 {
   "cep": "99945970",
   "logradouro": "Estrada para Vitória",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vitória",
   "localidade": "Ibiaçá",
   "uf": "RS",
-  "ibge": "4309803"
+  "ibge": "4309803",
+  "latitude": "-28.17715",
+  "longitude": "-51.75981"
 }

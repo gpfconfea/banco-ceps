@@ -6,5 +6,7 @@
   "bairro": "Residencial Cananéia",
   "localidade": "Quatá",
   "uf": "SP",
-  "ibge": "3541703"
+  "ibge": "3541703",
+  "latitude": "-22.23685",
+  "longitude": "-50.71115"
 }

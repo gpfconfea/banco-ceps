@@ -5,5 +5,7 @@
   "bairro": "Residencial Lívia",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-23.4706693",
+  "longitude": "-47.4140639"
 }

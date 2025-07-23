@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Campos do Conde III",
   "localidade": "Tremembé",
   "uf": "SP",
-  "ibge": "3554805"
+  "ibge": "3554805",
+  "latitude": "-23.44804",
+  "longitude": "-46.59326"
 }

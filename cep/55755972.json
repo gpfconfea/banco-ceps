@@ -1,9 +1,11 @@
 {
   "cep": "55755972",
   "logradouro": "Sítio Junco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Junco",
   "localidade": "Casinhas",
   "uf": "PE",
-  "ibge": "2604155"
+  "ibge": "2604155",
+  "latitude": "-4.1870697",
+  "longitude": "-40.9421975"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58328971",
   "logradouro": "Vila Una de São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Pedras de Fogo",
   "uf": "PB",
-  "ibge": "2511202"
+  "ibge": "2511202",
+  "latitude": "-7.329667",
+  "longitude": "-35.1832622"
 }

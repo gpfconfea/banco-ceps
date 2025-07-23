@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Guilhermina",
   "localidade": "Pirajuí",
   "uf": "SP",
-  "ibge": "3538907"
+  "ibge": "3538907",
+  "latitude": "-23.6524",
+  "longitude": "-46.66353"
 }

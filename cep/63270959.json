@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porteiras",
   "uf": "CE",
-  "ibge": "2311108"
+  "ibge": "2311108",
+  "latitude": "-7.53629",
+  "longitude": "-39.11785"
 }

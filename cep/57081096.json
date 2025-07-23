@@ -5,5 +5,7 @@
   "bairro": "Tabuleiro do Martins",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-5.8409124",
+  "longitude": "-35.2589551"
 }

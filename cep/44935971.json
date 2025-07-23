@@ -1,9 +1,11 @@
 {
   "cep": "44935971",
   "logradouro": "Travessa do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campo Formoso",
   "localidade": "Campo Formoso",
   "uf": "BA",
-  "ibge": "2906006"
+  "ibge": "2906006",
+  "latitude": "-11.2960286",
+  "longitude": "-41.9874343"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Real",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "latitude": "-22.5228573",
+  "longitude": "-41.9737258"
 }

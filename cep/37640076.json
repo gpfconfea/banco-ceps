@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-20.55993",
+  "longitude": "-44.86994"
 }

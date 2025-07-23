@@ -5,5 +5,7 @@
   "bairro": "Jardim São Bento Novo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.68289",
+  "longitude": "-46.78399"
 }

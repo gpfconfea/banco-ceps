@@ -1,9 +1,11 @@
 {
   "cep": "29830985",
   "logradouro": "Estrada Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Gonçalo",
   "localidade": "Nova Venécia",
   "uf": "ES",
-  "ibge": "3203908"
+  "ibge": "3203908",
+  "latitude": "-18.7120945",
+  "longitude": "-40.6485691"
 }

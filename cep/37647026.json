@@ -5,5 +5,7 @@
   "bairro": "Barreiro",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-18.55371",
+  "longitude": "-46.53654"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vitor Meireles",
   "uf": "SC",
-  "ibge": "4219358"
+  "ibge": "4219358",
+  "latitude": "-26.88048",
+  "longitude": "-49.83337"
 }

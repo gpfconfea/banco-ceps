@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Juramento",
   "uf": "MG",
-  "ibge": "3136801"
+  "ibge": "3136801",
+  "latitude": "-16.849986",
+  "longitude": "-43.587607"
 }

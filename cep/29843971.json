@@ -1,9 +1,11 @@
 {
   "cep": "29843971",
   "logradouro": "Rua Vasco Fernandes Coutinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Vila Pavão",
   "uf": "ES",
-  "ibge": "3205150"
+  "ibge": "3205150",
+  "latitude": "-20.1428225",
+  "longitude": "-40.2501121"
 }

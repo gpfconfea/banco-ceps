@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeirão Pires",
   "uf": "SP",
-  "ibge": "3543303"
+  "ibge": "3543303",
+  "latitude": "-22.8308947",
+  "longitude": "-47.2717458"
 }

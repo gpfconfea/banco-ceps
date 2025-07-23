@@ -1,9 +1,11 @@
 {
   "cep": "37253970",
   "logradouro": "Praça Nossa Senhora de Nazaré",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nazaré de Minas",
   "localidade": "Nepomuceno",
   "uf": "MG",
-  "ibge": "3144607"
+  "ibge": "3144607",
+  "latitude": "-21.2178048",
+  "longitude": "-44.6128261"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial João Alberto",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-24.1311556",
+  "longitude": "-46.7019153"
 }

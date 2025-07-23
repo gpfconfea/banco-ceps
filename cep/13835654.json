@@ -5,5 +5,7 @@
   "bairro": "Jardim Regina",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "latitude": "-22.32638",
+  "longitude": "-47.17851"
 }

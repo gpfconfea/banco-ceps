@@ -5,5 +5,7 @@
   "bairro": "Residencial Vila Di Capri",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-23.5026015",
+  "longitude": "-46.503526"
 }

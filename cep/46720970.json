@@ -1,9 +1,11 @@
 {
   "cep": "46720970",
   "logradouro": "Travessa do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mocambo",
   "localidade": "Ibitiara",
   "uf": "BA",
-  "ibge": "2913002"
+  "ibge": "2913002",
+  "latitude": "-12.9348975",
+  "longitude": "-38.4826519"
 }

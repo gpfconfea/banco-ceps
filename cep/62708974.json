@@ -1,9 +1,11 @@
 {
   "cep": "62708974",
   "logradouro": "Rua Romeu Mesquita",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Esperança",
   "localidade": "Canindé",
   "uf": "CE",
-  "ibge": "2302800"
+  "ibge": "2302800",
+  "latitude": "-4.3593167",
+  "longitude": "-39.314783"
 }

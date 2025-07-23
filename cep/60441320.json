@@ -5,5 +5,7 @@
   "bairro": "Demócrito Rocha",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-2.9112716",
+  "longitude": "-41.7798202"
 }

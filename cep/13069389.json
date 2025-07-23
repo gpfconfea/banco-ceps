@@ -5,5 +5,7 @@
   "bairro": "Residencial Quilombo II",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.6214421",
+  "longitude": "-47.1859141"
 }

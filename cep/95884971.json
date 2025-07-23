@@ -1,9 +1,11 @@
 {
   "cep": "95884971",
   "logradouro": "Rua João Pedro Malmann",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Delfina",
   "localidade": "Estrela",
   "uf": "RS",
-  "ibge": "4307807"
+  "ibge": "4307807",
+  "latitude": "-29.57586",
+  "longitude": "-51.94932"
 }

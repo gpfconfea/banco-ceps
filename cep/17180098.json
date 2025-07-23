@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília",
   "localidade": "Iacanga",
   "uf": "SP",
-  "ibge": "3519105"
+  "ibge": "3519105",
+  "latitude": "-21.88747",
+  "longitude": "-49.03042"
 }

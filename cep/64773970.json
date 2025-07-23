@@ -1,9 +1,11 @@
 {
   "cep": "64773970",
   "logradouro": "Praça Santa Teresinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Várzea Branca",
   "uf": "PI",
-  "ibge": "2211357"
+  "ibge": "2211357",
+  "latitude": "-23.0318669",
+  "longitude": "-45.560783"
 }

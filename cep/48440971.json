@@ -1,9 +1,11 @@
 {
   "cep": "48440971",
   "logradouro": "Rua do Campo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ribeira do Amparo",
   "uf": "BA",
-  "ibge": "2926509"
+  "ibge": "2926509",
+  "latitude": "-10.8342511",
+  "longitude": "-38.2935724"
 }

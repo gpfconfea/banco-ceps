@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Trombas",
   "uf": "GO",
-  "ibge": "5221452"
+  "ibge": "5221452",
+  "latitude": "-16.7182621",
+  "longitude": "-49.085138"
 }

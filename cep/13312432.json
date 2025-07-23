@@ -5,5 +5,7 @@
   "bairro": "Jardim Encanto do Jacuhu",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.26186",
+  "longitude": "-47.31039"
 }

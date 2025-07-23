@@ -1,9 +1,11 @@
 {
   "cep": "63607975",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Catolé da Pista",
   "localidade": "Piquet Carneiro",
   "uf": "CE",
-  "ibge": "2310902"
+  "ibge": "2310902",
+  "latitude": "-5.8051014",
+  "longitude": "-39.4182171"
 }

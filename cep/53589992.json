@@ -1,9 +1,11 @@
 {
   "cep": "53589992",
   "logradouro": "Estrada de Engenho Novo  - Zona Rural",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Abreu e Lima",
   "uf": "PE",
-  "ibge": "2600054"
+  "ibge": "2600054",
+  "latitude": "-7.8498",
+  "longitude": "-35.23825"
 }

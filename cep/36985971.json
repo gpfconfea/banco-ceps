@@ -1,9 +1,11 @@
 {
   "cep": "36985971",
   "logradouro": "Avenida José Neringer Perraud",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Penha do Coco",
   "localidade": "Chalé",
   "uf": "MG",
-  "ibge": "3116001"
+  "ibge": "3116001",
+  "latitude": "-20.006192",
+  "longitude": "-41.5861029"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58499970",
   "logradouro": "Rua Nossa Senhora da Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mata Virgem",
   "localidade": "Umbuzeiro",
   "uf": "PB",
-  "ibge": "2517001"
+  "ibge": "2517001",
+  "latitude": "-7.7407392",
+  "longitude": "-35.792422"
 }

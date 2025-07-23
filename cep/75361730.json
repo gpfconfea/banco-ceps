@@ -5,5 +5,7 @@
   "bairro": "Setor Sobradinho",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.6254",
+  "longitude": "-49.32344"
 }

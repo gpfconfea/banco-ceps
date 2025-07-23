@@ -1,9 +1,11 @@
 {
   "cep": "45935970",
   "logradouro": "Rua Vindilino Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Taquarinha",
   "localidade": "Mucuri",
   "uf": "BA",
-  "ibge": "2922003"
+  "ibge": "2922003",
+  "latitude": "-17.9435299",
+  "longitude": "-40.2364146"
 }

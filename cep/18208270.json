@@ -5,5 +5,7 @@
   "bairro": "Vila Rio Branco",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.4536917",
+  "longitude": "-46.5407659"
 }

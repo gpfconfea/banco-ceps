@@ -1,9 +1,11 @@
 {
   "cep": "45213975",
   "logradouro": "Praça do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Oriente Novo",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-13.860509",
+  "longitude": "-40.0850925"
 }

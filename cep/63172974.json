@@ -1,9 +1,11 @@
 {
   "cep": "63172974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pajeú",
   "localidade": "Araripe",
   "uf": "CE",
-  "ibge": "2301307"
+  "ibge": "2301307",
+  "latitude": "-7.2123335",
+  "longitude": "-40.1347464"
 }

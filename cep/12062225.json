@@ -5,5 +5,7 @@
   "bairro": "Residencial São Charbel",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-22.9976328",
+  "longitude": "-45.551321"
 }

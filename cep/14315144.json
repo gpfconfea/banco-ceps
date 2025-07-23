@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Batatais",
   "uf": "SP",
-  "ibge": "3505906"
+  "ibge": "3505906",
+  "latitude": "-21.98518",
+  "longitude": "-46.80548"
 }

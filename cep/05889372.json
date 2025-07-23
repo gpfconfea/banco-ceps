@@ -5,5 +5,7 @@
   "bairro": "Parque Fernanda",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.79226",
+  "longitude": "-46.74038"
 }

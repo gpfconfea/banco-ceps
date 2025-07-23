@@ -1,9 +1,11 @@
 {
   "cep": "98758990",
   "logradouro": "Av Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Nova Ramada",
   "uf": "RS",
-  "ibge": "4313334"
+  "ibge": "4313334",
+  "latitude": "-31.60081",
+  "longitude": "-52.2636"
 }

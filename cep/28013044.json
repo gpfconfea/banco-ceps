@@ -5,5 +5,7 @@
   "bairro": "Parque João Maria",
   "localidade": "Campos dos Goytacazes",
   "uf": "RJ",
-  "ibge": "3301009"
+  "ibge": "3301009",
+  "latitude": "-23.0062623",
+  "longitude": "-44.3171066"
 }

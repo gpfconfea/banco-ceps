@@ -1,9 +1,11 @@
 {
   "cep": "07150900",
   "logradouro": "Parque Piemonte",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Santos Dumont",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4070585",
+  "longitude": "-46.4691975"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "97648970",
   "logradouro": "Rua Bento Gonçalves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Encruzilhada",
   "localidade": "Maçambará",
   "uf": "RS",
-  "ibge": "4311718"
+  "ibge": "4311718",
+  "latitude": "-30.54512",
+  "longitude": "-52.52393"
 }

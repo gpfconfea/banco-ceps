@@ -5,5 +5,7 @@
   "bairro": "Residencial Guaporé I",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "latitude": "-22.81797",
+  "longitude": "-47.24461"
 }

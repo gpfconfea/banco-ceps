@@ -1,9 +1,11 @@
 {
   "cep": "56280974",
   "logradouro": "Praça da Igreja Nossa Senhora das Graças",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Bom Jardim do Araripe",
   "localidade": "Araripina",
   "uf": "PE",
-  "ibge": "2601102"
+  "ibge": "2601102",
+  "latitude": "-8.0489591",
+  "longitude": "-34.9013354"
 }

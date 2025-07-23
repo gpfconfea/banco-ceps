@@ -1,9 +1,11 @@
 {
   "cep": "48000991",
   "logradouro": "Rua Margem da Linha Férrea",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "latitude": "-12.1423",
+  "longitude": "-38.44462"
 }

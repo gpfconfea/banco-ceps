@@ -6,5 +6,7 @@
   "bairro": "Residencial Nova Iporá",
   "localidade": "Iporá",
   "uf": "GO",
-  "ibge": "5210208"
+  "ibge": "5210208",
+  "latitude": "-16.40806",
+  "longitude": "-51.10767"
 }

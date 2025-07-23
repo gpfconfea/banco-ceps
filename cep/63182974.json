@@ -1,9 +1,11 @@
 {
   "cep": "63182974",
   "logradouro": "Rua Maria Felícia do Espírito Santo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Estrela",
   "localidade": "Barbalha",
   "uf": "CE",
-  "ibge": "2301901"
+  "ibge": "2301901",
+  "latitude": "-7.28029",
+  "longitude": "-39.2676"
 }

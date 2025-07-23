@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Platina",
   "uf": "SP",
-  "ibge": "3539707"
+  "ibge": "3539707",
+  "latitude": "-23.55045",
+  "longitude": "-46.36282"
 }

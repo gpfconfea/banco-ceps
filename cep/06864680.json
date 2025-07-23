@@ -6,5 +6,7 @@
   "bairro": "Jardim Rosalina",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.73736",
+  "longitude": "-46.7997"
 }

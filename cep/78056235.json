@@ -5,5 +5,7 @@
   "bairro": "Serra Dourada",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-11.8544881",
+  "longitude": "-55.5138994"
 }

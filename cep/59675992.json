@@ -1,9 +1,11 @@
 {
   "cep": "59675992",
   "logradouro": "Av. Principal - Povoado de Córrego - Escola de Informática e Cidadania",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Grossos",
   "uf": "RN",
-  "ibge": "2404408"
+  "ibge": "2404408",
+  "latitude": "-4.89395",
+  "longitude": "-37.22796"
 }

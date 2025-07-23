@@ -6,5 +6,7 @@
   "bairro": "Jardim Araucária",
   "localidade": "Itaju",
   "uf": "SP",
-  "ibge": "3522000"
+  "ibge": "3522000",
+  "latitude": "-23.47469",
+  "longitude": "-46.61443"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "36855972",
   "logradouro": "Rua do Pôsto de Saúde Queirozes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Eugenópolis",
   "uf": "MG",
-  "ibge": "3124906"
+  "ibge": "3124906",
+  "latitude": "-18.64755",
+  "longitude": "-48.19267"
 }

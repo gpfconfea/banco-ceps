@@ -5,5 +5,7 @@
   "bairro": "Ouro Verde",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-6.4368793",
+  "longitude": "-43.9927011"
 }

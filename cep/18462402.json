@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-24.10237",
+  "longitude": "-49.31721"
 }

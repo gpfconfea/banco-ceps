@@ -1,9 +1,11 @@
 {
   "cep": "78818970",
   "logradouro": "Rua Governador Ponce de Arruda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Lourenço de Fátima",
   "localidade": "Juscimeira",
   "uf": "MT",
-  "ibge": "5105200"
+  "ibge": "5105200",
+  "latitude": "-16.3131353",
+  "longitude": "-54.9378021"
 }

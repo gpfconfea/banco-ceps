@@ -5,5 +5,7 @@
   "bairro": "Nova Timburi III",
   "localidade": "Timburi",
   "uf": "SP",
-  "ibge": "3554607"
+  "ibge": "3554607",
+  "latitude": "-23.20398",
+  "longitude": "-49.6035"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barão do Triunfo",
   "uf": "RS",
-  "ibge": "4301750"
+  "ibge": "4301750",
+  "latitude": "-30.38899",
+  "longitude": "-51.73883"
 }

@@ -5,5 +5,7 @@
   "bairro": "Villa Bella de Votorantim",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.54315",
+  "longitude": "-47.44849"
 }

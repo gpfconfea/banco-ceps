@@ -5,5 +5,7 @@
   "bairro": "Jardim Mairá",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.30551",
+  "longitude": "-51.1324"
 }

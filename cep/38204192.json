@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "Frutal",
   "uf": "MG",
-  "ibge": "3127107"
+  "ibge": "3127107",
+  "latitude": "-17.92894",
+  "longitude": "-41.91283"
 }

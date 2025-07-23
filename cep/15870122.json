@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Clécio Sanches Fernandes",
   "localidade": "Catiguá",
   "uf": "SP",
-  "ibge": "3511201"
+  "ibge": "3511201",
+  "latitude": "-21.04711",
+  "longitude": "-49.05603"
 }

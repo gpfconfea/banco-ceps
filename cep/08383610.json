@@ -5,5 +5,7 @@
   "bairro": "Jardim Vale do Sol",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.2627974",
+  "longitude": "-45.9146654"
 }

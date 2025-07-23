@@ -1,9 +1,11 @@
 {
   "cep": "44950971",
   "logradouro": "Praça da Rodagem",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boca D\"Água",
   "localidade": "Uibaí",
   "uf": "BA",
-  "ibge": "2932408"
+  "ibge": "2932408",
+  "latitude": "-11.37901",
+  "longitude": "-42.0959"
 }

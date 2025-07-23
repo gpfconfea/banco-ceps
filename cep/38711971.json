@@ -1,9 +1,11 @@
 {
   "cep": "38711971",
   "logradouro": "Rua Deoclécio de Matos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santana de Patos",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "latitude": "-18.8337783",
+  "longitude": "-46.5915966"
 }

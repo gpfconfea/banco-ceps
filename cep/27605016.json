@@ -5,5 +5,7 @@
   "bairro": "Canteiro",
   "localidade": "Valença",
   "uf": "RJ",
-  "ibge": "3306107"
+  "ibge": "3306107",
+  "latitude": "-22.27665",
+  "longitude": "-43.74206"
 }

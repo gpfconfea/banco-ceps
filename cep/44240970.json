@@ -1,9 +1,11 @@
 {
   "cep": "44240970",
   "logradouro": "Estrada da Boiada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mata da Aliança",
   "localidade": "Amélia Rodrigues",
   "uf": "BA",
-  "ibge": "2901106"
+  "ibge": "2901106",
+  "latitude": "-23.2511746",
+  "longitude": "-46.8662868"
 }

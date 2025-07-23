@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-25.0950766",
+  "longitude": "-50.1898681"
 }

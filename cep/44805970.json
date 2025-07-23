@@ -1,9 +1,11 @@
 {
   "cep": "44805970",
   "logradouro": "Rua Manoel João Lopes Guimarães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto Bonito",
   "localidade": "Mundo Novo",
   "uf": "BA",
-  "ibge": "2922102"
+  "ibge": "2922102",
+  "latitude": "-11.8545183",
+  "longitude": "-40.4717578"
 }

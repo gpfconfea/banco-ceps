@@ -5,5 +5,7 @@
   "bairro": "Macuco",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-23.4506597",
+  "longitude": "-47.5486643"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "28735973",
   "logradouro": "Rua Bento Manoel de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Penha",
   "localidade": "Quissamã",
   "uf": "RJ",
-  "ibge": "3304151"
+  "ibge": "3304151",
+  "latitude": "-22.15356",
+  "longitude": "-41.53274"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "89817971",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Fazenda Zandavalli",
   "localidade": "Guatambú",
   "uf": "SC",
-  "ibge": "4206652"
+  "ibge": "4206652",
+  "latitude": "-27.17298",
+  "longitude": "-50.80455"
 }

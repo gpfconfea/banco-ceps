@@ -5,5 +5,7 @@
   "bairro": "Santa Tereza",
   "localidade": "Tauá",
   "uf": "CE",
-  "ibge": "2313302"
+  "ibge": "2313302",
+  "latitude": "-5.86779",
+  "longitude": "-40.57108"
 }

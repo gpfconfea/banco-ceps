@@ -5,5 +5,7 @@
   "bairro": "Joaquim Távora",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "32.1993193",
+  "longitude": "-110.8931472"
 }

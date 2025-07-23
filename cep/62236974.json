@@ -1,9 +1,11 @@
 {
   "cep": "62236974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "latitude": "-4.5971581",
+  "longitude": "-41.1948484"
 }

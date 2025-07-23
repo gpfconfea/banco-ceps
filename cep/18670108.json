@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Nosso Teto",
   "localidade": "Areiópolis",
   "uf": "SP",
-  "ibge": "3503604"
+  "ibge": "3503604",
+  "latitude": "-23.24948",
+  "longitude": "-45.80512"
 }

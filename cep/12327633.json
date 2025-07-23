@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Terras de Santa Clara",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.2965197",
+  "longitude": "-45.9733461"
 }

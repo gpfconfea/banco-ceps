@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipanema",
   "localidade": "Fernandópolis",
   "uf": "SP",
-  "ibge": "3515509"
+  "ibge": "3515509",
+  "latitude": "-23.68745",
+  "longitude": "-46.50543"
 }

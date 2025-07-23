@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaberaba",
   "uf": "BA",
-  "ibge": "2914703"
+  "ibge": "2914703",
+  "latitude": "-12.53141",
+  "longitude": "-40.30746"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "75379959",
   "logradouro": "Avenida Antônio Gertudes de Freitas Quadra C Lote 3A",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Santo Antônio de Goiás",
   "uf": "GO",
-  "ibge": "5219738"
+  "ibge": "5219738",
+  "latitude": "-16.48434",
+  "longitude": "-49.30966"
 }
