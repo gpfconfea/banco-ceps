@@ -6,5 +6,7 @@
   "bairro": "Continental",
   "localidade": "Itapoá",
   "uf": "SC",
-  "ibge": "4208450"
+  "ibge": "4208450",
+  "latitude": "-26.1245389",
+  "longitude": "-48.6049114"
 }

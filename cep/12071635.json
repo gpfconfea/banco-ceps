@@ -5,5 +5,7 @@
   "bairro": "Chácara São Manoel",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0077508",
+  "longitude": "-45.5245743"
 }

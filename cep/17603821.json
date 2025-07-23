@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Eizi Hirano",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "latitude": "-21.952716",
+  "longitude": "-50.4840696"
 }

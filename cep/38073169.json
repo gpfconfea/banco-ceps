@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.7283403",
+  "longitude": "-47.88446"
 }

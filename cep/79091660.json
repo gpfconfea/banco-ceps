@@ -5,5 +5,7 @@
   "bairro": "Residencial Oliveira",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4741533",
+  "longitude": "-54.6616972"
 }

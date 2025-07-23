@@ -5,5 +5,7 @@
   "bairro": "Parque Ramos Freitas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4568914",
+  "longitude": "-46.6038622"
 }

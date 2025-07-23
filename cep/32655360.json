@@ -5,5 +5,7 @@
   "bairro": "Vila Alpina",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9769063",
+  "longitude": "-44.1691161"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62674974",
   "logradouro": "Trevo da Parada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pecém",
   "localidade": "São Gonçalo do Amarante",
   "uf": "CE",
-  "ibge": "2312403"
+  "ibge": "2312403",
+  "latitude": "-3.552888",
+  "longitude": "-38.8873932"
 }

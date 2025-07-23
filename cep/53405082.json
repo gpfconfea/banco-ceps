@@ -5,5 +5,7 @@
   "bairro": "Mirueira",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "latitude": "-21.773253",
+  "longitude": "-50.9560394"
 }

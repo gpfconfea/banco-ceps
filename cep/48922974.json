@@ -1,9 +1,11 @@
 {
   "cep": "48922974",
   "logradouro": "Praça Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Abóbora",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-9.8759148",
+  "longitude": "-40.2861236"
 }

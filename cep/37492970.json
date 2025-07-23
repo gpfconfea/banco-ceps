@@ -1,9 +1,11 @@
 {
   "cep": "37492970",
   "logradouro": "Avenida São Lourenço",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ribeiros",
   "localidade": "São Gonçalo do Sapucaí",
   "uf": "MG",
-  "ibge": "3162005"
+  "ibge": "3162005",
+  "latitude": "-21.9893685",
+  "longitude": "-45.5900505"
 }

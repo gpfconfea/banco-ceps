@@ -1,9 +1,11 @@
 {
   "cep": "83023991",
   "logradouro": "Rua Carlos Kusma",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "-25.7664",
+  "longitude": "-49.18299"
 }

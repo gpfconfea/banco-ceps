@@ -1,9 +1,11 @@
 {
   "cep": "39980972",
   "logradouro": "Rua Sérgio Martins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Águas Altas",
   "localidade": "Cachoeira de Pajeú",
   "uf": "MG",
-  "ibge": "3102704"
+  "ibge": "3102704",
+  "latitude": "-15.9247",
+  "longitude": "-41.3956336"
 }

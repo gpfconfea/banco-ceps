@@ -6,5 +6,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Patrocínio Paulista",
   "uf": "SP",
-  "ibge": "3536307"
+  "ibge": "3536307",
+  "latitude": "-20.63541",
+  "longitude": "-47.28041"
 }

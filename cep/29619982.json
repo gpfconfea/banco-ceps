@@ -1,9 +1,11 @@
 {
   "cep": "29619982",
   "logradouro": "Rua Domingos Vieira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sobreiro",
   "localidade": "Laranja da Terra",
   "uf": "ES",
-  "ibge": "3203163"
+  "ibge": "3203163",
+  "latitude": "-19.8241954",
+  "longitude": "-41.1136453"
 }

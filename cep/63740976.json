@@ -1,9 +1,11 @@
 {
   "cep": "63740976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Novo Oriente",
   "uf": "CE",
-  "ibge": "2309409"
+  "ibge": "2309409",
+  "latitude": "-6.3942071",
+  "longitude": "-41.9728209"
 }

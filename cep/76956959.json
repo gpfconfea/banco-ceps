@@ -1,9 +1,11 @@
 {
   "cep": "76956959",
   "logradouro": "Rua José dos Reis Filho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Novo Horizonte do Oeste",
   "uf": "RO",
-  "ibge": "1100502"
+  "ibge": "1100502",
+  "latitude": "-11.7071",
+  "longitude": "-61.99867"
 }

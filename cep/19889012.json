@@ -5,5 +5,7 @@
   "bairro": "Centro (Santo Antônio do Paranapanema)",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.9033341",
+  "longitude": "-50.4229074"
 }

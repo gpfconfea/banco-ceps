@@ -1,9 +1,11 @@
 {
   "cep": "62878974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cedro",
   "localidade": "Cedro",
   "uf": "CE",
-  "ibge": "2303808"
+  "ibge": "2303808",
+  "latitude": "1.2498441",
+  "longitude": "-51.1222945"
 }

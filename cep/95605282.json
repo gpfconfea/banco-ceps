@@ -5,5 +5,7 @@
   "bairro": "Medianeira",
   "localidade": "Taquara",
   "uf": "RS",
-  "ibge": "4321204"
+  "ibge": "4321204",
+  "latitude": "-30.0231607",
+  "longitude": "-51.0998757"
 }

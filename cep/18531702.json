@@ -6,5 +6,7 @@
   "bairro": "Mandissununga",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.1234133",
+  "longitude": "-47.6860046"
 }

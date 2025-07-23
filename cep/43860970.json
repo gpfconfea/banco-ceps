@@ -1,9 +1,11 @@
 {
   "cep": "43860970",
   "logradouro": "Rua do Cruzeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cinco Rios",
   "localidade": "São Sebastião do Passé",
   "uf": "BA",
-  "ibge": "2929503"
+  "ibge": "2929503",
+  "latitude": "-12.607083",
+  "longitude": "-38.5725343"
 }

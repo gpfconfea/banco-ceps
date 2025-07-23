@@ -5,5 +5,7 @@
   "bairro": "Lira",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-22.7257798",
+  "longitude": "-43.4528596"
 }

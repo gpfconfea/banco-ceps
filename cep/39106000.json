@@ -5,5 +5,7 @@
   "bairro": "Conselheiro Mata",
   "localidade": "Diamantina",
   "uf": "MG",
-  "ibge": "3121605"
+  "ibge": "3121605",
+  "latitude": "-18.2165",
+  "longitude": "-43.9063944"
 }

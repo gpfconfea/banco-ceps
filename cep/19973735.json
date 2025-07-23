@@ -6,5 +6,7 @@
   "bairro": "Residencial Ravênia",
   "localidade": "Palmital",
   "uf": "SP",
-  "ibge": "3535309"
+  "ibge": "3535309",
+  "latitude": "-22.79236",
+  "longitude": "-50.22704"
 }

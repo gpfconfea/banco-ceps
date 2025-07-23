@@ -6,5 +6,7 @@
   "bairro": "Vila Santo Antonio",
   "localidade": "Cordeirópolis",
   "uf": "SP",
-  "ibge": "3512407"
+  "ibge": "3512407",
+  "latitude": "-22.4800762",
+  "longitude": "-47.463523"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "87105970",
   "logradouro": "Avenida Antônio Santiago Gualda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito de Floriano (Floriano)",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.5253897",
+  "longitude": "-52.0502989"
 }

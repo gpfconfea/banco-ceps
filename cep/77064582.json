@@ -5,5 +5,7 @@
   "bairro": "Centro (Taquaralto)",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "latitude": "-10.2661954",
+  "longitude": "-48.3268682"
 }

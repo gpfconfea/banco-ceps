@@ -5,5 +5,7 @@
   "bairro": "Jardim Carolina",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-23.4499361",
+  "longitude": "-46.3066647"
 }

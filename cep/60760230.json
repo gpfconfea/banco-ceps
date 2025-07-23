@@ -5,5 +5,7 @@
   "bairro": "Prefeito José Walter",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-12.1533385",
+  "longitude": "-44.9997536"
 }

@@ -5,5 +5,7 @@
   "bairro": "Roseiral",
   "localidade": "Mutum",
   "uf": "MG",
-  "ibge": "3144003"
+  "ibge": "3144003",
+  "latitude": "-19.9284135",
+  "longitude": "-41.3615843"
 }

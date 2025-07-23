@@ -5,5 +5,7 @@
   "bairro": "Nova Cidade",
   "localidade": "Congonhas",
   "uf": "MG",
-  "ibge": "3118007"
+  "ibge": "3118007",
+  "latitude": "-20.49106",
+  "longitude": "-43.86764"
 }

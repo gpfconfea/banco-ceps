@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-16.384391",
+  "longitude": "-46.9087871"
 }

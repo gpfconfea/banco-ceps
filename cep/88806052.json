@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Esperança",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.7090188",
+  "longitude": "-49.4393428"
 }

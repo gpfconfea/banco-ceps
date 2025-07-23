@@ -1,9 +1,11 @@
 {
   "cep": "88125900",
   "logradouro": "Rua Geral Santa Teresa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Teresa",
   "localidade": "São Pedro de Alcântara",
   "uf": "SC",
-  "ibge": "4217253"
+  "ibge": "4217253",
+  "latitude": "-27.5723992",
+  "longitude": "-48.7543255"
 }

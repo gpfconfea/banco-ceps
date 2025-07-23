@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.9568245",
+  "longitude": "-39.0291561"
 }

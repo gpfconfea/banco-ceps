@@ -1,9 +1,11 @@
 {
   "cep": "24036900",
   "logradouro": "Rua Presidente Castelo Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "latitude": "-22.8847765",
+  "longitude": "-43.1165016"
 }

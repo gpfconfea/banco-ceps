@@ -1,9 +1,11 @@
 {
   "cep": "46865970",
   "logradouro": "Praça Mãe Santa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "João Amaro",
   "localidade": "Iaçu",
   "uf": "BA",
-  "ibge": "2911907"
+  "ibge": "2911907",
+  "latitude": "-12.7968425",
+  "longitude": "-40.356413"
 }

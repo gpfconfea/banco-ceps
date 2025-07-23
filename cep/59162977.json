@@ -1,9 +1,11 @@
 {
   "cep": "59162977",
   "logradouro": "Distrito Curral Novo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Curral Novo",
   "localidade": "São José de Mipibu",
   "uf": "RN",
-  "ibge": "2412203"
+  "ibge": "2412203",
+  "latitude": "-6.2551354",
+  "longitude": "-36.5143974"
 }

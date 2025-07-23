@@ -1,9 +1,11 @@
 {
   "cep": "57840970",
   "logradouro": "Rua Silvestre Péricles",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santana do Mundaú",
   "uf": "AL",
-  "ibge": "2708105"
+  "ibge": "2708105",
+  "latitude": "-9.171208",
+  "longitude": "-36.2231439"
 }

@@ -5,5 +5,7 @@
   "bairro": "Itaperi",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-22.7838757",
+  "longitude": "-43.299582"
 }

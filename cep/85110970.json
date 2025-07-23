@@ -1,9 +1,11 @@
 {
   "cep": "85110970",
   "logradouro": "Rua Vereador Germano Horst",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guará",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-24.085",
+  "longitude": "-54.2334917"
 }

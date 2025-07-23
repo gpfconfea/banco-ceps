@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5593675",
+  "longitude": "-51.4558232"
 }

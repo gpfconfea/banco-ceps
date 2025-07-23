@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nortelândia",
   "uf": "MT",
-  "ibge": "5106000"
+  "ibge": "5106000",
+  "latitude": "-14.4535856",
+  "longitude": "-56.8030637"
 }

@@ -5,5 +5,7 @@
   "bairro": "Universidade Federal de Lavras",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.233954",
+  "longitude": "-44.9947402"
 }

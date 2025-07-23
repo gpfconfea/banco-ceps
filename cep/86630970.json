@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Centenário do Sul",
   "uf": "PR",
-  "ibge": "4105102"
+  "ibge": "4105102",
+  "latitude": "-22.8213384",
+  "longitude": "-51.5949816"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "14040904",
   "logradouro": "Avenida do Café",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Monte Alegre",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.1749479",
+  "longitude": "-47.8273157"
 }
