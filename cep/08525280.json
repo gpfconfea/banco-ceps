@@ -5,5 +5,7 @@
   "bairro": "Vila Jamil",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "latitude": "-23.4978218",
+  "longitude": "-46.3738017"
 }

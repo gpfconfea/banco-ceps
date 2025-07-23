@@ -5,5 +5,7 @@
   "bairro": "Condomínio Quinta da Mata",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "latitude": "-18.5533739",
+  "longitude": "-46.4942378"
 }

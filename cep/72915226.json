@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Pinheiros",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "latitude": "-15.7804953",
+  "longitude": "-48.2846484"
 }

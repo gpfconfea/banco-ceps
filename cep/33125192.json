@@ -5,5 +5,7 @@
   "bairro": "São Benedito",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "latitude": "-19.7647629",
+  "longitude": "-43.8574546"
 }

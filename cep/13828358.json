@@ -6,5 +6,7 @@
   "bairro": "Residencial dos Imigrantes",
   "localidade": "Holambra",
   "uf": "SP",
-  "ibge": "3519055"
+  "ibge": "3519055",
+  "latitude": "-22.6116731",
+  "longitude": "-47.0672873"
 }

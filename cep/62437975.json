@@ -1,9 +1,11 @@
 {
   "cep": "62437975",
   "logradouro": "Rua José Martins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parazinho",
   "localidade": "Granja",
   "uf": "CE",
-  "ibge": "2304707"
+  "ibge": "2304707",
+  "latitude": "-3.0440877",
+  "longitude": "-40.6877793"
 }

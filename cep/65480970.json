@@ -1,9 +1,11 @@
 {
   "cep": "65480970",
   "logradouro": "Rua Padre José da Cunha D'Eça",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Arari",
   "uf": "MA",
-  "ibge": "2101004"
+  "ibge": "2101004",
+  "latitude": "-3.4565674",
+  "longitude": "-44.7769469"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "73928970",
   "logradouro": "Avenida Brasília",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Água Quente",
   "localidade": "Iaciara",
   "uf": "GO",
-  "ibge": "5209903"
+  "ibge": "5209903",
+  "latitude": "-14.0982083",
+  "longitude": "-46.6330539"
 }

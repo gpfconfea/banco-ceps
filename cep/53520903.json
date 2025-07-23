@@ -1,9 +1,11 @@
 {
   "cep": "53520903",
   "logradouro": "Avenida Duque de Caxias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Timbó",
   "localidade": "Abreu e Lima",
   "uf": "PE",
-  "ibge": "2600054"
+  "ibge": "2600054",
+  "latitude": "-7.9138124",
+  "longitude": "-34.8995308"
 }

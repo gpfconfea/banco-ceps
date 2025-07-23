@@ -5,5 +5,7 @@
   "bairro": "Moradias Bom Jesus",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4647026",
+  "longitude": "-49.5568285"
 }

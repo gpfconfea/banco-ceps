@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Congonhas",
   "uf": "MG",
-  "ibge": "3118007"
+  "ibge": "3118007",
+  "latitude": "-19.5065586",
+  "longitude": "-42.6308074"
 }

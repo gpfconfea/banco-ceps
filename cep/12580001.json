@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Roseira",
   "uf": "SP",
-  "ibge": "3544301"
+  "ibge": "3544301",
+  "latitude": "-22.8982589",
+  "longitude": "-45.3018038"
 }

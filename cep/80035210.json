@@ -5,5 +5,7 @@
   "bairro": "Cabral",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "latitude": "-25.4014725",
+  "longitude": "-49.2504894"
 }

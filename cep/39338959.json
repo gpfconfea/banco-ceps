@@ -1,9 +1,11 @@
 {
   "cep": "39338959",
   "logradouro": "Rua Luiz Ruas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Campo Azul",
   "uf": "MG",
-  "ibge": "3111150"
+  "ibge": "3111150",
+  "latitude": "-16.5069029",
+  "longitude": "-44.8117651"
 }

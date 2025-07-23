@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "Santo Antônio de Posse",
   "uf": "SP",
-  "ibge": "3548005"
+  "ibge": "3548005",
+  "latitude": "-22.5960122",
+  "longitude": "-46.9189912"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Irani",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.782673",
+  "longitude": "-53.3384639"
 }

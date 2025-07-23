@@ -5,5 +5,7 @@
   "bairro": "Santa Izabel do Sul",
   "localidade": "Arroio Grande",
   "uf": "RS",
-  "ibge": "4301305"
+  "ibge": "4301305",
+  "latitude": "-32.1171474",
+  "longitude": "-52.5973758"
 }

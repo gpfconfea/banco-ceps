@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itobi",
   "uf": "SP",
-  "ibge": "3523800"
+  "ibge": "3523800",
+  "latitude": "-21.733759",
+  "longitude": "-46.9744295"
 }

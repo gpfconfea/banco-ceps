@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Campina Verde",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9664578",
+  "longitude": "-47.1678333"
 }
