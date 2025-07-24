@@ -1,9 +1,11 @@
 {
   "cep": "78279970",
   "logradouro": "Rua Treze de Maio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José do Pingador",
   "localidade": "Lambari D'Oeste",
   "uf": "MT",
-  "ibge": "5105234"
+  "ibge": "5105234",
+  "latitude": "-20.4457932",
+  "longitude": "-54.6190924"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedra Azul",
   "uf": "MG",
-  "ibge": "3148707"
+  "ibge": "3148707",
+  "latitude": "-16.0049412",
+  "longitude": "-41.2821385"
 }

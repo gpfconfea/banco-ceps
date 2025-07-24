@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caçu",
   "uf": "GO",
-  "ibge": "5204300"
+  "ibge": "5204300",
+  "latitude": "-18.5637222",
+  "longitude": "-51.1369685"
 }

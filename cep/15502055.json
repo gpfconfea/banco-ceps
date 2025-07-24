@@ -5,5 +5,7 @@
   "bairro": "San Remo",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4118838",
+  "longitude": "-49.9754424"
 }

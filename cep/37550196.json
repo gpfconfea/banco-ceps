@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.249811",
+  "longitude": "-45.6998895"
 }

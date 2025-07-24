@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Selvíria",
   "uf": "MS",
-  "ibge": "5007802"
+  "ibge": "5007802",
+  "latitude": "-20.3639397",
+  "longitude": "-51.4237718"
 }

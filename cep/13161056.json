@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial da Piscina",
   "localidade": "Artur Nogueira",
   "uf": "SP",
-  "ibge": "3503802"
+  "ibge": "3503802",
+  "latitude": "-22.30414",
+  "longitude": "-49.05689"
 }

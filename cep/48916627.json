@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-9.4380008",
+  "longitude": "-40.5221296"
 }

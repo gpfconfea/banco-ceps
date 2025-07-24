@@ -1,9 +1,11 @@
 {
   "cep": "35113972",
   "logradouro": "Rua Manoel Henrique",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cabeceira dos Henriques",
   "localidade": "Nova Módica",
   "uf": "MG",
-  "ibge": "3144904"
+  "ibge": "3144904",
+  "latitude": "-18.4419652",
+  "longitude": "-41.4976619"
 }

@@ -6,5 +6,7 @@
   "bairro": "Caixa D'Água",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.1116343",
+  "longitude": "-47.7146732"
 }

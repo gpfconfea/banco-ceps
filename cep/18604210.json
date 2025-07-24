@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Arnaldo Leotta de Mello",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.9073313",
+  "longitude": "-48.4889896"
 }

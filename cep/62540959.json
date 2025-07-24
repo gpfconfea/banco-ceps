@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Amontada",
   "uf": "CE",
-  "ibge": "2300754"
+  "ibge": "2300754",
+  "latitude": "-4.97328",
+  "longitude": "-39.01371"
 }

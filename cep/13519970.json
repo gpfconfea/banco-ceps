@@ -1,9 +1,11 @@
 {
   "cep": "13519970",
   "logradouro": "Avenida São Francisco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paraisolândia",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-22.5331864",
+  "longitude": "-47.7162062"
 }

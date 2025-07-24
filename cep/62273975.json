@@ -1,9 +1,11 @@
 {
   "cep": "62273975",
   "logradouro": "Rua São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Betânia",
   "localidade": "Hidrolândia",
   "uf": "CE",
-  "ibge": "2305209"
+  "ibge": "2305209",
+  "latitude": "-4.5270181",
+  "longitude": "-40.3144255"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.7009158",
+  "longitude": "-46.456948"
 }

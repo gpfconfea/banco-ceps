@@ -5,5 +5,7 @@
   "bairro": "Parque San Caetano",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.5641419",
+  "longitude": "-46.7793568"
 }

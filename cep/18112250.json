@@ -5,5 +5,7 @@
   "bairro": "Jardim Daniel Antônio",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.527829",
+  "longitude": "-47.4345972"
 }

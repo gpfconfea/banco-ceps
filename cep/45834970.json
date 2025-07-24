@@ -1,9 +1,11 @@
 {
   "cep": "45834970",
   "logradouro": "Rua Trindade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jucuruçu",
   "uf": "BA",
-  "ibge": "2918456"
+  "ibge": "2918456",
+  "latitude": "-16.8431757",
+  "longitude": "-40.157004"
 }

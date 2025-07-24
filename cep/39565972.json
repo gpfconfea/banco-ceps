@@ -1,9 +1,11 @@
 {
   "cep": "39565972",
   "logradouro": "Rua Honório da Bandeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Rubelita",
   "uf": "MG",
-  "ibge": "3156502"
+  "ibge": "3156502",
+  "latitude": "-16.4095303",
+  "longitude": "-42.2624621"
 }

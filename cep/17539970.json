@@ -1,9 +1,11 @@
 {
   "cep": "17539970",
   "logradouro": "Rua Gonçalves Dias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Lácio)",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.6662698",
+  "longitude": "-50.4191827"
 }

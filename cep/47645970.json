@@ -1,9 +1,11 @@
 {
   "cep": "47645970",
   "logradouro": "Praça do Mercado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Açudina",
   "localidade": "Santa Maria da Vitória",
   "uf": "BA",
-  "ibge": "2928109"
+  "ibge": "2928109",
+  "latitude": "-14.0420444",
+  "longitude": "-44.4472823"
 }

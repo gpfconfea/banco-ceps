@@ -5,5 +5,7 @@
   "bairro": "Condomínio Vilage",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4289337",
+  "longitude": "-46.3133078"
 }

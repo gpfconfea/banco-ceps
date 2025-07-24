@@ -1,9 +1,11 @@
 {
   "cep": "13305901",
   "logradouro": "Estrada do Piraí Acima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bairro Campos de Santo Antônio",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.3075811",
+  "longitude": "-47.2494127"
 }

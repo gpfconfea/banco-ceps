@@ -5,5 +5,7 @@
   "bairro": "Parque São Luís",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0033683",
+  "longitude": "-45.5568822"
 }

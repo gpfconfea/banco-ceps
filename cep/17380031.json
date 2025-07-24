@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brotas",
   "uf": "SP",
-  "ibge": "3507902"
+  "ibge": "3507902",
+  "latitude": "-22.2879838",
+  "longitude": "-48.1264917"
 }

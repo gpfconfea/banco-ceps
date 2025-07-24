@@ -5,5 +5,7 @@
   "bairro": "Parque Campolim",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5295303",
+  "longitude": "-47.4697245"
 }

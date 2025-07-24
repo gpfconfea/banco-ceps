@@ -1,9 +1,11 @@
 {
   "cep": "73760970",
   "logradouro": "Avenida Teotônio Fernandes Graças Quadra K Lote 01/02",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São João D'Aliança",
   "uf": "GO",
-  "ibge": "5220009"
+  "ibge": "5220009",
+  "latitude": "-14.7072141",
+  "longitude": "-47.5254187"
 }

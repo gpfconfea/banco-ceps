@@ -5,5 +5,7 @@
   "bairro": "Vila Matias",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "latitude": "-19.5340829",
+  "longitude": "-40.6211277"
 }

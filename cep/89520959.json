@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Curitibanos",
   "uf": "SC",
-  "ibge": "4204806"
+  "ibge": "4204806",
+  "latitude": "-27.29004",
+  "longitude": "-50.57884"
 }

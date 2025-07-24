@@ -6,5 +6,7 @@
   "bairro": "Jardins de Campos",
   "localidade": "Campos dos Goytacazes",
   "uf": "RJ",
-  "ibge": "3301009"
+  "ibge": "3301009",
+  "latitude": "-21.73185",
+  "longitude": "-41.32843"
 }

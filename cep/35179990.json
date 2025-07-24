@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana do Paraíso",
   "uf": "MG",
-  "ibge": "3158953"
+  "ibge": "3158953",
+  "latitude": "-19.38355",
+  "longitude": "-42.56225"
 }

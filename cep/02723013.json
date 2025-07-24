@@ -5,5 +5,7 @@
   "bairro": "Vila Siqueira (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5014383",
+  "longitude": "-46.661829"
 }

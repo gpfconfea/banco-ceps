@@ -1,9 +1,11 @@
 {
   "cep": "13070905",
   "logradouro": "Avenida Soldado Passarinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Chapadão",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8801582",
+  "longitude": "-47.089867"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68444970",
   "logradouro": "Praça São Miguel de Beja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Beja",
   "localidade": "Abaetetuba",
   "uf": "PA",
-  "ibge": "1500107"
+  "ibge": "1500107",
+  "latitude": "-1.7142889",
+  "longitude": "-48.8877983"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "06465930",
   "logradouro": "Rua Estado da Bahia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro Empresarial Tamboré",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5140403",
+  "longitude": "-46.8802422"
 }

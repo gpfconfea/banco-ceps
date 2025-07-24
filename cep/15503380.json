@@ -5,5 +5,7 @@
   "bairro": "Park Residencial Colinas",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.392225",
+  "longitude": "-49.974213"
 }

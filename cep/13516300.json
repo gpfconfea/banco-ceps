@@ -5,5 +5,7 @@
   "bairro": "Serra Azul I",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-22.50784",
+  "longitude": "-47.80318"
 }

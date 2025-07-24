@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Tereza",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5363121",
+  "longitude": "-46.9174972"
 }

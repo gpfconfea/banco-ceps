@@ -1,9 +1,11 @@
 {
   "cep": "45545971",
   "logradouro": "Rua Pedro Pascoal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Faisqueira",
   "localidade": "Ubaitaba",
   "uf": "BA",
-  "ibge": "2932200"
+  "ibge": "2932200",
+  "latitude": "-14.3086788",
+  "longitude": "-39.2907667"
 }

@@ -5,5 +5,7 @@
   "bairro": "Banco do Pedro",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "latitude": "-14.6542391",
+  "longitude": "-39.2663271"
 }

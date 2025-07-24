@@ -5,5 +5,7 @@
   "bairro": "Chile",
   "localidade": "Ibicuitinga",
   "uf": "CE",
-  "ibge": "2305332"
+  "ibge": "2305332",
+  "latitude": "-4.8828067",
+  "longitude": "-38.4541111"
 }

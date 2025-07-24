@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Damha II",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.70934",
+  "longitude": "-47.68038"
 }

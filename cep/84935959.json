@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tomazina",
   "uf": "PR",
-  "ibge": "4127809"
+  "ibge": "4127809",
+  "latitude": "-23.77766",
+  "longitude": "-49.95722"
 }

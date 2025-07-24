@@ -1,9 +1,11 @@
 {
   "cep": "29399990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Irupi",
   "uf": "ES",
-  "ibge": "3202652"
+  "ibge": "3202652",
+  "latitude": "-20.31299",
+  "longitude": "-41.69414"
 }

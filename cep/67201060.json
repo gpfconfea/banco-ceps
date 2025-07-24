@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marituba",
   "uf": "PA",
-  "ibge": "1504422"
+  "ibge": "1504422",
+  "latitude": "-1.3628872",
+  "longitude": "-48.346647"
 }
