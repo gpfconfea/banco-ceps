@@ -1,9 +1,11 @@
 {
   "cep": "78528959",
   "logradouro": "Avenida Airton Senna",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Novo Mundo",
   "uf": "MT",
-  "ibge": "5106265"
+  "ibge": "5106265",
+  "latitude": "-9.97547",
+  "longitude": "-55.17638"
 }

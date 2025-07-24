@@ -1,9 +1,11 @@
 {
   "cep": "28463970",
   "logradouro": "Praça Jacinto Lucas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paraíso do Tobias",
   "localidade": "Miracema",
   "uf": "RJ",
-  "ibge": "3303005"
+  "ibge": "3303005",
+  "latitude": "-21.4310858",
+  "longitude": "-42.101418"
 }

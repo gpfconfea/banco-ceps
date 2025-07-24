@@ -5,5 +5,7 @@
   "bairro": "Bauxita",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.4009407",
+  "longitude": "-43.5087756"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Porto Seguro",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.184775",
+  "longitude": "-47.279397"
 }

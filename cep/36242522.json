@@ -5,5 +5,7 @@
   "bairro": "Antônio Afonso",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "latitude": "-21.48089",
+  "longitude": "-43.55208"
 }

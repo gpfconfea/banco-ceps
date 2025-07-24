@@ -5,5 +5,7 @@
   "bairro": "Vila Iguaçuana",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.6876437",
+  "longitude": "-43.4580294"
 }

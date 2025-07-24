@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Salto Grande",
   "uf": "SP",
-  "ibge": "3545407"
+  "ibge": "3545407",
+  "latitude": "-23.70237",
+  "longitude": "-46.51665"
 }

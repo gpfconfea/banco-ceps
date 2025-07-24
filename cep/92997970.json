@@ -1,9 +1,11 @@
 {
   "cep": "92997970",
   "logradouro": "Avenida do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Eldorado",
   "localidade": "Eldorado do Sul",
   "uf": "RS",
-  "ibge": "4306767"
+  "ibge": "4306767",
+  "latitude": "-30.1011037",
+  "longitude": "-51.6589723"
 }

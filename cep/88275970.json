@@ -1,9 +1,11 @@
 {
   "cep": "88275970",
   "logradouro": "Estrada Geral de Claraíba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Claraíba",
   "localidade": "Nova Trento",
   "uf": "SC",
-  "ibge": "4211504"
+  "ibge": "4211504",
+  "latitude": "-27.2263681",
+  "longitude": "-48.9036118"
 }

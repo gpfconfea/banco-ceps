@@ -1,9 +1,11 @@
 {
   "cep": "54783990",
   "logradouro": "Estrada de Aldeia km14, PE-27 - Aldeia dos Camarás",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "latitude": "-7.99958",
+  "longitude": "-34.96608"
 }

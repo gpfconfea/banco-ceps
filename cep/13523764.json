@@ -5,5 +5,7 @@
   "bairro": "Floresta Escura",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "latitude": "-29.0545464",
+  "longitude": "-51.1873426"
 }

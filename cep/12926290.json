@@ -5,5 +5,7 @@
   "bairro": "Jardim do Cedro",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.923245",
+  "longitude": "-46.5313523"
 }

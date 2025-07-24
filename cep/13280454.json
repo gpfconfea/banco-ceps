@@ -5,5 +5,7 @@
   "bairro": "Cachoeira",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-23.5045637",
+  "longitude": "-46.8483622"
 }

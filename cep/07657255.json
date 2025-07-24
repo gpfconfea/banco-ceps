@@ -5,5 +5,7 @@
   "bairro": "Mato Dentro",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.2777685",
+  "longitude": "-46.6094074"
 }

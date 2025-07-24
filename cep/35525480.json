@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-20.4568136",
+  "longitude": "-54.528052"
 }

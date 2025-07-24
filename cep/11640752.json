@@ -5,5 +5,7 @@
   "bairro": "Ribeirão (Cambaquara)",
   "localidade": "Ilhabela",
   "uf": "SP",
-  "ibge": "3520400"
+  "ibge": "3520400",
+  "latitude": "-23.79012",
+  "longitude": "-45.35969"
 }

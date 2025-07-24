@@ -5,5 +5,7 @@
   "bairro": "Ipiranga",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.23388",
+  "longitude": "-45.9013965"
 }

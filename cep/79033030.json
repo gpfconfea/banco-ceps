@@ -5,5 +5,7 @@
   "bairro": "Mata do Jacinto",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4203091",
+  "longitude": "-54.5773057"
 }

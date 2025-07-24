@@ -5,5 +5,7 @@
   "bairro": "Residencial Santos Dumont (Santa Maria)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.9961",
+  "longitude": "-48.00036"
 }

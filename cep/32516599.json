@@ -6,5 +6,7 @@
   "bairro": "Residencial Ouro Velho",
   "localidade": "Igarapé",
   "uf": "MG",
-  "ibge": "3130101"
+  "ibge": "3130101",
+  "latitude": "-20.075339",
+  "longitude": "-44.3235174"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "20050989",
   "logradouro": "Largo da Carioca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9074099",
+  "longitude": "-43.1783395"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carlópolis",
   "uf": "PR",
-  "ibge": "4104709"
+  "ibge": "4104709",
+  "latitude": "-23.4376592",
+  "longitude": "-49.7299183"
 }

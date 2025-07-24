@@ -5,5 +5,7 @@
   "bairro": "Telégrafo Sem Fio",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-22.0390151",
+  "longitude": "-47.8967713"
 }

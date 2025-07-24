@@ -5,5 +5,7 @@
   "bairro": "Vila Antônio Francisco",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9813643",
+  "longitude": "-46.9938373"
 }

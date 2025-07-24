@@ -5,5 +5,7 @@
   "bairro": "Santa Genoveva",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-14.9366287",
+  "longitude": "-51.0800321"
 }

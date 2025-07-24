@@ -5,5 +5,7 @@
   "bairro": "Parque Fluminense",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "latitude": "-22.715977",
+  "longitude": "-43.3206381"
 }

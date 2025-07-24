@@ -1,9 +1,11 @@
 {
   "cep": "68709972",
   "logradouro": "Rua São Miguel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Quatipuru",
   "localidade": "Quatipuru",
   "uf": "PA",
-  "ibge": "1506112"
+  "ibge": "1506112",
+  "latitude": "-0.8150544",
+  "longitude": "-47.0267258"
 }

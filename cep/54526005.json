@@ -6,5 +6,7 @@
   "bairro": "Suape",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "latitude": "-8.3539609",
+  "longitude": "-34.9545978"
 }

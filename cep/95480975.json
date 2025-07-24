@@ -1,9 +1,11 @@
 {
   "cep": "95480975",
   "logradouro": "Rua São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Santana",
   "localidade": "Cambará do Sul",
   "uf": "RS",
-  "ibge": "4303608"
+  "ibge": "4303608",
+  "latitude": "-28.9708879",
+  "longitude": "-50.0564715"
 }

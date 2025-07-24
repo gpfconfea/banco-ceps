@@ -1,9 +1,11 @@
 {
   "cep": "29604980",
   "logradouro": "Praça José Alves Teixeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pontões",
   "localidade": "Afonso Cláudio",
   "uf": "ES",
-  "ibge": "3200102"
+  "ibge": "3200102",
+  "latitude": "-20.0783294",
+  "longitude": "-41.126449"
 }

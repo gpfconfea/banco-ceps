@@ -1,9 +1,11 @@
 {
   "cep": "28664991",
   "logradouro": "Estrada da Silveiraº",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bom Jardim",
   "uf": "RJ",
-  "ibge": "3300506"
+  "ibge": "3300506",
+  "latitude": "-22.15033",
+  "longitude": "-42.42275"
 }

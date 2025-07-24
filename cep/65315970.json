@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brejo de Areia",
   "uf": "MA",
-  "ibge": "2102150"
+  "ibge": "2102150",
+  "latitude": "-7.52874",
+  "longitude": "-46.03797"
 }

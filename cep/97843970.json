@@ -1,9 +1,11 @@
 {
   "cep": "97843970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Rolador",
   "uf": "RS",
-  "ibge": "4315958"
+  "ibge": "4315958",
+  "latitude": "-22.856177",
+  "longitude": "-43.2420381"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Comerciários",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "latitude": "-22.5604591",
+  "longitude": "-44.9318986"
 }

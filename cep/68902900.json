@@ -1,9 +1,11 @@
 {
   "cep": "68902900",
   "logradouro": "Rua Jovino Dinoá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Central",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.031935",
+  "longitude": "-51.060423"
 }

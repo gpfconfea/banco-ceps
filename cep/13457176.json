@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Bandeirantes",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "latitude": "-22.7776123",
+  "longitude": "-47.3684685"
 }

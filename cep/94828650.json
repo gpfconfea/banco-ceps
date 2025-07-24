@@ -5,5 +5,7 @@
   "bairro": "Maria Regina",
   "localidade": "Alvorada",
   "uf": "RS",
-  "ibge": "4300604"
+  "ibge": "4300604",
+  "latitude": "-15.5795111",
+  "longitude": "-56.0845528"
 }

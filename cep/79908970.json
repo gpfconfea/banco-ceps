@@ -1,9 +1,11 @@
 {
   "cep": "79908970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cabeceira do Apá",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "latitude": "-22.5298767",
+  "longitude": "-55.729146"
 }

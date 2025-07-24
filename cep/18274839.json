@@ -5,5 +5,7 @@
   "bairro": "Tanquinho",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3872694",
+  "longitude": "-47.8482213"
 }

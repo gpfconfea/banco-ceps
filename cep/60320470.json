@@ -5,5 +5,7 @@
   "bairro": "Vila Ellery",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-23.2994237",
+  "longitude": "-51.1433676"
 }

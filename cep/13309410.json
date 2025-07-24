@@ -5,5 +5,7 @@
   "bairro": "Vila Gardiman",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.276921",
+  "longitude": "-47.2937528"
 }

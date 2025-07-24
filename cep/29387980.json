@@ -1,9 +1,11 @@
 {
   "cep": "29387980",
   "logradouro": "Rua Valmir Vale",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto Norte",
   "localidade": "Muniz Freire",
   "uf": "ES",
-  "ibge": "3203700"
+  "ibge": "3203700",
+  "latitude": "-20.24229",
+  "longitude": "-41.40413"
 }

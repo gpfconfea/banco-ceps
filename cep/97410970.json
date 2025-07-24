@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mata",
   "uf": "RS",
-  "ibge": "4312104"
+  "ibge": "4312104",
+  "latitude": "-29.5638218",
+  "longitude": "-54.4546803"
 }

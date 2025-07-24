@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8787687",
+  "longitude": "-43.947162"
 }

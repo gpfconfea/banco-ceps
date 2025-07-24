@@ -5,5 +5,7 @@
   "bairro": "Parque Gerbeli",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3575714",
+  "longitude": "-47.8664127"
 }

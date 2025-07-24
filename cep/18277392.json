@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Orlando Lisboa de Almeida",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-21.16687",
+  "longitude": "-50.46428"
 }

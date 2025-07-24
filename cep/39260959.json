@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Várzea da Palma",
   "uf": "MG",
-  "ibge": "3170800"
+  "ibge": "3170800",
+  "latitude": "-17.6002395",
+  "longitude": "-44.7269571"
 }

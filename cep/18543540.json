@@ -6,5 +6,7 @@
   "bairro": "Altos do Jequitibá",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.3407212",
+  "longitude": "-47.4228168"
 }

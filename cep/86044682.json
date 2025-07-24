@@ -5,5 +5,7 @@
   "bairro": "Usina Três Bocas",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3846074",
+  "longitude": "-51.0822308"
 }

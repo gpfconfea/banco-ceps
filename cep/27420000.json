@@ -5,5 +5,7 @@
   "bairro": "Quatis",
   "localidade": "Quatis",
   "uf": "RJ",
-  "ibge": "3304128"
+  "ibge": "3304128",
+  "latitude": "-22.4250714",
+  "longitude": "-44.2825279"
 }

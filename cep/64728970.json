@@ -1,9 +1,11 @@
 {
   "cep": "64728970",
   "logradouro": "Rua Maria Beronísia de Sousa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pedro Laurentino",
   "uf": "PI",
-  "ibge": "2207934"
+  "ibge": "2207934",
+  "latitude": "-8.0659624",
+  "longitude": "-42.2881204"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58350971",
   "logradouro": "Rua Manoel Dantas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Caldas Brandão",
   "uf": "PB",
-  "ibge": "2503803"
+  "ibge": "2503803",
+  "latitude": "-7.1040549",
+  "longitude": "-35.3243733"
 }

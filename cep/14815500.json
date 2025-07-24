@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Comendador Nello Morganti",
   "localidade": "Ibaté",
   "uf": "SP",
-  "ibge": "3519303"
+  "ibge": "3519303",
+  "latitude": "-21.9580286",
+  "longitude": "-47.986163"
 }

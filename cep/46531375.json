@@ -6,5 +6,7 @@
   "bairro": "Vila Operária",
   "localidade": "Boquira",
   "uf": "BA",
-  "ibge": "2904100"
+  "ibge": "2904100",
+  "latitude": "-9.42001",
+  "longitude": "-40.51376"
 }

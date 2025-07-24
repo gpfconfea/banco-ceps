@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Votuporanga C",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.404892",
+  "longitude": "-49.9611183"
 }

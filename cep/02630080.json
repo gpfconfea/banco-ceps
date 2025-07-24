@@ -5,5 +5,7 @@
   "bairro": "Vila Amélia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4638748",
+  "longitude": "-46.643911"
 }

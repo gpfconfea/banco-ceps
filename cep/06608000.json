@@ -5,5 +5,7 @@
   "bairro": "Jardim Belmont",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5353647",
+  "longitude": "-46.9140576"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Divisa Nova",
   "uf": "MG",
-  "ibge": "3122405"
+  "ibge": "3122405",
+  "latitude": "-21.512252",
+  "longitude": "-46.196411"
 }

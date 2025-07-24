@@ -5,5 +5,7 @@
   "bairro": "Vila Ozório",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-24.10855",
+  "longitude": "-49.32855"
 }

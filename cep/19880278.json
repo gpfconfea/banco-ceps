@@ -5,5 +5,7 @@
   "bairro": "Jardim Tangará",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.7453448",
+  "longitude": "-50.4014048"
 }

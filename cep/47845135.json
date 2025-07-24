@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Catolândia",
   "uf": "BA",
-  "ibge": "2907400"
+  "ibge": "2907400",
+  "latitude": "-12.31652",
+  "longitude": "-44.86168"
 }

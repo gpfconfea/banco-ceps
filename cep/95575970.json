@@ -1,9 +1,11 @@
 {
   "cep": "95575970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa União",
   "localidade": "Três Forquilhas",
   "uf": "RS",
-  "ibge": "4321832"
+  "ibge": "4321832",
+  "latitude": "-28.24966",
+  "longitude": "-54.40336"
 }

@@ -6,5 +6,7 @@
   "bairro": "Residencial Vale do Sol II",
   "localidade": "Quatá",
   "uf": "SP",
-  "ibge": "3541703"
+  "ibge": "3541703",
+  "latitude": "-22.2373227",
+  "longitude": "-50.7084075"
 }

@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Taquarituba",
   "uf": "SP",
-  "ibge": "3553807"
+  "ibge": "3553807",
+  "latitude": "-23.5380938",
+  "longitude": "-49.2449055"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62791973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Antônio Diogo",
   "localidade": "Redenção",
   "uf": "CE",
-  "ibge": "2311603"
+  "ibge": "2311603",
+  "latitude": "-7.7619162",
+  "longitude": "-49.9064701"
 }

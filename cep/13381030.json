@@ -5,5 +5,7 @@
   "bairro": "Industrial Cachoeira",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.77128",
+  "longitude": "-47.31855"
 }

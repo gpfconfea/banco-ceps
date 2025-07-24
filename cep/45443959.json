@@ -1,9 +1,11 @@
 {
   "cep": "45443959",
   "logradouro": "Praça da Feira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Igrapiúna",
   "uf": "BA",
-  "ibge": "2913457"
+  "ibge": "2913457",
+  "latitude": "-13.7615",
+  "longitude": "-39.13582"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Mineira Nova",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.686402",
+  "longitude": "-49.4244621"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "latitude": "-21.47149",
+  "longitude": "-43.55463"
 }

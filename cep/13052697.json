@@ -5,5 +5,7 @@
   "bairro": "Vila Abaeté",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9886279",
+  "longitude": "-47.1006242"
 }

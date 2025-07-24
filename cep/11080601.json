@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-23.9407739",
+  "longitude": "-46.348636"
 }

@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Santa Luzia",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "latitude": "-19.76595",
+  "longitude": "-43.84879"
 }

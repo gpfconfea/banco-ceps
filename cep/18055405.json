@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5075012",
+  "longitude": "-47.4974765"
 }

@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Santo André",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.679268",
+  "longitude": "-46.509783"
 }
