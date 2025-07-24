@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Martinópolis",
   "uf": "SP",
-  "ibge": "3529203"
+  "ibge": "3529203",
+  "latitude": "-22.146984",
+  "longitude": "-51.1709014"
 }

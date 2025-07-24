@@ -5,5 +5,7 @@
   "bairro": "Santo Onofre",
   "localidade": "Carangola",
   "uf": "MG",
-  "ibge": "3113305"
+  "ibge": "3113305",
+  "latitude": "-20.7266338",
+  "longitude": "-42.0354355"
 }

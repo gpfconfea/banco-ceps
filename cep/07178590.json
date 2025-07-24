@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Bonsucesso",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.397562",
+  "longitude": "-46.3921788"
 }

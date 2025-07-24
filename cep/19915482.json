@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Orlando Quagliato",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-22.9607615",
+  "longitude": "-49.8499663"
 }

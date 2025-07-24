@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-15.7663749",
+  "longitude": "-58.3079253"
 }

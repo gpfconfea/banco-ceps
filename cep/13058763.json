@@ -5,5 +5,7 @@
   "bairro": "Residencial São Luís",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9531957",
+  "longitude": "-47.2158587"
 }

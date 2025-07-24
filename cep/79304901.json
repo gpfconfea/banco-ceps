@@ -1,9 +1,11 @@
 {
   "cep": "79304901",
   "logradouro": "Rua Cáceres",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Mamona",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "latitude": "-19.008093",
+  "longitude": "-57.6381748"
 }

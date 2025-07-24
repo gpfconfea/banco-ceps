@@ -5,5 +5,7 @@
   "bairro": "Vila Ricardo",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.581188",
+  "longitude": "-45.329654"
 }

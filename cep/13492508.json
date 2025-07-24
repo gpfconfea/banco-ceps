@@ -5,5 +5,7 @@
   "bairro": "Engenho Velho",
   "localidade": "Cordeirópolis",
   "uf": "SP",
-  "ibge": "3512407"
+  "ibge": "3512407",
+  "latitude": "-24.5244854",
+  "longitude": "-48.8399249"
 }

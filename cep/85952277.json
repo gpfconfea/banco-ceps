@@ -5,5 +5,7 @@
   "bairro": "Jequitibá",
   "localidade": "Palotina",
   "uf": "PR",
-  "ibge": "4117909"
+  "ibge": "4117909",
+  "latitude": "-24.28543",
+  "longitude": "-53.82841"
 }

@@ -5,5 +5,7 @@
   "bairro": "Terras de Mont Serrat",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.1837721",
+  "longitude": "-47.32587"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro",
   "localidade": "Carandaí",
   "uf": "MG",
-  "ibge": "3113206"
+  "ibge": "3113206",
+  "latitude": "-20.9492743",
+  "longitude": "-43.8044828"
 }

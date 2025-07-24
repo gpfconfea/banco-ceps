@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Tiemann",
   "localidade": "Maracaí",
   "uf": "SP",
-  "ibge": "3528809"
+  "ibge": "3528809",
+  "latitude": "-22.97917",
+  "longitude": "-47.17822"
 }

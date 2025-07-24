@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Diamante d'Oeste",
   "uf": "PR",
-  "ibge": "4107157"
+  "ibge": "4107157",
+  "latitude": "-24.9461361",
+  "longitude": "-54.1050509"
 }

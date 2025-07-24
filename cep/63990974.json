@@ -1,9 +1,11 @@
 {
   "cep": "63990974",
   "logradouro": "Vila Pedra e Cal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pedra e Cal",
   "localidade": "Ibaretama",
   "uf": "CE",
-  "ibge": "2305266"
+  "ibge": "2305266",
+  "latitude": "-4.8565546",
+  "longitude": "-38.7382935"
 }

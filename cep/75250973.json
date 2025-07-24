@@ -1,9 +1,11 @@
 {
   "cep": "75250973",
   "logradouro": "Avenida Aroeira Quadra 42 Lote 12/13",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Residencial Jardim Canedo",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.70181",
+  "longitude": "-49.10457"
 }

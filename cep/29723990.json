@@ -1,9 +1,11 @@
 {
   "cep": "29723990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Governador Lindenberg",
   "uf": "ES",
-  "ibge": "3202256"
+  "ibge": "3202256",
+  "latitude": "-19.2517",
+  "longitude": "-40.46204"
 }

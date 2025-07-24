@@ -5,5 +5,7 @@
   "bairro": "Residencial Campo Verde",
   "localidade": "Iracemápolis",
   "uf": "SP",
-  "ibge": "3521408"
+  "ibge": "3521408",
+  "latitude": "-22.5865553",
+  "longitude": "-47.5042301"
 }

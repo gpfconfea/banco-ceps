@@ -5,5 +5,7 @@
   "bairro": "Alto Alegre",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "latitude": "-3.51343",
+  "longitude": "-39.49521"
 }

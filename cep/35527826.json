@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8742696",
+  "longitude": "-44.9746795"
 }

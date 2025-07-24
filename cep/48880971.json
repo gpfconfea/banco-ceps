@@ -1,9 +1,11 @@
 {
   "cep": "48880971",
   "logradouro": "Rua Nova",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pereira",
   "localidade": "Santaluz",
   "uf": "BA",
-  "ibge": "2928000"
+  "ibge": "2928000",
+  "latitude": "-11.2122561",
+  "longitude": "-39.2424592"
 }

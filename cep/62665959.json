@@ -1,9 +1,11 @@
 {
   "cep": "62665959",
   "logradouro": "Rua Antenor Câmara",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Luís do Curu",
   "uf": "CE",
-  "ibge": "2312601"
+  "ibge": "2312601",
+  "latitude": "-3.67213",
+  "longitude": "-39.24008"
 }

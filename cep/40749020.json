@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-11.5006002",
+  "longitude": "-37.9310703"
 }

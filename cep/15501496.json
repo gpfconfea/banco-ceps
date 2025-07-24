@@ -5,5 +5,7 @@
   "bairro": "Vila Residencial Divina de Carvalho Nogueira",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4315141",
+  "longitude": "-49.9879645"
 }

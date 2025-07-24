@@ -1,9 +1,11 @@
 {
   "cep": "47430970",
   "logradouro": "Rua São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Copixaba",
   "localidade": "Xique-Xique",
   "uf": "BA",
-  "ibge": "2933604"
+  "ibge": "2933604",
+  "latitude": "-10.6077228",
+  "longitude": "-42.6596363"
 }

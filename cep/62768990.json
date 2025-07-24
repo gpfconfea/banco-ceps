@@ -1,9 +1,11 @@
 {
   "cep": "62768990",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Guaramiranga",
   "uf": "CE",
-  "ibge": "2305100"
+  "ibge": "2305100",
+  "latitude": "-4.26066",
+  "longitude": "-38.9348"
 }

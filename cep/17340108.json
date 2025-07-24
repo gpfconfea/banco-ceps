@@ -6,5 +6,7 @@
   "bairro": "Jardim Vista Alegre",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.4945744",
+  "longitude": "-48.5539265"
 }

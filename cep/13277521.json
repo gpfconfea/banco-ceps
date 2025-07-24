@@ -5,5 +5,7 @@
   "bairro": "Jardim Maracanã",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9965043",
+  "longitude": "-46.9963513"
 }

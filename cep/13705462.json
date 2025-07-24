@@ -6,5 +6,7 @@
   "bairro": "Conjunto Residencial João Stefanini",
   "localidade": "Casa Branca",
   "uf": "SP",
-  "ibge": "3510807"
+  "ibge": "3510807",
+  "latitude": "-23.24605",
+  "longitude": "-45.91333"
 }

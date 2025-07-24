@@ -1,9 +1,11 @@
 {
   "cep": "55595970",
   "logradouro": "Rua Posto Telefonico",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Camela",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.0612294",
+  "longitude": "-39.1368654"
 }

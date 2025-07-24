@@ -1,9 +1,11 @@
 {
   "cep": "44845971",
   "logradouro": "Rua Palmeiral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Volta Grande",
   "localidade": "Tapiramutá",
   "uf": "BA",
-  "ibge": "2931301"
+  "ibge": "2931301",
+  "latitude": "-11.913495",
+  "longitude": "-40.7679449"
 }

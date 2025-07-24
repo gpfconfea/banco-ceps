@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Terra de Areia",
   "uf": "RS",
-  "ibge": "4321436"
+  "ibge": "4321436",
+  "latitude": "-29.5821701",
+  "longitude": "-50.0670143"
 }

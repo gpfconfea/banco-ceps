@@ -1,9 +1,11 @@
 {
   "cep": "58270976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Araçagi",
   "uf": "PB",
-  "ibge": "2500809"
+  "ibge": "2500809",
+  "latitude": "-2.4977351",
+  "longitude": "-44.199315"
 }

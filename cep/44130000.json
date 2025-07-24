@@ -5,5 +5,7 @@
   "bairro": "Governador João Durval Carneiro",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.3227067",
+  "longitude": "-39.0579319"
 }

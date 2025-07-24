@@ -1,9 +1,11 @@
 {
   "cep": "56236970",
   "logradouro": "Rua Nossa Senhora da Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Viração",
   "localidade": "Exu",
   "uf": "PE",
-  "ibge": "2605301"
+  "ibge": "2605301",
+  "latitude": "-7.4780214",
+  "longitude": "-39.8432567"
 }

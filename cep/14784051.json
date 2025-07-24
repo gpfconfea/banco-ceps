@@ -5,5 +5,7 @@
   "bairro": "City Barretos",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-20.571825",
+  "longitude": "-48.5458985"
 }

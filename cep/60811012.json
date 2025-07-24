@@ -5,5 +5,7 @@
   "bairro": "Salinas",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.7707379",
+  "longitude": "-38.5038046"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "48909900",
   "logradouro": "Avenida Benedito de Almeida Moraes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Malhada da Areia",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-9.43679",
+  "longitude": "-40.5015"
 }

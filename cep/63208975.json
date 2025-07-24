@@ -1,9 +1,11 @@
 {
   "cep": "63208975",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gameleira de São Sebastião",
   "localidade": "Missão Velha",
   "uf": "CE",
-  "ibge": "2308401"
+  "ibge": "2308401",
+  "latitude": "-7.4081052",
+  "longitude": "-39.1270219"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78393970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Fernandopolis",
   "localidade": "Barra do Bugres",
   "uf": "MT",
-  "ibge": "5101704"
+  "ibge": "5101704",
+  "latitude": "-15.0281172",
+  "longitude": "-57.1355145"
 }

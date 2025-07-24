@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Inconfidentes I",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2756208",
+  "longitude": "-45.9193364"
 }

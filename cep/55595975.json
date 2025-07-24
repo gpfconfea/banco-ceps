@@ -1,9 +1,11 @@
 {
   "cep": "55595975",
   "logradouro": "Rua Posto Telefonico Camela",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito de Camela",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.5570521",
+  "longitude": "-35.0125535"
 }
