@@ -65,6 +65,5 @@ Sua colaboração é muito bem-vinda! Se você encontrar problemas, tiver sugest
 ## 📄 Licença
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
----
-<br><br>
+
 <center><img src="confea-crea.png" width="400"></center>
