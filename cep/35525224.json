@@ -5,5 +5,7 @@
   "bairro": "Antônio Venâncio",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8483784",
+  "longitude": "-44.976994"
 }

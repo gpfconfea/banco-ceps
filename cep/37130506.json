@@ -6,5 +6,7 @@
   "bairro": "Bosque do Lobo",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.42223",
+  "longitude": "-45.93255"
 }

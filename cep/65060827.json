@@ -5,5 +5,7 @@
   "bairro": "Vila Isabel Cafeteira",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "38.6487638",
+  "longitude": "-9.1896696"
 }

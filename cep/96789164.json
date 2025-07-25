@@ -5,5 +5,7 @@
   "bairro": "Gaúcho",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-30.85708",
+  "longitude": "-51.82284"
 }

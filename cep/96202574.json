@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora dos Navegantes",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-32.0472448",
+  "longitude": "-52.0972456"
 }

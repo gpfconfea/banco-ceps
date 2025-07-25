@@ -5,5 +5,7 @@
   "bairro": "Pirambu",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-20.5389715",
+  "longitude": "-48.5741351"
 }

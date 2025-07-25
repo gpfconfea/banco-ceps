@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "latitude": "-21.8349852",
+  "longitude": "-46.5554031"
 }

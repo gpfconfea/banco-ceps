@@ -5,5 +5,7 @@
   "bairro": "Valle",
   "localidade": "Santa Rita do Sapucaí",
   "uf": "MG",
-  "ibge": "3159605"
+  "ibge": "3159605",
+  "latitude": "-22.2374407",
+  "longitude": "-45.6988394"
 }

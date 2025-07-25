@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jati",
   "uf": "CE",
-  "ibge": "2307205"
+  "ibge": "2307205",
+  "latitude": "-7.6871729",
+  "longitude": "-39.004081"
 }

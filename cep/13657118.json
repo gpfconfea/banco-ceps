@@ -5,5 +5,7 @@
   "bairro": "Vila Bortone",
   "localidade": "Santa Cruz das Palmeiras",
   "uf": "SP",
-  "ibge": "3546306"
+  "ibge": "3546306",
+  "latitude": "-21.8288998",
+  "longitude": "-47.2467026"
 }

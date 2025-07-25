@@ -1,9 +1,11 @@
 {
   "cep": "64563970",
   "logradouro": "Rua J. Martins de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Floresta do Piauí",
   "uf": "PI",
-  "ibge": "2203859"
+  "ibge": "2203859",
+  "latitude": "-7.4667523",
+  "longitude": "-41.8001311"
 }

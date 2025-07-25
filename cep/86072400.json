@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Cacique",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2847545",
+  "longitude": "-51.2083277"
 }

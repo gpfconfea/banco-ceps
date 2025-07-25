@@ -5,5 +5,7 @@
   "bairro": "Vale do Itamaracá",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9784442",
+  "longitude": "-47.0309495"
 }

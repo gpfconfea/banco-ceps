@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "latitude": "-23.6709652",
+  "longitude": "-46.471442"
 }

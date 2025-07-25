@@ -1,9 +1,11 @@
 {
   "cep": "86323991",
   "logradouro": "Rua Cornelio Procópio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Maria do Rio do Peixe",
   "localidade": "Congonhinhas",
   "uf": "PR",
-  "ibge": "4106001"
+  "ibge": "4106001",
+  "latitude": "-23.6351153",
+  "longitude": "-50.4796302"
 }

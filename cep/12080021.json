@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Clara",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0077443",
+  "longitude": "-45.5449259"
 }

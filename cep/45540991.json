@@ -1,9 +1,11 @@
 {
   "cep": "45540991",
   "logradouro": "Praça Idelbrando Ribeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Gongogi",
   "uf": "BA",
-  "ibge": "2911501"
+  "ibge": "2911501",
+  "latitude": "-14.32428",
+  "longitude": "-39.4661"
 }

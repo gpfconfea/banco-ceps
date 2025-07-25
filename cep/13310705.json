@@ -5,5 +5,7 @@
   "bairro": "Residencial Garden Ville",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-22.76497",
+  "longitude": "-47.40257"
 }

@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-19.9417759",
+  "longitude": "-43.9990336"
 }

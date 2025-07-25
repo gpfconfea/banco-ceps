@@ -5,5 +5,7 @@
   "bairro": "Civit II",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.1912437",
+  "longitude": "-40.2564235"
 }

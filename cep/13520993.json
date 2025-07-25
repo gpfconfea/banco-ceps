@@ -1,9 +1,11 @@
 {
   "cep": "13520993",
   "logradouro": "Rua Rio Piracicaba, Bairro Vertentes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "latitude": "-22.61948",
+  "longitude": "-47.8103"
 }

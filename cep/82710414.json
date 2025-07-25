@@ -5,5 +5,7 @@
   "bairro": "Cachoeira",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "latitude": "-25.3490652",
+  "longitude": "-49.2569516"
 }

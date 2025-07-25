@@ -5,5 +5,7 @@
   "bairro": "Ribeirão Bonito",
   "localidade": "Tejupá",
   "uf": "SP",
-  "ibge": "3554201"
+  "ibge": "3554201",
+  "latitude": "-23.40103",
+  "longitude": "-49.25298"
 }

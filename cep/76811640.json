@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.7910925",
+  "longitude": "-63.8620541"
 }

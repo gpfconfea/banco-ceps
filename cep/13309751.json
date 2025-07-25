@@ -5,5 +5,7 @@
   "bairro": "Residencial Bom Jardim",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.68608",
+  "longitude": "-46.75892"
 }

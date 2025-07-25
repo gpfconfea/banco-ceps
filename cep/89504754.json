@@ -5,5 +5,7 @@
   "bairro": "Municípios",
   "localidade": "Caçador",
   "uf": "SC",
-  "ibge": "4203006"
+  "ibge": "4203006",
+  "latitude": "-26.7719757",
+  "longitude": "-51.0301771"
 }

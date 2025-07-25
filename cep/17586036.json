@@ -5,5 +5,7 @@
   "bairro": "Jardim São Luiz",
   "localidade": "Pompéia",
   "uf": "SP",
-  "ibge": "3540002"
+  "ibge": "3540002",
+  "latitude": "-22.10427",
+  "longitude": "-50.18902"
 }

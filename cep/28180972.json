@@ -1,9 +1,11 @@
 {
   "cep": "28180972",
   "logradouro": "Rua Major Corrêa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Joaquim",
   "localidade": "Cardoso Moreira",
   "uf": "RJ",
-  "ibge": "3301157"
+  "ibge": "3301157",
+  "latitude": "-21.4795336",
+  "longitude": "-41.4750028"
 }

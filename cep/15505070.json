@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial do Lago",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4269446",
+  "longitude": "-49.9516216"
 }

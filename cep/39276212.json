@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Pirapora",
   "uf": "MG",
-  "ibge": "3151206"
+  "ibge": "3151206",
+  "latitude": "-17.3773957",
+  "longitude": "-44.9731968"
 }

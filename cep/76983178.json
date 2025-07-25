@@ -5,5 +5,7 @@
   "bairro": "Residencial Moriá",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "latitude": "-12.7193925",
+  "longitude": "-60.137813"
 }

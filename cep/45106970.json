@@ -1,9 +1,11 @@
 {
   "cep": "45106970",
   "logradouro": "Praça Rosalvo Rodrigues",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dantelândia",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-14.8503277",
+  "longitude": "-40.844989"
 }

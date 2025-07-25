@@ -1,9 +1,11 @@
 {
   "cep": "59164972",
   "logradouro": "Distrito de Pium",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado de Pium",
   "localidade": "Nísia Floresta",
   "uf": "RN",
-  "ibge": "2408201"
+  "ibge": "2408201",
+  "latitude": "-5.9464159",
+  "longitude": "-35.1597055"
 }

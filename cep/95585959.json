@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arroio do Sal",
   "uf": "RS",
-  "ibge": "4301057"
+  "ibge": "4301057",
+  "latitude": "-29.54913",
+  "longitude": "-49.88728"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Bom Jardim de Goiás",
   "uf": "GO",
-  "ibge": "5203401"
+  "ibge": "5203401",
+  "latitude": "-16.1947304",
+  "longitude": "-52.1735521"
 }

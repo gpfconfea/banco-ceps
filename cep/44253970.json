@@ -1,9 +1,11 @@
 {
   "cep": "44253970",
   "logradouro": "Praça São Simão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itacava",
   "localidade": "Coração de Maria",
   "uf": "BA",
-  "ibge": "2908903"
+  "ibge": "2908903",
+  "latitude": "-12.203953",
+  "longitude": "-38.8459093"
 }

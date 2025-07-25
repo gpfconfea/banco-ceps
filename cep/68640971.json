@@ -1,9 +1,11 @@
 {
   "cep": "68640971",
   "logradouro": "Avenida Primo Ribeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ourém",
   "uf": "PA",
-  "ibge": "1505403"
+  "ibge": "1505403",
+  "latitude": "-5.55554",
+  "longitude": "-48.72816"
 }

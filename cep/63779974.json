@@ -1,9 +1,11 @@
 {
   "cep": "63779974",
   "logradouro": "Rua Juvenal Felício de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Açudinho",
   "localidade": "Tamboril",
   "uf": "CE",
-  "ibge": "2313203"
+  "ibge": "2313203",
+  "latitude": "-4.8330574",
+  "longitude": "-40.3196019"
 }

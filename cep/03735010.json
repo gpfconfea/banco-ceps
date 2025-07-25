@@ -5,5 +5,7 @@
   "bairro": "Vila Araguaia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5111753",
+  "longitude": "-46.5178251"
 }

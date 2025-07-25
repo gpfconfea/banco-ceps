@@ -1,9 +1,11 @@
 {
   "cep": "44927970",
   "logradouro": "Praça Juscelino Kubitschek",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Recife",
   "localidade": "Jussara",
   "uf": "BA",
-  "ibge": "2918506"
+  "ibge": "2918506",
+  "latitude": "-11.0473169",
+  "longitude": "-41.9696876"
 }

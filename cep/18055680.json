@@ -5,5 +5,7 @@
   "bairro": "Parque Ouro Fino",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4958763",
+  "longitude": "-47.5037242"
 }

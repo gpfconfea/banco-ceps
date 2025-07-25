@@ -5,5 +5,7 @@
   "bairro": "Residencial Barcelona",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "latitude": "41.3750289",
+  "longitude": "2.1491173"
 }

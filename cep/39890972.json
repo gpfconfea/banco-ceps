@@ -1,9 +1,11 @@
 {
   "cep": "39890972",
   "logradouro": "Rua Dionísio Ferreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Giru",
   "localidade": "Joaíma",
   "uf": "MG",
-  "ibge": "3136009"
+  "ibge": "3136009",
+  "latitude": "-19.8788862",
+  "longitude": "-44.9982998"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Japi II",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1999273",
+  "longitude": "-46.9011722"
 }

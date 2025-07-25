@@ -1,9 +1,11 @@
 {
   "cep": "58887971",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bom Sucesso",
   "uf": "PB",
-  "ibge": "2502300"
+  "ibge": "2502300",
+  "latitude": "-29.92084",
+  "longitude": "-51.0436019"
 }

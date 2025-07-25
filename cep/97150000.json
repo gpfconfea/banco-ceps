@@ -5,5 +5,7 @@
   "bairro": "Passo do Verde",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "latitude": "-29.9244288",
+  "longitude": "-53.7240061"
 }

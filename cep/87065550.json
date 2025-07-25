@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaipu",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.452025",
+  "longitude": "-51.9727044"
 }

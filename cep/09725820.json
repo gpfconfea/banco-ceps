@@ -5,5 +5,7 @@
   "bairro": "Jardim Olavo Bilac",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "latitude": "-23.701284",
+  "longitude": "-46.5561687"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6901252",
+  "longitude": "-49.4096693"
 }

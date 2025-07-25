@@ -5,5 +5,7 @@
   "bairro": "Vale do Tamanduá",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "latitude": "-19.7589184",
+  "longitude": "-43.8569356"
 }

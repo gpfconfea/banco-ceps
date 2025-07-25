@@ -5,5 +5,7 @@
   "bairro": "Parque São Miguel",
   "localidade": "Agudos",
   "uf": "SP",
-  "ibge": "3500709"
+  "ibge": "3500709",
+  "latitude": "-22.47576",
+  "longitude": "-48.9765"
 }

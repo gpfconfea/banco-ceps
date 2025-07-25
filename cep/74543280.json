@@ -5,5 +5,7 @@
   "bairro": "Setor dos Funcionários",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.672561",
+  "longitude": "-49.2790182"
 }

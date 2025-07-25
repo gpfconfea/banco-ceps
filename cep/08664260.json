@@ -5,5 +5,7 @@
   "bairro": "Jardim Carlos Cooper",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.559469",
+  "longitude": "-46.3195402"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "95560991",
   "logradouro": "Estr Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Torres",
   "uf": "RS",
-  "ibge": "4321501"
+  "ibge": "4321501",
+  "latitude": "-29.2323705",
+  "longitude": "-49.9301063"
 }

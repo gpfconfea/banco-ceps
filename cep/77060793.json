@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista (Taquaralto)",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "latitude": "-10.3637079",
+  "longitude": "-48.3092701"
 }

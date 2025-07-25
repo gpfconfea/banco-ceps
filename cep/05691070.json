@@ -5,5 +5,7 @@
   "bairro": "Vila Tramontano",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.3637452",
+  "longitude": "-47.3375287"
 }

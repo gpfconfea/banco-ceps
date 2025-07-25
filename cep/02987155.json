@@ -5,5 +5,7 @@
   "bairro": "Parque Taipas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5204222",
+  "longitude": "-47.5360033"
 }

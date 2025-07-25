@@ -5,5 +5,7 @@
   "bairro": "Vila Arens II",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.2010461",
+  "longitude": "-46.875488"
 }

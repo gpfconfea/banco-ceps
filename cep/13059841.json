@@ -5,5 +5,7 @@
   "bairro": "Jardim Uruguai",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9563741",
+  "longitude": "-47.1355997"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55640990",
   "logradouro": "Rua Principal  - Russinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Gravatá",
   "uf": "PE",
-  "ibge": "2606408"
+  "ibge": "2606408",
+  "latitude": "-8.19935",
+  "longitude": "-35.57212"
 }

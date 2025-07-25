@@ -5,5 +5,7 @@
   "bairro": "Tancredo Neves",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-3.0566549",
+  "longitude": "-60.0425627"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58051959",
   "logradouro": "Jardim Universitário Bloco C",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Castelo Branco",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.1219",
+  "longitude": "-34.86161"
 }

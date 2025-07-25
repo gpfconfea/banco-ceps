@@ -5,5 +5,7 @@
   "bairro": "Condomínio Jequirituba",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7510479",
+  "longitude": "-46.663335"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim da Serra III",
   "localidade": "Fartura",
   "uf": "SP",
-  "ibge": "3515400"
+  "ibge": "3515400",
+  "latitude": "-23.3792802",
+  "longitude": "-49.5099555"
 }

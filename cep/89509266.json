@@ -5,5 +5,7 @@
   "bairro": "Rancho Fundo",
   "localidade": "Caçador",
   "uf": "SC",
-  "ibge": "4203006"
+  "ibge": "4203006",
+  "latitude": "-26.7784542",
+  "longitude": "-50.9825753"
 }

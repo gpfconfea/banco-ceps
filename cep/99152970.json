@@ -1,9 +1,11 @@
 {
   "cep": "99152970",
   "logradouro": "Estrada das Laranjeiras",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Laranjeira",
   "localidade": "Marau",
   "uf": "RS",
-  "ibge": "4311809"
+  "ibge": "4311809",
+  "latitude": "-29.89678",
+  "longitude": "-50.30293"
 }

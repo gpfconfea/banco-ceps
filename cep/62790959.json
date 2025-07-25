@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Redenção",
   "uf": "CE",
-  "ibge": "2311603"
+  "ibge": "2311603",
+  "latitude": "-4.2241485",
+  "longitude": "-38.7288195"
 }

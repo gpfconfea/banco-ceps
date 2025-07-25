@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0444622",
+  "longitude": "-51.0762418"
 }

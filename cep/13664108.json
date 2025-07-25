@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial dos Jatobás",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.85394",
+  "longitude": "-47.46049"
 }

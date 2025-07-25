@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cachoeirinha",
   "uf": "PE",
-  "ibge": "2603108"
+  "ibge": "2603108",
+  "latitude": "-8.4874866",
+  "longitude": "-36.2361851"
 }

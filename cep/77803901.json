@@ -1,9 +1,11 @@
 {
   "cep": "77803901",
   "logradouro": "Avenida Primeiro de Janeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "latitude": "-7.1926618",
+  "longitude": "-48.2086023"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "97975990",
   "logradouro": "Av, Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rincão Vermelho",
   "localidade": "Roque Gonzales",
   "uf": "RS",
-  "ibge": "4316303"
+  "ibge": "4316303",
+  "latitude": "-27.95274",
+  "longitude": "-55.27668"
 }

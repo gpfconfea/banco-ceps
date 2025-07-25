@@ -5,5 +5,7 @@
   "bairro": "Vila Itamarati",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "latitude": "-22.7752072",
+  "longitude": "-43.3004868"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "40286903",
   "logradouro": "Ladeira do Hospital Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Brotas",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9971952",
+  "longitude": "-38.4915448"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65025902",
   "logradouro": "Avenida Senador Vitorino Freire",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Madre Deus",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5346455",
+  "longitude": "-44.3058341"
 }

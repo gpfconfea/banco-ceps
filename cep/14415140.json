@@ -5,5 +5,7 @@
   "bairro": "João Flávio",
   "localidade": "Patrocínio Paulista",
   "uf": "SP",
-  "ibge": "3536307"
+  "ibge": "3536307",
+  "latitude": "-20.64492",
+  "longitude": "-47.27289"
 }

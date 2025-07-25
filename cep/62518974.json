@@ -1,9 +1,11 @@
 {
   "cep": "62518974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Baleia",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "latitude": "-3.3625573",
+  "longitude": "-39.6318628"
 }

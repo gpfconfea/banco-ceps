@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Nico Baracat",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6533708",
+  "longitude": "-56.0378949"
 }

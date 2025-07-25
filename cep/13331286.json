@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Santa Clara",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0684905",
+  "longitude": "-47.22718"
 }

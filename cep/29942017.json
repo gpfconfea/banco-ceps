@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "São Mateus",
   "uf": "ES",
-  "ibge": "3204906"
+  "ibge": "3204906",
+  "latitude": "-4.0221243",
+  "longitude": "-44.4704817"
 }

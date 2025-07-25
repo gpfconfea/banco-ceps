@@ -1,9 +1,11 @@
 {
   "cep": "55602900",
   "logradouro": "Praça Padre Félix Barreto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Livramento",
   "localidade": "Vitória de Santo Antão",
   "uf": "PE",
-  "ibge": "2616407"
+  "ibge": "2616407",
+  "latitude": "-8.1201903",
+  "longitude": "-35.2990773"
 }

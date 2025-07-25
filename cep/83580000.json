@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Cerro Azul",
   "uf": "PR",
-  "ibge": "4105201"
+  "ibge": "4105201",
+  "latitude": "-24.853631",
+  "longitude": "-49.463961"
 }

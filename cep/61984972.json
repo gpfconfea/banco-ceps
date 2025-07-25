@@ -1,9 +1,11 @@
 {
   "cep": "61984972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Manoel Guedes",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "latitude": "-4.0929794",
+  "longitude": "-38.9240803"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Teresa",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "latitude": "-23.5456557",
+  "longitude": "-46.7028718"
 }

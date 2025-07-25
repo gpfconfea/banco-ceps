@@ -5,5 +5,7 @@
   "bairro": "Nova Higienópolis",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5581804",
+  "longitude": "-46.8759406"
 }

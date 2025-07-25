@@ -5,5 +5,7 @@
   "bairro": "Jardim Apolo II",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.203832",
+  "longitude": "-45.9041506"
 }

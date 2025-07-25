@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rosa",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-32.0800281",
+  "longitude": "-52.1959181"
 }

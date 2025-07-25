@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Espaço Verde II",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.94046",
+  "longitude": "-47.11812"
 }

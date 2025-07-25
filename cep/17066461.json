@@ -5,5 +5,7 @@
   "bairro": "Parque Jaraguá",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3042885",
+  "longitude": "-49.1151158"
 }

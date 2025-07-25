@@ -1,9 +1,11 @@
 {
   "cep": "83760995",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Lapa",
   "uf": "PR",
-  "ibge": "4113205"
+  "ibge": "4113205",
+  "latitude": "-13.2251225",
+  "longitude": "-43.4008634"
 }

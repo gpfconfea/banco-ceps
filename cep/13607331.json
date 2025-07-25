@@ -5,5 +5,7 @@
   "bairro": "Jardim Universitário",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "latitude": "-22.3725557",
+  "longitude": "-47.371145"
 }

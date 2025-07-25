@@ -1,9 +1,11 @@
 {
   "cep": "88910970",
   "logradouro": "Rua Hipólito Manoel da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sanga da Toca",
   "localidade": "Araranguá",
   "uf": "SC",
-  "ibge": "4201406"
+  "ibge": "4201406",
+  "latitude": "-29.0237166",
+  "longitude": "-49.598869"
 }

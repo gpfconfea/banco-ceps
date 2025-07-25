@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.58946",
+  "longitude": "-48.56903"
 }

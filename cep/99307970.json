@@ -1,9 +1,11 @@
 {
   "cep": "99307970",
   "logradouro": "Estrada do Pinhal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pinhal",
   "localidade": "Pinhal",
   "uf": "RS",
-  "ibge": "4314456"
+  "ibge": "4314456",
+  "latitude": "-29.6102325",
+  "longitude": "-51.8936767"
 }

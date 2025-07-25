@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Canitar B",
   "localidade": "Canitar",
   "uf": "SP",
-  "ibge": "3510153"
+  "ibge": "3510153",
+  "latitude": "-23.00381",
+  "longitude": "-49.78645"
 }

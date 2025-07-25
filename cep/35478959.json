@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Crucilândia",
   "uf": "MG",
-  "ibge": "3120607"
+  "ibge": "3120607",
+  "latitude": "-21.28858",
+  "longitude": "-43.42052"
 }

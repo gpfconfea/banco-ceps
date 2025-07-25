@@ -1,9 +1,11 @@
 {
   "cep": "57257970",
   "logradouro": "Rua João Pedro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Roteiro",
   "uf": "AL",
-  "ibge": "2707800"
+  "ibge": "2707800",
+  "latitude": "-9.8334955",
+  "longitude": "-35.9789267"
 }

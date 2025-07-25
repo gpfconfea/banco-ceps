@@ -1,9 +1,11 @@
 {
   "cep": "86108990",
   "logradouro": "Rua João Costa Melquiades",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.35743",
+  "longitude": "-51.20737"
 }

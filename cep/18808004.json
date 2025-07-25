@@ -5,5 +5,7 @@
   "bairro": "Cooperativa de Habitação da Cidade de Piraju",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.1854071",
+  "longitude": "-49.4011783"
 }

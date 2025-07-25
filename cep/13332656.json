@@ -6,5 +6,7 @@
   "bairro": "Mato Dentro",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0536225",
+  "longitude": "-47.2381118"
 }

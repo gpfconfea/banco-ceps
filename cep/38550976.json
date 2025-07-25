@@ -1,9 +1,11 @@
 {
   "cep": "38550976",
   "logradouro": "Rua Dois",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Coromandel",
   "uf": "MG",
-  "ibge": "3119302"
+  "ibge": "3119302",
+  "latitude": "-18.2680339",
+  "longitude": "-47.0097907"
 }

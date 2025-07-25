@@ -5,5 +5,7 @@
   "bairro": "Jardim Padre Lauro",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8767355",
+  "longitude": "-45.005659"
 }

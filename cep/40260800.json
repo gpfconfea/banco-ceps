@@ -5,5 +5,7 @@
   "bairro": "Luiz Anselmo",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9762185",
+  "longitude": "-38.4856906"
 }

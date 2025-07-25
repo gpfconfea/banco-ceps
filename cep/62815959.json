@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fortim",
   "uf": "CE",
-  "ibge": "2304459"
+  "ibge": "2304459",
+  "latitude": "-4.4539604",
+  "longitude": "-37.7956804"
 }

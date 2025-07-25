@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Pederneiras",
   "uf": "SP",
-  "ibge": "3536703"
+  "ibge": "3536703",
+  "latitude": "-22.36602",
+  "longitude": "-48.76878"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedralva",
   "uf": "MG",
-  "ibge": "3149101"
+  "ibge": "3149101",
+  "latitude": "-22.2466803",
+  "longitude": "-45.4669842"
 }

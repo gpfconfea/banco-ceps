@@ -1,9 +1,11 @@
 {
   "cep": "58795971",
   "logradouro": "Rua Padre José Lopes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distritos",
   "localidade": "Santana dos Garrotes",
   "uf": "PB",
-  "ibge": "2513604"
+  "ibge": "2513604",
+  "latitude": "-22.170643",
+  "longitude": "-43.3083238"
 }

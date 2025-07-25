@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Esmeralda",
   "uf": "RS",
-  "ibge": "4307401"
+  "ibge": "4307401",
+  "latitude": "-28.0627048",
+  "longitude": "-51.1832871"
 }

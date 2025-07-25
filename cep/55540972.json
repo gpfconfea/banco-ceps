@@ -1,9 +1,11 @@
 {
   "cep": "55540972",
   "logradouro": "Rua do Chale",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Serro Azul",
   "localidade": "Palmares",
   "uf": "PE",
-  "ibge": "2610004"
+  "ibge": "2610004",
+  "latitude": "-9.398275",
+  "longitude": "-40.4911916"
 }

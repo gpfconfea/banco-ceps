@@ -1,9 +1,11 @@
 {
   "cep": "48476970",
   "logradouro": "Praça do Mercado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sambaíba",
   "localidade": "Itapicuru",
   "uf": "BA",
-  "ibge": "2916500"
+  "ibge": "2916500",
+  "latitude": "-11.03883",
+  "longitude": "-38.43206"
 }

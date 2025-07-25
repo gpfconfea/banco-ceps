@@ -1,9 +1,11 @@
 {
   "cep": "68775970",
   "logradouro": "Avenida São Benedito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Umarizal",
   "localidade": "São Caetano de Odivelas",
   "uf": "PA",
-  "ibge": "1507102"
+  "ibge": "1507102",
+  "latitude": "-0.7464155",
+  "longitude": "-48.0213873"
 }

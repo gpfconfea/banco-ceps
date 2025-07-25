@@ -5,5 +5,7 @@
   "bairro": "Fazenda Barreiro do Meio",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.18166",
+  "longitude": "-49.079"
 }

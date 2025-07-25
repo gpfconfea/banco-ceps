@@ -5,5 +5,7 @@
   "bairro": "Vila Veneza",
   "localidade": "Conselheiro Lafaiete",
   "uf": "MG",
-  "ibge": "3118304"
+  "ibge": "3118304",
+  "latitude": "-19.6105341",
+  "longitude": "-46.9297032"
 }

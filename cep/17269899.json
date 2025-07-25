@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Itaju",
   "localidade": "Itaju",
   "uf": "SP",
-  "ibge": "3522000"
+  "ibge": "3522000",
+  "latitude": "-22.8433",
+  "longitude": "-47.16743"
 }

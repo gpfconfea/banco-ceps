@@ -5,5 +5,7 @@
   "bairro": "Jardim Iguatemy",
   "localidade": "Fernandópolis",
   "uf": "SP",
-  "ibge": "3515509"
+  "ibge": "3515509",
+  "latitude": "-23.60328",
+  "longitude": "-46.43441"
 }

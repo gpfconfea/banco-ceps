@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Chavantes",
   "localidade": "Chavantes",
   "uf": "SP",
-  "ibge": "3557204"
+  "ibge": "3557204",
+  "latitude": "-23.04503",
+  "longitude": "-49.71495"
 }

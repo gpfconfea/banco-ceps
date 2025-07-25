@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "latitude": "-21.3025566",
+  "longitude": "-52.8224723"
 }

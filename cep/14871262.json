@@ -5,5 +5,7 @@
   "bairro": "Residencial Manacás",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "latitude": "-21.25518",
+  "longitude": "-48.32244"
 }

@@ -5,5 +5,7 @@
   "bairro": "Aterrado",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.5100404",
+  "longitude": "-44.0946412"
 }

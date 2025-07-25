@@ -6,5 +6,7 @@
   "bairro": "Jardins",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.0924315",
+  "longitude": "-52.6407723"
 }

@@ -5,5 +5,7 @@
   "bairro": "Mariano",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2237398",
+  "longitude": "-45.9408095"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim da Cidade IV",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.2139201",
+  "longitude": "-47.2778286"
 }
