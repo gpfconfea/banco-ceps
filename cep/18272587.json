@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Vista Alta",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3369303",
+  "longitude": "-47.8304943"
 }

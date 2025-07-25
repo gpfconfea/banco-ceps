@@ -5,5 +5,7 @@
   "bairro": "Residencial Viva Mais Novo Horizonte",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4663874",
+  "longitude": "-49.2068949"
 }

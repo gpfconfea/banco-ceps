@@ -5,5 +5,7 @@
   "bairro": "Barrolandia",
   "localidade": "Barra do Mendes",
   "uf": "BA",
-  "ibge": "2903003"
+  "ibge": "2903003",
+  "latitude": "-11.8085696",
+  "longitude": "-42.0602489"
 }

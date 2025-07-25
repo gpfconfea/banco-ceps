@@ -5,5 +5,7 @@
   "bairro": "Curado",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-7.9456007",
+  "longitude": "-35.3846456"
 }

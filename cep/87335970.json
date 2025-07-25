@@ -5,5 +5,7 @@
   "bairro": "Santo Rei",
   "localidade": "Nova Cantu",
   "uf": "PR",
-  "ibge": "4116802"
+  "ibge": "4116802",
+  "latitude": "-24.6726941",
+  "longitude": "-52.5699983"
 }

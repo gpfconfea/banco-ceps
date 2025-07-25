@@ -1,9 +1,11 @@
 {
   "cep": "61753975",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Camará",
   "localidade": "Aquiraz",
   "uf": "CE",
-  "ibge": "2301000"
+  "ibge": "2301000",
+  "latitude": "-3.9342445",
+  "longitude": "-38.312892"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "07775900",
   "logradouro": "Avenida Ribeirão dos Cristais Bloco 200 Galpão 1 e 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Empresarial Paineira (Jordanésia)",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "latitude": "-23.341034",
+  "longitude": "-46.845628"
 }

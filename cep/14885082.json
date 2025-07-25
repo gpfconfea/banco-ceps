@@ -5,5 +5,7 @@
   "bairro": "Athenas Paulista",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "latitude": "-21.2572035",
+  "longitude": "-48.2961338"
 }

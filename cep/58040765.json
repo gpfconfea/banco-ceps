@@ -6,5 +6,7 @@
   "bairro": "Torre",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.1250088",
+  "longitude": "-34.85721"
 }

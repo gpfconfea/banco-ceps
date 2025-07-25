@@ -1,9 +1,11 @@
 {
   "cep": "64250959",
   "logradouro": "Rua Manuel FerreiraViana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Domingos Mourão",
   "uf": "PI",
-  "ibge": "2203420"
+  "ibge": "2203420",
+  "latitude": "-4.25467",
+  "longitude": "-41.27237"
 }

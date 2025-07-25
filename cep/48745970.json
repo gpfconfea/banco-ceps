@@ -1,9 +1,11 @@
 {
   "cep": "48745970",
   "logradouro": "Rua José Rosálio de Araújo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bandiaçu",
   "localidade": "Conceição do Coité",
   "uf": "BA",
-  "ibge": "2908408"
+  "ibge": "2908408",
+  "latitude": "-11.5603908",
+  "longitude": "-39.2811841"
 }

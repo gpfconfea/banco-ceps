@@ -1,9 +1,11 @@
 {
   "cep": "85255970",
   "logradouro": "Rua Paraná",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Poema",
   "localidade": "Nova Tebas",
   "uf": "PR",
-  "ibge": "4117271"
+  "ibge": "4117271",
+  "latitude": "-24.4371791",
+  "longitude": "-51.9508458"
 }

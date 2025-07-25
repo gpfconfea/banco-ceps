@@ -1,9 +1,11 @@
 {
   "cep": "29530980",
   "logradouro": "Rua São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Anutiba",
   "localidade": "Alegre",
   "uf": "ES",
-  "ibge": "3200201"
+  "ibge": "3200201",
+  "latitude": "-20.6099882",
+  "longitude": "-41.4538736"
 }

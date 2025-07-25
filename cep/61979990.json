@@ -1,9 +1,11 @@
 {
   "cep": "61979990",
   "logradouro": "Praça Adelino Coelho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "latitude": "-4.02407",
+  "longitude": "-38.93111"
 }

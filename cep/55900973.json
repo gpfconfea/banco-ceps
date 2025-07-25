@@ -1,9 +1,11 @@
 {
   "cep": "55900973",
   "logradouro": "Rua da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Goiana",
   "uf": "PE",
-  "ibge": "2606200"
+  "ibge": "2606200",
+  "latitude": "-7.5661723",
+  "longitude": "-35.0160047"
 }

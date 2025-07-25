@@ -1,9 +1,11 @@
 {
   "cep": "42821900",
   "logradouro": "Rua Colônia Boa União",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa União (Abrantes)",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.84785",
+  "longitude": "-38.28793"
 }

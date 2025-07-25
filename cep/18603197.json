@@ -5,5 +5,7 @@
   "bairro": "Vila São Lúcio",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.3367695",
+  "longitude": "-49.0450591"
 }

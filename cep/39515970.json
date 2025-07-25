@@ -1,9 +1,11 @@
 {
   "cep": "39515970",
   "logradouro": "Praça Santa Rita",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itamirim",
   "localidade": "Espinosa",
   "uf": "MG",
-  "ibge": "3124302"
+  "ibge": "3124302",
+  "latitude": "-22.2528986",
+  "longitude": "-45.7049987"
 }

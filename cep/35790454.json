@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Curvelo",
   "uf": "MG",
-  "ibge": "3120904"
+  "ibge": "3120904",
+  "latitude": "-18.7455",
+  "longitude": "-44.43563"
 }

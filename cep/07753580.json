@@ -5,5 +5,7 @@
   "bairro": "Empresarial Anhanguera",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "latitude": "-23.0548178",
+  "longitude": "-47.1751012"
 }

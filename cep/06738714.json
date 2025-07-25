@@ -6,5 +6,7 @@
   "bairro": "Mariápolis Ginetta",
   "localidade": "Vargem Grande Paulista",
   "uf": "SP",
-  "ibge": "3556453"
+  "ibge": "3556453",
+  "latitude": "-23.59347",
+  "longitude": "-47.02776"
 }

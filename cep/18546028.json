@@ -5,5 +5,7 @@
   "bairro": "Vila Alcalá",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.2136135",
+  "longitude": "-47.5149528"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Benevides",
   "uf": "PA",
-  "ibge": "1501501"
+  "ibge": "1501501",
+  "latitude": "-1.3621578",
+  "longitude": "-48.2418385"
 }

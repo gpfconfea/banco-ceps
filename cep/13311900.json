@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2656818",
+  "longitude": "-47.3212766"
 }

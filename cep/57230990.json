@@ -1,9 +1,11 @@
 {
   "cep": "57230990",
   "logradouro": "Rua da Praia - Pontal do Coruripe",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Coruripe",
   "uf": "AL",
-  "ibge": "2702306"
+  "ibge": "2702306",
+  "latitude": "-10.1582129",
+  "longitude": "-36.135717"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Barth",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.6081029",
+  "longitude": "-48.0510525"
 }

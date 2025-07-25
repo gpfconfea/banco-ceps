@@ -5,5 +5,7 @@
   "bairro": "Morro de São Paulo",
   "localidade": "Cairu",
   "uf": "BA",
-  "ibge": "2905404"
+  "ibge": "2905404",
+  "latitude": "-13.3775457",
+  "longitude": "-38.9159969"
 }

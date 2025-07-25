@@ -5,5 +5,7 @@
   "bairro": "Boqueirão",
   "localidade": "Lagoa Vermelha",
   "uf": "RS",
-  "ibge": "4311304"
+  "ibge": "4311304",
+  "latitude": "-28.4173636",
+  "longitude": "-51.4119187"
 }

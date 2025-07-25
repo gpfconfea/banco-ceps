@@ -5,5 +5,7 @@
   "bairro": "Residencial Vida Nova Olímpia IV",
   "localidade": "Olímpia",
   "uf": "SP",
-  "ibge": "3533908"
+  "ibge": "3533908",
+  "latitude": "-20.73854",
+  "longitude": "-48.91405"
 }

@@ -5,5 +5,7 @@
   "bairro": "Morro Vermelho",
   "localidade": "Caeté",
   "uf": "MG",
-  "ibge": "3110004"
+  "ibge": "3110004",
+  "latitude": "-19.9834737",
+  "longitude": "-43.7034121"
 }

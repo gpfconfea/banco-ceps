@@ -5,5 +5,7 @@
   "bairro": "Vila Reis",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.3623078",
+  "longitude": "-49.4981371"
 }

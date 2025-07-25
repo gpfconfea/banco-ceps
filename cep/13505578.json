@@ -5,5 +5,7 @@
   "bairro": "Residencial Bosques de Rio Claro",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "latitude": "-22.3815005",
+  "longitude": "-47.5822672"
 }

@@ -6,5 +6,7 @@
   "bairro": "Parque dos Bandeirantes",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.56047",
+  "longitude": "-46.93827"
 }

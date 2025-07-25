@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.8006024",
+  "longitude": "-47.9843816"
 }

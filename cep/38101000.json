@@ -5,5 +5,7 @@
   "bairro": "Baixa",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.9865218",
+  "longitude": "-47.9258752"
 }

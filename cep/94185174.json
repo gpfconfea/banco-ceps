@@ -5,5 +5,7 @@
   "bairro": "Girassol",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.9474346",
+  "longitude": "-50.9657611"
 }

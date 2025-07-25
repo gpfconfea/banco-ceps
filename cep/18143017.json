@@ -5,5 +5,7 @@
   "bairro": "Centro (Mailasqui)",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.6586906",
+  "longitude": "-47.1808935"
 }

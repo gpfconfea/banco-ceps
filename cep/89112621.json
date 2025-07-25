@@ -5,5 +5,7 @@
   "bairro": "Gaspar Mirim",
   "localidade": "Gaspar",
   "uf": "SC",
-  "ibge": "4205902"
+  "ibge": "4205902",
+  "latitude": "40.7134088",
+  "longitude": "-74.011926"
 }

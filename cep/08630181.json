@@ -5,5 +5,7 @@
   "bairro": "Jardim Restinga",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.6507078",
+  "longitude": "-46.3282325"
 }

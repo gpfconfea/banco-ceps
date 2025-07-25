@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaíra",
   "uf": "SP",
-  "ibge": "3517406"
+  "ibge": "3517406",
+  "latitude": "-20.3235403",
+  "longitude": "-48.3148008"
 }

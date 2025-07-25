@@ -6,5 +6,7 @@
   "bairro": "Industrial Sul",
   "localidade": "Rio Negrinho",
   "uf": "SC",
-  "ibge": "4215000"
+  "ibge": "4215000",
+  "latitude": "-26.2397053",
+  "longitude": "-49.4983938"
 }

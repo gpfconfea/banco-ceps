@@ -1,9 +1,11 @@
 {
   "cep": "58113900",
   "logradouro": "Avenida Marechal Rondon",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Aeroporto",
   "localidade": "Bayeux",
   "uf": "PB",
-  "ibge": "2501807"
+  "ibge": "2501807",
+  "latitude": "-7.1378929",
+  "longitude": "-34.9428889"
 }

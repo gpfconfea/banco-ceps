@@ -5,5 +5,7 @@
   "bairro": "Residencial Montagno",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.52019",
+  "longitude": "-49.42697"
 }

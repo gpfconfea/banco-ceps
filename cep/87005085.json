@@ -5,5 +5,7 @@
   "bairro": "Vila Bosque",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4370903",
+  "longitude": "-51.9271721"
 }

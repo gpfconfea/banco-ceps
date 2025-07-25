@@ -5,5 +5,7 @@
   "bairro": "Jardim São Vicente de Paulo",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2500214",
+  "longitude": "-49.9459819"
 }

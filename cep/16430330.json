@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Guaiçara",
   "uf": "SP",
-  "ibge": "3517208"
+  "ibge": "3517208",
+  "latitude": "-21.61874",
+  "longitude": "-49.7933"
 }

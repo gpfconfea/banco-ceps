@@ -5,5 +5,7 @@
   "bairro": "Jardim Laguna",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.89508",
+  "longitude": "-44.03462"
 }

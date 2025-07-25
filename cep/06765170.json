@@ -5,5 +5,7 @@
   "bairro": "Jardim São Mateus",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "latitude": "-23.598611",
+  "longitude": "-46.758847"
 }

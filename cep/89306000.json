@@ -5,5 +5,7 @@
   "bairro": "Jardim do Moinho",
   "localidade": "Mafra",
   "uf": "SC",
-  "ibge": "4210100"
+  "ibge": "4210100",
+  "latitude": "-26.12631",
+  "longitude": "-49.80349"
 }

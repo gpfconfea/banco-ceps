@@ -1,9 +1,11 @@
 {
   "cep": "16404901",
   "logradouro": "Rua José Hermani Junqueira de Andrade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Industrial",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.6813541",
+  "longitude": "-49.7731279"
 }

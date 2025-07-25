@@ -1,9 +1,11 @@
 {
   "cep": "58297971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Rio Tinto",
   "uf": "PB",
-  "ibge": "2512903"
+  "ibge": "2512903",
+  "latitude": "40.4871829",
+  "longitude": "-8.6478289"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29660980",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João de Petrópolis",
   "localidade": "Santa Teresa",
   "uf": "ES",
-  "ibge": "3204609"
+  "ibge": "3204609",
+  "latitude": "-19.8160528",
+  "longitude": "-40.6780058"
 }

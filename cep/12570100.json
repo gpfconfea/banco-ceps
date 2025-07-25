@@ -6,5 +6,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Aparecida",
   "uf": "SP",
-  "ibge": "3502507"
+  "ibge": "3502507",
+  "latitude": "-22.8390902",
+  "longitude": "-45.2264724"
 }

@@ -5,5 +5,7 @@
   "bairro": "Maria Farinha",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "latitude": "-22.8723865",
+  "longitude": "-46.5304565"
 }

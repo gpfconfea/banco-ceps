@@ -1,9 +1,11 @@
 {
   "cep": "59064903",
   "logradouro": "Avenida Prudente de Morais",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa Nova",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-5.8123245",
+  "longitude": "-35.2103792"
 }

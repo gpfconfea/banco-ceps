@@ -5,5 +5,7 @@
   "bairro": "Vila Marajó",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "latitude": "-23.2215153",
+  "longitude": "-46.847046"
 }

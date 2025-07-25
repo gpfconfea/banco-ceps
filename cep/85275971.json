@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Laranjal",
   "uf": "PR",
-  "ibge": "4113254"
+  "ibge": "4113254",
+  "latitude": "-24.8894315",
+  "longitude": "-52.4722253"
 }

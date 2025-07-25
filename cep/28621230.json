@@ -5,5 +5,7 @@
   "bairro": "Vargem Grande",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "latitude": "-22.3220984",
+  "longitude": "-42.5651222"
 }

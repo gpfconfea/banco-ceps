@@ -1,9 +1,11 @@
 {
   "cep": "11790990",
   "logradouro": "Estrada Municipal dos Marianos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pedro de Toledo",
   "uf": "SP",
-  "ibge": "3537206"
+  "ibge": "3537206",
+  "latitude": "-24.3372",
+  "longitude": "-47.27826"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tombos",
   "uf": "MG",
-  "ibge": "3169208"
+  "ibge": "3169208",
+  "latitude": "-20.9083753",
+  "longitude": "-42.0270243"
 }

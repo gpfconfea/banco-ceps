@@ -5,5 +5,7 @@
   "bairro": "Jardim Serra Dourada",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "latitude": "-21.1256094",
+  "longitude": "-47.8230984"
 }

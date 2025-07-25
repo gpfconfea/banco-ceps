@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipanema",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4575699",
+  "longitude": "-51.879153"
 }

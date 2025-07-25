@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porecatu",
   "uf": "PR",
-  "ibge": "4120002"
+  "ibge": "4120002",
+  "latitude": "-22.7563969",
+  "longitude": "-51.3747257"
 }

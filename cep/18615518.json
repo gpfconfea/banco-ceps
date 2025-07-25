@@ -5,5 +5,7 @@
   "bairro": "Chácara de Recreio Jardim Alvorada",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-23.597863",
+  "longitude": "-46.5036493"
 }

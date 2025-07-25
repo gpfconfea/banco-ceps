@@ -1,9 +1,11 @@
 {
   "cep": "59625900",
   "logradouro": "Avenida Francisco Mota",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Presidente Costa e Silva",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "latitude": "-5.1998828",
+  "longitude": "-37.3210033"
 }

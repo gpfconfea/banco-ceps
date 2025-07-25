@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maracaçumé",
   "uf": "MA",
-  "ibge": "2106326"
+  "ibge": "2106326",
+  "latitude": "-2.04723",
+  "longitude": "-45.96179"
 }

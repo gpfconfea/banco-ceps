@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Salgadinho",
   "uf": "PB",
-  "ibge": "2513000"
+  "ibge": "2513000",
+  "latitude": "-7.10291",
+  "longitude": "-36.84461"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Campo Grande",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-23.5295696",
+  "longitude": "-46.1877912"
 }

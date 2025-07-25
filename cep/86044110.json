@@ -5,5 +5,7 @@
   "bairro": "Santa Joana",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.378232",
+  "longitude": "-51.1301818"
 }

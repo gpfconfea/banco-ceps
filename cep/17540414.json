@@ -5,5 +5,7 @@
   "bairro": "Residencial Jacomini",
   "localidade": "Ocauçu",
   "uf": "SP",
-  "ibge": "3533700"
+  "ibge": "3533700",
+  "latitude": "-22.4381206",
+  "longitude": "-49.9149768"
 }

@@ -6,5 +6,7 @@
   "bairro": "Distrito Industrial Itaqui",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.00058",
+  "longitude": "-47.11824"
 }

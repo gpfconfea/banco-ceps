@@ -5,5 +5,7 @@
   "bairro": "Colônia Antônio Prado",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.326196",
+  "longitude": "-49.255113"
 }

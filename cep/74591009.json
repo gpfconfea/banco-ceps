@@ -5,5 +5,7 @@
   "bairro": "Residencial Balneário",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6171831",
+  "longitude": "-49.2885284"
 }

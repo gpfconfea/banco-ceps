@@ -5,5 +5,7 @@
   "bairro": "Riviera",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-23.7975567",
+  "longitude": "-46.0144668"
 }

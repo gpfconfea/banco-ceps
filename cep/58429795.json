@@ -6,5 +6,7 @@
   "bairro": "Bento Figueiredo",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "latitude": "-7.25369",
+  "longitude": "-35.92067"
 }

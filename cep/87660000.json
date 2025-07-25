@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paranacity",
   "uf": "PR",
-  "ibge": "4118105"
+  "ibge": "4118105",
+  "latitude": "-22.9304971",
+  "longitude": "-52.1523164"
 }

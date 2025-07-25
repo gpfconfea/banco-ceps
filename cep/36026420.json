@@ -5,5 +5,7 @@
   "bairro": "Alto dos Passos",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.776316",
+  "longitude": "-43.3495254"
 }

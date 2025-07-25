@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Campestre de Goiás",
   "uf": "GO",
-  "ibge": "5204607"
+  "ibge": "5204607",
+  "latitude": "-16.7654252",
+  "longitude": "-49.693397"
 }

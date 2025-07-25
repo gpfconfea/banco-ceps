@@ -5,5 +5,7 @@
   "bairro": "Serraria do Rocha",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-23.278483",
+  "longitude": "-51.1853429"
 }

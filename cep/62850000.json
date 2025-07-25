@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cascavel",
   "uf": "CE",
-  "ibge": "2303501"
+  "ibge": "2303501",
+  "latitude": "-4.129666",
+  "longitude": "-38.241178"
 }

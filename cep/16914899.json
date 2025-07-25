@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Andradina",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "latitude": "-20.9060541",
+  "longitude": "-51.3622628"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55240970",
   "logradouro": "Praça Monsenhor Estanislau",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Poção",
   "uf": "PE",
-  "ibge": "2611200"
+  "ibge": "2611200",
+  "latitude": "-8.1864577",
+  "longitude": "-36.7037799"
 }

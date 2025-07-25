@@ -5,5 +5,7 @@
   "bairro": "Nova Corumbá",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "latitude": "-21.4905816",
+  "longitude": "-56.1571169"
 }

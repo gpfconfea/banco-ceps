@@ -5,5 +5,7 @@
   "bairro": "Cabralzinho",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "-23.49633",
+  "longitude": "-46.799065"
 }

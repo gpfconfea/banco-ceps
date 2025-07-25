@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "latitude": "-22.32954",
+  "longitude": "-47.16291"
 }

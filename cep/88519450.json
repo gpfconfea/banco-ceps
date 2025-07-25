@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.7849079",
+  "longitude": "-50.321002"
 }

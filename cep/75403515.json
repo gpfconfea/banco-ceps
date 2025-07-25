@@ -5,5 +5,7 @@
   "bairro": "Vila Heitor de Paula",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.3606387",
+  "longitude": "-49.4949466"
 }

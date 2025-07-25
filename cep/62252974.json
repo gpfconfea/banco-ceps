@@ -1,9 +1,11 @@
 {
   "cep": "62252974",
   "logradouro": "Rua Manoel Benvindo de Menezes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Abílio Martins",
   "localidade": "Ipu",
   "uf": "CE",
-  "ibge": "2305803"
+  "ibge": "2305803",
+  "latitude": "-4.3220187",
+  "longitude": "-40.7092475"
 }

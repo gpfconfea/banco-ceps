@@ -1,9 +1,11 @@
 {
   "cep": "45208904",
   "logradouro": "Avenida Landulfo Caribé",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jequiezinho",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-13.8638001",
+  "longitude": "-40.0788779"
 }

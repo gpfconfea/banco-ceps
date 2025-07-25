@@ -5,5 +5,7 @@
   "bairro": "Residencial Portal Universitário",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.4134634",
+  "longitude": "-45.9869426"
 }

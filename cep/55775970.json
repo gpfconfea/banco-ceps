@@ -1,9 +1,11 @@
 {
   "cep": "55775970",
   "logradouro": "Rua do Comercio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serra da Cachoeira",
   "localidade": "Vertentes",
   "uf": "PE",
-  "ibge": "2616209"
+  "ibge": "2616209",
+  "latitude": "-7.7962833",
+  "longitude": "-35.9543034"
 }

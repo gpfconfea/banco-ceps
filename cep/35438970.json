@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Acaiaca",
   "uf": "MG",
-  "ibge": "3100401"
+  "ibge": "3100401",
+  "latitude": "-17.3496405",
+  "longitude": "-44.9468935"
 }

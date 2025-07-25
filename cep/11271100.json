@@ -5,5 +5,7 @@
   "bairro": "Boraceia",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-23.74235",
+  "longitude": "-45.86428"
 }

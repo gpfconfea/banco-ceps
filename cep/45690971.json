@@ -1,9 +1,11 @@
 {
   "cep": "45690971",
   "logradouro": "Rua da Linha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pedras de Una",
   "localidade": "Una",
   "uf": "BA",
-  "ibge": "2932507"
+  "ibge": "2932507",
+  "latitude": "-15.2798058",
+  "longitude": "-39.0119931"
 }

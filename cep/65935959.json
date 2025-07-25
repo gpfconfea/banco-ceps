@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Buritirana",
   "uf": "MA",
-  "ibge": "2102358"
+  "ibge": "2102358",
+  "latitude": "-5.5898184",
+  "longitude": "-47.015573"
 }

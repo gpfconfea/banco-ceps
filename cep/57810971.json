@@ -1,9 +1,11 @@
 {
   "cep": "57810971",
   "logradouro": "Distrito Rocha Cavalcante",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rocha Cavalcante",
   "localidade": "União dos Palmares",
   "uf": "AL",
-  "ibge": "2709301"
+  "ibge": "2709301",
+  "latitude": "-6.3463006",
+  "longitude": "-37.7345724"
 }

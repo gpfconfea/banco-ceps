@@ -5,5 +5,7 @@
   "bairro": "Lázaro",
   "localidade": "Ubatuba",
   "uf": "SP",
-  "ibge": "3555406"
+  "ibge": "3555406",
+  "latitude": "-23.50253",
+  "longitude": "-45.1353"
 }

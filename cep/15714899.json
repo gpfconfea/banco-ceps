@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Vitória Brasil",
   "localidade": "Vitória Brasil",
   "uf": "SP",
-  "ibge": "3556958"
+  "ibge": "3556958",
+  "latitude": "-20.19922",
+  "longitude": "-50.48549"
 }

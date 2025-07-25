@@ -1,9 +1,11 @@
 {
   "cep": "86440970",
   "logradouro": "Rua 1º de Janeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Conselheiro Zacarias",
   "localidade": "Santo Antônio da Platina",
   "uf": "PR",
-  "ibge": "4124103"
+  "ibge": "4124103",
+  "latitude": "-23.4113267",
+  "longitude": "-49.9784014"
 }

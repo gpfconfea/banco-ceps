@@ -5,5 +5,7 @@
   "bairro": "Vila Alice (Vicente de Carvalho)",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "latitude": "-23.9431368",
+  "longitude": "-46.2993348"
 }

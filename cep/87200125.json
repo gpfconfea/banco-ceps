@@ -5,5 +5,7 @@
   "bairro": "Zona 01",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "-23.7356208",
+  "longitude": "-52.8732539"
 }

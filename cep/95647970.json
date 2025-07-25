@@ -5,5 +5,7 @@
   "bairro": "Poço Fundo",
   "localidade": "Parobé",
   "uf": "RS",
-  "ibge": "4314050"
+  "ibge": "4314050",
+  "latitude": "-29.641",
+  "longitude": "-50.86275"
 }

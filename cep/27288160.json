@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.4642937",
+  "longitude": "-44.0869208"
 }

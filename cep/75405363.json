@@ -5,5 +5,7 @@
   "bairro": "Setor Sol Nascente III",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.38503",
+  "longitude": "-49.49006"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44300970",
   "logradouro": "Rua Doutor Aristides Milton",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cachoeira",
   "uf": "BA",
-  "ibge": "2904902"
+  "ibge": "2904902",
+  "latitude": "-18.75917",
+  "longitude": "-50.94483"
 }

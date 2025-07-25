@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "latitude": "-1.1274392",
+  "longitude": "-47.6295281"
 }

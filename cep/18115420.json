@@ -5,5 +5,7 @@
   "bairro": "Vila Aldo Damini",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5611886",
+  "longitude": "-47.4490446"
 }

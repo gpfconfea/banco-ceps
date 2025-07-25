@@ -5,5 +5,7 @@
   "bairro": "Capela",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-23.0388102",
+  "longitude": "-47.0136289"
 }

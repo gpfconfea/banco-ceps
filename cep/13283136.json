@@ -5,5 +5,7 @@
   "bairro": "João XXIII",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-22.9004079",
+  "longitude": "-47.0416146"
 }

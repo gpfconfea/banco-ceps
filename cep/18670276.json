@@ -6,5 +6,7 @@
   "bairro": "Residencial Prefeito Tito Costa",
   "localidade": "Areiópolis",
   "uf": "SP",
-  "ibge": "3503604"
+  "ibge": "3503604",
+  "latitude": "-21.15488",
+  "longitude": "-48.96339"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Itapira",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4333555",
+  "longitude": "-46.8358061"
 }

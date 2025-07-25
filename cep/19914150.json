@@ -5,5 +5,7 @@
   "bairro": "Jardim Ouro Fino",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-22.9744963",
+  "longitude": "-49.854925"
 }

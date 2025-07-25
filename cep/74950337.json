@@ -5,5 +5,7 @@
   "bairro": "Residencial Alvaluz",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7792389",
+  "longitude": "-49.2655289"
 }

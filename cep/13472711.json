@@ -5,5 +5,7 @@
   "bairro": "Carioba",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-30.1125866",
+  "longitude": "-51.1671886"
 }

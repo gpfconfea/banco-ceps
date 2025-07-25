@@ -5,5 +5,7 @@
   "bairro": "Jardim Samambaia",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-22.51691",
+  "longitude": "-47.76895"
 }

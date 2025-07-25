@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Fé (Zona Oeste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4283979",
+  "longitude": "-46.7978151"
 }

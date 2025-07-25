@@ -1,9 +1,11 @@
 {
   "cep": "55658990",
   "logradouro": "Rua João Paulo Barbosa - Distrito Vila de Ameixas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cumaru",
   "uf": "PE",
-  "ibge": "2604908"
+  "ibge": "2604908",
+  "latitude": "-8.10388",
+  "longitude": "-35.7746"
 }

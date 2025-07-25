@@ -5,5 +5,7 @@
   "bairro": "Tranqueira",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.2645049",
+  "longitude": "-49.2989999"
 }

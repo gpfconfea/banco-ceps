@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.2212",
+  "longitude": "-47.52901"
 }

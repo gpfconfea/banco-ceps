@@ -5,5 +5,7 @@
   "bairro": "Parque Montreal",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9651948",
+  "longitude": "-47.1081858"
 }
