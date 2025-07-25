@@ -5,5 +5,7 @@
   "bairro": "Dic V (Conjunto Habitacional Chico Mendes)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0147751",
+  "longitude": "-46.9751499"
 }

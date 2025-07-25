@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Matozinhos",
   "uf": "MG",
-  "ibge": "3141108"
+  "ibge": "3141108",
+  "latitude": "-19.5577427",
+  "longitude": "-44.0812574"
 }

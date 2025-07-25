@@ -1,9 +1,11 @@
 {
   "cep": "38777970",
   "logradouro": "Rua K",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Sebastião",
   "localidade": "João Pinheiro",
   "uf": "MG",
-  "ibge": "3136306"
+  "ibge": "3136306",
+  "latitude": "-19.9311941",
+  "longitude": "-43.9939305"
 }

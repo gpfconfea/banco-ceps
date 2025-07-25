@@ -1,9 +1,11 @@
 {
   "cep": "59600990",
   "logradouro": "Rua Domingos Julião Nascimento - Jucuri / Mossoró",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "latitude": "-5.21968",
+  "longitude": "-37.50016"
 }

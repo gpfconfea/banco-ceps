@@ -5,5 +5,7 @@
   "bairro": "Jardim São Vicente",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9457088",
+  "longitude": "-47.0272046"
 }

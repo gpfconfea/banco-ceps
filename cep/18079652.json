@@ -5,5 +5,7 @@
   "bairro": "Jardim Eucalíptos",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4274343",
+  "longitude": "-47.4802579"
 }

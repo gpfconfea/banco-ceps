@@ -1,9 +1,11 @@
 {
   "cep": "73795970",
   "logradouro": "Avenida Pedro Álvares Cabral Quadra 3 Lote 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Teresina de Goiás",
   "uf": "GO",
-  "ibge": "5221080"
+  "ibge": "5221080",
+  "latitude": "-13.7839616",
+  "longitude": "-47.2751646"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila do Sol",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "latitude": "-18.9040566",
+  "longitude": "-41.961568"
 }

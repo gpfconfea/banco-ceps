@@ -1,9 +1,11 @@
 {
   "cep": "88873970",
   "logradouro": "Rua Gabriel Carlos Dalponte",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pindotiba",
   "localidade": "Orleans",
   "uf": "SC",
-  "ibge": "4211702"
+  "ibge": "4211702",
+  "latitude": "-28.4063048",
+  "longitude": "-49.2295176"
 }

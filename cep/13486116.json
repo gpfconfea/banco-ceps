@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5614056",
+  "longitude": "-47.3973297"
 }

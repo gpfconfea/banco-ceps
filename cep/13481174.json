@@ -5,5 +5,7 @@
   "bairro": "Itaipu",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-23.66029",
+  "longitude": "-46.45717"
 }

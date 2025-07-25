@@ -1,9 +1,11 @@
 {
   "cep": "13560920",
   "logradouro": "Rua Episcopal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-22.0145048",
+  "longitude": "-47.8917374"
 }

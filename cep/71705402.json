@@ -5,5 +5,7 @@
   "bairro": "Núcleo Bandeirante",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.8214187",
+  "longitude": "-48.041446"
 }

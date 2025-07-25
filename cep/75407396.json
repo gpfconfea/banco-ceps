@@ -5,5 +5,7 @@
   "bairro": "Setor Saleiro",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.3819829",
+  "longitude": "-49.4803918"
 }

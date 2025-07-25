@@ -5,5 +5,7 @@
   "bairro": "Ribeira",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-5.803654",
+  "longitude": "-35.2133981"
 }

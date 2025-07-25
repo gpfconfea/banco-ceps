@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paraguaçu Paulista",
   "uf": "SP",
-  "ibge": "3535507"
+  "ibge": "3535507",
+  "latitude": "-22.4309555",
+  "longitude": "-50.5860402"
 }

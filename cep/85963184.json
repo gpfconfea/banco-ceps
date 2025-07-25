@@ -6,5 +6,7 @@
   "bairro": "Primavera",
   "localidade": "Marechal Cândido Rondon",
   "uf": "PR",
-  "ibge": "4114609"
+  "ibge": "4114609",
+  "latitude": "-24.5402586",
+  "longitude": "-54.0405184"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Penteado",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4683561",
+  "longitude": "-46.679282"
 }

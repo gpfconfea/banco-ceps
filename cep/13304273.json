@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.4374177",
+  "longitude": "-46.5550745"
 }

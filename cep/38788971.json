@@ -1,9 +1,11 @@
 {
   "cep": "38788971",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Braz",
   "localidade": "Lagamar",
   "uf": "MG",
-  "ibge": "3137106"
+  "ibge": "3137106",
+  "latitude": "-16.7206522",
+  "longitude": "-43.8659513"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Corinto",
   "uf": "MG",
-  "ibge": "3119104"
+  "ibge": "3119104",
+  "latitude": "-18.3656516",
+  "longitude": "-44.4583806"
 }

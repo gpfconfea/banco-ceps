@@ -5,5 +5,7 @@
   "bairro": "Residencial Mônica Braga",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.288979",
+  "longitude": "-48.9782279"
 }

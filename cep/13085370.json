@@ -5,5 +5,7 @@
   "bairro": "Vila Florida",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.7669283",
+  "longitude": "-47.0919581"
 }

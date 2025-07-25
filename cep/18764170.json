@@ -5,5 +5,7 @@
   "bairro": "Vila Izabel",
   "localidade": "Cerqueira César",
   "uf": "SP",
-  "ibge": "3511409"
+  "ibge": "3511409",
+  "latitude": "-23.028476",
+  "longitude": "-49.1644373"
 }

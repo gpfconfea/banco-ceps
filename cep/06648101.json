@@ -5,5 +5,7 @@
   "bairro": "Ana Cristina II",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5508801",
+  "longitude": "-46.874917"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial San Francisco",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-21.2678765",
+  "longitude": "-48.4845231"
 }

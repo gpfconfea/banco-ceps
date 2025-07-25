@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Helena",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-22.7771251",
+  "longitude": "-47.3477425"
 }

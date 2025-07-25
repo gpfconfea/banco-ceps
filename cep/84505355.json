@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Irati",
   "uf": "PR",
-  "ibge": "4110706"
+  "ibge": "4110706",
+  "latitude": "-25.50346",
+  "longitude": "-50.65206"
 }

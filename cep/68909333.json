@@ -5,5 +5,7 @@
   "bairro": "Brasil Novo",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0975916",
+  "longitude": "-51.0833926"
 }

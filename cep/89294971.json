@@ -1,9 +1,11 @@
 {
   "cep": "89294971",
   "logradouro": "Rua Professor Rufino Blaskovski",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bateias de Baixo",
   "localidade": "Campo Alegre",
   "uf": "SC",
-  "ibge": "4203303"
+  "ibge": "4203303",
+  "latitude": "-26.0889643",
+  "longitude": "-49.2608379"
 }

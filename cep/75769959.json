@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Cumari",
   "uf": "GO",
-  "ibge": "5206602"
+  "ibge": "5206602",
+  "latitude": "-16.33037",
+  "longitude": "-48.95307"
 }

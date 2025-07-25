@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Poço Fundo",
   "uf": "MG",
-  "ibge": "3151701"
+  "ibge": "3151701",
+  "latitude": "-21.77828",
+  "longitude": "-45.96511"
 }

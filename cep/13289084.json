@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-23.034974",
+  "longitude": "-46.9864409"
 }

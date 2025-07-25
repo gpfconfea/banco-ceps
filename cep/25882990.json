@@ -1,9 +1,11 @@
 {
   "cep": "25882990",
   "logradouro": "Rua Manoel de Souza Jesus",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Sapucaia",
   "uf": "RJ",
-  "ibge": "3305406"
+  "ibge": "3305406",
+  "latitude": "-22.01681",
+  "longitude": "-42.96271"
 }

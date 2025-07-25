@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lajedo do Tabocal",
   "uf": "BA",
-  "ibge": "2919058"
+  "ibge": "2919058",
+  "latitude": "-13.4739917",
+  "longitude": "-40.2219795"
 }

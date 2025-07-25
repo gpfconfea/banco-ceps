@@ -5,5 +5,7 @@
   "bairro": "Santa Tereza",
   "localidade": "Ilhabela",
   "uf": "SP",
-  "ibge": "3520400"
+  "ibge": "3520400",
+  "latitude": "-23.7745334",
+  "longitude": "-45.3526025"
 }

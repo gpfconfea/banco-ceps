@@ -1,9 +1,11 @@
 {
   "cep": "45900970",
   "logradouro": "Praça Teófilo Otoni",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Caravelas",
   "uf": "BA",
-  "ibge": "2906907"
+  "ibge": "2906907",
+  "latitude": "-17.7349813",
+  "longitude": "-39.2630286"
 }

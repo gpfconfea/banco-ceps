@@ -1,9 +1,11 @@
 {
   "cep": "62759978",
   "logradouro": "Sítio Novo Horizonte",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Novo Horizonte",
   "localidade": "Ocara",
   "uf": "CE",
-  "ibge": "2309458"
+  "ibge": "2309458",
+  "latitude": "-7.25015",
+  "longitude": "-39.42803"
 }

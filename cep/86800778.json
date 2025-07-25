@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Zona Oeste II",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5645635",
+  "longitude": "-51.4889454"
 }

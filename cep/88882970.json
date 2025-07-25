@@ -1,9 +1,11 @@
 {
   "cep": "88882970",
   "logradouro": "Rua Visconde de Barbacena",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barro Branco",
   "localidade": "Lauro Müller",
   "uf": "SC",
-  "ibge": "4209607"
+  "ibge": "4209607",
+  "latitude": "-28.4140337",
+  "longitude": "-49.4112881"
 }

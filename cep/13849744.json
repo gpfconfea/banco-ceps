@@ -5,5 +5,7 @@
   "bairro": "Jardim Paineira",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "latitude": "-20.47276",
+  "longitude": "-47.41633"
 }

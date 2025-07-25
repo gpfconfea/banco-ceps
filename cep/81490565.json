@@ -5,5 +5,7 @@
   "bairro": "Campo de Santana",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "latitude": "-25.601144",
+  "longitude": "-49.3286797"
 }

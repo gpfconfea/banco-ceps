@@ -5,5 +5,7 @@
   "bairro": "Residencial Costa Azul",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-22.9422837",
+  "longitude": "-46.9888576"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sagres",
   "uf": "SP",
-  "ibge": "3544707"
+  "ibge": "3544707",
+  "latitude": "-21.8840628",
+  "longitude": "-50.9574608"
 }

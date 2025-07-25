@@ -5,5 +5,7 @@
   "bairro": "Vila Príncipe de Gales",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6628227",
+  "longitude": "-46.5520277"
 }

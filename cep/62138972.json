@@ -1,9 +1,11 @@
 {
   "cep": "62138972",
   "logradouro": "Rua do Minicenter",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio dos Fernandes",
   "localidade": "Meruoca",
   "uf": "CE",
-  "ibge": "2308203"
+  "ibge": "2308203",
+  "latitude": "-3.5391807",
+  "longitude": "-40.4541925"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Cristo Redentor",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.19954",
+  "longitude": "-47.84095"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alagoa Grande",
   "uf": "PB",
-  "ibge": "2500304"
+  "ibge": "2500304",
+  "latitude": "-7.0381326",
+  "longitude": "-35.6327812"
 }

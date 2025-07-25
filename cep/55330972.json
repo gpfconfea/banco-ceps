@@ -1,9 +1,11 @@
 {
   "cep": "55330972",
   "logradouro": "Rua José Araújo Tenório",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Igreja Nova",
   "localidade": "Bom Conselho",
   "uf": "PE",
-  "ibge": "2602100"
+  "ibge": "2602100",
+  "latitude": "-9.1643533",
+  "longitude": "-36.6897976"
 }

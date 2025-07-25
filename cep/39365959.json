@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João do Pacuí",
   "uf": "MG",
-  "ibge": "3162658"
+  "ibge": "3162658",
+  "latitude": "-16.5379851",
+  "longitude": "-44.5314225"
 }

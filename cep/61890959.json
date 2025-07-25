@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaiúba",
   "uf": "CE",
-  "ibge": "2304954"
+  "ibge": "2304954",
+  "latitude": "-4.04037",
+  "longitude": "-38.636"
 }

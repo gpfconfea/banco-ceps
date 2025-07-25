@@ -1,9 +1,11 @@
 {
   "cep": "13308909",
   "logradouro": "Rodovia Waldomiro Corrêa de Camargo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Melissa",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.3100014",
+  "longitude": "-47.3041194"
 }

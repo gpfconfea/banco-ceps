@@ -6,5 +6,7 @@
   "bairro": "Jardim Residencial Bela Vista",
   "localidade": "Dois Córregos",
   "uf": "SP",
-  "ibge": "3514106"
+  "ibge": "3514106",
+  "latitude": "-22.3768256",
+  "longitude": "-48.3816875"
 }

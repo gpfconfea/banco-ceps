@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Juvenal Leite",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4546299",
+  "longitude": "-46.8442137"
 }

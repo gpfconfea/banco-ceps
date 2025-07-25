@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Diamantina",
   "uf": "MG",
-  "ibge": "3121605"
+  "ibge": "3121605",
+  "latitude": "-18.2446648",
+  "longitude": "-43.5971404"
 }

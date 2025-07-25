@@ -5,5 +5,7 @@
   "bairro": "Vila Juvenal",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "latitude": "-22.3115285",
+  "longitude": "-49.0947751"
 }

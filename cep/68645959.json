@@ -1,9 +1,11 @@
 {
   "cep": "68645959",
   "logradouro": "Avenida Charles Assad",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bonito",
   "uf": "PA",
-  "ibge": "1501600"
+  "ibge": "1501600",
+  "latitude": "-1.36297",
+  "longitude": "-47.30348"
 }

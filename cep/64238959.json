@@ -1,9 +1,11 @@
 {
   "cep": "64238959",
   "logradouro": "Rua Felismina Rodrigues de Brito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cocal dos Alves",
   "uf": "PI",
-  "ibge": "2202729"
+  "ibge": "2202729",
+  "latitude": "-3.6012447",
+  "longitude": "-41.4434905"
 }

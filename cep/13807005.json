@@ -5,5 +5,7 @@
   "bairro": "Parque Esperança",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4267132",
+  "longitude": "-46.9559373"
 }

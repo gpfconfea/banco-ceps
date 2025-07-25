@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Carmem Ruette de Oliveira III",
   "localidade": "Palmares Paulista",
   "uf": "SP",
-  "ibge": "3535101"
+  "ibge": "3535101",
+  "latitude": "-21.08685",
+  "longitude": "-48.80703"
 }

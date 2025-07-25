@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "latitude": "-20.333499",
+  "longitude": "-40.4016455"
 }

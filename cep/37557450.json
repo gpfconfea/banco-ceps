@@ -5,5 +5,7 @@
   "bairro": "Portal Vila Verde",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2799511",
+  "longitude": "-45.9152739"
 }

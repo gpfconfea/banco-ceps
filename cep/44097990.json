@@ -1,9 +1,11 @@
 {
   "cep": "44097990",
   "logradouro": "Praça do Limoeiro - Posto de Saúde",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.3056",
+  "longitude": "-38.90817"
 }

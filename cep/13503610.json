@@ -5,5 +5,7 @@
   "bairro": "Bom Retiro",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "latitude": "-22.4036297",
+  "longitude": "-47.6024315"
 }

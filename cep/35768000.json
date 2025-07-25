@@ -5,5 +5,7 @@
   "bairro": "Doutor Campolina",
   "localidade": "Jequitibá",
   "uf": "MG",
-  "ibge": "3135704"
+  "ibge": "3135704",
+  "latitude": "-19.2983654",
+  "longitude": "-44.029973"
 }

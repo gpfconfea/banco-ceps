@@ -5,5 +5,7 @@
   "bairro": "Doron",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9607024",
+  "longitude": "-38.4401354"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "87895990",
   "logradouro": "Rua Ubiratã",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Terra Rica",
   "uf": "PR",
-  "ibge": "4127304"
+  "ibge": "4127304",
+  "latitude": "-22.69152",
+  "longitude": "-52.73636"
 }

@@ -5,5 +5,7 @@
   "bairro": "Unesp Campus de Botucatu",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.2970659",
+  "longitude": "-49.0730746"
 }

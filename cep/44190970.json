@@ -1,9 +1,11 @@
 {
   "cep": "44190970",
   "logradouro": "Rua Professora Iacy Lopes Amorim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santo Estêvão",
   "uf": "BA",
-  "ibge": "2928802"
+  "ibge": "2928802",
+  "latitude": "-12.4299723",
+  "longitude": "-39.2516056"
 }

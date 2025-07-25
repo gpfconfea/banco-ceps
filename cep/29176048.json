@@ -5,5 +5,7 @@
   "bairro": "Serra Centro",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.128671",
+  "longitude": "-40.3087914"
 }

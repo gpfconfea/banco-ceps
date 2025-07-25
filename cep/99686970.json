@@ -1,9 +1,11 @@
 {
   "cep": "99686970",
   "logradouro": "Estrada Linha Capinzal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Capinzal",
   "localidade": "Constantina",
   "uf": "RS",
-  "ibge": "4305801"
+  "ibge": "4305801",
+  "latitude": "-27.67007",
+  "longitude": "-52.92639"
 }

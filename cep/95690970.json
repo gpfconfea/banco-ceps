@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rolante",
   "uf": "RS",
-  "ibge": "4316006"
+  "ibge": "4316006",
+  "latitude": "-29.6532414",
+  "longitude": "-50.5767793"
 }

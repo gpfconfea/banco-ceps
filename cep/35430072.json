@@ -5,5 +5,7 @@
   "bairro": "Esplanada",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "40.8656801",
+  "longitude": "-8.6184508"
 }

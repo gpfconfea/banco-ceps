@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Rosa",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-16.2576766",
+  "longitude": "-47.9438363"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piraúba",
   "uf": "MG",
-  "ibge": "3151305"
+  "ibge": "3151305",
+  "latitude": "-21.2730243",
+  "longitude": "-43.0249035"
 }

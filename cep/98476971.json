@@ -1,9 +1,11 @@
 {
   "cep": "98476971",
   "logradouro": "Estrada do Distrito Santa Cruz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Cruz",
   "localidade": "Planalto",
   "uf": "RS",
-  "ibge": "4314704"
+  "ibge": "4314704",
+  "latitude": "-29.41511",
+  "longitude": "-52.42746"
 }

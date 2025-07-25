@@ -1,9 +1,11 @@
 {
   "cep": "68522971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Raimundo do Araguaia",
   "localidade": "Brejo Grande do Araguaia",
   "uf": "PA",
-  "ibge": "1501758"
+  "ibge": "1501758",
+  "latitude": "-8.7655922",
+  "longitude": "-44.4175203"
 }

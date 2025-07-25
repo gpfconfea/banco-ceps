@@ -5,5 +5,7 @@
   "bairro": "Vila Guiomar",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-22.3714921",
+  "longitude": "-47.3629596"
 }

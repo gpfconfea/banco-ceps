@@ -5,5 +5,7 @@
   "bairro": "Jardim Graziela",
   "localidade": "Garça",
   "uf": "SP",
-  "ibge": "3516705"
+  "ibge": "3516705",
+  "latitude": "-23.24363",
+  "longitude": "-46.75584"
 }

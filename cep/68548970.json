@@ -1,9 +1,11 @@
 {
   "cep": "68548970",
   "logradouro": "Avenida Sapucaia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Sapucaia",
   "uf": "PA",
-  "ibge": "1507755"
+  "ibge": "1507755",
+  "latitude": "-29.8203031",
+  "longitude": "-51.1451752"
 }

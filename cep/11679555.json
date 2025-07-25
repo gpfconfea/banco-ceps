@@ -5,5 +5,7 @@
   "bairro": "Tabatinga",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5734273",
+  "longitude": "-45.274512"
 }

@@ -5,5 +5,7 @@
   "bairro": "Barra de Macaé",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "latitude": "-22.8153271",
+  "longitude": "-42.9896264"
 }

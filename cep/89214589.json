@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-28.7563937",
+  "longitude": "-49.130309"
 }

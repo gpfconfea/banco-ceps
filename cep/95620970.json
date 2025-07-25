@@ -1,9 +1,11 @@
 {
   "cep": "95620970",
   "logradouro": "Rodovia RS - 020",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Cruz da Concórdia",
   "localidade": "Taquara",
   "uf": "RS",
-  "ibge": "4321204"
+  "ibge": "4321204",
+  "latitude": "-29.6904217",
+  "longitude": "-50.8214704"
 }

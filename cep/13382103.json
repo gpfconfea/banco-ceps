@@ -5,5 +5,7 @@
   "bairro": "Engenho Velho",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-23.50493",
+  "longitude": "-45.18809"
 }

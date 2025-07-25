@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Quebec",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3880327",
+  "longitude": "-51.9338376"
 }

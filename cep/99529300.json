@@ -5,5 +5,7 @@
   "bairro": "Rio Bonito",
   "localidade": "Coqueiros do Sul",
   "uf": "RS",
-  "ibge": "4305850"
+  "ibge": "4305850",
+  "latitude": "-28.0465946",
+  "longitude": "-52.7964116"
 }

@@ -5,5 +5,7 @@
   "bairro": "Floresta Sul",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-15.6696815",
+  "longitude": "-56.148488"
 }

@@ -6,5 +6,7 @@
   "bairro": "Jardim Dona Tereza",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.42131",
+  "longitude": "-47.43486"
 }

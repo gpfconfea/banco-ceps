@@ -5,5 +5,7 @@
   "bairro": "Ilha do Retiro",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.062545",
+  "longitude": "-34.9068786"
 }

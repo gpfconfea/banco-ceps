@@ -6,5 +6,7 @@
   "bairro": "Cohab I",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.0937686",
+  "longitude": "-47.701918"
 }

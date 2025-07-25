@@ -1,9 +1,11 @@
 {
   "cep": "35499970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caetano Lopes",
   "localidade": "Jeceaba",
   "uf": "MG",
-  "ibge": "3135407"
+  "ibge": "3135407",
+  "latitude": "-20.5411489",
+  "longitude": "-43.9724967"
 }

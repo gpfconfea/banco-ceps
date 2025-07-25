@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipê",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4920139",
+  "longitude": "-47.4194455"
 }

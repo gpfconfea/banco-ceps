@@ -1,9 +1,11 @@
 {
   "cep": "55633970",
   "logradouro": "Rua do Comercio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pombos",
   "uf": "PE",
-  "ibge": "2611309"
+  "ibge": "2611309",
+  "latitude": "-8.1428452",
+  "longitude": "-35.3978165"
 }

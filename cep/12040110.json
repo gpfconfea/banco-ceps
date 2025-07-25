@@ -5,5 +5,7 @@
   "bairro": "Vila Mecanica Pesada",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0206162",
+  "longitude": "-45.5983134"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64438970",
   "logradouro": "Rua Luís Gomes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santo Antônio dos Milagres",
   "uf": "PI",
-  "ibge": "2209450"
+  "ibge": "2209450",
+  "latitude": "-6.0443041",
+  "longitude": "-42.7110983"
 }

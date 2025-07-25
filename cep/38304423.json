@@ -5,5 +5,7 @@
   "bairro": "Nova Ituiutaba II",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "latitude": "-19.013255",
+  "longitude": "-49.4568535"
 }

@@ -6,5 +6,7 @@
   "bairro": "Ponta de Serrambi",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.55715",
+  "longitude": "-35.01368"
 }

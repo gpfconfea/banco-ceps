@@ -5,5 +5,7 @@
   "bairro": "Vila Vermelha",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "41.3039541",
+  "longitude": "-7.7382207"
 }

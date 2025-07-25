@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio do Prado",
   "uf": "MG",
-  "ibge": "3155108"
+  "ibge": "3155108",
+  "latitude": "-16.6085356",
+  "longitude": "-40.5701946"
 }

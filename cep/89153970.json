@@ -1,9 +1,11 @@
 {
   "cep": "89153970",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mirador",
   "localidade": "Presidente Getúlio",
   "uf": "SC",
-  "ibge": "4214003"
+  "ibge": "4214003",
+  "latitude": "-27.0660343",
+  "longitude": "-49.8322284"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Singer",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0272297",
+  "longitude": "-47.1204083"
 }

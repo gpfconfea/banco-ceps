@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chapada Gaúcha",
   "uf": "MG",
-  "ibge": "3116159"
+  "ibge": "3116159",
+  "latitude": "-15.2993667",
+  "longitude": "-45.6244951"
 }

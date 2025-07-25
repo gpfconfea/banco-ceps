@@ -1,9 +1,11 @@
 {
   "cep": "58458973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Barra de Santana",
   "uf": "PB",
-  "ibge": "2501575"
+  "ibge": "2501575",
+  "latitude": "-18.5710455",
+  "longitude": "-39.7569446"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Progresso",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.5031387",
+  "longitude": "-49.4187941"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto da Boa Vista",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.784007",
+  "longitude": "-53.3244468"
 }

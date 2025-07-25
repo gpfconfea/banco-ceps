@@ -1,9 +1,11 @@
 {
   "cep": "69378971",
   "logradouro": "Rua Fortaleza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Caroebe",
   "uf": "RR",
-  "ibge": "1400233"
+  "ibge": "1400233",
+  "latitude": "0.8034889",
+  "longitude": "-59.4295215"
 }

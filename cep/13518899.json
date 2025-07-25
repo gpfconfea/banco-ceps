@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Charqueada",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-22.51076",
+  "longitude": "-47.77742"
 }

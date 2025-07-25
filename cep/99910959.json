@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Floriano Peixoto",
   "uf": "RS",
-  "ibge": "4308250"
+  "ibge": "4308250",
+  "latitude": "-27.86255",
+  "longitude": "-52.08574"
 }

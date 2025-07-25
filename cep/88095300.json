@@ -5,5 +5,7 @@
   "bairro": "Jardim Atlântico",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.5824718",
+  "longitude": "-48.5977498"
 }

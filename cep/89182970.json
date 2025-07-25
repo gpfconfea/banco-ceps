@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lontras",
   "uf": "SC",
-  "ibge": "4209904"
+  "ibge": "4209904",
+  "latitude": "-27.1724067",
+  "longitude": "-49.5434314"
 }

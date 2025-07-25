@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tibau",
   "uf": "RN",
-  "ibge": "2411056"
+  "ibge": "2411056",
+  "latitude": "-4.8381942",
+  "longitude": "-37.2591488"
 }

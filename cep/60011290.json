@@ -5,5 +5,7 @@
   "bairro": "Farias Brito",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-26.8655718",
+  "longitude": "-49.0809491"
 }

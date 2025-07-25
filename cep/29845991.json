@@ -1,9 +1,11 @@
 {
   "cep": "29845991",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Boa Esperança",
   "uf": "ES",
-  "ibge": "3201001"
+  "ibge": "3201001",
+  "latitude": "-20.7166571",
+  "longitude": "-41.014013"
 }

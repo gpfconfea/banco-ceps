@@ -6,5 +6,7 @@
   "bairro": "Vila do Postinho",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.8649862",
+  "longitude": "-46.3361637"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Afonso",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "latitude": "-15.765042",
+  "longitude": "-47.875533"
 }

@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "latitude": "-20.5826245",
+  "longitude": "-46.9210741"
 }

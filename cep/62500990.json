@@ -1,9 +1,11 @@
 {
   "cep": "62500990",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "latitude": "-3.76963",
+  "longitude": "-38.63064"
 }
