@@ -170,7 +170,7 @@ def main():
     global geocode_with_delay
 
     # Tempo máximo de execução em segundos
-    TEMPO_MAXIMO_EXECUCAO_SEGUNDOS = (5 * 3600) + (45 * 60) # 5 horas e 45 minutos
+    TEMPO_MAXIMO_EXECUCAO_SEGUNDOS = (5 * 3600) + (30 * 60) # 5 horas e 30 minutos
     start_time = time.time()
 
     log_falhas_path = os.path.join(os.path.dirname(__file__), 'ceps_que_falharam.txt')
