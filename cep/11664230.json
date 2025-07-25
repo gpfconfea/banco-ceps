@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-22.0127656",
+  "longitude": "-47.9194375"
 }

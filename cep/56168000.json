@@ -5,5 +5,7 @@
   "bairro": "Veneza",
   "localidade": "Parnamirim",
   "uf": "PE",
-  "ibge": "2610400"
+  "ibge": "2610400",
+  "latitude": "-8.2632858",
+  "longitude": "-40.0237029"
 }

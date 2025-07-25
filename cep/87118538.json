@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Mauá",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-27.9304462",
+  "longitude": "-52.9394163"
 }

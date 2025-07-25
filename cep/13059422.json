@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Princesa D'Oeste",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9310064",
+  "longitude": "-47.1589881"
 }

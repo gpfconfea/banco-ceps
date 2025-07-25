@@ -1,9 +1,11 @@
 {
   "cep": "39688972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Palmeiras",
   "localidade": "Setubinha",
   "uf": "MG",
-  "ibge": "3165552"
+  "ibge": "3165552",
+  "latitude": "-19.7914943",
+  "longitude": "-44.0833162"
 }

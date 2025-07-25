@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Terra Nova do Norte",
   "uf": "MT",
-  "ibge": "5108055"
+  "ibge": "5108055",
+  "latitude": "-12.22138",
+  "longitude": "-56.63998"
 }

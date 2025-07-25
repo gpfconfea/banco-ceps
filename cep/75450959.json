@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Itauçu",
   "uf": "GO",
-  "ibge": "5211404"
+  "ibge": "5211404",
+  "latitude": "-17.79971",
+  "longitude": "-50.92973"
 }

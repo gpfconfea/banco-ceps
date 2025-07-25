@@ -1,9 +1,11 @@
 {
   "cep": "77903970",
   "logradouro": "Praça Apolônio Labre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Luzinópolis",
   "uf": "TO",
-  "ibge": "1712454"
+  "ibge": "1712454",
+  "latitude": "-10.17528",
+  "longitude": "-48.2982474"
 }

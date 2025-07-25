@@ -5,5 +5,7 @@
   "bairro": "Jardim Ouro Preto",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "latitude": "-23.5984985",
+  "longitude": "-46.7643661"
 }

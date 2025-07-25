@@ -1,9 +1,11 @@
 {
   "cep": "89982959",
   "logradouro": "Rua Verônica Scheid",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Bernardino",
   "uf": "SC",
-  "ibge": "4215752"
+  "ibge": "4215752",
+  "latitude": "-26.4721497",
+  "longitude": "-52.9658216"
 }

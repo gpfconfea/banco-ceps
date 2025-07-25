@@ -1,9 +1,11 @@
 {
   "cep": "97270970",
   "logradouro": "Avenida 24 de Maio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canhembora",
   "localidade": "Nova Palma",
   "uf": "RS",
-  "ibge": "4313102"
+  "ibge": "4313102",
+  "latitude": "-29.4724079",
+  "longitude": "-53.2986932"
 }

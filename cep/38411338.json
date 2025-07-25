@@ -5,5 +5,7 @@
   "bairro": "Jardim Colina",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.9423673",
+  "longitude": "-48.2831771"
 }

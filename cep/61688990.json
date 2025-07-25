@@ -1,9 +1,11 @@
 {
   "cep": "61688990",
   "logradouro": "Rodovia Raimundo Wilson N. Miranda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.82836",
+  "longitude": "-38.66379"
 }

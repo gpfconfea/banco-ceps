@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Viçosa",
   "uf": "RN",
-  "ibge": "2414902"
+  "ibge": "2414902",
+  "latitude": "-5.9937675",
+  "longitude": "-37.9485771"
 }

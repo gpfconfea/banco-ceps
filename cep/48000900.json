@@ -1,9 +1,11 @@
 {
   "cep": "48000900",
   "logradouro": "Avenida Juracy Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "latitude": "-12.1427285",
+  "longitude": "-38.4219655"
 }

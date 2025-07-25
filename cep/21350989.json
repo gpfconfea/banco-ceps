@@ -1,9 +1,11 @@
 {
   "cep": "21350989",
-  "logradouro": "Rua Sidônio País 41 Loja A Térreo Locker Correios",
+  "logradouro": "Rua Sidônio País 41 Loja A Térreo",
   "complemento": "",
   "bairro": "Cascadura",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.88106",
+  "longitude": "-43.32628"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Frei Inocêncio",
   "uf": "MG",
-  "ibge": "3126901"
+  "ibge": "3126901",
+  "latitude": "-18.5647757",
+  "longitude": "-41.9069538"
 }

@@ -5,5 +5,7 @@
   "bairro": "Planalto Verde",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5100473",
+  "longitude": "-47.1021219"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Suíça",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6953586",
+  "longitude": "-46.4982005"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vale das Virtudes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6492804",
+  "longitude": "-46.772517"
 }

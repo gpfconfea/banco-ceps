@@ -5,5 +5,7 @@
   "bairro": "Jardim Sertãozinho",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7243685",
+  "longitude": "-46.7137048"
 }

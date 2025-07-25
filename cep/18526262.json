@@ -6,5 +6,7 @@
   "bairro": "Residencial di Napoli II",
   "localidade": "Cerquilho",
   "uf": "SP",
-  "ibge": "3511508"
+  "ibge": "3511508",
+  "latitude": "-23.17051",
+  "longitude": "-47.76111"
 }

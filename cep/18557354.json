@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Luvizotto",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2796163",
+  "longitude": "-47.6819891"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63157973",
   "logradouro": "Rua da Postagem",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caldeirão",
   "localidade": "Salitre",
   "uf": "CE",
-  "ibge": "2311959"
+  "ibge": "2311959",
+  "latitude": "-7.1998196",
+  "longitude": "-40.3496894"
 }

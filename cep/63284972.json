@@ -1,9 +1,11 @@
 {
   "cep": "63284972",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Juá",
   "localidade": "Penaforte",
   "uf": "CE",
-  "ibge": "2310605"
+  "ibge": "2310605",
+  "latitude": "-3.8659252",
+  "longitude": "-38.5794351"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "46165970",
   "logradouro": "Praça São João",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Dom Basílio",
   "uf": "BA",
-  "ibge": "2910107"
+  "ibge": "2910107",
+  "latitude": "-13.7590526",
+  "longitude": "-41.7735011"
 }

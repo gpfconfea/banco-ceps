@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Monsenhor João Batista Toffoli",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2442699",
+  "longitude": "-49.9379715"
 }

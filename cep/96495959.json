@@ -5,5 +5,7 @@
   "bairro": "Vila Operária",
   "localidade": "Candiota",
   "uf": "RS",
-  "ibge": "4304358"
+  "ibge": "4304358",
+  "latitude": "-28.53792",
+  "longitude": "-52.15179"
 }

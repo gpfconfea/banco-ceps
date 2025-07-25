@@ -5,5 +5,7 @@
   "bairro": "Imperial",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-19.6036065",
+  "longitude": "-46.9282483"
 }

@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0957931",
+  "longitude": "-51.0452148"
 }

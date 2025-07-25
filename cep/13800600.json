@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Júlia",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4342921",
+  "longitude": "-46.9825803"
 }

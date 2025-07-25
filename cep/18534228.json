@@ -6,5 +6,7 @@
   "bairro": "Vila Fiore",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.08925",
+  "longitude": "-47.71937"
 }

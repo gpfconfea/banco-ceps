@@ -1,9 +1,11 @@
 {
   "cep": "78640972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serra Dourada",
   "localidade": "Canarana",
   "uf": "MT",
-  "ibge": "5102702"
+  "ibge": "5102702",
+  "latitude": "-23.9196768",
+  "longitude": "-46.2833839"
 }

@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Oscar Bressane",
   "uf": "SP",
-  "ibge": "3534500"
+  "ibge": "3534500",
+  "latitude": "-22.3178495",
+  "longitude": "-50.2843501"
 }

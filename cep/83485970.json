@@ -1,9 +1,11 @@
 {
   "cep": "83485970",
   "logradouro": "Avenida Davi de Souza Pinto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Marquês de Abrantes",
   "localidade": "Tunas do Paraná",
   "uf": "PR",
-  "ibge": "4127882"
+  "ibge": "4127882",
+  "latitude": "-19.9199511",
+  "longitude": "-43.9341871"
 }

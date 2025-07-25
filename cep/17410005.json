@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Álvaro de Carvalho",
   "uf": "SP",
-  "ibge": "3501400"
+  "ibge": "3501400",
+  "latitude": "-22.0827822",
+  "longitude": "-49.7183163"
 }

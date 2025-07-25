@@ -5,5 +5,7 @@
   "bairro": "Parque dos Monteiros II",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "latitude": "-23.427155",
+  "longitude": "-46.8883365"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "15437971",
   "logradouro": "Rua Catarino Thomaz da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Suinana",
   "localidade": "Altair",
   "uf": "SP",
-  "ibge": "3500907"
+  "ibge": "3500907",
+  "latitude": "-23.46664",
+  "longitude": "-46.53332"
 }

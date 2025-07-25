@@ -5,5 +5,7 @@
   "bairro": "Jardim Mimosa",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.6547864",
+  "longitude": "-46.312034"
 }

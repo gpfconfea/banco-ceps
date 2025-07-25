@@ -1,9 +1,11 @@
 {
   "cep": "58056959",
   "logradouro": "Rua Doutor Euclides Neiva de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mangabeira",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.1857097",
+  "longitude": "-34.843267"
 }

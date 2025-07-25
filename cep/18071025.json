@@ -5,5 +5,7 @@
   "bairro": "Recreio dos Sorocabanos",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4571015",
+  "longitude": "-47.5021386"
 }

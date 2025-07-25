@@ -5,5 +5,7 @@
   "bairro": "Recanto Campo Belo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7905363",
+  "longitude": "-46.7325934"
 }

@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Mogi Mirim",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4321835",
+  "longitude": "-46.9563886"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araripe",
   "uf": "CE",
-  "ibge": "2301307"
+  "ibge": "2301307",
+  "latitude": "-7.2111676",
+  "longitude": "-40.1388331"
 }

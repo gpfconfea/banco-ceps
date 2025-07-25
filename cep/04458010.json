@@ -5,5 +5,7 @@
   "bairro": "Jardim Ubirajara (Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6244091",
+  "longitude": "-46.5833132"
 }

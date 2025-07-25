@@ -5,5 +5,7 @@
   "bairro": "Jorge Teixeira",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-22.7181479",
+  "longitude": "-46.7622736"
 }

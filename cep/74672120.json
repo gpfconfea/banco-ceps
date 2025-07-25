@@ -5,5 +5,7 @@
   "bairro": "Garavelo Residencial Norte",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6721332",
+  "longitude": "-49.3327133"
 }

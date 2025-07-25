@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9715404",
+  "longitude": "-44.194413"
 }

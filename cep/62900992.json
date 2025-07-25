@@ -1,9 +1,11 @@
 {
   "cep": "62900992",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Russas",
   "uf": "CE",
-  "ibge": "2311801"
+  "ibge": "2311801",
+  "latitude": "-5.1496513",
+  "longitude": "-38.1587639"
 }

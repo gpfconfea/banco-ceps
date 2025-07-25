@@ -1,9 +1,11 @@
 {
   "cep": "25931970",
   "logradouro": "Praça Sete de Setembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Piabetá (Inhomirim)",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "latitude": "-22.6099206",
+  "longitude": "-43.1789603"
 }

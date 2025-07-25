@@ -5,5 +5,7 @@
   "bairro": "Vila Damiano",
   "localidade": "Cosmópolis",
   "uf": "SP",
-  "ibge": "3512803"
+  "ibge": "3512803",
+  "latitude": "-22.6322977",
+  "longitude": "-47.1859116"
 }

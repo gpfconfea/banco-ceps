@@ -5,5 +5,7 @@
   "bairro": "Jardim Danúbio",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.172772",
+  "longitude": "-46.8836475"
 }

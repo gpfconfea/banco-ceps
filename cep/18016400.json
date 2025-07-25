@@ -5,5 +5,7 @@
   "bairro": "Jardim Gonçalves",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4924634",
+  "longitude": "-47.4289107"
 }

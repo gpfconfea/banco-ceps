@@ -5,5 +5,7 @@
   "bairro": "Vila Junção",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-32.0484084",
+  "longitude": "-52.1161469"
 }

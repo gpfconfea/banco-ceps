@@ -5,5 +5,7 @@
   "bairro": "Jardim Daniela",
   "localidade": "Monte Mor",
   "uf": "SP",
-  "ibge": "3531803"
+  "ibge": "3531803",
+  "latitude": "-22.9191075",
+  "longitude": "-47.250466"
 }

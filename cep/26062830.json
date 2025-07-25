@@ -5,5 +5,7 @@
   "bairro": "Montevidéu",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.8842833",
+  "longitude": "-43.5738581"
 }

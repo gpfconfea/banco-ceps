@@ -5,5 +5,7 @@
   "bairro": "Vila Paraíso",
   "localidade": "Três Rios",
   "uf": "RJ",
-  "ibge": "3306008"
+  "ibge": "3306008",
+  "latitude": "-22.0975615",
+  "longitude": "-43.1639628"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Itatiaia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.922128",
+  "longitude": "-47.0230666"
 }

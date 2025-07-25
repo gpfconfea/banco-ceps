@@ -5,5 +5,7 @@
   "bairro": "Fazenda Gameleira",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7054781",
+  "longitude": "-49.203528"
 }

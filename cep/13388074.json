@@ -5,5 +5,7 @@
   "bairro": "INDUSPARK Nova Odessa - Unidade 2",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.80146",
+  "longitude": "-47.30188"
 }

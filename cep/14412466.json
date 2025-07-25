@@ -5,5 +5,7 @@
   "bairro": "Jardim Botânico",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5466122",
+  "longitude": "-47.3626289"
 }

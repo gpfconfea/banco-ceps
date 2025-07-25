@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Três Estrelas",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9463552",
+  "longitude": "-47.1161747"
 }

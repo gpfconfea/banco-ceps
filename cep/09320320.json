@@ -5,5 +5,7 @@
   "bairro": "Jardim Miranda D'Aviz",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.6620631",
+  "longitude": "-46.4345958"
 }

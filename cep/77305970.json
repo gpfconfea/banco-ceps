@@ -1,9 +1,11 @@
 {
   "cep": "77305970",
   "logradouro": "Rua Coronel Guedes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Conceição do Tocantins",
   "uf": "TO",
-  "ibge": "1705607"
+  "ibge": "1705607",
+  "latitude": "-12.4002753",
+  "longitude": "-46.4343907"
 }

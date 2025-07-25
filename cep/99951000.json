@@ -5,5 +5,7 @@
   "bairro": "Vila Campos",
   "localidade": "Tapejara",
   "uf": "RS",
-  "ibge": "4320909"
+  "ibge": "4320909",
+  "latitude": "-28.0580863",
+  "longitude": "-51.9512579"
 }

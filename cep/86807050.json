@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5471678",
+  "longitude": "-51.4439125"
 }

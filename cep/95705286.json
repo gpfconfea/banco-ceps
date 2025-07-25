@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.1442062",
+  "longitude": "-51.5199588"
 }

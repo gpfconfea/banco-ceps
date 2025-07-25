@@ -6,5 +6,7 @@
   "bairro": "Parque São Paulo",
   "localidade": "Casa Branca",
   "uf": "SP",
-  "ibge": "3510807"
+  "ibge": "3510807",
+  "latitude": "-23.11095",
+  "longitude": "-45.72371"
 }

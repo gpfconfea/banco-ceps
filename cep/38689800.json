@@ -5,5 +5,7 @@
   "bairro": "Vila Bom Jesus de Minas",
   "localidade": "Chapada Gaúcha",
   "uf": "MG",
-  "ibge": "3116159"
+  "ibge": "3116159",
+  "latitude": "-15.19",
+  "longitude": "-45.4884378"
 }

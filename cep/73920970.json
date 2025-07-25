@@ -1,9 +1,11 @@
 {
   "cep": "73920970",
   "logradouro": "Avenida 21 de Abril Rua 4",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Iaciara",
   "uf": "GO",
-  "ibge": "5209903"
+  "ibge": "5209903",
+  "latitude": "-14.1041371",
+  "longitude": "-46.6361049"
 }

@@ -5,5 +5,7 @@
   "bairro": "Pintos",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "latitude": "-6.2268417",
+  "longitude": "-36.0210046"
 }

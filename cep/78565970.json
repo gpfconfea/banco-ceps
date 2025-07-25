@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Bandeirantes",
   "uf": "MT",
-  "ibge": "5106158"
+  "ibge": "5106158",
+  "latitude": "-9.8500164",
+  "longitude": "-57.8107827"
 }

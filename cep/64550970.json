@@ -1,9 +1,11 @@
 {
   "cep": "64550970",
   "logradouro": "Avenida José Rodrigues",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Francisco do Piauí",
   "uf": "PI",
-  "ibge": "2209708"
+  "ibge": "2209708",
+  "latitude": "-7.2459664",
+  "longitude": "-42.5414413"
 }

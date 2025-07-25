@@ -5,5 +5,7 @@
   "bairro": "Jardim Peri",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.2741281",
+  "longitude": "-51.4948667"
 }

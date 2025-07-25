@@ -5,5 +5,7 @@
   "bairro": "Morro da Carioca",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "latitude": "-23.0097838",
+  "longitude": "-44.3228746"
 }

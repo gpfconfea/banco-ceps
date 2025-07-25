@@ -1,9 +1,11 @@
 {
   "cep": "84320973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Reserva",
   "uf": "PR",
-  "ibge": "4121703"
+  "ibge": "4121703",
+  "latitude": "-20.5222483",
+  "longitude": "-40.3848938"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Bongiovani",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.0955621",
+  "longitude": "-51.4176347"
 }

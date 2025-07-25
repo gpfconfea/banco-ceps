@@ -5,5 +5,7 @@
   "bairro": "Jardim Coopagro",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "latitude": "-24.3105863",
+  "longitude": "-47.2629766"
 }

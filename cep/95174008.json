@@ -5,5 +5,7 @@
   "bairro": "Nova Vicenza",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-29.2176605",
+  "longitude": "-51.3460283"
 }

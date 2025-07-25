@@ -6,5 +6,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Anhembi",
   "uf": "SP",
-  "ibge": "3502309"
+  "ibge": "3502309",
+  "latitude": "-22.78638",
+  "longitude": "-48.13418"
 }

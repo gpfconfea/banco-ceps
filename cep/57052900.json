@@ -1,9 +1,11 @@
 {
   "cep": "57052900",
   "logradouro": "Avenida Fernandes Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gruta de Lourdes",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.6129445",
+  "longitude": "-35.7396706"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "66640904",
   "logradouro": "Passagem São Raimundo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mangueirão",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-1.3734425",
+  "longitude": "-48.4376877"
 }

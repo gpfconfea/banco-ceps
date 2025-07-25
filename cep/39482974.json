@@ -1,9 +1,11 @@
 {
   "cep": "39482974",
   "logradouro": "Rua do Correio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Várzea Bonita",
   "localidade": "Januária",
   "uf": "MG",
-  "ibge": "3135209"
+  "ibge": "3135209",
+  "latitude": "-15.4924534",
+  "longitude": "-44.3617074"
 }

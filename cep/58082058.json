@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.0899495",
+  "longitude": "-35.2302962"
 }

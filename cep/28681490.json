@@ -5,5 +5,7 @@
   "bairro": "Várzea",
   "localidade": "Cachoeiras de Macacu",
   "uf": "RJ",
-  "ibge": "3300803"
+  "ibge": "3300803",
+  "latitude": "-22.4651",
+  "longitude": "-42.6523"
 }

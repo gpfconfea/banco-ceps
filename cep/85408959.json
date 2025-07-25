@@ -1,9 +1,11 @@
 {
   "cep": "85408959",
   "logradouro": "Rua Desembargador Antônio Francisco Ferreira da Costa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Diamante do Sul",
   "uf": "PR",
-  "ibge": "4107124"
+  "ibge": "4107124",
+  "latitude": "-25.04324",
+  "longitude": "-52.68277"
 }

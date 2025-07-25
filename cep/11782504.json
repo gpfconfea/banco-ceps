@@ -6,5 +6,7 @@
   "bairro": "Balneário Caraguava",
   "localidade": "Peruíbe",
   "uf": "SP",
-  "ibge": "3537602"
+  "ibge": "3537602",
+  "latitude": "-24.31561",
+  "longitude": "-47.00108"
 }

@@ -5,5 +5,7 @@
   "bairro": "Fátima",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.4138931",
+  "longitude": "-42.8894161"
 }

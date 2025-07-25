@@ -5,5 +5,7 @@
   "bairro": "Jardim Panorama",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.49828",
+  "longitude": "-48.55108"
 }

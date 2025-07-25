@@ -1,9 +1,11 @@
 {
   "cep": "85930972",
   "logradouro": "Rua Rui Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Cristal",
   "localidade": "Nova Santa Rosa",
   "uf": "PR",
-  "ibge": "4117222"
+  "ibge": "4117222",
+  "latitude": "-24.4820345",
+  "longitude": "-53.8763616"
 }

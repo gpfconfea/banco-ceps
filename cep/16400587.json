@@ -5,5 +5,7 @@
   "bairro": "Jardim Pinheiro",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.519372",
+  "longitude": "-49.8521508"
 }

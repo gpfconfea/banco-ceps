@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Flora",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5756202",
+  "longitude": "-47.4206753"
 }

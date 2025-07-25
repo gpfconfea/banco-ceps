@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Petrolina de Goiás",
   "uf": "GO",
-  "ibge": "5216809"
+  "ibge": "5216809",
+  "latitude": "-16.6752546",
+  "longitude": "-49.2306308"
 }

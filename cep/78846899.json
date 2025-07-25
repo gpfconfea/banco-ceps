@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Campo Verde",
   "localidade": "Campo Verde",
   "uf": "MT",
-  "ibge": "5102678"
+  "ibge": "5102678",
+  "latitude": "-15.54716",
+  "longitude": "-55.17145"
 }

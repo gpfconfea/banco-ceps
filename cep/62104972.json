@@ -1,9 +1,11 @@
 {
   "cep": "62104972",
   "logradouro": "Rua dos Correios",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Patriarca",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "latitude": "40.6915554",
+  "longitude": "-7.4593059"
 }

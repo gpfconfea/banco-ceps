@@ -6,5 +6,7 @@
   "bairro": "Industrial Leste",
   "localidade": "Marechal Cândido Rondon",
   "uf": "PR",
-  "ibge": "4114609"
+  "ibge": "4114609",
+  "latitude": "-24.5665548",
+  "longitude": "-54.0365192"
 }

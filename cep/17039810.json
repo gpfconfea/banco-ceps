@@ -5,5 +5,7 @@
   "bairro": "Parque Baurulândia",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3131342",
+  "longitude": "-48.9909861"
 }
