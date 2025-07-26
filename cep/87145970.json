@@ -1,9 +1,11 @@
 {
   "cep": "87145970",
   "logradouro": "Avenida Ipiranga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Água Boa",
   "localidade": "Paiçandu",
   "uf": "PR",
-  "ibge": "4117503"
+  "ibge": "4117503",
+  "latitude": "-23.4996955",
+  "longitude": "-52.1528545"
 }

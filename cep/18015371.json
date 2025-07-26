@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Carmem Blanco",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5062145",
+  "longitude": "-47.4212607"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "18220991",
   "logradouro": "Estrada para o Bairro da Capuavinhaº - Bairro Ribeirãozinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Alambari",
   "uf": "SP",
-  "ibge": "3500758"
+  "ibge": "3500758",
+  "latitude": "-23.43705",
+  "longitude": "-47.20219"
 }

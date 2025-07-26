@@ -5,5 +5,7 @@
   "bairro": "Residencial Colinas de São Francisco",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.9750162",
+  "longitude": "-46.52782"
 }

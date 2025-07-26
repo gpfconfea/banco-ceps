@@ -1,9 +1,11 @@
 {
   "cep": "49550971",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Carira",
   "uf": "SE",
-  "ibge": "2801405"
+  "ibge": "2801405",
+  "latitude": "-10.3698499",
+  "longitude": "-37.6852271"
 }

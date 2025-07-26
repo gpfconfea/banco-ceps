@@ -5,5 +5,7 @@
   "bairro": "Bairro Novo",
   "localidade": "Gravatá",
   "uf": "PE",
-  "ibge": "2606408"
+  "ibge": "2606408",
+  "latitude": "-20.5176475",
+  "longitude": "-47.3581674"
 }

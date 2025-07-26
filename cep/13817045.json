@@ -5,5 +5,7 @@
   "bairro": "Martim Francisco",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.5230611",
+  "longitude": "-46.9530838"
 }

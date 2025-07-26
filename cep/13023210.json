@@ -5,5 +5,7 @@
   "bairro": "Vila Itapura",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.891403",
+  "longitude": "-47.0610958"
 }

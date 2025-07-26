@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José das Palmeiras",
   "uf": "PR",
-  "ibge": "4125456"
+  "ibge": "4125456",
+  "latitude": "-24.8365833",
+  "longitude": "-54.0615991"
 }

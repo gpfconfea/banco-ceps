@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.4050469",
+  "longitude": "-51.473076"
 }

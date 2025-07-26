@@ -6,5 +6,7 @@
   "bairro": "Vila Nova",
   "localidade": "Rancharia",
   "uf": "SP",
-  "ibge": "3542206"
+  "ibge": "3542206",
+  "latitude": "-22.2296519",
+  "longitude": "-50.8859662"
 }

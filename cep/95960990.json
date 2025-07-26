@@ -1,9 +1,11 @@
 {
   "cep": "95960990",
   "logradouro": "RS-425, km 01",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Encantado",
   "uf": "RS",
-  "ibge": "4306809"
+  "ibge": "4306809",
+  "latitude": "-29.23506",
+  "longitude": "-51.87047"
 }

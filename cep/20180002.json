@@ -5,5 +5,7 @@
   "bairro": "Baia de Guanabara",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-23.1908882",
+  "longitude": "-44.6227972"
 }

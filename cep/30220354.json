@@ -5,5 +5,7 @@
   "bairro": "Marçola",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8980796",
+  "longitude": "-43.9189882"
 }

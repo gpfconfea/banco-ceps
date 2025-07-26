@@ -5,5 +5,7 @@
   "bairro": "Vila Liberdade",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "latitude": "-16.61343",
+  "longitude": "-49.24616"
 }

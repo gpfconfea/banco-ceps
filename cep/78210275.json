@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cáceres",
   "uf": "MT",
-  "ibge": "5102504"
+  "ibge": "5102504",
+  "latitude": "-15.6300186",
+  "longitude": "-58.1711216"
 }

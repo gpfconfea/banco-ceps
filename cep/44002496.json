@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-11.1894619",
+  "longitude": "-40.5077584"
 }

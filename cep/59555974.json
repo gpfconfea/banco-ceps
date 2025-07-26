@@ -1,9 +1,11 @@
 {
   "cep": "59555974",
   "logradouro": "Sítio Quinturure",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sítio Quinturure",
   "localidade": "Bento Fernandes",
   "uf": "RN",
-  "ibge": "2401602"
+  "ibge": "2401602",
+  "latitude": "-5.6929082",
+  "longitude": "-35.8208143"
 }

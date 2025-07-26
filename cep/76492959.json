@@ -1,9 +1,11 @@
 {
   "cep": "76492959",
   "logradouro": "Avenida Bernardo Sayão Quadra 22 Lote 3",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Mara Rosa",
   "uf": "GO",
-  "ibge": "5212808"
+  "ibge": "5212808",
+  "latitude": "-14.01614",
+  "longitude": "-49.17894"
 }

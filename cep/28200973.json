@@ -1,9 +1,11 @@
 {
   "cep": "28200973",
   "logradouro": "Rodovia BR - 356",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cajueiro",
   "localidade": "São João da Barra",
   "uf": "RJ",
-  "ibge": "3305000"
+  "ibge": "3305000",
+  "latitude": "-21.7185072",
+  "longitude": "-41.0812189"
 }

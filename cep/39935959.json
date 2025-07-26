@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio do Jacinto",
   "uf": "MG",
-  "ibge": "3160306"
+  "ibge": "3160306",
+  "latitude": "-16.5324333",
+  "longitude": "-40.1758017"
 }

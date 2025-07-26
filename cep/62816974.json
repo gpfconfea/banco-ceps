@@ -1,9 +1,11 @@
 {
   "cep": "62816974",
   "logradouro": "Vila da Barra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra",
   "localidade": "Fortim",
   "uf": "CE",
-  "ibge": "2304459"
+  "ibge": "2304459",
+  "latitude": "-4.4375393",
+  "longitude": "-37.7809469"
 }

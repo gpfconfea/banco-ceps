@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Ouro Fino",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5552672",
+  "longitude": "-51.4459277"
 }

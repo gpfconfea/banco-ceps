@@ -1,9 +1,11 @@
 {
   "cep": "58718970",
   "logradouro": "Distrito Itajubatiba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itajubatiba",
   "localidade": "Catingueira",
   "uf": "PB",
-  "ibge": "2504207"
+  "ibge": "2504207",
+  "latitude": "-7.1277995",
+  "longitude": "-37.5960704"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "45700971",
   "logradouro": "Rua Marechal Deodoro da Fonseca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itapetinga",
   "uf": "BA",
-  "ibge": "2916401"
+  "ibge": "2916401",
+  "latitude": "-15.2473849",
+  "longitude": "-40.2480076"
 }

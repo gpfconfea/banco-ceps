@@ -1,9 +1,11 @@
 {
   "cep": "39842970",
   "logradouro": "Rua Santos Batista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cachoeira do Aranã",
   "localidade": "Frei Gaspar",
   "uf": "MG",
-  "ibge": "3126802"
+  "ibge": "3126802",
+  "latitude": "-18.0741239",
+  "longitude": "-41.5512929"
 }

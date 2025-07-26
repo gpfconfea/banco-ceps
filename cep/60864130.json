@@ -5,5 +5,7 @@
   "bairro": "Cajazeiras",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-23.3756117",
+  "longitude": "-46.4448883"
 }

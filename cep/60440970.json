@@ -1,9 +1,11 @@
 {
   "cep": "60440970",
   "logradouro": "Rua José Aurélio Câmara",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pici",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.7408421",
+  "longitude": "-38.5755452"
 }

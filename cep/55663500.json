@@ -5,5 +5,7 @@
   "bairro": "Serra Negra",
   "localidade": "Bezerros",
   "uf": "PE",
-  "ibge": "2601904"
+  "ibge": "2601904",
+  "latitude": "-8.1637207",
+  "longitude": "-35.7689582"
 }

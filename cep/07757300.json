@@ -5,5 +5,7 @@
   "bairro": "Pinheiros",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "latitude": "-23.3735595",
+  "longitude": "-46.8638764"
 }

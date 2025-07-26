@@ -6,5 +6,7 @@
   "bairro": "São Benedito",
   "localidade": "Santa Inês",
   "uf": "MA",
-  "ibge": "2109908"
+  "ibge": "2109908",
+  "latitude": "-23.3945467",
+  "longitude": "-46.6817837"
 }

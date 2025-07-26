@@ -1,9 +1,11 @@
 {
   "cep": "64218900",
   "logradouro": "Rua Doutor João Emílio Falcão Costa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "latitude": "-2.910833",
+  "longitude": "-41.781846"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barro Alto",
   "uf": "BA",
-  "ibge": "2903235"
+  "ibge": "2903235",
+  "latitude": "-11.7623754",
+  "longitude": "-41.9087499"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55825972",
   "logradouro": "Rua Um",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Nova Guadalajara",
   "localidade": "Paudalho",
   "uf": "PE",
-  "ibge": "2610608"
+  "ibge": "2610608",
+  "latitude": "-7.900417",
+  "longitude": "-35.1793123"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29114959",
   "logradouro": "Rua César Alcure",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Torquato",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3381803",
+  "longitude": "-40.3511388"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "48790972",
   "logradouro": "Praça Dois de Julho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Greguenhem",
   "localidade": "Tucano",
   "uf": "BA",
-  "ibge": "2931905"
+  "ibge": "2931905",
+  "latitude": "-12.9890051",
+  "longitude": "-38.5214771"
 }

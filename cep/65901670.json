@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.5266063",
+  "longitude": "-47.4874565"
 }

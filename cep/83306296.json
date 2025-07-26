@@ -5,5 +5,7 @@
   "bairro": "Planta Santa Clara",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.4591913",
+  "longitude": "-49.0736642"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Amaral Ferrador",
   "uf": "RS",
-  "ibge": "4300638"
+  "ibge": "4300638",
+  "latitude": "-29.984393",
+  "longitude": "-52.3760103"
 }

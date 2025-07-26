@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9005752",
+  "longitude": "-43.954203"
 }

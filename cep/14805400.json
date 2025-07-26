@@ -5,5 +5,7 @@
   "bairro": "Condomínio Buona Vita",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.6154838",
+  "longitude": "-48.8039045"
 }

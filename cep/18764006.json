@@ -5,5 +5,7 @@
   "bairro": "Vila Almeida",
   "localidade": "Cerqueira César",
   "uf": "SP",
-  "ibge": "3511409"
+  "ibge": "3511409",
+  "latitude": "-23.0305546",
+  "longitude": "-49.1666343"
 }

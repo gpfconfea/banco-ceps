@@ -5,5 +5,7 @@
   "bairro": "Jardim Veredas II",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4534759",
+  "longitude": "-51.9609898"
 }

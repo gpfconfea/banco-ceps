@@ -1,9 +1,11 @@
 {
   "cep": "55700973",
   "logradouro": "Rua do Comercio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado de Lagoa Comprida",
   "localidade": "Limoeiro",
   "uf": "PE",
-  "ibge": "2608909"
+  "ibge": "2608909",
+  "latitude": "-5.7236187",
+  "longitude": "-38.1562586"
 }

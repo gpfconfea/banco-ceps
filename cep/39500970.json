@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Azul",
   "uf": "MG",
-  "ibge": "3142908"
+  "ibge": "3142908",
+  "latitude": "-15.1531927",
+  "longitude": "-42.8727337"
 }

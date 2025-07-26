@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Adélia",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.7017112",
+  "longitude": "-46.8763205"
 }

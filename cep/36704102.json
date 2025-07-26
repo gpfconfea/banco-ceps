@@ -5,5 +5,7 @@
   "bairro": "Rosário",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-21.52699",
+  "longitude": "-42.64506"
 }

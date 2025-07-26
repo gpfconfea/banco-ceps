@@ -5,5 +5,7 @@
   "bairro": "Senhor dos Passos",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9042024",
+  "longitude": "-43.9474663"
 }

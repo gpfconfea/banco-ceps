@@ -1,9 +1,11 @@
 {
   "cep": "62548974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aracatiara",
   "localidade": "Amontada",
   "uf": "CE",
-  "ibge": "2300754"
+  "ibge": "2300754",
+  "latitude": "-3.2052971",
+  "longitude": "-39.8766038"
 }

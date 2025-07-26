@@ -5,5 +5,7 @@
   "bairro": "Espírito Santo",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9513965",
+  "longitude": "-44.1849991"
 }

@@ -6,5 +6,7 @@
   "bairro": "Johnson",
   "localidade": "Rio Branco do Sul",
   "uf": "PR",
-  "ibge": "4122206"
+  "ibge": "4122206",
+  "latitude": "-25.1891604",
+  "longitude": "-49.3177285"
 }

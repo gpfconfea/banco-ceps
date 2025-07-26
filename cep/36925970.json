@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caputira",
   "uf": "MG",
-  "ibge": "3112901"
+  "ibge": "3112901",
+  "latitude": "-20.1723986",
+  "longitude": "-42.271505"
 }

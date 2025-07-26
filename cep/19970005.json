@@ -5,5 +5,7 @@
   "bairro": "Jardim Avenida",
   "localidade": "Palmital",
   "uf": "SP",
-  "ibge": "3535309"
+  "ibge": "3535309",
+  "latitude": "-22.7841",
+  "longitude": "-50.22267"
 }

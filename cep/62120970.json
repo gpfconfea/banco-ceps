@@ -1,9 +1,11 @@
 {
   "cep": "62120970",
   "logradouro": "Rua Antônio Cunha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Alcântaras",
   "uf": "CE",
-  "ibge": "2300507"
+  "ibge": "2300507",
+  "latitude": "-3.73414",
+  "longitude": "-38.53233"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "36335974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Prainha",
   "localidade": "Ritápolis",
   "uf": "MG",
-  "ibge": "3156106"
+  "ibge": "3156106",
+  "latitude": "-19.953847",
+  "longitude": "-43.9442564"
 }

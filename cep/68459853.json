@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "latitude": "-3.786921",
+  "longitude": "-49.665775"
 }

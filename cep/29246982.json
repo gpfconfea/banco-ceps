@@ -1,9 +1,11 @@
 {
   "cep": "29246982",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Urânia",
   "localidade": "Alfredo Chaves",
   "uf": "ES",
-  "ibge": "3200300"
+  "ibge": "3200300",
+  "latitude": "-20.5810653",
+  "longitude": "-40.6980234"
 }

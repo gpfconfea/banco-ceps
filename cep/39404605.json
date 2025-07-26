@@ -5,5 +5,7 @@
   "bairro": "Loteamento Jardim Niemeyer",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7135761",
+  "longitude": "-43.8476789"
 }

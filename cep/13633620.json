@@ -5,5 +5,7 @@
   "bairro": "Taboão",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-23.41453",
+  "longitude": "-46.49737"
 }

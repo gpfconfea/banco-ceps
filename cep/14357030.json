@@ -5,5 +5,7 @@
   "bairro": "Bairro do Ginásio",
   "localidade": "Altinópolis",
   "uf": "SP",
-  "ibge": "3501004"
+  "ibge": "3501004",
+  "latitude": "-21.0187845",
+  "longitude": "-47.3797755"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Ternura",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.75294",
+  "longitude": "-48.84464"
 }

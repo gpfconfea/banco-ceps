@@ -5,5 +5,7 @@
   "bairro": "Setor Epaminondas II",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "latitude": "-17.3579603",
+  "longitude": "-52.6797328"
 }

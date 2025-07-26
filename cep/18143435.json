@@ -5,5 +5,7 @@
   "bairro": "Alpes Paulista (Mailasqui)",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5840027",
+  "longitude": "-47.0624867"
 }

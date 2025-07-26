@@ -5,5 +5,7 @@
   "bairro": "Conceição",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.5640575",
+  "longitude": "-41.3872665"
 }

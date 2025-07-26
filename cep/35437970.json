@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Diogo de Vasconcelos",
   "uf": "MG",
-  "ibge": "3121704"
+  "ibge": "3121704",
+  "latitude": "-20.486882",
+  "longitude": "-43.1981731"
 }

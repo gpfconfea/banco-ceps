@@ -5,5 +5,7 @@
   "bairro": "Vila Eunice",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.532126",
+  "longitude": "-46.8941853"
 }

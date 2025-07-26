@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Parada",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4420857",
+  "longitude": "-46.7150188"
 }

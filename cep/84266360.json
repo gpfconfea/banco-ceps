@@ -5,5 +5,7 @@
   "bairro": "Jardim União",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-25.4774469",
+  "longitude": "-49.2400667"
 }

@@ -5,5 +5,7 @@
   "bairro": "Saúde",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6121933",
+  "longitude": "-46.6289846"
 }

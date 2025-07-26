@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Caçador",
   "uf": "SC",
-  "ibge": "4203006"
+  "ibge": "4203006",
+  "latitude": "-26.7806635",
+  "longitude": "-51.0214324"
 }

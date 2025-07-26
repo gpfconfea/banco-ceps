@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Julio Rocha",
   "localidade": "Avaí",
   "uf": "SP",
-  "ibge": "3504305"
+  "ibge": "3504305",
+  "latitude": "-23.28062",
+  "longitude": "-46.7431"
 }

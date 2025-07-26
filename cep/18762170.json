@@ -5,5 +5,7 @@
   "bairro": "Santa Cecília",
   "localidade": "Cerqueira César",
   "uf": "SP",
-  "ibge": "3511409"
+  "ibge": "3511409",
+  "latitude": "-23.0398079",
+  "longitude": "-49.1779443"
 }

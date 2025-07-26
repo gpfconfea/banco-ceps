@@ -1,9 +1,11 @@
 {
   "cep": "41515990",
   "logradouro": "Praça das Decisões",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9314669",
+  "longitude": "-38.3755943"
 }

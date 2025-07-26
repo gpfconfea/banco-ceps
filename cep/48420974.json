@@ -1,9 +1,11 @@
 {
   "cep": "48420974",
   "logradouro": "Praça da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rangel",
   "localidade": "Antas",
   "uf": "BA",
-  "ibge": "2901601"
+  "ibge": "2901601",
+  "latitude": "-10.3683019",
+  "longitude": "-38.3353396"
 }

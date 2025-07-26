@@ -1,9 +1,11 @@
 {
   "cep": "28405970",
   "logradouro": "Rua Loureiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ipuca",
   "localidade": "São Fidélis",
   "uf": "RJ",
-  "ibge": "3304805"
+  "ibge": "3304805",
+  "latitude": "-21.6426744",
+  "longitude": "-41.7356098"
 }

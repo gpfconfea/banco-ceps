@@ -1,9 +1,11 @@
 {
   "cep": "93893970",
   "logradouro": "Rua São Bernardo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campo Vicente",
   "localidade": "Nova Hartz",
   "uf": "RS",
-  "ibge": "4313060"
+  "ibge": "4313060",
+  "latitude": "-29.6249074",
+  "longitude": "-50.8956539"
 }

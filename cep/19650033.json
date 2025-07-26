@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Nantes",
   "uf": "SP",
-  "ibge": "3532157"
+  "ibge": "3532157",
+  "latitude": "-22.6184563",
+  "longitude": "-51.2391027"
 }

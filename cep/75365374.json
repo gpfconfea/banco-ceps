@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperial",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.5179591",
+  "longitude": "-49.4208011"
 }

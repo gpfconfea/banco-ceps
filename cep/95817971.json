@@ -1,9 +1,11 @@
 {
   "cep": "95817971",
   "logradouro": "Estrada Herval",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Palanque",
   "localidade": "Venâncio Aires",
   "uf": "RS",
-  "ibge": "4322608"
+  "ibge": "4322608",
+  "latitude": "-31.9786",
+  "longitude": "-53.1057"
 }

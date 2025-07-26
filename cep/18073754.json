@@ -5,5 +5,7 @@
   "bairro": "Jardim Dacha Sorocaba",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.3927579",
+  "longitude": "-47.5174343"
 }

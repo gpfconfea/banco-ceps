@@ -1,9 +1,11 @@
 {
   "cep": "83880990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Rio Negro",
   "uf": "PR",
-  "ibge": "4122305"
+  "ibge": "4122305",
+  "latitude": "-26.10711",
+  "longitude": "-49.79044"
 }

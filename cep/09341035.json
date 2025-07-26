@@ -5,5 +5,7 @@
   "bairro": "Jardim Santista",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.6786374",
+  "longitude": "-46.4158401"
 }

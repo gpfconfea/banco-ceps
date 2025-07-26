@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nazareno",
   "uf": "MG",
-  "ibge": "3144508"
+  "ibge": "3144508",
+  "latitude": "-21.2184266",
+  "longitude": "-44.6141776"
 }

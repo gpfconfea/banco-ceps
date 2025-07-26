@@ -5,5 +5,7 @@
   "bairro": "Matadouro",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "latitude": "-22.4655846",
+  "longitude": "-43.8237511"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Ternura",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3353406",
+  "longitude": "-47.8479131"
 }

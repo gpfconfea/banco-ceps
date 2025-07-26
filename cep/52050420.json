@@ -5,5 +5,7 @@
   "bairro": "Encruzilhada",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0370742",
+  "longitude": "-34.8958044"
 }

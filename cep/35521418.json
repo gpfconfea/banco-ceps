@@ -5,5 +5,7 @@
   "bairro": "Condomínio Vilaje",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.85883",
+  "longitude": "-45.00361"
 }

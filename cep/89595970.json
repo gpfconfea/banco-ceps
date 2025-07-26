@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Salto Veloso",
   "uf": "SC",
-  "ibge": "4215406"
+  "ibge": "4215406",
+  "latitude": "-26.9051822",
+  "longitude": "-51.4058268"
 }

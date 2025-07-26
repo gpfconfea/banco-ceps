@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Palestina de Goiás",
   "uf": "GO",
-  "ibge": "5215652"
+  "ibge": "5215652",
+  "latitude": "-16.7458947",
+  "longitude": "-51.5297812"
 }

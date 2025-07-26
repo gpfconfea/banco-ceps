@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeirão do Sul",
   "uf": "SP",
-  "ibge": "3543204"
+  "ibge": "3543204",
+  "latitude": "-22.7834531",
+  "longitude": "-49.9292201"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Pedro de Alcântara",
   "uf": "SC",
-  "ibge": "4217253"
+  "ibge": "4217253",
+  "latitude": "-27.5682069",
+  "longitude": "-48.8052343"
 }

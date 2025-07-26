@@ -5,5 +5,7 @@
   "bairro": "Jardim Dom José",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.1887311",
+  "longitude": "-47.4956013"
 }

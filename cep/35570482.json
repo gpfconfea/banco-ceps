@@ -5,5 +5,7 @@
   "bairro": "Rosário",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.4606617",
+  "longitude": "-45.4217906"
 }

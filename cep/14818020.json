@@ -6,5 +6,7 @@
   "bairro": "Jardim América",
   "localidade": "Ibaté",
   "uf": "SP",
-  "ibge": "3519303"
+  "ibge": "3519303",
+  "latitude": "-21.9411603",
+  "longitude": "-48.0011529"
 }

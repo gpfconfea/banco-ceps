@@ -1,9 +1,11 @@
 {
   "cep": "45347970",
   "logradouro": "Avenida Francisco dos Anjos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ipiúna",
   "localidade": "Jaguaquara",
   "uf": "BA",
-  "ibge": "2917607"
+  "ibge": "2917607",
+  "latitude": "-14.9572738",
+  "longitude": "-39.2965691"
 }

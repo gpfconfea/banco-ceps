@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Iguaraçu",
   "uf": "PR",
-  "ibge": "4110003"
+  "ibge": "4110003",
+  "latitude": "-23.1972911",
+  "longitude": "-51.8244524"
 }

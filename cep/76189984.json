@@ -1,9 +1,11 @@
 {
   "cep": "76189984",
   "logradouro": "Rodovia GO-060 Km 50",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Nazário",
   "uf": "GO",
-  "ibge": "5214408"
+  "ibge": "5214408",
+  "latitude": "-16.6604273",
+  "longitude": "-49.3297782"
 }

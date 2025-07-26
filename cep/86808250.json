@@ -5,5 +5,7 @@
   "bairro": "Vila Country Club",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5582683",
+  "longitude": "-51.4506507"
 }

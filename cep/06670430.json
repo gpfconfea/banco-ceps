@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Cotia",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5938678",
+  "longitude": "-46.964158"
 }

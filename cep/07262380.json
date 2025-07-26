@@ -5,5 +5,7 @@
   "bairro": "Vila Laurita",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4786378",
+  "longitude": "-46.4019331"
 }

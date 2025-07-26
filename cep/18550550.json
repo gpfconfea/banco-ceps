@@ -5,5 +5,7 @@
   "bairro": "Residencial Vicente Laureano",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2789478",
+  "longitude": "-47.6683788"
 }

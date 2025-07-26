@@ -1,9 +1,11 @@
 {
   "cep": "35860971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Socorro",
   "localidade": "Conceição do Mato Dentro",
   "uf": "MG",
-  "ibge": "3117504"
+  "ibge": "3117504",
+  "latitude": "-19.1380733",
+  "longitude": "-43.1542399"
 }

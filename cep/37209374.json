@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Era II",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.22024",
+  "longitude": "-45.00603"
 }

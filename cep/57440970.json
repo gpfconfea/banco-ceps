@@ -1,9 +1,11 @@
 {
   "cep": "57440970",
   "logradouro": "Rua São Sebastião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Monteirópolis",
   "uf": "AL",
-  "ibge": "2705408"
+  "ibge": "2705408",
+  "latitude": "-9.6040611",
+  "longitude": "-37.247072"
 }

@@ -6,5 +6,7 @@
   "bairro": "Vila Imperial",
   "localidade": "Cafarnaum",
   "uf": "BA",
-  "ibge": "2905305"
+  "ibge": "2905305",
+  "latitude": "-12.51797",
+  "longitude": "-40.2946"
 }

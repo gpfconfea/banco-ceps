@@ -1,9 +1,11 @@
 {
   "cep": "28230980",
   "logradouro": "Praça São Joaquim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra do Itabapoana",
   "localidade": "São Francisco de Itabapoana",
   "uf": "RJ",
-  "ibge": "3304755"
+  "ibge": "3304755",
+  "latitude": "-21.3016392",
+  "longitude": "-40.9621979"
 }

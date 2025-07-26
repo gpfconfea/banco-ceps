@@ -5,5 +5,7 @@
   "bairro": "Barra do Trombudo",
   "localidade": "Rio do Sul",
   "uf": "SC",
-  "ibge": "4214805"
+  "ibge": "4214805",
+  "latitude": "-27.2589729",
+  "longitude": "-49.6965775"
 }

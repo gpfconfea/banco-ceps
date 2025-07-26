@@ -5,5 +5,7 @@
   "bairro": "Manguinhos",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-19.4559782",
+  "longitude": "-44.2539098"
 }

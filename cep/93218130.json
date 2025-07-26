@@ -5,5 +5,7 @@
   "bairro": "Freitas",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "latitude": "-29.8117541",
+  "longitude": "-51.1496436"
 }

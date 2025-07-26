@@ -1,9 +1,11 @@
 {
   "cep": "11660903",
   "logradouro": "Avenida Frei Pacifico Wagner",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.6190546",
+  "longitude": "-45.4097808"
 }

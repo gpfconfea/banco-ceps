@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-23.0178034",
+  "longitude": "-46.9950869"
 }

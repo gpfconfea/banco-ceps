@@ -5,5 +5,7 @@
   "bairro": "Parque Umuarama",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5965373",
+  "longitude": "-46.3056565"
 }

@@ -5,5 +5,7 @@
   "bairro": "Penha",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "latitude": "-19.6150836",
+  "longitude": "-43.2258468"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Flores",
   "localidade": "Guaiçara",
   "uf": "SP",
-  "ibge": "3517208"
+  "ibge": "3517208",
+  "latitude": "-21.61015",
+  "longitude": "-49.80245"
 }

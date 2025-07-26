@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alto Longá",
   "uf": "PI",
-  "ibge": "2200301"
+  "ibge": "2200301",
+  "latitude": "-5.25669",
+  "longitude": "-42.21288"
 }
