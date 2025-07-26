@@ -1,9 +1,11 @@
 {
   "cep": "63178976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Riacho Grande",
   "localidade": "Araripe",
   "uf": "CE",
-  "ibge": "2301307"
+  "ibge": "2301307",
+  "latitude": "-7.3875",
+  "longitude": "-40.2161111"
 }

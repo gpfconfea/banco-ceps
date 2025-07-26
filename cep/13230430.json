@@ -5,5 +5,7 @@
   "bairro": "Vila Cardoso",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-23.2102523",
+  "longitude": "-46.784845"
 }

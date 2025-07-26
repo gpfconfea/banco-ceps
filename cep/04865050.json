@@ -5,5 +5,7 @@
   "bairro": "Jardim Iporã",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7809253",
+  "longitude": "-46.7121177"
 }

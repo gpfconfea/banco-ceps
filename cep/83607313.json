@@ -5,5 +5,7 @@
   "bairro": "Rondinha",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4814492",
+  "longitude": "-49.3164573"
 }

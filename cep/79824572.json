@@ -6,5 +6,7 @@
   "bairro": "Porto Unique",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.1988475",
+  "longitude": "-54.834825"
 }

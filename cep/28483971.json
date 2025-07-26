@@ -1,9 +1,11 @@
 {
   "cep": "28483971",
   "logradouro": "Rua Paraoquena",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paraoquena",
   "localidade": "Santo Antônio de Pádua",
   "uf": "RJ",
-  "ibge": "3304706"
+  "ibge": "3304706",
+  "latitude": "-21.5251128",
+  "longitude": "-42.2052906"
 }

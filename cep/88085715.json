@@ -5,5 +5,7 @@
   "bairro": "Coqueiros",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.6129769",
+  "longitude": "-48.58584"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Collier",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-20.5861409",
+  "longitude": "-48.5688916"
 }

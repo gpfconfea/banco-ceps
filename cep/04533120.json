@@ -5,5 +5,7 @@
   "bairro": "Chácara Itaim",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5884646",
+  "longitude": "-46.686992"
 }

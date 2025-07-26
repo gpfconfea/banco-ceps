@@ -5,5 +5,7 @@
   "bairro": "Jardim Zaira",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.464123",
+  "longitude": "-46.5368947"
 }

@@ -5,5 +5,7 @@
   "bairro": "Brejo da Guabiraba",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-19.904213",
+  "longitude": "-43.9513857"
 }

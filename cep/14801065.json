@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora do Carmo",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.7979254",
+  "longitude": "-48.1883079"
 }

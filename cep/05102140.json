@@ -5,5 +5,7 @@
   "bairro": "Jardim Belaura",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5174714",
+  "longitude": "-46.7486109"
 }

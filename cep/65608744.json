@@ -5,5 +5,7 @@
   "bairro": "Pirajá",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-4.1337502",
+  "longitude": "-43.3224679"
 }

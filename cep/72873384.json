@@ -5,5 +5,7 @@
   "bairro": "Residencial Reserva Paraíso",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "latitude": "-16.0808048",
+  "longitude": "-47.9716127"
 }

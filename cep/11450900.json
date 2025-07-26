@@ -1,9 +1,11 @@
 {
   "cep": "11450900",
   "logradouro": "Avenida Castelo Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Cunhambebe (Vicente de Carvalho)",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "latitude": "-23.9335936",
+  "longitude": "-46.3042445"
 }

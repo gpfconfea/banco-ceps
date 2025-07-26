@@ -6,5 +6,7 @@
   "bairro": "Residencial Vila Chiquito",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.37247",
+  "longitude": "-48.24074"
 }

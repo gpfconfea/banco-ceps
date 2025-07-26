@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-21.73957",
+  "longitude": "-43.36619"
 }

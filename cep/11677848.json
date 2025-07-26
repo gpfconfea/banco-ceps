@@ -5,5 +5,7 @@
   "bairro": "Mar Verde",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5653299",
+  "longitude": "-45.2922251"
 }

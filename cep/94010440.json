@@ -5,5 +5,7 @@
   "bairro": "Oriço",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.8624608",
+  "longitude": "-51.12889"
 }

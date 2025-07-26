@@ -6,5 +6,7 @@
   "bairro": "São Pedro",
   "localidade": "Guaxupé",
   "uf": "MG",
-  "ibge": "3128709"
+  "ibge": "3128709",
+  "latitude": "-21.3082636",
+  "longitude": "-46.7236389"
 }

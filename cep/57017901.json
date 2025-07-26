@@ -1,9 +1,11 @@
 {
   "cep": "57017901",
   "logradouro": "Avenida Governador Afrânio Lages",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bom Parto",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.6534745",
+  "longitude": "-35.7393513"
 }

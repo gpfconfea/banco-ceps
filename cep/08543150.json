@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Margarida",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "latitude": "-23.5236289",
+  "longitude": "-46.371906"
 }

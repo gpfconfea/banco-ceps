@@ -5,5 +5,7 @@
   "bairro": "Cristal",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0835689",
+  "longitude": "-51.2376225"
 }

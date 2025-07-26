@@ -1,9 +1,11 @@
 {
   "cep": "78293970",
   "logradouro": "Rua Vinte e Quatro de Junho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Glória D'Oeste",
   "uf": "MT",
-  "ibge": "5103957"
+  "ibge": "5103957",
+  "latitude": "-15.7693466",
+  "longitude": "-58.3112071"
 }

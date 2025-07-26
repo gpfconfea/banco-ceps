@@ -5,5 +5,7 @@
   "bairro": "Setor Santo André",
   "localidade": "Caldas Novas",
   "uf": "GO",
-  "ibge": "5204508"
+  "ibge": "5204508",
+  "latitude": "-17.6623668",
+  "longitude": "-48.7092642"
 }

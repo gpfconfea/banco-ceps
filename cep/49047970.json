@@ -6,5 +6,7 @@
   "bairro": "Ponto Novo",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "latitude": "-10.9342639",
+  "longitude": "-37.0784371"
 }

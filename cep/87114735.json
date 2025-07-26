@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Independência I",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4230441",
+  "longitude": "-51.8584998"
 }

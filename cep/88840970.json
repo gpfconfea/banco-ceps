@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Urussanga",
   "uf": "SC",
-  "ibge": "4219002"
+  "ibge": "4219002",
+  "latitude": "-28.5202021",
+  "longitude": "-49.3225542"
 }

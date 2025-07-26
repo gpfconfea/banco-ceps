@@ -1,9 +1,11 @@
 {
   "cep": "99575971",
   "logradouro": "Praça Presidente Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barreirinho",
   "localidade": "Sarandi",
   "uf": "RS",
-  "ibge": "4320107"
+  "ibge": "4320107",
+  "latitude": "-27.86714",
+  "longitude": "-52.99511"
 }

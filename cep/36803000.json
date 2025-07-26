@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Carangola",
   "uf": "MG",
-  "ibge": "3113305"
+  "ibge": "3113305",
+  "latitude": "-20.745",
+  "longitude": "-42.1721071"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Presidente Dutra",
   "uf": "MA",
-  "ibge": "2109106"
+  "ibge": "2109106",
+  "latitude": "-5.28397",
+  "longitude": "-44.49135"
 }

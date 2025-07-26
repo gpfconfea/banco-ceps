@@ -5,5 +5,7 @@
   "bairro": "Vale Verde",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-22.7254321",
+  "longitude": "-46.8125069"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55485970",
   "logradouro": "Rua Padre Ibiapina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sto Antonio das Queimadas",
   "localidade": "Jurema",
   "uf": "PE",
-  "ibge": "2608404"
+  "ibge": "2608404",
+  "latitude": "-8.7188756",
+  "longitude": "-36.1361581"
 }

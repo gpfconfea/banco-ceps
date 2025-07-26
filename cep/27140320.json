@@ -5,5 +5,7 @@
   "bairro": "Maracanã",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "latitude": "-22.4891553",
+  "longitude": "-43.814166"
 }

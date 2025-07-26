@@ -5,5 +5,7 @@
   "bairro": "José Maciel",
   "localidade": "Belo Jardim",
   "uf": "PE",
-  "ibge": "2601706"
+  "ibge": "2601706",
+  "latitude": "-23.4736079",
+  "longitude": "-47.4755159"
 }

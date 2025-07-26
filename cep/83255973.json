@@ -1,9 +1,11 @@
 {
   "cep": "83255973",
   "logradouro": "Avenida Ipanema",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Shangri-la",
   "localidade": "Pontal do Paraná",
   "uf": "PR",
-  "ibge": "4119954"
+  "ibge": "4119954",
+  "latitude": "-25.622105",
+  "longitude": "-48.4192071"
 }

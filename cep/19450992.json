@@ -1,9 +1,11 @@
 {
   "cep": "19450992",
   "logradouro": "Estrada Vicinal Presidente Epitácio, Fazenda São Francisco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caiuá",
   "uf": "SP",
-  "ibge": "3509106"
+  "ibge": "3509106",
+  "latitude": "-21.8135",
+  "longitude": "-52.00232"
 }

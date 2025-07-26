@@ -5,5 +5,7 @@
   "bairro": "Residencial Vale Florido",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-22.41455",
+  "longitude": "-49.13818"
 }

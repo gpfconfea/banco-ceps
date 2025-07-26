@@ -1,9 +1,11 @@
 {
   "cep": "59570974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gravatá",
   "localidade": "Ceará-Mirim",
   "uf": "RN",
-  "ibge": "2402600"
+  "ibge": "2402600",
+  "latitude": "-5.693275",
+  "longitude": "-35.5302491"
 }

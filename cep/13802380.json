@@ -5,5 +5,7 @@
   "bairro": "NIAS Vereador Antonio Carlos Guarnieri",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4323516",
+  "longitude": "-46.9371008"
 }

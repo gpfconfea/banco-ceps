@@ -1,9 +1,11 @@
 {
   "cep": "64905970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Currais",
   "uf": "PI",
-  "ibge": "2203230"
+  "ibge": "2203230",
+  "latitude": "-4.98823",
+  "longitude": "-42.83895"
 }

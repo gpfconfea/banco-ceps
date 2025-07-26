@@ -1,9 +1,11 @@
 {
   "cep": "26510989",
-  "logradouro": "Rua Frei Ludolf 175 Térreo Locker Correios",
+  "logradouro": "Rua Frei Ludolf 175 Térreo",
   "complemento": "",
   "bairro": "Centro",
   "localidade": "Nilópolis",
   "uf": "RJ",
-  "ibge": "3303203"
+  "ibge": "3303203",
+  "latitude": "-22.8104223",
+  "longitude": "-43.415167"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "89992970",
   "logradouro": "Avenida Marechal Dutra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Presidente Juscelino",
   "localidade": "São Lourenço do Oeste",
   "uf": "SC",
-  "ibge": "4216909"
+  "ibge": "4216909",
+  "latitude": "-26.4160879",
+  "longitude": "-52.899291"
 }

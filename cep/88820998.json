@@ -1,9 +1,11 @@
 {
   "cep": "88820998",
   "logradouro": "Rodovia Paulino Búrigo - Sanga Funda (Posto Pessoa)",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Içara",
   "uf": "SC",
-  "ibge": "4207007"
+  "ibge": "4207007",
+  "latitude": "-28.75738",
+  "longitude": "-49.27221"
 }

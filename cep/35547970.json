@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carmo da Mata",
   "uf": "MG",
-  "ibge": "3114006"
+  "ibge": "3114006",
+  "latitude": "-20.5591041",
+  "longitude": "-44.8697327"
 }

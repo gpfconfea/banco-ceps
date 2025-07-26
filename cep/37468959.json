@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pouso Alto",
   "uf": "MG",
-  "ibge": "3152600"
+  "ibge": "3152600",
+  "latitude": "-17.85892",
+  "longitude": "-41.51245"
 }

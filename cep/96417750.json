@@ -5,5 +5,7 @@
   "bairro": "Santa Tereza",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "latitude": "-31.3563506",
+  "longitude": "-54.0325221"
 }

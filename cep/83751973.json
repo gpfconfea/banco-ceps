@@ -1,9 +1,11 @@
 {
   "cep": "83751973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Butiá",
   "localidade": "Lapa",
   "uf": "PR",
-  "ibge": "4113205"
+  "ibge": "4113205",
+  "latitude": "-13.6022679",
+  "longitude": "-43.4329762"
 }

@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Barretos",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-20.5213469",
+  "longitude": "-48.5965657"
 }

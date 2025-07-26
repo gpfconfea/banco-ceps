@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sarandi",
   "uf": "RS",
-  "ibge": "4320107"
+  "ibge": "4320107",
+  "latitude": "-27.9429674",
+  "longitude": "-52.9221413"
 }

@@ -5,5 +5,7 @@
   "bairro": "Pici",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.7387964",
+  "longitude": "-38.569286"
 }

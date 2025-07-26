@@ -1,9 +1,11 @@
 {
   "cep": "61680974",
   "logradouro": "Rua Leocádio Maciel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Catuana",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.7281443",
+  "longitude": "-38.6619214"
 }

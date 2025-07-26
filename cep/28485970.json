@@ -1,9 +1,11 @@
 {
   "cep": "28485970",
   "logradouro": "Rua Manoel Laerte",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibitiguaçu",
   "localidade": "Santo Antônio de Pádua",
   "uf": "RJ",
-  "ibge": "3304706"
+  "ibge": "3304706",
+  "latitude": "-21.5418158",
+  "longitude": "-42.1837129"
 }

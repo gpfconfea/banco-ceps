@@ -1,9 +1,11 @@
 {
   "cep": "99377970",
   "logradouro": "Estrada Linha Silveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Linha Silveira",
   "localidade": "Fontoura Xavier",
   "uf": "RS",
-  "ibge": "4308300"
+  "ibge": "4308300",
+  "latitude": "-29.0032705",
+  "longitude": "-52.2990673"
 }

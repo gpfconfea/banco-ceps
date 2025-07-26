@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6119789",
+  "longitude": "-55.990466"
 }

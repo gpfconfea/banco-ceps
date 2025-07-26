@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaipu",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7815558",
+  "longitude": "-49.361859"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Maria Amparo",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-22.7048551",
+  "longitude": "-46.8068516"
 }

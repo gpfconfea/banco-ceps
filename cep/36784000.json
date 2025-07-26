@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dona Euzébia",
   "uf": "MG",
-  "ibge": "3122900"
+  "ibge": "3122900",
+  "latitude": "-21.316667",
+  "longitude": "-42.810556"
 }

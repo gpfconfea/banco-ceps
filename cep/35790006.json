@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Curvelo",
   "uf": "MG",
-  "ibge": "3120904"
+  "ibge": "3120904",
+  "latitude": "-18.7673383",
+  "longitude": "-44.4307113"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Reserva Esmeralda",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.22398",
+  "longitude": "-49.91051"
 }

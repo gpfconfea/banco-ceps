@@ -5,5 +5,7 @@
   "bairro": "Índios",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.776323",
+  "longitude": "-50.189858"
 }

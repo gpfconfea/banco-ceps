@@ -5,5 +5,7 @@
   "bairro": "Residencial Primavera Turu",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5193475",
+  "longitude": "-44.2353643"
 }

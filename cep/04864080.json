@@ -5,5 +5,7 @@
   "bairro": "Recanto Ana Maria",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7723053",
+  "longitude": "-46.7255212"
 }

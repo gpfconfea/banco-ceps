@@ -5,5 +5,7 @@
   "bairro": "Residencial Barra Feita",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4842735",
+  "longitude": "-46.9884833"
 }

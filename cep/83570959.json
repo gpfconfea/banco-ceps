@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cerro Azul",
   "uf": "PR",
-  "ibge": "4105201"
+  "ibge": "4105201",
+  "latitude": "-25.77448",
+  "longitude": "-49.71424"
 }

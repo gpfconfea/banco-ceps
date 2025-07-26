@@ -5,5 +5,7 @@
   "bairro": "Jardim Lucinda",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5171347",
+  "longitude": "-46.4396835"
 }

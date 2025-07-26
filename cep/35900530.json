@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "latitude": "-19.6252543",
+  "longitude": "-43.2278753"
 }

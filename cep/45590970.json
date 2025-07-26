@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dário Meira",
   "uf": "BA",
-  "ibge": "2910008"
+  "ibge": "2910008",
+  "latitude": "-14.4343224",
+  "longitude": "-39.9027719"
 }

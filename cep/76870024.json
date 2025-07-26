@@ -5,5 +5,7 @@
   "bairro": "Setor 01",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "latitude": "-8.7248031",
+  "longitude": "-63.9109286"
 }

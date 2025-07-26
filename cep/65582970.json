@@ -1,9 +1,11 @@
 {
   "cep": "65582970",
   "logradouro": "Rua dos Araújos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barro Duro",
   "localidade": "Tutóia",
   "uf": "MA",
-  "ibge": "2112506"
+  "ibge": "2112506",
+  "latitude": "-2.8962737",
+  "longitude": "-42.3080069"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58650971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Salgadinho",
   "uf": "PB",
-  "ibge": "2513000"
+  "ibge": "2513000",
+  "latitude": "-6.7689363",
+  "longitude": "-35.0194783"
 }

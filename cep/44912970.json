@@ -1,9 +1,11 @@
 {
   "cep": "44912970",
   "logradouro": "Praça João Nery de Barros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Prevenido",
   "localidade": "América Dourada",
   "uf": "BA",
-  "ibge": "2901155"
+  "ibge": "2901155",
+  "latitude": "-11.4537072",
+  "longitude": "-41.4370659"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alvorada de Minas",
   "uf": "MG",
-  "ibge": "3102407"
+  "ibge": "3102407",
+  "latitude": "-18.7341884",
+  "longitude": "-43.3652466"
 }

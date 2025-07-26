@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz Industrial",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.9429946",
+  "longitude": "-44.0543306"
 }

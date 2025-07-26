@@ -5,5 +5,7 @@
   "bairro": "Vila Cristina",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9330022",
+  "longitude": "-44.1403576"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Moçambique",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "latitude": "-20.8086048",
+  "longitude": "-51.7299778"
 }

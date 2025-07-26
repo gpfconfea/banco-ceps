@@ -5,5 +5,7 @@
   "bairro": "Comunidade Urbana de Reta Grande",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "latitude": "-20.63995",
+  "longitude": "-40.47855"
 }

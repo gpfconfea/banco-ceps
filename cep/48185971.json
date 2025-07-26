@@ -1,9 +1,11 @@
 {
   "cep": "48185971",
   "logradouro": "Rua do Cruzeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibatui",
   "localidade": "Entre Rios",
   "uf": "BA",
-  "ibge": "2910503"
+  "ibge": "2910503",
+  "latitude": "-20.6767673",
+  "longitude": "-44.0621725"
 }

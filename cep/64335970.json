@@ -1,9 +1,11 @@
 {
   "cep": "64335970",
   "logradouro": "Praça João Ferreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Coivaras",
   "uf": "PI",
-  "ibge": "2202737"
+  "ibge": "2202737",
+  "latitude": "-5.0901677",
+  "longitude": "-42.2036855"
 }

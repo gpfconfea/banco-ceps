@@ -1,9 +1,11 @@
 {
   "cep": "68770971",
   "logradouro": "Rua Agrovila de Pernambuco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Zona Rural",
   "localidade": "Inhangapi",
   "uf": "PA",
-  "ibge": "1503408"
+  "ibge": "1503408",
+  "latitude": "-1.4459727",
+  "longitude": "-47.8822604"
 }

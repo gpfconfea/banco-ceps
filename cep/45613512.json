@@ -5,5 +5,7 @@
   "bairro": "Nova Ferradas",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "latitude": "-14.7726295",
+  "longitude": "-39.2668208"
 }

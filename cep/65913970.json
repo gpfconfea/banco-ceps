@@ -1,9 +1,11 @@
 {
   "cep": "65913970",
   "logradouro": "Rodovia BR-010 Quilômetro 1347",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aeroporto",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.527318",
+  "longitude": "-47.4714576"
 }

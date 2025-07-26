@@ -1,9 +1,11 @@
 {
   "cep": "29907900",
   "logradouro": "Rua Alair Garcia Duarte",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Três Barras",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.3737079",
+  "longitude": "-40.0775094"
 }

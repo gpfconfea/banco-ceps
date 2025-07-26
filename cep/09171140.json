@@ -5,5 +5,7 @@
   "bairro": "Vila Luzita",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.7009113",
+  "longitude": "-46.507346"
 }

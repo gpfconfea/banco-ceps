@@ -5,5 +5,7 @@
   "bairro": "Parque",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-29.2228286",
+  "longitude": "-51.3356527"
 }

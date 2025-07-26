@@ -1,9 +1,11 @@
 {
   "cep": "63154976",
   "logradouro": "Rua Enéas Arrais",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Quixariú",
   "localidade": "Campos Sales",
   "uf": "CE",
-  "ibge": "2302701"
+  "ibge": "2302701",
+  "latitude": "-6.8258062",
+  "longitude": "-40.2854555"
 }

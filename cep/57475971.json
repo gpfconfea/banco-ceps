@@ -1,9 +1,11 @@
 {
   "cep": "57475971",
   "logradouro": "Distrito Campinhos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pariconha",
   "uf": "AL",
-  "ibge": "2706422"
+  "ibge": "2706422",
+  "latitude": "-19.5806625",
+  "longitude": "-44.0535245"
 }

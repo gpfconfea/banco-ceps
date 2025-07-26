@@ -1,9 +1,11 @@
 {
   "cep": "63533975",
   "logradouro": "Rua São Bartolomeu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Bartolomeu",
   "localidade": "Cariús",
   "uf": "CE",
-  "ibge": "2303303"
+  "ibge": "2303303",
+  "latitude": "-6.6182704",
+  "longitude": "-39.503243"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "39435971",
   "logradouro": "Rua Varzelândia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Condado do Norte",
   "localidade": "São João da Ponte",
   "uf": "MG",
-  "ibge": "3162401"
+  "ibge": "3162401",
+  "latitude": "-15.7901001",
+  "longitude": "-44.0499874"
 }

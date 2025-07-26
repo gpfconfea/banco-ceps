@@ -5,5 +5,7 @@
   "bairro": "João Gualberto",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.5100136",
+  "longitude": "-48.5220854"
 }

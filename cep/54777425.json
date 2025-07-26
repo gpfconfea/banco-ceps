@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "latitude": "-8.0115986",
+  "longitude": "-35.0079833"
 }

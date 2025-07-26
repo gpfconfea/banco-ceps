@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.0149227",
+  "longitude": "-47.0143665"
 }

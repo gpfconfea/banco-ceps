@@ -5,5 +5,7 @@
   "bairro": "Buritis",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-22.067516",
+  "longitude": "-46.5728111"
 }

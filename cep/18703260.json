@@ -5,5 +5,7 @@
   "bairro": "Vila Cidade Jardim",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.1179633",
+  "longitude": "-48.9266928"
 }

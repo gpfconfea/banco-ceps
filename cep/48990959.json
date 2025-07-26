@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Andorinha",
   "uf": "BA",
-  "ibge": "2901353"
+  "ibge": "2901353",
+  "latitude": "-11.29541",
+  "longitude": "-41.98784"
 }

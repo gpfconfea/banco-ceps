@@ -1,9 +1,11 @@
 {
   "cep": "75914972",
   "logradouro": "Avenida Brasil",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ouroana",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-18.1353566",
+  "longitude": "-50.618779"
 }

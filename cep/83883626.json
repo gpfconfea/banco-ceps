@@ -6,5 +6,7 @@
   "bairro": "Volta Grande",
   "localidade": "Rio Negro",
   "uf": "PR",
-  "ibge": "4122305"
+  "ibge": "4122305",
+  "latitude": "-26.0982619",
+  "longitude": "-49.7749472"
 }

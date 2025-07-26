@@ -1,9 +1,11 @@
 {
   "cep": "44850971",
   "logradouro": "Rua Juaquim Valois",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Fedegoso",
   "localidade": "Morro do Chapéu",
   "uf": "BA",
-  "ibge": "2921708"
+  "ibge": "2921708",
+  "latitude": "-12.7601322",
+  "longitude": "-39.4255163"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Campina Grande",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8028897",
+  "longitude": "-47.0810037"
 }

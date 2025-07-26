@@ -1,9 +1,11 @@
 {
   "cep": "49161959",
   "logradouro": "Avenida Coletora A",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Taiçoca de Fora",
   "localidade": "Nossa Senhora do Socorro",
   "uf": "SE",
-  "ibge": "2804805"
+  "ibge": "2804805",
+  "latitude": "-10.8523724",
+  "longitude": "-37.0764366"
 }

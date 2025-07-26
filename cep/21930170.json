@@ -5,5 +5,7 @@
   "bairro": "Zumbi",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8205682",
+  "longitude": "-43.1765779"
 }

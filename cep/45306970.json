@@ -1,9 +1,11 @@
 {
   "cep": "45306970",
   "logradouro": "Praça Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Monte Cruzeiro",
   "localidade": "Elísio Medrado",
   "uf": "BA",
-  "ibge": "2910305"
+  "ibge": "2910305",
+  "latitude": "-10.2601704",
+  "longitude": "-40.1947585"
 }

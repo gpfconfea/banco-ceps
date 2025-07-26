@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Vista Verde",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "latitude": "-22.6176269",
+  "longitude": "-45.0010384"
 }
