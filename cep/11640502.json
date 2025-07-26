@@ -6,5 +6,7 @@
   "bairro": "Praia Grande (Cambaquara)",
   "localidade": "Ilhabela",
   "uf": "SP",
-  "ibge": "3520400"
+  "ibge": "3520400",
+  "latitude": "-23.85905",
+  "longitude": "-45.41682"
 }

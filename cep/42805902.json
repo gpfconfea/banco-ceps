@@ -1,9 +1,11 @@
 {
   "cep": "42805902",
   "logradouro": "Rua Santa Maria Goretti",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lama Preta",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.80607",
+  "longitude": "-38.20736"
 }

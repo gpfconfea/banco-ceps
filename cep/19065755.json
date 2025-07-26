@@ -5,5 +5,7 @@
   "bairro": "Jardim Vale Verde",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1090654",
+  "longitude": "-51.4360316"
 }

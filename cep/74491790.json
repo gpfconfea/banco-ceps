@@ -5,5 +5,7 @@
   "bairro": "Residencial Mundo Novo 2",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-15.7620798",
+  "longitude": "-49.6368538"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "59943970",
   "logradouro": "Rua Pedro Bernardo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Bernardo",
   "localidade": "Luís Gomes",
   "uf": "RN",
-  "ibge": "2407005"
+  "ibge": "2407005",
+  "latitude": "-6.393101",
+  "longitude": "-38.4143985"
 }

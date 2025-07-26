@@ -1,9 +1,11 @@
 {
   "cep": "86355970",
   "logradouro": "Rua Eugênio Varoto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Quinzópolis",
   "localidade": "Santa Mariana",
   "uf": "PR",
-  "ibge": "4123907"
+  "ibge": "4123907",
+  "latitude": "-23.03803",
+  "longitude": "-50.57095"
 }

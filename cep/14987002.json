@@ -5,5 +5,7 @@
   "bairro": "Jardim Beira Rio",
   "localidade": "Sales",
   "uf": "SP",
-  "ibge": "3544806"
+  "ibge": "3544806",
+  "latitude": "-21.3627776",
+  "longitude": "-49.48293"
 }

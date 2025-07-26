@@ -5,5 +5,7 @@
   "bairro": "Bonsucesso",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8605468",
+  "longitude": "-43.2520271"
 }

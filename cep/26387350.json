@@ -5,5 +5,7 @@
   "bairro": "Vila Zenith",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.713",
+  "longitude": "-43.55794"
 }

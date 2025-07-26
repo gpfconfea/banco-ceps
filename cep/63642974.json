@@ -1,9 +1,11 @@
 {
   "cep": "63642974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jandrangoeira",
   "localidade": "Independência",
   "uf": "CE",
-  "ibge": "2305605"
+  "ibge": "2305605",
+  "latitude": "-3.8788361",
+  "longitude": "-38.6317679"
 }

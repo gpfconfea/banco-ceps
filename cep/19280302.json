@@ -6,5 +6,7 @@
   "bairro": "Residencial Nova Teodoro I",
   "localidade": "Teodoro Sampaio",
   "uf": "SP",
-  "ibge": "3554300"
+  "ibge": "3554300",
+  "latitude": "-22.51967",
+  "longitude": "-52.16854"
 }

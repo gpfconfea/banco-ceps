@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu",
   "localidade": "Vargem Grande Paulista",
   "uf": "SP",
-  "ibge": "3556453"
+  "ibge": "3556453",
+  "latitude": "-23.6129196",
+  "longitude": "-47.0085386"
 }

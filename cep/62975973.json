@@ -1,9 +1,11 @@
 {
   "cep": "62975973",
   "logradouro": "Rua Francisco Rodrigues Gomes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Castanhão",
   "localidade": "Alto Santo",
   "uf": "CE",
-  "ibge": "2300705"
+  "ibge": "2300705",
+  "latitude": "-5.4671684",
+  "longitude": "-38.4084009"
 }

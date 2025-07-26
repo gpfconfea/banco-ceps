@@ -1,9 +1,11 @@
 {
   "cep": "83900971",
   "logradouro": "Estrada Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Água Branca",
   "localidade": "São Mateus do Sul",
   "uf": "PR",
-  "ibge": "4125605"
+  "ibge": "4125605",
+  "latitude": "-25.9243659",
+  "longitude": "-50.4721736"
 }

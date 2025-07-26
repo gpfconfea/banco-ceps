@@ -1,9 +1,11 @@
 {
   "cep": "97395970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibaré",
   "localidade": "Lavras do Sul",
   "uf": "RS",
-  "ibge": "4311502"
+  "ibge": "4311502",
+  "latitude": "-22.856177",
+  "longitude": "-43.2420381"
 }

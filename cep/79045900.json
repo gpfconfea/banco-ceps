@@ -1,9 +1,11 @@
 {
   "cep": "79045900",
   "logradouro": "Avenida Zilá Correa Machado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Noroeste",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.5170555",
+  "longitude": "-54.5653121"
 }

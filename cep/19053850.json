@@ -5,5 +5,7 @@
   "bairro": "Residencial Quinta das Flores",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1676975",
+  "longitude": "-51.4106396"
 }

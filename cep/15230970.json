@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Adolfo",
   "uf": "SP",
-  "ibge": "3500204"
+  "ibge": "3500204",
+  "latitude": "-21.23432",
+  "longitude": "-49.64061"
 }

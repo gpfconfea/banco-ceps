@@ -1,9 +1,11 @@
 {
   "cep": "45840973",
   "logradouro": "Rua Guaratinga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João do Sul",
   "localidade": "Guaratinga",
   "uf": "BA",
-  "ibge": "2911808"
+  "ibge": "2911808",
+  "latitude": "-16.550472",
+  "longitude": "-39.9507248"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Muaná",
   "uf": "PA",
-  "ibge": "1504901"
+  "ibge": "1504901",
+  "latitude": "-1.5345",
+  "longitude": "-49.22027"
 }

@@ -5,5 +5,7 @@
   "bairro": "Zoológico",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "latitude": "-29.80168",
+  "longitude": "-51.166495"
 }

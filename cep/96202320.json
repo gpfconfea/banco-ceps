@@ -5,5 +5,7 @@
   "bairro": "São Paulo",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-32.0475917",
+  "longitude": "-52.1133951"
 }

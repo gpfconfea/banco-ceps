@@ -5,5 +5,7 @@
   "bairro": "Nova Baeta",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "latitude": "-23.7047139",
+  "longitude": "-46.5311678"
 }

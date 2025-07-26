@@ -1,9 +1,11 @@
 {
   "cep": "78668970",
   "logradouro": "Rua Quinze de Novembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Serra Nova Dourada",
   "uf": "MT",
-  "ibge": "5107883"
+  "ibge": "5107883",
+  "latitude": "-22.9510277",
+  "longitude": "-47.3203259"
 }

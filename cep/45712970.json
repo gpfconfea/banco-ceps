@@ -1,9 +1,11 @@
 {
   "cep": "45712970",
   "logradouro": "Rua Rui Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio do Meio",
   "localidade": "Itororó",
   "uf": "BA",
-  "ibge": "2917102"
+  "ibge": "2917102",
+  "latitude": "-15.0682399",
+  "longitude": "-39.9781678"
 }

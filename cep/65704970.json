@@ -1,9 +1,11 @@
 {
   "cep": "65704970",
   "logradouro": "Rua Manuel Severo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bom Lugar",
   "uf": "MA",
-  "ibge": "2102077"
+  "ibge": "2102077",
+  "latitude": "-4.3716525",
+  "longitude": "-45.0321842"
 }

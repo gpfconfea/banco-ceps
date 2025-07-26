@@ -5,5 +5,7 @@
   "bairro": "Água Fria",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4875585",
+  "longitude": "-46.6239423"
 }

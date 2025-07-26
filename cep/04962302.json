@@ -5,5 +5,7 @@
   "bairro": "Chácara Sonho Azul",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6345067",
+  "longitude": "-46.5088099"
 }

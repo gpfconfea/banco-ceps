@@ -1,9 +1,11 @@
 {
   "cep": "44650959",
   "logradouro": "Rua Humberto de Campos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Gavião",
   "uf": "BA",
-  "ibge": "2911253"
+  "ibge": "2911253",
+  "latitude": "-11.47329",
+  "longitude": "-39.78557"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Talismã I",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7460848",
+  "longitude": "-49.3538313"
 }

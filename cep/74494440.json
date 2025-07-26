@@ -5,5 +5,7 @@
   "bairro": "Residencial Monte Pascoal",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.688902",
+  "longitude": "-49.4027206"
 }

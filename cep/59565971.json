@@ -1,9 +1,11 @@
 {
   "cep": "59565971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serra Pelada",
   "localidade": "Taipu",
   "uf": "RN",
-  "ibge": "2413904"
+  "ibge": "2413904",
+  "latitude": "-5.6833333",
+  "longitude": "-35.5666667"
 }

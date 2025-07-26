@@ -5,5 +5,7 @@
   "bairro": "Verde Teto",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "latitude": "-23.3092936",
+  "longitude": "-51.1281938"
 }

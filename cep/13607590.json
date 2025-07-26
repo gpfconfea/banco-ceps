@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Paulista",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "latitude": "-22.376102",
+  "longitude": "-47.361989"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Hugo Rodrigues",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4234046",
+  "longitude": "-54.6572198"
 }

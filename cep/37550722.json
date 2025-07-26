@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Redentor",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-21.1395276",
+  "longitude": "-44.2290036"
 }

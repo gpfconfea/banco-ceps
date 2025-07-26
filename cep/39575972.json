@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Josenópolis",
   "uf": "MG",
-  "ibge": "3136579"
+  "ibge": "3136579",
+  "latitude": "-16.5480384",
+  "longitude": "-42.5169427"
 }

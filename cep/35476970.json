@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piedade dos Gerais",
   "uf": "MG",
-  "ibge": "3150406"
+  "ibge": "3150406",
+  "latitude": "-20.4712021",
+  "longitude": "-44.2228969"
 }

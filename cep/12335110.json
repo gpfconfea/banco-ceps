@@ -5,5 +5,7 @@
   "bairro": "Parque Meia Lua",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.2620547",
+  "longitude": "-45.9634452"
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Lagoa",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8676385",
+  "longitude": "-43.9975711"
 }

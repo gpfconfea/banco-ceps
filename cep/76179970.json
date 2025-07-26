@@ -1,9 +1,11 @@
 {
   "cep": "76179970",
   "logradouro": "Rua São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Capelinha",
   "localidade": "Anicuns",
   "uf": "GO",
-  "ibge": "5201306"
+  "ibge": "5201306",
+  "latitude": "-16.3613518",
+  "longitude": "-49.5032757"
 }

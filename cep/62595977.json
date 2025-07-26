@@ -1,9 +1,11 @@
 {
   "cep": "62595977",
   "logradouro": "Comunidade de Cajueirinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cajueirinho",
   "localidade": "Cruz",
   "uf": "CE",
-  "ibge": "2304251"
+  "ibge": "2304251",
+  "latitude": "-3.0824303",
+  "longitude": "-40.4591704"
 }

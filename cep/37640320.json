@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.86122",
+  "longitude": "-46.32227"
 }

@@ -1,10 +1,12 @@
 {
   "cep": "42821902",
   "logradouro": "Rua Patativa",
-  "complemento": "s/n",
+  "complemento": "",
   "unidade": "Granville Residence I e II",
   "bairro": "Alphaville (Abrantes)",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.83028",
+  "longitude": "-38.27184"
 }

@@ -6,5 +6,7 @@
   "bairro": "Residencial Vale do Sol",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4573942",
+  "longitude": "-49.2293072"
 }

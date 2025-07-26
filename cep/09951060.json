@@ -5,5 +5,7 @@
   "bairro": "Vila Nogueira",
   "localidade": "Diadema",
   "uf": "SP",
-  "ibge": "3513801"
+  "ibge": "3513801",
+  "latitude": "-23.6872798",
+  "longitude": "-46.5956419"
 }

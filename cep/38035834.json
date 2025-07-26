@@ -5,5 +5,7 @@
   "bairro": "Residencial Guilherme Borges de Oliveira",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.7684062",
+  "longitude": "-47.8986379"
 }

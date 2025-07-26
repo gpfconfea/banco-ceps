@@ -5,5 +5,7 @@
   "bairro": "Vila João Braz",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "latitude": "-16.6539806",
+  "longitude": "-49.4841262"
 }

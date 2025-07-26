@@ -5,5 +5,7 @@
   "bairro": "Jardim Flor de Maio",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4350695",
+  "longitude": "-46.5770623"
 }

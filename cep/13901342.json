@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Amparo",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-22.987114",
+  "longitude": "-45.5463078"
 }

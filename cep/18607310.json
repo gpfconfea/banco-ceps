@@ -5,5 +5,7 @@
   "bairro": "Parque das Cascatas",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-21.1380675",
+  "longitude": "-47.8303461"
 }

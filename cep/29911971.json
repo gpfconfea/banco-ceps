@@ -1,9 +1,11 @@
 {
   "cep": "29911971",
   "logradouro": "Avenida Geraldo Bobbio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guaxe",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.23307",
+  "longitude": "-40.14552"
 }

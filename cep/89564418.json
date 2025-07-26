@@ -5,5 +5,7 @@
   "bairro": "Vila Verde",
   "localidade": "Videira",
   "uf": "SC",
-  "ibge": "4219309"
+  "ibge": "4219309",
+  "latitude": "-27.02495",
+  "longitude": "-51.15305"
 }

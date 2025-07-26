@@ -1,9 +1,11 @@
 {
   "cep": "58970973",
   "logradouro": "Rua da Capela",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Conceição",
   "uf": "PB",
-  "ibge": "2504405"
+  "ibge": "2504405",
+  "latitude": "-5.8358834",
+  "longitude": "-35.3369775"
 }

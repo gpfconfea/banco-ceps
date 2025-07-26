@@ -5,5 +5,7 @@
   "bairro": "Cidade Operária",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-1.5302933",
+  "longitude": "-45.0792359"
 }

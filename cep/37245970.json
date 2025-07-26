@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carrancas",
   "uf": "MG",
-  "ibge": "3114600"
+  "ibge": "3114600",
+  "latitude": "-21.4892961",
+  "longitude": "-44.6423288"
 }

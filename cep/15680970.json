@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guarani D'Oeste",
   "uf": "SP",
-  "ibge": "3518008"
+  "ibge": "3518008",
+  "latitude": "-20.0748942",
+  "longitude": "-50.3409159"
 }

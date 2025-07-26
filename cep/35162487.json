@@ -5,5 +5,7 @@
   "bairro": "Vila Celeste",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "latitude": "-19.4476915",
+  "longitude": "-42.5608885"
 }

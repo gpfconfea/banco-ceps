@@ -5,5 +5,7 @@
   "bairro": "General Antonio Netto",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-30.8416356",
+  "longitude": "-51.8228618"
 }

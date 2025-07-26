@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapirapuã Paulista",
   "uf": "SP",
-  "ibge": "3522653"
+  "ibge": "3522653",
+  "latitude": "-24.5715152",
+  "longitude": "-49.1727185"
 }

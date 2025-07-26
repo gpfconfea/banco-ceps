@@ -5,5 +5,7 @@
   "bairro": "Jardim do Carmo",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.451059",
+  "longitude": "-47.4740419"
 }

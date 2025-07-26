@@ -5,5 +5,7 @@
   "bairro": "Maracaipe",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.5318572",
+  "longitude": "-35.0101587"
 }

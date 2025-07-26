@@ -5,5 +5,7 @@
   "bairro": "Solar Primavera",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-22.38673",
+  "longitude": "-49.1287"
 }

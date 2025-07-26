@@ -5,5 +5,7 @@
   "bairro": "Jardim Sonia",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-23.598471",
+  "longitude": "-46.679248"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Paula I",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.4178619",
+  "longitude": "-40.3323693"
 }

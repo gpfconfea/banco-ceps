@@ -5,5 +5,7 @@
   "bairro": "Residencial Ferracini",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5634485",
+  "longitude": "-47.3690123"
 }

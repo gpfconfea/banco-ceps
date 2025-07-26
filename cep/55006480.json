@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.2897031",
+  "longitude": "-35.9761013"
 }

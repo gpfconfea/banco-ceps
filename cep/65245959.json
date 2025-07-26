@@ -1,9 +1,11 @@
 {
   "cep": "65245959",
   "logradouro": "Rua Gomes de Castro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Peri Mirim",
   "uf": "MA",
-  "ibge": "2108405"
+  "ibge": "2108405",
+  "latitude": "-2.5821843",
+  "longitude": "-44.8540482"
 }

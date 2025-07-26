@@ -5,5 +5,7 @@
   "bairro": "Iapi",
   "localidade": "Independência",
   "uf": "CE",
-  "ibge": "2305605"
+  "ibge": "2305605",
+  "latitude": "-5.6937619",
+  "longitude": "-40.3479068"
 }

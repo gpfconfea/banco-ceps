@@ -1,9 +1,11 @@
 {
   "cep": "99518970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Bento",
   "localidade": "Carazinho",
   "uf": "RS",
-  "ibge": "4304705"
+  "ibge": "4304705",
+  "latitude": "-22.856177",
+  "longitude": "-43.2420381"
 }

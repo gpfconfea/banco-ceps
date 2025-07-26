@@ -5,5 +5,7 @@
   "bairro": "Vila Zilda",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "latitude": "-23.96852",
+  "longitude": "-46.20864"
 }

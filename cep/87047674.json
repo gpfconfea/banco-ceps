@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista IV",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4065522",
+  "longitude": "-51.866888"
 }

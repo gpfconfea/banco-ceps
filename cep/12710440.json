@@ -5,5 +5,7 @@
   "bairro": "Vila Paulo Romeu",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "latitude": "-20.6797873",
+  "longitude": "-44.0592521"
 }

@@ -5,5 +5,7 @@
   "bairro": "Sumaré",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8843227",
+  "longitude": "-43.965229"
 }

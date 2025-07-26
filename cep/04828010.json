@@ -5,5 +5,7 @@
   "bairro": "Jardim Esmeralda (Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7238852",
+  "longitude": "-46.7029111"
 }

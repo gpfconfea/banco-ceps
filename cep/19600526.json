@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Ruy Charles",
   "localidade": "Rancharia",
   "uf": "SP",
-  "ibge": "3542206"
+  "ibge": "3542206",
+  "latitude": "-23.27501",
+  "longitude": "-45.88886"
 }

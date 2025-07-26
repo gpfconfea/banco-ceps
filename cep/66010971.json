@@ -1,9 +1,11 @@
 {
   "cep": "66010971",
   "logradouro": "Avenida Marechal Hermes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campina",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-1.4471039",
+  "longitude": "-48.4978673"
 }

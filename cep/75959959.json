@@ -1,9 +1,11 @@
 {
   "cep": "75959959",
   "logradouro": "Alameda Jorge Vicente Alves Quadra U Lote 3",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Indiara",
   "uf": "GO",
-  "ibge": "5209952"
+  "ibge": "5209952",
+  "latitude": "-17.14167",
+  "longitude": "-49.98966"
 }

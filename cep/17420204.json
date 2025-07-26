@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional José Quito",
   "localidade": "Lupércio",
   "uf": "SP",
-  "ibge": "3527801"
+  "ibge": "3527801",
+  "latitude": "-22.41095",
+  "longitude": "-49.81883"
 }

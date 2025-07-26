@@ -5,5 +5,7 @@
   "bairro": "Residencial Monte Carlo",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.7392157",
+  "longitude": "-48.1356335"
 }

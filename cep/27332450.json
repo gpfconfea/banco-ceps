@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "latitude": "-22.5555539",
+  "longitude": "-44.1271934"
 }

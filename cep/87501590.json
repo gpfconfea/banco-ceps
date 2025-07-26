@@ -5,5 +5,7 @@
   "bairro": "Jardim Indaiá",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.7703303",
+  "longitude": "-53.3042632"
 }

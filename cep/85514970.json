@@ -1,9 +1,11 @@
 {
   "cep": "85514970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Roque do Chopim",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "latitude": "-26.26209",
+  "longitude": "-52.69069"
 }

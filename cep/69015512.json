@@ -5,5 +5,7 @@
   "bairro": "Colônia Terra Nova",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-19.9232226",
+  "longitude": "-44.1250175"
 }

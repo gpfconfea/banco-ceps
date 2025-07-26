@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Ubá",
   "uf": "MG",
-  "ibge": "3169901"
+  "ibge": "3169901",
+  "latitude": "-20.9887762",
+  "longitude": "-43.0060743"
 }

@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Barão de Antonina",
   "localidade": "Barão de Antonina",
   "uf": "SP",
-  "ibge": "3505005"
+  "ibge": "3505005",
+  "latitude": "-23.62846",
+  "longitude": "-49.56274"
 }

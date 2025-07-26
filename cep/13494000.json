@@ -6,5 +6,7 @@
   "bairro": "Distrito Industrial Prefeito Geraldo Botion",
   "localidade": "Cordeirópolis",
   "uf": "SP",
-  "ibge": "3512407"
+  "ibge": "3512407",
+  "latitude": "-22.4834666",
+  "longitude": "-47.4649535"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "99420970",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Depósito",
   "localidade": "Espumoso",
   "uf": "RS",
-  "ibge": "4307500"
+  "ibge": "4307500",
+  "latitude": "-29.68989",
+  "longitude": "-51.24054"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "95783992",
   "logradouro": "Monsenhor Frank",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pareci Novo",
   "uf": "RS",
-  "ibge": "4314035"
+  "ibge": "4314035",
+  "latitude": "-29.618788",
+  "longitude": "-51.4183568"
 }

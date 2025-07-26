@@ -5,5 +5,7 @@
   "bairro": "Jardim Flórida",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "latitude": "-23.64165",
+  "longitude": "-47.5816277"
 }

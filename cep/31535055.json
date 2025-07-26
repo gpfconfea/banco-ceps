@@ -5,5 +5,7 @@
   "bairro": "Rio Branco",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8125521",
+  "longitude": "-43.9781382"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vida Nova",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.3817235",
+  "longitude": "-54.5689597"
 }

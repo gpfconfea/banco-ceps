@@ -5,5 +5,7 @@
   "bairro": "Guilhermina",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-23.5312838",
+  "longitude": "-46.5617881"
 }

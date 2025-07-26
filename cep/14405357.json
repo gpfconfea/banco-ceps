@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora de Fátima",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5277558",
+  "longitude": "-47.4256155"
 }

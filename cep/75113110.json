@@ -5,5 +5,7 @@
   "bairro": "Jundiaí",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-23.2040222",
+  "longitude": "-47.2833964"
 }

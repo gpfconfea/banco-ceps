@@ -5,5 +5,7 @@
   "bairro": "Aparecida",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4278274",
+  "longitude": "-47.3574268"
 }

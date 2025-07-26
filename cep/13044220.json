@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Oliveiras",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9388291",
+  "longitude": "-47.0436854"
 }

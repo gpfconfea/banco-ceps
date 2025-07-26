@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Milênio",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-25.4510653",
+  "longitude": "-49.2185645"
 }

@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Palmares Paulista",
   "localidade": "Palmares Paulista",
   "uf": "SP",
-  "ibge": "3535101"
+  "ibge": "3535101",
+  "latitude": "-21.08342",
+  "longitude": "-48.80251"
 }

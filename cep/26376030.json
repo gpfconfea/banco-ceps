@@ -5,5 +5,7 @@
   "bairro": "Vila Americana",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.7516642",
+  "longitude": "-43.5748705"
 }

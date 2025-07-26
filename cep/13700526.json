@@ -6,5 +6,7 @@
   "bairro": "Industrial",
   "localidade": "Casa Branca",
   "uf": "SP",
-  "ibge": "3510807"
+  "ibge": "3510807",
+  "latitude": "-21.77777",
+  "longitude": "-47.06512"
 }

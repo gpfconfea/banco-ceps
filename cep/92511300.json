@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Montenegro",
   "uf": "RS",
-  "ibge": "4312401"
+  "ibge": "4312401",
+  "latitude": "-29.6733127",
+  "longitude": "-51.4468343"
 }

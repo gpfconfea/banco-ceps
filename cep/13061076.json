@@ -5,5 +5,7 @@
   "bairro": "Jardim García",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "41.1683152",
+  "longitude": "-8.6459239"
 }
