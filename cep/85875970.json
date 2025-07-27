@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Terezinha de Itaipu",
   "uf": "PR",
-  "ibge": "4124053"
+  "ibge": "4124053",
+  "latitude": "-25.4383408",
+  "longitude": "-54.3987066"
 }

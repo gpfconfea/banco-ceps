@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília",
   "localidade": "Candeias",
   "uf": "BA",
-  "ibge": "2906501"
+  "ibge": "2906501",
+  "latitude": "-20.8333566",
+  "longitude": "-41.1522774"
 }

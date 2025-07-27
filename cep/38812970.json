@@ -1,9 +1,11 @@
 {
   "cep": "38812970",
   "logradouro": "Rua Treze de Maio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Abaeté dos Mendes",
   "localidade": "Rio Paranaíba",
   "uf": "MG",
-  "ibge": "3155504"
+  "ibge": "3155504",
+  "latitude": "-19.1468907",
+  "longitude": "-46.1310903"
 }

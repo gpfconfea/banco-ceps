@@ -5,5 +5,7 @@
   "bairro": "Vila Jardim",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "latitude": "-29.3948457",
+  "longitude": "-50.869226"
 }

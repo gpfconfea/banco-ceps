@@ -1,9 +1,11 @@
 {
   "cep": "61976990",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "latitude": "-4.05954",
+  "longitude": "-38.90804"
 }

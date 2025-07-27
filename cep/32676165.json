@@ -5,5 +5,7 @@
   "bairro": "Nova Baden",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9548789",
+  "longitude": "-44.1409577"
 }

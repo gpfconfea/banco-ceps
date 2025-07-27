@@ -1,9 +1,11 @@
 {
   "cep": "86960990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Barbosa Ferraz",
   "uf": "PR",
-  "ibge": "4102505"
+  "ibge": "4102505",
+  "latitude": "-24.01885",
+  "longitude": "-51.99625"
 }

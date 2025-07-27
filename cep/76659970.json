@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Itaguari",
   "uf": "GO",
-  "ibge": "5210562"
+  "ibge": "5210562",
+  "latitude": "-15.9115959",
+  "longitude": "-49.6084499"
 }

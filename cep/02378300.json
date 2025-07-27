@@ -5,5 +5,7 @@
   "bairro": "Jardim Denise",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.3118931",
+  "longitude": "-45.955246"
 }

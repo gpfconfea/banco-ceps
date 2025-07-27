@@ -5,5 +5,7 @@
   "bairro": "Condomínio Loteamento Quadra dos Príncipes",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.12432",
+  "longitude": "-46.56272"
 }

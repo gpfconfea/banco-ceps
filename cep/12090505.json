@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Lúcia",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0433804",
+  "longitude": "-45.5446548"
 }

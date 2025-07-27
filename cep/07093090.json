@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4607077",
+  "longitude": "-46.5376023"
 }

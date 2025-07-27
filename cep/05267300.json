@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Vista(Anhanguera)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6748497",
+  "longitude": "-45.4479331"
 }

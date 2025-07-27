@@ -5,5 +5,7 @@
   "bairro": "Setor Scala II",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3048999",
+  "longitude": "-48.9253192"
 }

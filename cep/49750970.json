@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "General Maynard",
   "uf": "SE",
-  "ibge": "2802502"
+  "ibge": "2802502",
+  "latitude": "-10.6839051",
+  "longitude": "-36.9840938"
 }

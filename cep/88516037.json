@@ -5,5 +5,7 @@
   "bairro": "Caroba",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.81129",
+  "longitude": "-50.28945"
 }

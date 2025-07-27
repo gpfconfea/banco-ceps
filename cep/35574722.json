@@ -5,5 +5,7 @@
   "bairro": "Nova Conquista",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.45876",
+  "longitude": "-45.45405"
 }

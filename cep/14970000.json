@@ -5,5 +5,7 @@
   "bairro": "Vale Formoso",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4566451",
+  "longitude": "-49.4331921"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Terra Nova",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "latitude": "-23.27982",
+  "longitude": "-51.24926"
 }

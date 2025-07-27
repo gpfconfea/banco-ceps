@@ -5,5 +5,7 @@
   "bairro": "João XXIII",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-19.8289162",
+  "longitude": "-43.9818261"
 }

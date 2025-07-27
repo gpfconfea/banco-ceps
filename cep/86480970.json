@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Conselheiro Mairinck",
   "uf": "PR",
-  "ibge": "4106100"
+  "ibge": "4106100",
+  "latitude": "-23.6230756",
+  "longitude": "-50.1703247"
 }

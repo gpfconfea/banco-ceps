@@ -1,9 +1,11 @@
 {
   "cep": "67125953",
   "logradouro": "Estrada Guajará",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Coqueiro",
   "localidade": "Ananindeua",
   "uf": "PA",
-  "ibge": "1500800"
+  "ibge": "1500800",
+  "latitude": "-1.335824",
+  "longitude": "-48.3994861"
 }

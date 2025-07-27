@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Balneário Piçarras",
   "uf": "SC",
-  "ibge": "4212809"
+  "ibge": "4212809",
+  "latitude": "-26.765692",
+  "longitude": "-48.6722671"
 }

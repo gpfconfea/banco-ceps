@@ -1,9 +1,11 @@
 {
   "cep": "78197970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Água Fria",
   "localidade": "Chapada dos Guimarães",
   "uf": "MT",
-  "ibge": "5103007"
+  "ibge": "5103007",
+  "latitude": "-15.4473654",
+  "longitude": "-55.737862"
 }

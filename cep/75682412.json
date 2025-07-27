@@ -5,5 +5,7 @@
   "bairro": "Estância Boa Vista",
   "localidade": "Caldas Novas",
   "uf": "GO",
-  "ibge": "5204508"
+  "ibge": "5204508",
+  "latitude": "-17.7745143",
+  "longitude": "-48.6193525"
 }

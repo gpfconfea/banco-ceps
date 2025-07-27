@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cariré",
   "uf": "CE",
-  "ibge": "2303105"
+  "ibge": "2303105",
+  "latitude": "-3.9502184",
+  "longitude": "-40.4728766"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "09150970",
   "logradouro": "Avenida Antônio Francisco de Paula Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paranapiacaba",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.7767094",
+  "longitude": "-46.3002792"
 }

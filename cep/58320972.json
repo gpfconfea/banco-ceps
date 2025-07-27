@@ -1,9 +1,11 @@
 {
   "cep": "58320972",
   "logradouro": "Rua Renilda Torres Ramos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Alhandra",
   "uf": "PB",
-  "ibge": "2500601"
+  "ibge": "2500601",
+  "latitude": "-7.3379942",
+  "longitude": "-34.9387683"
 }

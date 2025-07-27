@@ -1,9 +1,11 @@
 {
   "cep": "24842970",
   "logradouro": "Estrada de Ligação",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Sambaetiba)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "latitude": "-22.6810397",
+  "longitude": "-42.7887371"
 }

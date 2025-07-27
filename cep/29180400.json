@@ -5,5 +5,7 @@
   "bairro": "Chapada Grande",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.067234",
+  "longitude": "-40.372718"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guatambú",
   "uf": "SC",
-  "ibge": "4206652"
+  "ibge": "4206652",
+  "latitude": "-27.1304677",
+  "longitude": "-52.7869866"
 }

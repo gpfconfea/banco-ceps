@@ -1,9 +1,11 @@
 {
   "cep": "64740970",
   "logradouro": "Avenida Transversal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Conceição do Canindé",
   "uf": "PI",
-  "ibge": "2202802"
+  "ibge": "2202802",
+  "latitude": "-7.8778274",
+  "longitude": "-41.5970933"
 }

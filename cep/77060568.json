@@ -5,5 +5,7 @@
   "bairro": "Residencial Ipê Amarelo",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "latitude": "41.0894472",
+  "longitude": "-7.9598564"
 }

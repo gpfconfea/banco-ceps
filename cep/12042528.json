@@ -5,5 +5,7 @@
   "bairro": "Residencial Verdes Vales",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0381871",
+  "longitude": "-45.6071889"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29697980",
   "logradouro": "Rua Valério Frechiani",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itaçu",
   "localidade": "Itaguaçu",
   "uf": "ES",
-  "ibge": "3202702"
+  "ibge": "3202702",
+  "latitude": "-19.7041825",
+  "longitude": "-40.7846795"
 }

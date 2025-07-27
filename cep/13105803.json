@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque das Araucárias",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8976475",
+  "longitude": "-46.9944208"
 }

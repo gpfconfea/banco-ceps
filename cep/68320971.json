@@ -1,9 +1,11 @@
 {
   "cep": "68320971",
   "logradouro": "Vila de Itatupã",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itatupã",
   "localidade": "Gurupá",
   "uf": "PA",
-  "ibge": "1503101"
+  "ibge": "1503101",
+  "latitude": "-3.97623",
+  "longitude": "-53.06673"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29564980",
   "logradouro": "Avenida Agostinho Zanini",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Pedro de Rates",
   "localidade": "Guaçuí",
   "uf": "ES",
-  "ibge": "3202306"
+  "ibge": "3202306",
+  "latitude": "-22.7326885",
+  "longitude": "-47.3389718"
 }

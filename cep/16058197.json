@@ -5,5 +5,7 @@
   "bairro": "São Rafael",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-21.1678557",
+  "longitude": "-50.4565293"
 }

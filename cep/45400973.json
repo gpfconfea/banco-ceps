@@ -1,9 +1,11 @@
 {
   "cep": "45400973",
   "logradouro": "Rua Tamarineiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guaibim",
   "localidade": "Valença",
   "uf": "BA",
-  "ibge": "2932903"
+  "ibge": "2932903",
+  "latitude": "-13.28647",
+  "longitude": "-38.9650494"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29900995",
   "logradouro": "Rua Beresford Martins Morreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.57914",
+  "longitude": "-39.79474"
 }

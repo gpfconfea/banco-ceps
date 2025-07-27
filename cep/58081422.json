@@ -5,5 +5,7 @@
   "bairro": "Costa e Silva",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.1785133",
+  "longitude": "-34.8968986"
 }

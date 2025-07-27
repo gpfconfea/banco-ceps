@@ -5,5 +5,7 @@
   "bairro": "Jardim Belém",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-22.6614656",
+  "longitude": "-50.4310994"
 }

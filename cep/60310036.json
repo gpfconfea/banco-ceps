@@ -5,5 +5,7 @@
   "bairro": "Carlito Pamplona",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-18.423598",
+  "longitude": "-39.7157903"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "45590971",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Idelfonso Maroto",
   "localidade": "Dário Meira",
   "uf": "BA",
-  "ibge": "2910008"
+  "ibge": "2910008",
+  "latitude": "-12.9120157",
+  "longitude": "-38.4703178"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Valparaíso",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6705129",
+  "longitude": "-46.5487514"
 }

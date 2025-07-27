@@ -5,5 +5,7 @@
   "bairro": "Jardim Noêmia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9522404",
+  "longitude": "-47.0767743"
 }

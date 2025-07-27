@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alfredo Vasconcelos",
   "uf": "MG",
-  "ibge": "3101631"
+  "ibge": "3101631",
+  "latitude": "-21.14566",
+  "longitude": "-43.77574"
 }

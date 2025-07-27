@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Gália",
   "uf": "SP",
-  "ibge": "3516606"
+  "ibge": "3516606",
+  "latitude": "-23.71665",
+  "longitude": "-46.53859"
 }

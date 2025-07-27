@@ -1,9 +1,11 @@
 {
   "cep": "48310990",
   "logradouro": "Rua Capitão Durval Faria",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Jandaíra",
   "uf": "BA",
-  "ibge": "2917904"
+  "ibge": "2917904",
+  "latitude": "-11.56418",
+  "longitude": "-37.78284"
 }

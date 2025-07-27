@@ -5,5 +5,7 @@
   "bairro": "Kennedy",
   "localidade": "Vacaria",
   "uf": "RS",
-  "ibge": "4322509"
+  "ibge": "4322509",
+  "latitude": "-28.51626",
+  "longitude": "-50.95481"
 }

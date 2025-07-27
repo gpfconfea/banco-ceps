@@ -5,5 +5,7 @@
   "bairro": "Residencial Sonho Verde",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.6913688",
+  "longitude": "-49.100585"
 }

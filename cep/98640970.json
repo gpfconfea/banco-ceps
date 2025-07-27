@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Crissiumal",
   "uf": "RS",
-  "ibge": "4306007"
+  "ibge": "4306007",
+  "latitude": "-27.4981068",
+  "longitude": "-54.1034965"
 }

@@ -5,5 +5,7 @@
   "bairro": "Coqueiral",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0856943",
+  "longitude": "-34.9670067"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Nova de Colares",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-14.6460065",
+  "longitude": "-57.4780375"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Nogueira do Prado",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4857711",
+  "longitude": "-49.7910673"
 }

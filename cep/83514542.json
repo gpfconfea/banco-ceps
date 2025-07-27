@@ -5,5 +5,7 @@
   "bairro": "Pacotuba",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.3046551",
+  "longitude": "-49.3353152"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Rosemary",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.2026325",
+  "longitude": "-46.9097574"
 }

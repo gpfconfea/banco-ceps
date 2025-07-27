@@ -1,9 +1,11 @@
 {
   "cep": "75152980",
   "logradouro": "Avenida Aurora - Praça São Sebastião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Interlândia",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.1871781",
+  "longitude": "-49.0320663"
 }

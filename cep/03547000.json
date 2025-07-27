@@ -5,5 +5,7 @@
   "bairro": "Jardim Assunção",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.0736379",
+  "longitude": "-48.7459384"
 }

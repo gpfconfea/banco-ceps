@@ -1,9 +1,11 @@
 {
   "cep": "46436970",
   "logradouro": "Praça da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mutas",
   "localidade": "Guanambi",
   "uf": "BA",
-  "ibge": "2911709"
+  "ibge": "2911709",
+  "latitude": "-14.1460909",
+  "longitude": "-42.438284"
 }

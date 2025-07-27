@@ -6,5 +6,7 @@
   "bairro": "Saco Grande",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.5488941",
+  "longitude": "-48.4956498"
 }

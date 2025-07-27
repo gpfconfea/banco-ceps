@@ -5,5 +5,7 @@
   "bairro": "Residencial São Bernardo",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.5805244",
+  "longitude": "-49.3969618"
 }

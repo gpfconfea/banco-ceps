@@ -1,9 +1,11 @@
 {
   "cep": "58745971",
   "logradouro": "Rua Antônio Leite de Góis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Imaculada",
   "uf": "PB",
-  "ibge": "2506707"
+  "ibge": "2506707",
+  "latitude": "-7.3798725",
+  "longitude": "-37.6231388"
 }

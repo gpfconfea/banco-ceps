@@ -6,5 +6,7 @@
   "bairro": "Residencial Maria Clara 2",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "latitude": "-20.750835",
+  "longitude": "-49.4202982"
 }

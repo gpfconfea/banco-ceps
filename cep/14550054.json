@@ -6,5 +6,7 @@
   "bairro": "Jardim Oliveira",
   "localidade": "Aramina",
   "uf": "SP",
-  "ibge": "3503000"
+  "ibge": "3503000",
+  "latitude": "-20.0851981",
+  "longitude": "-47.7845922"
 }

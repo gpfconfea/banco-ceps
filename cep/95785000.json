@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Harmonia",
   "uf": "RS",
-  "ibge": "4309555"
+  "ibge": "4309555",
+  "latitude": "-29.549989",
+  "longitude": "-51.422308"
 }

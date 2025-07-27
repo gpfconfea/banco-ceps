@@ -5,5 +5,7 @@
   "bairro": "Coroado",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-8.7760377",
+  "longitude": "-63.8396164"
 }

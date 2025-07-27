@@ -5,5 +5,7 @@
   "bairro": "Ponta da Terra",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.6663956",
+  "longitude": "-35.7159897"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64993970",
   "logradouro": "Rua Pioneira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Gonçalo do Gurguéia",
   "uf": "PI",
-  "ibge": "2209757"
+  "ibge": "2209757",
+  "latitude": "-10.0290394",
+  "longitude": "-45.3050767"
 }

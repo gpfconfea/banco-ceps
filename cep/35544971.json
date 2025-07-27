@@ -1,9 +1,11 @@
 {
   "cep": "35544971",
   "logradouro": "Praça Pedro Delgado Mota",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Quilombo do Gaia",
   "localidade": "São Gonçalo do Pará",
   "uf": "MG",
-  "ibge": "3161809"
+  "ibge": "3161809",
+  "latitude": "-19.8785199",
+  "longitude": "-44.8554567"
 }

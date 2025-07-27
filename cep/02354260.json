@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Nazaré",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.455849",
+  "longitude": "-46.6032581"
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Pedra Grande",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.1506233",
+  "longitude": "-46.5464231"
 }

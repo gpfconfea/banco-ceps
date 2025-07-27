@@ -5,5 +5,7 @@
   "bairro": "Barro",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-19.9109898",
+  "longitude": "-43.9489665"
 }

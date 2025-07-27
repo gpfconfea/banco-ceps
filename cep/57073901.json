@@ -1,9 +1,11 @@
 {
   "cep": "57073901",
   "logradouro": "Avenida Menino Marcelo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cidade Universitária",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.5574828",
+  "longitude": "-35.764904"
 }

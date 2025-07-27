@@ -1,9 +1,11 @@
 {
   "cep": "36123973",
   "logradouro": "Rua A",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Simão Pereira",
   "uf": "MG",
-  "ibge": "3167509"
+  "ibge": "3167509",
+  "latitude": "-21.9620974",
+  "longitude": "-43.3160938"
 }

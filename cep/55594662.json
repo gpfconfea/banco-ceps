@@ -6,5 +6,7 @@
   "bairro": "Porto Coqueiral",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.5148256",
+  "longitude": "-35.0182012"
 }

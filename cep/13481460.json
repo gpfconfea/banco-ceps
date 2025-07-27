@@ -5,5 +5,7 @@
   "bairro": "Residencial Palmeira Real",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.6270162",
+  "longitude": "-47.43157"
 }

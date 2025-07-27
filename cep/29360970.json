@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Castelo",
   "uf": "ES",
-  "ibge": "3201407"
+  "ibge": "3201407",
+  "latitude": "-20.6037102",
+  "longitude": "-41.2033586"
 }

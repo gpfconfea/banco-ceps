@@ -5,5 +5,7 @@
   "bairro": "Residencial Terras Altas",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-23.4816589",
+  "longitude": "-46.9571006"
 }

@@ -6,5 +6,7 @@
   "bairro": "Rio Branco",
   "localidade": "Canoas",
   "uf": "RS",
-  "ibge": "4304606"
+  "ibge": "4304606",
+  "latitude": "-29.95438",
+  "longitude": "-51.1768429"
 }

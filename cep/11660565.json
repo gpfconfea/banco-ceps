@@ -5,5 +5,7 @@
   "bairro": "Caputera",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-21.5025711",
+  "longitude": "-50.3209756"
 }

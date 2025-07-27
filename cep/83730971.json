@@ -1,9 +1,11 @@
 {
   "cep": "83730971",
   "logradouro": "Estrada Otávio Alfredo da Silveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Contenda",
   "uf": "PR",
-  "ibge": "4106209"
+  "ibge": "4106209",
+  "latitude": "-25.6793029",
+  "longitude": "-49.5355225"
 }

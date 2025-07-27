@@ -5,5 +5,7 @@
   "bairro": "Residencial Mário Cazeri",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.3675271",
+  "longitude": "-48.2455321"
 }

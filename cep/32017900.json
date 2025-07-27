@@ -1,9 +1,11 @@
 {
   "cep": "32017900",
   "logradouro": "Avenida Presidente Tancredo Neves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Camilo Alves",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.9193084",
+  "longitude": "-44.0928394"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Adolfo",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3018065",
+  "longitude": "-51.1646202"
 }

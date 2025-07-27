@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "Cáceres",
   "uf": "MT",
-  "ibge": "5102504"
+  "ibge": "5102504",
+  "latitude": "-16.08931",
+  "longitude": "-57.68367"
 }

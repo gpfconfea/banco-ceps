@@ -1,9 +1,11 @@
 {
   "cep": "36352971",
   "logradouro": "Praça Nossa Senhora das Mercês",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mercês de Água Limpa",
   "localidade": "São Tiago",
   "uf": "MG",
-  "ibge": "3165008"
+  "ibge": "3165008",
+  "latitude": "-20.8985453",
+  "longitude": "-45.2720741"
 }

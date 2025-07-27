@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brejo Grande",
   "uf": "SE",
-  "ibge": "2800704"
+  "ibge": "2800704",
+  "latitude": "-10.46855",
+  "longitude": "-36.48555"
 }

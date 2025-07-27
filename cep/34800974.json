@@ -1,9 +1,11 @@
 {
   "cep": "34800974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Caeté",
   "uf": "MG",
-  "ibge": "3110004"
+  "ibge": "3110004",
+  "latitude": "-19.91715",
+  "longitude": "-43.93592"
 }

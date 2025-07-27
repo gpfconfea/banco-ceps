@@ -5,5 +5,7 @@
   "bairro": "Residencial San Diego",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5680652",
+  "longitude": "-47.3976784"
 }

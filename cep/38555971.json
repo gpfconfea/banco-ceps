@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa dos Dourados",
   "localidade": "Coromandel",
   "uf": "MG",
-  "ibge": "3119302"
+  "ibge": "3119302",
+  "latitude": "-18.2708615",
+  "longitude": "-47.010098"
 }

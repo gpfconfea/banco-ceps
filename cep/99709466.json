@@ -6,5 +6,7 @@
   "bairro": "Parque dos Imigrantes",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "latitude": "-27.6489812",
+  "longitude": "-52.2809295"
 }

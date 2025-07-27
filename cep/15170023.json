@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Tanabi",
   "uf": "SP",
-  "ibge": "3553401"
+  "ibge": "3553401",
+  "latitude": "-20.6244733",
+  "longitude": "-49.643695"
 }

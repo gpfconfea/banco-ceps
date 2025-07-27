@@ -5,5 +5,7 @@
   "bairro": "Ahú",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "latitude": "-25.4017694",
+  "longitude": "-49.2685456"
 }

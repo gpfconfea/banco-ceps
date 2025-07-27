@@ -1,9 +1,11 @@
 {
   "cep": "27560970",
   "logradouro": "Rua Geraldino Carlos de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pedra Selada",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "latitude": "-22.4711233",
+  "longitude": "-44.4470885"
 }

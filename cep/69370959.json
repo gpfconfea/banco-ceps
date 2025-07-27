@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Luiz",
   "uf": "RR",
-  "ibge": "1400605"
+  "ibge": "1400605",
+  "latitude": "1.0191741",
+  "longitude": "-60.0455415"
 }

@@ -5,5 +5,7 @@
   "bairro": "Aeroporto Jatobá",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-21.1405445",
+  "longitude": "-44.282662"
 }

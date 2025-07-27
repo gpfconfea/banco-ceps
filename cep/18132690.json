@@ -5,5 +5,7 @@
   "bairro": "Saboó",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.45063",
+  "longitude": "-47.1661328"
 }

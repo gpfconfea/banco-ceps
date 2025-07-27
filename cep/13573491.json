@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Vida Nova São Carlos",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-22.4184545",
+  "longitude": "-46.8272418"
 }

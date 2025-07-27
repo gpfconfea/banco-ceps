@@ -5,5 +5,7 @@
   "bairro": "Jardim Ícaro",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-23.5199871",
+  "longitude": "-46.2039075"
 }
