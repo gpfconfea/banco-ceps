@@ -5,5 +5,7 @@
   "bairro": "Carlos Prates",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8559155",
+  "longitude": "-44.1456644"
 }

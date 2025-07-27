@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Paulo VI",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-23.9988739",
+  "longitude": "-48.893943"
 }

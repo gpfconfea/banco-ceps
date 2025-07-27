@@ -1,9 +1,11 @@
 {
   "cep": "14040959",
   "logradouro": "Avenida Professor Doutor Zeferino Vaz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Monte Alegre",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.17125",
+  "longitude": "-47.85018"
 }

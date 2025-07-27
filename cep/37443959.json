@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Baependi",
   "uf": "MG",
-  "ibge": "3104908"
+  "ibge": "3104908",
+  "latitude": "-21.95944",
+  "longitude": "-44.89211"
 }

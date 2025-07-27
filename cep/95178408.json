@@ -5,5 +5,7 @@
   "bairro": "Monte Pasqual",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-29.2241996",
+  "longitude": "-51.3169342"
 }

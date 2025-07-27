@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0390988",
+  "longitude": "-51.0848235"
 }

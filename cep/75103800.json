@@ -5,5 +5,7 @@
   "bairro": "Vila Operária",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3556151",
+  "longitude": "-48.9061782"
 }

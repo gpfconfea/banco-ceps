@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Garanhuns",
   "uf": "PE",
-  "ibge": "2606002"
+  "ibge": "2606002",
+  "latitude": "-9.2611466",
+  "longitude": "-36.9325175"
 }

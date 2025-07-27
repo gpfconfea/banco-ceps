@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "latitude": "-21.7273906",
+  "longitude": "-43.0654533"
 }

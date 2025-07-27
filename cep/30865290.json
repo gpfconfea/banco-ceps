@@ -5,5 +5,7 @@
   "bairro": "Jardim Filadélfia",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8482898",
+  "longitude": "-43.8712404"
 }

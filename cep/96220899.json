@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Rio Grande",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-25.7132339",
+  "longitude": "-49.2742196"
 }

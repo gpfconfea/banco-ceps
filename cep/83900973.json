@@ -1,9 +1,11 @@
 {
   "cep": "83900973",
   "logradouro": "Estrada Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dois Irmãos",
   "localidade": "São Mateus do Sul",
   "uf": "PR",
-  "ibge": "4125605"
+  "ibge": "4125605",
+  "latitude": "-25.7874928",
+  "longitude": "-50.4441538"
 }

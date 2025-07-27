@@ -5,5 +5,7 @@
   "bairro": "Jardim Irene",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.14503",
+  "longitude": "-47.00987"
 }

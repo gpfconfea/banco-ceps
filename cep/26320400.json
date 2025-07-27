@@ -5,5 +5,7 @@
   "bairro": "Vila Scintila",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.7106711",
+  "longitude": "-43.5807062"
 }

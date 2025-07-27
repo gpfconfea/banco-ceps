@@ -5,5 +5,7 @@
   "bairro": "Feitosa",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.1372469",
+  "longitude": "-35.7542045"
 }

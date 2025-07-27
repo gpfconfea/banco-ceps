@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Afrânio",
   "uf": "PE",
-  "ibge": "2600203"
+  "ibge": "2600203",
+  "latitude": "-8.5161943",
+  "longitude": "-41.0056155"
 }

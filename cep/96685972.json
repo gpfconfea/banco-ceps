@@ -1,9 +1,11 @@
 {
   "cep": "96685972",
   "logradouro": "Estrada Passo da Mangueira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Passo da Mangueira",
   "localidade": "Passo do Sobrado",
   "uf": "RS",
-  "ibge": "4314076"
+  "ibge": "4314076",
+  "latitude": "-29.8037964",
+  "longitude": "-52.2870587"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Isabel",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.1258826",
+  "longitude": "-51.2344611"
 }

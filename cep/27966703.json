@@ -5,5 +5,7 @@
   "bairro": "Lagomar",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "latitude": "-22.0774673",
+  "longitude": "-42.4075452"
 }

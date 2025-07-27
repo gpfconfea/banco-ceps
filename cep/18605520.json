@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-24.2137774",
+  "longitude": "-46.8503658"
 }

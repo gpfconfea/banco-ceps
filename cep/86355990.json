@@ -1,9 +1,11 @@
 {
   "cep": "86355990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Santa Mariana",
   "uf": "PR",
-  "ibge": "4123907"
+  "ibge": "4123907",
+  "latitude": "-25.46298",
+  "longitude": "-49.50923"
 }

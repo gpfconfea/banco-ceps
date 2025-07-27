@@ -5,5 +5,7 @@
   "bairro": "Umbu",
   "localidade": "Alvorada",
   "uf": "RS",
-  "ibge": "4300604"
+  "ibge": "4300604",
+  "latitude": "-23.6687948",
+  "longitude": "-46.4188592"
 }

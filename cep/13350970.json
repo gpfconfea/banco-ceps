@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Elias Fausto",
   "uf": "SP",
-  "ibge": "3514908"
+  "ibge": "3514908",
+  "latitude": "-23.0440086",
+  "longitude": "-47.3720078"
 }

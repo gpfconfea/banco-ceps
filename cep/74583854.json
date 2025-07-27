@@ -5,5 +5,7 @@
   "bairro": "Jardim Gramado I",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.64481",
+  "longitude": "-49.32639"
 }

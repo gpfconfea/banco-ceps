@@ -5,5 +5,7 @@
   "bairro": "Residencial Vale da Serra",
   "localidade": "Caldas Novas",
   "uf": "GO",
-  "ibge": "5204508"
+  "ibge": "5204508",
+  "latitude": "-17.7712906",
+  "longitude": "-48.627695"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Bela Vista",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4556493",
+  "longitude": "-51.8814273"
 }

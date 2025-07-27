@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Cecília",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.6804589",
+  "longitude": "-46.4457482"
 }

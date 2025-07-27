@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Presidente Castello Branco",
   "uf": "SC",
-  "ibge": "4213906"
+  "ibge": "4213906",
+  "latitude": "-27.2215294",
+  "longitude": "-51.8086541"
 }

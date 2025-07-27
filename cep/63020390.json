@@ -5,5 +5,7 @@
   "bairro": "Pio XII",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "latitude": "-3.7785044",
+  "longitude": "-38.5829771"
 }

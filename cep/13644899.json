@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Pirassununga",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-22.0150532",
+  "longitude": "-47.4273746"
 }

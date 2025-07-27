@@ -5,5 +5,7 @@
   "bairro": "Chácaras Bom Retiro",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7260606",
+  "longitude": "-49.2271119"
 }

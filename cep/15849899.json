@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Marapoama",
   "localidade": "Marapoama",
   "uf": "SP",
-  "ibge": "3528858"
+  "ibge": "3528858",
+  "latitude": "-21.25902",
+  "longitude": "-49.13036"
 }

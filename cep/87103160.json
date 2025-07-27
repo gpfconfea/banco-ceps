@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Iguatemi (Iguatemi)",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-24.0112022",
+  "longitude": "-53.1431322"
 }

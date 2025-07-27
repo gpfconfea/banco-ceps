@@ -1,9 +1,11 @@
 {
   "cep": "92535991",
   "logradouro": "Rua Santos Reis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santos Reis",
   "localidade": "Montenegro",
   "uf": "RS",
-  "ibge": "4312401"
+  "ibge": "4312401",
+  "latitude": "-29.59545",
+  "longitude": "-51.50391"
 }

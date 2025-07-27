@@ -5,5 +5,7 @@
   "bairro": "Vila Piragine",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-29.8273531",
+  "longitude": "-50.4994868"
 }

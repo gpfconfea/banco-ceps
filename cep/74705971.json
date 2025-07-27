@@ -1,9 +1,11 @@
 {
   "cep": "74705971",
   "logradouro": "Avenida Canaã Quadra 158 Lote 22",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Novo Mundo",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6699807",
+  "longitude": "-49.2210969"
 }

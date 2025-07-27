@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.6138364",
+  "longitude": "-48.0716501"
 }

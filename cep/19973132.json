@@ -5,5 +5,7 @@
   "bairro": "Paraná",
   "localidade": "Palmital",
   "uf": "SP",
-  "ibge": "3535309"
+  "ibge": "3535309",
+  "latitude": "-22.79258",
+  "longitude": "-50.22384"
 }

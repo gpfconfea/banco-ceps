@@ -5,5 +5,7 @@
   "bairro": "Vila Colorau",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5128327",
+  "longitude": "-47.4357262"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "27700971",
   "logradouro": "Rua Manoel Macedo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itakamozi",
   "localidade": "Vassouras",
   "uf": "RJ",
-  "ibge": "3306206"
+  "ibge": "3306206",
+  "latitude": "-22.7652786",
+  "longitude": "-43.1072335"
 }

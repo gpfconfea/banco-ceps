@@ -6,5 +6,7 @@
   "bairro": "Residencial Jardim Pauliceia",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5685101",
+  "longitude": "-56.0525145"
 }

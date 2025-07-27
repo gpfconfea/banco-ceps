@@ -1,9 +1,11 @@
 {
   "cep": "76528970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Sertaneja",
   "localidade": "Uirapuru",
   "uf": "GO",
-  "ibge": "5221577"
+  "ibge": "5221577",
+  "latitude": "-16.0747778",
+  "longitude": "-47.9711045"
 }

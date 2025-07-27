@@ -5,5 +5,7 @@
   "bairro": "Capuava",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5278202",
+  "longitude": "-47.1255769"
 }

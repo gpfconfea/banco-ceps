@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-23.4112771",
+  "longitude": "-46.9724041"
 }

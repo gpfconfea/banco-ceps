@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Vespasiano",
   "uf": "MG",
-  "ibge": "3171204"
+  "ibge": "3171204",
+  "latitude": "-19.74211",
+  "longitude": "-43.96002"
 }

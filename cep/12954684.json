@@ -5,5 +5,7 @@
   "bairro": "Condominio Quintas da Boa Vista",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-21.02343",
+  "longitude": "-47.37088"
 }

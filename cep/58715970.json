@@ -1,9 +1,11 @@
 {
   "cep": "58715970",
   "logradouro": "Rua Crizante Ayres",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Catingueira",
   "uf": "PB",
-  "ibge": "2504207"
+  "ibge": "2504207",
+  "latitude": "-7.1257813",
+  "longitude": "-37.6077239"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "79722970",
   "logradouro": "Rua José Lourenço",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Esperança",
   "localidade": "Jateí",
   "uf": "MS",
-  "ibge": "5005103"
+  "ibge": "5005103",
+  "latitude": "-20.472733",
+  "longitude": "-54.5861163"
 }

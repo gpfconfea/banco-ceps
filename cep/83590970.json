@@ -1,9 +1,11 @@
 {
   "cep": "83590970",
   "logradouro": "Rua Olivio Gabriel de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Doutor Ulysses",
   "uf": "PR",
-  "ibge": "4128633"
+  "ibge": "4128633",
+  "latitude": "-24.5650485",
+  "longitude": "-49.4216993"
 }

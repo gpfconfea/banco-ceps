@@ -1,9 +1,11 @@
 {
   "cep": "89192970",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Passo Manso",
   "localidade": "Taió",
   "uf": "SC",
-  "ibge": "4217808"
+  "ibge": "4217808",
+  "latitude": "-27.1305125",
+  "longitude": "-50.0191726"
 }

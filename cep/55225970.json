@@ -1,9 +1,11 @@
 {
   "cep": "55225970",
   "logradouro": "Sítio Climério",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mimoso",
   "localidade": "Pesqueira",
   "uf": "PE",
-  "ibge": "2610905"
+  "ibge": "2610905",
+  "latitude": "-8.399982",
+  "longitude": "-36.9078378"
 }

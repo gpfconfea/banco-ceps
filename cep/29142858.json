@@ -5,5 +5,7 @@
   "bairro": "Maracanã",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-20.3583178",
+  "longitude": "-40.3734856"
 }

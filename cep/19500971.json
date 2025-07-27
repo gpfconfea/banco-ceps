@@ -1,9 +1,11 @@
 {
   "cep": "19500971",
   "logradouro": "Rua Dois",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Laranja Doce",
   "localidade": "Martinópolis",
   "uf": "SP",
-  "ibge": "3529203"
+  "ibge": "3529203",
+  "latitude": "-22.2412789",
+  "longitude": "-51.1584407"
 }

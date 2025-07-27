@@ -6,5 +6,7 @@
   "bairro": "Comunidade Urbana de Jaboti",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "latitude": "-20.5795876",
+  "longitude": "-40.5611646"
 }

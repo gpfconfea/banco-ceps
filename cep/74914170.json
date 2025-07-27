@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Inês",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7505233",
+  "longitude": "-49.2704073"
 }

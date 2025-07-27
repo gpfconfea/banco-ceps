@@ -1,9 +1,11 @@
 {
   "cep": "96526970",
   "logradouro": "Rua Escola Municipal Barro Vermelho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barro Vermelho",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "latitude": "-30.033482",
+  "longitude": "-52.8932815"
 }

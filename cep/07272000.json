@@ -5,5 +5,7 @@
   "bairro": "Jardim Leblon",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.462361",
+  "longitude": "-46.423785"
 }

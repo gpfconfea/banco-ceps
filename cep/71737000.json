@@ -5,5 +5,7 @@
   "bairro": "Setor de Áreas Isoladas Sul (Núcleo Bandeirante)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.73215",
+  "longitude": "-47.90034"
 }

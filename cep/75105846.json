@@ -5,5 +5,7 @@
   "bairro": "Jardim Diana",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3638839",
+  "longitude": "-48.949015"
 }

@@ -5,5 +5,7 @@
   "bairro": "Barris",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9872589",
+  "longitude": "-38.5127435"
 }

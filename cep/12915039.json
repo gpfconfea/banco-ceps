@@ -5,5 +5,7 @@
   "bairro": "Parque Imperador",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-23.0365232",
+  "longitude": "-46.5703902"
 }

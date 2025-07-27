@@ -1,9 +1,11 @@
 {
   "cep": "65230970",
   "logradouro": "Rua da Chapadinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cajapió",
   "uf": "MA",
-  "ibge": "2102408"
+  "ibge": "2102408",
+  "latitude": "-2.8748729",
+  "longitude": "-44.6720945"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64753959",
   "logradouro": "Avenida José Inocêncio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Betânia do Piauí",
   "uf": "PI",
-  "ibge": "2201739"
+  "ibge": "2201739",
+  "latitude": "-8.1466389",
+  "longitude": "-40.7951459"
 }

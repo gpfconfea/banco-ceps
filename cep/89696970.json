@@ -1,9 +1,11 @@
 {
   "cep": "89696970",
   "logradouro": "Rua Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra Grande",
   "localidade": "Faxinal dos Guedes",
   "uf": "SC",
-  "ibge": "4205308"
+  "ibge": "4205308",
+  "latitude": "-26.5718083",
+  "longitude": "-48.6904451"
 }

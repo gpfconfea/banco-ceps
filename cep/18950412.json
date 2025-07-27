@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "Ipaussu",
   "uf": "SP",
-  "ibge": "3520905"
+  "ibge": "3520905",
+  "latitude": "-23.05008",
+  "longitude": "-49.63346"
 }

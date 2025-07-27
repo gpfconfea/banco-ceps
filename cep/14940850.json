@@ -5,5 +5,7 @@
   "bairro": "Jardim Roseira",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.7431695",
+  "longitude": "-48.829055"
 }

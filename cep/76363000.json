@@ -5,5 +5,7 @@
   "bairro": "Aparecida de Goiás",
   "localidade": "Itapaci",
   "uf": "GO",
-  "ibge": "5210901"
+  "ibge": "5210901",
+  "latitude": "-15.003108",
+  "longitude": "-49.827284"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim América da Penha",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5191754",
+  "longitude": "-46.5534016"
 }

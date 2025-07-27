@@ -5,5 +5,7 @@
   "bairro": "Terra Prometida",
   "localidade": "Guarantã",
   "uf": "SP",
-  "ibge": "3518107"
+  "ibge": "3518107",
+  "latitude": "-21.9013889",
+  "longitude": "-49.5841876"
 }

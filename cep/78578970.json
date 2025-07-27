@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipiranga do Norte",
   "uf": "MT",
-  "ibge": "5104526"
+  "ibge": "5104526",
+  "latitude": "-12.2400397",
+  "longitude": "-56.1547303"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Centenário",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.457938",
+  "longitude": "-46.4254715"
 }

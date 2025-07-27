@@ -1,9 +1,11 @@
 {
   "cep": "39449973",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Nova dos Poções",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-14.64139",
+  "longitude": "-44.2604531"
 }

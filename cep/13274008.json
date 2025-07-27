@@ -5,5 +5,7 @@
   "bairro": "Vila Sonia",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9664072",
+  "longitude": "-46.9880189"
 }

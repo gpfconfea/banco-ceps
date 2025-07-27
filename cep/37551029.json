@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2303596",
+  "longitude": "-45.94679"
 }

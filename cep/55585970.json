@@ -1,9 +1,11 @@
 {
   "cep": "55585970",
   "logradouro": "Rua São Francisco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra de Sirinhaém",
   "localidade": "Sirinhaém",
   "uf": "PE",
-  "ibge": "2614204"
+  "ibge": "2614204",
+  "latitude": "-8.6083095",
+  "longitude": "-35.0498836"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Laguna",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.3762136",
+  "longitude": "-40.051723"
 }

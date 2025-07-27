@@ -5,5 +5,7 @@
   "bairro": "Jardim Real",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.4034725",
+  "longitude": "-51.9705252"
 }

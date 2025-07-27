@@ -5,5 +5,7 @@
   "bairro": "Chácaras Residenciais Santa Maria",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5551048",
+  "longitude": "-47.4762574"
 }

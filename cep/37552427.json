@@ -5,5 +5,7 @@
   "bairro": "São Joaquim",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2129396",
+  "longitude": "-45.9406958"
 }

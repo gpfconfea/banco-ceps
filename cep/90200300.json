@@ -5,5 +5,7 @@
   "bairro": "Anchieta",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-29.9860691",
+  "longitude": "-51.1556484"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera III",
   "localidade": "Cerqueira César",
   "uf": "SP",
-  "ibge": "3511409"
+  "ibge": "3511409",
+  "latitude": "-23.0216951",
+  "longitude": "-49.1605381"
 }

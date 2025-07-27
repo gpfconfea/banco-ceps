@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-23.485776",
+  "longitude": "-46.8062689"
 }

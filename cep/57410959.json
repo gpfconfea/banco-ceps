@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palestina",
   "uf": "AL",
-  "ibge": "2706208"
+  "ibge": "2706208",
+  "latitude": "-9.67183",
+  "longitude": "-37.32995"
 }

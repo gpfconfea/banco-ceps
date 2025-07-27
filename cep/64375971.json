@@ -1,9 +1,11 @@
 {
   "cep": "64375971",
   "logradouro": "Rua Vinte de Novembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Félix do Piauí",
   "uf": "PI",
-  "ibge": "2209609"
+  "ibge": "2209609",
+  "latitude": "-5.9330924",
+  "longitude": "-42.1135171"
 }

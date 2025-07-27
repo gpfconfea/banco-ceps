@@ -6,5 +6,7 @@
   "bairro": "São Francisco",
   "localidade": "Campo Alegre",
   "uf": "AL",
-  "ibge": "2701407"
+  "ibge": "2701407",
+  "latitude": "-9.7803333",
+  "longitude": "-36.3511348"
 }

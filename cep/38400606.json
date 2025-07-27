@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.9131161",
+  "longitude": "-48.2738678"
 }

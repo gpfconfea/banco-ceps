@@ -5,5 +5,7 @@
   "bairro": "Araguaia",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8860813",
+  "longitude": "-44.995936"
 }

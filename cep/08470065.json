@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Sitio Conceição",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.8507978",
+  "longitude": "-47.0314062"
 }

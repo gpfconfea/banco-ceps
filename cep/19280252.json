@@ -6,5 +6,7 @@
   "bairro": "Residencial Baobá",
   "localidade": "Teodoro Sampaio",
   "uf": "SP",
-  "ibge": "3554300"
+  "ibge": "3554300",
+  "latitude": "-22.52355",
+  "longitude": "-52.17629"
 }

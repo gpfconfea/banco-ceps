@@ -1,9 +1,11 @@
 {
   "cep": "39520973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serra Branca de Minas",
   "localidade": "Porteirinha",
   "uf": "MG",
-  "ibge": "3152204"
+  "ibge": "3152204",
+  "latitude": "-15.6393848",
+  "longitude": "-42.9513604"
 }

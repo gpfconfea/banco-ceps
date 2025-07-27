@@ -5,5 +5,7 @@
   "bairro": "Cidade Tiradentes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5910173",
+  "longitude": "-46.4009106"
 }

@@ -5,5 +5,7 @@
   "bairro": "Costa Machado",
   "localidade": "Mirante do Paranapanema",
   "uf": "SP",
-  "ibge": "3530201"
+  "ibge": "3530201",
+  "latitude": "-22.2168961",
+  "longitude": "-51.8382125"
 }

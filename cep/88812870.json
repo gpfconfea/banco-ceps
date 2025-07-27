@@ -5,5 +5,7 @@
   "bairro": "Linha Batista",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6635032",
+  "longitude": "-49.3034367"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Simone",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.559425",
+  "longitude": "-47.4527541"
 }

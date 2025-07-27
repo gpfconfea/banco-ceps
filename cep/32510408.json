@@ -6,5 +6,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Igarapé",
   "uf": "MG",
-  "ibge": "3130101"
+  "ibge": "3130101",
+  "latitude": "-20.081898",
+  "longitude": "-44.2977194"
 }

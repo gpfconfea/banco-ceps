@@ -1,9 +1,11 @@
 {
   "cep": "18207990",
   "logradouro": "Rua São Bentoº - Distrito da Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.70168",
+  "longitude": "-48.10328"
 }

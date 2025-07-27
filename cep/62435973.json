@@ -1,9 +1,11 @@
 {
   "cep": "62435973",
   "logradouro": "Rua Pedro Portela",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Adrianópolis",
   "localidade": "Granja",
   "uf": "CE",
-  "ibge": "2304707"
+  "ibge": "2304707",
+  "latitude": "38.5308127",
+  "longitude": "-28.6782923"
 }

@@ -6,5 +6,7 @@
   "bairro": "Residencial Pasqual",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.068",
+  "longitude": "-47.73"
 }

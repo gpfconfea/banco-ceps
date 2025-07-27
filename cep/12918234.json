@@ -5,5 +5,7 @@
   "bairro": "Condomínio Terras de Santa Cruz",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-23.1008824",
+  "longitude": "-46.4943368"
 }

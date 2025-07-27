@@ -5,5 +5,7 @@
   "bairro": "Jardim Senador Vergueiro",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5674884",
+  "longitude": "-47.4237282"
 }

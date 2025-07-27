@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Louveira",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-23.08609",
+  "longitude": "-46.94943"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Salvador",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-20.0208288",
+  "longitude": "-44.2273168"
 }

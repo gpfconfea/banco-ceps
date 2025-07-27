@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Douradina",
   "uf": "PR",
-  "ibge": "4107256"
+  "ibge": "4107256",
+  "latitude": "-23.38463",
+  "longitude": "-53.29361"
 }

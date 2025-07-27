@@ -5,5 +5,7 @@
   "bairro": "Fátima",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-19.86185",
+  "longitude": "-47.44413"
 }

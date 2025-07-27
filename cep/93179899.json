@@ -5,5 +5,7 @@
   "bairro": "Área Rural de São Leopoldo",
   "localidade": "São Leopoldo",
   "uf": "RS",
-  "ibge": "4318705"
+  "ibge": "4318705",
+  "latitude": "-29.7708204",
+  "longitude": "-51.148622"
 }

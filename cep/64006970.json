@@ -1,9 +1,11 @@
 {
   "cep": "64006970",
   "logradouro": "Praça Santos Dumont",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aeroporto",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.0636531",
+  "longitude": "-42.8200927"
 }

@@ -5,5 +5,7 @@
   "bairro": "Roberto",
   "localidade": "Pindorama",
   "uf": "SP",
-  "ibge": "3538105"
+  "ibge": "3538105",
+  "latitude": "-21.2595294",
+  "longitude": "-48.9752095"
 }

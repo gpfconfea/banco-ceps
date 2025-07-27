@@ -5,5 +5,7 @@
   "bairro": "São Martinho D'Oeste",
   "localidade": "Alto Alegre",
   "uf": "SP",
-  "ibge": "3501103"
+  "ibge": "3501103",
+  "latitude": "-21.5770624",
+  "longitude": "-50.2745401"
 }

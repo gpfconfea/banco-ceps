@@ -1,9 +1,11 @@
 {
   "cep": "59299972",
   "logradouro": "Rua Lauro Pinheiro da Costa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Poço de Pedra",
   "localidade": "São Gonçalo do Amarante",
   "uf": "RN",
-  "ibge": "2412005"
+  "ibge": "2412005",
+  "latitude": "-5.8008978",
+  "longitude": "-35.4250716"
 }

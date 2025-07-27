@@ -1,9 +1,11 @@
 {
   "cep": "13528902",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Águas de São Pedro",
   "uf": "SP",
-  "ibge": "3500600"
+  "ibge": "3500600",
+  "latitude": "-23.53054",
+  "longitude": "-47.13553"
 }

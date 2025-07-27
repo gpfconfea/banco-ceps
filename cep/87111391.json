@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Novo Centro",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4472374",
+  "longitude": "-51.8685062"
 }

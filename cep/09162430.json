@@ -5,5 +5,7 @@
   "bairro": "Jardim Guaripocaba",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.7712481",
+  "longitude": "-46.4324229"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Marabá",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5699224",
+  "longitude": "-48.0171315"
 }

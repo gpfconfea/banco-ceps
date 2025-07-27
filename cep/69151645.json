@@ -5,5 +5,7 @@
   "bairro": "Santa Clara",
   "localidade": "Parintins",
   "uf": "AM",
-  "ibge": "1303403"
+  "ibge": "1303403",
+  "latitude": "-2.6436823",
+  "longitude": "-56.7606075"
 }

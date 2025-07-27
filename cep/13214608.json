@@ -5,5 +5,7 @@
   "bairro": "Vila Marlene",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.155569",
+  "longitude": "-46.9156744"
 }

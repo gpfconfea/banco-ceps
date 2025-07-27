@@ -1,9 +1,11 @@
 {
   "cep": "49900971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Propriá",
   "uf": "SE",
-  "ibge": "2805703"
+  "ibge": "2805703",
+  "latitude": "39.291988",
+  "longitude": "-8.8367362"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Isabel",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.55756",
+  "longitude": "-49.40454"
 }

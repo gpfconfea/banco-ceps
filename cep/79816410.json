@@ -5,5 +5,7 @@
   "bairro": "Campo Belo III",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.278758",
+  "longitude": "-54.8280407"
 }

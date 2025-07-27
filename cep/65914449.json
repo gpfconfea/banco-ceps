@@ -5,5 +5,7 @@
   "bairro": "Jardim Cinco Estrelas",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.4749884",
+  "longitude": "-47.4276873"
 }

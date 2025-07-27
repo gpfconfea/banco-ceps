@@ -5,5 +5,7 @@
   "bairro": "Santo Agostinho",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-23.315781",
+  "longitude": "-47.6842353"
 }

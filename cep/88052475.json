@@ -5,5 +5,7 @@
   "bairro": "Vargem Pequena",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.4823449",
+  "longitude": "-48.4627262"
 }

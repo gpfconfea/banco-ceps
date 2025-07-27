@@ -6,5 +6,7 @@
   "bairro": "Autódromo",
   "localidade": "Eusébio",
   "uf": "CE",
-  "ibge": "2304285"
+  "ibge": "2304285",
+  "latitude": "-3.88565",
+  "longitude": "-38.45009"
 }

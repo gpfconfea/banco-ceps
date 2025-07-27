@@ -5,5 +5,7 @@
   "bairro": "Morada de Santa Fé",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-20.3476552",
+  "longitude": "-40.3857907"
 }

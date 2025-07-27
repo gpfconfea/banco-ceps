@@ -5,5 +5,7 @@
   "bairro": "Vargem Limpa I",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.32268",
+  "longitude": "-49.0415"
 }

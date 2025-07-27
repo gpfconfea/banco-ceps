@@ -5,5 +5,7 @@
   "bairro": "Parque do Lago",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.2353732",
+  "longitude": "-54.8463389"
 }

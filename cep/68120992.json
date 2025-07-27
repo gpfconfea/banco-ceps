@@ -1,9 +1,11 @@
 {
   "cep": "68120992",
   "logradouro": "Estrada Santarém-Mujuí dos Campos - Boa Fé",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "latitude": "-2.45049",
+  "longitude": "-54.71855"
 }

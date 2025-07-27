@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaguaçu da Bahia",
   "uf": "BA",
-  "ibge": "2915353"
+  "ibge": "2915353",
+  "latitude": "-11.0152987",
+  "longitude": "-42.3986062"
 }

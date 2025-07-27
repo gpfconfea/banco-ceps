@@ -5,5 +5,7 @@
   "bairro": "Jardim da Serra II",
   "localidade": "Fartura",
   "uf": "SP",
-  "ibge": "3515400"
+  "ibge": "3515400",
+  "latitude": "-23.3766844",
+  "longitude": "-49.5078788"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "18445970",
   "logradouro": "Rua Jorge Domingues Rodrigues",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Engenheiro Maia",
   "localidade": "Itaberá",
   "uf": "SP",
-  "ibge": "3521705"
+  "ibge": "3521705",
+  "latitude": "-23.5197979",
+  "longitude": "-46.5743868"
 }

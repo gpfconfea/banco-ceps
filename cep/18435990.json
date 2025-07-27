@@ -1,9 +1,11 @@
 {
   "cep": "18435990",
   "logradouro": "Rodovia João Ferreira da Silva, Itaóca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Nova Campina",
   "uf": "SP",
-  "ibge": "3532827"
+  "ibge": "3532827",
+  "latitude": "-24.25904",
+  "longitude": "-48.99921"
 }

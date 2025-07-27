@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.78857",
+  "longitude": "-47.30979"
 }

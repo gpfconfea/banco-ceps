@@ -5,5 +5,7 @@
   "bairro": "Araxá",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0091184",
+  "longitude": "-51.0585142"
 }

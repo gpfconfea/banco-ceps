@@ -1,9 +1,11 @@
 {
   "cep": "35340973",
   "logradouro": "Praça Raimundo Silvério",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Geraldo",
   "localidade": "Bom Jesus do Galho",
   "uf": "MG",
-  "ibge": "3107802"
+  "ibge": "3107802",
+  "latitude": "-19.7139868",
+  "longitude": "-42.2715623"
 }

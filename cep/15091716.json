@@ -5,5 +5,7 @@
   "bairro": "Condomínio Green Palm",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "latitude": "-20.69851",
+  "longitude": "-49.35"
 }

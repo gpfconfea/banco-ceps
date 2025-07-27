@@ -5,5 +5,7 @@
   "bairro": "Vila",
   "localidade": "Ilhabela",
   "uf": "SP",
-  "ibge": "3520400"
+  "ibge": "3520400",
+  "latitude": "-23.7887316",
+  "longitude": "-45.361005"
 }

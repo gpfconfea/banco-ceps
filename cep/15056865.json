@@ -6,5 +6,7 @@
   "bairro": "Eparque Rio Preto Leste",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "latitude": "-20.773042",
+  "longitude": "-49.315793"
 }
