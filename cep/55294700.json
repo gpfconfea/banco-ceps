@@ -5,5 +5,7 @@
   "bairro": "Magano",
   "localidade": "Garanhuns",
   "uf": "PE",
-  "ibge": "2606002"
+  "ibge": "2606002",
+  "latitude": "-8.0243959",
+  "longitude": "-34.9819371"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Bernardo",
   "localidade": "União da Vitória",
   "uf": "PR",
-  "ibge": "4128203"
+  "ibge": "4128203",
+  "latitude": "-22.7754672",
+  "longitude": "-53.2665367"
 }

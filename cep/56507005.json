@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Arcoverde",
   "uf": "PE",
-  "ibge": "2601201"
+  "ibge": "2601201",
+  "latitude": "-8.6250939",
+  "longitude": "-37.1573777"
 }

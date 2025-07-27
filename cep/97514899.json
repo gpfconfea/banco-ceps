@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Uruguaiana",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "latitude": "-29.7567647",
+  "longitude": "-57.0860826"
 }

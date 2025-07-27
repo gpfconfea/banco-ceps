@@ -6,5 +6,7 @@
   "bairro": "Residencial Vila da Mata II",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-22.5802248",
+  "longitude": "-48.8273052"
 }

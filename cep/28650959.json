@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Duas Barras",
   "uf": "RJ",
-  "ibge": "3301603"
+  "ibge": "3301603",
+  "latitude": "-22.05119",
+  "longitude": "-42.52301"
 }

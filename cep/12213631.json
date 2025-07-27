@@ -5,5 +5,7 @@
   "bairro": "Residencial Caminho das Montanhas",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.0352391",
+  "longitude": "-45.6336714"
 }

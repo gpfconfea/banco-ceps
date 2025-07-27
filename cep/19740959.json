@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Borá",
   "uf": "SP",
-  "ibge": "3507209"
+  "ibge": "3507209",
+  "latitude": "-22.2704496",
+  "longitude": "-50.5443152"
 }

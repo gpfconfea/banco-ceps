@@ -5,5 +5,7 @@
   "bairro": "Chácara Aeroporto",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.75375",
+  "longitude": "-48.81388"
 }

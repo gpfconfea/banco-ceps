@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Montadas",
   "uf": "PB",
-  "ibge": "2509503"
+  "ibge": "2509503",
+  "latitude": "-7.0880741",
+  "longitude": "-35.9578143"
 }

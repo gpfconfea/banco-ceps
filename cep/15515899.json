@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Votuporanga",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4255171",
+  "longitude": "-49.9708789"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "45215970",
   "logradouro": "Rua Vinte de Fevereiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Lafaiete Coutinho",
   "uf": "BA",
-  "ibge": "2918704"
+  "ibge": "2918704",
+  "latitude": "-13.6582852",
+  "longitude": "-40.2092639"
 }

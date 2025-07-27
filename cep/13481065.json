@@ -5,5 +5,7 @@
   "bairro": "Jardim Ibirapuera",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-23.5313745",
+  "longitude": "-46.9444467"
 }

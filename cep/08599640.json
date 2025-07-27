@@ -5,5 +5,7 @@
   "bairro": "Una",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4505305",
+  "longitude": "-46.333465"
 }

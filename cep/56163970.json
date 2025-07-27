@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Parnamirim",
   "uf": "PE",
-  "ibge": "2610400"
+  "ibge": "2610400",
+  "latitude": "-8.0898509",
+  "longitude": "-39.5798651"
 }

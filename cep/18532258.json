@@ -5,5 +5,7 @@
   "bairro": "Condomínio Água Santa",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.0851835",
+  "longitude": "-47.682084"
 }

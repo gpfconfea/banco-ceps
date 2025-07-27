@@ -6,5 +6,7 @@
   "bairro": "Terra Nobre",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-23.0861507",
+  "longitude": "-46.961704"
 }

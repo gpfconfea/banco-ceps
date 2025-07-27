@@ -5,5 +5,7 @@
   "bairro": "Ribeiro",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.667184",
+  "longitude": "-49.7463204"
 }

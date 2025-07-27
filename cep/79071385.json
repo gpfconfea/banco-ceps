@@ -5,5 +5,7 @@
   "bairro": "Alves Pereira",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.5354403",
+  "longitude": "-54.6146201"
 }

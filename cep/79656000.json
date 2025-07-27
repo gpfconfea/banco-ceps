@@ -5,5 +5,7 @@
   "bairro": "Garcias",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "latitude": "-20.1732694",
+  "longitude": "-52.4028825"
 }

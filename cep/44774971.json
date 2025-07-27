@@ -1,9 +1,11 @@
 {
   "cep": "44774971",
   "logradouro": "Praça Santa Efigênia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bananeiras",
   "localidade": "Pindobaçu",
   "uf": "BA",
-  "ibge": "2924603"
+  "ibge": "2924603",
+  "latitude": "-10.0020363",
+  "longitude": "-42.4823028"
 }

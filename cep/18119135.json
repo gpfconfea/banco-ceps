@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5455478",
+  "longitude": "-47.5062966"
 }

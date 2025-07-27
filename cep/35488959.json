@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaguara",
   "uf": "MG",
-  "ibge": "3132206"
+  "ibge": "3132206",
+  "latitude": "-20.39141",
+  "longitude": "-44.4882"
 }

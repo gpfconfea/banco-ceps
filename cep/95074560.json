@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "latitude": "-29.1573322",
+  "longitude": "-51.1298065"
 }

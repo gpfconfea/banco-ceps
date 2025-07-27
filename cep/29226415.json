@@ -5,5 +5,7 @@
   "bairro": "Comunidade Urbana de Barro Branco",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "latitude": "-20.5307374",
+  "longitude": "-40.3835531"
 }

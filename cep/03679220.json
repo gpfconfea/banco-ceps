@@ -5,5 +5,7 @@
   "bairro": "Vila São Francisco (Zona Leste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.9314305",
+  "longitude": "-47.090946"
 }

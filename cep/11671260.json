@@ -5,5 +5,7 @@
   "bairro": "Jardim Joamar",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.6778249",
+  "longitude": "-45.451826"
 }

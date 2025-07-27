@@ -1,9 +1,11 @@
 {
   "cep": "64968970",
   "logradouro": "Rua José Honório Granja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Morro Cabeça no Tempo",
   "uf": "PI",
-  "ibge": "2206654"
+  "ibge": "2206654",
+  "latitude": "-9.7235393",
+  "longitude": "-43.9002463"
 }

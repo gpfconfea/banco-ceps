@@ -5,5 +5,7 @@
   "bairro": "Residencial Colina Verde",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-21.3958794",
+  "longitude": "-50.0795963"
 }

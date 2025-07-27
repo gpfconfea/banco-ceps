@@ -1,9 +1,11 @@
 {
   "cep": "44460991",
   "logradouro": "Rua Areia Preta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Itaparica",
   "uf": "BA",
-  "ibge": "2916104"
+  "ibge": "2916104",
+  "latitude": "-12.91683",
+  "longitude": "-38.62897"
 }

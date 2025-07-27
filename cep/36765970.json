@@ -1,9 +1,11 @@
 {
   "cep": "36765970",
   "logradouro": "Praça Joaquim Antônio Simões",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João da Sapucaia",
   "localidade": "Laranjal",
   "uf": "MG",
-  "ibge": "3138005"
+  "ibge": "3138005",
+  "latitude": "-21.2805381",
+  "longitude": "-42.4334143"
 }

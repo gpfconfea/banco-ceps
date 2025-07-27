@@ -1,9 +1,11 @@
 {
   "cep": "55121971",
   "logradouro": "Vila Couro D'antas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Couro D'antas",
   "localidade": "Riacho das Almas",
   "uf": "PE",
-  "ibge": "2611705"
+  "ibge": "2611705",
+  "latitude": "-7.9879279",
+  "longitude": "-35.8103193"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Bréscia",
   "uf": "RS",
-  "ibge": "4313003"
+  "ibge": "4313003",
+  "latitude": "-29.2148564",
+  "longitude": "-52.0265488"
 }

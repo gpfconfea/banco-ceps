@@ -5,5 +5,7 @@
   "bairro": "Jardim Norma",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.1885088",
+  "longitude": "-46.7487682"
 }

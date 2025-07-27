@@ -5,5 +5,7 @@
   "bairro": "São Gabriel",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "latitude": "-20.6382614",
+  "longitude": "-40.5239629"
 }

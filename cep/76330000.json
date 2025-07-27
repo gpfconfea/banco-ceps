@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaraguá",
   "uf": "GO",
-  "ibge": "5211800"
+  "ibge": "5211800",
+  "latitude": "-15.7528866",
+  "longitude": "-49.3344033"
 }

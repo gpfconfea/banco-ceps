@@ -5,5 +5,7 @@
   "bairro": "Residencial Marajoara",
   "localidade": "Itaí",
   "uf": "SP",
-  "ibge": "3521804"
+  "ibge": "3521804",
+  "latitude": "-23.42969",
+  "longitude": "-49.09667"
 }

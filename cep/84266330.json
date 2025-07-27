@@ -5,5 +5,7 @@
   "bairro": "Monte Alegre",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-24.3350029",
+  "longitude": "-50.6372238"
 }

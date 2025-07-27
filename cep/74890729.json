@@ -5,5 +5,7 @@
   "bairro": "Residencial Ville de France",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-15.8529942",
+  "longitude": "-48.9465218"
 }

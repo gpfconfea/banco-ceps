@@ -6,5 +6,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.482",
+  "longitude": "-48.56715"
 }

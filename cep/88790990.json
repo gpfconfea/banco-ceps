@@ -1,9 +1,11 @@
 {
   "cep": "88790990",
   "logradouro": "Rua Fernando Antônio dos Santos - Caputera",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Laguna",
   "uf": "SC",
-  "ibge": "4209409"
+  "ibge": "4209409",
+  "latitude": "-28.377455",
+  "longitude": "-48.7910188"
 }

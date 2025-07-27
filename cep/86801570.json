@@ -5,5 +5,7 @@
   "bairro": "Vila Apucaraninha",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5467606",
+  "longitude": "-51.4642866"
 }

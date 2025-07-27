@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Parelheiros",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.8293303",
+  "longitude": "-46.7189814"
 }

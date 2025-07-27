@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araçuaí",
   "uf": "MG",
-  "ibge": "3103405"
+  "ibge": "3103405",
+  "latitude": "-16.8463816",
+  "longitude": "-42.0627844"
 }

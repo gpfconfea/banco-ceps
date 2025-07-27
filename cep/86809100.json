@@ -5,5 +5,7 @@
   "bairro": "Jardim Presidente Kennedy",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5652932",
+  "longitude": "-51.4548988"
 }

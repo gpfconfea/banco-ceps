@@ -5,5 +5,7 @@
   "bairro": "Pio XII",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.896217",
+  "longitude": "-43.9452891"
 }

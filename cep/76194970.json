@@ -1,9 +1,11 @@
 {
   "cep": "76194970",
   "logradouro": "Rua Humberto Martins Ribeiro Quadra 77 Lote 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Palmeiras de Goiás",
   "uf": "GO",
-  "ibge": "5215702"
+  "ibge": "5215702",
+  "latitude": "-16.8048974",
+  "longitude": "-49.9244826"
 }

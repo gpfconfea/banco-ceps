@@ -1,9 +1,11 @@
 {
   "cep": "60822915",
   "logradouro": "Avenida General Afonso Albuquerque Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cambeba",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.8117958",
+  "longitude": "-38.4896715"
 }

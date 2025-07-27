@@ -5,5 +5,7 @@
   "bairro": "Ponte Preta",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9205894",
+  "longitude": "-47.0526435"
 }

@@ -6,5 +6,7 @@
   "bairro": "Vila São José",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.3866712",
+  "longitude": "-43.5116741"
 }

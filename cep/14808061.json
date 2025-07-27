@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Quinta dos Oitis",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.8177898",
+  "longitude": "-48.165522"
 }

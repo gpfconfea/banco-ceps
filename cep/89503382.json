@@ -5,5 +5,7 @@
   "bairro": "Sorgatto",
   "localidade": "Caçador",
   "uf": "SC",
-  "ibge": "4203006"
+  "ibge": "4203006",
+  "latitude": "-26.7814239",
+  "longitude": "-51.0251057"
 }

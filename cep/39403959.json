@@ -5,5 +5,7 @@
   "bairro": "Santo Expedito",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.73721",
+  "longitude": "-43.87203"
 }

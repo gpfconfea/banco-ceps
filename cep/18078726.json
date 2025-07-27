@@ -5,5 +5,7 @@
   "bairro": "Jardim Bonsucesso",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4283068",
+  "longitude": "-47.4651963"
 }

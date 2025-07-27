@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pimenteiras",
   "uf": "PI",
-  "ibge": "2208106"
+  "ibge": "2208106",
+  "latitude": "-6.24059",
+  "longitude": "-41.42039"
 }

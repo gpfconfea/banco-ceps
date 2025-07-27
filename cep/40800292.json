@@ -5,5 +5,7 @@
   "bairro": "São Tomé",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-22.0960457",
+  "longitude": "-51.4064272"
 }

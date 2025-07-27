@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palmeira dos Índios",
   "uf": "AL",
-  "ibge": "2706307"
+  "ibge": "2706307",
+  "latitude": "-9.4052607",
+  "longitude": "-36.6267741"
 }

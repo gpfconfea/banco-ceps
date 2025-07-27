@@ -5,5 +5,7 @@
   "bairro": "Faria Lemos",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.0859239",
+  "longitude": "-51.6147907"
 }

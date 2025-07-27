@@ -5,5 +5,7 @@
   "bairro": "Chácara Dallas",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.09648",
+  "longitude": "-45.60442"
 }

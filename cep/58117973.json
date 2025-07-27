@@ -1,9 +1,11 @@
 {
   "cep": "58117973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Chã do Marinho",
   "localidade": "Lagoa Seca",
   "uf": "PB",
-  "ibge": "2508307"
+  "ibge": "2508307",
+  "latitude": "-7.1580805",
+  "longitude": "-35.8549426"
 }

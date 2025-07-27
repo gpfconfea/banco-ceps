@@ -1,9 +1,11 @@
 {
   "cep": "83750993",
   "logradouro": "Rua Principal - Escola Municipal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Lapa",
   "uf": "PR",
-  "ibge": "4113205"
+  "ibge": "4113205",
+  "latitude": "-25.75592",
+  "longitude": "-49.72711"
 }

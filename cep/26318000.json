@@ -5,5 +5,7 @@
   "bairro": "Marajoara",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.7254461",
+  "longitude": "-43.6340948"
 }

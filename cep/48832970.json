@@ -1,9 +1,11 @@
 {
   "cep": "48832970",
   "logradouro": "Praça do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Algodões",
   "localidade": "Quijingue",
   "uf": "BA",
-  "ibge": "2925907"
+  "ibge": "2925907",
+  "latitude": "-12.9703303",
+  "longitude": "-38.5104671"
 }

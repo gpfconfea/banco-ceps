@@ -5,5 +5,7 @@
   "bairro": "Usina",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.1155998",
+  "longitude": "-46.5357598"
 }

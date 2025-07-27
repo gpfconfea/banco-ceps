@@ -5,5 +5,7 @@
   "bairro": "Parque São Domingos",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.502332",
+  "longitude": "-46.7338078"
 }

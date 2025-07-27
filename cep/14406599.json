@@ -5,5 +5,7 @@
   "bairro": "Jardim Bonsucesso",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5294111",
+  "longitude": "-47.450479"
 }

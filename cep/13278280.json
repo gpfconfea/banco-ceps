@@ -5,5 +5,7 @@
   "bairro": "Village Sans Souci",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-23.1902056",
+  "longitude": "-46.8868063"
 }

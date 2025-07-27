@@ -1,9 +1,11 @@
 {
   "cep": "55525971",
   "logradouro": "Rua Ilha das Flores",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Usina Pedrosa",
   "localidade": "Cortês",
   "uf": "PE",
-  "ibge": "2604809"
+  "ibge": "2604809",
+  "latitude": "-8.06444",
+  "longitude": "-34.88076"
 }

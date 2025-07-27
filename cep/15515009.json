@@ -5,5 +5,7 @@
   "bairro": "Simonsen",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4523928",
+  "longitude": "-49.8957071"
 }

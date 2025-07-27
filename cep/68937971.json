@@ -1,9 +1,11 @@
 {
   "cep": "68937971",
   "logradouro": "Distrito da Ilha de Santana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ilha de Santana",
   "localidade": "Santana",
   "uf": "AP",
-  "ibge": "1600600"
+  "ibge": "1600600",
+  "latitude": "-0.0299863",
+  "longitude": "-51.180762"
 }

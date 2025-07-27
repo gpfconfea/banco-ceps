@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Vila Cosmos",
   "localidade": "Cosmópolis",
   "uf": "SP",
-  "ibge": "3512803"
+  "ibge": "3512803",
+  "latitude": "-22.6317218",
+  "longitude": "-47.1846711"
 }

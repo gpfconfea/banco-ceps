@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1801532",
+  "longitude": "-46.8995625"
 }

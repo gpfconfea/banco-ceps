@@ -5,5 +5,7 @@
   "bairro": "Setor Boa Vista",
   "localidade": "Mineiros",
   "uf": "GO",
-  "ibge": "5213103"
+  "ibge": "5213103",
+  "latitude": "-17.5802692",
+  "longitude": "-52.5531623"
 }

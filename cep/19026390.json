@@ -5,5 +5,7 @@
   "bairro": "Jardim Maracanã",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-23.5700682",
+  "longitude": "-46.663092"
 }

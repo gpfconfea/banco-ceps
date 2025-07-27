@@ -5,5 +5,7 @@
   "bairro": "Itaipava",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "latitude": "-23.4019922",
+  "longitude": "-51.9564588"
 }

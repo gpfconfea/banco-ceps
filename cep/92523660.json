@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Montenegro",
   "uf": "RS",
-  "ibge": "4312401"
+  "ibge": "4312401",
+  "latitude": "-29.696136",
+  "longitude": "-51.4666018"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "88020901",
   "logradouro": "Rua Doutor Álvaro Millen da Silveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.6018146",
+  "longitude": "-48.548181"
 }

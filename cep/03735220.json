@@ -5,5 +5,7 @@
   "bairro": "Jardim Arizona",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.7641569",
+  "longitude": "-49.3622838"
 }

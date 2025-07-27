@@ -1,9 +1,11 @@
 {
   "cep": "68609971",
   "logradouro": "Vila de Caratateua",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caratateua",
   "localidade": "Bragança",
   "uf": "PA",
-  "ibge": "1501709"
+  "ibge": "1501709",
+  "latitude": "-1.0495905",
+  "longitude": "-46.7402708"
 }

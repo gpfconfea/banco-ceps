@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Cachoeira Alta",
   "uf": "GO",
-  "ibge": "5204102"
+  "ibge": "5204102",
+  "latitude": "-18.7612375",
+  "longitude": "-50.9450329"
 }

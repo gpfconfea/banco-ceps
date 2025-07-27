@@ -5,5 +5,7 @@
   "bairro": "Sítio do Morro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5043284",
+  "longitude": "-46.671176"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-23.2497159",
+  "longitude": "-46.750817"
 }

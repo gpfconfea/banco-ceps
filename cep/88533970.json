@@ -1,9 +1,11 @@
 {
   "cep": "88533970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Índios",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.3310534",
+  "longitude": "-50.7665562"
 }

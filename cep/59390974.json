@@ -1,9 +1,11 @@
 {
   "cep": "59390974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Barro Branco",
   "localidade": "Lagoa Nova",
   "uf": "RN",
-  "ibge": "2406502"
+  "ibge": "2406502",
+  "latitude": "39.8566815",
+  "longitude": "-8.6753385"
 }

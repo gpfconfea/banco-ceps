@@ -1,9 +1,11 @@
 {
   "cep": "77893959",
   "logradouro": "Rua Jerusalem",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Riachinho",
   "uf": "TO",
-  "ibge": "1718550"
+  "ibge": "1718550",
+  "latitude": "-6.44587",
+  "longitude": "-48.13727"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Campestre",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4002391",
+  "longitude": "-46.4058064"
 }

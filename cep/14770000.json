@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Colina",
   "uf": "SP",
-  "ibge": "3512001"
+  "ibge": "3512001",
+  "latitude": "-20.711443",
+  "longitude": "-48.53867"
 }

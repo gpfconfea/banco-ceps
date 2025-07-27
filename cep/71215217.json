@@ -5,5 +5,7 @@
   "bairro": "Zona Industrial (Guará)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.821211",
+  "longitude": "-47.955901"
 }

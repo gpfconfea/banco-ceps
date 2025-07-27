@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Princesa Isabel",
   "uf": "PB",
-  "ibge": "2512309"
+  "ibge": "2512309",
+  "latitude": "-7.7378004",
+  "longitude": "-37.9931058"
 }

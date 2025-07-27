@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "latitude": "-22.4692221",
+  "longitude": "-44.4544539"
 }

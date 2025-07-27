@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Palmeiras",
   "uf": "BA",
-  "ibge": "2923506"
+  "ibge": "2923506",
+  "latitude": "-12.5148944",
+  "longitude": "-41.5771714"
 }

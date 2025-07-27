@@ -6,5 +6,7 @@
   "bairro": "Graminha",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "latitude": "-21.4476917",
+  "longitude": "-43.5546426"
 }

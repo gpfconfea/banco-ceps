@@ -5,5 +5,7 @@
   "bairro": "Cedro",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-15.648591",
+  "longitude": "-40.0557337"
 }

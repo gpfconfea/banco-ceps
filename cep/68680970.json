@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tomé-Açu",
   "uf": "PA",
-  "ibge": "1508001"
+  "ibge": "1508001",
+  "latitude": "-2.42043",
+  "longitude": "-48.1489425"
 }

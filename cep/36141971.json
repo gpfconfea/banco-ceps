@@ -1,9 +1,11 @@
 {
   "cep": "36141971",
   "logradouro": "Praça Santo Antônio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José dos Lopes",
   "localidade": "Lima Duarte",
   "uf": "MG",
-  "ibge": "3138609"
+  "ibge": "3138609",
+  "latitude": "-21.711872",
+  "longitude": "-43.9029523"
 }

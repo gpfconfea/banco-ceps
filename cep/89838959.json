@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Galvão",
   "uf": "SC",
-  "ibge": "4205605"
+  "ibge": "4205605",
+  "latitude": "-26.9224",
+  "longitude": "-49.06431"
 }

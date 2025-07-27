@@ -1,9 +1,11 @@
 {
   "cep": "45582970",
   "logradouro": "Rua José Muniz Ferreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Algodão",
   "localidade": "Ibirataia",
   "uf": "BA",
-  "ibge": "2912905"
+  "ibge": "2912905",
+  "latitude": "-14.0724017",
+  "longitude": "-39.6399026"
 }

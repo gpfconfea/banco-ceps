@@ -1,9 +1,11 @@
 {
   "cep": "62106974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Taperuaba",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "latitude": "39.6941168",
+  "longitude": "-8.6756629"
 }

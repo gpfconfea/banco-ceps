@@ -1,9 +1,11 @@
 {
   "cep": "63663976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Trici",
   "localidade": "Tauá",
   "uf": "CE",
-  "ibge": "2313302"
+  "ibge": "2313302",
+  "latitude": "-3.72306",
+  "longitude": "-38.76414"
 }

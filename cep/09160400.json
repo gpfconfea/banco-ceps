@@ -5,5 +5,7 @@
   "bairro": "Parque Represa Billings III",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.768829",
+  "longitude": "-46.4658293"
 }

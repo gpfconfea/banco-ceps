@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Jesus",
   "uf": "PI",
-  "ibge": "2201903"
+  "ibge": "2201903",
+  "latitude": "-9.0717168",
+  "longitude": "-44.35801"
 }

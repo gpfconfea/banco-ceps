@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Vila Nova Cachoeirinha",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4814175",
+  "longitude": "-46.669478"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Alto do Rio Bonito",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7244711",
+  "longitude": "-46.6954503"
 }

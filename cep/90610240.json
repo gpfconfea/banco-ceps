@@ -5,5 +5,7 @@
   "bairro": "Santa Cecília",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0434719",
+  "longitude": "-51.199517"
 }

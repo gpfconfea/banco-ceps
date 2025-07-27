@@ -1,9 +1,11 @@
 {
   "cep": "64985970",
   "logradouro": "Avenida André Pereira Lobato",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Sebastião Barros",
   "uf": "PI",
-  "ibge": "2210623"
+  "ibge": "2210623",
+  "latitude": "-10.8140053",
+  "longitude": "-44.8325064"
 }

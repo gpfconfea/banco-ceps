@@ -5,5 +5,7 @@
   "bairro": "São Vicente de Paulo",
   "localidade": "Vitória de Santo Antão",
   "uf": "PE",
-  "ibge": "2616407"
+  "ibge": "2616407",
+  "latitude": "-7.8862296",
+  "longitude": "-35.4409692"
 }

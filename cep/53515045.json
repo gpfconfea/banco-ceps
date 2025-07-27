@@ -5,5 +5,7 @@
   "bairro": "Alto da Bela Vista",
   "localidade": "Abreu e Lima",
   "uf": "PE",
-  "ibge": "2600054"
+  "ibge": "2600054",
+  "latitude": "-5.4765185",
+  "longitude": "-47.8934508"
 }

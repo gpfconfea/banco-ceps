@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lobato",
   "uf": "PR",
-  "ibge": "4113601"
+  "ibge": "4113601",
+  "latitude": "-23.0077055",
+  "longitude": "-51.9524309"
 }

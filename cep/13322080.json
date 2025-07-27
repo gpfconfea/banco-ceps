@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.1993777",
+  "longitude": "-47.2878763"
 }

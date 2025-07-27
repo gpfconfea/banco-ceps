@@ -5,5 +5,7 @@
   "bairro": "Jardim Eldorado",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "latitude": "-21.149043",
+  "longitude": "-48.9453069"
 }

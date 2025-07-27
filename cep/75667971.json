@@ -1,9 +1,11 @@
 {
   "cep": "75667971",
   "logradouro": "Avenida Maranhão Quadra 9 Lote 9",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Esplanada",
   "localidade": "Rio Quente",
   "uf": "GO",
-  "ibge": "5218789"
+  "ibge": "5218789",
+  "latitude": "-17.7715",
+  "longitude": "-48.7573"
 }

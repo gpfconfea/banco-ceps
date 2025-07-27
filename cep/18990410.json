@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Canitar",
   "uf": "SP",
-  "ibge": "3510153"
+  "ibge": "3510153",
+  "latitude": "-23.00555",
+  "longitude": "-49.78138"
 }

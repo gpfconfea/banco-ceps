@@ -5,5 +5,7 @@
   "bairro": "Parque dos Pomares",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0307037",
+  "longitude": "-47.1366448"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Ribeiro de Barros",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4993343",
+  "longitude": "-46.4453873"
 }

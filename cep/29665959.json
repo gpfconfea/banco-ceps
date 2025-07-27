@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Roque do Canaã",
   "uf": "ES",
-  "ibge": "3204955"
+  "ibge": "3204955",
+  "latitude": "-19.7296714",
+  "longitude": "-40.6476202"
 }

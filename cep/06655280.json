@@ -5,5 +5,7 @@
   "bairro": "Jardim Briquet",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5497821",
+  "longitude": "-46.9160058"
 }

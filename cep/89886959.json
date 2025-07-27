@@ -1,9 +1,11 @@
 {
   "cep": "89886959",
   "logradouro": "Avenida Vinte e Nove de Setembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cunhataí",
   "uf": "SC",
-  "ibge": "4204756"
+  "ibge": "4204756",
+  "latitude": "-26.9604555",
+  "longitude": "-53.0884475"
 }

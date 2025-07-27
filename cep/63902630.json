@@ -5,5 +5,7 @@
   "bairro": "Cedro",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-5.9079188",
+  "longitude": "-38.6232856"
 }

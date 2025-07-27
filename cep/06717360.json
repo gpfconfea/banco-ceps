@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Pacaembu",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.5514798",
+  "longitude": "-47.4575508"
 }

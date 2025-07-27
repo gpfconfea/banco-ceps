@@ -6,5 +6,7 @@
   "bairro": "Balneário Stella Maris",
   "localidade": "Peruíbe",
   "uf": "SP",
-  "ibge": "3537602"
+  "ibge": "3537602",
+  "latitude": "-24.2777324",
+  "longitude": "-46.961664"
 }

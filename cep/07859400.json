@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-22.3369714",
+  "longitude": "-49.042418"
 }

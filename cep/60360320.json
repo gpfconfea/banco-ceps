@@ -5,5 +5,7 @@
   "bairro": "Antônio Bezerra",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-27.2175515",
+  "longitude": "-52.0501518"
 }

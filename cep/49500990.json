@@ -1,9 +1,11 @@
 {
   "cep": "49500990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Itabaiana",
   "uf": "SE",
-  "ibge": "2802908"
+  "ibge": "2802908",
+  "latitude": "-10.7570826",
+  "longitude": "-37.4138641"
 }

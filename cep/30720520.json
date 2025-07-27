@@ -5,5 +5,7 @@
   "bairro": "Caiçara-Adelaide",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9064175",
+  "longitude": "-43.9753901"
 }

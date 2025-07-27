@@ -1,9 +1,11 @@
 {
   "cep": "45940959",
   "logradouro": "Praça Lourival Pereira Barros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ibirapuã",
   "uf": "BA",
-  "ibge": "2912806"
+  "ibge": "2912806",
+  "latitude": "-17.6884562",
+  "longitude": "-40.1098436"
 }

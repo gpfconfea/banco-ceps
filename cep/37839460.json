@@ -5,5 +5,7 @@
   "bairro": "Vila Buzato",
   "localidade": "Andradas",
   "uf": "MG",
-  "ibge": "3102605"
+  "ibge": "3102605",
+  "latitude": "-22.0627168",
+  "longitude": "-46.5659273"
 }
