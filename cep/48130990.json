@@ -1,9 +1,11 @@
 {
   "cep": "48130990",
   "logradouro": "Rua Juvino Cunha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Aramari",
   "uf": "BA",
-  "ibge": "2902203"
+  "ibge": "2902203",
+  "latitude": "-12.09022",
+  "longitude": "-38.49718"
 }

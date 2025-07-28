@@ -1,9 +1,11 @@
 {
   "cep": "13890971",
   "logradouro": "Pátio da Estação",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cascata",
   "localidade": "Águas da Prata",
   "uf": "SP",
-  "ibge": "3500402"
+  "ibge": "3500402",
+  "latitude": "-23.74422",
+  "longitude": "-46.38962"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio das Pedras",
   "uf": "SP",
-  "ibge": "3544004"
+  "ibge": "3544004",
+  "latitude": "-22.84461",
+  "longitude": "-47.59477"
 }

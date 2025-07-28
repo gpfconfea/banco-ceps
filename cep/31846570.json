@@ -6,5 +6,7 @@
   "bairro": "Novo Lajedo",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-20.0143212",
+  "longitude": "-44.024726"
 }

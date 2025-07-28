@@ -5,5 +5,7 @@
   "bairro": "Altaville",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2162998",
+  "longitude": "-45.9349409"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55398959",
   "logradouro": "Rua das Joaquim Nabuco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jucati",
   "uf": "PE",
-  "ibge": "2608255"
+  "ibge": "2608255",
+  "latitude": "-8.70553",
+  "longitude": "-36.48704"
 }

@@ -5,5 +5,7 @@
   "bairro": "Caturrita",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "latitude": "-29.6688622",
+  "longitude": "-53.8404966"
 }

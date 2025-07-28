@@ -1,9 +1,11 @@
 {
   "cep": "44055900",
   "logradouro": "Rua Quinta do Sol",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Ipê",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.21471",
+  "longitude": "-38.95604"
 }

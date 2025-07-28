@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0378044",
+  "longitude": "-45.5374682"
 }

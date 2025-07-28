@@ -5,5 +5,7 @@
   "bairro": "Parque Lago",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "-23.281221",
+  "longitude": "-51.1571958"
 }

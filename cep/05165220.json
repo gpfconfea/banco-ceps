@@ -5,5 +5,7 @@
   "bairro": "Recanto Monte Alegre",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4802627",
+  "longitude": "-46.751871"
 }

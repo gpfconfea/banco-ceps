@@ -5,5 +5,7 @@
   "bairro": "Bicuíba",
   "localidade": "Raul Soares",
   "uf": "MG",
-  "ibge": "3154002"
+  "ibge": "3154002",
+  "latitude": "-20.0945",
+  "longitude": "-42.3299367"
 }

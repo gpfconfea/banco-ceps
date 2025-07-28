@@ -1,9 +1,11 @@
 {
   "cep": "29701959",
   "logradouro": "Rua Adwalter Ribeiro Soares",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-19.537921",
+  "longitude": "-40.6302162"
 }

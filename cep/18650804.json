@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Professor José Innocênti",
   "localidade": "São Manuel",
   "uf": "SP",
-  "ibge": "3550100"
+  "ibge": "3550100",
+  "latitude": "-23.58193",
+  "longitude": "-46.39575"
 }

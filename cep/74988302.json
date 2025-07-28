@@ -6,5 +6,7 @@
   "bairro": "Residencial Aparecida Park",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.8416009",
+  "longitude": "-49.2055049"
 }

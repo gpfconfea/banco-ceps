@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cosmorama",
   "uf": "SP",
-  "ibge": "3512902"
+  "ibge": "3512902",
+  "latitude": "-20.4223677",
+  "longitude": "-49.7681942"
 }

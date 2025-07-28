@@ -5,5 +5,7 @@
   "bairro": "Residencial Zeca Mendes",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.7536917",
+  "longitude": "-47.8859213"
 }

@@ -6,5 +6,7 @@
   "bairro": "Jardim Nova Conquista",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.65629",
+  "longitude": "-46.75348"
 }

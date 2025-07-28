@@ -5,5 +5,7 @@
   "bairro": "Padre Cursino",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-21.3101313",
+  "longitude": "-50.3390945"
 }

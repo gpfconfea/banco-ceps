@@ -1,9 +1,11 @@
 {
   "cep": "46150970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Iguatemi",
   "localidade": "Livramento de Nossa Senhora",
   "uf": "BA",
-  "ibge": "2919504"
+  "ibge": "2919504",
+  "latitude": "-13.6510045",
+  "longitude": "-41.8416417"
 }

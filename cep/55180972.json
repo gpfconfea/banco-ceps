@@ -1,9 +1,11 @@
 {
   "cep": "55180972",
   "logradouro": "Rua José Monteiro de Moura",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito de Jundiá",
   "localidade": "Jataúba",
   "uf": "PE",
-  "ibge": "2608008"
+  "ibge": "2608008",
+  "latitude": "-7.9882774",
+  "longitude": "-36.5827735"
 }

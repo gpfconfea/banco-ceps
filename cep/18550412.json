@@ -5,5 +5,7 @@
   "bairro": "Reserva do Parque",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.29419",
+  "longitude": "-47.67145"
 }

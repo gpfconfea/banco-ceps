@@ -6,5 +6,7 @@
   "bairro": "Bom Jesus",
   "localidade": "Canela",
   "uf": "RS",
-  "ibge": "4304408"
+  "ibge": "4304408",
+  "latitude": "-29.37495",
+  "longitude": "-50.80746"
 }

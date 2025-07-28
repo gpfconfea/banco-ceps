@@ -5,5 +5,7 @@
   "bairro": "Porto Alegre",
   "localidade": "Porto Seguro",
   "uf": "BA",
-  "ibge": "2925303"
+  "ibge": "2925303",
+  "latitude": "-16.4254024",
+  "longitude": "-39.100084"
 }

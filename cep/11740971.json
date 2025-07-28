@@ -5,5 +5,7 @@
   "bairro": "Vila São Paulo",
   "localidade": "Itanhaém",
   "uf": "SP",
-  "ibge": "3522109"
+  "ibge": "3522109",
+  "latitude": "-24.1793997",
+  "longitude": "-46.787199"
 }

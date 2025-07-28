@@ -1,9 +1,11 @@
 {
   "cep": "13755971",
   "logradouro": "Rua Waldemar Pavan",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Benedito das Areias",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4054932",
+  "longitude": "-46.8097051"
 }

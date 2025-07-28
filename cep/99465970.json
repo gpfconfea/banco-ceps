@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vista Alegre",
   "uf": "RS",
-  "ibge": "4323507"
+  "ibge": "4323507",
+  "latitude": "-28.433036",
+  "longitude": "-52.9651112"
 }

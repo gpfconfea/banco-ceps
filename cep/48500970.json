@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Euclides da Cunha",
   "uf": "BA",
-  "ibge": "2910701"
+  "ibge": "2910701",
+  "latitude": "-9.8995045",
+  "longitude": "-39.0204483"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "latitude": "-21.3662436",
+  "longitude": "-48.2325449"
 }

@@ -6,5 +6,7 @@
   "bairro": "Paulo Borsato",
   "localidade": "Santa Rita do Sapucaí",
   "uf": "MG",
-  "ibge": "3159605"
+  "ibge": "3159605",
+  "latitude": "-22.25206",
+  "longitude": "-45.70922"
 }

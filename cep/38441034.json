@@ -5,5 +5,7 @@
   "bairro": "Brasília",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "latitude": "-23.634282",
+  "longitude": "-47.3547864"
 }

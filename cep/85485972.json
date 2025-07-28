@@ -1,9 +1,11 @@
 {
   "cep": "85485972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Três Barras do Paraná",
   "uf": "PR",
-  "ibge": "4127858"
+  "ibge": "4127858",
+  "latitude": "-25.3380547",
+  "longitude": "-49.0801214"
 }

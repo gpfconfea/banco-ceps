@@ -1,9 +1,11 @@
 {
   "cep": "65195959",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santo Amaro do Maranhão",
   "uf": "MA",
-  "ibge": "2110278"
+  "ibge": "2110278",
+  "latitude": "-1.67686",
+  "longitude": "-46.01092"
 }

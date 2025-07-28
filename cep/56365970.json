@@ -1,9 +1,11 @@
 {
   "cep": "56365970",
   "logradouro": "Rodovia BR-407",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Arizona",
   "localidade": "Afrânio",
   "uf": "PE",
-  "ibge": "2600203"
+  "ibge": "2600203",
+  "latitude": "-8.7135869",
+  "longitude": "-40.9205616"
 }

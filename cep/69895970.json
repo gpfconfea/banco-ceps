@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guajará",
   "uf": "AM",
-  "ibge": "1301654"
+  "ibge": "1301654",
+  "latitude": "-2.62325",
+  "longitude": "-60.93914"
 }

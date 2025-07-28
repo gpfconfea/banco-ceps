@@ -1,9 +1,11 @@
 {
   "cep": "99975970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João Bosco",
   "localidade": "Ciríaco",
   "uf": "RS",
-  "ibge": "4305504"
+  "ibge": "4305504",
+  "latitude": "-5.2509747",
+  "longitude": "-47.8198593"
 }

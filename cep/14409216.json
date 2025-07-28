@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Nova Franca",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5058981",
+  "longitude": "-47.3944259"
 }

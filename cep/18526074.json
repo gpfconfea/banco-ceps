@@ -5,5 +5,7 @@
   "bairro": "Nova Cerquilho",
   "localidade": "Cerquilho",
   "uf": "SP",
-  "ibge": "3511508"
+  "ibge": "3511508",
+  "latitude": "-23.16606",
+  "longitude": "-47.75537"
 }

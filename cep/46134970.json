@@ -1,9 +1,11 @@
 {
   "cep": "46134970",
   "logradouro": "Rua do Povoado de Piabanha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Piabanha",
   "localidade": "Aracatu",
   "uf": "BA",
-  "ibge": "2902005"
+  "ibge": "2902005",
+  "latitude": "-14.22724",
+  "longitude": "-39.4049"
 }

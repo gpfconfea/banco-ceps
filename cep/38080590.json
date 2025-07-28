@@ -5,5 +5,7 @@
   "bairro": "Residencial Estados Unidos",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.7376867",
+  "longitude": "-47.9110398"
 }

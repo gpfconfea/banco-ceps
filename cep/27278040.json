@@ -5,5 +5,7 @@
   "bairro": "Vale Verde",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-26.3663024",
+  "longitude": "-48.7064016"
 }

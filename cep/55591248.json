@@ -6,5 +6,7 @@
   "bairro": "Bela Vista",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.09587",
+  "longitude": "-34.93612"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44955970",
   "logradouro": "Praça Neci Novaes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Hidrolândia",
   "localidade": "Uibaí",
   "uf": "BA",
-  "ibge": "2932408"
+  "ibge": "2932408",
+  "latitude": "-11.3016403",
+  "longitude": "-41.8607753"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Granjeiro",
   "uf": "CE",
-  "ibge": "2304806"
+  "ibge": "2304806",
+  "latitude": "-6.8898563",
+  "longitude": "-39.2174509"
 }

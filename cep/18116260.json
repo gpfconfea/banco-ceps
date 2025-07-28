@@ -5,5 +5,7 @@
   "bairro": "Residencial Vasques Martins",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5533715",
+  "longitude": "-47.455671"
 }

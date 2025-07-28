@@ -5,5 +5,7 @@
   "bairro": "Dic VI (Conjunto Habitacional Santo Dias Silva)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9764783",
+  "longitude": "-47.1268681"
 }

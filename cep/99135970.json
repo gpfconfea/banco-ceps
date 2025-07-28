@@ -1,9 +1,11 @@
 {
   "cep": "99135970",
   "logradouro": "Estrada da Bela Vista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bela Vista",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "latitude": "-27.6534283",
+  "longitude": "-51.6918877"
 }

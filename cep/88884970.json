@@ -1,9 +1,11 @@
 {
   "cep": "88884970",
   "logradouro": "Rua Chapecó",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guatá",
   "localidade": "Lauro Müller",
   "uf": "SC",
-  "ibge": "4209607"
+  "ibge": "4209607",
+  "latitude": "-27.1104887",
+  "longitude": "-52.6197412"
 }

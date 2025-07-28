@@ -1,9 +1,11 @@
 {
   "cep": "85160971",
   "logradouro": "Rua Dom Pedro II",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cantagalo",
   "uf": "PR",
-  "ibge": "4104451"
+  "ibge": "4104451",
+  "latitude": "-25.378656",
+  "longitude": "-52.1240136"
 }

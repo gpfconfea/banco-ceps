@@ -5,5 +5,7 @@
   "bairro": "Residencial Green Ville II",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.3015163",
+  "longitude": "-47.6388664"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cigarras",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "latitude": "-23.73329",
+  "longitude": "-45.40282"
 }

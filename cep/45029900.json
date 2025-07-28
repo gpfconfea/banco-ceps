@@ -1,9 +1,11 @@
 {
   "cep": "45029900",
   "logradouro": "Rua Hormindo Barros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Candeias",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-14.8755822",
+  "longitude": "-40.810456"
 }

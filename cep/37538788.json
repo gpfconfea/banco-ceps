@@ -5,5 +5,7 @@
   "bairro": "Jardim Beira Rio",
   "localidade": "Santa Rita do Sapucaí",
   "uf": "MG",
-  "ibge": "3159605"
+  "ibge": "3159605",
+  "latitude": "-22.2462155",
+  "longitude": "-45.7169144"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "13504972",
   "logradouro": "Rua 1",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Batovi",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "latitude": "-22.4036297",
+  "longitude": "-47.6024315"
 }

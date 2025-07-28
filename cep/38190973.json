@@ -1,9 +1,11 @@
 {
   "cep": "38190973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Sacramento",
   "uf": "MG",
-  "ibge": "3156908"
+  "ibge": "3156908",
+  "latitude": "-19.953847",
+  "longitude": "-43.9442564"
 }

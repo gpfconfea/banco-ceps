@@ -5,5 +5,7 @@
   "bairro": "Vila Casa Branca",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-23.6019896",
+  "longitude": "-46.5997111"
 }

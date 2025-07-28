@@ -5,5 +5,7 @@
   "bairro": "Green Park",
   "localidade": "Sorriso",
   "uf": "MT",
-  "ibge": "5107925"
+  "ibge": "5107925",
+  "latitude": "-12.5280844",
+  "longitude": "-55.7271114"
 }

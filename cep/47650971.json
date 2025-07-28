@@ -1,9 +1,11 @@
 {
   "cep": "47650971",
   "logradouro": "Rua Antônio Lopes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Correntina",
   "uf": "BA",
-  "ibge": "2909307"
+  "ibge": "2909307",
+  "latitude": "-13.435742",
+  "longitude": "-44.4979742"
 }

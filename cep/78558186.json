@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Catarina",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "latitude": "-27.81971",
+  "longitude": "-50.32099"
 }

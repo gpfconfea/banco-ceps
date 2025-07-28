@@ -5,5 +5,7 @@
   "bairro": "Brigadeiro Tobias",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.499347",
+  "longitude": "-47.3746699"
 }

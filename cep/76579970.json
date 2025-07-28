@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Alto Horizonte",
   "uf": "GO",
-  "ibge": "5200555"
+  "ibge": "5200555",
+  "latitude": "-14.1966281",
+  "longitude": "-49.3397658"
 }

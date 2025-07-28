@@ -5,5 +5,7 @@
   "bairro": "Neves",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "latitude": "-25.06452",
+  "longitude": "-50.19974"
 }

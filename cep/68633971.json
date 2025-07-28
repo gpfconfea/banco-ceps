@@ -1,9 +1,11 @@
 {
   "cep": "68633971",
   "logradouro": "Rodovia BR-316",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Dom Eliseu",
   "uf": "PA",
-  "ibge": "1502939"
+  "ibge": "1502939",
+  "latitude": "-4.0363364",
+  "longitude": "-47.5447234"
 }

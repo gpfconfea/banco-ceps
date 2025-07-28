@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marliéria",
   "uf": "MG",
-  "ibge": "3140308"
+  "ibge": "3140308",
+  "latitude": "-19.6347419",
+  "longitude": "-42.6228704"
 }

@@ -5,5 +5,7 @@
   "bairro": "Aberta dos Morros",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.1525513",
+  "longitude": "-51.2036648"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Fátima",
   "localidade": "Hidrolândia",
   "uf": "GO",
-  "ibge": "5209705"
+  "ibge": "5209705",
+  "latitude": "-16.9062298",
+  "longitude": "-49.3266077"
 }

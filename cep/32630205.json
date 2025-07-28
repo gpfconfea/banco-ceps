@@ -5,5 +5,7 @@
   "bairro": "Aroeiras",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9850408",
+  "longitude": "-44.205331"
 }

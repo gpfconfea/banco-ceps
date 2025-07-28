@@ -5,5 +5,7 @@
   "bairro": "Jardim Campestre",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.578146",
+  "longitude": "-46.3276631"
 }

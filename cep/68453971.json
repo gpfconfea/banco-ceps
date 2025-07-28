@@ -1,9 +1,11 @@
 {
   "cep": "68453971",
   "logradouro": "Vila Cairari",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cairari",
   "localidade": "Moju",
   "uf": "PA",
-  "ibge": "1504703"
+  "ibge": "1504703",
+  "latitude": "-3.12934",
+  "longitude": "-48.94675"
 }

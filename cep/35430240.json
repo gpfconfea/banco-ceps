@@ -5,5 +5,7 @@
   "bairro": "Jardim",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.4042478",
+  "longitude": "-42.8897587"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Moderna",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "latitude": "-22.476117",
+  "longitude": "-44.4505672"
 }

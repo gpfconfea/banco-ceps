@@ -1,9 +1,11 @@
 {
   "cep": "95578980",
   "logradouro": "Estrada do Costão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Costão",
   "localidade": "Morrinhos do Sul",
   "uf": "RS",
-  "ibge": "4312443"
+  "ibge": "4312443",
+  "latitude": "-29.2852145",
+  "longitude": "-49.9408135"
 }

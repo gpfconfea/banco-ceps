@@ -5,5 +5,7 @@
   "bairro": "Parque Aristocrático Viracopos",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0445467",
+  "longitude": "-47.1722051"
 }

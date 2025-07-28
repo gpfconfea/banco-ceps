@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Urucuia",
   "uf": "MG",
-  "ibge": "3170529"
+  "ibge": "3170529",
+  "latitude": "-16.125052",
+  "longitude": "-45.7411124"
 }

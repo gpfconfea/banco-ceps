@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.1569816",
+  "longitude": "-49.9544117"
 }

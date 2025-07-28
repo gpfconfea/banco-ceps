@@ -5,5 +5,7 @@
   "bairro": "Valongo",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-23.9327117",
+  "longitude": "-46.3380581"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial São Domingos II",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-20.48096",
+  "longitude": "-47.41878"
 }

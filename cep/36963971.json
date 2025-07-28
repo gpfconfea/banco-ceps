@@ -1,9 +1,11 @@
 {
   "cep": "36963971",
   "logradouro": "Rua Cooperativa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra da Figueira",
   "localidade": "Pocrane",
   "uf": "MG",
-  "ibge": "3151909"
+  "ibge": "3151909",
+  "latitude": "-19.5988151",
+  "longitude": "-41.5605635"
 }

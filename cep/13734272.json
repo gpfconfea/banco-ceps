@@ -5,5 +5,7 @@
   "bairro": "Residencial Samambaia",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4612674",
+  "longitude": "-46.993106"
 }

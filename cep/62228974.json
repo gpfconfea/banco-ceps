@@ -1,9 +1,11 @@
 {
   "cep": "62228974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cachoeira Grande",
   "localidade": "Poranga",
   "uf": "CE",
-  "ibge": "2311009"
+  "ibge": "2311009",
+  "latitude": "-3.72306",
+  "longitude": "-38.76414"
 }

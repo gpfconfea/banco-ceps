@@ -5,5 +5,7 @@
   "bairro": "Prado",
   "localidade": "Paracatu",
   "uf": "MG",
-  "ibge": "3147006"
+  "ibge": "3147006",
+  "latitude": "-17.2247214",
+  "longitude": "-46.8878888"
 }

@@ -5,5 +5,7 @@
   "bairro": "Monte Cristo",
   "localidade": "Conselheiro Lafaiete",
   "uf": "MG",
-  "ibge": "3118304"
+  "ibge": "3118304",
+  "latitude": "-19.9166376",
+  "longitude": "-43.8830145"
 }

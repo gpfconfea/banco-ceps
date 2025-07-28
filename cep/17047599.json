@@ -5,5 +5,7 @@
   "bairro": "Jardim Colonial",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3478065",
+  "longitude": "-49.0354025"
 }

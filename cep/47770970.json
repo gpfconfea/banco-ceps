@@ -1,9 +1,11 @@
 {
   "cep": "47770970",
   "logradouro": "Praça Principal do Distrito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mariquita",
   "localidade": "Tabocas do Brejo Velho",
   "uf": "BA",
-  "ibge": "2930907"
+  "ibge": "2930907",
+  "latitude": "-12.703073",
+  "longitude": "-44.0078478"
 }

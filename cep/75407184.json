@@ -5,5 +5,7 @@
   "bairro": "Jardim Raio de Sol",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.4627046",
+  "longitude": "-49.9369254"
 }

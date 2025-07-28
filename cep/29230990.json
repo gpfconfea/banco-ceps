@@ -1,9 +1,11 @@
 {
   "cep": "29230990",
   "logradouro": "Avenida Dom Helvécio Gomes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Anchieta",
   "uf": "ES",
-  "ibge": "3200409"
+  "ibge": "3200409",
+  "latitude": "-20.8300138",
+  "longitude": "-40.6935235"
 }

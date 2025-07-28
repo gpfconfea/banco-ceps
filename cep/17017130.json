@@ -5,5 +5,7 @@
   "bairro": "Vila Mariana",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3402409",
+  "longitude": "-49.0645534"
 }

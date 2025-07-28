@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João do Triunfo",
   "uf": "PR",
-  "ibge": "4125100"
+  "ibge": "4125100",
+  "latitude": "-25.685761",
+  "longitude": "-50.2995878"
 }

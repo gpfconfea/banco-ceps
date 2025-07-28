@@ -1,9 +1,11 @@
 {
   "cep": "99550970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santana",
   "localidade": "Chapada",
   "uf": "RS",
-  "ibge": "4305306"
+  "ibge": "4305306",
+  "latitude": "-3.0958521",
+  "longitude": "-60.0297054"
 }

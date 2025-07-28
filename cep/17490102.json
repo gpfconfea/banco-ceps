@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-22.4072368",
+  "longitude": "-49.1305947"
 }

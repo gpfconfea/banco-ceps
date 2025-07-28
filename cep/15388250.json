@@ -6,5 +6,7 @@
   "bairro": "Santa Catarina",
   "localidade": "Ilha Solteira",
   "uf": "SP",
-  "ibge": "3520442"
+  "ibge": "3520442",
+  "latitude": "-20.43655",
+  "longitude": "-51.34832"
 }

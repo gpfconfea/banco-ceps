@@ -5,5 +5,7 @@
   "bairro": "Vila Washington Beleza",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "latitude": "-23.5649442",
+  "longitude": "-46.5104154"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68503902",
   "logradouro": "Avenida Minas Gerais",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Belo Horizonte",
   "localidade": "Marabá",
   "uf": "PA",
-  "ibge": "1504208"
+  "ibge": "1504208",
+  "latitude": "-5.370287",
+  "longitude": "-49.1085325"
 }

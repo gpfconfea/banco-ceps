@@ -5,5 +5,7 @@
   "bairro": "Alphaville Graciosa",
   "localidade": "Pinhais",
   "uf": "PR",
-  "ibge": "4119152"
+  "ibge": "4119152",
+  "latitude": "-25.4058752",
+  "longitude": "-49.1596188"
 }

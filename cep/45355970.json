@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Apuarema",
   "uf": "BA",
-  "ibge": "2901957"
+  "ibge": "2901957",
+  "latitude": "-13.8578732",
+  "longitude": "-39.7444437"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Cleonice",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5896864",
+  "longitude": "-46.5360333"
 }

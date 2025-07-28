@@ -5,5 +5,7 @@
   "bairro": "Ribeirão",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-23.724791",
+  "longitude": "-46.569637"
 }

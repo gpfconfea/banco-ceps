@@ -5,5 +5,7 @@
   "bairro": "Vila Bela",
   "localidade": "Sorriso",
   "uf": "MT",
-  "ibge": "5107925"
+  "ibge": "5107925",
+  "latitude": "-12.56482",
+  "longitude": "-55.71059"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial I",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.3409383",
+  "longitude": "-52.1156216"
 }

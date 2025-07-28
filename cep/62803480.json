@@ -6,5 +6,7 @@
   "bairro": "Tanque Salgado",
   "localidade": "Aracati",
   "uf": "CE",
-  "ibge": "2301109"
+  "ibge": "2301109",
+  "latitude": "-4.59116",
+  "longitude": "-37.73409"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lavrinhas",
   "uf": "SP",
-  "ibge": "3526605"
+  "ibge": "3526605",
+  "latitude": "-22.5705781",
+  "longitude": "-44.9031585"
 }

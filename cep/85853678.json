@@ -6,5 +6,7 @@
   "bairro": "São Roque",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.5521731",
+  "longitude": "-54.5345561"
 }

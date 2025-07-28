@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-17.8026525",
+  "longitude": "-50.5836698"
 }

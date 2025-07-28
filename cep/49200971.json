@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Estância",
   "uf": "SE",
-  "ibge": "2802106"
+  "ibge": "2802106",
+  "latitude": "-11.241049",
+  "longitude": "-37.4214724"
 }

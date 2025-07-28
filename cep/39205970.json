@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Três Marias",
   "uf": "MG",
-  "ibge": "3169356"
+  "ibge": "3169356",
+  "latitude": "-18.2055767",
+  "longitude": "-45.2276227"
 }

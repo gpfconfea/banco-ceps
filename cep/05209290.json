@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Recanto dos Humildes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4153397",
+  "longitude": "-46.7498892"
 }

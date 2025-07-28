@@ -5,5 +5,7 @@
   "bairro": "Jardim São Savério",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4328175",
+  "longitude": "-47.2715705"
 }

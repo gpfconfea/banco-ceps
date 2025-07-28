@@ -5,5 +5,7 @@
   "bairro": "Itaum",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-23.0014354",
+  "longitude": "-45.5623619"
 }

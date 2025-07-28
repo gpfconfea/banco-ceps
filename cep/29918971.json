@@ -1,9 +1,11 @@
 {
   "cep": "29918971",
   "logradouro": "Rua Jacinto Marchiori",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Rafael",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.40277",
+  "longitude": "-40.3260932"
 }

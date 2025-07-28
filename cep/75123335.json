@@ -5,5 +5,7 @@
   "bairro": "Jardim Gonçalves",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3505361",
+  "longitude": "-48.9581336"
 }

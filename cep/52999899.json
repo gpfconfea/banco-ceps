@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Recife",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0470314",
+  "longitude": "-35.1480572"
 }

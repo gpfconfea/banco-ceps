@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora Aparecida",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "latitude": "-21.74597",
+  "longitude": "-43.34836"
 }

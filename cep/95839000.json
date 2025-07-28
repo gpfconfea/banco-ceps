@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Mato Leitão",
   "uf": "RS",
-  "ibge": "4312153"
+  "ibge": "4312153",
+  "latitude": "-29.5500283",
+  "longitude": "-52.1371847"
 }

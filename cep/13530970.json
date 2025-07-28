@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itirapina",
   "uf": "SP",
-  "ibge": "3523602"
+  "ibge": "3523602",
+  "latitude": "-22.2531033",
+  "longitude": "-47.8140237"
 }

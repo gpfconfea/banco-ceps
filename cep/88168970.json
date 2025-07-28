@@ -1,9 +1,11 @@
 {
   "cep": "88168970",
   "logradouro": "Rua Hermínio Silvy",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tijuquinhas (Guaporanga)",
   "localidade": "Biguaçu",
   "uf": "SC",
-  "ibge": "4202305"
+  "ibge": "4202305",
+  "latitude": "-27.4267165",
+  "longitude": "-48.6253398"
 }

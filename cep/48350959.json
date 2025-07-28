@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aporá",
   "uf": "BA",
-  "ibge": "2901908"
+  "ibge": "2901908",
+  "latitude": "-11.66021",
+  "longitude": "-38.08065"
 }

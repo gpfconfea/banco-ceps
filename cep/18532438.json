@@ -6,5 +6,7 @@
   "bairro": "Residencial Terra Nova",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-21.172",
+  "longitude": "-50.43581"
 }

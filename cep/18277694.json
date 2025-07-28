@@ -5,5 +5,7 @@
   "bairro": "Jardim Lageado",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.53203",
+  "longitude": "-46.42007"
 }

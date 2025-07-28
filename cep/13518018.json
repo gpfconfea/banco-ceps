@@ -5,5 +5,7 @@
   "bairro": "Recanto Bela Vista",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-23.5575",
+  "longitude": "-46.64362"
 }

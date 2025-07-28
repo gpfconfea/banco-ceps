@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Presidente Dutra",
   "uf": "MA",
-  "ibge": "2109106"
+  "ibge": "2109106",
+  "latitude": "-5.289801",
+  "longitude": "-44.49498"
 }

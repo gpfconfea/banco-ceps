@@ -5,5 +5,7 @@
   "bairro": "Residencial Jequitibá",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.0637858",
+  "longitude": "-45.7141859"
 }

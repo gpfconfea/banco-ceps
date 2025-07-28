@@ -5,5 +5,7 @@
   "bairro": "Barra do Pari",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.051636",
+  "longitude": "-57.1821601"
 }

@@ -5,5 +5,7 @@
   "bairro": "Timbu",
   "localidade": "Eusébio",
   "uf": "CE",
-  "ibge": "2304285"
+  "ibge": "2304285",
+  "latitude": "-3.8660253",
+  "longitude": "-38.431739"
 }

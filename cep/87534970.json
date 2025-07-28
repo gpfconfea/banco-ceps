@@ -1,9 +1,11 @@
 {
   "cep": "87534970",
   "logradouro": "Avenida Recife",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Rica do Ivaí",
   "localidade": "Icaraíma",
   "uf": "PR",
-  "ibge": "4109906"
+  "ibge": "4109906",
+  "latitude": "-23.2925223",
+  "longitude": "-53.5533836"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vargem do Bom Jesus",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-26.8583205",
+  "longitude": "-49.0517025"
 }
