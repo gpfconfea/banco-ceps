@@ -1,9 +1,11 @@
 {
   "cep": "29455980",
   "logradouro": "Rua Manoel da Silva Araújo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "José Carlos",
   "localidade": "Apiacá",
   "uf": "ES",
-  "ibge": "3200508"
+  "ibge": "3200508",
+  "latitude": "-21.1476178",
+  "longitude": "-41.6210415"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Funilândia",
   "uf": "MG",
-  "ibge": "3127206"
+  "ibge": "3127206",
+  "latitude": "-19.36897",
+  "longitude": "-44.05887"
 }

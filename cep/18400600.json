@@ -5,5 +5,7 @@
   "bairro": "Jardim Doutor Pinheiro",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-23.9789121",
+  "longitude": "-48.8746387"
 }

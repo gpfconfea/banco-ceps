@@ -5,5 +5,7 @@
   "bairro": "Cidade Martins",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4315364",
+  "longitude": "-46.512236"
 }

@@ -5,5 +5,7 @@
   "bairro": "Condominio Residencial Real Ville",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-22.9495504",
+  "longitude": "-45.4883079"
 }

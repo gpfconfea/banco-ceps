@@ -5,5 +5,7 @@
   "bairro": "Jardim Columbia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0309362",
+  "longitude": "-47.1273395"
 }

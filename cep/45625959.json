@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barro Preto",
   "uf": "BA",
-  "ibge": "2903300"
+  "ibge": "2903300",
+  "latitude": "-14.81001",
+  "longitude": "-39.47351"
 }

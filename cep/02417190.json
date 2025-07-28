@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4760192",
+  "longitude": "-46.628678"
 }

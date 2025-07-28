@@ -5,5 +5,7 @@
   "bairro": "Jardim Maravilha",
   "localidade": "Uru",
   "uf": "SP",
-  "ibge": "3555901"
+  "ibge": "3555901",
+  "latitude": "-21.78809",
+  "longitude": "-49.28105"
 }

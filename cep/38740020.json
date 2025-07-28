@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "latitude": "-19.7734954",
+  "longitude": "-43.9370875"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "79442970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bom Fim",
   "localidade": "Jaraguari",
   "uf": "MS",
-  "ibge": "5004908"
+  "ibge": "5004908",
+  "latitude": "-20.5567372",
+  "longitude": "-54.6000015"
 }

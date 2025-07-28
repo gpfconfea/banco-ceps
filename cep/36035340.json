@@ -5,5 +5,7 @@
   "bairro": "Democrata",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.750145",
+  "longitude": "-43.3674697"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial e Comercial Guarulhos",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.422372",
+  "longitude": "-46.5278319"
 }

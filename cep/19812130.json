@@ -5,5 +5,7 @@
   "bairro": "Centro de Desenvolvimento de Assis",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-22.636181",
+  "longitude": "-50.3926614"
 }

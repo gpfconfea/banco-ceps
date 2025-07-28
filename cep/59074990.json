@@ -1,9 +1,11 @@
 {
   "cep": "59074990",
   "logradouro": "Rua da Lagoa Nova - Guarapes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-5.84107",
+  "longitude": "-35.27498"
 }

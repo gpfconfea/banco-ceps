@@ -1,9 +1,11 @@
 {
   "cep": "46530970",
   "logradouro": "Avenida Ulisses Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barreiro",
   "localidade": "Boquira",
   "uf": "BA",
-  "ibge": "2904100"
+  "ibge": "2904100",
+  "latitude": "-12.819099",
+  "longitude": "-42.7268405"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mimoso do Sul",
   "uf": "ES",
-  "ibge": "3203403"
+  "ibge": "3203403",
+  "latitude": "-21.0636703",
+  "longitude": "-41.3629428"
 }

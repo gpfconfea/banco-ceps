@@ -1,9 +1,11 @@
 {
   "cep": "46455970",
   "logradouro": "Avenida Santa Cruz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mandiroba",
   "localidade": "Sebastião Laranjeiras",
   "uf": "BA",
-  "ibge": "2930006"
+  "ibge": "2930006",
+  "latitude": "-14.4878594",
+  "longitude": "-43.035531"
 }

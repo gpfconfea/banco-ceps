@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Votorantim C",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5514789",
+  "longitude": "-47.4355487"
 }

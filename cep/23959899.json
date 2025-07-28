@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Angra dos Reis",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "latitude": "-23.00836",
+  "longitude": "-44.355382"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Duartina",
   "uf": "SP",
-  "ibge": "3514502"
+  "ibge": "3514502",
+  "latitude": "-22.412979",
+  "longitude": "-49.4053537"
 }

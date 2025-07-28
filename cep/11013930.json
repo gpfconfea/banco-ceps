@@ -1,9 +1,11 @@
 {
   "cep": "11013930",
   "logradouro": "Praça Iguatemi Martins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Nova",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-23.9403266",
+  "longitude": "-46.3187541"
 }

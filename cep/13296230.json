@@ -6,5 +6,7 @@
   "bairro": "Residencial Village Morro Alto",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.1823083",
+  "longitude": "-47.0657939"
 }

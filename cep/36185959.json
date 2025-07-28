@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Silverânia",
   "uf": "MG",
-  "ibge": "3167301"
+  "ibge": "3167301",
+  "latitude": "-19.91399",
+  "longitude": "-43.94071"
 }

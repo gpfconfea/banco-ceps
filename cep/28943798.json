@@ -5,5 +5,7 @@
   "bairro": "Porto do Carro",
   "localidade": "São Pedro da Aldeia",
   "uf": "RJ",
-  "ibge": "3305208"
+  "ibge": "3305208",
+  "latitude": "-22.8466243",
+  "longitude": "-42.0452927"
 }

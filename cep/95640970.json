@@ -5,5 +5,7 @@
   "bairro": "Santa Cristina do Pinhal",
   "localidade": "Parobé",
   "uf": "RS",
-  "ibge": "4314050"
+  "ibge": "4314050",
+  "latitude": "-29.6635339",
+  "longitude": "-50.7629686"
 }

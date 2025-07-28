@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Marsilac",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5178732",
+  "longitude": "-47.1306085"
 }

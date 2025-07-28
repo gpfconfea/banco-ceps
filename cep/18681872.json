@@ -5,5 +5,7 @@
   "bairro": "Jardim João Paccola",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-22.6050455",
+  "longitude": "-48.7876099"
 }

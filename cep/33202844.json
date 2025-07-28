@@ -5,5 +5,7 @@
   "bairro": "Pouso Alegre",
   "localidade": "Vespasiano",
   "uf": "MG",
-  "ibge": "3171204"
+  "ibge": "3171204",
+  "latitude": "-19.7605949",
+  "longitude": "-43.9456377"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Oriente",
   "localidade": "Adamantina",
   "uf": "SP",
-  "ibge": "3500105"
+  "ibge": "3500105",
+  "latitude": "-21.682",
+  "longitude": "-51.06713"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Toledo",
   "uf": "MG",
-  "ibge": "3169109"
+  "ibge": "3169109",
+  "latitude": "-22.7421874",
+  "longitude": "-46.3717555"
 }

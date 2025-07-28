@@ -5,5 +5,7 @@
   "bairro": "Campo Verde",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-20.288358",
+  "longitude": "-40.40169"
 }

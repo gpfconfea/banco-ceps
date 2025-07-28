@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João Batista do Glória",
   "uf": "MG",
-  "ibge": "3162203"
+  "ibge": "3162203",
+  "latitude": "-20.6380784",
+  "longitude": "-46.5061846"
 }

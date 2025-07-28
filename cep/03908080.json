@@ -5,5 +5,7 @@
   "bairro": "Vila Alzira",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5820402",
+  "longitude": "-46.5043042"
 }

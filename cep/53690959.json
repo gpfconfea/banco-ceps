@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araçoiaba",
   "uf": "PE",
-  "ibge": "2601052"
+  "ibge": "2601052",
+  "latitude": "-7.789042",
+  "longitude": "-35.0908872"
 }

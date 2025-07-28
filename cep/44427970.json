@@ -1,9 +1,11 @@
 {
   "cep": "44427970",
   "logradouro": "Praça Doutor Aníbal Seixas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nagé",
   "localidade": "Maragogipe",
   "uf": "BA",
-  "ibge": "2920601"
+  "ibge": "2920601",
+  "latitude": "-12.72533",
+  "longitude": "-38.93375"
 }

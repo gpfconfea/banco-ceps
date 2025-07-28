@@ -5,5 +5,7 @@
   "bairro": "Chácara Doutor Hipólito",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0332011",
+  "longitude": "-45.5560475"
 }

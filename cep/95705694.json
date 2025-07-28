@@ -5,5 +5,7 @@
   "bairro": "COHAB",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.155262",
+  "longitude": "-51.50366"
 }

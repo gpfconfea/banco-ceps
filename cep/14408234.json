@@ -5,5 +5,7 @@
   "bairro": "Jardim Natal I",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.50414",
+  "longitude": "-47.42923"
 }

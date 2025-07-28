@@ -6,5 +6,7 @@
   "bairro": "Bairro Novo do Carmelo",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "latitude": "-8.0201702",
+  "longitude": "-34.9802164"
 }

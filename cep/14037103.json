@@ -5,5 +5,7 @@
   "bairro": "Reserva San Gabriel",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.15116",
+  "longitude": "-47.85367"
 }

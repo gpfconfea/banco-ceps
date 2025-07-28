@@ -1,9 +1,11 @@
 {
   "cep": "45328970",
   "logradouro": "Rua da Torre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serrana",
   "localidade": "Brejões",
   "uf": "BA",
-  "ibge": "2904308"
+  "ibge": "2904308",
+  "latitude": "-13.0717172",
+  "longitude": "-39.9590889"
 }

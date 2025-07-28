@@ -1,9 +1,11 @@
 {
   "cep": "13301913",
   "logradouro": "Estrada Velha de Itu à Salto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Liberdade",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2271749",
+  "longitude": "-47.3018708"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "84460971",
   "logradouro": "Rua Antônio Raimundo Kuminese",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ivaí",
   "uf": "PR",
-  "ibge": "4111407"
+  "ibge": "4111407",
+  "latitude": "-24.9449414",
+  "longitude": "-50.8872648"
 }

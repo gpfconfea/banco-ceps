@@ -1,9 +1,11 @@
 {
   "cep": "18013900",
   "logradouro": "Avenida Engenheiro Carlos Reinaldo Mendes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim do Paço",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4713162",
+  "longitude": "-47.4232833"
 }

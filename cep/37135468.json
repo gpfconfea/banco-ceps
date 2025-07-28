@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-22.4268534",
+  "longitude": "-46.9638617"
 }

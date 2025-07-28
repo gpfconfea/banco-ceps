@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-20.1765537",
+  "longitude": "-44.8787775"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-16.74501",
+  "longitude": "-49.28226"
 }

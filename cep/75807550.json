@@ -5,5 +5,7 @@
   "bairro": "Setor Brasília",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "latitude": "-17.8756973",
+  "longitude": "-51.6908174"
 }

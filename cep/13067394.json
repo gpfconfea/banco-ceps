@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Padre Josimo",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8650719",
+  "longitude": "-47.1469261"
 }

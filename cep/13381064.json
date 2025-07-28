@@ -5,5 +5,7 @@
   "bairro": "Bosque dos Eucaliptos",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.8011939",
+  "longitude": "-47.3156385"
 }

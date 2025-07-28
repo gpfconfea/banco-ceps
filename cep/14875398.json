@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Pedro Bedim",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "latitude": "-23.5728216",
+  "longitude": "-46.5877427"
 }

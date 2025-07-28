@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Riachinho",
   "uf": "MG",
-  "ibge": "3154457"
+  "ibge": "3154457",
+  "latitude": "-18.86628",
+  "longitude": "-41.95385"
 }

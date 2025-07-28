@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palmares",
   "uf": "PE",
-  "ibge": "2610004"
+  "ibge": "2610004",
+  "latitude": "-8.7079329",
+  "longitude": "-35.520564"
 }

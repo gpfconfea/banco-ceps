@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Flórida",
   "uf": "PR",
-  "ibge": "4108106"
+  "ibge": "4108106",
+  "latitude": "-23.1071118",
+  "longitude": "-51.9474346"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Sadokim",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4047415",
+  "longitude": "-46.386901"
 }

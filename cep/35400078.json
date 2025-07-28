@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.3853464",
+  "longitude": "-43.5046584"
 }

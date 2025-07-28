@@ -1,9 +1,11 @@
 {
   "cep": "11573903",
   "logradouro": "Rodovia Cônego Domênico Rangoni",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Zona Industrial",
   "localidade": "Cubatão",
   "uf": "SP",
-  "ibge": "3513504"
+  "ibge": "3513504",
+  "latitude": "-23.8572246",
+  "longitude": "-46.3607737"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera (Iguatemi)",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3745403",
+  "longitude": "-52.066557"
 }

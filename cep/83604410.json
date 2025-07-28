@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4559671",
+  "longitude": "-49.549074"
 }

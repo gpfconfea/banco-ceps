@@ -5,5 +5,7 @@
   "bairro": "Parque Esplanada",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5544203",
+  "longitude": "-47.4689967"
 }

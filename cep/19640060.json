@@ -5,5 +5,7 @@
   "bairro": "Vila Paraná",
   "localidade": "Iepê",
   "uf": "SP",
-  "ibge": "3519907"
+  "ibge": "3519907",
+  "latitude": "-22.66233",
+  "longitude": "-51.0693"
 }

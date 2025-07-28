@@ -1,9 +1,11 @@
 {
   "cep": "77870970",
   "logradouro": "Rua Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Babaçulândia",
   "uf": "TO",
-  "ibge": "1703008"
+  "ibge": "1703008",
+  "latitude": "-7.2033564",
+  "longitude": "-47.7587586"
 }

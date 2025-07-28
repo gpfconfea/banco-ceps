@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Jardim Vitória",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-23.5494752",
+  "longitude": "-46.6423631"
 }

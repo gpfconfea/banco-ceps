@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Elisa",
   "localidade": "Tabatinga",
   "uf": "SP",
-  "ibge": "3552700"
+  "ibge": "3552700",
+  "latitude": "-21.73337",
+  "longitude": "-48.70018"
 }

@@ -6,5 +6,7 @@
   "bairro": "Distrito Industrial de Capivari - Corte Preto",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-22.995413",
+  "longitude": "-47.4742246"
 }

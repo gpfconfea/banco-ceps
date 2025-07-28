@@ -5,5 +5,7 @@
   "bairro": "Gopoúva",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.467974",
+  "longitude": "-46.543785"
 }

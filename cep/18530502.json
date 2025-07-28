@@ -5,5 +5,7 @@
   "bairro": "DER",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.1235754",
+  "longitude": "-47.7128693"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Primavera II",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-23.560736",
+  "longitude": "-46.674966"
 }

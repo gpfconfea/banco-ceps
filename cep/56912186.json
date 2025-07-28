@@ -5,5 +5,7 @@
   "bairro": "AABB",
   "localidade": "Serra Talhada",
   "uf": "PE",
-  "ibge": "2613909"
+  "ibge": "2613909",
+  "latitude": "-7.9926078",
+  "longitude": "-38.285253"
 }

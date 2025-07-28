@@ -1,9 +1,11 @@
 {
   "cep": "39700972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Peçanha",
   "uf": "MG",
-  "ibge": "3148608"
+  "ibge": "3148608",
+  "latitude": "-18.6433457",
+  "longitude": "-42.680857"
 }

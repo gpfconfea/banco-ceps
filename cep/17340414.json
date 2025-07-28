@@ -6,5 +6,7 @@
   "bairro": "Núcleo Habitacional de Barra Bonita",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.49033",
+  "longitude": "-48.55112"
 }

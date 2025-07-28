@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.7136329",
+  "longitude": "-49.0939471"
 }

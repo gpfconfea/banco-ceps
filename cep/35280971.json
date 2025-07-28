@@ -1,9 +1,11 @@
 {
   "cep": "35280971",
   "logradouro": "Avenida Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itabirinha",
   "uf": "MG",
-  "ibge": "3131802"
+  "ibge": "3131802",
+  "latitude": "-18.5687973",
+  "longitude": "-41.2343254"
 }

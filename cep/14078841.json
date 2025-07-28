@@ -5,5 +5,7 @@
   "bairro": "Esplanada da Estação",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-22.8901277",
+  "longitude": "-46.9426912"
 }

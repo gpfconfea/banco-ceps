@@ -5,5 +5,7 @@
   "bairro": "Residencial Casablanca",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-22.4247883",
+  "longitude": "-46.9481894"
 }

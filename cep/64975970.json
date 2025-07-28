@@ -1,9 +1,11 @@
 {
   "cep": "64975970",
   "logradouro": "Rua Projetada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Riacho Frio",
   "uf": "PI",
-  "ibge": "2208858"
+  "ibge": "2208858",
+  "latitude": "-10.1259575",
+  "longitude": "-44.9521088"
 }

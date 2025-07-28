@@ -1,9 +1,11 @@
 {
   "cep": "55415971",
   "logradouro": "Rua Francisco Rodrigues",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Quipapá",
   "uf": "PE",
-  "ibge": "2611507"
+  "ibge": "2611507",
+  "latitude": "-8.8430976",
+  "longitude": "-36.114116"
 }

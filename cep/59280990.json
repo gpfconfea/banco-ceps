@@ -1,9 +1,11 @@
 {
   "cep": "59280990",
   "logradouro": "Rua Projetada - Cajazeiras - Macaíba/RN",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Macaíba",
   "uf": "RN",
-  "ibge": "2407104"
+  "ibge": "2407104",
+  "latitude": "-6.00011",
+  "longitude": "-35.49673"
 }

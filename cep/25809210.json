@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Três Rios",
   "uf": "RJ",
-  "ibge": "3306008"
+  "ibge": "3306008",
+  "latitude": "-22.1032714",
+  "longitude": "-43.2155247"
 }

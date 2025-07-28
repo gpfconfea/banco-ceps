@@ -1,9 +1,11 @@
 {
   "cep": "99908970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Souza Ramos",
   "localidade": "Getúlio Vargas",
   "uf": "RS",
-  "ibge": "4308904"
+  "ibge": "4308904",
+  "latitude": "-30.0046955",
+  "longitude": "-52.9176779"
 }

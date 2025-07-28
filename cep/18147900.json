@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Araçariguama",
   "uf": "SP",
-  "ibge": "3502754"
+  "ibge": "3502754",
+  "latitude": "-23.43499",
+  "longitude": "-47.06786"
 }

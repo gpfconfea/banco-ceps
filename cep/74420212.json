@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Fátima",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-18.1762469",
+  "longitude": "-47.9372283"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "59440971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serra da Tapuia",
   "localidade": "Sítio Novo",
   "uf": "RN",
-  "ibge": "2413706"
+  "ibge": "2413706",
+  "latitude": "-2.5356307",
+  "longitude": "-44.152855"
 }

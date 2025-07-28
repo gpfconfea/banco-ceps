@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Água Comprida",
   "uf": "MG",
-  "ibge": "3100708"
+  "ibge": "3100708",
+  "latitude": "-20.0569644",
+  "longitude": "-48.1065048"
 }

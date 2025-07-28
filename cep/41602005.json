@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9253791",
+  "longitude": "-38.3324363"
 }

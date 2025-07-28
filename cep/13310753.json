@@ -5,5 +5,7 @@
   "bairro": "Vila Swevia",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.3109256",
+  "longitude": "-47.3147228"
 }

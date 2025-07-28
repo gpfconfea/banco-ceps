@@ -1,9 +1,11 @@
 {
   "cep": "12570900",
   "logradouro": "Avenida Júlio Prestes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Aparecida",
   "uf": "SP",
-  "ibge": "3502507"
+  "ibge": "3502507",
+  "latitude": "-22.8475454",
+  "longitude": "-45.2360547"
 }

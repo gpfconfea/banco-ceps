@@ -5,5 +5,7 @@
   "bairro": "Monte Alegre",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-20.5272146",
+  "longitude": "-48.5716068"
 }

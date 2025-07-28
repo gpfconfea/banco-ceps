@@ -1,9 +1,11 @@
 {
   "cep": "28490970",
   "logradouro": "Rua Projetada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Monte Alegre",
   "localidade": "Santo Antônio de Pádua",
   "uf": "RJ",
-  "ibge": "3304706"
+  "ibge": "3304706",
+  "latitude": "-21.5300266",
+  "longitude": "-42.2033261"
 }

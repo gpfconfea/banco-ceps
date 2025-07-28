@@ -1,9 +1,11 @@
 {
   "cep": "44565970",
   "logradouro": "Rua do Mercado Municipal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Varzedo",
   "uf": "BA",
-  "ibge": "2933174"
+  "ibge": "2933174",
+  "latitude": "-13.7441",
+  "longitude": "-39.48964"
 }

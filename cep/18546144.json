@@ -6,5 +6,7 @@
   "bairro": "Vila Manduqinha",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.21199",
+  "longitude": "-47.50935"
 }

@@ -5,5 +5,7 @@
   "bairro": "Matozinhos",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "latitude": "-21.1337004",
+  "longitude": "-44.2345278"
 }

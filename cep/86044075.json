@@ -5,5 +5,7 @@
   "bairro": "Cristal",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.34066",
+  "longitude": "-51.1745011"
 }

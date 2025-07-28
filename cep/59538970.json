@@ -1,9 +1,11 @@
 {
   "cep": "59538970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Firmamento",
   "localidade": "Lajes",
   "uf": "RN",
-  "ibge": "2406700"
+  "ibge": "2406700",
+  "latitude": "-15.6318135",
+  "longitude": "-49.9272721"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Catarina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.746411",
+  "longitude": "-47.6597637"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "59064901",
   "logradouro": "Avenida Senador Salgado Filho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa Nova",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-5.8330332",
+  "longitude": "-35.2123123"
 }

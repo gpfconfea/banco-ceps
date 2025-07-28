@@ -5,5 +5,7 @@
   "bairro": "Jardim Riviera",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5179742",
+  "longitude": "-47.3718179"
 }

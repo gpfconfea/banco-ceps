@@ -1,9 +1,11 @@
 {
   "cep": "83251970",
   "logradouro": "Praça Central da Ilha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ilha Encantada",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.550147",
+  "longitude": "-48.298366"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mesquita",
   "uf": "MG",
-  "ibge": "3141702"
+  "ibge": "3141702",
+  "latitude": "-19.2203869",
+  "longitude": "-42.6093749"
 }

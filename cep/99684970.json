@@ -1,9 +1,11 @@
 {
   "cep": "99684970",
   "logradouro": "Estrada Linha São Marcos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Marcos Baixo",
   "localidade": "Constantina",
   "uf": "RS",
-  "ibge": "4305801"
+  "ibge": "4305801",
+  "latitude": "-28.95546",
+  "longitude": "-51.07405"
 }
