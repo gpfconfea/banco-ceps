@@ -6,5 +6,7 @@
   "bairro": "Dois Unidos",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-7.988444",
+  "longitude": "-34.9188772"
 }

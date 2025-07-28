@@ -5,5 +5,7 @@
   "bairro": "Vila Limeirânea",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5715678",
+  "longitude": "-47.42907"
 }

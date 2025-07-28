@@ -5,5 +5,7 @@
   "bairro": "Vila São Carlos",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4591841",
+  "longitude": "-46.3326633"
 }

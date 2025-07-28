@@ -5,5 +5,7 @@
   "bairro": "Vila Carmem",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3237805",
+  "longitude": "-49.0421392"
 }

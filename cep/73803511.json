@@ -5,5 +5,7 @@
   "bairro": "Sul América",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "-15.5605281",
+  "longitude": "-47.3519484"
 }

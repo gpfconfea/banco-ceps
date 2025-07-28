@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Guaíba",
   "localidade": "Guaíba",
   "uf": "RS",
-  "ibge": "4309308"
+  "ibge": "4309308",
+  "latitude": "-30.13827",
+  "longitude": "-51.31624"
 }

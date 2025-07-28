@@ -1,9 +1,11 @@
 {
   "cep": "32210905",
   "logradouro": "Praça Antônio Mourão Guimarães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cidade Industrial",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.9563648",
+  "longitude": "-44.0257875"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Rosa",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "-26.6526083",
+  "longitude": "-52.7984644"
 }

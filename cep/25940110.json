@@ -5,5 +5,7 @@
   "bairro": "Várzea Alegre",
   "localidade": "Guapimirim",
   "uf": "RJ",
-  "ibge": "3301850"
+  "ibge": "3301850",
+  "latitude": "-22.8675087",
+  "longitude": "-43.3483999"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "69700959",
   "logradouro": "Avenida Mariuá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Barcelos",
   "uf": "AM",
-  "ibge": "1300409"
+  "ibge": "1300409",
+  "latitude": "-0.9814728",
+  "longitude": "-62.9319425"
 }

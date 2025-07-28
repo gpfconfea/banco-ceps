@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Limeira",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5714629",
+  "longitude": "-47.4032799"
 }

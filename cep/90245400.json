@@ -5,5 +5,7 @@
   "bairro": "Farrapos",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-29.9842903",
+  "longitude": "-51.1946395"
 }

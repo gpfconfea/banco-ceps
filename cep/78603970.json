@@ -1,9 +1,11 @@
 {
   "cep": "78603970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Indianápolis",
   "localidade": "Barra do Garças",
   "uf": "MT",
-  "ibge": "5101803"
+  "ibge": "5101803",
+  "latitude": "-10.7833777",
+  "longitude": "-51.9924374"
 }

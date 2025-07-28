@@ -5,5 +5,7 @@
   "bairro": "Vila A B Vicentini",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2745335",
+  "longitude": "-51.1609945"
 }

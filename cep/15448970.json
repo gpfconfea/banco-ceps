@@ -1,9 +1,11 @@
 {
   "cep": "15448970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ingás",
   "localidade": "Nova Granada",
   "uf": "SP",
-  "ibge": "3533007"
+  "ibge": "3533007",
+  "latitude": "-22.2336613",
+  "longitude": "-48.7193024"
 }

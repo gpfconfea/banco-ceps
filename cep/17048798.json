@@ -5,5 +5,7 @@
   "bairro": "Residencial Village Campo Novo",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3699479",
+  "longitude": "-49.0240624"
 }

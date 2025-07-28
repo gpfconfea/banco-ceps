@@ -6,5 +6,7 @@
   "bairro": "Distrito Industrial I",
   "localidade": "Itapuí",
   "uf": "SP",
-  "ibge": "3522901"
+  "ibge": "3522901",
+  "latitude": "-22.2408315",
+  "longitude": "-48.7206241"
 }

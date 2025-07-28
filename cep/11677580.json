@@ -5,5 +5,7 @@
   "bairro": "Jardim Adalgisa",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5745945",
+  "longitude": "-45.3155806"
 }

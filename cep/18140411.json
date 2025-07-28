@@ -5,5 +5,7 @@
   "bairro": "Mont Serrat",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.550366",
+  "longitude": "-47.010616"
 }

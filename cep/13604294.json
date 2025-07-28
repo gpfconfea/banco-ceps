@@ -5,5 +5,7 @@
   "bairro": "Condomínio Palmeiras de Piratininga",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "latitude": "-17.8174567",
+  "longitude": "-50.9345417"
 }

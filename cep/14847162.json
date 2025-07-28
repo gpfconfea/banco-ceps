@@ -5,5 +5,7 @@
   "bairro": "Jardim São Bento",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.36754",
+  "longitude": "-48.23903"
 }

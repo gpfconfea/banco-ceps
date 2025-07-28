@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Dubai",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-25.53163",
+  "longitude": "-54.53684"
 }

@@ -5,5 +5,7 @@
   "bairro": "Joaquim Egídio",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "35.1750607",
+  "longitude": "-80.8488936"
 }

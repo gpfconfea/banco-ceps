@@ -1,9 +1,11 @@
 {
   "cep": "39474970",
   "logradouro": "Avenida Padre Silvestre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santana da Serra",
   "localidade": "Capitão Enéas",
   "uf": "MG",
-  "ibge": "3112703"
+  "ibge": "3112703",
+  "latitude": "-16.1212418",
+  "longitude": "-43.6910971"
 }

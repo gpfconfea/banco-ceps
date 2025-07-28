@@ -5,5 +5,7 @@
   "bairro": "Paruru",
   "localidade": "Ibiúna",
   "uf": "SP",
-  "ibge": "3519709"
+  "ibge": "3519709",
+  "latitude": "-23.6802655",
+  "longitude": "-47.3182305"
 }

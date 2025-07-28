@@ -5,5 +5,7 @@
   "bairro": "Ilha do Rio Doce",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "latitude": "-19.4790934",
+  "longitude": "-42.4731484"
 }

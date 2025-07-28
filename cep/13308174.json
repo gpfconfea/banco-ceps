@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional União",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-20.5499609",
+  "longitude": "-49.3237799"
 }

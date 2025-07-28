@@ -5,5 +5,7 @@
   "bairro": "Jardim Dom Pedro I",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-23.610495",
+  "longitude": "-46.6379302"
 }

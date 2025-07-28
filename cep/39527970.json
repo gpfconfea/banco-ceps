@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mato Verde",
   "uf": "MG",
-  "ibge": "3141009"
+  "ibge": "3141009",
+  "latitude": "-15.3938542",
+  "longitude": "-42.8614315"
 }

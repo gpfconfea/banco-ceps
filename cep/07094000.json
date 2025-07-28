@@ -5,5 +5,7 @@
   "bairro": "Vila Hulda",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4593816",
+  "longitude": "-46.5368522"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "60135900",
   "logradouro": "Praça da Imprensa Chanceler Edson Queiroz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dionisio Torres",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.7459715",
+  "longitude": "-38.5021028"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64920970",
   "logradouro": "Avenida Marcos Parente",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cristino Castro",
   "uf": "PI",
-  "ibge": "2203107"
+  "ibge": "2203107",
+  "latitude": "-8.8182662",
+  "longitude": "-44.2234154"
 }

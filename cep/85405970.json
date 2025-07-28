@@ -1,9 +1,11 @@
 {
   "cep": "85405970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Borman",
   "localidade": "Guaraniaçu",
   "uf": "PR",
-  "ibge": "4109302"
+  "ibge": "4109302",
+  "latitude": "-25.2147541",
+  "longitude": "-50.9660161"
 }

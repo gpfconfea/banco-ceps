@@ -1,9 +1,11 @@
 {
   "cep": "97642970",
   "logradouro": "Estrada da Barragem do Itu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barragem do Itu",
   "localidade": "Manoel Viana",
   "uf": "RS",
-  "ibge": "4311759"
+  "ibge": "4311759",
+  "latitude": "-29.20155",
+  "longitude": "-55.48053"
 }

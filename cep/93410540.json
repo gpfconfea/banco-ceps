@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Novo Hamburgo",
   "uf": "RS",
-  "ibge": "4313409"
+  "ibge": "4313409",
+  "latitude": "-29.6973838",
+  "longitude": "-51.1233616"
 }

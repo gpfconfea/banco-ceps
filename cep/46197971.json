@@ -1,9 +1,11 @@
 {
   "cep": "46197971",
   "logradouro": "Praça Bom Jesus",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caraíbas",
   "localidade": "Caraíbas",
   "uf": "BA",
-  "ibge": "2906899"
+  "ibge": "2906899",
+  "latitude": "-14.88953",
+  "longitude": "-41.96841"
 }

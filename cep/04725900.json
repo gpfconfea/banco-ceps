@@ -5,5 +5,7 @@
   "bairro": "Vila Elvira",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6437658",
+  "longitude": "-46.705253"
 }

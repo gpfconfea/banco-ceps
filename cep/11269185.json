@@ -5,5 +5,7 @@
   "bairro": "Canto do Itaguá",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-23.8279918",
+  "longitude": "-46.1411869"
 }

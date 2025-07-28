@@ -1,9 +1,11 @@
 {
   "cep": "64755959",
   "logradouro": "Rua Antonio Almeida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jacobina do Piauí",
   "uf": "PI",
-  "ibge": "2205151"
+  "ibge": "2205151",
+  "latitude": "-7.9334277",
+  "longitude": "-41.2099323"
 }

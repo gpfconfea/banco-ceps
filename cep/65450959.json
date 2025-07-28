@@ -1,9 +1,11 @@
 {
   "cep": "65450959",
   "logradouro": "Rua 13 de Dezembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Nina Rodrigues",
   "uf": "MA",
-  "ibge": "2107209"
+  "ibge": "2107209",
+  "latitude": "-3.39435",
+  "longitude": "-43.85194"
 }

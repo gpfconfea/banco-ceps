@@ -1,9 +1,11 @@
 {
   "cep": "65630900",
   "logradouro": "Praça São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "latitude": "-5.0984478",
+  "longitude": "-42.8242234"
 }

@@ -5,5 +5,7 @@
   "bairro": "Pouso Frio",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-22.9721393",
+  "longitude": "-45.4070172"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "13104902",
   "logradouro": "Estrada Sousas-Pedreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sousas",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8601875",
+  "longitude": "-46.9904258"
 }

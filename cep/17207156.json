@@ -5,5 +5,7 @@
   "bairro": "Vila Maria Cristina",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-22.2814016",
+  "longitude": "-48.5568052"
 }

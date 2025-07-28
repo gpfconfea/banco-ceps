@@ -1,9 +1,11 @@
 {
   "cep": "47975970",
   "logradouro": "Rua do Umbuzeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José do Rio Grande",
   "localidade": "Riachão das Neves",
   "uf": "BA",
-  "ibge": "2926202"
+  "ibge": "2926202",
+  "latitude": "-11.8263954",
+  "longitude": "-44.7272217"
 }

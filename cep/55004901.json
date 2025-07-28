@@ -1,9 +1,11 @@
 {
   "cep": "55004901",
   "logradouro": "Praça do Governo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nossa Senhora das Dores",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.28669",
+  "longitude": "-35.96722"
 }

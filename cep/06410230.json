@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Camargos",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5054617",
+  "longitude": "-46.8662599"
 }

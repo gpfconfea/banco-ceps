@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio do Fogo",
   "uf": "RN",
-  "ibge": "2408953"
+  "ibge": "2408953",
+  "latitude": "-5.2727333",
+  "longitude": "-35.3820032"
 }

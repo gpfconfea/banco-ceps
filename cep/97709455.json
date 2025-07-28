@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista",
   "localidade": "Santiago",
   "uf": "RS",
-  "ibge": "4317400"
+  "ibge": "4317400",
+  "latitude": "-29.20628",
+  "longitude": "-54.86359"
 }

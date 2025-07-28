@@ -5,5 +5,7 @@
   "bairro": "Monte Serrat",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9305279",
+  "longitude": "-38.5140018"
 }

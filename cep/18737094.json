@@ -5,5 +5,7 @@
   "bairro": "Vila da Paz",
   "localidade": "Itaí",
   "uf": "SP",
-  "ibge": "3521804"
+  "ibge": "3521804",
+  "latitude": "-23.69252",
+  "longitude": "-46.69583"
 }

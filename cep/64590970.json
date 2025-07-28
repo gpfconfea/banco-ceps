@@ -1,9 +1,11 @@
 {
   "cep": "64590970",
   "logradouro": "Avenida Capitão Zuca Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Caridade do Piauí",
   "uf": "PI",
-  "ibge": "2202554"
+  "ibge": "2202554",
+  "latitude": "-7.7323012",
+  "longitude": "-40.9847191"
 }

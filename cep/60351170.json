@@ -5,5 +5,7 @@
   "bairro": "Olavo Oliveira",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.7691525",
+  "longitude": "-38.5381094"
 }

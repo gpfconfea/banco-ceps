@@ -5,5 +5,7 @@
   "bairro": "Vila Pindorama",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.4925074",
+  "longitude": "-46.8817157"
 }

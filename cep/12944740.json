@@ -5,5 +5,7 @@
   "bairro": "Jardim Terceiro Centenário",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.1046312",
+  "longitude": "-46.5448461"
 }

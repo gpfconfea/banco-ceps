@@ -5,5 +5,7 @@
   "bairro": "Parque Gabriel",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "latitude": "-22.8779283",
+  "longitude": "-47.207796"
 }

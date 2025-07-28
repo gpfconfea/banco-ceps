@@ -5,5 +5,7 @@
   "bairro": "Avenida",
   "localidade": "São João Nepomuceno",
   "uf": "MG",
-  "ibge": "3162906"
+  "ibge": "3162906",
+  "latitude": "-21.5286235",
+  "longitude": "-43.0156042"
 }

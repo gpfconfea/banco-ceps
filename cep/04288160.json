@@ -5,5 +5,7 @@
   "bairro": "Vila Brasílio Machado",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.8115321",
+  "longitude": "-47.0700562"
 }

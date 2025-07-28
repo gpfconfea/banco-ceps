@@ -5,5 +5,7 @@
   "bairro": "Belém",
   "localidade": "Quixeramobim",
   "uf": "CE",
-  "ibge": "2311405"
+  "ibge": "2311405",
+  "latitude": "-5.2903723",
+  "longitude": "-39.1498251"
 }

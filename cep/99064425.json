@@ -6,5 +6,7 @@
   "bairro": "Roselândia",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "latitude": "-28.30238",
+  "longitude": "-52.39421"
 }

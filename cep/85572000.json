@@ -5,5 +5,7 @@
   "bairro": "Nova Lourdes",
   "localidade": "São João",
   "uf": "PR",
-  "ibge": "4124806"
+  "ibge": "4124806",
+  "latitude": "-25.7864251",
+  "longitude": "-52.8391306"
 }

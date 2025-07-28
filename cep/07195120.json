@@ -5,5 +5,7 @@
   "bairro": "Jardim Eliana",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4482892",
+  "longitude": "-46.509531"
 }

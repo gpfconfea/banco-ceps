@@ -1,9 +1,11 @@
 {
   "cep": "94410900",
   "logradouro": "Largo Antônio Curtis Giordani",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "latitude": "-30.0722165",
+  "longitude": "-51.0969571"
 }

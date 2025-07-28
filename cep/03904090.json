@@ -5,5 +5,7 @@
   "bairro": "Jardim Tango",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5783754",
+  "longitude": "-46.5211904"
 }

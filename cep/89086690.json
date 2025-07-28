@@ -5,5 +5,7 @@
   "bairro": "Estados",
   "localidade": "Indaial",
   "uf": "SC",
-  "ibge": "4207502"
+  "ibge": "4207502",
+  "latitude": "-26.8976574",
+  "longitude": "-49.2302059"
 }

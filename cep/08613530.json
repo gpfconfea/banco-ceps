@@ -5,5 +5,7 @@
   "bairro": "Vila Santana",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5405266",
+  "longitude": "-46.2778128"
 }

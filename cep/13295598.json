@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Esperança",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.16222",
+  "longitude": "-47.03458"
 }

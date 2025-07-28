@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "latitude": "-23.5858713",
+  "longitude": "-46.73579"
 }

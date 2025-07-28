@@ -5,5 +5,7 @@
   "bairro": "Carimã",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.5836712",
+  "longitude": "-54.5369414"
 }

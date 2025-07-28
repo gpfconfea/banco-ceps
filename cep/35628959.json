@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Morada Nova de Minas",
   "uf": "MG",
-  "ibge": "3143500"
+  "ibge": "3143500",
+  "latitude": "-18.6027873",
+  "longitude": "-45.34866"
 }

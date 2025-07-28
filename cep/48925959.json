@@ -1,9 +1,11 @@
 {
   "cep": "48925959",
   "logradouro": "Avenida José Balbino Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Sobradinho",
   "uf": "BA",
-  "ibge": "2930774"
+  "ibge": "2930774",
+  "latitude": "-9.4745089",
+  "longitude": "-40.8080704"
 }

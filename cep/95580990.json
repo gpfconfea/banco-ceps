@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Três Cachoeiras",
   "uf": "RS",
-  "ibge": "4321667"
+  "ibge": "4321667",
+  "latitude": "-29.41583",
+  "longitude": "-49.95311"
 }

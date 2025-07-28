@@ -5,5 +5,7 @@
   "bairro": "Reserva Nature",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5418",
+  "longitude": "-46.89796"
 }

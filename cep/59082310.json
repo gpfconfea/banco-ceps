@@ -5,5 +5,7 @@
   "bairro": "Capim Macio",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-5.8665716",
+  "longitude": "-35.1894769"
 }

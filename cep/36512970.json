@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tocantins",
   "uf": "MG",
-  "ibge": "3169000"
+  "ibge": "3169000",
+  "latitude": "-10.7065814",
+  "longitude": "-48.415678"
 }

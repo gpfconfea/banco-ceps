@@ -1,9 +1,11 @@
 {
   "cep": "58152970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nazaré",
   "localidade": "Pocinhos",
   "uf": "PB",
-  "ibge": "2512002"
+  "ibge": "2512002",
+  "latitude": "-7.16353",
+  "longitude": "-35.91888"
 }

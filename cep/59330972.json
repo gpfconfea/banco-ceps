@@ -1,9 +1,11 @@
 {
   "cep": "59330972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Barra de Santana",
   "localidade": "Jucurutu",
   "uf": "RN",
-  "ibge": "2406106"
+  "ibge": "2406106",
+  "latitude": "-5.67232",
+  "longitude": "-35.25791"
 }

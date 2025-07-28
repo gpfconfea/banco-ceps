@@ -5,5 +5,7 @@
   "bairro": "Parque Ecológico I",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2903571",
+  "longitude": "-47.6605682"
 }

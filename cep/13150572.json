@@ -5,5 +5,7 @@
   "bairro": "Vila Fontana",
   "localidade": "Cosmópolis",
   "uf": "SP",
-  "ibge": "3512803"
+  "ibge": "3512803",
+  "latitude": "-22.6517575",
+  "longitude": "-47.1849015"
 }

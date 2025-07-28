@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Mandirituba",
   "uf": "PR",
-  "ibge": "4114302"
+  "ibge": "4114302",
+  "latitude": "-23.31596",
+  "longitude": "-51.18226"
 }

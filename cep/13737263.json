@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Vale Verde",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.5003302",
+  "longitude": "-47.0027347"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Toscana",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.1037767",
+  "longitude": "-47.2474773"
 }

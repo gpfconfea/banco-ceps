@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaguaruana",
   "uf": "CE",
-  "ibge": "2307007"
+  "ibge": "2307007",
+  "latitude": "-4.8366621",
+  "longitude": "-37.7838281"
 }

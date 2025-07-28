@@ -5,5 +5,7 @@
   "bairro": "Jardim Aero Continental",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9438971",
+  "longitude": "-47.0930896"
 }

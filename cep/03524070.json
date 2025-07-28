@@ -5,5 +5,7 @@
   "bairro": "Jardim Maringá",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-24.5212709",
+  "longitude": "-48.1094871"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "89420970",
   "logradouro": "Rua Tereza Cristina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Matos Costa",
   "uf": "SC",
-  "ibge": "4210704"
+  "ibge": "4210704",
+  "latitude": "-26.4723026",
+  "longitude": "-51.1520976"
 }

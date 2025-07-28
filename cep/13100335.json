@@ -5,5 +5,7 @@
   "bairro": "Jardim São Fernando",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0172332",
+  "longitude": "-47.0086654"
 }

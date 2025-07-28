@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Anicuns",
   "uf": "GO",
-  "ibge": "5201306"
+  "ibge": "5201306",
+  "latitude": "-16.4606451",
+  "longitude": "-49.9572265"
 }

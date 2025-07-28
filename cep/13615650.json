@@ -5,5 +5,7 @@
   "bairro": "Jardim São Joaquim",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "latitude": "-22.164312",
+  "longitude": "-47.376096"
 }

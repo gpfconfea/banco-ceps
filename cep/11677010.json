@@ -5,5 +5,7 @@
   "bairro": "Estância Balneária Hawai",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.588678",
+  "longitude": "-45.3410887"
 }

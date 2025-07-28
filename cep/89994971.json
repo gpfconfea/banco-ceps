@@ -1,9 +1,11 @@
 {
   "cep": "89994971",
   "logradouro": "Rua Hercílio Luz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Frederico Wastner",
   "localidade": "São Lourenço do Oeste",
   "uf": "SC",
-  "ibge": "4216909"
+  "ibge": "4216909",
+  "latitude": "-26.4051085",
+  "longitude": "-52.785617"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Getulina",
   "uf": "SP",
-  "ibge": "3517000"
+  "ibge": "3517000",
+  "latitude": "-21.7968012",
+  "longitude": "-49.9219257"
 }

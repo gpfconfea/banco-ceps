@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Planalto",
   "uf": "SP",
-  "ibge": "3539608"
+  "ibge": "3539608",
+  "latitude": "-21.0336277",
+  "longitude": "-49.9284517"
 }

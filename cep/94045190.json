@@ -5,5 +5,7 @@
   "bairro": "Marrocos",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.9411082",
+  "longitude": "-51.0226049"
 }

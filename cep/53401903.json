@@ -1,9 +1,11 @@
 {
   "cep": "53401903",
   "logradouro": "Praça Agamenon Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "latitude": "-7.9403387",
+  "longitude": "-34.8794541"
 }

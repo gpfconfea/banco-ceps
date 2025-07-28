@@ -1,9 +1,11 @@
 {
   "cep": "88895970",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Invernada",
   "localidade": "Grão Pará",
   "uf": "SC",
-  "ibge": "4206108"
+  "ibge": "4206108",
+  "latitude": "-29.5917557",
+  "longitude": "-52.1401739"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "latitude": "-16.5095469",
+  "longitude": "-41.3392673"
 }

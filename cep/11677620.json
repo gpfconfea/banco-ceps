@@ -5,5 +5,7 @@
   "bairro": "Loteamento Morada do Mar",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5957247",
+  "longitude": "-45.3487025"
 }

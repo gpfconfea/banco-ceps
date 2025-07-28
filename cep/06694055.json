@@ -5,5 +5,7 @@
   "bairro": "Vila Maria Christina",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5404622",
+  "longitude": "-46.9373235"
 }

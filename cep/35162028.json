@@ -5,5 +5,7 @@
   "bairro": "Iguaçu",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "latitude": "-19.4760711",
+  "longitude": "-42.5609604"
 }

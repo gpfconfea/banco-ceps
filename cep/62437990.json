@@ -1,9 +1,11 @@
 {
   "cep": "62437990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Granja",
   "uf": "CE",
-  "ibge": "2304707"
+  "ibge": "2304707",
+  "latitude": "39.8527086",
+  "longitude": "-8.8768571"
 }

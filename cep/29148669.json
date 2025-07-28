@@ -5,5 +5,7 @@
   "bairro": "Vila Independência",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-23.5619537",
+  "longitude": "-46.1830528"
 }

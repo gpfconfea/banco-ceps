@@ -1,9 +1,11 @@
 {
   "cep": "47440959",
   "logradouro": "Rua Doutor Renan Braga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itaguaçu da Bahia",
   "uf": "BA",
-  "ibge": "2915353"
+  "ibge": "2915353",
+  "latitude": "-11.00811",
+  "longitude": "-42.39971"
 }

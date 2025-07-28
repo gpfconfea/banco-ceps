@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Caçador",
   "uf": "SC",
-  "ibge": "4203006"
+  "ibge": "4203006",
+  "latitude": "-26.7820049",
+  "longitude": "-50.9606491"
 }

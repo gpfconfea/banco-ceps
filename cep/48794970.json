@@ -1,9 +1,11 @@
 {
   "cep": "48794970",
   "logradouro": "Praça Nossa Senhora da Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tracupa",
   "localidade": "Tucano",
   "uf": "BA",
-  "ibge": "2931905"
+  "ibge": "2931905",
+  "latitude": "-11.5633928",
+  "longitude": "-39.2849933"
 }

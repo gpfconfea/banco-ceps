@@ -5,5 +5,7 @@
   "bairro": "Cidade Antônio Estevão de Carvalho",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.524692",
+  "longitude": "-46.4633234"
 }
