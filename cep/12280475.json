@@ -5,5 +5,7 @@
   "bairro": "Vila Prado",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.0973515",
+  "longitude": "-45.7107989"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibiraci",
   "uf": "MG",
-  "ibge": "3129707"
+  "ibge": "3129707",
+  "latitude": "-20.4631815",
+  "longitude": "-47.1226702"
 }

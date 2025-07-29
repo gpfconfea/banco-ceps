@@ -5,5 +5,7 @@
   "bairro": "Vila Alpinia",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.7584447",
+  "longitude": "-50.3783975"
 }

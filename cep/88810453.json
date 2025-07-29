@@ -5,5 +5,7 @@
   "bairro": "Mina do Mato",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6636373",
+  "longitude": "-49.389826"
 }

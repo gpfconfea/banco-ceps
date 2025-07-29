@@ -1,9 +1,11 @@
 {
   "cep": "45908970",
   "logradouro": "Rua Antonio Carneiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Juerana",
   "localidade": "Caravelas",
   "uf": "BA",
-  "ibge": "2906907"
+  "ibge": "2906907",
+  "latitude": "-17.7213137",
+  "longitude": "-39.5352303"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62388974",
   "logradouro": "Rua Luiz Florêncio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Várzea dos Espinhos",
   "localidade": "Guaraciaba do Norte",
   "uf": "CE",
-  "ibge": "2305001"
+  "ibge": "2305001",
+  "latitude": "-4.1632566",
+  "longitude": "-40.7504029"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Alves",
   "localidade": "Viçosa",
   "uf": "MG",
-  "ibge": "3171303"
+  "ibge": "3171303",
+  "latitude": "-20.7782105",
+  "longitude": "-42.8783077"
 }

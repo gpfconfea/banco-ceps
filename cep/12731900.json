@@ -1,9 +1,11 @@
 {
   "cep": "12731900",
   "logradouro": "Estrada Doutor Nelson Romanelli",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itagaçaba",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "latitude": "-22.5634936",
+  "longitude": "-44.9325942"
 }

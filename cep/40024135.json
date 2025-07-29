@@ -5,5 +5,7 @@
   "bairro": "Barroquinha",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-23.0077593",
+  "longitude": "-43.4383094"
 }

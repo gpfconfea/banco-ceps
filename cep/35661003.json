@@ -5,5 +5,7 @@
   "bairro": "Vila Raquel",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "latitude": "-19.8623975",
+  "longitude": "-44.5986018"
 }

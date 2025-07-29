@@ -1,9 +1,11 @@
 {
   "cep": "63890974",
   "logradouro": "Rua Aluísio Ximenes Aragão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibuaçu",
   "localidade": "Boa Viagem",
   "uf": "CE",
-  "ibge": "2302404"
+  "ibge": "2302404",
+  "latitude": "-4.8240045",
+  "longitude": "-39.7869069"
 }

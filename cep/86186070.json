@@ -5,5 +5,7 @@
   "bairro": "Residencial Monte Castelo",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "latitude": "-23.2985821",
+  "longitude": "-51.2408996"
 }

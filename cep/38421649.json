@@ -5,5 +5,7 @@
   "bairro": "Residencial Lago Azul",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.9730911",
+  "longitude": "-48.3615076"
 }

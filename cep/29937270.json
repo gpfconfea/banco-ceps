@@ -5,5 +5,7 @@
   "bairro": "SEAC",
   "localidade": "São Mateus",
   "uf": "ES",
-  "ibge": "3204906"
+  "ibge": "3204906",
+  "latitude": "-18.748675",
+  "longitude": "-39.859383"
 }

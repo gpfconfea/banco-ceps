@@ -5,5 +5,7 @@
   "bairro": "Bassan",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2063245",
+  "longitude": "-49.9589385"
 }

@@ -5,5 +5,7 @@
   "bairro": "Linha do Tiro",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-7.0190665",
+  "longitude": "-37.2636196"
 }

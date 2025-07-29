@@ -1,9 +1,11 @@
 {
   "cep": "55813901",
   "logradouro": "Rua São Sebastião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Senzala",
   "localidade": "Carpina",
   "uf": "PE",
-  "ibge": "2604007"
+  "ibge": "2604007",
+  "latitude": "-7.8469751",
+  "longitude": "-35.2539255"
 }

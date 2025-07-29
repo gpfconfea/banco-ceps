@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.1900472",
+  "longitude": "-49.9319482"
 }

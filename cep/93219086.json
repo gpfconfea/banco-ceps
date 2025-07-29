@@ -5,5 +5,7 @@
   "bairro": "Vargas",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "latitude": "-29.799855",
+  "longitude": "-51.1341128"
 }

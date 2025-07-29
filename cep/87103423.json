@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Iguatemi",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3651048",
+  "longitude": "-52.0592673"
 }

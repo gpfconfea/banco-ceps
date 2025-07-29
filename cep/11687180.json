@@ -5,5 +5,7 @@
   "bairro": "Toninhas",
   "localidade": "Ubatuba",
   "uf": "SP",
-  "ibge": "3555406"
+  "ibge": "3555406",
+  "latitude": "-23.4861158",
+  "longitude": "-45.077158"
 }

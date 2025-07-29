@@ -5,5 +5,7 @@
   "bairro": "Jardim São Carlos",
   "localidade": "Rio das Pedras",
   "uf": "SP",
-  "ibge": "3544004"
+  "ibge": "3544004",
+  "latitude": "-22.8301329",
+  "longitude": "-47.6055938"
 }

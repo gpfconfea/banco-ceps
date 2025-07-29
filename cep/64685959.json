@@ -1,9 +1,11 @@
 {
   "cep": "64685959",
   "logradouro": "Avenida Corinto Matos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Marcolândia",
   "uf": "PI",
-  "ibge": "2205953"
+  "ibge": "2205953",
+  "latitude": "-7.4364557",
+  "longitude": "-40.6764354"
 }

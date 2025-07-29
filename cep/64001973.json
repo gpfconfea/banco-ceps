@@ -1,9 +1,11 @@
 {
   "cep": "64001973",
   "logradouro": "Rua Governador Artur de Vasconcelos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.0901484",
+  "longitude": "-42.8027602"
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Esperança",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-19.8098189",
+  "longitude": "-44.0174771"
 }

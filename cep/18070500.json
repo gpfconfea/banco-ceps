@@ -5,5 +5,7 @@
   "bairro": "Jardim Edgar Marques",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4755521",
+  "longitude": "-47.483073"
 }

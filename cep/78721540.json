@@ -5,5 +5,7 @@
   "bairro": "Residencial Vila Mineira",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "latitude": "-23.2026436",
+  "longitude": "-45.9325042"
 }

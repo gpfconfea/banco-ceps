@@ -5,5 +5,7 @@
   "bairro": "Cidade Alegria",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "latitude": "-22.4818539",
+  "longitude": "-44.4905637"
 }

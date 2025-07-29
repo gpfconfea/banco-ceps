@@ -1,9 +1,11 @@
 {
   "cep": "78406970",
   "logradouro": "Avenida Dorvalino Brunetta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Diamantino",
   "uf": "MT",
-  "ibge": "5103502"
+  "ibge": "5103502",
+  "latitude": "-14.4066713",
+  "longitude": "-56.4386171"
 }

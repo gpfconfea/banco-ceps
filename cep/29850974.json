@@ -1,9 +1,11 @@
 {
   "cep": "29850974",
   "logradouro": "Estrada Imburana-Ecoporanga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Imburana",
   "localidade": "Ecoporanga",
   "uf": "ES",
-  "ibge": "3202108"
+  "ibge": "3202108",
+  "latitude": "-18.3635223",
+  "longitude": "-40.836879"
 }

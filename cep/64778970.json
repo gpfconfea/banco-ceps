@@ -1,9 +1,11 @@
 {
   "cep": "64778970",
   "logradouro": "Praça Carlindo Santana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Lourenço do Piauí",
   "uf": "PI",
-  "ibge": "2210359"
+  "ibge": "2210359",
+  "latitude": "-9.2000482",
+  "longitude": "-42.5117238"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55412970",
   "logradouro": "Rua Edmundo Gusmão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Igarapeba",
   "localidade": "São Benedito do Sul",
   "uf": "PE",
-  "ibge": "2612901"
+  "ibge": "2612901",
+  "latitude": "-8.8042745",
+  "longitude": "-35.8788257"
 }

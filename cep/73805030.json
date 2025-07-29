@@ -5,5 +5,7 @@
   "bairro": "Setor Ferroviário",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "-15.5350758",
+  "longitude": "-47.3401096"
 }

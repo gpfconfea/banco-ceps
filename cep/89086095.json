@@ -5,5 +5,7 @@
   "bairro": "Sol",
   "localidade": "Indaial",
   "uf": "SC",
-  "ibge": "4207502"
+  "ibge": "4207502",
+  "latitude": "-26.8841728",
+  "longitude": "-49.2208676"
 }

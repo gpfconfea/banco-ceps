@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Gravatá",
   "uf": "PE",
-  "ibge": "2606408"
+  "ibge": "2606408",
+  "latitude": "-8.19746",
+  "longitude": "-35.56059"
 }

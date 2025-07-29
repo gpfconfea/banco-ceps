@@ -5,5 +5,7 @@
   "bairro": "Aparecida",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-26.2661121",
+  "longitude": "-48.8651979"
 }

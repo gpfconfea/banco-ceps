@@ -1,9 +1,11 @@
 {
   "cep": "59299973",
   "logradouro": "Rua Matias Juvenal de Macedo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serrinha",
   "localidade": "Serrinha",
   "uf": "RN",
-  "ibge": "2413508"
+  "ibge": "2413508",
+  "latitude": "-5.7466937",
+  "longitude": "-35.4441756"
 }

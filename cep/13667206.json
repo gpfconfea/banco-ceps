@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Porto Bello",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.87179",
+  "longitude": "-47.47847"
 }

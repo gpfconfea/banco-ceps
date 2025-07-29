@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guzolândia",
   "uf": "SP",
-  "ibge": "3518909"
+  "ibge": "3518909",
+  "latitude": "-20.6468092",
+  "longitude": "-50.6612841"
 }

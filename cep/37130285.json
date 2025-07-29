@@ -5,5 +5,7 @@
   "bairro": "Estação",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.4092852",
+  "longitude": "-45.9570498"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "57955971",
   "logradouro": "Rua Luiz Holanda Cavalcante",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Maragogi",
   "uf": "AL",
-  "ibge": "2704500"
+  "ibge": "2704500",
+  "latitude": "-9.0142684",
+  "longitude": "-35.2222216"
 }

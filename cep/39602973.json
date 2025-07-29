@@ -1,9 +1,11 @@
 {
   "cep": "39602973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Engenheiro Schnoor",
   "localidade": "Araçuaí",
   "uf": "MG",
-  "ibge": "3103405"
+  "ibge": "3103405",
+  "latitude": "-17.0270817",
+  "longitude": "-42.1000607"
 }

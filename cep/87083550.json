@@ -5,5 +5,7 @@
   "bairro": "Jardim Império do Sol",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3809816",
+  "longitude": "-51.9531013"
 }

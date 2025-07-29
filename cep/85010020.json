@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.4019143",
+  "longitude": "-51.47703"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68565971",
   "logradouro": "Vila Nova Esperança",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Esperança",
   "localidade": "Santa Maria das Barreiras",
   "uf": "PA",
-  "ibge": "1506583"
+  "ibge": "1506583",
+  "latitude": "-8.4390556",
+  "longitude": "-50.0490317"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Itália",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.74701",
+  "longitude": "-50.38757"
 }

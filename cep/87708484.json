@@ -5,5 +5,7 @@
   "bairro": "Residencial Paranavaí III",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-23.0663074",
+  "longitude": "-52.4318496"
 }

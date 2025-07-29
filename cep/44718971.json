@@ -1,9 +1,11 @@
 {
   "cep": "44718971",
   "logradouro": "Praça João Rodrigues da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alagadiço",
   "localidade": "Ourolândia",
   "uf": "BA",
-  "ibge": "2923357"
+  "ibge": "2923357",
+  "latitude": "-10.6855163",
+  "longitude": "-41.2921613"
 }

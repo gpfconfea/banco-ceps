@@ -5,5 +5,7 @@
   "bairro": "Jardim Cambuci",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.151046",
+  "longitude": "-51.3752868"
 }

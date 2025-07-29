@@ -5,5 +5,7 @@
   "bairro": "Vila Wilson",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "latitude": "-23.4059744",
+  "longitude": "-46.9012961"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São Caetano",
   "localidade": "Fartura",
   "uf": "SP",
-  "ibge": "3515400"
+  "ibge": "3515400",
+  "latitude": "-23.65639",
+  "longitude": "-46.53172"
 }

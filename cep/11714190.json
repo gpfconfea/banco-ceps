@@ -5,5 +5,7 @@
   "bairro": "Ribeirópolis",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-24.029336",
+  "longitude": "-46.5084943"
 }

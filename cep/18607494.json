@@ -5,5 +5,7 @@
   "bairro": "Jardim Centenário",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.884979",
+  "longitude": "-48.4844107"
 }

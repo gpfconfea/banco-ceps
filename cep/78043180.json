@@ -5,5 +5,7 @@
   "bairro": "Jardim Cuiabá",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5938779",
+  "longitude": "-56.1133344"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Santos Dumont",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5307746",
+  "longitude": "-47.4153445"
 }

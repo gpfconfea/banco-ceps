@@ -5,5 +5,7 @@
   "bairro": "Vila das Flores",
   "localidade": "Mafra",
   "uf": "SC",
-  "ibge": "4210100"
+  "ibge": "4210100",
+  "latitude": "-26.0948997",
+  "longitude": "-49.80971"
 }

@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Castelo Branco",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.3416739",
+  "longitude": "-50.3891611"
 }

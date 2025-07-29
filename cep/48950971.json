@@ -1,9 +1,11 @@
 {
   "cep": "48950971",
   "logradouro": "Praça Berlamino José Rodrigues",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caldeirão do Almeida",
   "localidade": "Uauá",
   "uf": "BA",
-  "ibge": "2932002"
+  "ibge": "2932002",
+  "latitude": "-9.8391089",
+  "longitude": "-39.4907646"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bairro da Pernambucana",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.27273",
+  "longitude": "-45.81442"
 }

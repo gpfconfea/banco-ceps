@@ -6,5 +6,7 @@
   "bairro": "Teresópolis",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.07735",
+  "longitude": "-51.2073"
 }

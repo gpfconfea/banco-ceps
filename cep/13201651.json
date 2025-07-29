@@ -5,5 +5,7 @@
   "bairro": "Vila Princesa Isabel",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1936741",
+  "longitude": "-46.8745546"
 }

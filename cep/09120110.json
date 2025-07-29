@@ -5,5 +5,7 @@
   "bairro": "Centreville",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.4777551",
+  "longitude": "-47.4821007"
 }

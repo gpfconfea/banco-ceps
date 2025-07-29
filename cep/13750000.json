@@ -5,5 +5,7 @@
   "bairro": "Igaraí",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4141107",
+  "longitude": "-46.8339171"
 }

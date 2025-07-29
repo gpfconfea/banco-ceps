@@ -1,9 +1,11 @@
 {
   "cep": "62652974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Luzia",
   "localidade": "Uruburetama",
   "uf": "CE",
-  "ibge": "2313807"
+  "ibge": "2313807",
+  "latitude": "-2.7956374",
+  "longitude": "-40.5140808"
 }

@@ -5,5 +5,7 @@
   "bairro": "Largo Dom João",
   "localidade": "Diamantina",
   "uf": "MG",
-  "ibge": "3121605"
+  "ibge": "3121605",
+  "latitude": "-18.2466471",
+  "longitude": "-43.6016949"
 }

@@ -5,5 +5,7 @@
   "bairro": "Gravi",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.42561",
+  "longitude": "-46.86278"
 }

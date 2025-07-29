@@ -5,5 +5,7 @@
   "bairro": "Getúlio Vargas",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "latitude": "-29.8018841",
+  "longitude": "-55.7679378"
 }

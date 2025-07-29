@@ -5,5 +5,7 @@
   "bairro": "Garatucaia",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "latitude": "-22.759651",
+  "longitude": "-43.4596557"
 }

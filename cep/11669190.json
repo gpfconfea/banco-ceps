@@ -5,5 +5,7 @@
   "bairro": "Jardim Tarumãs",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5676094",
+  "longitude": "-45.3271309"
 }

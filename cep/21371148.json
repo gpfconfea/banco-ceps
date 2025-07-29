@@ -5,5 +5,7 @@
   "bairro": "Vicente de Carvalho",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.854275",
+  "longitude": "-43.3223094"
 }

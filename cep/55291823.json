@@ -5,5 +5,7 @@
   "bairro": "Francisco Simão dos Santos Figueira",
   "localidade": "Garanhuns",
   "uf": "PE",
-  "ibge": "2606002"
+  "ibge": "2606002",
+  "latitude": "-30.3249981",
+  "longitude": "-54.3377376"
 }

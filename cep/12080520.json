@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.032298",
+  "longitude": "-45.6034939"
 }

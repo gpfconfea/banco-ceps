@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paraisópolis",
   "uf": "MG",
-  "ibge": "3147303"
+  "ibge": "3147303",
+  "latitude": "-22.5524371",
+  "longitude": "-45.7784776"
 }

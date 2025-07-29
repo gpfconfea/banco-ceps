@@ -1,9 +1,11 @@
 {
   "cep": "48680971",
   "logradouro": "Praça José Borges do Vale",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Icozeira",
   "localidade": "Abaré",
   "uf": "BA",
-  "ibge": "2900207"
+  "ibge": "2900207",
+  "latitude": "-8.9325819",
+  "longitude": "-39.3316666"
 }

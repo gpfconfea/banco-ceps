@@ -5,5 +5,7 @@
   "bairro": "Portal",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "latitude": "-20.625775",
+  "longitude": "-40.4837127"
 }

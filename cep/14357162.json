@@ -5,5 +5,7 @@
   "bairro": "Residencial Cidade Jardim",
   "localidade": "Altinópolis",
   "uf": "SP",
-  "ibge": "3501004"
+  "ibge": "3501004",
+  "latitude": "-21.0238898",
+  "longitude": "-47.369967"
 }

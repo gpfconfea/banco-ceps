@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Doutor Abranches Guimarães",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4682277",
+  "longitude": "-49.5225043"
 }

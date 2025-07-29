@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.8051653",
+  "longitude": "-47.303884"
 }

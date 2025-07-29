@@ -5,5 +5,7 @@
   "bairro": "Brasilinha",
   "localidade": "Madre de Deus de Minas",
   "uf": "MG",
-  "ibge": "3139102"
+  "ibge": "3139102",
+  "latitude": "-21.4186219",
+  "longitude": "-44.4338398"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Irmãos Furquim",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "latitude": "-20.9605939",
+  "longitude": "-48.4712791"
 }

@@ -5,5 +5,7 @@
   "bairro": "Rialto",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "latitude": "-22.5806887",
+  "longitude": "-44.2674131"
 }

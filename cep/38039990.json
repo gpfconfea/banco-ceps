@@ -1,9 +1,11 @@
 {
   "cep": "38039990",
   "logradouro": "Estrada Municipal Peirópolis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.74499",
+  "longitude": "-47.74295"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44685970",
   "logradouro": "Rua Juracy Magalhães Júnior",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cavunge",
   "localidade": "Ipecaetá",
   "uf": "BA",
-  "ibge": "2913804"
+  "ibge": "2913804",
+  "latitude": "-12.9276206",
+  "longitude": "-38.4956493"
 }

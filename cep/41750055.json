@@ -5,5 +5,7 @@
   "bairro": "Armação",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "24.0434731",
+  "longitude": "-104.6261687"
 }

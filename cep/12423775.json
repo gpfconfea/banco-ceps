@@ -5,5 +5,7 @@
   "bairro": "Alto do Piracuama",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-23.4814298",
+  "longitude": "-46.6796567"
 }

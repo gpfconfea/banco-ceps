@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4356422",
+  "longitude": "-46.7253171"
 }

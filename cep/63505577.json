@@ -5,5 +5,7 @@
   "bairro": "Altiplano",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "latitude": "-4.51705",
+  "longitude": "-38.72038"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campos Altos",
   "uf": "MG",
-  "ibge": "3111507"
+  "ibge": "3111507",
+  "latitude": "-19.7000725",
+  "longitude": "-46.1700212"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Pedro e São Paulo",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "latitude": "-25.6689902",
+  "longitude": "-53.8145569"
 }

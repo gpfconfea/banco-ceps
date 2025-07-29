@@ -5,5 +5,7 @@
   "bairro": "Vila Futurista",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4322044",
+  "longitude": "-54.5565824"
 }

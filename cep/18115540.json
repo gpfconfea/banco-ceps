@@ -5,5 +5,7 @@
   "bairro": "Jardim Palmira",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5587461",
+  "longitude": "-47.4548569"
 }

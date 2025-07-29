@@ -1,9 +1,11 @@
 {
   "cep": "18440971",
   "logradouro": "Rua Luiz Tomé de Couto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tomé",
   "localidade": "Itaberá",
   "uf": "SP",
-  "ibge": "3521705"
+  "ibge": "3521705",
+  "latitude": "-23.848168",
+  "longitude": "-49.1625989"
 }

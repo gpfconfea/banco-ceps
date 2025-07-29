@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.85621",
+  "longitude": "-47.48999"
 }

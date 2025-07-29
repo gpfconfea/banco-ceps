@@ -1,9 +1,11 @@
 {
   "cep": "68637971",
   "logradouro": "Rodovia BR-010",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ipixuna do Pará",
   "uf": "PA",
-  "ibge": "1503457"
+  "ibge": "1503457",
+  "latitude": "-8.4768153",
+  "longitude": "-47.7891987"
 }

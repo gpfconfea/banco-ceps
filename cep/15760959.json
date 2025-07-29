@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Urânia",
   "uf": "SP",
-  "ibge": "3555802"
+  "ibge": "3555802",
+  "latitude": "-20.2487262",
+  "longitude": "-50.6447309"
 }

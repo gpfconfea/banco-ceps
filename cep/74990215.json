@@ -6,5 +6,7 @@
   "bairro": "Rosa dos Ventos",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.84716",
+  "longitude": "-49.2397"
 }

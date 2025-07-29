@@ -5,5 +5,7 @@
   "bairro": "São Miguel Arcanjo",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-21.5560521",
+  "longitude": "-45.4368421"
 }

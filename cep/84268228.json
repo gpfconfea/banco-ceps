@@ -5,5 +5,7 @@
   "bairro": "Jardim Florestal",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-23.3089404",
+  "longitude": "-51.1367914"
 }

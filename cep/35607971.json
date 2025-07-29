@@ -1,9 +1,11 @@
 {
   "cep": "35607971",
   "logradouro": "Avenida Fausto Gonçalves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibitira",
   "localidade": "Martinho Campos",
   "uf": "MG",
-  "ibge": "3140506"
+  "ibge": "3140506",
+  "latitude": "-19.3323995",
+  "longitude": "-45.2375852"
 }

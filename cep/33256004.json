@@ -5,5 +5,7 @@
   "bairro": "Triângulo",
   "localidade": "Pedro Leopoldo",
   "uf": "MG",
-  "ibge": "3149309"
+  "ibge": "3149309",
+  "latitude": "-19.6157916",
+  "longitude": "-44.0517265"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "latitude": "-29.7482806",
+  "longitude": "-57.0781737"
 }

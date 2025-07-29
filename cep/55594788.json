@@ -5,5 +5,7 @@
   "bairro": "Salinas",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.50546",
+  "longitude": "-35.01231"
 }
