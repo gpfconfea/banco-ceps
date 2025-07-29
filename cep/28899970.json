@@ -1,9 +1,11 @@
 {
   "cep": "28899970",
   "logradouro": "Estrada Professor Leandro Faria Sarzedas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cantagalo",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "latitude": "-22.4861665",
+  "longitude": "-41.9316277"
 }

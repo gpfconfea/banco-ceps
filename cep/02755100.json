@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4898362",
+  "longitude": "-46.6791723"
 }

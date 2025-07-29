@@ -6,5 +6,7 @@
   "bairro": "Morro Branco",
   "localidade": "Salto de Pirapora",
   "uf": "SP",
-  "ibge": "3545308"
+  "ibge": "3545308",
+  "latitude": "-23.6137083",
+  "longitude": "-47.5660304"
 }

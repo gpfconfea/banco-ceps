@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "latitude": "-22.5664957",
+  "longitude": "-44.1628333"
 }

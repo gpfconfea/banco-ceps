@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Padre Manoel da Nóbrega",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5457941",
+  "longitude": "-46.4827227"
 }

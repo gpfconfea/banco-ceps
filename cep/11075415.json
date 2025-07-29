@@ -5,5 +5,7 @@
   "bairro": "Campo Grande",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-5.345433",
+  "longitude": "-49.1325457"
 }

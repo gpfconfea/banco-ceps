@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-21.6944374",
+  "longitude": "-45.2504226"
 }

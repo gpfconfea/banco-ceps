@@ -1,9 +1,11 @@
 {
   "cep": "55670971",
   "logradouro": "Vila Monte Alegre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Monte Alegre",
   "localidade": "São Joaquim do Monte",
   "uf": "PE",
-  "ibge": "2613305"
+  "ibge": "2613305",
+  "latitude": "-23.482197",
+  "longitude": "-46.7592482"
 }

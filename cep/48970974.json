@@ -1,9 +1,11 @@
 {
   "cep": "48970974",
   "logradouro": "Rua João Alexandre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sahy",
   "localidade": "Senhor do Bonfim",
   "uf": "BA",
-  "ibge": "2930105"
+  "ibge": "2930105",
+  "latitude": "-10.5765999",
+  "longitude": "-40.2766934"
 }

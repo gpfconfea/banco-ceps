@@ -1,9 +1,11 @@
 {
   "cep": "55172970",
   "logradouro": "Vila Barra do Farias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra do Farias",
   "localidade": "Brejo da Madre de Deus",
   "uf": "PE",
-  "ibge": "2602605"
+  "ibge": "2602605",
+  "latitude": "-8.1341719",
+  "longitude": "-36.3040517"
 }

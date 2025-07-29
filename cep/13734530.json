@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim José Justi II",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-24.026762",
+  "longitude": "-46.5135351"
 }

@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Nova Aliança",
   "uf": "SP",
-  "ibge": "3532801"
+  "ibge": "3532801",
+  "latitude": "-21.0170775",
+  "longitude": "-49.498676"
 }

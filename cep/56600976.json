@@ -1,9 +1,11 @@
 {
   "cep": "56600976",
   "logradouro": "Rua Severino Rodrigues",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Ferro Velho",
   "localidade": "Sertânia",
   "uf": "PE",
-  "ibge": "2614105"
+  "ibge": "2614105",
+  "latitude": "-8.0222446",
+  "longitude": "-34.9802335"
 }

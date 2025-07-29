@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Santo Antônio das Missões",
   "uf": "RS",
-  "ibge": "4317707"
+  "ibge": "4317707",
+  "latitude": "-28.5544311",
+  "longitude": "-55.5255883"
 }

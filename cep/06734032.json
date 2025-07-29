@@ -5,5 +5,7 @@
   "bairro": "Chácara Santa Mônica",
   "localidade": "Vargem Grande Paulista",
   "uf": "SP",
-  "ibge": "3556453"
+  "ibge": "3556453",
+  "latitude": "-23.6243382",
+  "longitude": "-46.9913181"
 }

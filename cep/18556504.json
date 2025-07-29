@@ -5,5 +5,7 @@
   "bairro": "Rancho dos Arcos",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2846168",
+  "longitude": "-47.7189979"
 }

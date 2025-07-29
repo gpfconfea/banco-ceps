@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Confins",
   "uf": "MG",
-  "ibge": "3117876"
+  "ibge": "3117876",
+  "latitude": "-19.6256484",
+  "longitude": "-43.9884087"
 }

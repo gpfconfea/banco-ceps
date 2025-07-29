@@ -5,5 +5,7 @@
   "bairro": "Vila Renato (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-24.3174337",
+  "longitude": "-47.6508343"
 }

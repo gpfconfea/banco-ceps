@@ -1,9 +1,11 @@
 {
   "cep": "13211902",
   "logradouro": "Avenida João Antônio Meccatti",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Retiro",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1805359",
+  "longitude": "-46.9182661"
 }

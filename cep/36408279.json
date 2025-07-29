@@ -5,5 +5,7 @@
   "bairro": "Lima Dias",
   "localidade": "Conselheiro Lafaiete",
   "uf": "MG",
-  "ibge": "3118304"
+  "ibge": "3118304",
+  "latitude": "-20.6364899",
+  "longitude": "-43.8049532"
 }

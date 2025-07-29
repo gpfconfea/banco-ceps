@@ -1,9 +1,11 @@
 {
   "cep": "78620971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sangradouro",
   "localidade": "General Carneiro",
   "uf": "MT",
-  "ibge": "5103908"
+  "ibge": "5103908",
+  "latitude": "-15.6527625",
+  "longitude": "-56.0514098"
 }

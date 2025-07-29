@@ -5,5 +5,7 @@
   "bairro": "São Marcos",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-19.52265",
+  "longitude": "-40.66535"
 }

@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Ipojuca",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.39417",
+  "longitude": "-35.06088"
 }

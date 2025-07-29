@@ -6,5 +6,7 @@
   "bairro": "Mato Grosso",
   "localidade": "Iporá",
   "uf": "GO",
-  "ibge": "5210208"
+  "ibge": "5210208",
+  "latitude": "-16.4338408",
+  "longitude": "-51.1196474"
 }

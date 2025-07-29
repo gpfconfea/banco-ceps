@@ -1,9 +1,11 @@
 {
   "cep": "59215971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa Limpa",
   "localidade": "Nova Cruz",
   "uf": "RN",
-  "ibge": "2408300"
+  "ibge": "2408300",
+  "latitude": "39.4281987",
+  "longitude": "-9.0084387"
 }

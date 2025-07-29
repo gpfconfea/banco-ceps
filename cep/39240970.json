@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Joaquim Felício",
   "uf": "MG",
-  "ibge": "3136405"
+  "ibge": "3136405",
+  "latitude": "-17.7604413",
+  "longitude": "-44.1707615"
 }

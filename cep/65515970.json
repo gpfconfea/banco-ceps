@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Buriti",
   "uf": "MA",
-  "ibge": "2102200"
+  "ibge": "2102200",
+  "latitude": "-3.9426258",
+  "longitude": "-42.927411"
 }

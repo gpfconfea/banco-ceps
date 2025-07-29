@@ -1,9 +1,11 @@
 {
   "cep": "74360900",
   "logradouro": "Avenida Domiciano Peixoto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Vila Boa",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7256994",
+  "longitude": "-49.3184744"
 }

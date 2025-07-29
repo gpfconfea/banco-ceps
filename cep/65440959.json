@@ -1,9 +1,11 @@
 {
   "cep": "65440959",
   "logradouro": "Rua José Mesquita",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Benedito do Rio Preto",
   "uf": "MA",
-  "ibge": "2110401"
+  "ibge": "2110401",
+  "latitude": "-3.333",
+  "longitude": "-43.52734"
 }

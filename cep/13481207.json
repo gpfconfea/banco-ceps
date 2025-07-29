@@ -5,5 +5,7 @@
   "bairro": "Centro Industrial de Limeira - CIL",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.489495",
+  "longitude": "-47.1666699"
 }

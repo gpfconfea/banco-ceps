@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Inhambupe",
   "uf": "BA",
-  "ibge": "2913705"
+  "ibge": "2913705",
+  "latitude": "-11.7959991",
+  "longitude": "-38.3518996"
 }

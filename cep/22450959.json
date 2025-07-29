@@ -1,9 +1,11 @@
 {
   "cep": "22450959",
   "logradouro": "Avenida Presidente João Goulart",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vidigal",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9964894",
+  "longitude": "-43.2404655"
 }

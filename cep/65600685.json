@@ -5,5 +5,7 @@
   "bairro": "Pai Geraldo",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-4.8579998",
+  "longitude": "-43.3385632"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65223959",
   "logradouro": "Rodovia MA-014",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Olinda Nova do Maranhão",
   "uf": "MA",
-  "ibge": "2107456"
+  "ibge": "2107456",
+  "latitude": "-2.998633",
+  "longitude": "-44.9939924"
 }

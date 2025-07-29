@@ -1,9 +1,11 @@
 {
   "cep": "78338959",
   "logradouro": "Rua André Maggi",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Rondolândia",
   "uf": "MT",
-  "ibge": "5107578"
+  "ibge": "5107578",
+  "latitude": "-10.84241",
+  "longitude": "-61.46238"
 }

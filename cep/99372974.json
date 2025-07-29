@@ -1,9 +1,11 @@
 {
   "cep": "99372974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Campo Novo",
   "uf": "RS",
-  "ibge": "4304002"
+  "ibge": "4304002",
+  "latitude": "-2.4239507",
+  "longitude": "-43.3331265"
 }

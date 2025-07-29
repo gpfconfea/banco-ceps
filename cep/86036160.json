@@ -5,5 +5,7 @@
   "bairro": "Jardim Graziela",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3206121",
+  "longitude": "-51.126726"
 }

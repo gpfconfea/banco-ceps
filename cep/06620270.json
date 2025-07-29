@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.54783",
+  "longitude": "-46.89154"
 }

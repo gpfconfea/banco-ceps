@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Governador Orestes Quércia",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "latitude": "-24.0005611",
+  "longitude": "-48.3616304"
 }

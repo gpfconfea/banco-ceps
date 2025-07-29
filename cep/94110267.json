@@ -5,5 +5,7 @@
   "bairro": "Parque Ipiranga",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.9060799",
+  "longitude": "-51.0579509"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63650976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Quiterianópolis",
   "uf": "CE",
-  "ibge": "2311264"
+  "ibge": "2311264",
+  "latitude": "-2.7956374",
+  "longitude": "-40.5140808"
 }

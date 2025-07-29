@@ -5,5 +5,7 @@
   "bairro": "Jardim Joelsa",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-25.50609",
+  "longitude": "-49.15413"
 }

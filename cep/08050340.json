@@ -5,5 +5,7 @@
   "bairro": "Jardim das Camélias",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5110074",
+  "longitude": "-46.461518"
 }

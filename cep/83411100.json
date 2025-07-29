@@ -5,5 +5,7 @@
   "bairro": "São Dimas",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "latitude": "-25.3405464",
+  "longitude": "-49.1473653"
 }

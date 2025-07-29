@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cana Verde",
   "uf": "MG",
-  "ibge": "3111903"
+  "ibge": "3111903",
+  "latitude": "-21.0236909",
+  "longitude": "-45.1804886"
 }

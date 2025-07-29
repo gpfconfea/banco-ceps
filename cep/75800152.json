@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "latitude": "-17.8836647",
+  "longitude": "-51.7239617"
 }

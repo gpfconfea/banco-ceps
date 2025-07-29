@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cláudia",
   "uf": "MT",
-  "ibge": "5103056"
+  "ibge": "5103056",
+  "latitude": "-11.5015947",
+  "longitude": "-54.8767793"
 }

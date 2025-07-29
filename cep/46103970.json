@@ -1,9 +1,11 @@
 {
   "cep": "46103970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itaquaraí",
   "localidade": "Brumado",
   "uf": "BA",
-  "ibge": "2904605"
+  "ibge": "2904605",
+  "latitude": "-14.1957643",
+  "longitude": "-41.6563206"
 }

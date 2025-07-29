@@ -1,9 +1,11 @@
 {
   "cep": "68749970",
   "logradouro": "Vila de Jambuaçu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jambuaçu",
   "localidade": "São Francisco do Pará",
   "uf": "PA",
-  "ibge": "1507409"
+  "ibge": "1507409",
+  "latitude": "-1.1200063",
+  "longitude": "-47.7000114"
 }

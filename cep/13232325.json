@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Vila da Conquista",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-20.5647266",
+  "longitude": "-47.3953475"
 }

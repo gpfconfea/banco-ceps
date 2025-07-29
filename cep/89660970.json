@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lacerdópolis",
   "uf": "SC",
-  "ibge": "4209201"
+  "ibge": "4209201",
+  "latitude": "-27.2647791",
+  "longitude": "-51.5557728"
 }

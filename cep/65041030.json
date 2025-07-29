@@ -5,5 +5,7 @@
   "bairro": "Sítio Leal",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-23.5651263",
+  "longitude": "-46.8496648"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "83370991",
   "logradouro": "Rua Escoteiro Milton Oribe",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Antonina",
   "uf": "PR",
-  "ibge": "4101200"
+  "ibge": "4101200",
+  "latitude": "-25.4213978",
+  "longitude": "-48.7140515"
 }

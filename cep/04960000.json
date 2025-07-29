@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Bárbara",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7235614",
+  "longitude": "-46.7902029"
 }

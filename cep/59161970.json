@@ -1,9 +1,11 @@
 {
   "cep": "59161970",
   "logradouro": "Avenida Deputado Márcio Marinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pirangi do Norte (Distrito Litoral)",
   "localidade": "Parnamirim",
   "uf": "RN",
-  "ibge": "2403251"
+  "ibge": "2403251",
+  "latitude": "-5.9786496",
+  "longitude": "-35.1229288"
 }

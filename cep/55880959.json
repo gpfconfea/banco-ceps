@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ferreiros",
   "uf": "PE",
-  "ibge": "2605509"
+  "ibge": "2605509",
+  "latitude": "-7.448124",
+  "longitude": "-35.2430846"
 }

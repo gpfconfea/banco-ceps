@@ -1,9 +1,11 @@
 {
   "cep": "55215970",
   "logradouro": "Rua Constâncio Dovaizim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Papagaio",
   "localidade": "Pesqueira",
   "uf": "PE",
-  "ibge": "2610905"
+  "ibge": "2610905",
+  "latitude": "-8.5479704",
+  "longitude": "-36.6549937"
 }

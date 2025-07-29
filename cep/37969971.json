@@ -1,9 +1,11 @@
 {
   "cep": "37969971",
   "logradouro": "Praça Nossa Senhora dos Milagres",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Milagre",
   "localidade": "Monte Santo de Minas",
   "uf": "MG",
-  "ibge": "3143203"
+  "ibge": "3143203",
+  "latitude": "-21.3059401",
+  "longitude": "-47.0125674"
 }

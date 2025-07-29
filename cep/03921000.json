@@ -5,5 +5,7 @@
   "bairro": "Jardim Iva",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5953934",
+  "longitude": "-46.5159122"
 }

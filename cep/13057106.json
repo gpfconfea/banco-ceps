@@ -5,5 +5,7 @@
   "bairro": "Jardim Marajó",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9696453",
+  "longitude": "-47.1655104"
 }

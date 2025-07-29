@@ -1,9 +1,11 @@
 {
   "cep": "13839970",
   "logradouro": "Rua Santo Antonio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tujuguaba",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "latitude": "-22.3783215",
+  "longitude": "-47.1658219"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Itapevi",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.541797",
+  "longitude": "-46.938338"
 }

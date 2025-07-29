@@ -1,9 +1,11 @@
 {
   "cep": "62759977",
   "logradouro": "Sítio Arisco dos Marianos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ariscos dos Marianos",
   "localidade": "Ocara",
   "uf": "CE",
-  "ibge": "2309458"
+  "ibge": "2309458",
+  "latitude": "-4.4899748",
+  "longitude": "-38.5976469"
 }

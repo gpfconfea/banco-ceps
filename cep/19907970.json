@@ -1,9 +1,11 @@
 {
   "cep": "19907970",
   "logradouro": "Praça Prefeito Benício do Espírito Santo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Margarida",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-22.9714955",
+  "longitude": "-49.8790478"
 }

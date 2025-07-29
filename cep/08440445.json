@@ -5,5 +5,7 @@
   "bairro": "Vila Chabilândia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5335091",
+  "longitude": "-46.4073569"
 }

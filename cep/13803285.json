@@ -5,5 +5,7 @@
   "bairro": "Residencial Vila Toscana",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.468115",
+  "longitude": "-46.9582094"
 }

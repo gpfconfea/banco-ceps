@@ -5,5 +5,7 @@
   "bairro": "Santa Fé",
   "localidade": "São João Nepomuceno",
   "uf": "MG",
-  "ibge": "3162906"
+  "ibge": "3162906",
+  "latitude": "-21.5381212",
+  "longitude": "-43.0276085"
 }

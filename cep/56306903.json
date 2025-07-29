@@ -1,9 +1,11 @@
 {
   "cep": "56306903",
   "logradouro": "Avenida Gilberto Freire",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Mocó",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-9.386912",
+  "longitude": "-40.5040817"
 }

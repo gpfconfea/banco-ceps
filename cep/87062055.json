@@ -5,5 +5,7 @@
   "bairro": "Jardim São Clemente",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4669927",
+  "longitude": "-51.9552214"
 }

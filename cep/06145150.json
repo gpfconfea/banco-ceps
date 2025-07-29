@@ -5,5 +5,7 @@
   "bairro": "Conceição",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.5763569",
+  "longitude": "-46.7887073"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Astúrias",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-22.2784623",
+  "longitude": "-49.0724559"
 }

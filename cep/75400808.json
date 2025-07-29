@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.3546298",
+  "longitude": "-49.5000778"
 }

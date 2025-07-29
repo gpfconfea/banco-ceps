@@ -1,9 +1,11 @@
 {
   "cep": "55650973",
   "logradouro": "Vila Vertente Seca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Vertente Seca",
   "localidade": "Passira",
   "uf": "PE",
-  "ibge": "2610509"
+  "ibge": "2610509",
+  "latitude": "-7.9055289",
+  "longitude": "-35.9886122"
 }

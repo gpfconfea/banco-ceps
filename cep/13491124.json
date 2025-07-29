@@ -6,5 +6,7 @@
   "bairro": "Vila Olympia",
   "localidade": "Cordeirópolis",
   "uf": "SP",
-  "ibge": "3512407"
+  "ibge": "3512407",
+  "latitude": "-22.4761537",
+  "longitude": "-47.459362"
 }

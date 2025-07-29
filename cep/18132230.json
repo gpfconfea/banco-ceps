@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora Aparecida",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5223215",
+  "longitude": "-47.1403357"
 }

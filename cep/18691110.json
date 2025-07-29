@@ -6,5 +6,7 @@
   "bairro": "Núcleo Habitacional Vila União",
   "localidade": "Itatinga",
   "uf": "SP",
-  "ibge": "3523503"
+  "ibge": "3523503",
+  "latitude": "-23.10282",
+  "longitude": "-48.609"
 }

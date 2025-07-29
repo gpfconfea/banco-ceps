@@ -1,9 +1,11 @@
 {
   "cep": "64690959",
   "logradouro": "Praça Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Fronteiras",
   "uf": "PI",
-  "ibge": "2204303"
+  "ibge": "2204303",
+  "latitude": "-7.0885387",
+  "longitude": "-40.61376"
 }

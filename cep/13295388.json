@@ -6,5 +6,7 @@
   "bairro": "Parque Residencial Paraíso",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.1492388",
+  "longitude": "-47.0401729"
 }

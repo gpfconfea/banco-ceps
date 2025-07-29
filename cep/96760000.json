@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tapes",
   "uf": "RS",
-  "ibge": "4321105"
+  "ibge": "4321105",
+  "latitude": "-30.6747721",
+  "longitude": "-51.3986199"
 }

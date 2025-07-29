@@ -1,9 +1,11 @@
 {
   "cep": "61680995",
   "logradouro": "Rua João Rodrigues Tavares",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.6966",
+  "longitude": "-38.73707"
 }

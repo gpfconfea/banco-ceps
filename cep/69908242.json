@@ -5,5 +5,7 @@
   "bairro": "Vila Albert Sampaio",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-23.2732562",
+  "longitude": "-51.2750852"
 }

@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Itapuí",
   "uf": "SP",
-  "ibge": "3522901"
+  "ibge": "3522901",
+  "latitude": "-22.2388265",
+  "longitude": "-48.7215741"
 }

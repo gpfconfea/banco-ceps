@@ -5,5 +5,7 @@
   "bairro": "Vale dos Tucanos",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3527159",
+  "longitude": "-51.15243"
 }

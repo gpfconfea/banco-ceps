@@ -5,5 +5,7 @@
   "bairro": "Ibirapuera",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-6.0984551",
+  "longitude": "-49.8580912"
 }

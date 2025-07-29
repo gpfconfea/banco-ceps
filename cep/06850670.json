@@ -5,5 +5,7 @@
   "bairro": "Jardim Tereza Maria",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.7089706",
+  "longitude": "-46.8461164"
 }

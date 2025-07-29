@@ -5,5 +5,7 @@
   "bairro": "Vila Guilherme",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5067287",
+  "longitude": "-46.5995841"
 }

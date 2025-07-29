@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Perolla",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.16417",
+  "longitude": "-47.06156"
 }

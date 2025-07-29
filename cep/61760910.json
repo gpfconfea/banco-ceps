@@ -1,9 +1,11 @@
 {
   "cep": "61760910",
   "logradouro": "Avenida Atlântica",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cidade Nova",
   "localidade": "Eusébio",
   "uf": "CE",
-  "ibge": "2304285"
+  "ibge": "2304285",
+  "latitude": "-3.8899559",
+  "longitude": "-38.4860893"
 }

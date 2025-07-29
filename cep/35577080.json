@@ -5,5 +5,7 @@
   "bairro": "Vila Nirmatelle",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.4482107",
+  "longitude": "-45.4455613"
 }
