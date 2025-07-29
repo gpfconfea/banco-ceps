@@ -5,5 +5,7 @@
   "bairro": "Mata Verde",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-27.706994",
+  "longitude": "-48.7082888"
 }

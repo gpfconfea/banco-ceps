@@ -5,5 +5,7 @@
   "bairro": "Parque do Carmo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.575195",
+  "longitude": "-47.0787806"
 }

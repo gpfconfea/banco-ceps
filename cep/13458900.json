@@ -1,9 +1,11 @@
 {
   "cep": "13458900",
   "logradouro": "Estrada do Barreirinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Loteamento Residencial Mac Knight",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "latitude": "-22.7828708",
+  "longitude": "-47.4010401"
 }

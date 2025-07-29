@@ -5,5 +5,7 @@
   "bairro": "Palmeiras",
   "localidade": "Bom Despacho",
   "uf": "MG",
-  "ibge": "3107406"
+  "ibge": "3107406",
+  "latitude": "-19.73979",
+  "longitude": "-45.25039"
 }

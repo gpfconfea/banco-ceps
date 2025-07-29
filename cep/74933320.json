@@ -5,5 +5,7 @@
   "bairro": "Jardim Helvécia",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7529978",
+  "longitude": "-49.3148388"
 }

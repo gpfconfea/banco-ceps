@@ -1,9 +1,11 @@
 {
   "cep": "63512976",
   "logradouro": "Rua Antônio Alves Pereira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barro Alto",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "latitude": "-7.3126796",
+  "longitude": "-38.9521055"
 }

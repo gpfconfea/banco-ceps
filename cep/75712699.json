@@ -5,5 +5,7 @@
   "bairro": "Residencial Pôr do Sol",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "latitude": "-16.77716",
+  "longitude": "-49.34977"
 }

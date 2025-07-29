@@ -1,9 +1,11 @@
 {
   "cep": "46330971",
   "logradouro": "Rua da Paz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jurema",
   "localidade": "Licínio de Almeida",
   "uf": "BA",
-  "ibge": "2919405"
+  "ibge": "2919405",
+  "latitude": "-14.4737875",
+  "longitude": "-42.4604044"
 }

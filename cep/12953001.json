@@ -5,5 +5,7 @@
   "bairro": "Condomínio Atibaia Park I",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-20.8203886",
+  "longitude": "-49.3918587"
 }

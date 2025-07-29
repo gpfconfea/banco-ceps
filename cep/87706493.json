@@ -6,5 +6,7 @@
   "bairro": "Jardim Millenium",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-23.08028",
+  "longitude": "-52.47543"
 }

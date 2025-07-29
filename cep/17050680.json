@@ -5,5 +5,7 @@
   "bairro": "Vila Pacífico II",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.324428",
+  "longitude": "-49.1010311"
 }

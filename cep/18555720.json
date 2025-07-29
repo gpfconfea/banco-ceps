@@ -5,5 +5,7 @@
   "bairro": "Nova Rheata",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.3150095",
+  "longitude": "-47.7484844"
 }

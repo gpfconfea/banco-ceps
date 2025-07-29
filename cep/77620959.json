@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Aparecida do Rio Negro",
   "uf": "TO",
-  "ibge": "1701101"
+  "ibge": "1701101",
+  "latitude": "-9.95283",
+  "longitude": "-47.97449"
 }

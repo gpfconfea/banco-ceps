@@ -5,5 +5,7 @@
   "bairro": "Residencial Alto da Boa Vista",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.6826336",
+  "longitude": "-47.7084056"
 }

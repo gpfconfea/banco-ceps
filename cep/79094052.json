@@ -5,5 +5,7 @@
   "bairro": "Barra da Tijuca II",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.5074025",
+  "longitude": "-54.6679089"
 }

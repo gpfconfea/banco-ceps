@@ -1,9 +1,11 @@
 {
   "cep": "38785972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Lagamar",
   "uf": "MG",
-  "ibge": "3137106"
+  "ibge": "3137106",
+  "latitude": "-20.09082",
+  "longitude": "-43.0643"
 }

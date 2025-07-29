@@ -1,9 +1,11 @@
 {
   "cep": "46320970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paiol",
   "localidade": "Jacaraci",
   "uf": "BA",
-  "ibge": "2917409"
+  "ibge": "2917409",
+  "latitude": "-12.66488",
+  "longitude": "-39.5986"
 }

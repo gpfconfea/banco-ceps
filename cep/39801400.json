@@ -5,5 +5,7 @@
   "bairro": "Monte Carlo",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "latitude": "-17.8471788",
+  "longitude": "-41.4844218"
 }

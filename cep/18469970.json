@@ -1,9 +1,11 @@
 {
   "cep": "18469970",
   "logradouro": "Rua Maria José de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Pedra Branca de Itararé)",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-23.9594486",
+  "longitude": "-49.2853853"
 }

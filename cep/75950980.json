@@ -1,9 +1,11 @@
 {
   "cep": "75950980",
   "logradouro": "Rua 40",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Linda Vista",
   "localidade": "Jandaia",
   "uf": "GO",
-  "ibge": "5211701"
+  "ibge": "5211701",
+  "latitude": "-16.9510065",
+  "longitude": "-50.2555079"
 }

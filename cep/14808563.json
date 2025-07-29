@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Iedda",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.8152022",
+  "longitude": "-48.1412302"
 }

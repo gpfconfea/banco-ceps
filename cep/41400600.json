@@ -5,5 +5,7 @@
   "bairro": "CEASA",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.8389583",
+  "longitude": "-38.3663415"
 }

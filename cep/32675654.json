@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9320492",
+  "longitude": "-44.1226083"
 }

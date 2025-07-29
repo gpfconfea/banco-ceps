@@ -5,5 +5,7 @@
   "bairro": "Todos os Santos",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7181039",
+  "longitude": "-43.874411"
 }

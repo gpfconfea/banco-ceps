@@ -5,5 +5,7 @@
   "bairro": "Jardim Nilton Torres",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.403821",
+  "longitude": "-47.3755245"
 }

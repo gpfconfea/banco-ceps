@@ -1,9 +1,11 @@
 {
   "cep": "63550974",
   "logradouro": "Vila São Caetano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Naraniu",
   "localidade": "Várzea Alegre",
   "uf": "CE",
-  "ibge": "2314003"
+  "ibge": "2314003",
+  "latitude": "-6.6385028",
+  "longitude": "-39.2413217"
 }

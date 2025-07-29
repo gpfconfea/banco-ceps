@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Méris II",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "latitude": "-23.1915775",
+  "longitude": "-46.8249504"
 }

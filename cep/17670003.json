@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Quintana",
   "uf": "SP",
-  "ibge": "3542008"
+  "ibge": "3542008",
+  "latitude": "-22.0720737",
+  "longitude": "-50.3074059"
 }

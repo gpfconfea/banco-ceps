@@ -1,9 +1,11 @@
 {
   "cep": "76990972",
   "logradouro": "Rua Aírton Sena",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Chupinguaia",
   "uf": "RO",
-  "ibge": "1100924"
+  "ibge": "1100924",
+  "latitude": "-22.9756262",
+  "longitude": "-43.6741278"
 }

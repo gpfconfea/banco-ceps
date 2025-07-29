@@ -5,5 +5,7 @@
   "bairro": "Caixa D'Água",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-9.7239572",
+  "longitude": "-43.9071484"
 }

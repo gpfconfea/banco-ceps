@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "latitude": "-19.8882568",
+  "longitude": "-43.8930318"
 }

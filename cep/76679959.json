@@ -1,9 +1,11 @@
 {
   "cep": "76679959",
   "logradouro": "Rua Pinheiro de Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Heitoraí",
   "uf": "GO",
-  "ibge": "5209606"
+  "ibge": "5209606",
+  "latitude": "-16.82176",
+  "longitude": "-49.24448"
 }

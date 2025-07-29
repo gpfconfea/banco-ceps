@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paraíso",
   "uf": "SP",
-  "ibge": "3535705"
+  "ibge": "3535705",
+  "latitude": "-23.0984999",
+  "longitude": "-47.7169569"
 }

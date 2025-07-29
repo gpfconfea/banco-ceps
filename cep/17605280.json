@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "latitude": "-21.9337865",
+  "longitude": "-50.525125"
 }

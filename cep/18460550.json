@@ -5,5 +5,7 @@
   "bairro": "Vila Cruzeiro",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-22.57391",
+  "longitude": "-44.9624"
 }

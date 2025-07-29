@@ -1,9 +1,11 @@
 {
   "cep": "44950970",
   "logradouro": "Praça João da Rocha Machado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Uibaí",
   "uf": "BA",
-  "ibge": "2932408"
+  "ibge": "2932408",
+  "latitude": "-14.84947",
+  "longitude": "-40.83642"
 }

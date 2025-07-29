@@ -5,5 +5,7 @@
   "bairro": "Indianópolis",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.2486385",
+  "longitude": "-35.7581416"
 }

@@ -6,5 +6,7 @@
   "bairro": "Cidade Nova III",
   "localidade": "Marapoama",
   "uf": "SP",
-  "ibge": "3528858"
+  "ibge": "3528858",
+  "latitude": "-21.25547",
+  "longitude": "-49.13105"
 }

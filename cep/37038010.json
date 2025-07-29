@@ -5,5 +5,7 @@
   "bairro": "Condomínio Lagamar",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-21.3675866",
+  "longitude": "-45.5295416"
 }

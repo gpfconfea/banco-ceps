@@ -1,9 +1,11 @@
 {
   "cep": "36930971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Simão do Rio Preto",
   "localidade": "Simonésia",
   "uf": "MG",
-  "ibge": "3167608"
+  "ibge": "3167608",
+  "latitude": "-19.9949711",
+  "longitude": "-42.0639615"
 }

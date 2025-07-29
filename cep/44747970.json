@@ -1,9 +1,11 @@
 {
   "cep": "44747970",
   "logradouro": "Rua João de Deus",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nuguaçu",
   "localidade": "Mirangaba",
   "uf": "BA",
-  "ibge": "2921401"
+  "ibge": "2921401",
+  "latitude": "-12.9727842",
+  "longitude": "-38.5088483"
 }

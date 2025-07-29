@@ -1,9 +1,11 @@
 {
   "cep": "84350990",
   "logradouro": "Rua Sete de Setembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ortigueira",
   "uf": "PR",
-  "ibge": "4117305"
+  "ibge": "4117305",
+  "latitude": "-24.0789",
+  "longitude": "-54.25592"
 }

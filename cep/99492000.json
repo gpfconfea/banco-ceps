@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Tapera",
   "uf": "RS",
-  "ibge": "4321006"
+  "ibge": "4321006",
+  "latitude": "-28.630785",
+  "longitude": "-52.9093667"
 }

@@ -5,5 +5,7 @@
   "bairro": "Dois Marcos",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "latitude": "39.8560679",
+  "longitude": "-4.0239568"
 }

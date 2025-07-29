@@ -5,5 +5,7 @@
   "bairro": "Costa e Silva",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-29.9994726",
+  "longitude": "-51.1377489"
 }

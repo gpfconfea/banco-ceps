@@ -5,5 +5,7 @@
   "bairro": "COHAB A",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.9391883",
+  "longitude": "-51.0452123"
 }

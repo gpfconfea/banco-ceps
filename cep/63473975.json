@@ -1,9 +1,11 @@
 {
   "cep": "63473975",
   "logradouro": "Vila São João",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João",
   "localidade": "Ererê",
   "uf": "CE",
-  "ibge": "2304277"
+  "ibge": "2304277",
+  "latitude": "-5.9195418",
+  "longitude": "-38.2307097"
 }

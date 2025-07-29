@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Lúcia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-21.5284956",
+  "longitude": "-46.6436576"
 }

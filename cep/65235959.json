@@ -1,9 +1,11 @@
 {
   "cep": "65235959",
   "logradouro": "Rua Professor Tito Soares",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Bento",
   "uf": "MA",
-  "ibge": "2110500"
+  "ibge": "2110500",
+  "latitude": "-2.7011369",
+  "longitude": "-44.8307708"
 }

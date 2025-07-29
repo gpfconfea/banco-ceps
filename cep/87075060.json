@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Ney Braga",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-24.050604",
+  "longitude": "-52.3668525"
 }

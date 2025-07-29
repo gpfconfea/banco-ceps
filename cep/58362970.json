@@ -1,9 +1,11 @@
 {
   "cep": "58362970",
   "logradouro": "Rua Luiz Quirino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campo Grande",
   "localidade": "Itabaiana",
   "uf": "PB",
-  "ibge": "2506905"
+  "ibge": "2506905",
+  "latitude": "-7.3353065",
+  "longitude": "-35.3532613"
 }

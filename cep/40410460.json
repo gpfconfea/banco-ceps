@@ -5,5 +5,7 @@
   "bairro": "Calçada",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "43.3002758",
+  "longitude": "-3.0079944"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58500974",
   "logradouro": "Sítio Santa Catarina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Monteiro",
   "uf": "PB",
-  "ibge": "2509701"
+  "ibge": "2509701",
+  "latitude": "-7.12718",
+  "longitude": "-34.92877"
 }

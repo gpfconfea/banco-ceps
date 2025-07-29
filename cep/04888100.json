@@ -5,5 +5,7 @@
   "bairro": "Chácara São Silvestre",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.8267291",
+  "longitude": "-46.7391221"
 }

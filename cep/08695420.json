@@ -5,5 +5,7 @@
   "bairro": "Jardim Graziela",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.4985317",
+  "longitude": "-46.2742185"
 }

@@ -5,5 +5,7 @@
   "bairro": "da Pedra Negra",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-24.9723684",
+  "longitude": "-53.4575776"
 }

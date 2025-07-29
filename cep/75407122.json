@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Tereza",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.3715054",
+  "longitude": "-49.5025849"
 }

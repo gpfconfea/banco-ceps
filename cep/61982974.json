@@ -1,9 +1,11 @@
 {
   "cep": "61982974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João do Amanari",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "latitude": "-4.0929794",
+  "longitude": "-38.9240803"
 }

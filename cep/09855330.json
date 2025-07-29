@@ -5,5 +5,7 @@
   "bairro": "Cooperativa",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "latitude": "-23.7319804",
+  "longitude": "-46.5897106"
 }

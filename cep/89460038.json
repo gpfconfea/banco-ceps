@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Canoinhas",
   "uf": "SC",
-  "ibge": "4203808"
+  "ibge": "4203808",
+  "latitude": "-26.1707717",
+  "longitude": "-50.3912148"
 }

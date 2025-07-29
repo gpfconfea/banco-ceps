@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Trombudo Central",
   "uf": "SC",
-  "ibge": "4218608"
+  "ibge": "4218608",
+  "latitude": "-27.3016978",
+  "longitude": "-49.7921741"
 }

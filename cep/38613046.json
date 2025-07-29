@@ -5,5 +5,7 @@
   "bairro": "Jardim",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-15.341405",
+  "longitude": "-46.3277779"
 }

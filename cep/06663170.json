@@ -5,5 +5,7 @@
   "bairro": "Jardim Maristela",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5538281",
+  "longitude": "-46.9437531"
 }

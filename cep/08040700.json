@@ -5,5 +5,7 @@
   "bairro": "Jardim Casa Pintada",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5118394",
+  "longitude": "-46.444866"
 }

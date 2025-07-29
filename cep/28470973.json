@@ -1,9 +1,11 @@
 {
   "cep": "28470973",
   "logradouro": "Rua Idalino de Souza Maia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Nova",
   "localidade": "Santo Antônio de Pádua",
   "uf": "RJ",
-  "ibge": "3304706"
+  "ibge": "3304706",
+  "latitude": "-21.6365357",
+  "longitude": "-42.2722011"
 }

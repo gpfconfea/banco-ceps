@@ -5,5 +5,7 @@
   "bairro": "Residencial Barreiro",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "latitude": "-19.760966",
+  "longitude": "-47.9845349"
 }

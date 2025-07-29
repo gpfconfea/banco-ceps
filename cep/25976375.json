@@ -5,5 +5,7 @@
   "bairro": "Vale do Paraíso",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "latitude": "-22.8756024",
+  "longitude": "-43.320568"
 }

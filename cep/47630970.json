@@ -1,9 +1,11 @@
 {
   "cep": "47630970",
   "logradouro": "Avenida Norte",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Serra do Ramalho",
   "uf": "BA",
-  "ibge": "2930154"
+  "ibge": "2930154",
+  "latitude": "-13.5412421",
+  "longitude": "-43.5777119"
 }

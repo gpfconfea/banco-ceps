@@ -1,9 +1,11 @@
 {
   "cep": "63622974",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pasta",
   "localidade": "Solonópole",
   "uf": "CE",
-  "ibge": "2313005"
+  "ibge": "2313005",
+  "latitude": "-3.8097909",
+  "longitude": "-38.5113799"
 }

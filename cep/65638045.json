@@ -5,5 +5,7 @@
   "bairro": "São Francisco II",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "latitude": "-22.7826118",
+  "longitude": "-43.427709"
 }

@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Pindorama",
   "uf": "SP",
-  "ibge": "3538105"
+  "ibge": "3538105",
+  "latitude": "-21.186229",
+  "longitude": "-48.9089009"
 }

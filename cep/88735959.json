@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gravatal",
   "uf": "SC",
-  "ibge": "4206207"
+  "ibge": "4206207",
+  "latitude": "-28.33088",
+  "longitude": "-49.03397"
 }

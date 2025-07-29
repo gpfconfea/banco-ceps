@@ -5,5 +5,7 @@
   "bairro": "Betel",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2017857",
+  "longitude": "-49.9402004"
 }

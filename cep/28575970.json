@@ -1,9 +1,11 @@
 {
   "cep": "28575970",
   "logradouro": "Praça José Dias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jaguarembé",
   "localidade": "Itaocara",
   "uf": "RJ",
-  "ibge": "3302106"
+  "ibge": "3302106",
+  "latitude": "-21.7250762",
+  "longitude": "-41.9919227"
 }

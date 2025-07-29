@@ -1,9 +1,11 @@
 {
   "cep": "95704990",
   "logradouro": "Via dos Imigrantes - Bairro Cruzeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.18685",
+  "longitude": "-51.47707"
 }

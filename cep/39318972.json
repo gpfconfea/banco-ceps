@@ -1,9 +1,11 @@
 {
   "cep": "39318972",
   "logradouro": "Rua Coronel José Bernadino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Icaraí de Minas",
   "uf": "MG",
-  "ibge": "3130051"
+  "ibge": "3130051",
+  "latitude": "-21.6819982",
+  "longitude": "-44.5973503"
 }

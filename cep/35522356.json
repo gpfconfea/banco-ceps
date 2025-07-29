@@ -5,5 +5,7 @@
   "bairro": "Condomínio Reserva do Vale",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8894952",
+  "longitude": "-45.0026154"
 }

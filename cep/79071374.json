@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Universitárias",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-23.6884161",
+  "longitude": "-46.6776329"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Bela II",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0064067",
+  "longitude": "-45.5854588"
 }

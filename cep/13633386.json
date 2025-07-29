@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Ipês",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-23.5943658",
+  "longitude": "-46.6447274"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria do Carmo",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5224058",
+  "longitude": "-47.3925257"
 }

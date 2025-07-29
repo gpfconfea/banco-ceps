@@ -5,5 +5,7 @@
   "bairro": "Jardim Afife",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8258939",
+  "longitude": "-47.0795805"
 }

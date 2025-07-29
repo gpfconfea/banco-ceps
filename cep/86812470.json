@@ -5,5 +5,7 @@
   "bairro": "Vila Shangri-La",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5566656",
+  "longitude": "-51.4300964"
 }

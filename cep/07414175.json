@@ -5,5 +5,7 @@
   "bairro": "Jardim Yamamoto",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.54446",
+  "longitude": "-46.30584"
 }

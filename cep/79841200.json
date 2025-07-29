@@ -5,5 +5,7 @@
   "bairro": "Vila Ubiratan",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.226405",
+  "longitude": "-54.764224"
 }

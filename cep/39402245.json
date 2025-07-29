@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.165366",
+  "longitude": "-42.288236"
 }

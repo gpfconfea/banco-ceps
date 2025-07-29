@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Nicolau",
   "uf": "RS",
-  "ibge": "4319208"
+  "ibge": "4319208",
+  "latitude": "-28.18201",
+  "longitude": "-55.26305"
 }

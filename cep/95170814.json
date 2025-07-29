@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-29.2259787",
+  "longitude": "-51.3542986"
 }

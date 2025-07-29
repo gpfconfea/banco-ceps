@@ -1,9 +1,11 @@
 {
   "cep": "13238970",
   "logradouro": "Avenida Casa Branca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Constança (Botujuru)",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-23.2317558",
+  "longitude": "-46.7667853"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Hermínio Bueno",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "latitude": "-22.3660375",
+  "longitude": "-46.9281436"
 }

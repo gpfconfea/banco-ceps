@@ -1,9 +1,11 @@
 {
   "cep": "65535959",
   "logradouro": "Rua do Sol",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Belágua",
   "uf": "MA",
-  "ibge": "2101731"
+  "ibge": "2101731",
+  "latitude": "-3.1579024",
+  "longitude": "-43.5047913"
 }

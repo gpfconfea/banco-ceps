@@ -5,5 +5,7 @@
   "bairro": "Alto Floresta",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-17.9052592",
+  "longitude": "-45.1297893"
 }

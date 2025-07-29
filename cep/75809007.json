@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora do Carmo",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "latitude": "-17.8749099",
+  "longitude": "-51.7122081"
 }

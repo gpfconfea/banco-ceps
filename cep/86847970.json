@@ -5,5 +5,7 @@
   "bairro": "Ribeirão Bonito",
   "localidade": "Grandes Rios",
   "uf": "PR",
-  "ibge": "4108700"
+  "ibge": "4108700",
+  "latitude": "-24.146346",
+  "longitude": "-51.5038986"
 }

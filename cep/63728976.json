@@ -1,9 +1,11 @@
 {
   "cep": "63728976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Irapuã",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "latitude": "-5.3235936",
+  "longitude": "-40.664831"
 }

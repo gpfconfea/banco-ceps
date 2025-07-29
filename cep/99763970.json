@@ -1,9 +1,11 @@
 {
   "cep": "99763970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Tozzo",
   "localidade": "Itatiba do Sul",
   "uf": "RS",
-  "ibge": "4310702"
+  "ibge": "4310702",
+  "latitude": "-27.3270684",
+  "longitude": "-52.4964168"
 }

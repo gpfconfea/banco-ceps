@@ -6,5 +6,7 @@
   "bairro": "Vila Garavello",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.3634041",
+  "longitude": "-48.2316863"
 }

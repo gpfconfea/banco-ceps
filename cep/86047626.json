@@ -5,5 +5,7 @@
   "bairro": "Terra Bonita",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.352251",
+  "longitude": "-51.179865"
 }

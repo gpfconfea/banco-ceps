@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional da Fraternidade",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5442384",
+  "longitude": "-51.467389"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Santos Dumont",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4247134",
+  "longitude": "-46.5447125"
 }

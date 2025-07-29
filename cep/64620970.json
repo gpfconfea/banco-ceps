@@ -1,9 +1,11 @@
 {
   "cep": "64620970",
   "logradouro": "Praça Francisco Belo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Dom Expedito Lopes",
   "uf": "PI",
-  "ibge": "2203404"
+  "ibge": "2203404",
+  "latitude": "-6.9712268",
+  "longitude": "-41.700902"
 }

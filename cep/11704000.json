@@ -5,5 +5,7 @@
   "bairro": "Tupi",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-24.0242598",
+  "longitude": "-46.4661432"
 }

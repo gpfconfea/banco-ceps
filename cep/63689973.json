@@ -1,9 +1,11 @@
 {
   "cep": "63689973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Miranda",
   "localidade": "Parambu",
   "uf": "CE",
-  "ibge": "2310308"
+  "ibge": "2310308",
+  "latitude": "-3.7449808",
+  "longitude": "-38.6483705"
 }

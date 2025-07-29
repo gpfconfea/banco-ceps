@@ -5,5 +5,7 @@
   "bairro": "Pintos Negreiros",
   "localidade": "Maria da Fé",
   "uf": "MG",
-  "ibge": "3139904"
+  "ibge": "3139904",
+  "latitude": "-22.32371",
+  "longitude": "-45.2319526"
 }
