@@ -1,9 +1,11 @@
 {
   "cep": "79960971",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Iguatemi",
   "uf": "MS",
-  "ibge": "5004304"
+  "ibge": "5004304",
+  "latitude": "-23.6624522",
+  "longitude": "-54.56316"
 }

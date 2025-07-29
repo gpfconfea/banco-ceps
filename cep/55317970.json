@@ -1,9 +1,11 @@
 {
   "cep": "55317970",
   "logradouro": "Rua Felipe de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Poço Comprido",
   "localidade": "Correntes",
   "uf": "PE",
-  "ibge": "2604700"
+  "ibge": "2604700",
+  "latitude": "-9.0410492",
+  "longitude": "-36.3967408"
 }

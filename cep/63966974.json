@@ -1,9 +1,11 @@
 {
   "cep": "63966974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Laranjeiras",
   "localidade": "Banabuiú",
   "uf": "CE",
-  "ibge": "2301851"
+  "ibge": "2301851",
+  "latitude": "-2.7956374",
+  "longitude": "-40.5140808"
 }

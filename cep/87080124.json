@@ -5,5 +5,7 @@
   "bairro": "Residencial Moreschi",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4029738",
+  "longitude": "-51.9524544"
 }

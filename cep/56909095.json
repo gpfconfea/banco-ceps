@@ -5,5 +5,7 @@
   "bairro": "Tancredo Neves",
   "localidade": "Serra Talhada",
   "uf": "PE",
-  "ibge": "2613909"
+  "ibge": "2613909",
+  "latitude": "-22.8776626",
+  "longitude": "-42.3142283"
 }

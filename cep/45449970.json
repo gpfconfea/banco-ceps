@@ -1,9 +1,11 @@
 {
   "cep": "45449970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tapúia",
   "localidade": "Camamu",
   "uf": "BA",
-  "ibge": "2905800"
+  "ibge": "2905800",
+  "latitude": "-14.0873012",
+  "longitude": "-39.0908942"
 }

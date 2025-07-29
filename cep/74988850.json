@@ -5,5 +5,7 @@
   "bairro": "All Park Polo Empresarial",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.823381",
+  "longitude": "-49.2100565"
 }

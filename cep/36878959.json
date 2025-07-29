@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rosário da Limeira",
   "uf": "MG",
-  "ibge": "3156452"
+  "ibge": "3156452",
+  "latitude": "-20.97918",
+  "longitude": "-42.51051"
 }

@@ -5,5 +5,7 @@
   "bairro": "Iguaçu",
   "localidade": "Fazenda Rio Grande",
   "uf": "PR",
-  "ibge": "4107652"
+  "ibge": "4107652",
+  "latitude": "-23.3992703",
+  "longitude": "-51.8855449"
 }

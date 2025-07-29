@@ -5,5 +5,7 @@
   "bairro": "Vila São Francisco",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.7587111",
+  "longitude": "-47.4100817"
 }

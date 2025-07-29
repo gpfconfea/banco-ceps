@@ -1,9 +1,11 @@
 {
   "cep": "42800917",
   "logradouro": "Avenida Deputado Luís Eduardo Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.7038573",
+  "longitude": "-38.3222067"
 }

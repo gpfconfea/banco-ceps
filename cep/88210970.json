@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto Belo",
   "uf": "SC",
-  "ibge": "4213500"
+  "ibge": "4213500",
+  "latitude": "-27.158158",
+  "longitude": "-48.5389414"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44770971",
   "logradouro": "Praça Otávio Mangabeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Carnaíba de Baixo",
   "localidade": "Pindobaçu",
   "uf": "BA",
-  "ibge": "2924603"
+  "ibge": "2924603",
+  "latitude": "-10.7266321",
+  "longitude": "-40.4552072"
 }

@@ -5,5 +5,7 @@
   "bairro": "Carianos",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.6660953",
+  "longitude": "-48.5308488"
 }

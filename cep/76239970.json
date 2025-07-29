@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Arenópolis",
   "uf": "GO",
-  "ibge": "5202353"
+  "ibge": "5202353",
+  "latitude": "-16.3876094",
+  "longitude": "-51.5608196"
 }

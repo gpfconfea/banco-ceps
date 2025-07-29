@@ -5,5 +5,7 @@
   "bairro": "Fazenda Grande III",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.8984161",
+  "longitude": "-38.4069849"
 }

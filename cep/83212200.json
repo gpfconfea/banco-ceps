@@ -5,5 +5,7 @@
   "bairro": "Parque São João",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.554471",
+  "longitude": "-48.5507147"
 }

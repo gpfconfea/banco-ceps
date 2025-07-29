@@ -5,5 +5,7 @@
   "bairro": "Rodeio",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.81627",
+  "longitude": "-46.28086"
 }

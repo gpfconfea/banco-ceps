@@ -5,5 +5,7 @@
   "bairro": "Cais do Porto",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.71324",
+  "longitude": "-38.54841"
 }

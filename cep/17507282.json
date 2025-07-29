@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Martha",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.1871751",
+  "longitude": "-49.9682634"
 }

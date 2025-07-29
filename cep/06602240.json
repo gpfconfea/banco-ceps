@@ -5,5 +5,7 @@
   "bairro": "Vila Esmeralda",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5354208",
+  "longitude": "-46.8979063"
 }

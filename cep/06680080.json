@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Flora",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5893076",
+  "longitude": "-46.9640215"
 }

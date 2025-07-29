@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vila Pavão",
   "uf": "ES",
-  "ibge": "3205150"
+  "ibge": "3205150",
+  "latitude": "-20.1435249",
+  "longitude": "-40.2508899"
 }

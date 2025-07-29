@@ -5,5 +5,7 @@
   "bairro": "Jardim Veneza",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.7781556",
+  "longitude": "-53.3325431"
 }

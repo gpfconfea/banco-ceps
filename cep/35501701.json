@@ -5,5 +5,7 @@
   "bairro": "Residencial Castelo",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-20.6319741",
+  "longitude": "-46.5148564"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "36682970",
   "logradouro": "Rua Alcino Leites",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Roça Grande",
   "localidade": "São João Nepomuceno",
   "uf": "MG",
-  "ibge": "3162906"
+  "ibge": "3162906",
+  "latitude": "-21.5793602",
+  "longitude": "-42.9803739"
 }

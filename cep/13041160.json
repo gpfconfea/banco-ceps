@@ -5,5 +5,7 @@
   "bairro": "Jardim Leonor",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9255182",
+  "longitude": "-47.0608334"
 }

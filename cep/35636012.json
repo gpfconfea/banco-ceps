@@ -5,5 +5,7 @@
   "bairro": "Santa Ângela",
   "localidade": "Bom Despacho",
   "uf": "MG",
-  "ibge": "3107406"
+  "ibge": "3107406",
+  "latitude": "-19.74033",
+  "longitude": "-45.25716"
 }

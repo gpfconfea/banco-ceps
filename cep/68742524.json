@@ -5,5 +5,7 @@
   "bairro": "Cristo Redentor",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "latitude": "-1.0065612",
+  "longitude": "-46.7768574"
 }

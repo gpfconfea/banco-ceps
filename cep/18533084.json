@@ -5,5 +5,7 @@
   "bairro": "Jardim de Alá",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.0901048",
+  "longitude": "-47.7163267"
 }

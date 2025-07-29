@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Aparecida",
   "uf": "SP",
-  "ibge": "3502507"
+  "ibge": "3502507",
+  "latitude": "-22.8429748",
+  "longitude": "-45.228835"
 }

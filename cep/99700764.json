@@ -5,5 +5,7 @@
   "bairro": "São Caetano",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "latitude": "-27.63575",
+  "longitude": "-52.27012"
 }

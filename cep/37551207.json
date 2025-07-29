@@ -5,5 +5,7 @@
   "bairro": "Jardim Frederico II",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.5065727",
+  "longitude": "-45.2797693"
 }

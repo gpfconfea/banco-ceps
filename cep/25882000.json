@@ -5,5 +5,7 @@
   "bairro": "Anta",
   "localidade": "Sapucaia",
   "uf": "RJ",
-  "ibge": "3305406"
+  "ibge": "3305406",
+  "latitude": "-22.0367",
+  "longitude": "-42.99"
 }

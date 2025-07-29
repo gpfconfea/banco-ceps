@@ -5,5 +5,7 @@
   "bairro": "São Francisco de Assis",
   "localidade": "Viçosa",
   "uf": "MG",
-  "ibge": "3171303"
+  "ibge": "3171303",
+  "latitude": "-20.7506342",
+  "longitude": "-42.8958902"
 }

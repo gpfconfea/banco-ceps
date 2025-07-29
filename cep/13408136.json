@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Javary II",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.7619618",
+  "longitude": "-47.6258164"
 }

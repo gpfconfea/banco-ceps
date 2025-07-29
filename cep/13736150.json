@@ -5,5 +5,7 @@
   "bairro": "Vila Quintino",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4764922",
+  "longitude": "-47.0032523"
 }

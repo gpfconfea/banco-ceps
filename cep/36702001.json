@@ -5,5 +5,7 @@
   "bairro": "Monte Verde",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-23.4768132",
+  "longitude": "-47.477028"
 }

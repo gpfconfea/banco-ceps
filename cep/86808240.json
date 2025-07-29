@@ -5,5 +5,7 @@
   "bairro": "Jardim Celmira",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5579452",
+  "longitude": "-51.4511198"
 }

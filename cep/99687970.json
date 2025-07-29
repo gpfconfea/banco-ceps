@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Xingu",
   "uf": "RS",
-  "ibge": "4313466"
+  "ibge": "4313466",
+  "latitude": "-27.7476834",
+  "longitude": "-53.0550311"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Picada Café",
   "uf": "RS",
-  "ibge": "4314423"
+  "ibge": "4314423",
+  "latitude": "-29.45177",
+  "longitude": "-51.09723"
 }

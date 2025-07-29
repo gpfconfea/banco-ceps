@@ -5,5 +5,7 @@
   "bairro": "Condomínio Parque Vale dos Lagos",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.3353176",
+  "longitude": "-46.0077852"
 }

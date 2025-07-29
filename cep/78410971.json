@@ -1,9 +1,11 @@
 {
   "cep": "78410971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tira Sentido",
   "localidade": "Alto Paraguai",
   "uf": "MT",
-  "ibge": "5100508"
+  "ibge": "5100508",
+  "latitude": "-14.9242757",
+  "longitude": "-56.8422824"
 }

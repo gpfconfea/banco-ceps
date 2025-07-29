@@ -5,5 +5,7 @@
   "bairro": "Jardim Pompéia",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0952131",
+  "longitude": "-47.2227404"
 }

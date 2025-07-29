@@ -5,5 +5,7 @@
   "bairro": "Parque das Árvores",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5735973",
+  "longitude": "-47.385636"
 }

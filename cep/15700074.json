@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "latitude": "-20.4435171",
+  "longitude": "-50.5164248"
 }

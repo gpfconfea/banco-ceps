@@ -5,5 +5,7 @@
   "bairro": "Jardim Umuarama III",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "latitude": "-11.9285199",
+  "longitude": "-55.503727"
 }

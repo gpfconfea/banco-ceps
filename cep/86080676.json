@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapoá",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2533886",
+  "longitude": "-51.1509919"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78132990",
   "logradouro": "Rua Leôncio Lopes de Miranda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.69413",
+  "longitude": "-56.12974"
 }

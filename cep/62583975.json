@@ -1,9 +1,11 @@
 {
   "cep": "62583975",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa do Carneiro",
   "localidade": "Acaraú",
   "uf": "CE",
-  "ibge": "2300200"
+  "ibge": "2300200",
+  "latitude": "-2.7956316",
+  "longitude": "-40.5159468"
 }

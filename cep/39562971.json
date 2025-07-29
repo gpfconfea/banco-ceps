@@ -5,5 +5,7 @@
   "bairro": "Ferreirópolis",
   "localidade": "Salinas",
   "uf": "MG",
-  "ibge": "3157005"
+  "ibge": "3157005",
+  "latitude": "-15.852018",
+  "longitude": "-42.0095749"
 }

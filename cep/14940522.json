@@ -5,5 +5,7 @@
   "bairro": "Residencial Vitoria I",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-23.29353",
+  "longitude": "-47.65852"
 }

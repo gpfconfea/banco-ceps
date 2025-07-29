@@ -5,5 +5,7 @@
   "bairro": "Residencial Vilela",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4849585",
+  "longitude": "-46.4639452"
 }

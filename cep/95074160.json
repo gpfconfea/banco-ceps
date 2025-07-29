@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "latitude": "-29.1745296",
+  "longitude": "-51.1402449"
 }

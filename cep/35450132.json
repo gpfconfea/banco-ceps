@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Itabirito",
   "uf": "MG",
-  "ibge": "3131901"
+  "ibge": "3131901",
+  "latitude": "-20.24846",
+  "longitude": "-43.79867"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio do Grama",
   "uf": "MG",
-  "ibge": "3160108"
+  "ibge": "3160108",
+  "latitude": "-20.3189574",
+  "longitude": "-42.6050916"
 }

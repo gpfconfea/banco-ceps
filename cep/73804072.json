@@ -6,5 +6,7 @@
   "bairro": "Chácaras Setor Abreu",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "-15.5461",
+  "longitude": "-47.34436"
 }

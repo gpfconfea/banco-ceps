@@ -1,9 +1,11 @@
 {
   "cep": "96798970",
   "logradouro": "Estrada Bandeirinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bandeirinha",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-30.63648",
+  "longitude": "-51.8543"
 }

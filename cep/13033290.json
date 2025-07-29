@@ -5,5 +5,7 @@
   "bairro": "Jardim Pacaembu",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9007445",
+  "longitude": "-47.1047339"
 }

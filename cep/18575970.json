@@ -1,9 +1,11 @@
 {
   "cep": "18575970",
   "logradouro": "Rua Pedro Salgado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Juquiratiba",
   "localidade": "Conchas",
   "uf": "SP",
-  "ibge": "3512308"
+  "ibge": "3512308",
+  "latitude": "-22.963886",
+  "longitude": "-48.0986461"
 }

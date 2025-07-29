@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Ubá",
   "uf": "MG",
-  "ibge": "3169901"
+  "ibge": "3169901",
+  "latitude": "-21.2727109",
+  "longitude": "-43.0274721"
 }

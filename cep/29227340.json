@@ -5,5 +5,7 @@
   "bairro": "Rio Calçado",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "latitude": "-27.444054",
+  "longitude": "-48.376429"
 }

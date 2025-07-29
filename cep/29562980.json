@@ -1,9 +1,11 @@
 {
   "cep": "29562980",
   "logradouro": "Avenida Cândido Mendonça",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Tiago",
   "localidade": "Guaçuí",
   "uf": "ES",
-  "ibge": "3202306"
+  "ibge": "3202306",
+  "latitude": "-20.7224925",
+  "longitude": "-41.6815973"
 }

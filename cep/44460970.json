@@ -1,9 +1,11 @@
 {
   "cep": "44460970",
   "logradouro": "Praça Tenente Botas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itaparica",
   "uf": "BA",
-  "ibge": "2916104"
+  "ibge": "2916104",
+  "latitude": "-12.8815032",
+  "longitude": "-38.6851906"
 }

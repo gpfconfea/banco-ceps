@@ -5,5 +5,7 @@
   "bairro": "Chácara do Governador",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-14.9326435",
+  "longitude": "-51.0819599"
 }

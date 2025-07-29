@@ -5,5 +5,7 @@
   "bairro": "Serra das Araras",
   "localidade": "Chapada Gaúcha",
   "uf": "MG",
-  "ibge": "3116159"
+  "ibge": "3116159",
+  "latitude": "-15.50767",
+  "longitude": "-45.39672"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto Caparaó",
   "uf": "MG",
-  "ibge": "3102050"
+  "ibge": "3102050",
+  "latitude": "-20.4405661",
+  "longitude": "-41.8683799"
 }

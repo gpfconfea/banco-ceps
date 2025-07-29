@@ -5,5 +5,7 @@
   "bairro": "Parque Luis Mucciolo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6017295",
+  "longitude": "-46.5163901"
 }

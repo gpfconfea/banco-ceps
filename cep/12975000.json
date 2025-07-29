@@ -5,5 +5,7 @@
   "bairro": "Batatuba",
   "localidade": "Piracaia",
   "uf": "SP",
-  "ibge": "3538600"
+  "ibge": "3538600",
+  "latitude": "-23.0960606",
+  "longitude": "-46.4194239"
 }

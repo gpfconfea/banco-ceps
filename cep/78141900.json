@@ -1,9 +1,11 @@
 {
   "cep": "78141900",
   "logradouro": "Rua da Atlântica",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Glória",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6324164",
+  "longitude": "-56.1397561"
 }

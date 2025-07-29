@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Harmonia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6503721",
+  "longitude": "-46.5744486"
 }

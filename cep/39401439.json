@@ -5,5 +5,7 @@
   "bairro": "Vila Tupã",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7103306",
+  "longitude": "-43.8452463"
 }

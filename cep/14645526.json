@@ -5,5 +5,7 @@
   "bairro": "Residencial Cidade Nova",
   "localidade": "Morro Agudo",
   "uf": "SP",
-  "ibge": "3531902"
+  "ibge": "3531902",
+  "latitude": "-20.7204073",
+  "longitude": "-48.0334085"
 }

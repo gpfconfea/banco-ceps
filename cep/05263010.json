@@ -5,5 +5,7 @@
   "bairro": "Residencial Taipas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4371726",
+  "longitude": "-46.5413572"
 }

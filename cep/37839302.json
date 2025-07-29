@@ -5,5 +5,7 @@
   "bairro": "Vila Graziani",
   "localidade": "Andradas",
   "uf": "MG",
-  "ibge": "3102605"
+  "ibge": "3102605",
+  "latitude": "-22.06407",
+  "longitude": "-46.57141"
 }

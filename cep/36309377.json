@@ -5,5 +5,7 @@
   "bairro": "Vila São Bento",
   "localidade": "São João Del Rei",
   "uf": "MG",
-  "ibge": "3162500"
+  "ibge": "3162500",
+  "latitude": "-19.4914054",
+  "longitude": "-42.6281121"
 }

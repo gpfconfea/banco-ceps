@@ -5,5 +5,7 @@
   "bairro": "Condominio Villagio Piu Verde",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.60781",
+  "longitude": "-46.94382"
 }

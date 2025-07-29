@@ -5,5 +5,7 @@
   "bairro": "Parque Boa Vista",
   "localidade": "Embu-Guaçu",
   "uf": "SP",
-  "ibge": "3515103"
+  "ibge": "3515103",
+  "latitude": "-23.8826147",
+  "longitude": "-46.8293677"
 }

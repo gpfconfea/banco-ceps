@@ -5,5 +5,7 @@
   "bairro": "Caju",
   "localidade": "Frutal",
   "uf": "MG",
-  "ibge": "3127107"
+  "ibge": "3127107",
+  "latitude": "-22.9440452",
+  "longitude": "-46.9850536"
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto da Cruz",
   "localidade": "Lapa",
   "uf": "PR",
-  "ibge": "4113205"
+  "ibge": "4113205",
+  "latitude": "-25.76736",
+  "longitude": "-49.72601"
 }

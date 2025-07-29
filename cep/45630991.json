@@ -1,9 +1,11 @@
 {
   "cep": "45630991",
   "logradouro": "Praça da Bandeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Itajuípe",
   "uf": "BA",
-  "ibge": "2915502"
+  "ibge": "2915502",
+  "latitude": "-16.37516",
+  "longitude": "-39.58792"
 }

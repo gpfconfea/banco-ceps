@@ -5,5 +5,7 @@
   "bairro": "Tabatinga",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "latitude": "-23.3157415",
+  "longitude": "-52.472729"
 }

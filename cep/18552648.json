@@ -5,5 +5,7 @@
   "bairro": "Chácara dos Pinhais",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.3100673",
+  "longitude": "-47.6366232"
 }

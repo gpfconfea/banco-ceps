@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "latitude": "-23.4836215",
+  "longitude": "-46.6447096"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Fibra",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7632756",
+  "longitude": "-47.2555448"
 }

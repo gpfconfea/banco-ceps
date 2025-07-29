@@ -1,9 +1,11 @@
 {
   "cep": "21941900",
   "logradouro": "Avenida Vinte de Janeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Galeão",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.818423",
+  "longitude": "-43.2372493"
 }

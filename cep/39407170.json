@@ -5,5 +5,7 @@
   "bairro": "Residencial Sul Jacarandás",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.77084",
+  "longitude": "-43.86087"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Goianorte",
   "uf": "TO",
-  "ibge": "1708304"
+  "ibge": "1708304",
+  "latitude": "-9.5280647",
+  "longitude": "-48.5922828"
 }

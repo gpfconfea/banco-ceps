@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "latitude": "-17.2485192",
+  "longitude": "-49.2435048"
 }

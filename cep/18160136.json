@@ -6,5 +6,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Salto de Pirapora",
   "uf": "SP",
-  "ibge": "3545308"
+  "ibge": "3545308",
+  "latitude": "-23.6468596",
+  "longitude": "-47.578143"
 }

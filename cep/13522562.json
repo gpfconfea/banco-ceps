@@ -5,5 +5,7 @@
   "bairro": "Reservas do Jardim Botânico",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "latitude": "-22.5396733",
+  "longitude": "-47.889512"
 }

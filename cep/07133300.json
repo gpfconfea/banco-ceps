@@ -5,5 +5,7 @@
   "bairro": "Jardim Almeida Prado",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4371345",
+  "longitude": "-46.5100341"
 }

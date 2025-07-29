@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-26.2717194",
+  "longitude": "-48.8618728"
 }

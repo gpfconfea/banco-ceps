@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova América",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.78871",
+  "longitude": "-53.30455"
 }

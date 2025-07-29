@@ -5,5 +5,7 @@
   "bairro": "Jardim Lima",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5532971",
+  "longitude": "-47.4023124"
 }

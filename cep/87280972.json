@@ -1,9 +1,11 @@
 {
   "cep": "87280972",
   "logradouro": "Avenida Sebastião Paulino da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Iretama",
   "uf": "PR",
-  "ibge": "4110805"
+  "ibge": "4110805",
+  "latitude": "-20.652026",
+  "longitude": "-40.4924849"
 }

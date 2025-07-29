@@ -6,5 +6,7 @@
   "bairro": "Jardim Morada do Sol",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-24.0005",
+  "longitude": "-48.90193"
 }

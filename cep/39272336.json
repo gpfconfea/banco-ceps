@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Pirapora",
   "uf": "MG",
-  "ibge": "3151206"
+  "ibge": "3151206",
+  "latitude": "-23.6741934",
+  "longitude": "-47.4376888"
 }

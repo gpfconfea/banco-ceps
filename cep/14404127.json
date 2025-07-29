@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto II",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-28.7411598",
+  "longitude": "-49.459462"
 }

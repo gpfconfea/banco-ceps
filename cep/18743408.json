@@ -6,5 +6,7 @@
   "bairro": "Pasquale Sangiacomo",
   "localidade": "Taquarituba",
   "uf": "SP",
-  "ibge": "3553807"
+  "ibge": "3553807",
+  "latitude": "-23.52667",
+  "longitude": "-49.24925"
 }

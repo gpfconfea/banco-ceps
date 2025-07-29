@@ -5,5 +5,7 @@
   "bairro": "Rio Morto",
   "localidade": "Indaial",
   "uf": "SC",
-  "ibge": "4207502"
+  "ibge": "4207502",
+  "latitude": "-26.8959827",
+  "longitude": "-49.2494459"
 }

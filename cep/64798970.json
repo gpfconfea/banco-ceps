@@ -1,9 +1,11 @@
 {
   "cep": "64798970",
   "logradouro": "Praça Anésio Correia Maia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Guaribas",
   "uf": "PI",
-  "ibge": "2204550"
+  "ibge": "2204550",
+  "latitude": "-9.225994",
+  "longitude": "-43.5683099"
 }

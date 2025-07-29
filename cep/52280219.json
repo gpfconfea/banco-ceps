@@ -5,5 +5,7 @@
   "bairro": "Vasco da Gama",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-7.9984852",
+  "longitude": "-34.8869658"
 }
