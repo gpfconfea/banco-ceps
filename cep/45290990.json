@@ -1,9 +1,11 @@
 {
   "cep": "45290990",
   "logradouro": "Praça do Mercado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ibicuí",
   "uf": "BA",
-  "ibge": "2912301"
+  "ibge": "2912301",
+  "latitude": "-12.97191",
+  "longitude": "-38.51501"
 }

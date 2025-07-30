@@ -1,9 +1,11 @@
 {
   "cep": "35425971",
   "logradouro": "Rua Luiz Macedo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Monsenhor Horta",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "latitude": "-19.4220987",
+  "longitude": "-44.2305717"
 }

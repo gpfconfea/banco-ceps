@@ -1,9 +1,11 @@
 {
   "cep": "47525970",
   "logradouro": "Vila Boa Vista do Lagamar",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Vista do Lagamar",
   "localidade": "Ibotirama",
   "uf": "BA",
-  "ibge": "2913200"
+  "ibge": "2913200",
+  "latitude": "-11.8311306",
+  "longitude": "-43.2955684"
 }

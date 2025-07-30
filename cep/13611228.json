@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Mariana",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "latitude": "-23.4947946",
+  "longitude": "-46.3869938"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Paulista",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.312043",
+  "longitude": "-49.0162505"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque das Nações",
   "localidade": "Salto Grande",
   "uf": "SP",
-  "ibge": "3545407"
+  "ibge": "3545407",
+  "latitude": "-23.6371",
+  "longitude": "-46.52058"
 }

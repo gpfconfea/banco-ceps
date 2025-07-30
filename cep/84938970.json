@@ -1,9 +1,11 @@
 {
   "cep": "84938970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sapé",
   "localidade": "Tomazina",
   "uf": "PR",
-  "ibge": "4127809"
+  "ibge": "4127809",
+  "latitude": "-23.7795334",
+  "longitude": "-49.9568614"
 }

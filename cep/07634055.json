@@ -5,5 +5,7 @@
   "bairro": "Lavras",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.3312045",
+  "longitude": "-46.5898214"
 }

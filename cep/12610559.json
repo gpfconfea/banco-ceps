@@ -5,5 +5,7 @@
   "bairro": "Residencial Doutor João Aldo Nassif",
   "localidade": "Lorena",
   "uf": "SP",
-  "ibge": "3527207"
+  "ibge": "3527207",
+  "latitude": "-22.7633959",
+  "longitude": "-45.1321054"
 }

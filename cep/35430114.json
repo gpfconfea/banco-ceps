@@ -5,5 +5,7 @@
   "bairro": "Nova Almeida",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.4143904",
+  "longitude": "-42.89763"
 }

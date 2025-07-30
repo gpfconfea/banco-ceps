@@ -1,9 +1,11 @@
 {
   "cep": "58730959",
   "logradouro": "Rua Antonio Félix de Mendonça",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cacimba de Areia",
   "uf": "PB",
-  "ibge": "2503407"
+  "ibge": "2503407",
+  "latitude": "-7.1299858",
+  "longitude": "-37.1575106"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63697975",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Oiticica",
   "localidade": "Parambu",
   "uf": "CE",
-  "ibge": "2310308"
+  "ibge": "2310308",
+  "latitude": "-2.7956374",
+  "longitude": "-40.5140808"
 }

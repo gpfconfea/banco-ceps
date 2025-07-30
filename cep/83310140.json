@@ -5,5 +5,7 @@
   "bairro": "Jardim Veneza",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.09958",
+  "longitude": "-50.14231"
 }

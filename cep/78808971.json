@@ -1,9 +1,11 @@
 {
   "cep": "78808971",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paraíso do Leste",
   "localidade": "Poxoréu",
   "uf": "MT",
-  "ibge": "5107008"
+  "ibge": "5107008",
+  "latitude": "-15.5490307",
+  "longitude": "-56.0262414"
 }

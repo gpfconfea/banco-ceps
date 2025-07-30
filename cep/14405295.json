@@ -5,5 +5,7 @@
   "bairro": "Parque João Leite",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.524596",
+  "longitude": "-47.4165305"
 }

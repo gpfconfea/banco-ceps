@@ -5,5 +5,7 @@
   "bairro": "Oliveira Barros",
   "localidade": "Miracatu",
   "uf": "SP",
-  "ibge": "3529906"
+  "ibge": "3529906",
+  "latitude": "-24.3196489",
+  "longitude": "-47.5432789"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Jaraguá do Sul",
   "uf": "SC",
-  "ibge": "4208906"
+  "ibge": "4208906",
+  "latitude": "-26.4319874",
+  "longitude": "-49.1499992"
 }

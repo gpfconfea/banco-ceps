@@ -1,9 +1,11 @@
 {
   "cep": "18702900",
   "logradouro": "Avenida Salim Antônio Curiati",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Brasil",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.10116",
+  "longitude": "-48.91443"
 }

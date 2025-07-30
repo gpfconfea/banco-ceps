@@ -5,5 +5,7 @@
   "bairro": "Parque Agari",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.5666797",
+  "longitude": "-48.5722112"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Jovaia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4350193",
+  "longitude": "-46.5186102"
 }

@@ -5,5 +5,7 @@
   "bairro": "Gaivotas",
   "localidade": "Ipaussu",
   "uf": "SP",
-  "ibge": "3520905"
+  "ibge": "3520905",
+  "latitude": "-23.05703",
+  "longitude": "-49.64023"
 }

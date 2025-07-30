@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Eurico Gimenes Martins",
   "localidade": "Fernandópolis",
   "uf": "SP",
-  "ibge": "3515509"
+  "ibge": "3515509",
+  "latitude": "-23.2323",
+  "longitude": "-45.90643"
 }

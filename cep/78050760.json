@@ -5,5 +5,7 @@
   "bairro": "Carumbé",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "30.0892305",
+  "longitude": "31.2589361"
 }

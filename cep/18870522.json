@@ -5,5 +5,7 @@
   "bairro": "Residencial Jatobá",
   "localidade": "Fartura",
   "uf": "SP",
-  "ibge": "3515400"
+  "ibge": "3515400",
+  "latitude": "-23.3919943",
+  "longitude": "-49.5169328"
 }

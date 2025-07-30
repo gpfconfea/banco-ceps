@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Jesus",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "latitude": "-21.2428048",
+  "longitude": "-48.3256483"
 }

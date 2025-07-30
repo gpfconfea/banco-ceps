@@ -5,5 +5,7 @@
   "bairro": "Terminal Intermodal da Serra",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-18.1726825",
+  "longitude": "-47.9198783"
 }

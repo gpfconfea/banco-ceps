@@ -1,9 +1,11 @@
 {
   "cep": "78098971",
   "logradouro": "Rua Benedito Antônio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pascoal Ramos",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6397134",
+  "longitude": "-55.9802825"
 }

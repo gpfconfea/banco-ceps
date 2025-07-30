@@ -5,5 +5,7 @@
   "bairro": "Jardim Robru",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5232275",
+  "longitude": "-46.410014"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "38720972",
   "logradouro": "Praça Nossa Senhora Abadia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Limeira de Minas",
   "localidade": "Lagoa Formosa",
   "uf": "MG",
-  "ibge": "3137502"
+  "ibge": "3137502",
+  "latitude": "-19.759069",
+  "longitude": "-47.9290328"
 }

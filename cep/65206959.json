@@ -1,9 +1,11 @@
 {
   "cep": "65206959",
   "logradouro": "Avenida Pedro Cunha Mendes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pedro do Rosário",
   "uf": "MA",
-  "ibge": "2108256"
+  "ibge": "2108256",
+  "latitude": "-2.9733348",
+  "longitude": "-45.351021"
 }

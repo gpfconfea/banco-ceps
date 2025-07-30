@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chapada do Norte",
   "uf": "MG",
-  "ibge": "3116100"
+  "ibge": "3116100",
+  "latitude": "-10.9390311",
+  "longitude": "-40.4145516"
 }

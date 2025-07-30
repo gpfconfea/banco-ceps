@@ -1,9 +1,11 @@
 {
   "cep": "64960959",
   "logradouro": "Rua Mestre Marculino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Curimatá",
   "uf": "PI",
-  "ibge": "2203206"
+  "ibge": "2203206",
+  "latitude": "-10.02832",
+  "longitude": "-44.30115"
 }

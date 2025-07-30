@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Sabiás",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.1019533",
+  "longitude": "-47.1808918"
 }

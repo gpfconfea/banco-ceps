@@ -5,5 +5,7 @@
   "bairro": "Jardim Jockey Club",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-23.3116455",
+  "longitude": "-45.9587576"
 }

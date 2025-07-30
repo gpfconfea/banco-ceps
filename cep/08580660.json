@@ -5,5 +5,7 @@
   "bairro": "Jardim São Manoel",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4547648",
+  "longitude": "-46.347366"
 }

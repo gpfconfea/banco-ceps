@@ -5,5 +5,7 @@
   "bairro": "Metalúrgica",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "latitude": "-22.35812",
+  "longitude": "-43.85609"
 }

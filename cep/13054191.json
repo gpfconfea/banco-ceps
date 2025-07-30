@@ -5,5 +5,7 @@
   "bairro": "Jardim Filadélfia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.5009982",
+  "longitude": "-46.6575034"
 }

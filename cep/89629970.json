@@ -1,9 +1,11 @@
 {
   "cep": "89629970",
   "logradouro": "Rodovia Prefeito Irineu José Maestri",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Encruzilhada",
   "localidade": "Campos Novos",
   "uf": "SC",
-  "ibge": "4203600"
+  "ibge": "4203600",
+  "latitude": "-27.5298924",
+  "longitude": "-51.3884032"
 }

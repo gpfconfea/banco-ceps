@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coração de Jesus",
   "uf": "MG",
-  "ibge": "3118809"
+  "ibge": "3118809",
+  "latitude": "-16.6903048",
+  "longitude": "-44.3619767"
 }

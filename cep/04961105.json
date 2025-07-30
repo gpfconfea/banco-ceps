@@ -5,5 +5,7 @@
   "bairro": "Vila Guiomar",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4790817",
+  "longitude": "-46.4063768"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "49360970",
   "logradouro": "Rua Terencio Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Boquim",
   "uf": "SE",
-  "ibge": "2800670"
+  "ibge": "2800670",
+  "latitude": "-11.1462311",
+  "longitude": "-37.6209515"
 }

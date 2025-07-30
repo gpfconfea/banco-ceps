@@ -1,9 +1,11 @@
 {
   "cep": "48475971",
   "logradouro": "Rua José Carvalho dos Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa Redonda",
   "localidade": "Itapicuru",
   "uf": "BA",
-  "ibge": "2916500"
+  "ibge": "2916500",
+  "latitude": "-12.2672924",
+  "longitude": "-38.9585352"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "19600971",
   "logradouro": "Rua José Perez dos Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Agisse",
   "localidade": "Rancharia",
   "uf": "SP",
-  "ibge": "3542206"
+  "ibge": "3542206",
+  "latitude": "-22.0302978",
+  "longitude": "-47.4251189"
 }

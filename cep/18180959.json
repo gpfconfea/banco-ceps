@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tapiraí",
   "uf": "SP",
-  "ibge": "3553500"
+  "ibge": "3553500",
+  "latitude": "-23.9637107",
+  "longitude": "-47.5053714"
 }

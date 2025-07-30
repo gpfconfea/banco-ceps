@@ -5,5 +5,7 @@
   "bairro": "Residencial do Bosque",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4089905",
+  "longitude": "-46.9449221"
 }

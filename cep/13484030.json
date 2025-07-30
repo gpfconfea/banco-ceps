@@ -5,5 +5,7 @@
   "bairro": "Vila Bragotto",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5570309",
+  "longitude": "-47.4088821"
 }

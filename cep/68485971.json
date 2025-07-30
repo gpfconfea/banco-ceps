@@ -1,9 +1,11 @@
 {
   "cep": "68485971",
   "logradouro": "Vila Bom Jardim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila de Bom Jardim",
   "localidade": "Pacajá",
   "uf": "PA",
-  "ibge": "1505486"
+  "ibge": "1505486",
+  "latitude": "-3.6629951",
+  "longitude": "-50.9584973"
 }

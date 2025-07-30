@@ -5,5 +5,7 @@
   "bairro": "Vila Mazzeto",
   "localidade": "Palmital",
   "uf": "SP",
-  "ibge": "3535309"
+  "ibge": "3535309",
+  "latitude": "-22.7890035",
+  "longitude": "-50.2295545"
 }

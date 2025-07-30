@@ -5,5 +5,7 @@
   "bairro": "Faisqueira",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-24.3867229",
+  "longitude": "-50.4652695"
 }

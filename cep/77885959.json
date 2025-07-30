@@ -1,9 +1,11 @@
 {
   "cep": "77885959",
   "logradouro": "Avenida Manoel da Rocha Nogueira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Santa Terezinha do Tocantins",
   "uf": "TO",
-  "ibge": "1720002"
+  "ibge": "1720002",
+  "latitude": "-6.4337301",
+  "longitude": "-47.6687962"
 }

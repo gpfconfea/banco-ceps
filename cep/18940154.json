@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória",
   "localidade": "São Pedro do Turvo",
   "uf": "SP",
-  "ibge": "3550506"
+  "ibge": "3550506",
+  "latitude": "-22.7435405",
+  "longitude": "-49.7404848"
 }

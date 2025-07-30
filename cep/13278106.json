@@ -5,5 +5,7 @@
   "bairro": "Estância Recreativa San Fernando",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-23.0085743",
+  "longitude": "-47.0179591"
 }

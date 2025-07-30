@@ -1,9 +1,11 @@
 {
   "cep": "45260970",
   "logradouro": "Avenida Cônego Pithon",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Poções",
   "uf": "BA",
-  "ibge": "2925105"
+  "ibge": "2925105",
+  "latitude": "-14.5280954",
+  "longitude": "-40.3671557"
 }

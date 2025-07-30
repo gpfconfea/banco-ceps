@@ -1,9 +1,11 @@
 {
   "cep": "26291970",
   "logradouro": "Avenida Severino Pereira da Silva Quadra 30 Lote 15",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cabuçu",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.7825972",
+  "longitude": "-43.5452636"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "95814971",
   "logradouro": "Estrada Tangerinas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Arlindo",
   "localidade": "Venâncio Aires",
   "uf": "RS",
-  "ibge": "4322608"
+  "ibge": "4322608",
+  "latitude": "-30.1195543",
+  "longitude": "-51.1060738"
 }

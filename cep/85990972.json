@@ -1,9 +1,11 @@
 {
   "cep": "85990972",
   "logradouro": "Rua Um",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Terra Roxa",
   "uf": "PR",
-  "ibge": "4127403"
+  "ibge": "4127403",
+  "latitude": "-18.9103839",
+  "longitude": "-40.5079762"
 }

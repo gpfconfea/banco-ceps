@@ -1,9 +1,11 @@
 {
   "cep": "68665972",
   "logradouro": "Vila de Livramento",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Garrafão do Norte",
   "uf": "PA",
-  "ibge": "1503077"
+  "ibge": "1503077",
+  "latitude": "-2.0296864",
+  "longitude": "-46.9155871"
 }

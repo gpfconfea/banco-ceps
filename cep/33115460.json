@@ -5,5 +5,7 @@
   "bairro": "Londrina (São Benedito)",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "latitude": "-23.6683628",
+  "longitude": "-46.3862922"
 }

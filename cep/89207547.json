@@ -5,5 +5,7 @@
   "bairro": "Guanabara",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-26.328702",
+  "longitude": "-48.8223081"
 }

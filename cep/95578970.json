@@ -1,9 +1,11 @@
 {
   "cep": "95578970",
   "logradouro": "Estrada Morro do Forno",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Morro do Forno",
   "localidade": "Morrinhos do Sul",
   "uf": "RS",
-  "ibge": "4312443"
+  "ibge": "4312443",
+  "latitude": "-29.3103219",
+  "longitude": "-49.9574088"
 }

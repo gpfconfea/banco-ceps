@@ -5,5 +5,7 @@
   "bairro": "Chácara Barro Branco",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.57053",
+  "longitude": "-48.0777"
 }

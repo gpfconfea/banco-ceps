@@ -5,5 +5,7 @@
   "bairro": "Jardim Maziero",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4524917",
+  "longitude": "-46.9966818"
 }

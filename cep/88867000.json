@@ -5,5 +5,7 @@
   "bairro": "São Bento Baixo",
   "localidade": "Nova Veneza",
   "uf": "SC",
-  "ibge": "4211603"
+  "ibge": "4211603",
+  "latitude": "-28.7097529",
+  "longitude": "-49.5078256"
 }

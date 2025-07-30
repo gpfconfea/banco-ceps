@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Cidade Nova",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.2113478",
+  "longitude": "-44.9914128"
 }

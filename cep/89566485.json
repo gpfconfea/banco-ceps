@@ -5,5 +5,7 @@
   "bairro": "Amarante",
   "localidade": "Videira",
   "uf": "SC",
-  "ibge": "4219309"
+  "ibge": "4219309",
+  "latitude": "-27.0107394",
+  "longitude": "-51.183849"
 }

@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "América Dourada",
   "uf": "BA",
-  "ibge": "2901155"
+  "ibge": "2901155",
+  "latitude": "-11.4525864",
+  "longitude": "-41.4372568"
 }

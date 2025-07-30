@@ -1,9 +1,11 @@
 {
   "cep": "36966970",
   "logradouro": "Rua Luiz Lignani",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Assaraí",
   "localidade": "Pocrane",
   "uf": "MG",
-  "ibge": "3151909"
+  "ibge": "3151909",
+  "latitude": "-19.5951883",
+  "longitude": "-41.4603587"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-15.6237834",
+  "longitude": "-42.5430549"
 }

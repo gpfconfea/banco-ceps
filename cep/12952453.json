@@ -5,5 +5,7 @@
   "bairro": "Rio Acima",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.15351",
+  "longitude": "-46.59211"
 }

@@ -6,5 +6,7 @@
   "bairro": "Residencial Cidade Jardim IV",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.2421245",
+  "longitude": "-54.8567422"
 }

@@ -5,5 +5,7 @@
   "bairro": "Fazenda Jangada",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "latitude": "-25.1207645",
+  "longitude": "-53.4270637"
 }

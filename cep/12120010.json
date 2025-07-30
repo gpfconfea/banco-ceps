@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Tremembé",
   "uf": "SP",
-  "ibge": "3554805"
+  "ibge": "3554805",
+  "latitude": "-22.96821",
+  "longitude": "-45.5509"
 }

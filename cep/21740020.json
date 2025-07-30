@@ -5,5 +5,7 @@
   "bairro": "Jardim Sulacap",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-23.0088749",
+  "longitude": "-43.3686001"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Xaxim",
   "uf": "SC",
-  "ibge": "4219705"
+  "ibge": "4219705",
+  "latitude": "-26.9612711",
+  "longitude": "-52.5331048"
 }

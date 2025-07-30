@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Verde II",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2887864",
+  "longitude": "-47.26712"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Las Palmas",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.8305556",
+  "longitude": "-47.4762856"
 }

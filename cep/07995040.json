@@ -5,5 +5,7 @@
   "bairro": "Jardim Virginia",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.291829",
+  "longitude": "-46.7313408"
 }

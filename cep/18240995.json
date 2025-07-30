@@ -1,9 +1,11 @@
 {
   "cep": "18240995",
   "logradouro": "Estrada Municipal Bairro Ribeirão Grandeº - Bairro Ribeirão Grande",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Angatuba",
   "uf": "SP",
-  "ibge": "3502200"
+  "ibge": "3502200",
+  "latitude": "-24.0809",
+  "longitude": "-48.38553"
 }

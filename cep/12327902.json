@@ -1,9 +1,11 @@
 {
   "cep": "12327902",
   "logradouro": "Praça dos Três Poderes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.3060251",
+  "longitude": "-45.9749955"
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Flamboyant",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-22.9624459",
+  "longitude": "-49.8629241"
 }

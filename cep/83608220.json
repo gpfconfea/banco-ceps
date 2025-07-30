@@ -5,5 +5,7 @@
   "bairro": "Vila Pompéia",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4399398",
+  "longitude": "-49.4529979"
 }

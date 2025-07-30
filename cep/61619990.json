@@ -1,9 +1,11 @@
 {
   "cep": "61619990",
   "logradouro": "Praça José Eleutério",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.7469",
+  "longitude": "-38.9502"
 }

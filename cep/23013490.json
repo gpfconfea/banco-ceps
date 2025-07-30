@@ -5,5 +5,7 @@
   "bairro": "Senador Vasconcelos",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8947851",
+  "longitude": "-43.5368521"
 }

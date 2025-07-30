@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Dourado",
   "uf": "SP",
-  "ibge": "3514304"
+  "ibge": "3514304",
+  "latitude": "-22.1099938",
+  "longitude": "-48.3118398"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Maria",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "latitude": "-23.9917942",
+  "longitude": "-46.274959"
 }

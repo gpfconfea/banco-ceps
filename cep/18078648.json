@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Marina",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4399461",
+  "longitude": "-47.4714178"
 }

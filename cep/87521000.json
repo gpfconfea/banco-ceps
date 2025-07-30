@@ -5,5 +5,7 @@
   "bairro": "Santa Eliza",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.529233",
+  "longitude": "-53.4633"
 }

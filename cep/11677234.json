@@ -5,5 +5,7 @@
   "bairro": "Verde Mar",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.6052251",
+  "longitude": "-45.3526655"
 }

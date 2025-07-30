@@ -5,5 +5,7 @@
   "bairro": "Jardim Artigiane",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "latitude": "-22.3822442",
+  "longitude": "-46.9519063"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Vale do Saltinho",
   "localidade": "Cafelândia",
   "uf": "SP",
-  "ibge": "3508801"
+  "ibge": "3508801",
+  "latitude": "-23.69478",
+  "longitude": "-46.5274"
 }

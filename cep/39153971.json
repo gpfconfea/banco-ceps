@@ -1,9 +1,11 @@
 {
   "cep": "39153971",
   "logradouro": "Praça do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Gonçalo do Rio das Pedras",
   "localidade": "Serro",
   "uf": "MG",
-  "ibge": "3167103"
+  "ibge": "3167103",
+  "latitude": "-18.8539",
+  "longitude": "-41.94629"
 }

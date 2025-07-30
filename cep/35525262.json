@@ -5,5 +5,7 @@
   "bairro": "José Pinto do Amaral",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8607382",
+  "longitude": "-44.9874385"
 }

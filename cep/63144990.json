@@ -1,9 +1,11 @@
 {
   "cep": "63144990",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Assaré",
   "uf": "CE",
-  "ibge": "2301604"
+  "ibge": "2301604",
+  "latitude": "-7.0579645",
+  "longitude": "-39.8761038"
 }
