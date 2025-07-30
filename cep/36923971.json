@@ -1,9 +1,11 @@
 {
   "cep": "36923971",
   "logradouro": "Avenida São Francisco de Assis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Luisburgo",
   "uf": "MG",
-  "ibge": "3138674"
+  "ibge": "3138674",
+  "latitude": "-20.4396243",
+  "longitude": "-42.1042448"
 }

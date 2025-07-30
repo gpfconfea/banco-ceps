@@ -5,5 +5,7 @@
   "bairro": "Maranduba",
   "localidade": "Ubatuba",
   "uf": "SP",
-  "ibge": "3555406"
+  "ibge": "3555406",
+  "latitude": "-23.5349983",
+  "longitude": "-45.2314454"
 }

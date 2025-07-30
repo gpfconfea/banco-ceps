@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha do Salto",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.8100862",
+  "longitude": "-50.4664125"
 }

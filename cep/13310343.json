@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Terezinha",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2761015",
+  "longitude": "-47.3013222"
 }

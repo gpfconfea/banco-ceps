@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Caledônia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6499746",
+  "longitude": "-46.6747517"
 }

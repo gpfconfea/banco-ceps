@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "latitude": "-16.7160164",
+  "longitude": "-43.8827058"
 }

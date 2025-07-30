@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lamim",
   "uf": "MG",
-  "ibge": "3137908"
+  "ibge": "3137908",
+  "latitude": "-18.44728",
+  "longitude": "-43.6588"
 }

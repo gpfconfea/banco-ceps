@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora Aparecida",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2004208",
+  "longitude": "-45.9047097"
 }

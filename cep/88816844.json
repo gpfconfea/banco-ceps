@@ -5,5 +5,7 @@
   "bairro": "Morro Estevão",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.7443172",
+  "longitude": "-49.3793883"
 }

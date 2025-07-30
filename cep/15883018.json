@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Doutor Henrique Ernesto Bianco",
   "localidade": "Tabapuã",
   "uf": "SP",
-  "ibge": "3552601"
+  "ibge": "3552601",
+  "latitude": "-20.9581217",
+  "longitude": "-49.0285716"
 }

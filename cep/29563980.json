@@ -1,9 +1,11 @@
 {
   "cep": "29563980",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Miguel do Caparaó",
   "localidade": "Guaçuí",
   "uf": "ES",
-  "ibge": "3202306"
+  "ibge": "3202306",
+  "latitude": "-20.55163",
+  "longitude": "-41.81469"
 }

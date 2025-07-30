@@ -1,9 +1,11 @@
 {
   "cep": "36542972",
   "logradouro": "Rua José Alves de Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Brás Pires",
   "uf": "MG",
-  "ibge": "3108701"
+  "ibge": "3108701",
+  "latitude": "-20.9191481",
+  "longitude": "-43.2447027"
 }

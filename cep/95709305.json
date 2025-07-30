@@ -5,5 +5,7 @@
   "bairro": "São Valentin",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-28.2073667",
+  "longitude": "-51.5608389"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "59190992",
   "logradouro": "Rua Alfredo Brito - Loja da Telemar - Areia Branca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Canguaretama",
   "uf": "RN",
-  "ibge": "2402204"
+  "ibge": "2402204",
+  "latitude": "-6.36177",
+  "longitude": "-35.15302"
 }

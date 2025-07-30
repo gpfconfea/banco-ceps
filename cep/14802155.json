@@ -5,5 +5,7 @@
   "bairro": "Jardim Tangará",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.7733664",
+  "longitude": "-48.1929121"
 }

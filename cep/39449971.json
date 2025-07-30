@@ -1,9 +1,11 @@
 {
   "cep": "39449971",
   "logradouro": "Praça Senhor do Bonfim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barreiro da Raiz",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-16.047377",
+  "longitude": "-43.2748454"
 }

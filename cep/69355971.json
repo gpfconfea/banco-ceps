@@ -1,9 +1,11 @@
 {
   "cep": "69355971",
   "logradouro": "Rua Raul Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Normandia",
   "uf": "RR",
-  "ibge": "1400407"
+  "ibge": "1400407",
+  "latitude": "3.6554319",
+  "longitude": "-61.4175865"
 }

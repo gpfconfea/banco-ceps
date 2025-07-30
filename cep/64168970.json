@@ -1,9 +1,11 @@
 {
   "cep": "64168970",
   "logradouro": "Avenida José Rodrigues",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Madeiro",
   "uf": "PI",
-  "ibge": "2205854"
+  "ibge": "2205854",
+  "latitude": "-3.4859913",
+  "longitude": "-42.4953349"
 }

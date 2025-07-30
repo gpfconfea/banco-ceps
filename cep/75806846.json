@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque dos Ventos",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "latitude": "-16.741754",
+  "longitude": "-49.342634"
 }

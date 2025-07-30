@@ -6,5 +6,7 @@
   "bairro": "Jardim João de Souza Freitas",
   "localidade": "Itaju",
   "uf": "SP",
-  "ibge": "3522000"
+  "ibge": "3522000",
+  "latitude": "-21.98537",
+  "longitude": "-48.8065"
 }

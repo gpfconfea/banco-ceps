@@ -5,5 +5,7 @@
   "bairro": "Jardim Cocajá II",
   "localidade": "Ipaussu",
   "uf": "SP",
-  "ibge": "3520905"
+  "ibge": "3520905",
+  "latitude": "-23.05909",
+  "longitude": "-49.64085"
 }

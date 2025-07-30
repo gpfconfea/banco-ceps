@@ -5,5 +5,7 @@
   "bairro": "São Joaquim",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-23.0653913",
+  "longitude": "-46.987291"
 }

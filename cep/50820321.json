@@ -5,5 +5,7 @@
   "bairro": "Mangueira",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-19.9405014",
+  "longitude": "-43.9299538"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "45645970",
   "logradouro": "Rua do Corsário",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itapitanga",
   "uf": "BA",
-  "ibge": "2916609"
+  "ibge": "2916609",
+  "latitude": "-14.4173129",
+  "longitude": "-39.5690399"
 }

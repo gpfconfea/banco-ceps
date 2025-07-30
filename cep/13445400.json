@@ -5,5 +5,7 @@
   "bairro": "Jardim Minas Gerais",
   "localidade": "Engenheiro Coelho",
   "uf": "SP",
-  "ibge": "3515152"
+  "ibge": "3515152",
+  "latitude": "-22.48905",
+  "longitude": "-47.20934"
 }

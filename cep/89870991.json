@@ -1,9 +1,11 @@
 {
   "cep": "89870991",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pinhalzinho",
   "uf": "SC",
-  "ibge": "4212908"
+  "ibge": "4212908",
+  "latitude": "-26.8356",
+  "longitude": "-49.08383"
 }

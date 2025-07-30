@@ -1,9 +1,11 @@
 {
   "cep": "26980970",
   "logradouro": "Rua Barão de Capivari",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Avelar",
   "localidade": "Paty do Alferes",
   "uf": "RJ",
-  "ibge": "3303856"
+  "ibge": "3303856",
+  "latitude": "-22.3220648",
+  "longitude": "-43.4055858"
 }

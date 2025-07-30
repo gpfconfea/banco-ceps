@@ -5,5 +5,7 @@
   "bairro": "Vila Helena",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6854026",
+  "longitude": "-46.5147721"
 }

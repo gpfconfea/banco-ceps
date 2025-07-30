@@ -6,5 +6,7 @@
   "bairro": "Residencial Vila Soma",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "latitude": "-22.83177",
+  "longitude": "-47.25308"
 }

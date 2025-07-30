@@ -1,9 +1,11 @@
 {
   "cep": "13560915",
   "logradouro": "Rua Doutor Carlos de Camargo Salles",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Lutfalla",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-22.0069361",
+  "longitude": "-47.8940239"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Rica",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-19.81862",
+  "longitude": "-40.28263"
 }

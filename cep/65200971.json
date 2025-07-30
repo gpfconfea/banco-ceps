@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pinheiro",
   "uf": "MA",
-  "ibge": "2108603"
+  "ibge": "2108603",
+  "latitude": "-2.520353",
+  "longitude": "-45.0827916"
 }

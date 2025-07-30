@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Herbert de Souza",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4354898",
+  "longitude": "-47.4756446"
 }

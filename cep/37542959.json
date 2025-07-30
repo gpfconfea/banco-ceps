@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Estiva",
   "uf": "MG",
-  "ibge": "3124500"
+  "ibge": "3124500",
+  "latitude": "-22.46503",
+  "longitude": "-46.0156"
 }

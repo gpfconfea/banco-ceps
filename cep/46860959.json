@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iaçu",
   "uf": "BA",
-  "ibge": "2911907"
+  "ibge": "2911907",
+  "latitude": "-12.7648394",
+  "longitude": "-40.2121796"
 }

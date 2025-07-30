@@ -5,5 +5,7 @@
   "bairro": "Coophamil",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-22.7504179",
+  "longitude": "-47.3284224"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Nazaret",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4726131",
+  "longitude": "-46.543842"
 }

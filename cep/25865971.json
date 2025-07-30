@@ -1,9 +1,11 @@
 {
   "cep": "25865971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Inconfidência",
   "localidade": "Paraíba do Sul",
   "uf": "RJ",
-  "ibge": "3303708"
+  "ibge": "3303708",
+  "latitude": "-22.856177",
+  "longitude": "-43.2420381"
 }

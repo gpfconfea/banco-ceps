@@ -1,9 +1,11 @@
 {
   "cep": "85587970",
   "logradouro": "Rua Pedro Jokoski",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Presidente Kennedy",
   "localidade": "Verê",
   "uf": "PR",
-  "ibge": "4128609"
+  "ibge": "4128609",
+  "latitude": "-25.8778571",
+  "longitude": "-52.9059269"
 }

@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Canoas",
   "uf": "RS",
-  "ibge": "4304606"
+  "ibge": "4304606",
+  "latitude": "-29.882809",
+  "longitude": "-51.1510957"
 }

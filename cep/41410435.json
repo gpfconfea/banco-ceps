@@ -5,5 +5,7 @@
   "bairro": "Barragem de Ipitanga",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-11.0404416",
+  "longitude": "-45.1889402"
 }

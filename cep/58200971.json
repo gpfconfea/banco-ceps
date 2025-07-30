@@ -1,9 +1,11 @@
 {
   "cep": "58200971",
   "logradouro": "Rua Antonio Galdino Guedes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Guarabira",
   "uf": "PB",
-  "ibge": "2506301"
+  "ibge": "2506301",
+  "latitude": "-6.8931022",
+  "longitude": "-35.4803227"
 }

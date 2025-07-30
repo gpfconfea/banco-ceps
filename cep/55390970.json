@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibirajuba",
   "uf": "PE",
-  "ibge": "2606705"
+  "ibge": "2606705",
+  "latitude": "-21.0691466",
+  "longitude": "-49.6682226"
 }

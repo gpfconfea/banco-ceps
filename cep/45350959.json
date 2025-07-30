@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itiruçu",
   "uf": "BA",
-  "ibge": "2916906"
+  "ibge": "2916906",
+  "latitude": "-13.53401",
+  "longitude": "-40.15089"
 }

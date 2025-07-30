@@ -5,5 +5,7 @@
   "bairro": "Residencial Cavalli",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-20.80721",
+  "longitude": "-49.39401"
 }

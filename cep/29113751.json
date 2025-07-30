@@ -5,5 +5,7 @@
   "bairro": "Jardim do Vale",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3730567",
+  "longitude": "-40.3446248"
 }

@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Valença",
   "uf": "RJ",
-  "ibge": "3306107"
+  "ibge": "3306107",
+  "latitude": "-22.1050625",
+  "longitude": "-43.558814"
 }

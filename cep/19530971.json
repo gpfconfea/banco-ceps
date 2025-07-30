@@ -1,9 +1,11 @@
 {
   "cep": "19530971",
   "logradouro": "Estrada de Caiabu-Mariápolis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Graminha",
   "localidade": "Caiabu",
   "uf": "SP",
-  "ibge": "3508900"
+  "ibge": "3508900",
+  "latitude": "-21.7963912",
+  "longitude": "-51.1829113"
 }

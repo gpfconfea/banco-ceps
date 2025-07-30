@@ -5,5 +5,7 @@
   "bairro": "Residencial Lago Azul",
   "localidade": "Guaimbê",
   "uf": "SP",
-  "ibge": "3517307"
+  "ibge": "3517307",
+  "latitude": "-22.35665",
+  "longitude": "-47.40601"
 }

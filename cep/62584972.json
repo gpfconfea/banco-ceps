@@ -1,9 +1,11 @@
 {
   "cep": "62584972",
   "logradouro": "Rua Manoel Daniel da Silveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Juritianha",
   "localidade": "Acaraú",
   "uf": "CE",
-  "ibge": "2300200"
+  "ibge": "2300200",
+  "latitude": "-2.8977968",
+  "longitude": "-40.119189"
 }

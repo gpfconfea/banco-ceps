@@ -1,9 +1,11 @@
 {
   "cep": "28400971",
   "logradouro": "Rua Benedito Peçanha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ernesto Machado",
   "localidade": "São Fidélis",
   "uf": "RJ",
-  "ibge": "3304805"
+  "ibge": "3304805",
+  "latitude": "-21.629543",
+  "longitude": "-41.6199246"
 }

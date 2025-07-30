@@ -5,5 +5,7 @@
   "bairro": "Açude",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.5047147",
+  "longitude": "-44.1373679"
 }

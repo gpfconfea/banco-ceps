@@ -1,9 +1,11 @@
 {
   "cep": "68456907",
   "logradouro": "Rua Trinta e Um de Março",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Isabel",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "latitude": "-3.76293",
+  "longitude": "-49.67403"
 }

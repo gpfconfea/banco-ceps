@@ -1,9 +1,11 @@
 {
   "cep": "37855972",
   "logradouro": "Rua Antônio Eduardo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Biguatinga",
   "localidade": "São Pedro da União",
   "uf": "MG",
-  "ibge": "3163904"
+  "ibge": "3163904",
+  "latitude": "-21.1412652",
+  "longitude": "-46.6987287"
 }

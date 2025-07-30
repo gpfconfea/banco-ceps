@@ -5,5 +5,7 @@
   "bairro": "Jardim Aviação",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5868775",
+  "longitude": "-47.3772592"
 }

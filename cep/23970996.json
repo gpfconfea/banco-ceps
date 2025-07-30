@@ -1,9 +1,11 @@
 {
   "cep": "23970996",
   "logradouro": "Estrada do Corisquinhoº",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Paraty",
   "uf": "RJ",
-  "ibge": "3303807"
+  "ibge": "3303807",
+  "latitude": "-23.21993",
+  "longitude": "-44.71537"
 }

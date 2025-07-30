@@ -1,9 +1,11 @@
 {
   "cep": "59570971",
   "logradouro": "Rua Antônio Basilio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Muriú",
   "localidade": "Ceará-Mirim",
   "uf": "RN",
-  "ibge": "2402600"
+  "ibge": "2402600",
+  "latitude": "-5.5535936",
+  "longitude": "-35.2483484"
 }

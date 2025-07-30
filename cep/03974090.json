@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Adélia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.5493102",
+  "longitude": "-47.3959377"
 }

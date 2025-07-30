@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Macaubal",
   "uf": "SP",
-  "ibge": "3528106"
+  "ibge": "3528106",
+  "latitude": "-20.7998897",
+  "longitude": "-49.9605887"
 }

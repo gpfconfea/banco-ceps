@@ -5,5 +5,7 @@
   "bairro": "Residencial Ângelo Grizzo",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-22.2281207",
+  "longitude": "-48.7606748"
 }

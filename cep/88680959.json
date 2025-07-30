@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Retiro",
   "uf": "SC",
-  "ibge": "4202602"
+  "ibge": "4202602",
+  "latitude": "-27.80474",
+  "longitude": "-49.49055"
 }

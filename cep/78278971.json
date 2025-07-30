@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lambari D'Oeste",
   "uf": "MT",
-  "ibge": "5105234"
+  "ibge": "5105234",
+  "latitude": "-15.317407",
+  "longitude": "-58.005211"
 }

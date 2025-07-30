@@ -1,9 +1,11 @@
 {
   "cep": "83255975",
   "logradouro": "Estrada das Colônias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Colônia Pereira",
   "localidade": "Pontal do Paraná",
   "uf": "PR",
-  "ibge": "4119954"
+  "ibge": "4119954",
+  "latitude": "-25.6442599",
+  "longitude": "-48.4383653"
 }

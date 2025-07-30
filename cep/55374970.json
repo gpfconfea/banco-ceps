@@ -1,9 +1,11 @@
 {
   "cep": "55374970",
   "logradouro": "Rua General João Siqueira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Espírito Santo",
   "localidade": "São Bento do Una",
   "uf": "PE",
-  "ibge": "2613008"
+  "ibge": "2613008",
+  "latitude": "-8.5200874",
+  "longitude": "-36.4464475"
 }

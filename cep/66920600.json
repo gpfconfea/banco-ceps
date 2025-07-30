@@ -5,5 +5,7 @@
   "bairro": "São Francisco (Mosqueiro)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-23.5450868",
+  "longitude": "-46.6428476"
 }

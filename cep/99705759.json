@@ -5,5 +5,7 @@
   "bairro": "Maria Clara",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "latitude": "-27.6468595",
+  "longitude": "-52.2814077"
 }

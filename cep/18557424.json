@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial São Camillo",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2869448",
+  "longitude": "-47.6902777"
 }

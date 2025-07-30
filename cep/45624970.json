@@ -1,9 +1,11 @@
 {
   "cep": "45624970",
   "logradouro": "Rua da Frente",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Areia Branca",
   "localidade": "Jussari",
   "uf": "BA",
-  "ibge": "2918555"
+  "ibge": "2918555",
+  "latitude": "-11.04512",
+  "longitude": "-41.96812"
 }

@@ -5,5 +5,7 @@
   "bairro": "Primor",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "latitude": "-29.8330247",
+  "longitude": "-51.1577967"
 }

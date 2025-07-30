@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6843847",
+  "longitude": "-49.4162964"
 }

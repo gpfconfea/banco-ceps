@@ -5,5 +5,7 @@
   "bairro": "Vila Campo Santo",
   "localidade": "Itaí",
   "uf": "SP",
-  "ibge": "3521804"
+  "ibge": "3521804",
+  "latitude": "-23.4159457",
+  "longitude": "-49.0960499"
 }

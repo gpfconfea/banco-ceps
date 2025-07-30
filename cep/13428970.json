@@ -1,9 +1,11 @@
 {
   "cep": "13428970",
   "logradouro": "Rua Piracicaba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Tupi)",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.6764606",
+  "longitude": "-47.7708911"
 }

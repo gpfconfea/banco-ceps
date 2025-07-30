@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.38127",
+  "longitude": "-46.31957"
 }

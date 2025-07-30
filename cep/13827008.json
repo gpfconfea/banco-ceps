@@ -5,5 +5,7 @@
   "bairro": "Morada das Flores",
   "localidade": "Holambra",
   "uf": "SP",
-  "ibge": "3519055"
+  "ibge": "3519055",
+  "latitude": "-22.64083",
+  "longitude": "-47.05272"
 }

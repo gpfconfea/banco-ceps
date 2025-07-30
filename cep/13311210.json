@@ -5,5 +5,7 @@
   "bairro": "Jardim Alberto Gomes",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2633101",
+  "longitude": "-47.3127378"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "56555970",
   "logradouro": "Praça Nossa Senhora da Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Negra",
   "localidade": "Itaíba",
   "uf": "PE",
-  "ibge": "2607505"
+  "ibge": "2607505",
+  "latitude": "-8.9886625",
+  "longitude": "-37.4874333"
 }

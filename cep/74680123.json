@@ -5,5 +5,7 @@
   "bairro": "Residencial Aldeia do Vale",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7899333",
+  "longitude": "-49.1273573"
 }

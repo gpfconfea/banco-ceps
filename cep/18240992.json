@@ -1,9 +1,11 @@
 {
   "cep": "18240992",
   "logradouro": "Estrada Municipalº - Bairro Guareí Velho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Angatuba",
   "uf": "SP",
-  "ibge": "3502200"
+  "ibge": "3502200",
+  "latitude": "-23.49507",
+  "longitude": "-48.49861"
 }

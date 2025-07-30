@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Terezinha",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.9904224",
+  "longitude": "-47.4140551"
 }

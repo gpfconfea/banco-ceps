@@ -1,9 +1,11 @@
 {
   "cep": "28220970",
   "logradouro": "Praça Ovídio Ribeiro de Abreu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barcelos",
   "localidade": "São João da Barra",
   "uf": "RJ",
-  "ibge": "3305000"
+  "ibge": "3305000",
+  "latitude": "-21.7308248",
+  "longitude": "-41.1841712"
 }

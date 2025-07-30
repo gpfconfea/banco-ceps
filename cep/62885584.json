@@ -5,5 +5,7 @@
   "bairro": "Gameleira",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "latitude": "-4.13263",
+  "longitude": "-38.48602"
 }

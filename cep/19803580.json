@@ -5,5 +5,7 @@
   "bairro": "Residencial Villa Bela",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-22.681683",
+  "longitude": "-50.4393628"
 }

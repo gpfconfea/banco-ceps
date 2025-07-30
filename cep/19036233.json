@@ -5,5 +5,7 @@
   "bairro": "Residencial Alta Vista II",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.0674329",
+  "longitude": "-51.3767071"
 }

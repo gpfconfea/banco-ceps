@@ -5,5 +5,7 @@
   "bairro": "Vila São Geraldo",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.147026",
+  "longitude": "-45.9114725"
 }

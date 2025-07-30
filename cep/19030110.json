@@ -5,5 +5,7 @@
   "bairro": "Vila Marcondes",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-23.2611723",
+  "longitude": "-47.3016956"
 }

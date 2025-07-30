@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "latitude": "-22.7197489",
+  "longitude": "-47.6427812"
 }

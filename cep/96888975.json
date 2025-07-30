@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Herveiras",
   "uf": "RS",
-  "ibge": "4309571"
+  "ibge": "4309571",
+  "latitude": "-29.4534363",
+  "longitude": "-52.6434093"
 }

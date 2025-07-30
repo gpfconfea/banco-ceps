@@ -1,9 +1,11 @@
 {
   "cep": "44855971",
   "logradouro": "Praça Doutor Muniz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dias Coelho",
   "localidade": "Morro do Chapéu",
   "uf": "BA",
-  "ibge": "2921708"
+  "ibge": "2921708",
+  "latitude": "-11.5057414",
+  "longitude": "-40.7890348"
 }

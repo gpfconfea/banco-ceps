@@ -5,5 +5,7 @@
   "bairro": "Jardim Adriana",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.7772249",
+  "longitude": "-48.8235295"
 }

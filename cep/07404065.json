@@ -5,5 +5,7 @@
   "bairro": "Mirante do Arujá",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.3890259",
+  "longitude": "-46.3010559"
 }

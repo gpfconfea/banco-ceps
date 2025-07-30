@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Sargento José Carlos Alves Ferreira",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2144973",
+  "longitude": "-49.9780113"
 }

@@ -5,5 +5,7 @@
   "bairro": "Flamengo",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "latitude": "-22.9124252",
+  "longitude": "-42.8062938"
 }

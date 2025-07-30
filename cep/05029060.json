@@ -5,5 +5,7 @@
   "bairro": "Vila Anglo Brasileira",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.2386182",
+  "longitude": "-45.6995753"
 }

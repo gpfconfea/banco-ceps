@@ -6,5 +6,7 @@
   "bairro": "COHAB Nova Lutécia",
   "localidade": "Lutécia",
   "uf": "SP",
-  "ibge": "3527900"
+  "ibge": "3527900",
+  "latitude": "-22.33871",
+  "longitude": "-50.39861"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palmeira",
   "uf": "PR",
-  "ibge": "4117701"
+  "ibge": "4117701",
+  "latitude": "-27.913725",
+  "longitude": "-53.3194995"
 }

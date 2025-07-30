@@ -1,9 +1,11 @@
 {
   "cep": "48890990",
   "logradouro": "Rua Joviniano Azevedo - Térreo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Valente",
   "uf": "BA",
-  "ibge": "2933000"
+  "ibge": "2933000",
+  "latitude": "-11.42362",
+  "longitude": "-39.46033"
 }

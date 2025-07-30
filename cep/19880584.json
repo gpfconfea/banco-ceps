@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Clara II",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-20.52522",
+  "longitude": "-47.4455"
 }

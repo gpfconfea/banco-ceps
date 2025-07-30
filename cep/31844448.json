@@ -5,5 +5,7 @@
   "bairro": "Mirante",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-20.0976737",
+  "longitude": "-44.3455872"
 }

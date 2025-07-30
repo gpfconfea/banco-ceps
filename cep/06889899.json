@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Itapecerica da Serra",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.7484581",
+  "longitude": "-46.8892481"
 }

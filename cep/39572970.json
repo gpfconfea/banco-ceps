@@ -1,9 +1,11 @@
 {
   "cep": "39572970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barrocão",
   "localidade": "Grão Mogol",
   "uf": "MG",
-  "ibge": "3127800"
+  "ibge": "3127800",
+  "latitude": "-16.5635646",
+  "longitude": "-42.8928325"
 }

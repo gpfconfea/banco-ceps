@@ -1,9 +1,11 @@
 {
   "cep": "77764971",
   "logradouro": "Rua Isac Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Brasilene",
   "localidade": "Colinas do Tocantins",
   "uf": "TO",
-  "ibge": "1705508"
+  "ibge": "1705508",
+  "latitude": "-7.1831547",
+  "longitude": "-48.2229508"
 }

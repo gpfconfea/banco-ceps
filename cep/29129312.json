@@ -5,5 +5,7 @@
   "bairro": "Nova Ponta da Fruta",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.514806",
+  "longitude": "-40.3636561"
 }

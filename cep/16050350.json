@@ -5,5 +5,7 @@
   "bairro": "São Joaquim",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-20.5330464",
+  "longitude": "-50.4922045"
 }

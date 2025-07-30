@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Alice",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-21.5819759",
+  "longitude": "-45.4383429"
 }

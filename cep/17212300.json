@@ -5,5 +5,7 @@
   "bairro": "Jardim Doutor Luciano",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-22.3055927",
+  "longitude": "-48.5474952"
 }

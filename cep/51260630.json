@@ -6,5 +6,7 @@
   "bairro": "Ibura",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.128779",
+  "longitude": "-34.9431103"
 }

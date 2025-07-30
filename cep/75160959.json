@@ -1,9 +1,11 @@
 {
   "cep": "75160959",
   "logradouro": "Avenida Baltazar Cardoso Quadra 17 Lote 5 Loja 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Campo Limpo de Goiás",
   "uf": "GO",
-  "ibge": "5204854"
+  "ibge": "5204854",
+  "latitude": "-16.29799",
+  "longitude": "-49.08702"
 }

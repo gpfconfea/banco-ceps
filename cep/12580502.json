@@ -5,5 +5,7 @@
   "bairro": "Pedro Leme",
   "localidade": "Roseira",
   "uf": "SP",
-  "ibge": "3544301"
+  "ibge": "3544301",
+  "latitude": "-22.8905322",
+  "longitude": "-45.3009121"
 }
