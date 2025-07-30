@@ -1,9 +1,11 @@
 {
   "cep": "95520990",
   "logradouro": "Rua Carlos Bruno Fett",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Osório",
   "uf": "RS",
-  "ibge": "4313508"
+  "ibge": "4313508",
+  "latitude": "-29.97846",
+  "longitude": "-50.20262"
 }

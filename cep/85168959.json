@@ -1,9 +1,11 @@
 {
   "cep": "85168959",
   "logradouro": "Rua Sete de Setembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Marquinho",
   "uf": "PR",
-  "ibge": "4115457"
+  "ibge": "4115457",
+  "latitude": "-25.1139494",
+  "longitude": "-52.258913"
 }

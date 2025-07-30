@@ -1,9 +1,11 @@
 {
   "cep": "38630973",
   "logradouro": "Rua José Severino Botelho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cercado",
   "localidade": "Uruana de Minas",
   "uf": "MG",
-  "ibge": "3170479"
+  "ibge": "3170479",
+  "latitude": "-16.2787953",
+  "longitude": "-46.2553786"
 }

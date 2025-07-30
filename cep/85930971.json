@@ -1,9 +1,11 @@
 {
   "cep": "85930971",
   "logradouro": "Rua 29 de Março",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Nova Santa Rosa",
   "uf": "PR",
-  "ibge": "4117222"
+  "ibge": "4117222",
+  "latitude": "-24.4684064",
+  "longitude": "-53.9485732"
 }

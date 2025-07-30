@@ -5,5 +5,7 @@
   "bairro": "Nova Guarapari",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "latitude": "-22.3293961",
+  "longitude": "-46.9268396"
 }

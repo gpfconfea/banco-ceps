@@ -1,9 +1,11 @@
 {
   "cep": "85628959",
   "logradouro": "Avenida São Cristóvão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Manfrinópolis",
   "uf": "PR",
-  "ibge": "4114351"
+  "ibge": "4114351",
+  "latitude": "-26.142931",
+  "longitude": "-53.3089094"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29230982",
   "logradouro": "Avenida Heleno de Medeiros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mãe-bá",
   "localidade": "Anchieta",
   "uf": "ES",
-  "ibge": "3200409"
+  "ibge": "3200409",
+  "latitude": "-20.7641424",
+  "longitude": "-40.5750021"
 }

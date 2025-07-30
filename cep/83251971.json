@@ -1,9 +1,11 @@
 {
   "cep": "83251971",
   "logradouro": "Praça do Embarque",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ilha do Mel",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.5670599",
+  "longitude": "-48.3574501"
 }

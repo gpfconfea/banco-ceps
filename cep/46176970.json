@@ -1,9 +1,11 @@
 {
   "cep": "46176970",
   "logradouro": "Rua PO Mato Grosso",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mato Grosso",
   "localidade": "Rio de Contas",
   "uf": "BA",
-  "ibge": "2926707"
+  "ibge": "2926707",
+  "latitude": "-13.5807855",
+  "longitude": "-41.8134262"
 }

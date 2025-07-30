@@ -5,5 +5,7 @@
   "bairro": "Ferraropolis",
   "localidade": "Garça",
   "uf": "SP",
-  "ibge": "3516705"
+  "ibge": "3516705",
+  "latitude": "-22.20623",
+  "longitude": "-49.65917"
 }

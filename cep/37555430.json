@@ -5,5 +5,7 @@
   "bairro": "Loteamento Danilo",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2105689",
+  "longitude": "-45.9065872"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "47150971",
   "logradouro": "Praça Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itiquira",
   "localidade": "Santa Rita de Cássia",
   "uf": "BA",
-  "ibge": "2928406"
+  "ibge": "2928406",
+  "latitude": "-13.5155668",
+  "longitude": "-41.5920553"
 }

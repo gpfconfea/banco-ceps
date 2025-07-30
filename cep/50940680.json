@@ -5,5 +5,7 @@
   "bairro": "Totó",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-24.5394185",
+  "longitude": "-52.9843579"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Real",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.329903",
+  "longitude": "-49.1290033"
 }

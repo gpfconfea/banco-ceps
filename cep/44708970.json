@@ -1,9 +1,11 @@
 {
   "cep": "44708970",
   "logradouro": "Praça Laurindo Viana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itapeipu",
   "localidade": "Jacobina",
   "uf": "BA",
-  "ibge": "2917508"
+  "ibge": "2917508",
+  "latitude": "-11.1816506",
+  "longitude": "-40.5120603"
 }

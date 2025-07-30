@@ -1,9 +1,11 @@
 {
   "cep": "39526972",
   "logradouro": "Rua Minas Gerais",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barreiro Branco",
   "localidade": "Catuti",
   "uf": "MG",
-  "ibge": "3115474"
+  "ibge": "3115474",
+  "latitude": "-15.3553826",
+  "longitude": "-42.9665612"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperial",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-22.9739004",
+  "longitude": "-47.4958936"
 }

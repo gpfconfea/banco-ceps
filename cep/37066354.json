@@ -5,5 +5,7 @@
   "bairro": "Jardim Rio Verde",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-21.6816721",
+  "longitude": "-45.2570619"
 }

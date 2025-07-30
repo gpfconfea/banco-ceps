@@ -5,5 +5,7 @@
   "bairro": "Vila Ibar",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-23.5217753",
+  "longitude": "-46.3339793"
 }

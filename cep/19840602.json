@@ -6,5 +6,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Maracaí",
   "uf": "SP",
-  "ibge": "3528809"
+  "ibge": "3528809",
+  "latitude": "-23.15846",
+  "longitude": "-46.94926"
 }

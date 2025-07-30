@@ -1,9 +1,11 @@
 {
   "cep": "17530970",
   "logradouro": "Rua Getulio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Amadeu Amaral)",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.9095894",
+  "longitude": "-49.6389863"
 }

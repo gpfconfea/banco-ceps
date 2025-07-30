@@ -5,5 +5,7 @@
   "bairro": "Residencial Primavera",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-23.0288574",
+  "longitude": "-45.5872688"
 }

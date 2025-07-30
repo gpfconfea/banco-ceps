@@ -5,5 +5,7 @@
   "bairro": "Parque Primavera",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-22.0068983",
+  "longitude": "-47.8636423"
 }

@@ -5,5 +5,7 @@
   "bairro": "Capela do Socorro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6933674",
+  "longitude": "-46.702404"
 }

@@ -6,5 +6,7 @@
   "bairro": "Setor Oeste",
   "localidade": "Porangatu",
   "uf": "GO",
-  "ibge": "5218003"
+  "ibge": "5218003",
+  "latitude": "-13.4375445",
+  "longitude": "-49.1472864"
 }

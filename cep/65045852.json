@@ -5,5 +5,7 @@
   "bairro": "Vila Lobão",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-17.1419919",
+  "longitude": "-49.9881617"
 }

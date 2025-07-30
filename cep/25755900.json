@@ -1,9 +1,11 @@
 {
   "cep": "25755900",
   "logradouro": "Rodovia BR-040 Quilômetro 49",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pedro do Rio",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "latitude": "-22.34648",
+  "longitude": "-43.12407"
 }

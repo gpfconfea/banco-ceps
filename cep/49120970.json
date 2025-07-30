@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaporanga D'Ajuda",
   "uf": "SE",
-  "ibge": "2803203"
+  "ibge": "2803203",
+  "latitude": "-10.9977648",
+  "longitude": "-37.3065216"
 }

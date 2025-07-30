@@ -5,5 +5,7 @@
   "bairro": "Portal Giardino",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.03044",
+  "longitude": "-46.86291"
 }

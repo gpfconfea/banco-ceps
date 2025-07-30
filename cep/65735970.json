@@ -1,9 +1,11 @@
 {
   "cep": "65735970",
   "logradouro": "Avenida Cônego Alteredo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Capinzal do Norte",
   "uf": "MA",
-  "ibge": "2102754"
+  "ibge": "2102754",
+  "latitude": "-4.7302651",
+  "longitude": "-44.326389"
 }

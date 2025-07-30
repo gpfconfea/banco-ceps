@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.2247585",
+  "longitude": "-40.266481"
 }

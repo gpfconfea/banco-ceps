@@ -5,5 +5,7 @@
   "bairro": "Pedro Roseno",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-22.7383922",
+  "longitude": "-46.897749"
 }

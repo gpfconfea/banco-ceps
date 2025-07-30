@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Queimados",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-21.5500786",
+  "longitude": "-42.1810017"
 }

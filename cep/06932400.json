@@ -6,5 +6,7 @@
   "bairro": "Sol Nascente",
   "localidade": "Embu-Guaçu",
   "uf": "SP",
-  "ibge": "3515103"
+  "ibge": "3515103",
+  "latitude": "-23.88273",
+  "longitude": "-46.80103"
 }

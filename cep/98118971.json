@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boa Vista do Cadeado",
   "uf": "RS",
-  "ibge": "4302220"
+  "ibge": "4302220",
+  "latitude": "-28.5797274",
+  "longitude": "-53.8079421"
 }

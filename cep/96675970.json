@@ -1,9 +1,11 @@
 {
   "cep": "96675970",
   "logradouro": "Estrada da Várzea Grande",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Passo do Adão",
   "localidade": "Rio Pardo",
   "uf": "RS",
-  "ibge": "4315701"
+  "ibge": "4315701",
+  "latitude": "-30.3210048",
+  "longitude": "-52.1693373"
 }

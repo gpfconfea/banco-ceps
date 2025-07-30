@@ -1,9 +1,11 @@
 {
   "cep": "35435973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vau-Açu",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "39.8153513",
+  "longitude": "-8.6417251"
 }

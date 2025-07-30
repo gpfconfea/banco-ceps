@@ -5,5 +5,7 @@
   "bairro": "Residencial Villaggio III",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3731469",
+  "longitude": "-49.0647169"
 }

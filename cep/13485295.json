@@ -5,5 +5,7 @@
   "bairro": "Parque Campos Elíseos",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5365814",
+  "longitude": "-47.3924308"
 }

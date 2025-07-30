@@ -6,5 +6,7 @@
   "bairro": "Vila Nova",
   "localidade": "Irati",
   "uf": "PR",
-  "ibge": "4110706"
+  "ibge": "4110706",
+  "latitude": "-23.55768",
+  "longitude": "-51.43734"
 }

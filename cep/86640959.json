@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cafeara",
   "uf": "PR",
-  "ibge": "4103404"
+  "ibge": "4103404",
+  "latitude": "-22.7878078",
+  "longitude": "-51.7151867"
 }

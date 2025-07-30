@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-19.8129505",
+  "longitude": "-43.9914862"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Recreio Panorama Extensão",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7393361",
+  "longitude": "-49.3254286"
 }

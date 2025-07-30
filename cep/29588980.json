@@ -1,9 +1,11 @@
 {
   "cep": "29588980",
   "logradouro": "Estrada Municipal do Caparaó",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Raimundo da Pedra Menina",
   "localidade": "Dores do Rio Preto",
   "uf": "ES",
-  "ibge": "3202009"
+  "ibge": "3202009",
+  "latitude": "-20.550835",
+  "longitude": "-41.8101628"
 }

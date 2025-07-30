@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.5548001",
+  "longitude": "-46.7864267"
 }

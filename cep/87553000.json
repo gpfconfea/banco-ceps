@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Altônia",
   "uf": "PR",
-  "ibge": "4100509"
+  "ibge": "4100509",
+  "latitude": "-23.8382167",
+  "longitude": "-53.8033245"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Paz",
   "localidade": "Tapera",
   "uf": "RS",
-  "ibge": "4321006"
+  "ibge": "4321006",
+  "latitude": "-28.7111688",
+  "longitude": "-52.8437249"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "35118972",
   "logradouro": "Rua Limeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serraria",
   "localidade": "Periquito",
   "uf": "MG",
-  "ibge": "3149952"
+  "ibge": "3149952",
+  "latitude": "-19.0899339",
+  "longitude": "-42.1585159"
 }

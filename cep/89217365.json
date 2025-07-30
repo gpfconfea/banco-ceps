@@ -5,5 +5,7 @@
   "bairro": "Costa e Silva",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-29.1367018",
+  "longitude": "-49.71754"
 }

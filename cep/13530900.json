@@ -1,9 +1,11 @@
 {
   "cep": "13530900",
   "logradouro": "Rodovia Engenheiro Paulo Nilo Romano Quilômetro 93 (SP-225) Rua Interna 1",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Zona Industrial I",
   "localidade": "Itirapina",
   "uf": "SP",
-  "ibge": "3523602"
+  "ibge": "3523602",
+  "latitude": "-22.25498",
+  "longitude": "-47.84344"
 }

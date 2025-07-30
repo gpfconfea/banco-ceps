@@ -5,5 +5,7 @@
   "bairro": "San Fernando Valley",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.149543",
+  "longitude": "-46.5827208"
 }

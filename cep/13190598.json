@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Monte Mor",
   "uf": "SP",
-  "ibge": "3531803"
+  "ibge": "3531803",
+  "latitude": "-22.94214",
+  "longitude": "-47.31061"
 }

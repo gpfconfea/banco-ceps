@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Santa Rita do Sapucaí",
   "uf": "MG",
-  "ibge": "3159605"
+  "ibge": "3159605",
+  "latitude": "-22.2546133",
+  "longitude": "-45.6940589"
 }

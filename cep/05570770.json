@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Esperança",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.7479786",
+  "longitude": "-49.4055797"
 }

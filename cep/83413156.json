@@ -5,5 +5,7 @@
   "bairro": "Palmital",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "latitude": "-25.3659497",
+  "longitude": "-49.1600833"
 }

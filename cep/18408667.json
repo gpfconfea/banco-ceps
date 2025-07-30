@@ -5,5 +5,7 @@
   "bairro": "Loteamento Portal Itapeva",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-23.9858317",
+  "longitude": "-48.9051067"
 }

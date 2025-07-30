@@ -1,9 +1,11 @@
 {
   "cep": "75940959",
   "logradouro": "Avenida Brasília Quadra 33 Lote 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Edéia",
   "uf": "GO",
-  "ibge": "5207402"
+  "ibge": "5207402",
+  "latitude": "-17.34133",
+  "longitude": "-49.92354"
 }

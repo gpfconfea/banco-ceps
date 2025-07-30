@@ -1,9 +1,11 @@
 {
   "cep": "55172972",
   "logradouro": "Rua Manoel Miguel dos Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mandaçaia",
   "localidade": "Brejo da Madre de Deus",
   "uf": "PE",
-  "ibge": "2602605"
+  "ibge": "2602605",
+  "latitude": "-7.9432258",
+  "longitude": "-36.2037589"
 }

@@ -5,5 +5,7 @@
   "bairro": "Água Verde",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "latitude": "-25.4528789",
+  "longitude": "-49.2862456"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São João",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.5112783",
+  "longitude": "-46.5799719"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Mauá",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.680932",
+  "longitude": "-46.4185435"
 }

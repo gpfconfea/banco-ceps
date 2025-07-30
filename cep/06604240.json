@@ -5,5 +5,7 @@
   "bairro": "Jardim Brotinho",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5394703",
+  "longitude": "-46.9040885"
 }

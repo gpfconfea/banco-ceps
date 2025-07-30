@@ -5,5 +5,7 @@
   "bairro": "Várzea Grande",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "latitude": "-29.42253",
+  "longitude": "-50.86231"
 }

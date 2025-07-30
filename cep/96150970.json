@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Morro Redondo",
   "uf": "RS",
-  "ibge": "4312450"
+  "ibge": "4312450",
+  "latitude": "-31.5919186",
+  "longitude": "-52.6260775"
 }

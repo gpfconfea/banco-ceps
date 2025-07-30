@@ -1,9 +1,11 @@
 {
   "cep": "69480959",
   "logradouro": "Avenida Deputado Danilo Correa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tapauá",
   "uf": "AM",
-  "ibge": "1304104"
+  "ibge": "1304104",
+  "latitude": "-0.41637",
+  "longitude": "-65.01768"
 }

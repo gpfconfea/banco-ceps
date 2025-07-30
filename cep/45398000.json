@@ -5,5 +5,7 @@
   "bairro": "Serra do CEM",
   "localidade": "Nova Itarana",
   "uf": "BA",
-  "ibge": "2922805"
+  "ibge": "2922805",
+  "latitude": "-13.0280762",
+  "longitude": "-40.0678848"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Terras Nobres",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.1494909",
+  "longitude": "-46.868221"
 }

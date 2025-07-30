@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Ubá",
   "uf": "MG",
-  "ibge": "3169901"
+  "ibge": "3169901",
+  "latitude": "-20.24437",
+  "longitude": "-43.77237"
 }

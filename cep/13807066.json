@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Luzia",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-23.5920885",
+  "longitude": "-46.3988337"
 }

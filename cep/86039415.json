@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Lourdes",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-10.07944",
+  "longitude": "-37.05989"
 }

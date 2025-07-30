@@ -5,5 +5,7 @@
   "bairro": "Vila Anchieta",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-23.5272128",
+  "longitude": "-46.3470594"
 }

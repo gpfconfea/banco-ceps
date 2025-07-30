@@ -5,5 +5,7 @@
   "bairro": "Prado",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "latitude": "-29.800192",
+  "longitude": "-55.8200693"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "27998990",
   "logradouro": "Rua Manoel Francisco Pintoº",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Carapebus",
   "uf": "RJ",
-  "ibge": "3300936"
+  "ibge": "3300936",
+  "latitude": "-22.18779",
+  "longitude": "-41.66444"
 }

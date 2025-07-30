@@ -5,5 +5,7 @@
   "bairro": "Neópolis",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-22.588454",
+  "longitude": "-46.545716"
 }

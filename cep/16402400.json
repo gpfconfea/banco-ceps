@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque das Flores",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.66979",
+  "longitude": "-49.74477"
 }

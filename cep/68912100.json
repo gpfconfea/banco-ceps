@@ -5,5 +5,7 @@
   "bairro": "Carmo",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0097137",
+  "longitude": "-51.0933897"
 }

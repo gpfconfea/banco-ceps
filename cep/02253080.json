@@ -5,5 +5,7 @@
   "bairro": "Vila Gustavo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-24.5076588",
+  "longitude": "-48.8363126"
 }

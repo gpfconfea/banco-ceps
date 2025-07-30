@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Capixaba",
   "uf": "AC",
-  "ibge": "1200179"
+  "ibge": "1200179",
+  "latitude": "-10.5741345",
+  "longitude": "-67.6759719"
 }

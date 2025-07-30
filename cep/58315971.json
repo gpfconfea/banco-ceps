@@ -1,9 +1,11 @@
 {
   "cep": "58315971",
   "logradouro": "Rua São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Lucena",
   "uf": "PB",
-  "ibge": "2508604"
+  "ibge": "2508604",
+  "latitude": "-6.961883",
+  "longitude": "-34.8586515"
 }

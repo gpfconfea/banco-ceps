@@ -5,5 +5,7 @@
   "bairro": "Vila Albina",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0100859",
+  "longitude": "-45.5699279"
 }

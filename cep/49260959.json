@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Umbaúba",
   "uf": "SE",
-  "ibge": "2807600"
+  "ibge": "2807600",
+  "latitude": "-11.38139",
+  "longitude": "-37.66496"
 }

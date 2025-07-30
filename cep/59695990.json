@@ -1,9 +1,11 @@
 {
   "cep": "59695990",
   "logradouro": "Pico Estreito - Pico Estreito - Baraúna/RN",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Baraúna",
   "uf": "RN",
-  "ibge": "2401453"
+  "ibge": "2401453",
+  "latitude": "-4.9659775",
+  "longitude": "-37.5938674"
 }

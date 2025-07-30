@@ -5,5 +5,7 @@
   "bairro": "Veneza",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "latitude": "-19.4656368",
+  "longitude": "-42.5292439"
 }

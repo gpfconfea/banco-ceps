@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Inácio Martins",
   "uf": "PR",
-  "ibge": "4110201"
+  "ibge": "4110201",
+  "latitude": "-25.5731969",
+  "longitude": "-51.079733"
 }

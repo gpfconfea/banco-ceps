@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional João Domingos Netto",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.0741672",
+  "longitude": "-51.3792341"
 }

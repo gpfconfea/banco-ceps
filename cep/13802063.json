@@ -5,5 +5,7 @@
   "bairro": "Vila Universitária",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4399403",
+  "longitude": "-46.9368135"
 }

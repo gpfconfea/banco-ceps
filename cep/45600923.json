@@ -1,9 +1,11 @@
 {
   "cep": "45600923",
   "logradouro": "Praça José Bastos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "latitude": "-14.7876092",
+  "longitude": "-39.274236"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Belo Oriente",
   "uf": "MG",
-  "ibge": "3106309"
+  "ibge": "3106309",
+  "latitude": "-19.2230514",
+  "longitude": "-42.4857936"
 }

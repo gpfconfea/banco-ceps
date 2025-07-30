@@ -5,5 +5,7 @@
   "bairro": "Jardim Castelinho",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "latitude": "-20.7751319",
+  "longitude": "-49.3560312"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "28455990",
   "logradouro": "Rua Campo Grandeº",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São José de Ubá",
   "uf": "RJ",
-  "ibge": "3305133"
+  "ibge": "3305133",
+  "latitude": "-22.93446",
+  "longitude": "-43.56226"
 }

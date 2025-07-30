@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brumadinho",
   "uf": "MG",
-  "ibge": "3109006"
+  "ibge": "3109006",
+  "latitude": "-20.1418275",
+  "longitude": "-44.1999387"
 }

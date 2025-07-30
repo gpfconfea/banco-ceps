@@ -1,9 +1,11 @@
 {
   "cep": "68195970",
   "logradouro": "Avenida Brigadeiro Haroldo Veloso",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Central",
   "localidade": "Jacareacanga",
   "uf": "PA",
-  "ibge": "1503754"
+  "ibge": "1503754",
+  "latitude": "-6.2214181",
+  "longitude": "-57.7591694"
 }

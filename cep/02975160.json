@@ -5,5 +5,7 @@
   "bairro": "Vila Duarte",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4787343",
+  "longitude": "-46.7094902"
 }

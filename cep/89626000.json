@@ -5,5 +5,7 @@
   "bairro": "Dal Pai",
   "localidade": "Campos Novos",
   "uf": "SC",
-  "ibge": "4203600"
+  "ibge": "4203600",
+  "latitude": "-27.2545066",
+  "longitude": "-50.915902"
 }

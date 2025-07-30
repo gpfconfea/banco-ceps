@@ -5,5 +5,7 @@
   "bairro": "Santa Inez",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "latitude": "-19.4848626",
+  "longitude": "-42.6255394"
 }

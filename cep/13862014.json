@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial II Luiz Carlos da Costa",
   "localidade": "Aguaí",
   "uf": "SP",
-  "ibge": "3500303"
+  "ibge": "3500303",
+  "latitude": "-23.16419",
+  "longitude": "-47.27374"
 }

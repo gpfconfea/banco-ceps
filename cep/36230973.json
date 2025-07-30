@@ -1,9 +1,11 @@
 {
   "cep": "36230973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio",
   "localidade": "Bias Fortes",
   "uf": "MG",
-  "ibge": "3106804"
+  "ibge": "3106804",
+  "latitude": "-19.953847",
+  "longitude": "-43.9442564"
 }

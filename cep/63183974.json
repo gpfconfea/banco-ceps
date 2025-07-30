@@ -1,9 +1,11 @@
 {
   "cep": "63183974",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Arajara",
   "localidade": "Barbalha",
   "uf": "CE",
-  "ibge": "2301901"
+  "ibge": "2301901",
+  "latitude": "-7.3370086",
+  "longitude": "-39.3947254"
 }

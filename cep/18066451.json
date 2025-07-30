@@ -5,5 +5,7 @@
   "bairro": "Jardim Marcelo Augusto",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4760207",
+  "longitude": "-47.502047"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Helena",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.2754183",
+  "longitude": "-49.0826506"
 }

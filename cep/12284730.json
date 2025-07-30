@@ -5,5 +5,7 @@
   "bairro": "Borda da Mata",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.1185915",
+  "longitude": "-45.7003593"
 }

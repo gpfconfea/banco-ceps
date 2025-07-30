@@ -5,5 +5,7 @@
   "bairro": "Parque Boa Vista",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-22.4152296",
+  "longitude": "-49.1448495"
 }

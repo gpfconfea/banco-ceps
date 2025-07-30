@@ -5,5 +5,7 @@
   "bairro": "Boqueirão",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-24.7522539",
+  "longitude": "-51.7539342"
 }

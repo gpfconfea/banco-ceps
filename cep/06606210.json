@@ -5,5 +5,7 @@
   "bairro": "Vila Ercília",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5344568",
+  "longitude": "-46.9065809"
 }

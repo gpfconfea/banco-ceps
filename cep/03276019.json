@@ -5,5 +5,7 @@
   "bairro": "Vila Margarida",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5804931",
+  "longitude": "-46.5404458"
 }

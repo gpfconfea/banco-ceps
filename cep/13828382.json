@@ -5,5 +5,7 @@
   "bairro": "Residencial Van Den Broek",
   "localidade": "Holambra",
   "uf": "SP",
-  "ibge": "3519055"
+  "ibge": "3519055",
+  "latitude": "-22.6153028",
+  "longitude": "-47.0650997"
 }

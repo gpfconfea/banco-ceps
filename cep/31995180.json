@@ -5,5 +5,7 @@
   "bairro": "Paulo VI",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8388844",
+  "longitude": "-43.8945138"
 }

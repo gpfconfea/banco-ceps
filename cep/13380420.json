@@ -5,5 +5,7 @@
   "bairro": "Jardim Marajoara",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7813293",
+  "longitude": "-47.3079256"
 }
