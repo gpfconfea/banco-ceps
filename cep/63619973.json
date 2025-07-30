@@ -1,9 +1,11 @@
 {
   "cep": "63619973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Açudinho dos Costas",
   "localidade": "Mombaça",
   "uf": "CE",
-  "ibge": "2308500"
+  "ibge": "2308500",
+  "latitude": "-2.7956374",
+  "longitude": "-40.5140808"
 }

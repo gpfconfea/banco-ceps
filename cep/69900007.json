@@ -5,5 +5,7 @@
   "bairro": "Base",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-9.9345297",
+  "longitude": "-67.7939291"
 }

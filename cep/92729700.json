@@ -5,5 +5,7 @@
   "bairro": "Passo Fundo",
   "localidade": "Guaíba",
   "uf": "RS",
-  "ibge": "4309308"
+  "ibge": "4309308",
+  "latitude": "-30.1550259",
+  "longitude": "-51.3400016"
 }

@@ -5,5 +5,7 @@
   "bairro": "Paranaguamirim",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-26.3488375",
+  "longitude": "-48.7654739"
 }

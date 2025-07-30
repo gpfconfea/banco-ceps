@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maripá",
   "uf": "PR",
-  "ibge": "4115358"
+  "ibge": "4115358",
+  "latitude": "-24.4805783",
+  "longitude": "-53.7956631"
 }

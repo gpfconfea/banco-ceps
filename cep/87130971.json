@@ -5,5 +5,7 @@
   "bairro": "IAP",
   "localidade": "Ivatuba",
   "uf": "PR",
-  "ibge": "4111605"
+  "ibge": "4111605",
+  "latitude": "-23.541696",
+  "longitude": "-52.102154"
 }

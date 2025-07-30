@@ -5,5 +5,7 @@
   "bairro": "Jardim Esperança",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5774427",
+  "longitude": "-51.448022"
 }

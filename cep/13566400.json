@@ -5,5 +5,7 @@
   "bairro": "Vila Marina",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-21.9949128",
+  "longitude": "-47.8888896"
 }

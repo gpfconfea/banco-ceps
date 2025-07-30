@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Nosso Teto",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.2480905",
+  "longitude": "-45.8034754"
 }

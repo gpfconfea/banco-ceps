@@ -5,5 +5,7 @@
   "bairro": "Jardim Felicidade",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8270763",
+  "longitude": "-43.9295754"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Filomena",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4234875",
+  "longitude": "-49.975378"
 }

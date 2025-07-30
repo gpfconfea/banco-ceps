@@ -5,5 +5,7 @@
   "bairro": "Quilometro 12",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "latitude": "-26.9667249",
+  "longitude": "-48.7601546"
 }

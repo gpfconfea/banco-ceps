@@ -5,5 +5,7 @@
   "bairro": "Horto",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "latitude": "-3.6789375",
+  "longitude": "-40.3433014"
 }

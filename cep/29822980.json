@@ -1,9 +1,11 @@
 {
   "cep": "29822980",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Nelita",
   "localidade": "Água Doce do Norte",
   "uf": "ES",
-  "ibge": "3200169"
+  "ibge": "3200169",
+  "latitude": "-18.4210364",
+  "longitude": "-41.1362954"
 }

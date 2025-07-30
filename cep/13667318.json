@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Santo Afonso",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-23.07704",
+  "longitude": "-45.72164"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1460612",
+  "longitude": "-51.3748627"
 }

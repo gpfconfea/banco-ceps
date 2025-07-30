@@ -5,5 +5,7 @@
   "bairro": "Conjunto Village Blue",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4063758",
+  "longitude": "-51.8855271"
 }

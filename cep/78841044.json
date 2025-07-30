@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Campo Verde",
   "uf": "MT",
-  "ibge": "5102678"
+  "ibge": "5102678",
+  "latitude": "-15.5548481",
+  "longitude": "-55.183543"
 }

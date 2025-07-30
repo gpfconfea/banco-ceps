@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Luiz Regitano",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.6158541",
+  "longitude": "-47.4087426"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora das Vitórias",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.682321",
+  "longitude": "-46.4552955"
 }

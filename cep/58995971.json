@@ -1,9 +1,11 @@
 {
   "cep": "58995971",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distritos",
   "localidade": "Manaíra",
   "uf": "PB",
-  "ibge": "2509008"
+  "ibge": "2509008",
+  "latitude": "-7.0988922",
+  "longitude": "-34.8447875"
 }

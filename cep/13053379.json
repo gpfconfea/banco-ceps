@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Belo II",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0281108",
+  "longitude": "-47.1108569"
 }

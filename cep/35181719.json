@@ -5,5 +5,7 @@
   "bairro": "Macuco",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "latitude": "-19.5839257",
+  "longitude": "-42.5801005"
 }

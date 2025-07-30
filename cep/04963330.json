@@ -5,5 +5,7 @@
   "bairro": "Jardim Horizonte Azul",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7464284",
+  "longitude": "-46.779006"
 }

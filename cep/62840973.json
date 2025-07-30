@@ -1,9 +1,11 @@
 {
   "cep": "62840973",
   "logradouro": "Rua Professora Marlene Ribeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Beberibe",
   "uf": "CE",
-  "ibge": "2302206"
+  "ibge": "2302206",
+  "latitude": "-4.15553",
+  "longitude": "-38.11409"
 }

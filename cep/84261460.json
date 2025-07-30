@@ -5,5 +5,7 @@
   "bairro": "Macopa",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-25.5271223",
+  "longitude": "-49.2096791"
 }

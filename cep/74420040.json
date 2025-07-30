@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rita",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6815332",
+  "longitude": "-49.3222628"
 }

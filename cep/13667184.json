@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Real",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.8369781",
+  "longitude": "-47.4748602"
 }

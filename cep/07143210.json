@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rita",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4250437",
+  "longitude": "-46.5016074"
 }

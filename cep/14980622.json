@@ -6,5 +6,7 @@
   "bairro": "Cristo Redentor",
   "localidade": "Sales",
   "uf": "SP",
-  "ibge": "3544806"
+  "ibge": "3544806",
+  "latitude": "-21.33979",
+  "longitude": "-49.49549"
 }

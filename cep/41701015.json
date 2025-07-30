@@ -5,5 +5,7 @@
   "bairro": "Alphaville I",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.8289913",
+  "longitude": "-38.2727467"
 }

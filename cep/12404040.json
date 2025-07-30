@@ -5,5 +5,7 @@
   "bairro": "Ribeirão Grande",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-23.4965023",
+  "longitude": "-46.7085702"
 }

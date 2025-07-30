@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-23.9711092",
+  "longitude": "-48.8818849"
 }

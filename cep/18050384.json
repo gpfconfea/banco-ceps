@@ -5,5 +5,7 @@
   "bairro": "Ipatinga",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4830833",
+  "longitude": "-47.5008868"
 }

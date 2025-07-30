@@ -5,5 +5,7 @@
   "bairro": "Parque São Jorge",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-22.6631203",
+  "longitude": "-50.4046739"
 }

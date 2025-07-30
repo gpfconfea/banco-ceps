@@ -1,9 +1,11 @@
 {
   "cep": "62186974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Arariús",
   "localidade": "Cariré",
   "uf": "CE",
-  "ibge": "2303105"
+  "ibge": "2303105",
+  "latitude": "-4.0577577",
+  "longitude": "-40.4779541"
 }

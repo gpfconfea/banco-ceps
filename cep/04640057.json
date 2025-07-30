@@ -5,5 +5,7 @@
   "bairro": "Jardim Cordeiro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6366257",
+  "longitude": "-46.6797309"
 }

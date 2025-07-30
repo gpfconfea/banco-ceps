@@ -1,9 +1,11 @@
 {
   "cep": "87565970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cafezal do Sul",
   "uf": "PR",
-  "ibge": "4103479"
+  "ibge": "4103479",
+  "latitude": "-25.2147541",
+  "longitude": "-50.9660161"
 }

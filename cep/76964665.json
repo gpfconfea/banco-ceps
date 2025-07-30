@@ -5,5 +5,7 @@
   "bairro": "Residencial Paineiras",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "latitude": "-10.43089",
+  "longitude": "-62.12449"
 }

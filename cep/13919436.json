@@ -5,5 +5,7 @@
   "bairro": "Nova Jaguariúna",
   "localidade": "Jaguariúna",
   "uf": "SP",
-  "ibge": "3524709"
+  "ibge": "3524709",
+  "latitude": "-22.7088293",
+  "longitude": "-46.9814173"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Quinta da Boa Vista",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-22.58512",
+  "longitude": "-48.80329"
 }

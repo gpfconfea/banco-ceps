@@ -1,9 +1,11 @@
 {
   "cep": "87895970",
   "logradouro": "Avenida Iporá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Adhemar de Barros",
   "localidade": "Terra Rica",
   "uf": "PR",
-  "ibge": "4127304"
+  "ibge": "4127304",
+  "latitude": "-22.6908388",
+  "longitude": "-52.7361"
 }

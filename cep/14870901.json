@@ -1,9 +1,11 @@
 {
   "cep": "14870901",
   "logradouro": "Praça do Café",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aparecida",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "latitude": "-21.2538208",
+  "longitude": "-48.3134486"
 }

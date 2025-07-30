@@ -1,9 +1,11 @@
 {
   "cep": "96685973",
   "logradouro": "Rodovia RS-405",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Taquari Mirim",
   "localidade": "Passo do Sobrado",
   "uf": "RS",
-  "ibge": "4314076"
+  "ibge": "4314076",
+  "latitude": "-29.945203",
+  "longitude": "-50.9695309"
 }

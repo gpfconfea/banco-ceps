@@ -5,5 +5,7 @@
   "bairro": "Residencial Ana Caroline",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.2715078",
+  "longitude": "-48.9832067"
 }

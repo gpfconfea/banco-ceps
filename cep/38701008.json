@@ -5,5 +5,7 @@
   "bairro": "Rosário",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "latitude": "-18.5821169",
+  "longitude": "-46.516439"
 }

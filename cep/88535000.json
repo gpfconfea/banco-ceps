@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Correia Pinto",
   "uf": "SC",
-  "ibge": "4204558"
+  "ibge": "4204558",
+  "latitude": "-27.587688",
+  "longitude": "-50.361448"
 }

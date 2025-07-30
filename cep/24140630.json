@@ -5,5 +5,7 @@
   "bairro": "Caramujo",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "latitude": "-20.6049683",
+  "longitude": "-41.2070184"
 }

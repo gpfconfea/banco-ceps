@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cocal do Sul",
   "uf": "SC",
-  "ibge": "4204251"
+  "ibge": "4204251",
+  "latitude": "-28.6022921",
+  "longitude": "-49.3250918"
 }

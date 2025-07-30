@@ -1,9 +1,11 @@
 {
   "cep": "78710901",
   "logradouro": "Rua Barão do Rio Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Guanabara",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "latitude": "-16.4563408",
+  "longitude": "-54.6413786"
 }

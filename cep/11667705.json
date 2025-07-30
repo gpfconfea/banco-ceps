@@ -5,5 +5,7 @@
   "bairro": "Jardim das Flecheiras",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.7024122",
+  "longitude": "-45.4300727"
 }

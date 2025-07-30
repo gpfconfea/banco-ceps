@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sangão",
   "uf": "SC",
-  "ibge": "4215455"
+  "ibge": "4215455",
+  "latitude": "-28.6399198",
+  "longitude": "-49.1248363"
 }

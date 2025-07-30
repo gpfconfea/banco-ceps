@@ -5,5 +5,7 @@
   "bairro": "Jardim Leila",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "latitude": "-23.5432256",
+  "longitude": "-46.3804233"
 }

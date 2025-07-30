@@ -5,5 +5,7 @@
   "bairro": "Loteamento Parque das Sapucaias",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8314358",
+  "longitude": "-47.0309588"
 }

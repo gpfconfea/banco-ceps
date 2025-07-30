@@ -5,5 +5,7 @@
   "bairro": "Vila Comercial",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1235817",
+  "longitude": "-51.3981884"
 }

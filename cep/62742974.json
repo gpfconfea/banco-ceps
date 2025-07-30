@@ -1,9 +1,11 @@
 {
   "cep": "62742974",
   "logradouro": "Praça São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caio Prado",
   "localidade": "Itapiúna",
   "uf": "CE",
-  "ibge": "2306504"
+  "ibge": "2306504",
+  "latitude": "-4.6507923",
+  "longitude": "-38.9407927"
 }

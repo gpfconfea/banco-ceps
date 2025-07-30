@@ -5,5 +5,7 @@
   "bairro": "Jardim Industrial",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.97173",
+  "longitude": "-44.04486"
 }

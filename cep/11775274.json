@@ -5,5 +5,7 @@
   "bairro": "Jardim Beira Mar",
   "localidade": "Peruíbe",
   "uf": "SP",
-  "ibge": "3537602"
+  "ibge": "3537602",
+  "latitude": "-24.28052",
+  "longitude": "-46.95085"
 }

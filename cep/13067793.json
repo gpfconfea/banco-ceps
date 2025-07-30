@@ -5,5 +5,7 @@
   "bairro": "Parque das Constelações",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0306112",
+  "longitude": "-47.119773"
 }

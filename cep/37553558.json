@@ -5,5 +5,7 @@
   "bairro": "Santo Ivo",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.220547",
+  "longitude": "-45.9229596"
 }

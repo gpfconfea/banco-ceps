@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itagi",
   "uf": "BA",
-  "ibge": "2915106"
+  "ibge": "2915106",
+  "latitude": "-14.16511",
+  "longitude": "-40.00536"
 }

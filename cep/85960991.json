@@ -1,9 +1,11 @@
 {
   "cep": "85960991",
   "logradouro": "Avenida Rio Grande do Sul",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Marechal Cândido Rondon",
   "uf": "PR",
-  "ibge": "4114609"
+  "ibge": "4114609",
+  "latitude": "-24.5648989",
+  "longitude": "-54.0563336"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Guarani (Z Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6408121",
+  "longitude": "-46.63379"
 }

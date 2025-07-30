@@ -5,5 +5,7 @@
   "bairro": "Jardim das Flores",
   "localidade": "Canitar",
   "uf": "SP",
-  "ibge": "3510153"
+  "ibge": "3510153",
+  "latitude": "-23.00943",
+  "longitude": "-49.79045"
 }

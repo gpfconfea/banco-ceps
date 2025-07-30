@@ -5,5 +5,7 @@
   "bairro": "Jardim Adutora",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.595178",
+  "longitude": "-46.5248098"
 }

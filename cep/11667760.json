@@ -5,5 +5,7 @@
   "bairro": "Jardim Porto Novo",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.6846592",
+  "longitude": "-45.4406772"
 }

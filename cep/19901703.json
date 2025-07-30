@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperial",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-23.0056795",
+  "longitude": "-49.8806526"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Fátima",
   "uf": "PR",
-  "ibge": "4117008"
+  "ibge": "4117008",
+  "latitude": "-23.433056",
+  "longitude": "-50.5618055"
 }

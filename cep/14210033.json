@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Luís Antônio",
   "uf": "SP",
-  "ibge": "3527603"
+  "ibge": "3527603",
+  "latitude": "-21.5546382",
+  "longitude": "-47.7031299"
 }

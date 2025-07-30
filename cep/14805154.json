@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.7447737",
+  "longitude": "-48.1882877"
 }

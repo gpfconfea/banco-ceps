@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bragança",
   "uf": "PA",
-  "ibge": "1501709"
+  "ibge": "1501709",
+  "latitude": "-1.0565167",
+  "longitude": "-46.7645525"
 }

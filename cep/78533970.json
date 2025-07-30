@@ -1,9 +1,11 @@
 {
   "cep": "78533970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "União do Norte",
   "localidade": "Peixoto de Azevedo",
   "uf": "MT",
-  "ibge": "5106422"
+  "ibge": "5106422",
+  "latitude": "-15.5482899",
+  "longitude": "-56.0352449"
 }

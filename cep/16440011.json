@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Sabino",
   "uf": "SP",
-  "ibge": "3544608"
+  "ibge": "3544608",
+  "latitude": "-22.8793367",
+  "longitude": "-43.0518353"
 }

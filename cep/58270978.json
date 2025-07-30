@@ -1,9 +1,11 @@
 {
   "cep": "58270978",
   "logradouro": "Rua de Pitombas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Araçagi",
   "uf": "PB",
-  "ibge": "2500809"
+  "ibge": "2500809",
+  "latitude": "-7.2420364",
+  "longitude": "-35.9257788"
 }

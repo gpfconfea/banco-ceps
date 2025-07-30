@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-23.98111",
+  "longitude": "-48.87538"
 }

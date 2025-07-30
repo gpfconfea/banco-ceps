@@ -1,9 +1,11 @@
 {
   "cep": "44548970",
   "logradouro": "Praça Edgard Tupinambá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio da Dona",
   "localidade": "Conceição do Almeida",
   "uf": "BA",
-  "ibge": "2908309"
+  "ibge": "2908309",
+  "latitude": "-12.7688873",
+  "longitude": "-39.1671587"
 }

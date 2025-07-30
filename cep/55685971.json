@@ -1,9 +1,11 @@
 {
   "cep": "55685971",
   "logradouro": "Rua do Colégio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Ben-te-vi",
   "localidade": "Bonito",
   "uf": "PE",
-  "ibge": "2602308"
+  "ibge": "2602308",
+  "latitude": "-11.6709656",
+  "longitude": "-40.3718913"
 }

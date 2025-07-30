@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guareí",
   "uf": "SP",
-  "ibge": "3518503"
+  "ibge": "3518503",
+  "latitude": "-23.372178",
+  "longitude": "-48.185154"
 }

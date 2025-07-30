@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.59465",
+  "longitude": "-47.44209"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-29.3640751",
+  "longitude": "-50.8153256"
 }

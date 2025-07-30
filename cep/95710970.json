@@ -1,9 +1,11 @@
 {
   "cep": "95710970",
   "logradouro": "Rua Buarque de Macedo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tuiuti",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.2662717",
+  "longitude": "-51.527422"
 }

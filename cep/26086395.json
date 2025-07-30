@@ -5,5 +5,7 @@
   "bairro": "Austin",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.7250959",
+  "longitude": "-43.5253675"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "45780970",
   "logradouro": "Praça Castro Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itarantim",
   "uf": "BA",
-  "ibge": "2916807"
+  "ibge": "2916807",
+  "latitude": "-15.6591435",
+  "longitude": "-40.0670597"
 }

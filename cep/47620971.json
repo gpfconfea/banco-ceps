@@ -1,9 +1,11 @@
 {
   "cep": "47620971",
   "logradouro": "Rua Vila Nova",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gameleira da Lapa",
   "localidade": "Sítio do Mato",
   "uf": "BA",
-  "ibge": "2930758"
+  "ibge": "2930758",
+  "latitude": "-12.8661869",
+  "longitude": "-43.3843829"
 }

@@ -5,5 +5,7 @@
   "bairro": "Socomim",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-24.3304994",
+  "longitude": "-50.634569"
 }

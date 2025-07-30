@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maria da Fé",
   "uf": "MG",
-  "ibge": "3139904"
+  "ibge": "3139904",
+  "latitude": "-22.3081952",
+  "longitude": "-45.3726793"
 }

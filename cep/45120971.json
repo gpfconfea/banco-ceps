@@ -1,9 +1,11 @@
 {
   "cep": "45120971",
   "logradouro": "Rua Povoado de Barra Nova",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra Nova",
   "localidade": "Barra do Choça",
   "uf": "BA",
-  "ibge": "2902906"
+  "ibge": "2902906",
+  "latitude": "-14.96963",
+  "longitude": "-40.55522"
 }

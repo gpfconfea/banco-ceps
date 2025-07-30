@@ -5,5 +5,7 @@
   "bairro": "Jardim São José",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.74717",
+  "longitude": "-48.82716"
 }

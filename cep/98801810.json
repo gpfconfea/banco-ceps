@@ -5,5 +5,7 @@
   "bairro": "Boa Esperança",
   "localidade": "Santo Ângelo",
   "uf": "RS",
-  "ibge": "4317509"
+  "ibge": "4317509",
+  "latitude": "-20.3666098",
+  "longitude": "-40.4203764"
 }

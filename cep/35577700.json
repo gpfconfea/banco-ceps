@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Myrtô Albergaria Pieroni",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-19.72994",
+  "longitude": "-50.17712"
 }

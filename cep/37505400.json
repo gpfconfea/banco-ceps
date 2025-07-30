@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "latitude": "-22.4128867",
+  "longitude": "-45.4749898"
 }

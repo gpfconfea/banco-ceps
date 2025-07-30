@@ -5,5 +5,7 @@
   "bairro": "Residencial Santo Antônio",
   "localidade": "Uru",
   "uf": "SP",
-  "ibge": "3555901"
+  "ibge": "3555901",
+  "latitude": "-22.59529",
+  "longitude": "-46.91705"
 }

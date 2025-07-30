@@ -5,5 +5,7 @@
   "bairro": "Vila San Remo I",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.4631759",
+  "longitude": "-49.0852302"
 }

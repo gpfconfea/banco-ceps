@@ -5,5 +5,7 @@
   "bairro": "Parque Piracema",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.0971852",
+  "longitude": "-46.6370337"
 }
