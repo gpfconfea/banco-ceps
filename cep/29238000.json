@@ -5,5 +5,7 @@
   "bairro": "Iriritiba",
   "localidade": "Anchieta",
   "uf": "ES",
-  "ibge": "3200409"
+  "ibge": "3200409",
+  "latitude": "-20.700281",
+  "longitude": "-40.758136"
 }

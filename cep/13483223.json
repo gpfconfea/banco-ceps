@@ -5,5 +5,7 @@
   "bairro": "Jardim Caieira",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5603766",
+  "longitude": "-47.4429499"
 }

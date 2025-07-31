@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guarda-Mor",
   "uf": "MG",
-  "ibge": "3128600"
+  "ibge": "3128600",
+  "latitude": "-17.7698233",
+  "longitude": "-47.0986827"
 }

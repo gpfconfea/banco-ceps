@@ -5,5 +5,7 @@
   "bairro": "Jardim Hojas",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3034191",
+  "longitude": "-49.0680724"
 }

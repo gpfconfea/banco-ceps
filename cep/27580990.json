@@ -1,9 +1,11 @@
 {
   "cep": "27580990",
   "logradouro": "Rua da África I",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Itatiaia",
   "uf": "RJ",
-  "ibge": "3302254"
+  "ibge": "3302254",
+  "latitude": "-22.4365",
+  "longitude": "-44.53189"
 }

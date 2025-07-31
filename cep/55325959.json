@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brejão",
   "uf": "PE",
-  "ibge": "2602407"
+  "ibge": "2602407",
+  "latitude": "-8.89321",
+  "longitude": "-36.48008"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parqville Pinheiros",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7597045",
+  "longitude": "-49.2265141"
 }

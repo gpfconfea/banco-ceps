@@ -1,9 +1,11 @@
 {
   "cep": "96670970",
   "logradouro": "Estrada de Albardão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Albardão",
   "localidade": "Rio Pardo",
   "uf": "RS",
-  "ibge": "4315701"
+  "ibge": "4315701",
+  "latitude": "-29.8318",
+  "longitude": "-52.59034"
 }

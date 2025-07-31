@@ -5,5 +5,7 @@
   "bairro": "Residencial Campo Bello",
   "localidade": "Neves Paulista",
   "uf": "SP",
-  "ibge": "3532504"
+  "ibge": "3532504",
+  "latitude": "-20.84346",
+  "longitude": "-49.64026"
 }

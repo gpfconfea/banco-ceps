@@ -1,9 +1,11 @@
 {
   "cep": "29950972",
   "logradouro": "Rua João Bosco Altoé",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nossa Senhora de Fátima",
   "localidade": "Jaguaré",
   "uf": "ES",
-  "ibge": "3203056"
+  "ibge": "3203056",
+  "latitude": "-18.9053057",
+  "longitude": "-40.1707866"
 }

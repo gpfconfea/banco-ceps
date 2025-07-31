@@ -1,9 +1,11 @@
 {
   "cep": "62185977",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tapuio",
   "localidade": "Cariré",
   "uf": "CE",
-  "ibge": "2303105"
+  "ibge": "2303105",
+  "latitude": "-4.0577577",
+  "longitude": "-40.4779541"
 }

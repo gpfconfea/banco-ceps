@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Antônio",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-30.0159579",
+  "longitude": "-51.1867287"
 }

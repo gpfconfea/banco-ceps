@@ -5,5 +5,7 @@
   "bairro": "Jardim Aracati",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7180475",
+  "longitude": "-46.7682221"
 }

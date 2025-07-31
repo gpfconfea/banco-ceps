@@ -1,9 +1,11 @@
 {
   "cep": "65248959",
   "logradouro": "Rua Barão do Rio Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bequimão",
   "uf": "MA",
-  "ibge": "2101905"
+  "ibge": "2101905",
+  "latitude": "-2.4511629",
+  "longitude": "-44.7860432"
 }

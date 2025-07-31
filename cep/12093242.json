@@ -5,5 +5,7 @@
   "bairro": "Condominio Cataguá Way",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "41.2907035",
+  "longitude": "-72.9616437"
 }

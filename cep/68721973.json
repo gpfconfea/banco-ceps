@@ -1,9 +1,11 @@
 {
   "cep": "68721973",
   "logradouro": "Vila Alto Pindorama",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Zona Rural",
   "localidade": "Salinópolis",
   "uf": "PA",
-  "ibge": "1506203"
+  "ibge": "1506203",
+  "latitude": "-0.712827",
+  "longitude": "-47.2997506"
 }

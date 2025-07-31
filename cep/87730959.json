@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio do Caiuá",
   "uf": "PR",
-  "ibge": "4124202"
+  "ibge": "4124202",
+  "latitude": "-22.7342727",
+  "longitude": "-52.3430062"
 }

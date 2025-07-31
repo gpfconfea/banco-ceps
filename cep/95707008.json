@@ -5,5 +5,7 @@
   "bairro": "Maria Goretti",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.1602515",
+  "longitude": "-51.5201679"
 }

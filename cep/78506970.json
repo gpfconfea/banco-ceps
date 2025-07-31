@@ -1,9 +1,11 @@
 {
   "cep": "78506970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Décima Agrovila",
   "localidade": "Terra Nova do Norte",
   "uf": "MT",
-  "ibge": "5108055"
+  "ibge": "5108055",
+  "latitude": "-3.0110235",
+  "longitude": "-60.029984"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bom Jardim III",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-20.8011775",
+  "longitude": "-49.4109544"
 }

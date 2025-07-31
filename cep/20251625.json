@@ -5,5 +5,7 @@
   "bairro": "Rio Comprido",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9301573",
+  "longitude": "-43.2005634"
 }

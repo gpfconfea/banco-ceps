@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Monreal",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-21.4344326",
+  "longitude": "-50.0671482"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "85869990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.45143",
+  "longitude": "-54.56305"
 }

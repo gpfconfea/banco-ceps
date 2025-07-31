@@ -5,5 +5,7 @@
   "bairro": "Vila Embratel",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-5.5049048",
+  "longitude": "-47.4515986"
 }

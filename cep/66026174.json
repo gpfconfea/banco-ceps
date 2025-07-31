@@ -5,5 +5,7 @@
   "bairro": "Jurunas",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-18.7879535",
+  "longitude": "-44.4256084"
 }

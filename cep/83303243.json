@@ -5,5 +5,7 @@
   "bairro": "Vila Militar I",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.45344",
+  "longitude": "-49.04931"
 }

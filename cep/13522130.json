@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "latitude": "-22.5553115",
+  "longitude": "-47.9026867"
 }

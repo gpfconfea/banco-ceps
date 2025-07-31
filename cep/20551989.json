@@ -1,9 +1,11 @@
 {
   "cep": "20551989",
-  "logradouro": "Boulevard Vinte e Oito de Setembro 277 Loja B Térreo Locker Correios",
+  "logradouro": "Boulevard Vinte e Oito de Setembro 277 Loja B Térreo",
   "complemento": "",
   "bairro": "Vila Isabel",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.91577",
+  "longitude": "-43.24458"
 }

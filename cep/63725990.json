@@ -1,9 +1,11 @@
 {
   "cep": "63725990",
   "logradouro": "Rua Várzea de Aguiar",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "latitude": "-5.19258",
+  "longitude": "-40.64029"
 }

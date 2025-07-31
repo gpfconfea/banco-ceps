@@ -1,9 +1,11 @@
 {
   "cep": "37117971",
   "logradouro": "Rua Capitão Manoel Leite",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Juréia",
   "localidade": "Monte Belo",
   "uf": "MG",
-  "ibge": "3143005"
+  "ibge": "3143005",
+  "latitude": "-21.2808976",
+  "longitude": "-46.3628617"
 }

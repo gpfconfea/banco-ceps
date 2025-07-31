@@ -1,9 +1,11 @@
 {
   "cep": "76629959",
   "logradouro": "Praça Doutor Brasil Caiado Quadra 13 Lote 11",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Goiás",
   "uf": "GO",
-  "ibge": "5208905"
+  "ibge": "5208905",
+  "latitude": "-16.32456",
+  "longitude": "-48.94822"
 }

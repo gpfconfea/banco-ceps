@@ -1,9 +1,11 @@
 {
   "cep": "50080970",
   "logradouro": "Avenida Advogado José Paulo Cavalcanti",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ilha Joana Bezerra",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.070171",
+  "longitude": "-34.8954764"
 }

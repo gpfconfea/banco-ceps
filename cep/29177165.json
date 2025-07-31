@@ -5,5 +5,7 @@
   "bairro": "Cascata",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-13.6630476",
+  "longitude": "-57.9042927"
 }

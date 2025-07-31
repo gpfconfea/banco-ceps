@@ -5,5 +5,7 @@
   "bairro": "Jardim Oásis",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-23.0595546",
+  "longitude": "-52.4364452"
 }

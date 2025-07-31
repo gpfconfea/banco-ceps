@@ -5,5 +5,7 @@
   "bairro": "Aldeinha",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.7913987",
+  "longitude": "-46.9016505"
 }

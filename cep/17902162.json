@@ -6,5 +6,7 @@
   "bairro": "Residencial Sol Nascente II",
   "localidade": "Dracena",
   "uf": "SP",
-  "ibge": "3514403"
+  "ibge": "3514403",
+  "latitude": "-21.50088",
+  "longitude": "-51.54879"
 }

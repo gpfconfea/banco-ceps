@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Itaberaba",
   "uf": "SC",
-  "ibge": "4211454"
+  "ibge": "4211454",
+  "latitude": "-26.9433514",
+  "longitude": "-52.8111338"
 }

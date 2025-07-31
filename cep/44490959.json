@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aratuípe",
   "uf": "BA",
-  "ibge": "2902302"
+  "ibge": "2902302",
+  "latitude": "-9.41169",
+  "longitude": "-40.50289"
 }

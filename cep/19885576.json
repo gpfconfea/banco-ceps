@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Cruz",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.73956",
+  "longitude": "-50.38136"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Milton Figueiredo",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5404335",
+  "longitude": "-56.0800864"
 }

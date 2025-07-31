@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Governador Mário Covas Junior",
   "localidade": "Adamantina",
   "uf": "SP",
-  "ibge": "3500105"
+  "ibge": "3500105",
+  "latitude": "-21.6826161",
+  "longitude": "-51.0878804"
 }

@@ -5,5 +5,7 @@
   "bairro": "Limoeiro",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "latitude": "-19.7978292",
+  "longitude": "-42.1464077"
 }

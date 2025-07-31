@@ -1,9 +1,11 @@
 {
   "cep": "76979959",
   "logradouro": "Avenida Carlos Gomes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Parecis",
   "uf": "RO",
-  "ibge": "1101450"
+  "ibge": "1101450",
+  "latitude": "-12.181774",
+  "longitude": "-61.6040372"
 }

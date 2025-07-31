@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Isabel",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5568185",
+  "longitude": "-46.536207"
 }

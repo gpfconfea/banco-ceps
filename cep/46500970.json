@@ -1,9 +1,11 @@
 {
   "cep": "46500970",
   "logradouro": "Rua Senhor do Bonfim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Macaúbas",
   "uf": "BA",
-  "ibge": "2919801"
+  "ibge": "2919801",
+  "latitude": "-13.0171338",
+  "longitude": "-42.6939245"
 }

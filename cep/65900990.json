@@ -1,9 +1,11 @@
 {
   "cep": "65900990",
   "logradouro": "Rua da Amizade - Bom Jesus - Escola Munipal da Amizade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.49778",
+  "longitude": "-47.4363"
 }

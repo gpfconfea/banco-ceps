@@ -5,5 +5,7 @@
   "bairro": "Pedra 90",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6289715",
+  "longitude": "-55.9589929"
 }

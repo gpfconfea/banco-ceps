@@ -5,5 +5,7 @@
   "bairro": "Jardim Cardoso",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4967733",
+  "longitude": "-46.4504539"
 }

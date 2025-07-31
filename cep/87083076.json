@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasília",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.394348",
+  "longitude": "-51.9615343"
 }

@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5269182",
+  "longitude": "-47.4050993"
 }

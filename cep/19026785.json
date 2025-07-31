@@ -5,5 +5,7 @@
   "bairro": "Jardim Cobral",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.0856114",
+  "longitude": "-51.4149423"
 }

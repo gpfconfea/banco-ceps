@@ -5,5 +5,7 @@
   "bairro": "Urca",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.95325",
+  "longitude": "-43.16811"
 }

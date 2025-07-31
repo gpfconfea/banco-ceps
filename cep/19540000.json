@@ -5,5 +5,7 @@
   "bairro": "Iubatinga",
   "localidade": "Caiabu",
   "uf": "SP",
-  "ibge": "3508900"
+  "ibge": "3508900",
+  "latitude": "-21.9129744",
+  "longitude": "-51.2093797"
 }

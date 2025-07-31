@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeródromo Internacional",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5682008",
+  "longitude": "-46.2952367"
 }

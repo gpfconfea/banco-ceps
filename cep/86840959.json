@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Faxinal",
   "uf": "PR",
-  "ibge": "4107603"
+  "ibge": "4107603",
+  "latitude": "-24.0015178",
+  "longitude": "-51.3188042"
 }

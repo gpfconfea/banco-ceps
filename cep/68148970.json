@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brasil Novo",
   "uf": "PA",
-  "ibge": "1501725"
+  "ibge": "1501725",
+  "latitude": "-3.3049375",
+  "longitude": "-52.5408988"
 }

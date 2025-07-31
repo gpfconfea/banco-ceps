@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Igaraçu",
   "localidade": "Igaraçu do Tietê",
   "uf": "SP",
-  "ibge": "3520004"
+  "ibge": "3520004",
+  "latitude": "-22.5121056",
+  "longitude": "-48.5620187"
 }

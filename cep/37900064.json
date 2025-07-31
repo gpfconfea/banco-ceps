@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Passos",
   "uf": "MG",
-  "ibge": "3147907"
+  "ibge": "3147907",
+  "latitude": "-19.919859",
+  "longitude": "-43.9691251"
 }

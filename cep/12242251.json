@@ -5,5 +5,7 @@
   "bairro": "Condomínio Loteamento Reserva da Barra",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.0309738",
+  "longitude": "-45.6029167"
 }

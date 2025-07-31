@@ -1,9 +1,11 @@
 {
   "cep": "47700959",
   "logradouro": "Praça da Bandeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santana",
   "uf": "BA",
-  "ibge": "2928208"
+  "ibge": "2928208",
+  "latitude": "-12.4151891",
+  "longitude": "-41.7696931"
 }

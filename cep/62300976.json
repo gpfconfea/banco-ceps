@@ -1,9 +1,11 @@
 {
   "cep": "62300976",
   "logradouro": "Vila Oiticica",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Viçosa do Ceará",
   "uf": "CE",
-  "ibge": "2314102"
+  "ibge": "2314102",
+  "latitude": "-4.35",
+  "longitude": "-39.133333"
 }

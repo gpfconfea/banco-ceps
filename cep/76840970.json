@@ -1,9 +1,11 @@
 {
   "cep": "76840970",
   "logradouro": "Rua da Beira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jaci Paraná",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.7897377",
+  "longitude": "-63.8516045"
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Bernardo Pessuto",
   "localidade": "Fernandópolis",
   "uf": "SP",
-  "ibge": "3515509"
+  "ibge": "3515509",
+  "latitude": "-20.30747",
+  "longitude": "-50.24053"
 }

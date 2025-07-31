@@ -5,5 +5,7 @@
   "bairro": "Bosque",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "latitude": "-30.0482234",
+  "longitude": "-52.8901686"
 }

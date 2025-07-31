@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5612002",
+  "longitude": "-51.4555937"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipaussu",
   "uf": "SP",
-  "ibge": "3520905"
+  "ibge": "3520905",
+  "latitude": "-23.055774",
+  "longitude": "-49.6266227"
 }

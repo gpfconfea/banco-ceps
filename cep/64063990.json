@@ -1,9 +1,11 @@
 {
   "cep": "64063990",
   "logradouro": "Estrada da Socopo - Socopo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.01071",
+  "longitude": "-42.75655"
 }

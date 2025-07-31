@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.3691441",
+  "longitude": "-40.0766422"
 }

@@ -5,5 +5,7 @@
   "bairro": "Pinheiro",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.633794",
+  "longitude": "-35.737475"
 }

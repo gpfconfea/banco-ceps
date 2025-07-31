@@ -1,9 +1,11 @@
 {
   "cep": "63710990",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "latitude": "-5.26286",
+  "longitude": "-40.80528"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68792971",
   "logradouro": "Vila de Americano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Americano",
   "localidade": "Santa Isabel do Pará",
   "uf": "PA",
-  "ibge": "1506500"
+  "ibge": "1506500",
+  "latitude": "-1.2794425",
+  "longitude": "-48.1039526"
 }

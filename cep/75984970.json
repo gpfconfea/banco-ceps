@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Paraúna",
   "uf": "GO",
-  "ibge": "5216403"
+  "ibge": "5216403",
+  "latitude": "-17.79701",
+  "longitude": "-50.93321"
 }

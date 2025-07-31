@@ -5,5 +5,7 @@
   "bairro": "Residencial Atlanta",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-23.1901",
+  "longitude": "-45.91076"
 }

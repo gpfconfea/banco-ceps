@@ -1,9 +1,11 @@
 {
   "cep": "46850973",
   "logradouro": "Praça Tertuliano Cerqueira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Iguapé",
   "localidade": "Boa Vista do Tupim",
   "uf": "BA",
-  "ibge": "2903805"
+  "ibge": "2903805",
+  "latitude": "-12.8374564",
+  "longitude": "-40.9061659"
 }

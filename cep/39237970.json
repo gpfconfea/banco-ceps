@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Felixlândia",
   "uf": "MG",
-  "ibge": "3125705"
+  "ibge": "3125705",
+  "latitude": "-18.7554345",
+  "longitude": "-44.9007096"
 }

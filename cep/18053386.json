@@ -5,5 +5,7 @@
   "bairro": "Vivendas do Lago",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4792174",
+  "longitude": "-47.542722"
 }

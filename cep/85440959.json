@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ubiratã",
   "uf": "PR",
-  "ibge": "4128005"
+  "ibge": "4128005",
+  "latitude": "-25.77561",
+  "longitude": "-49.71892"
 }

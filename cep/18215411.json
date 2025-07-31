@@ -5,5 +5,7 @@
   "bairro": "Chapada Grande",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.59132",
+  "longitude": "-47.97342"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora Aparecida",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-28.0156151",
+  "longitude": "-49.5965049"
 }

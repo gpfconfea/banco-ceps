@@ -1,9 +1,11 @@
 {
   "cep": "58444970",
   "logradouro": "Rua Ariquimedes Souto Maior",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Catolé",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "latitude": "-7.2114465",
+  "longitude": "-35.8936247"
 }

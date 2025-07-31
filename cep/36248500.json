@@ -5,5 +5,7 @@
   "bairro": "Mantiqueira",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "latitude": "-21.4248496",
+  "longitude": "-43.6488275"
 }

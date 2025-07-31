@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Milagres do Maranhão",
   "uf": "MA",
-  "ibge": "2106672"
+  "ibge": "2106672",
+  "latitude": "-3.5825142",
+  "longitude": "-42.6052095"
 }

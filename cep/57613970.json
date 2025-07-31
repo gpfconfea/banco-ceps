@@ -1,9 +1,11 @@
 {
   "cep": "57613970",
   "logradouro": "Rua Padre Cícero",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canafístula",
   "localidade": "Palmeira dos Índios",
   "uf": "AL",
-  "ibge": "2706307"
+  "ibge": "2706307",
+  "latitude": "-9.4006854",
+  "longitude": "-36.711532"
 }

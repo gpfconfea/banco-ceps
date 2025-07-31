@@ -1,9 +1,11 @@
 {
   "cep": "89887971",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Diamantina",
   "localidade": "Palmitos",
   "uf": "SC",
-  "ibge": "4212106"
+  "ibge": "4212106",
+  "latitude": "-26.9017543",
+  "longitude": "-49.8643154"
 }

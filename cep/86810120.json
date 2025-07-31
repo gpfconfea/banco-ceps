@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Helena",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5741446",
+  "longitude": "-51.4552267"
 }

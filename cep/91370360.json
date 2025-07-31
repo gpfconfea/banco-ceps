@@ -5,5 +5,7 @@
   "bairro": "Vila Ipiranga",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0244178",
+  "longitude": "-51.1503849"
 }

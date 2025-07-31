@@ -5,5 +5,7 @@
   "bairro": "Jardim Tropical II",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-20.50953",
+  "longitude": "-47.41996"
 }

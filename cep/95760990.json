@@ -1,9 +1,11 @@
 {
   "cep": "95760990",
   "logradouro": "Rua Nelson Holf",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São Sebastião do Caí",
   "uf": "RS",
-  "ibge": "4319505"
+  "ibge": "4319505",
+  "latitude": "-29.58768",
+  "longitude": "-51.37351"
 }

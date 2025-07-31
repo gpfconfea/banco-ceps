@@ -1,9 +1,11 @@
 {
   "cep": "72006989",
-  "logradouro": "Rua 4A Travessa 4 Térreo Locker Correios",
+  "logradouro": "Rua 4A Travessa 4 Térreo",
   "complemento": "",
   "bairro": "Setor Habitacional Vicente Pires",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.8155",
+  "longitude": "-48.01504"
 }

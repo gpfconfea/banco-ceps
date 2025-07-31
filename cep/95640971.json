@@ -1,9 +1,11 @@
 {
   "cep": "95640971",
   "logradouro": "Rua Integração",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Cristina do Pinhal",
   "localidade": "Parobé",
   "uf": "RS",
-  "ibge": "4314050"
+  "ibge": "4314050",
+  "latitude": "-29.696821",
+  "longitude": "-50.8428637"
 }

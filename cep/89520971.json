@@ -1,9 +1,11 @@
 {
   "cep": "89520971",
   "logradouro": "Avenida Pedro David Fernandes de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Curitibanos",
   "uf": "SC",
-  "ibge": "4204806"
+  "ibge": "4204806",
+  "latitude": "-27.282855",
+  "longitude": "-50.5821037"
 }

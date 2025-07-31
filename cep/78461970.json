@@ -1,9 +1,11 @@
 {
   "cep": "78461970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Coqueiral",
   "localidade": "Nobres",
   "uf": "MT",
-  "ibge": "5105903"
+  "ibge": "5105903",
+  "latitude": "-2.5611143",
+  "longitude": "-44.2759516"
 }

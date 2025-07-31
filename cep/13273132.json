@@ -5,5 +5,7 @@
   "bairro": "Village Santa Clara",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-23.0116805",
+  "longitude": "-47.0263683"
 }
