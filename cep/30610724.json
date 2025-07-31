@@ -6,5 +6,7 @@
   "bairro": "Novo das Indústrias (Barreiro)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.5647104",
+  "longitude": "-44.2241667"
 }

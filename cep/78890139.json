@@ -5,5 +5,7 @@
   "bairro": "Centro-Norte",
   "localidade": "Sorriso",
   "uf": "MT",
-  "ibge": "5107925"
+  "ibge": "5107925",
+  "latitude": "-12.2388772",
+  "longitude": "-56.1569514"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Europa",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9390476",
+  "longitude": "-47.0606312"
 }

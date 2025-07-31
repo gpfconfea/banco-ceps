@@ -5,5 +5,7 @@
   "bairro": "Pinheiros",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "latitude": "-26.217896",
+  "longitude": "-52.6587881"
 }

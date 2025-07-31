@@ -1,9 +1,11 @@
 {
   "cep": "85560972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Chopinzinho",
   "uf": "PR",
-  "ibge": "4105409"
+  "ibge": "4105409",
+  "latitude": "-25.2147541",
+  "longitude": "-50.9660161"
 }

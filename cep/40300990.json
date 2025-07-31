@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.96785",
+  "longitude": "-38.49701"
 }

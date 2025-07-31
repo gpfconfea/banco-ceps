@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Madre de Deus de Minas",
   "uf": "MG",
-  "ibge": "3139102"
+  "ibge": "3139102",
+  "latitude": "-21.4824668",
+  "longitude": "-44.3301892"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Inês",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-23.5910251",
+  "longitude": "-46.9184082"
 }

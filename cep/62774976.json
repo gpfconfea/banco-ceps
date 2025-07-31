@@ -1,9 +1,11 @@
 {
   "cep": "62774976",
   "logradouro": "Sítio de Oiticica",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Colina",
   "localidade": "Pacoti",
   "uf": "CE",
-  "ibge": "2309805"
+  "ibge": "2309805",
+  "latitude": "-4.2249306",
+  "longitude": "-38.9260582"
 }

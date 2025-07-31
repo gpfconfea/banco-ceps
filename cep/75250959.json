@@ -1,9 +1,11 @@
 {
   "cep": "75250959",
   "logradouro": "Avenida Progresso Quadra 2 Loja 14",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Conjunto Habitacional Jardim Sabiá",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.69688",
+  "longitude": "-49.10215"
 }

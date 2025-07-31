@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rita",
   "localidade": "Pederneiras",
   "uf": "SP",
-  "ibge": "3536703"
+  "ibge": "3536703",
+  "latitude": "-22.3643",
+  "longitude": "-48.76848"
 }

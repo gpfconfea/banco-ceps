@@ -1,9 +1,11 @@
 {
   "cep": "59596959",
   "logradouro": "Rua Prefeito Valfran Ribeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Galinhos",
   "uf": "RN",
-  "ibge": "2404101"
+  "ibge": "2404101",
+  "latitude": "-5.09196",
+  "longitude": "-36.27386"
 }

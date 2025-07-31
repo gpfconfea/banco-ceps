@@ -5,5 +5,7 @@
   "bairro": "Povoado Pouso Alegre",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.4648425",
+  "longitude": "-45.4266753"
 }

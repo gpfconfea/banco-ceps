@@ -5,5 +5,7 @@
   "bairro": "Jardim Satélite",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7000036",
+  "longitude": "-46.692328"
 }

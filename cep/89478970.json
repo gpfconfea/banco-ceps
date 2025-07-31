@@ -1,9 +1,11 @@
 {
   "cep": "89478970",
   "logradouro": "Rua Professor Alfredo Ludka",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bela Vista do Toldo",
   "uf": "SC",
-  "ibge": "4202131"
+  "ibge": "4202131",
+  "latitude": "-26.275116",
+  "longitude": "-50.4668424"
 }

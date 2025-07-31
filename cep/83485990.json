@@ -1,9 +1,11 @@
 {
   "cep": "83485990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Tunas do Paraná",
   "uf": "PR",
-  "ibge": "4127882"
+  "ibge": "4127882",
+  "latitude": "-25.49878",
+  "longitude": "-49.20343"
 }

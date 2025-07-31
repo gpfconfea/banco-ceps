@@ -1,9 +1,11 @@
 {
   "cep": "48390959",
   "logradouro": "Praça José Osete de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cardeal da Silva",
   "uf": "BA",
-  "ibge": "2907004"
+  "ibge": "2907004",
+  "latitude": "-11.9431",
+  "longitude": "-37.94892"
 }

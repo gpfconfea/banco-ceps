@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coronel Domingos Soares",
   "uf": "PR",
-  "ibge": "4106456"
+  "ibge": "4106456",
+  "latitude": "-26.2384829",
+  "longitude": "-52.0257794"
 }

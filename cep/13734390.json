@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4569548",
+  "longitude": "-46.9952054"
 }

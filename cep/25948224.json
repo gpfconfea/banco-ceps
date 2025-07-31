@@ -5,5 +5,7 @@
   "bairro": "Monte Oliveti",
   "localidade": "Guapimirim",
   "uf": "RJ",
-  "ibge": "3301850"
+  "ibge": "3301850",
+  "latitude": "-22.5110463",
+  "longitude": "-43.009203"
 }

@@ -5,5 +5,7 @@
   "bairro": "Piracema",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-22.9832036",
+  "longitude": "-52.5671007"
 }

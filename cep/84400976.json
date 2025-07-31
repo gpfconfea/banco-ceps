@@ -1,9 +1,11 @@
 {
   "cep": "84400976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Prudentópolis",
   "uf": "PR",
-  "ibge": "4120606"
+  "ibge": "4120606",
+  "latitude": "-25.214799",
+  "longitude": "-50.9660752"
 }

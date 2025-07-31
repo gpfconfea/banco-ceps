@@ -5,5 +5,7 @@
   "bairro": "Condomínio Fazenda Palmeiras Imperiais",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.2229607",
+  "longitude": "-47.3223958"
 }

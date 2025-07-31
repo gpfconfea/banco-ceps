@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mogeiro",
   "uf": "PB",
-  "ibge": "2509404"
+  "ibge": "2509404",
+  "latitude": "-7.30468",
+  "longitude": "-35.4787723"
 }

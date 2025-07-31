@@ -1,9 +1,11 @@
 {
   "cep": "95580975",
   "logradouro": "Rua da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lajeadinho",
   "localidade": "Três Cachoeiras",
   "uf": "RS",
-  "ibge": "4321667"
+  "ibge": "4321667",
+  "latitude": "-29.45005",
+  "longitude": "-49.91977"
 }

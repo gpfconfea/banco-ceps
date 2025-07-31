@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "Videira",
   "uf": "SC",
-  "ibge": "4219309"
+  "ibge": "4219309",
+  "latitude": "-26.999409",
+  "longitude": "-51.1466389"
 }

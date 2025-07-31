@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Goianésia",
   "uf": "GO",
-  "ibge": "5208608"
+  "ibge": "5208608",
+  "latitude": "-15.3268913",
+  "longitude": "-49.1161135"
 }

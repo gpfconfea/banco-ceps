@@ -5,5 +5,7 @@
   "bairro": "Vila Dona Augusta",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4449084",
+  "longitude": "-46.5920908"
 }

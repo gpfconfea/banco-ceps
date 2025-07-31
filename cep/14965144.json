@@ -5,5 +5,7 @@
   "bairro": "Vila Cardoso",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4718252",
+  "longitude": "-49.2127538"
 }

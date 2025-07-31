@@ -5,5 +5,7 @@
   "bairro": "Anhumas",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.9406002",
+  "longitude": "-48.2971335"
 }

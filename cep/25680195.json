@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "latitude": "-22.5118795",
+  "longitude": "-43.1797459"
 }

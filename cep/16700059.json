@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Guararapes",
   "uf": "SP",
-  "ibge": "3518206"
+  "ibge": "3518206",
+  "latitude": "-21.24442",
+  "longitude": "-50.64031"
 }

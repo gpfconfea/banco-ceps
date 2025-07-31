@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Sorocaba",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-24.1166035",
+  "longitude": "-49.3099246"
 }

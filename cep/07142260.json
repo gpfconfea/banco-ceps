@@ -5,5 +5,7 @@
   "bairro": "Jardim São Domingos",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4137228",
+  "longitude": "-46.495381"
 }

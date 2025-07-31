@@ -1,9 +1,11 @@
 {
   "cep": "96173970",
   "logradouro": "Rua Picada da Esperança",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Esperança",
   "localidade": "São Lourenço do Sul",
   "uf": "RS",
-  "ibge": "4318804"
+  "ibge": "4318804",
+  "latitude": "-29.47655",
+  "longitude": "-51.16058"
 }

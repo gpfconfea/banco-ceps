@@ -5,5 +5,7 @@
   "bairro": "Jardim Cabuçu",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4699389",
+  "longitude": "-46.5697386"
 }

@@ -5,5 +5,7 @@
   "bairro": "Padroeira",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-22.7225",
+  "longitude": "-45.1066289"
 }

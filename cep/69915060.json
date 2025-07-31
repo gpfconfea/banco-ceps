@@ -5,5 +5,7 @@
   "bairro": "Loteamento Ipanema",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-22.8343125",
+  "longitude": "-47.1439582"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial das Oliveiras",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "latitude": "-23.621125",
+  "longitude": "-46.7786153"
 }

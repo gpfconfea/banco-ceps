@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Campo Novo",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5983073",
+  "longitude": "-47.3703142"
 }

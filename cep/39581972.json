@@ -1,9 +1,11 @@
 {
   "cep": "39581972",
   "logradouro": "Praça Carlos Ribeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canabrava",
   "localidade": "Francisco Sá",
   "uf": "MG",
-  "ibge": "3126703"
+  "ibge": "3126703",
+  "latitude": "-16.7232863",
+  "longitude": "-43.8651358"
 }

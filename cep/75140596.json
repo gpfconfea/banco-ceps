@@ -5,5 +5,7 @@
   "bairro": "Residencial Caminho das Águas",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3554769",
+  "longitude": "-48.9177849"
 }

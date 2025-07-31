@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque do Bosque",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "-23.6534721",
+  "longitude": "-52.6199818"
 }

@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional José Teruel Martinez",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2189365",
+  "longitude": "-49.979776"
 }

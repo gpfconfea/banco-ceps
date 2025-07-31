@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Morada das Flores",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4415735",
+  "longitude": "-47.3674067"
 }

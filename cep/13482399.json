@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Santo Antoni",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.59501",
+  "longitude": "-47.42525"
 }

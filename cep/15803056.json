@@ -5,5 +5,7 @@
   "bairro": "Vila Guzzo",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "latitude": "-23.5645117",
+  "longitude": "-46.6783977"
 }

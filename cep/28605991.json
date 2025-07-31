@@ -1,9 +1,11 @@
 {
   "cep": "28605991",
   "logradouro": "Estrada Friburgo-Amparoº - Km 09 - Loja 01",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "latitude": "-22.28588",
+  "longitude": "-42.51104"
 }

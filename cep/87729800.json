@@ -5,5 +5,7 @@
   "bairro": "Cabrito",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-23.118703",
+  "longitude": "-52.730381"
 }

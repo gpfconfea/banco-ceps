@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.2271354",
+  "longitude": "-45.9148506"
 }

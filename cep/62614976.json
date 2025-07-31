@@ -1,9 +1,11 @@
 {
   "cep": "62614976",
   "logradouro": "Rua Retiro Caxitoré",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caxitoré",
   "localidade": "Tejuçuoca",
   "uf": "CE",
-  "ibge": "2313351"
+  "ibge": "2313351",
+  "latitude": "-3.9884843",
+  "longitude": "-39.5789373"
 }

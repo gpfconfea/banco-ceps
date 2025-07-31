@@ -5,5 +5,7 @@
   "bairro": "Limoeiro",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "latitude": "-26.7225582",
+  "longitude": "-49.4210686"
 }

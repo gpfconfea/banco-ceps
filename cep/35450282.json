@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Itabirito",
   "uf": "MG",
-  "ibge": "3131901"
+  "ibge": "3131901",
+  "latitude": "-20.2401415",
+  "longitude": "-43.8038661"
 }

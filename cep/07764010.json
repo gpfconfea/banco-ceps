@@ -5,5 +5,7 @@
   "bairro": "Empresarial dos Eucaliptos",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "latitude": "-21.96589",
+  "longitude": "-46.74919"
 }

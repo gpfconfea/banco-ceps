@@ -1,9 +1,11 @@
 {
   "cep": "42825904",
   "logradouro": "2ª Travessa dos Coqueiros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Catu de Abrantes (Abrantes)",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.7702464",
+  "longitude": "-38.1768428"
 }

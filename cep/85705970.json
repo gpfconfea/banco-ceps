@@ -1,9 +1,11 @@
 {
   "cep": "85705970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Siqueira Belo",
   "localidade": "Barracão",
   "uf": "PR",
-  "ibge": "4102604"
+  "ibge": "4102604",
+  "latitude": "39.8230288",
+  "longitude": "-8.727099"
 }

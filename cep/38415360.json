@@ -5,5 +5,7 @@
   "bairro": "Tocantins",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.8944311",
+  "longitude": "-48.3399148"
 }

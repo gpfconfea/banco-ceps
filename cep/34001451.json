@@ -5,5 +5,7 @@
   "bairro": "Matadouro",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "latitude": "-21.4664697",
+  "longitude": "-47.018765"
 }

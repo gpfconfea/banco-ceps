@@ -1,9 +1,11 @@
 {
   "cep": "13448902",
   "logradouro": "Estrada Municipal Pastor Walter Boger",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa Bonita",
   "localidade": "Engenheiro Coelho",
   "uf": "SP",
-  "ibge": "3515152"
+  "ibge": "3515152",
+  "latitude": "-22.5112482",
+  "longitude": "-47.1949452"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Euclides Miranda",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "latitude": "-14.8545767",
+  "longitude": "-40.8440263"
 }

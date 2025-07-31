@@ -1,9 +1,11 @@
 {
   "cep": "65215970",
   "logradouro": "Praça Ozimo de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Viana",
   "uf": "MA",
-  "ibge": "2112803"
+  "ibge": "2112803",
+  "latitude": "-3.2188869",
+  "longitude": "-45.0026435"
 }

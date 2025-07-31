@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Deolinda Guerra",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5319212",
+  "longitude": "-47.494821"
 }

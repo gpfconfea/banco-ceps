@@ -1,9 +1,11 @@
 {
   "cep": "55644901",
   "logradouro": "Rua Primeiro de Janeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cruzeiro",
   "localidade": "Gravatá",
   "uf": "PE",
-  "ibge": "2606408"
+  "ibge": "2606408",
+  "latitude": "-8.2106135",
+  "longitude": "-35.5762635"
 }

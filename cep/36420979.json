@@ -1,9 +1,11 @@
 {
   "cep": "36420979",
   "logradouro": "Rua Um",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Francisco",
   "localidade": "Ouro Branco",
   "uf": "MG",
-  "ibge": "3145901"
+  "ibge": "3145901",
+  "latitude": "-20.5367727",
+  "longitude": "-43.706082"
 }

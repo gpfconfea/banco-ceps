@@ -6,5 +6,7 @@
   "bairro": "Jardim Amorim",
   "localidade": "Timburi",
   "uf": "SP",
-  "ibge": "3554607"
+  "ibge": "3554607",
+  "latitude": "-23.20617",
+  "longitude": "-49.60256"
 }

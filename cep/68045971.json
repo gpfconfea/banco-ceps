@@ -1,9 +1,11 @@
 {
   "cep": "68045971",
   "logradouro": "Avenida Curuá-Una",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Maicá",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "latitude": "-2.4308452",
+  "longitude": "-54.7072989"
 }

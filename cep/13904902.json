@@ -1,9 +1,11 @@
 {
   "cep": "13904902",
   "logradouro": "Rua Sebastião Gonçalves Cruz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Figueira",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-22.7126765",
+  "longitude": "-46.7799079"
 }

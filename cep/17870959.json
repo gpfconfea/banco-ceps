@@ -5,5 +5,7 @@
   "bairro": "Terminal Rodoviario",
   "localidade": "Flora Rica",
   "uf": "SP",
-  "ibge": "3515806"
+  "ibge": "3515806",
+  "latitude": "-21.6772102",
+  "longitude": "-51.382165"
 }

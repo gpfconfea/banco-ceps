@@ -5,5 +5,7 @@
   "bairro": "Jardim Danfer",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5566522",
+  "longitude": "-47.4491265"
 }

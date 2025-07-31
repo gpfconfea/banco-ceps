@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vale do Sol",
   "uf": "RS",
-  "ibge": "4322533"
+  "ibge": "4322533",
+  "latitude": "-29.6113831",
+  "longitude": "-52.6785702"
 }

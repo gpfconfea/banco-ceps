@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim Cumbica",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-22.9778712",
+  "longitude": "-47.0790004"
 }

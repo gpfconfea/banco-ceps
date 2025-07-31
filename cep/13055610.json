@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Maria",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0422545",
+  "longitude": "-47.1334983"
 }

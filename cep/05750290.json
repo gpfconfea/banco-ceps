@@ -5,5 +5,7 @@
   "bairro": "Vila Suzana",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5137573",
+  "longitude": "-47.6270101"
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito Agroindustrial de Anápolis",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.4020727",
+  "longitude": "-48.9318116"
 }

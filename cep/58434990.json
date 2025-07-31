@@ -1,9 +1,11 @@
 {
   "cep": "58434990",
   "logradouro": "Rua Projetada - Mutirão do Serrotão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "latitude": "-7.22441",
+  "longitude": "-35.93595"
 }

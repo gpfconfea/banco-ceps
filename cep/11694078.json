@@ -5,5 +5,7 @@
   "bairro": "Horto Florestal",
   "localidade": "Ubatuba",
   "uf": "SP",
-  "ibge": "3555406"
+  "ibge": "3555406",
+  "latitude": "-23.4180979",
+  "longitude": "-45.1109769"
 }

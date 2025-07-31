@@ -5,5 +5,7 @@
   "bairro": "Condomínio Refúgio dos Pinheiros",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5625415",
+  "longitude": "-46.8554045"
 }

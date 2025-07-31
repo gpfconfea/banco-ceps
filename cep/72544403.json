@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-16.0099469",
+  "longitude": "-48.0011395"
 }

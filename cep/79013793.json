@@ -5,5 +5,7 @@
   "bairro": "Morada Verde",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4135142",
+  "longitude": "-54.5881802"
 }

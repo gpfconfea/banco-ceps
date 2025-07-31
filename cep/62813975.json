@@ -1,9 +1,11 @@
 {
   "cep": "62813975",
   "logradouro": "Rua Ricardo de Holanda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibicuitaba",
   "localidade": "Icapuí",
   "uf": "CE",
-  "ibge": "2305357"
+  "ibge": "2305357",
+  "latitude": "-4.7216051",
+  "longitude": "-37.3470609"
 }

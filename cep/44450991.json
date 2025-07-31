@@ -1,9 +1,11 @@
 {
   "cep": "44450991",
   "logradouro": "Rua da Cajazeira - Conceição de Salinas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Salinas da Margarida",
   "uf": "BA",
-  "ibge": "2927309"
+  "ibge": "2927309",
+  "latitude": "-12.87834",
+  "longitude": "-38.77915"
 }

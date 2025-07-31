@@ -5,5 +5,7 @@
   "bairro": "São Francisco da Praia",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "latitude": "-23.758747",
+  "longitude": "-45.416549"
 }

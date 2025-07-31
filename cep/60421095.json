@@ -5,5 +5,7 @@
   "bairro": "Itaoca",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-5.0863639",
+  "longitude": "-38.9131031"
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Solo Sagrado",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5149958",
+  "longitude": "-51.4184844"
 }

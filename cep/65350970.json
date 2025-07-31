@@ -1,9 +1,11 @@
 {
   "cep": "65350970",
   "logradouro": "Praça Cônego Eliude",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Vitória do Mearim",
   "uf": "MA",
-  "ibge": "2112902"
+  "ibge": "2112902",
+  "latitude": "-3.4625149",
+  "longitude": "-44.8702389"
 }

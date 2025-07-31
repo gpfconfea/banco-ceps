@@ -5,5 +5,7 @@
   "bairro": "Vila Rica",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.8541328",
+  "longitude": "-46.3047446"
 }

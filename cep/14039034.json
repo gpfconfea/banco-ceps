@@ -5,5 +5,7 @@
   "bairro": "Residencial e Empresarial Alphaville",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.27037",
+  "longitude": "-47.8311"
 }

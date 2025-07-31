@@ -1,9 +1,11 @@
 {
   "cep": "38183903",
   "logradouro": "Córrego da Mata",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Córrego da Mata",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "latitude": "-19.5906149",
+  "longitude": "-46.9440382"
 }

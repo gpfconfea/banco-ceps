@@ -1,9 +1,11 @@
 {
   "cep": "55755970",
   "logradouro": "Rua Maria Cecilia de Miranda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Casinhas",
   "uf": "PE",
-  "ibge": "2604155"
+  "ibge": "2604155",
+  "latitude": "-7.7492077",
+  "longitude": "-35.7260026"
 }

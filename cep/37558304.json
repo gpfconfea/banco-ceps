@@ -5,5 +5,7 @@
   "bairro": "Vila Costa Rios",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.250017",
+  "longitude": "-45.9360371"
 }
