@@ -5,5 +5,7 @@
   "bairro": "Jardim Marisa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.1340855",
+  "longitude": "-51.3852602"
 }

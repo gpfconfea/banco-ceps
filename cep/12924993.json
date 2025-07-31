@@ -1,9 +1,11 @@
 {
   "cep": "12924993",
   "logradouro": "Estrada Municipal Ulysses da Silveira Guimarães - Araras dos Pereiras",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.869658",
+  "longitude": "-46.5496008"
 }

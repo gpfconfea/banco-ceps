@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu",
   "localidade": "Itaí",
   "uf": "SP",
-  "ibge": "3521804"
+  "ibge": "3521804",
+  "latitude": "-23.41557",
+  "longitude": "-49.09892"
 }

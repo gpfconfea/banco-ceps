@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-23.6387782",
+  "longitude": "-46.9924679"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Prata",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-20.5919993",
+  "longitude": "-48.5674653"
 }

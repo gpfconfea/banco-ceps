@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaguaribara",
   "uf": "CE",
-  "ibge": "2306801"
+  "ibge": "2306801",
+  "latitude": "-5.4614377",
+  "longitude": "-38.4609375"
 }

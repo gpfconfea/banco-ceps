@@ -5,5 +5,7 @@
   "bairro": "Residencial Pioneiro Odwaldo Bueno Netto",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4620445",
+  "longitude": "-51.9229307"
 }

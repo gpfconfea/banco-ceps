@@ -5,5 +5,7 @@
   "bairro": "Moreira",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "latitude": "-19.7725217",
+  "longitude": "-43.8545426"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Galo",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-22.7527091",
+  "longitude": "-47.3262765"
 }

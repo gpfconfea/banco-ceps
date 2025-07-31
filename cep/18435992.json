@@ -1,9 +1,11 @@
 {
   "cep": "18435992",
   "logradouro": "Estrada Municipal do Bairro do Braganceiro, Braganceiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Nova Campina",
   "uf": "SP",
-  "ibge": "3532827"
+  "ibge": "3532827",
+  "latitude": "-24.18079",
+  "longitude": "-48.90414"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Dourado",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5688487",
+  "longitude": "-47.3713481"
 }

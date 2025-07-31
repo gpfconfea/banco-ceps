@@ -1,9 +1,11 @@
 {
   "cep": "13877902",
   "logradouro": "Rodovia SP-342",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Industrial",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "latitude": "-22.099477",
+  "longitude": "-46.8207176"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "76293970",
   "logradouro": "Rua Santa Luzia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jacilândia",
   "localidade": "Itapirapuã",
   "uf": "GO",
-  "ibge": "5211008"
+  "ibge": "5211008",
+  "latitude": "-16.3580775",
+  "longitude": "-46.893244"
 }

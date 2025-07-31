@@ -5,5 +5,7 @@
   "bairro": "Oliveira",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-30.8384555",
+  "longitude": "-51.8105959"
 }

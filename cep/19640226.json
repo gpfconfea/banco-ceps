@@ -5,5 +5,7 @@
   "bairro": "Residencial Osvaldo Gomes da Silva",
   "localidade": "Iepê",
   "uf": "SP",
-  "ibge": "3519907"
+  "ibge": "3519907",
+  "latitude": "-22.6581",
+  "longitude": "-51.06604"
 }

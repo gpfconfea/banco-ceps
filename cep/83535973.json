@@ -1,9 +1,11 @@
 {
   "cep": "83535973",
   "logradouro": "Estrada Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Novos Horizontes",
   "localidade": "Campo Magro",
   "uf": "PR",
-  "ibge": "4104253"
+  "ibge": "4104253",
+  "latitude": "-25.3727055",
+  "longitude": "-49.4229929"
 }

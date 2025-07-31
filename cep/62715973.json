@@ -1,9 +1,11 @@
 {
   "cep": "62715973",
   "logradouro": "Rua João Juca Gomes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ipueiras dos Gomes",
   "localidade": "Canindé",
   "uf": "CE",
-  "ibge": "2302800"
+  "ibge": "2302800",
+  "latitude": "-4.3593167",
+  "longitude": "-39.314783"
 }

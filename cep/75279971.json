@@ -1,9 +1,11 @@
 {
   "cep": "75279971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ponte Funda",
   "localidade": "Vianópolis",
   "uf": "GO",
-  "ibge": "5222005"
+  "ibge": "5222005",
+  "latitude": "-19.9266301",
+  "longitude": "-44.2986906"
 }

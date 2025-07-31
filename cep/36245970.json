@@ -5,5 +5,7 @@
   "bairro": "São João da Serra",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "latitude": "-21.474814",
+  "longitude": "-43.4372776"
 }

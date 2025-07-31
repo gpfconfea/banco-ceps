@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil II",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "latitude": "-23.9652692",
+  "longitude": "-46.2475412"
 }

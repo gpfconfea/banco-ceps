@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaborá",
   "uf": "SC",
-  "ibge": "4208609"
+  "ibge": "4208609",
+  "latitude": "-27.1699224",
+  "longitude": "-51.7481749"
 }

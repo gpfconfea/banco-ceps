@@ -5,5 +5,7 @@
   "bairro": "Paese",
   "localidade": "Itapoá",
   "uf": "SC",
-  "ibge": "4208450"
+  "ibge": "4208450",
+  "latitude": "-26.0867687",
+  "longitude": "-48.6125615"
 }

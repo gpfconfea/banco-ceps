@@ -6,5 +6,7 @@
   "bairro": "Pilar",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.38627",
+  "longitude": "-43.50807"
 }

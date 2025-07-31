@@ -5,5 +5,7 @@
   "bairro": "Realengo",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.6689388",
+  "longitude": "-50.4284784"
 }

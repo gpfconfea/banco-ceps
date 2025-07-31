@@ -5,5 +5,7 @@
   "bairro": "São Benedito",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "latitude": "-22.2379347",
+  "longitude": "-45.6993109"
 }

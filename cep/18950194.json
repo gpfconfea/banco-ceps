@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Onofre Ortiz",
   "localidade": "Ipaussu",
   "uf": "SP",
-  "ibge": "3520905"
+  "ibge": "3520905",
+  "latitude": "-22.73006",
+  "longitude": "-47.25838"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Cittá di Salerno",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9838585",
+  "longitude": "-47.1559167"
 }

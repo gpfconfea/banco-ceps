@@ -1,9 +1,11 @@
 {
   "cep": "11010900",
   "logradouro": "Praça Visconde de Mauá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-23.9338802",
+  "longitude": "-46.3289623"
 }

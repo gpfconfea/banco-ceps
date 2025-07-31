@@ -1,9 +1,11 @@
 {
   "cep": "39155971",
   "logradouro": "Rua Manoel Esperidião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Milho Verde",
   "localidade": "Serro",
   "uf": "MG",
-  "ibge": "3167103"
+  "ibge": "3167103",
+  "latitude": "-18.4731854",
+  "longitude": "-43.4979152"
 }

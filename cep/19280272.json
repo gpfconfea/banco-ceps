@@ -5,5 +5,7 @@
   "bairro": "Residencial Vitória",
   "localidade": "Teodoro Sampaio",
   "uf": "SP",
-  "ibge": "3554300"
+  "ibge": "3554300",
+  "latitude": "-22.5187788",
+  "longitude": "-52.1748639"
 }

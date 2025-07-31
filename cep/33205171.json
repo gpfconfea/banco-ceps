@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Vespasiano",
   "uf": "MG",
-  "ibge": "3171204"
+  "ibge": "3171204",
+  "latitude": "-20.40429",
+  "longitude": "-43.50402"
 }

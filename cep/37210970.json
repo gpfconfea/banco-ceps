@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itumirim",
   "uf": "MG",
-  "ibge": "3134301"
+  "ibge": "3134301",
+  "latitude": "-21.3175401",
+  "longitude": "-44.8727888"
 }

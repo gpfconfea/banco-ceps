@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-23.47242",
+  "longitude": "-46.53083"
 }

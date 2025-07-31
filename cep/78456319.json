@@ -5,5 +5,7 @@
   "bairro": "Cidade Bela",
   "localidade": "Nova Mutum",
   "uf": "MT",
-  "ibge": "5106224"
+  "ibge": "5106224",
+  "latitude": "-15.60169",
+  "longitude": "-56.06293"
 }

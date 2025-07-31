@@ -1,9 +1,11 @@
 {
   "cep": "12490971",
   "logradouro": "Rua Antônio da Cunha Leite",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Bento do Sapucaí",
   "uf": "SP",
-  "ibge": "3548609"
+  "ibge": "3548609",
+  "latitude": "-23.2303481",
+  "longitude": "-46.5970695"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Jandaia",
   "uf": "GO",
-  "ibge": "5211701"
+  "ibge": "5211701",
+  "latitude": "-16.8064718",
+  "longitude": "-49.2975276"
 }

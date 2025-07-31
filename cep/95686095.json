@@ -6,5 +6,7 @@
   "bairro": "Boeira",
   "localidade": "Canela",
   "uf": "RS",
-  "ibge": "4304408"
+  "ibge": "4304408",
+  "latitude": "-29.35011",
+  "longitude": "-50.80985"
 }

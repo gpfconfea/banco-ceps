@@ -1,9 +1,11 @@
 {
   "cep": "99952974",
   "logradouro": "Rua Porto Alegre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Cecília do Sul",
   "uf": "RS",
-  "ibge": "4316733"
+  "ibge": "4316733",
+  "latitude": "-28.1603469",
+  "longitude": "-51.9368791"
 }

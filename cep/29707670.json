@@ -5,5 +5,7 @@
   "bairro": "Gordiano Guimarães",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-19.52883",
+  "longitude": "-40.66885"
 }

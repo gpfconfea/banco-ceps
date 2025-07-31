@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Três Corações",
   "uf": "MG",
-  "ibge": "3169307"
+  "ibge": "3169307",
+  "latitude": "-23.4156",
+  "longitude": "-46.5053249"
 }

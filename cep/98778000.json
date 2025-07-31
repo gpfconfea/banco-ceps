@@ -5,5 +5,7 @@
   "bairro": "Santa Tereza",
   "localidade": "Catuípe",
   "uf": "RS",
-  "ibge": "4305009"
+  "ibge": "4305009",
+  "latitude": "-28.3059213",
+  "longitude": "-54.0978709"
 }

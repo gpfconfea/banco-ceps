@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Alvorada",
   "uf": "TO",
-  "ibge": "1700707"
+  "ibge": "1700707",
+  "latitude": "-12.48968",
+  "longitude": "-49.12172"
 }

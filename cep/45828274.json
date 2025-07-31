@@ -5,5 +5,7 @@
   "bairro": "Minas Gerais",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "latitude": "-16.36058",
+  "longitude": "-39.56486"
 }

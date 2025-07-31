@@ -1,9 +1,11 @@
 {
   "cep": "62832974",
   "logradouro": "Rua José Leite de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Luzia",
   "localidade": "Jaguaruana",
   "uf": "CE",
-  "ibge": "2307007"
+  "ibge": "2307007",
+  "latitude": "-4.8390637",
+  "longitude": "-37.8709382"
 }

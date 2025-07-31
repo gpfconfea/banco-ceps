@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Presidente Venceslau",
   "uf": "SP",
-  "ibge": "3541505"
+  "ibge": "3541505",
+  "latitude": "-22.109",
+  "longitude": "-51.40918"
 }

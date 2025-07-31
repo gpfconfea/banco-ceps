@@ -1,9 +1,11 @@
 {
   "cep": "35464974",
   "logradouro": "Rua dos Passos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Piedade do Paraopeba",
   "localidade": "Brumadinho",
   "uf": "MG",
-  "ibge": "3109006"
+  "ibge": "3109006",
+  "latitude": "-20.168276",
+  "longitude": "-44.0181598"
 }

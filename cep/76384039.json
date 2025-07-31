@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Goianésia",
   "uf": "GO",
-  "ibge": "5208608"
+  "ibge": "5208608",
+  "latitude": "-15.346728",
+  "longitude": "-49.1102154"
 }

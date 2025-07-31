@@ -5,5 +5,7 @@
   "bairro": "Pinheirinho",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-22.9557618",
+  "longitude": "-46.9129906"
 }

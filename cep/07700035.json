@@ -5,5 +5,7 @@
   "bairro": "Região Central",
   "localidade": "Caieiras",
   "uf": "SP",
-  "ibge": "3509007"
+  "ibge": "3509007",
+  "latitude": "-23.3599041",
+  "longitude": "-46.7392762"
 }

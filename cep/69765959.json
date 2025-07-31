@@ -1,9 +1,11 @@
 {
   "cep": "69765959",
   "logradouro": "Avenida Rio Negro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cucuí",
   "localidade": "São Gabriel da Cachoeira",
   "uf": "AM",
-  "ibge": "1303809"
+  "ibge": "1303809",
+  "latitude": "1.1941765",
+  "longitude": "-66.8377071"
 }

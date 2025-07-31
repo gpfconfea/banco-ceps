@@ -5,5 +5,7 @@
   "bairro": "Chácara Flora",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3600793",
+  "longitude": "-47.880986"
 }

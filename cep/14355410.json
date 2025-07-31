@@ -5,5 +5,7 @@
   "bairro": "Residencial Ulisses Guimarães",
   "localidade": "Altinópolis",
   "uf": "SP",
-  "ibge": "3501004"
+  "ibge": "3501004",
+  "latitude": "-21.0196055",
+  "longitude": "-47.4019283"
 }

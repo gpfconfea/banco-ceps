@@ -1,9 +1,11 @@
 {
   "cep": "78284970",
   "logradouro": "Avenida Julio Campos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sonho Azul",
   "localidade": "Mirassol D'Oeste",
   "uf": "MT",
-  "ibge": "5105622"
+  "ibge": "5105622",
+  "latitude": "-15.8560045",
+  "longitude": "-58.467221"
 }

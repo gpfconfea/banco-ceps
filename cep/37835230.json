@@ -5,5 +5,7 @@
   "bairro": "Residencial Fazenda Planalto",
   "localidade": "Guaxupé",
   "uf": "MG",
-  "ibge": "3128709"
+  "ibge": "3128709",
+  "latitude": "-21.3230025",
+  "longitude": "-46.7484865"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jeriquara",
   "uf": "SP",
-  "ibge": "3525409"
+  "ibge": "3525409",
+  "latitude": "-20.3088379",
+  "longitude": "-47.5897145"
 }

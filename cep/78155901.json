@@ -1,9 +1,11 @@
 {
   "cep": "78155901",
   "logradouro": "Rua Espanha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Marajoara",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6440609",
+  "longitude": "-56.1670789"
 }

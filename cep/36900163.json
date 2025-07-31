@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Manhuaçu",
   "uf": "MG",
-  "ibge": "3139409"
+  "ibge": "3139409",
+  "latitude": "-20.26085",
+  "longitude": "-42.03851"
 }

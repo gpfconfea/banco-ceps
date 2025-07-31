@@ -1,9 +1,11 @@
 {
   "cep": "98495970",
   "logradouro": "Rua Linha Volta Grande",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Volta Grande",
   "localidade": "Alpestre",
   "uf": "RS",
-  "ibge": "4300505"
+  "ibge": "4300505",
+  "latitude": "-29.8951681",
+  "longitude": "-51.3051815"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Amaporã",
   "uf": "PR",
-  "ibge": "4100905"
+  "ibge": "4100905",
+  "latitude": "-23.093581",
+  "longitude": "-52.7880929"
 }

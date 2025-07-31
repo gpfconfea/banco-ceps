@@ -5,5 +5,7 @@
   "bairro": "Jardim Ikeda",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-22.3836232",
+  "longitude": "-47.3891077"
 }

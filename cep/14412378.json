@@ -5,5 +5,7 @@
   "bairro": "Residencial São Jerônimo",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5487866",
+  "longitude": "-47.3555882"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial I",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "latitude": "-23.39079",
+  "longitude": "-51.42624"
 }

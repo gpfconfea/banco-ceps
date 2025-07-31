@@ -1,9 +1,11 @@
 {
   "cep": "46775970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Novo Acre",
   "localidade": "Iramaia",
   "uf": "BA",
-  "ibge": "2914307"
+  "ibge": "2914307",
+  "latitude": "-13.523",
+  "longitude": "-40.94605"
 }

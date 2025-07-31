@@ -5,5 +5,7 @@
   "bairro": "Germano",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "latitude": "-23.4685404",
+  "longitude": "-46.9050582"
 }

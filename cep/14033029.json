@@ -5,5 +5,7 @@
   "bairro": "Condomínio Garden Ville",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-20.7251877",
+  "longitude": "-48.544938"
 }

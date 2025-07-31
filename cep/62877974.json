@@ -1,9 +1,11 @@
 {
   "cep": "62877974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Triângulo",
   "localidade": "Chorozinho",
   "uf": "CE",
-  "ibge": "2303956"
+  "ibge": "2303956",
+  "latitude": "-4.24187",
+  "longitude": "-38.56662"
 }

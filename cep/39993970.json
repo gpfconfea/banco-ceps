@@ -1,9 +1,11 @@
 {
   "cep": "39993970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itamarati",
   "localidade": "Águas Vermelhas",
   "uf": "MG",
-  "ibge": "3101003"
+  "ibge": "3101003",
+  "latitude": "-19.5480333",
+  "longitude": "-42.1151174"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55340971",
   "logradouro": "Rua Povoado de Garcia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado de Garcia",
   "localidade": "Águas Belas",
   "uf": "PE",
-  "ibge": "2600500"
+  "ibge": "2600500",
+  "latitude": "-9.113585",
+  "longitude": "-37.119659"
 }

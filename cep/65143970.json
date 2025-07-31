@@ -1,9 +1,11 @@
 {
   "cep": "65143970",
   "logradouro": "Avenida José da Silva Calvet",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bacabeira",
   "uf": "MA",
-  "ibge": "2101251"
+  "ibge": "2101251",
+  "latitude": "-2.9802592",
+  "longitude": "-44.31409"
 }

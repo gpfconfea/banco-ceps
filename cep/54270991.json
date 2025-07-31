@@ -1,9 +1,11 @@
 {
   "cep": "54270991",
   "logradouro": "Rua Dois - Curado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Jaboatão dos Guararapes",
   "uf": "PE",
-  "ibge": "2607901"
+  "ibge": "2607901",
+  "latitude": "-8.0708566",
+  "longitude": "-34.9943818"
 }

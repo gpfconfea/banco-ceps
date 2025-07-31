@@ -1,9 +1,11 @@
 {
   "cep": "89478971",
   "logradouro": "Rua Estanislau Schumann",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bela Vista do Toldo",
   "uf": "SC",
-  "ibge": "4202131"
+  "ibge": "4202131",
+  "latitude": "-26.2798506",
+  "longitude": "-50.462488"
 }

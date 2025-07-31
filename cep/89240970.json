@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Francisco do Sul",
   "uf": "SC",
-  "ibge": "4216206"
+  "ibge": "4216206",
+  "latitude": "-26.243257",
+  "longitude": "-48.6389051"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "46225970",
   "logradouro": "Avenida Norberto Fernandes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibitira",
   "localidade": "Rio do Antônio",
   "uf": "BA",
-  "ibge": "2926806"
+  "ibge": "2926806",
+  "latitude": "-14.2059776",
+  "longitude": "-42.1120365"
 }

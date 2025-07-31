@@ -1,9 +1,11 @@
 {
   "cep": "57690992",
   "logradouro": "Rua Manoel Francisco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Atalaia",
   "uf": "AL",
-  "ibge": "2700409"
+  "ibge": "2700409",
+  "latitude": "-9.3729425",
+  "longitude": "-36.2423601"
 }

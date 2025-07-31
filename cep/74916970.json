@@ -1,9 +1,11 @@
 {
   "cep": "74916970",
   "logradouro": "Avenida São João Quadra 8 Lote 07",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Nova Era",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7554826",
+  "longitude": "-49.2787872"
 }

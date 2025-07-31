@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Januária",
   "uf": "MG",
-  "ibge": "3135209"
+  "ibge": "3135209",
+  "latitude": "-15.4875",
+  "longitude": "-44.361111"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Orocó",
   "uf": "PE",
-  "ibge": "2609808"
+  "ibge": "2609808",
+  "latitude": "-9.39697",
+  "longitude": "-40.49359"
 }

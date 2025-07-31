@@ -1,9 +1,11 @@
 {
   "cep": "87280990",
   "logradouro": "Avenida Carangola",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Iretama",
   "uf": "PR",
-  "ibge": "4110805"
+  "ibge": "4110805",
+  "latitude": "-24.42264",
+  "longitude": "-52.1006"
 }

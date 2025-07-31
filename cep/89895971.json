@@ -1,9 +1,11 @@
 {
   "cep": "89895971",
   "logradouro": "Rua Teutônia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Riqueza",
   "uf": "SC",
-  "ibge": "4215075"
+  "ibge": "4215075",
+  "latitude": "-27.0712732",
+  "longitude": "-53.3246861"
 }

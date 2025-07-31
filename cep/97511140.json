@@ -5,5 +5,7 @@
   "bairro": "Cidade Alegria",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "latitude": "-29.7699789",
+  "longitude": "-57.0649823"
 }

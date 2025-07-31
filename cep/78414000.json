@@ -5,5 +5,7 @@
   "bairro": "Lavouras",
   "localidade": "Alto Paraguai",
   "uf": "MT",
-  "ibge": "5100508"
+  "ibge": "5100508",
+  "latitude": "-14.890886",
+  "longitude": "-56.720462"
 }

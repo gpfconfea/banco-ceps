@@ -5,5 +5,7 @@
   "bairro": "Vila Sul Americana",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "latitude": "-23.5251458",
+  "longitude": "-46.854585"
 }

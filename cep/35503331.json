@@ -5,5 +5,7 @@
   "bairro": "Bairro da Luz",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-19.5779627",
+  "longitude": "-46.9296126"
 }

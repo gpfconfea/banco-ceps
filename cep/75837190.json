@@ -5,5 +5,7 @@
   "bairro": "DAIM - Distrito Agro Industrial de Mineiros",
   "localidade": "Mineiros",
   "uf": "GO",
-  "ibge": "5213103"
+  "ibge": "5213103",
+  "latitude": "-17.56038",
+  "longitude": "-52.54768"
 }

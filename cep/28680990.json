@@ -1,9 +1,11 @@
 {
   "cep": "28680990",
   "logradouro": "Rua Virtulino José Moraes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cachoeiras de Macacu",
   "uf": "RJ",
-  "ibge": "3300803"
+  "ibge": "3300803",
+  "latitude": "-22.43475",
+  "longitude": "-42.64222"
 }

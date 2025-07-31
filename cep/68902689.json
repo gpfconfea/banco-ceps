@@ -5,5 +5,7 @@
   "bairro": "Muca",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "-16.8406323",
+  "longitude": "-49.2415795"
 }

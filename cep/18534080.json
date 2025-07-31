@@ -6,5 +6,7 @@
   "bairro": "Povo Feliz",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.1049071",
+  "longitude": "-47.7249642"
 }

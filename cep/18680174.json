@@ -5,5 +5,7 @@
   "bairro": "Vila Contente",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-23.0149061",
+  "longitude": "-45.5803017"
 }

@@ -5,5 +5,7 @@
   "bairro": "Operária Nova",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.679098",
+  "longitude": "-49.3875259"
 }

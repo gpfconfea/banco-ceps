@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Itália",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "-23.656546",
+  "longitude": "-52.6289657"
 }

@@ -5,5 +5,7 @@
   "bairro": "Hípica",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.1540819",
+  "longitude": "-51.1708222"
 }

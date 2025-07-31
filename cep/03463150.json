@@ -5,5 +5,7 @@
   "bairro": "Jardim Piqueroby",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5714443",
+  "longitude": "-46.5293688"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "38290972",
   "logradouro": "Rua Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Fátima do Pontal",
   "localidade": "Carneirinho",
   "uf": "MG",
-  "ibge": "3114550"
+  "ibge": "3114550",
+  "latitude": "-19.9271092",
+  "longitude": "-50.9020217"
 }

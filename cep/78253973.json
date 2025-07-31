@@ -1,9 +1,11 @@
 {
   "cep": "78253973",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Vale de São Domingos",
   "uf": "MT",
-  "ibge": "5108352"
+  "ibge": "5108352",
+  "latitude": "-15.2968477",
+  "longitude": "-59.0659925"
 }

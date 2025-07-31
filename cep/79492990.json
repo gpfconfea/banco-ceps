@@ -1,9 +1,11 @@
 {
   "cep": "79492990",
   "logradouro": "Rua Henriqueta de Jesus",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Areado",
   "localidade": "São Gabriel do Oeste",
   "uf": "MS",
-  "ibge": "5007695"
+  "ibge": "5007695",
+  "latitude": "-19.2518732",
+  "longitude": "-54.3284913"
 }

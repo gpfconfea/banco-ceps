@@ -1,9 +1,11 @@
 {
   "cep": "63608974",
   "logradouro": "Rua Isabel Henrique",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibicuã",
   "localidade": "Piquet Carneiro",
   "uf": "CE",
-  "ibge": "2310902"
+  "ibge": "2310902",
+  "latitude": "-3.7707427",
+  "longitude": "-38.5914919"
 }

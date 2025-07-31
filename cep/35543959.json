@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Francisco de Paula",
   "uf": "MG",
-  "ibge": "3161205"
+  "ibge": "3161205",
+  "latitude": "-20.7088279",
+  "longitude": "-44.9844306"
 }

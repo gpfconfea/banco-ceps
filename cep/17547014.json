@@ -5,5 +5,7 @@
   "bairro": "Nova Colômbia",
   "localidade": "Ocauçu",
   "uf": "SP",
-  "ibge": "3533700"
+  "ibge": "3533700",
+  "latitude": "-22.4039062",
+  "longitude": "-49.8945304"
 }

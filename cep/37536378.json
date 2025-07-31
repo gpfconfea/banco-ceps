@@ -6,5 +6,7 @@
   "bairro": "Arco Íris",
   "localidade": "Santa Rita do Sapucaí",
   "uf": "MG",
-  "ibge": "3159605"
+  "ibge": "3159605",
+  "latitude": "-22.23433",
+  "longitude": "-45.70328"
 }

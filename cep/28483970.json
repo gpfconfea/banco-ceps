@@ -1,9 +1,11 @@
 {
   "cep": "28483970",
   "logradouro": "Rua Rosalina B. Moreno",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paraoquena",
   "localidade": "Santo Antônio de Pádua",
   "uf": "RJ",
-  "ibge": "3304706"
+  "ibge": "3304706",
+  "latitude": "-21.4896206",
+  "longitude": "-42.232333"
 }

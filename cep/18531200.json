@@ -6,5 +6,7 @@
   "bairro": "Jardim da Serra",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.0999727",
+  "longitude": "-47.701278"
 }

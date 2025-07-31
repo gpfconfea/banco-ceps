@@ -5,5 +5,7 @@
   "bairro": "Vale Verde",
   "localidade": "Porto Seguro",
   "uf": "BA",
-  "ibge": "2925303"
+  "ibge": "2925303",
+  "latitude": "-16.4263757",
+  "longitude": "-39.216862"
 }

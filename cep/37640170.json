@@ -5,5 +5,7 @@
   "bairro": "Cantinho do Céu",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-20.4604",
+  "longitude": "-45.42269"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Tereza",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-23.4993584",
+  "longitude": "-46.7309063"
 }

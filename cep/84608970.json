@@ -1,9 +1,11 @@
 {
   "cep": "84608970",
   "logradouro": "Avenida Sebastião Muller",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Domingos",
   "localidade": "União da Vitória",
   "uf": "PR",
-  "ibge": "4128203"
+  "ibge": "4128203",
+  "latitude": "-26.1441093",
+  "longitude": "-51.1153411"
 }

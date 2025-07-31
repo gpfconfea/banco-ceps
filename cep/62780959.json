@@ -1,9 +1,11 @@
 {
   "cep": "62780959",
   "logradouro": "Rua Joaquim de Almeida Sampaio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Palmácia",
   "uf": "CE",
-  "ibge": "2310100"
+  "ibge": "2310100",
+  "latitude": "-4.83305",
+  "longitude": "-40.31779"
 }
