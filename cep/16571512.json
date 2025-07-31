@@ -5,5 +5,7 @@
   "bairro": "Sol Nascente",
   "localidade": "Guarantã",
   "uf": "SP",
-  "ibge": "3518107"
+  "ibge": "3518107",
+  "latitude": "-21.89586",
+  "longitude": "-49.58553"
 }

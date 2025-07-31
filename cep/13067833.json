@@ -5,5 +5,7 @@
   "bairro": "Chácaras Anhanguera",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.865878",
+  "longitude": "-47.1415658"
 }

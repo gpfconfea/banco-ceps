@@ -5,5 +5,7 @@
   "bairro": "Vila Butantã",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.3841171",
+  "longitude": "-47.3361982"
 }

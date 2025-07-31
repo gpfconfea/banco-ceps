@@ -5,5 +5,7 @@
   "bairro": "Nova Caxias",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-4.87371",
+  "longitude": "-43.33998"
 }

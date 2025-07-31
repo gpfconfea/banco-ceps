@@ -5,5 +5,7 @@
   "bairro": "Parque Progresso",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4490753",
+  "longitude": "-46.7995844"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78180959",
   "logradouro": "Rodovia Coronel Palmiro de Barros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Fronteira",
   "localidade": "Santo Antônio do Leverger",
   "uf": "MT",
-  "ibge": "5107800"
+  "ibge": "5107800",
+  "latitude": "-15.86441",
+  "longitude": "-56.07249"
 }

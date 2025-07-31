@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Orindiúva",
   "uf": "SP",
-  "ibge": "3534203"
+  "ibge": "3534203",
+  "latitude": "-20.18424",
+  "longitude": "-49.35301"
 }

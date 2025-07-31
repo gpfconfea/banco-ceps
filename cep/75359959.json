@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Varjão",
   "uf": "GO",
-  "ibge": "5221908"
+  "ibge": "5221908",
+  "latitude": "-17.047",
+  "longitude": "-49.63325"
 }

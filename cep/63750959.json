@@ -1,9 +1,11 @@
 {
   "cep": "63750959",
   "logradouro": "Rua Coronel Salustiano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tamboril",
   "uf": "CE",
-  "ibge": "2313203"
+  "ibge": "2313203",
+  "latitude": "-4.8379531",
+  "longitude": "-40.3324621"
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácaras Trevo",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-20.3959375",
+  "longitude": "-51.324877"
 }

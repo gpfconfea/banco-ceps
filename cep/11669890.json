@@ -5,5 +5,7 @@
   "bairro": "Rio Claro",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.69305",
+  "longitude": "-45.45715"
 }

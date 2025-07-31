@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Rosa da Serra",
   "uf": "MG",
-  "ibge": "3159704"
+  "ibge": "3159704",
+  "latitude": "-19.5288524",
+  "longitude": "-45.9672914"
 }

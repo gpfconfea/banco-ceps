@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.1677238",
+  "longitude": "-51.5168557"
 }

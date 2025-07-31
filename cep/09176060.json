@@ -5,5 +5,7 @@
   "bairro": "Vila Marina",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6788134",
+  "longitude": "-46.5197204"
 }

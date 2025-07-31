@@ -5,5 +5,7 @@
   "bairro": "Vila Pedreiro",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.1999925",
+  "longitude": "-49.3846751"
 }

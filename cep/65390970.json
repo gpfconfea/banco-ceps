@@ -1,9 +1,11 @@
 {
   "cep": "65390970",
   "logradouro": "Avenida Newton Belo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Luzia",
   "uf": "MA",
-  "ibge": "2110005"
+  "ibge": "2110005",
+  "latitude": "-3.9688996",
+  "longitude": "-45.6635547"
 }

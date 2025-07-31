@@ -1,9 +1,11 @@
 {
   "cep": "99154970",
   "logradouro": "Estrada Geral de São Miguel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Miguel",
   "localidade": "Marau",
   "uf": "RS",
-  "ibge": "4311809"
+  "ibge": "4311809",
+  "latitude": "-28.44129",
+  "longitude": "-52.31491"
 }

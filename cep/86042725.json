@@ -5,5 +5,7 @@
   "bairro": "Residencial Café Cereja",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3714511",
+  "longitude": "-51.1452567"
 }

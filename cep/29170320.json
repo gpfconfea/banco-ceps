@@ -6,5 +6,7 @@
   "bairro": "Porto Dourado",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.142941",
+  "longitude": "-40.2390469"
 }

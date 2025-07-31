@@ -1,9 +1,11 @@
 {
   "cep": "29609980",
   "logradouro": "Avenida Francisco Tosta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Fazenda Guandu",
   "localidade": "Afonso Cláudio",
   "uf": "ES",
-  "ibge": "3200102"
+  "ibge": "3200102",
+  "latitude": "-20.2136061",
+  "longitude": "-41.1036884"
 }

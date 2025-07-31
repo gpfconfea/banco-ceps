@@ -1,9 +1,11 @@
 {
   "cep": "47680959",
   "logradouro": "Rua Coronel Fernandes Lopes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cocos",
   "uf": "BA",
-  "ibge": "2908101"
+  "ibge": "2908101",
+  "latitude": "-12.89791",
+  "longitude": "-38.33113"
 }

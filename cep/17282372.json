@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Alegro",
   "localidade": "Pederneiras",
   "uf": "SP",
-  "ibge": "3536703"
+  "ibge": "3536703",
+  "latitude": "-23.67066",
+  "longitude": "-46.74278"
 }

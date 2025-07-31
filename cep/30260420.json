@@ -5,5 +5,7 @@
   "bairro": "São Lucas",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9305234",
+  "longitude": "-43.910305"
 }

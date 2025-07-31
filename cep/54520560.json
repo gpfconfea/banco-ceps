@@ -5,5 +5,7 @@
   "bairro": "COHAB",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "latitude": "-8.2978967",
+  "longitude": "-35.0282584"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62564972",
   "logradouro": "Avenida Nova",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mocambo",
   "localidade": "Marco",
   "uf": "CE",
-  "ibge": "2307809"
+  "ibge": "2307809",
+  "latitude": "-3.2228851",
+  "longitude": "-40.3223758"
 }

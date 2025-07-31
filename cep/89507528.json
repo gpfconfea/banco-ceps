@@ -5,5 +5,7 @@
   "bairro": "Gioppo",
   "localidade": "Caçador",
   "uf": "SC",
-  "ibge": "4203006"
+  "ibge": "4203006",
+  "latitude": "-26.7744138",
+  "longitude": "-51.0002686"
 }

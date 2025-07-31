@@ -5,5 +5,7 @@
   "bairro": "Nova Bethânia",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "latitude": "41.7251572",
+  "longitude": "-8.6733464"
 }

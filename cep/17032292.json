@@ -5,5 +5,7 @@
   "bairro": "Jardim Redentor",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3155274",
+  "longitude": "-49.0327937"
 }

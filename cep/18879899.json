@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Fartura",
   "localidade": "Fartura",
   "uf": "SP",
-  "ibge": "3515400"
+  "ibge": "3515400",
+  "latitude": "-23.39193",
+  "longitude": "-49.51352"
 }

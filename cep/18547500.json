@@ -5,5 +5,7 @@
   "bairro": "Terras de San Thomé",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.2717846",
+  "longitude": "-47.497649"
 }

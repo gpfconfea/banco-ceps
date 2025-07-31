@@ -5,5 +5,7 @@
   "bairro": "Morada da Serra",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7574826",
+  "longitude": "-43.8887891"
 }

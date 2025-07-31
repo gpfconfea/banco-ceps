@@ -1,9 +1,11 @@
 {
   "cep": "78445970",
   "logradouro": "Rua Amós Bernardino Zanchet Quadra 1",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Nova Maringá",
   "uf": "MT",
-  "ibge": "5108907"
+  "ibge": "5108907",
+  "latitude": "-12.9965862",
+  "longitude": "-57.0916303"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sapé",
   "uf": "PB",
-  "ibge": "2515302"
+  "ibge": "2515302",
+  "latitude": "-7.0933533",
+  "longitude": "-35.2327802"
 }

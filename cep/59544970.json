@@ -1,9 +1,11 @@
 {
   "cep": "59544970",
   "logradouro": "Praça Alzira Soriano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jardim de Angicos",
   "uf": "RN",
-  "ibge": "2405504"
+  "ibge": "2405504",
+  "latitude": "-5.6527254",
+  "longitude": "-35.969844"
 }

@@ -5,5 +5,7 @@
   "bairro": "Zona 07",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4173993",
+  "longitude": "-51.9433036"
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio Belvedere",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5970354",
+  "longitude": "-56.0217385"
 }

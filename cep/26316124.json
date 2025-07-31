@@ -5,5 +5,7 @@
   "bairro": "Vila Central",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.6927795",
+  "longitude": "-43.6012225"
 }

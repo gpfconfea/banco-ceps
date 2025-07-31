@@ -5,5 +5,7 @@
   "bairro": "Infraero",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0500081",
+  "longitude": "-51.0671095"
 }

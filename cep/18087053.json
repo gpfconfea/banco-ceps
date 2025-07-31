@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Colinas do Sol",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4711154",
+  "longitude": "-47.4129038"
 }

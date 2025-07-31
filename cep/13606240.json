@@ -5,5 +5,7 @@
   "bairro": "Jardim Costa Verde",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "latitude": "-12.5226125",
+  "longitude": "-55.723643"
 }

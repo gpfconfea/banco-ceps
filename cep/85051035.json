@@ -5,5 +5,7 @@
   "bairro": "Cidade dos Lagos",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.38848",
+  "longitude": "-51.48155"
 }

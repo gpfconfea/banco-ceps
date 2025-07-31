@@ -6,5 +6,7 @@
   "bairro": "Barra Funda",
   "localidade": "Bernardino de Campos",
   "uf": "SP",
-  "ibge": "3506300"
+  "ibge": "3506300",
+  "latitude": "-23.00683",
+  "longitude": "-49.47777"
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Cidade Administrativa",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1643605",
+  "longitude": "-46.9066192"
 }

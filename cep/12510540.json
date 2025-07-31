@@ -5,5 +5,7 @@
   "bairro": "Jardim França II",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-23.2752849",
+  "longitude": "-46.729979"
 }

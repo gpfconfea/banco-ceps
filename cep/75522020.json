@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "latitude": "-17.5073185",
+  "longitude": "-49.4583112"
 }

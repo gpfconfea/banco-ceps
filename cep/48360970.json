@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Acajutiba",
   "uf": "BA",
-  "ibge": "2900306"
+  "ibge": "2900306",
+  "latitude": "-16.45309",
+  "longitude": "-39.0636"
 }

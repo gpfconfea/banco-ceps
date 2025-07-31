@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "João Neiva",
   "uf": "ES",
-  "ibge": "3203130"
+  "ibge": "3203130",
+  "latitude": "-19.7544276",
+  "longitude": "-40.3866382"
 }

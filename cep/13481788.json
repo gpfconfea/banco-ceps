@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Clara",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-20.52522",
+  "longitude": "-47.4455"
 }

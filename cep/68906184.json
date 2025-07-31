@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0260533",
+  "longitude": "-51.148165"
 }

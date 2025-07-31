@@ -6,5 +6,7 @@
   "bairro": "13 de Maio",
   "localidade": "Três Barras do Paraná",
   "uf": "PR",
-  "ibge": "4127858"
+  "ibge": "4127858",
+  "latitude": "-25.4238858",
+  "longitude": "-53.1803509"
 }

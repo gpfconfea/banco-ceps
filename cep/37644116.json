@@ -5,5 +5,7 @@
   "bairro": "Residencial Campos Olivotti",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.84779",
+  "longitude": "-46.33986"
 }

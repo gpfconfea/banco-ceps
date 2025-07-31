@@ -5,5 +5,7 @@
   "bairro": "Paiol Velho",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "latitude": "-23.4607343",
+  "longitude": "-46.8223232"
 }

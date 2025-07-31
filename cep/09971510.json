@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "Diadema",
   "uf": "SP",
-  "ibge": "3513801"
+  "ibge": "3513801",
+  "latitude": "-23.72557",
+  "longitude": "-46.6288459"
 }

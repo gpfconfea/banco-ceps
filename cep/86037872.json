@@ -5,5 +5,7 @@
   "bairro": "Gleba Simon Frazer",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3276704",
+  "longitude": "-51.1026209"
 }

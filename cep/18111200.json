@@ -5,5 +5,7 @@
   "bairro": "Vila Vasques",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.536673",
+  "longitude": "-47.438775"
 }

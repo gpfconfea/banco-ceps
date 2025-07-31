@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João do Jaguaribe",
   "uf": "CE",
-  "ibge": "2312502"
+  "ibge": "2312502",
+  "latitude": "-5.2677945",
+  "longitude": "-38.2654782"
 }

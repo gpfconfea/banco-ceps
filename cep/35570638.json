@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-21.78782",
+  "longitude": "-43.34528"
 }

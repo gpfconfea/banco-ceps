@@ -5,5 +5,7 @@
   "bairro": "Sapopema",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "latitude": "-25.2810294",
+  "longitude": "-49.2342441"
 }

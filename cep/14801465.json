@@ -5,5 +5,7 @@
   "bairro": "Jardim Morumbi",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-22.047849",
+  "longitude": "-47.8850279"
 }

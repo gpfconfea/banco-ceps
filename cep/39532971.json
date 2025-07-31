@@ -1,9 +1,11 @@
 {
   "cep": "39532971",
   "logradouro": "Rua Dario Silveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serra Nova",
   "localidade": "Rio Pardo de Minas",
   "uf": "MG",
-  "ibge": "3155603"
+  "ibge": "3155603",
+  "latitude": "-15.6396519",
+  "longitude": "-42.7288287"
 }

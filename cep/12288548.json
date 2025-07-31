@@ -5,5 +5,7 @@
   "bairro": "Vila Quirino",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-20.3485099",
+  "longitude": "-47.7750644"
 }

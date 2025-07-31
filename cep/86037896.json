@@ -5,5 +5,7 @@
   "bairro": "Gleba Ribeirão Limeiro",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3180039",
+  "longitude": "-51.1040154"
 }

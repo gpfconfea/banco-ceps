@@ -5,5 +5,7 @@
   "bairro": "Praia de Carapebus",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.2346144",
+  "longitude": "-40.2187142"
 }

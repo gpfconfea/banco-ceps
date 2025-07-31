@@ -1,9 +1,11 @@
 {
   "cep": "55700974",
   "logradouro": "Rua do Comercio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado de Gameleira",
   "localidade": "Limoeiro",
   "uf": "PE",
-  "ibge": "2608909"
+  "ibge": "2608909",
+  "latitude": "-5.7236187",
+  "longitude": "-38.1562586"
 }

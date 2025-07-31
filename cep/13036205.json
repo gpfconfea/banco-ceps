@@ -5,5 +5,7 @@
   "bairro": "Parque Itália",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.3741695",
+  "longitude": "-46.9357947"
 }

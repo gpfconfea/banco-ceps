@@ -5,5 +5,7 @@
   "bairro": "Coroado",
   "localidade": "Carangola",
   "uf": "MG",
-  "ibge": "3113305"
+  "ibge": "3113305",
+  "latitude": "-20.73535",
+  "longitude": "-42.01725"
 }

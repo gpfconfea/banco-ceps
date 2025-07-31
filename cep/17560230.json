@@ -5,5 +5,7 @@
   "bairro": "Tancredo Neves",
   "localidade": "Vera Cruz",
   "uf": "SP",
-  "ibge": "3556602"
+  "ibge": "3556602",
+  "latitude": "-22.22603",
+  "longitude": "-49.82226"
 }

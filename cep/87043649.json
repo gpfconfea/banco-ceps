@@ -5,5 +5,7 @@
   "bairro": "Jardim Pinheiros III",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4114418",
+  "longitude": "-51.8974638"
 }

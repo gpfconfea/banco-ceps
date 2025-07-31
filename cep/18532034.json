@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Joaquim Rodrigues Alves II",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.0868795",
+  "longitude": "-47.6959413"
 }

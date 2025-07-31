@@ -5,5 +5,7 @@
   "bairro": "Planalto de Carapina",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.2083298",
+  "longitude": "-40.2708163"
 }

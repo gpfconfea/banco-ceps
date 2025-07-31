@@ -5,5 +5,7 @@
   "bairro": "Presidente Roosevelt",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.889686",
+  "longitude": "-48.2842603"
 }

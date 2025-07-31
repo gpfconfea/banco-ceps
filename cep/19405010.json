@@ -6,5 +6,7 @@
   "bairro": "Vila Ribeiro",
   "localidade": "Presidente Venceslau",
   "uf": "SP",
-  "ibge": "3541505"
+  "ibge": "3541505",
+  "latitude": "-21.86775",
+  "longitude": "-51.8391"
 }

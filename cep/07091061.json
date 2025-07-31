@@ -5,5 +5,7 @@
   "bairro": "Vila Tijuco",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4649569",
+  "longitude": "-46.5371975"
 }

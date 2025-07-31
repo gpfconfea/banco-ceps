@@ -1,9 +1,11 @@
 {
   "cep": "47480970",
   "logradouro": "Rua Itajubaquara",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibitunane",
   "localidade": "Gentio do Ouro",
   "uf": "BA",
-  "ibge": "2911303"
+  "ibge": "2911303",
+  "latitude": "-11.3022218",
+  "longitude": "-42.6612118"
 }

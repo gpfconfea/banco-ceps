@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caparaó",
   "uf": "MG",
-  "ibge": "3112109"
+  "ibge": "3112109",
+  "latitude": "-20.52374",
+  "longitude": "-41.90673"
 }

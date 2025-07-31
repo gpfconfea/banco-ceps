@@ -5,5 +5,7 @@
   "bairro": "Jardim Ponte Grande",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.5123542",
+  "longitude": "-46.2086049"
 }

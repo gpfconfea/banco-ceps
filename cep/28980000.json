@@ -5,5 +5,7 @@
   "bairro": "São Vicente de Paula",
   "localidade": "Araruama",
   "uf": "RJ",
-  "ibge": "3300209"
+  "ibge": "3300209",
+  "latitude": "-22.7244",
+  "longitude": "-42.2597"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Almeirim",
   "uf": "PA",
-  "ibge": "1500503"
+  "ibge": "1500503",
+  "latitude": "-1.52783",
+  "longitude": "-52.57873"
 }

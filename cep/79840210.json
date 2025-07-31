@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Catarina",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.0522946",
+  "longitude": "-54.0691717"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Ananindeua",
   "uf": "PA",
-  "ibge": "1500800"
+  "ibge": "1500800",
+  "latitude": "-22.7151932",
+  "longitude": "-43.5574323"
 }

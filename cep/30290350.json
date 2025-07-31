@@ -5,5 +5,7 @@
   "bairro": "Conjunto Taquaril",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9179943",
+  "longitude": "-43.8788606"
 }

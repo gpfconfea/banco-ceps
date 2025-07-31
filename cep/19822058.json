@@ -6,5 +6,7 @@
   "bairro": "Vila do Lago",
   "localidade": "Tarumã",
   "uf": "SP",
-  "ibge": "3553955"
+  "ibge": "3553955",
+  "latitude": "-22.7544069",
+  "longitude": "-50.5752772"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sulina",
   "uf": "PR",
-  "ibge": "4126652"
+  "ibge": "4126652",
+  "latitude": "-25.7018065",
+  "longitude": "-52.7209962"
 }

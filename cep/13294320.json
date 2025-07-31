@@ -6,5 +6,7 @@
   "bairro": "Jardim Serra Azul",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-23.0893161",
+  "longitude": "-46.979408"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "88190994",
   "logradouro": "Rua Gentil de Moura Carvalho - Praia do Antenor",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Governador Celso Ramos",
   "uf": "SC",
-  "ibge": "4206009"
+  "ibge": "4206009",
+  "latitude": "-27.42686",
+  "longitude": "-48.5746"
 }

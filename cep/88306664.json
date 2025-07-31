@@ -5,5 +5,7 @@
   "bairro": "Praia Brava de Itajaí",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "latitude": "-26.9475334",
+  "longitude": "-48.6316612"
 }

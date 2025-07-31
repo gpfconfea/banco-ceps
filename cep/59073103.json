@@ -5,5 +5,7 @@
   "bairro": "Planalto",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-5.8538379",
+  "longitude": "-35.2593147"
 }

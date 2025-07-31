@@ -5,5 +5,7 @@
   "bairro": "Triângulo",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.4147181",
+  "longitude": "-42.9223758"
 }

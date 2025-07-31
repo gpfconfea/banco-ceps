@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Bom",
   "uf": "PR",
-  "ibge": "4122107"
+  "ibge": "4122107",
+  "latitude": "-23.7618456",
+  "longitude": "-51.4127871"
 }

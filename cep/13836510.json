@@ -5,5 +5,7 @@
   "bairro": "Núcleo Visconde de Indaiatuba",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "latitude": "-22.3507864",
+  "longitude": "-47.1743219"
 }

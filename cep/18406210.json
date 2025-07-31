@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Itapeva",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-22.3026734",
+  "longitude": "-49.1058007"
 }

@@ -5,5 +5,7 @@
   "bairro": "Barbosas",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.3943594",
+  "longitude": "-46.317764"
 }

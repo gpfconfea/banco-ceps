@@ -5,5 +5,7 @@
   "bairro": "Barranco Alto",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5579669",
+  "longitude": "-46.6871535"
 }

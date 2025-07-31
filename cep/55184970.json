@@ -1,9 +1,11 @@
 {
   "cep": "55184970",
   "logradouro": "Rua Pedro Frazao",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Riacho do Meio",
   "localidade": "Jataúba",
   "uf": "PE",
-  "ibge": "2608008"
+  "ibge": "2608008",
+  "latitude": "-8.0306035",
+  "longitude": "-36.5695847"
 }

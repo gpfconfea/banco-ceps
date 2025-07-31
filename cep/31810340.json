@@ -5,5 +5,7 @@
   "bairro": "Primeiro de Maio",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8549181",
+  "longitude": "-43.9326355"
 }

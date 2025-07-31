@@ -1,9 +1,11 @@
 {
   "cep": "78394970",
   "logradouro": "Avenida Marechal Rondon",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Assari",
   "localidade": "Barra do Bugres",
   "uf": "MT",
-  "ibge": "5101704"
+  "ibge": "5101704",
+  "latitude": "-14.8824123",
+  "longitude": "-57.1749662"
 }

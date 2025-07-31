@@ -1,9 +1,11 @@
 {
   "cep": "65940970",
   "logradouro": "Rua Frei Benjamim de Borno",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Grajaú",
   "uf": "MA",
-  "ibge": "2104800"
+  "ibge": "2104800",
+  "latitude": "-5.817324",
+  "longitude": "-46.1404226"
 }

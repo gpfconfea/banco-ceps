@@ -5,5 +5,7 @@
   "bairro": "Tapera",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-28.7576739",
+  "longitude": "-49.1335395"
 }

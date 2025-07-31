@@ -5,5 +5,7 @@
   "bairro": "Vasco da Gama",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-23.546802",
+  "longitude": "-46.8904104"
 }

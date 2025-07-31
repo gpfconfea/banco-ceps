@@ -5,5 +5,7 @@
   "bairro": "Parque Iracema",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.799395",
+  "longitude": "-38.5052545"
 }

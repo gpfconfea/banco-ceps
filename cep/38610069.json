@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-16.3574896",
+  "longitude": "-46.9017185"
 }
