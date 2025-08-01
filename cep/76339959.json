@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Uruana",
   "uf": "GO",
-  "ibge": "5221700"
+  "ibge": "5221700",
+  "latitude": "-17.80061",
+  "longitude": "-50.93035"
 }

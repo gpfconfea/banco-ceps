@@ -5,5 +5,7 @@
   "bairro": "Pedregulho",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-23.1327752",
+  "longitude": "-46.559717"
 }

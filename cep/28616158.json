@@ -5,5 +5,7 @@
   "bairro": "São Pedro da Serra",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "latitude": "-22.3186471",
+  "longitude": "-42.330795"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "99529970",
   "logradouro": "Rua Álvaro Machado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Igrejinha",
   "localidade": "Igrejinha",
   "uf": "RS",
-  "ibge": "4310108"
+  "ibge": "4310108",
+  "latitude": "-28.0891356",
+  "longitude": "-52.7921753"
 }

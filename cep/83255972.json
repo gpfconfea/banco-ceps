@@ -5,5 +5,7 @@
   "bairro": "Ipanema",
   "localidade": "Pontal do Paraná",
   "uf": "PR",
-  "ibge": "4119954"
+  "ibge": "4119954",
+  "latitude": "-25.6334472",
+  "longitude": "-48.4297049"
 }

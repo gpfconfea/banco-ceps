@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arneiroz",
   "uf": "CE",
-  "ibge": "2301505"
+  "ibge": "2301505",
+  "latitude": "-4.55679",
+  "longitude": "-37.76429"
 }

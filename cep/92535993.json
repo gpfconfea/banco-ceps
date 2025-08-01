@@ -1,9 +1,11 @@
 {
   "cep": "92535993",
   "logradouro": "Estrada Campo do Meio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santos Reis",
   "localidade": "Montenegro",
   "uf": "RS",
-  "ibge": "4312401"
+  "ibge": "4312401",
+  "latitude": "-29.59551",
+  "longitude": "-51.50383"
 }

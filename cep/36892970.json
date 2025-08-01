@@ -1,9 +1,11 @@
 {
   "cep": "36892970",
   "logradouro": "Rua das Flores",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Família",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "latitude": "-21.208402",
+  "longitude": "-42.5109184"
 }

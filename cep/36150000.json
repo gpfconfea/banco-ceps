@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Novo",
   "uf": "MG",
-  "ibge": "3155405"
+  "ibge": "3155405",
+  "latitude": "-21.4753189",
+  "longitude": "-43.1250813"
 }

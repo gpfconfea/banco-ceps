@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itamari",
   "uf": "BA",
-  "ibge": "2915700"
+  "ibge": "2915700",
+  "latitude": "-13.77874",
+  "longitude": "-39.67898"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade do Povo",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-10.0245555",
+  "longitude": "-67.7614779"
 }

@@ -5,5 +5,7 @@
   "bairro": "Colinas de Cotia",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.629025",
+  "longitude": "-46.9097544"
 }

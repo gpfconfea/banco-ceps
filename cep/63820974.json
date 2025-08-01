@@ -1,9 +1,11 @@
 {
   "cep": "63820974",
   "logradouro": "Vila Lacerda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lacerda",
   "localidade": "Quixeramobim",
   "uf": "CE",
-  "ibge": "2311405"
+  "ibge": "2311405",
+  "latitude": "-5.4330568",
+  "longitude": "-39.3550366"
 }

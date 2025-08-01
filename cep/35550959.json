@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapecerica",
   "uf": "MG",
-  "ibge": "3133501"
+  "ibge": "3133501",
+  "latitude": "-20.4702603",
+  "longitude": "-45.1255181"
 }

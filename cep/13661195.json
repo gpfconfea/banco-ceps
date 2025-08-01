@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rosa 2",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.8675344",
+  "longitude": "-47.4696924"
 }

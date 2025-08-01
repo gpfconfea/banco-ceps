@@ -1,9 +1,11 @@
 {
   "cep": "29911970",
   "logradouro": "Avenida João Soprani",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Farias",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.2625362",
+  "longitude": "-40.0397469"
 }

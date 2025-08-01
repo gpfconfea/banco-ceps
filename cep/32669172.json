@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Paulo Camilo Sul",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.957117",
+  "longitude": "-44.1179932"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "79170973",
   "logradouro": "Rua Agrovila Capão Bonito II",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Sidrolândia",
   "uf": "MS",
-  "ibge": "5007901"
+  "ibge": "5007901",
+  "latitude": "-20.9306687",
+  "longitude": "-54.9697212"
 }

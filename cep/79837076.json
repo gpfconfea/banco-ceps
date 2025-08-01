@@ -6,5 +6,7 @@
   "bairro": "Jardim Ibirapuera",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.2573468",
+  "longitude": "-54.7740697"
 }

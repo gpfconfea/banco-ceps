@@ -1,9 +1,11 @@
 {
   "cep": "50050911",
   "logradouro": "Praça Oswaldo Cruz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Vista",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0553017",
+  "longitude": "-34.8915272"
 }

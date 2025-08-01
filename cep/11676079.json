@@ -5,5 +5,7 @@
   "bairro": "Balneário Califórnia",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5994641",
+  "longitude": "-45.3518756"
 }

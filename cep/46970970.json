@@ -1,9 +1,11 @@
 {
   "cep": "46970970",
   "logradouro": "Praça Esmeraldo Sena",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Wagner",
   "uf": "BA",
-  "ibge": "2933406"
+  "ibge": "2933406",
+  "latitude": "-9.41365",
+  "longitude": "-40.49841"
 }

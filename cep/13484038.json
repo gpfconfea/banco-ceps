@@ -5,5 +5,7 @@
   "bairro": "Vila Primavera",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.556055",
+  "longitude": "-47.4063268"
 }

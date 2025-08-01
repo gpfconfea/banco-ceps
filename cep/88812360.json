@@ -5,5 +5,7 @@
   "bairro": "Quarta Linha",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6832719",
+  "longitude": "-49.3810852"
 }

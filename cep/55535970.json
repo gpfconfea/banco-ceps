@@ -1,9 +1,11 @@
 {
   "cep": "55535970",
   "logradouro": "Praça Dom Luiz de Brito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Joaquim Nabuco",
   "uf": "PE",
-  "ibge": "2608206"
+  "ibge": "2608206",
+  "latitude": "-8.6232299",
+  "longitude": "-35.5291347"
 }

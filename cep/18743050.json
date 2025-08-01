@@ -6,5 +6,7 @@
   "bairro": "Vila Mendes",
   "localidade": "Taquarituba",
   "uf": "SP",
-  "ibge": "3553807"
+  "ibge": "3553807",
+  "latitude": "-23.5237515",
+  "longitude": "-49.242396"
 }

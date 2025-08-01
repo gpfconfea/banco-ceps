@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Miriam",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.55013",
+  "longitude": "-51.42801"
 }

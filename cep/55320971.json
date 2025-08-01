@@ -1,9 +1,11 @@
 {
   "cep": "55320971",
   "logradouro": "Praça do Comercio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Campo Alegre",
   "localidade": "Lagoa do Ouro",
   "uf": "PE",
-  "ibge": "2608602"
+  "ibge": "2608602",
+  "latitude": "-9.1569634",
+  "longitude": "-36.4324714"
 }

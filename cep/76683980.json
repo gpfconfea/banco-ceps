@@ -1,9 +1,11 @@
 {
   "cep": "76683980",
   "logradouro": "Rua Uruana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Itapuranga",
   "uf": "GO",
-  "ibge": "5211206"
+  "ibge": "5211206",
+  "latitude": "-15.3906108",
+  "longitude": "-49.9290924"
 }

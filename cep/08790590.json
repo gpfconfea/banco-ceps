@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Helena",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.5233113",
+  "longitude": "-46.1645467"
 }

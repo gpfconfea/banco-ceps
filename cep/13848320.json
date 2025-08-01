@@ -5,5 +5,7 @@
   "bairro": "Jardim Leonor Franco",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "latitude": "-22.333",
+  "longitude": "-46.94538"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "latitude": "-22.3381029",
+  "longitude": "-46.935441"
 }

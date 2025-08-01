@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Xique-Xique",
   "uf": "BA",
-  "ibge": "2933604"
+  "ibge": "2933604",
+  "latitude": "-10.823",
+  "longitude": "-42.72306"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "96853970",
   "logradouro": "Estrada Alto Paredão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto Paredão",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "latitude": "-29.3846675",
+  "longitude": "-52.4021509"
 }

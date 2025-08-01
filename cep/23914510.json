@@ -5,5 +5,7 @@
   "bairro": "Verolme",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "latitude": "-22.9943637",
+  "longitude": "-44.2385225"
 }

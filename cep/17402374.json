@@ -5,5 +5,7 @@
   "bairro": "Jardim Paineiras",
   "localidade": "Garça",
   "uf": "SP",
-  "ibge": "3516705"
+  "ibge": "3516705",
+  "latitude": "-23.64603",
+  "longitude": "-46.54028"
 }

@@ -5,5 +5,7 @@
   "bairro": "Mangueira",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9231",
+  "longitude": "-38.49913"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim João Rossi",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-23.7418003",
+  "longitude": "-46.5509188"
 }

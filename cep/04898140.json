@@ -5,5 +5,7 @@
   "bairro": "Jardim das Oliveiras (Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.8187677",
+  "longitude": "-46.7460938"
 }

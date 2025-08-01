@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.4642565",
+  "longitude": "-45.4379223"
 }

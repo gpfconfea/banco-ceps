@@ -5,5 +5,7 @@
   "bairro": "Lourdes",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.7606691",
+  "longitude": "-47.9048674"
 }

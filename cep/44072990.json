@@ -1,9 +1,11 @@
 {
   "cep": "44072990",
   "logradouro": "Rua Tijuca do Sul",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.2301546",
+  "longitude": "-38.9121041"
 }

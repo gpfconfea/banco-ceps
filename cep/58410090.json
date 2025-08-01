@@ -5,5 +5,7 @@
   "bairro": "Estação Velha",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "latitude": "-7.233605",
+  "longitude": "-35.932203"
 }

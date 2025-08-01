@@ -5,5 +5,7 @@
   "bairro": "Jardim Guaçu",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5127497",
+  "longitude": "-47.1407225"
 }

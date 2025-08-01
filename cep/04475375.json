@@ -5,5 +5,7 @@
   "bairro": "Jardim Rubilene",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.3545718",
+  "longitude": "-47.4006722"
 }

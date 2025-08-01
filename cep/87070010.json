@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Bandeirantes",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4211288",
+  "longitude": "-51.9734085"
 }

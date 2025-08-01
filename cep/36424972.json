@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Queluzito",
   "uf": "MG",
-  "ibge": "3153806"
+  "ibge": "3153806",
+  "latitude": "-20.7412997",
+  "longitude": "-43.8819829"
 }

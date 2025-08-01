@@ -1,9 +1,11 @@
 {
   "cep": "55720970",
   "logradouro": "Rua Santo Antônio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "João Alfredo",
   "uf": "PE",
-  "ibge": "2608107"
+  "ibge": "2608107",
+  "latitude": "-1.4511454",
+  "longitude": "-48.5001821"
 }

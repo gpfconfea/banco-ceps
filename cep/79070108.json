@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Botafogo",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.5250156",
+  "longitude": "-54.6263317"
 }

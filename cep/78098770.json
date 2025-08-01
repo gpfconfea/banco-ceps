@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Flor-de-Lis",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.544466",
+  "longitude": "-56.0821268"
 }

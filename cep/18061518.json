@@ -5,5 +5,7 @@
   "bairro": "Jardim Humberto de Campos",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4996842",
+  "longitude": "-47.485633"
 }

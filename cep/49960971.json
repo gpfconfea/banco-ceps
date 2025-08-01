@@ -1,9 +1,11 @@
 {
   "cep": "49960971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Japaratuba",
   "uf": "SE",
-  "ibge": "2803302"
+  "ibge": "2803302",
+  "latitude": "-22.856177",
+  "longitude": "-43.2420381"
 }

@@ -5,5 +5,7 @@
   "bairro": "Guanabara",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.8883734",
+  "longitude": "-44.0341516"
 }

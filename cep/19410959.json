@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piquerobi",
   "uf": "SP",
-  "ibge": "3538303"
+  "ibge": "3538303",
+  "latitude": "-21.8863401",
+  "longitude": "-51.7308234"
 }

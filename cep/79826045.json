@@ -5,5 +5,7 @@
   "bairro": "Vila Planalto",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.2206216",
+  "longitude": "-54.8050754"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29909983",
   "logradouro": "Avenida Prefeito Samuel Batista Cruz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canivete",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.3165984",
+  "longitude": "-40.0767478"
 }

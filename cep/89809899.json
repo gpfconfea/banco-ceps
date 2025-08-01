@@ -5,5 +5,7 @@
   "bairro": "Efapi",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.1122526",
+  "longitude": "-52.6647637"
 }

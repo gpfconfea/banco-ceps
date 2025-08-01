@@ -5,5 +5,7 @@
   "bairro": "Residencial Portal do Sabiá",
   "localidade": "Guaiçara",
   "uf": "SP",
-  "ibge": "3517208"
+  "ibge": "3517208",
+  "latitude": "-21.61315",
+  "longitude": "-49.79662"
 }

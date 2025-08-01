@@ -5,5 +5,7 @@
   "bairro": "Corcovado",
   "localidade": "Ubatuba",
   "uf": "SP",
-  "ibge": "3555406"
+  "ibge": "3555406",
+  "latitude": "-23.48128",
+  "longitude": "-45.1946"
 }

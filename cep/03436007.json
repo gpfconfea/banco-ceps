@@ -5,5 +5,7 @@
   "bairro": "Vila Carrão",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.1585265",
+  "longitude": "-45.8928839"
 }

@@ -6,5 +6,7 @@
   "bairro": "Coronel Antonino",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4129709",
+  "longitude": "-54.5790796"
 }

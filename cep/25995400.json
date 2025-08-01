@@ -5,5 +5,7 @@
   "bairro": "Campanha",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "latitude": "-22.3092553",
+  "longitude": "-42.8034313"
 }

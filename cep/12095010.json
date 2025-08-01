@@ -5,5 +5,7 @@
   "bairro": "Itapecirica",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.068814",
+  "longitude": "-45.547135"
 }

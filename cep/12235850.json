@@ -5,5 +5,7 @@
   "bairro": "Jardim San Marino",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.2286546",
+  "longitude": "-45.8962506"
 }

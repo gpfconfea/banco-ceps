@@ -5,5 +5,7 @@
   "bairro": "Jardins de Monet",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.16889",
+  "longitude": "-50.01599"
 }

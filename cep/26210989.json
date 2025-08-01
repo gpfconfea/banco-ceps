@@ -1,9 +1,11 @@
 {
   "cep": "26210989",
-  "logradouro": "Rua Otávio Tarquino 87 Térreo Locker Correios",
+  "logradouro": "Rua Otávio Tarquino 87 Térreo",
   "complemento": "",
   "bairro": "Centro",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.75911",
+  "longitude": "-43.45098"
 }

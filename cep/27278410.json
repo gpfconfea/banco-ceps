@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.5001212",
+  "longitude": "-44.0326006"
 }

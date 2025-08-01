@@ -1,9 +1,11 @@
 {
   "cep": "62935973",
   "logradouro": "Vila Bixopá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bixopa",
   "localidade": "Limoeiro do Norte",
   "uf": "CE",
-  "ibge": "2307601"
+  "ibge": "2307601",
+  "latitude": "-4.9953127",
+  "longitude": "-38.2010612"
 }

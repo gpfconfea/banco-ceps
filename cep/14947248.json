@@ -5,5 +5,7 @@
   "bairro": "Jardim Mirante",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-24.10876",
+  "longitude": "-46.67017"
 }

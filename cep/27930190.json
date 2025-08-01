@@ -5,5 +5,7 @@
   "bairro": "Novo Cavaleiro",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "latitude": "-22.4068882",
+  "longitude": "-41.8085086"
 }

@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "latitude": "-22.847723",
+  "longitude": "-42.319612"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55210990",
   "logradouro": "Rua São Francisco - Distrito Mutuca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pesqueira",
   "uf": "PE",
-  "ibge": "2610905"
+  "ibge": "2610905",
+  "latitude": "-8.36026",
+  "longitude": "-36.68807"
 }

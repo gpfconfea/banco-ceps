@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mombaça",
   "uf": "CE",
-  "ibge": "2308500"
+  "ibge": "2308500",
+  "latitude": "-5.749271",
+  "longitude": "-39.6291583"
 }

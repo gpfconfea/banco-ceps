@@ -1,9 +1,11 @@
 {
   "cep": "49580959",
   "logradouro": "Largo Manoel do Prado Franco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Areia Branca",
   "uf": "SE",
-  "ibge": "2800506"
+  "ibge": "2800506",
+  "latitude": "-10.7580411",
+  "longitude": "-37.3161074"
 }

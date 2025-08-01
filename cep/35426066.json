@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "latitude": "-20.38538",
+  "longitude": "-43.41382"
 }

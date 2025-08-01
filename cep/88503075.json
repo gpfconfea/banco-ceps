@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.8267578",
+  "longitude": "-50.335056"
 }

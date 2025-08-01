@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Matias Olímpio",
   "uf": "PI",
-  "ibge": "2206100"
+  "ibge": "2206100",
+  "latitude": "-3.7173438",
+  "longitude": "-42.5548882"
 }

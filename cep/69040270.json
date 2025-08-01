@@ -5,5 +5,7 @@
   "bairro": "Dom Pedro I",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-3.095699",
+  "longitude": "-60.0427776"
 }

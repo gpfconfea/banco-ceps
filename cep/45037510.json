@@ -5,5 +5,7 @@
   "bairro": "Espírito Santo",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-16.3664012",
+  "longitude": "-39.5751493"
 }

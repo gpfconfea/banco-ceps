@@ -5,5 +5,7 @@
   "bairro": "Campo Alegre",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8326514",
+  "longitude": "-43.9475139"
 }

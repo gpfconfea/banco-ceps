@@ -5,5 +5,7 @@
   "bairro": "Jardim Beira Rio",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.7877046",
+  "longitude": "-53.318025"
 }

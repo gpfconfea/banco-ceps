@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piedade de Caratinga",
   "uf": "MG",
-  "ibge": "3150158"
+  "ibge": "3150158",
+  "latitude": "-19.75953",
+  "longitude": "-42.076461"
 }

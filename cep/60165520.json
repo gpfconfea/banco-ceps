@@ -5,5 +5,7 @@
   "bairro": "Mucuripe",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.8386088",
+  "longitude": "-38.5275775"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Munhoz",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.5166753",
+  "longitude": "-46.5736955"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Capuava",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7999463",
+  "longitude": "-47.315497"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque das Flores",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.851817",
+  "longitude": "-47.0566398"
 }

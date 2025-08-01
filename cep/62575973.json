@@ -1,9 +1,11 @@
 {
   "cep": "62575973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Prata",
   "localidade": "Bela Cruz",
   "uf": "CE",
-  "ibge": "2302305"
+  "ibge": "2302305",
+  "latitude": "-3.0558688",
+  "longitude": "-40.165965"
 }

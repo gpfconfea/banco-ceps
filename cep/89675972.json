@@ -5,5 +5,7 @@
   "bairro": "Campina da Alegria",
   "localidade": "Vargem Bonita",
   "uf": "SC",
-  "ibge": "4219176"
+  "ibge": "4219176",
+  "latitude": "-26.8730578",
+  "longitude": "-51.7951119"
 }

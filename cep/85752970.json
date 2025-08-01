@@ -1,9 +1,11 @@
 {
   "cep": "85752970",
   "logradouro": "Rua Santa Catarina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra Grande",
   "localidade": "Planalto",
   "uf": "PR",
-  "ibge": "4119806"
+  "ibge": "4119806",
+  "latitude": "-15.804626",
+  "longitude": "-42.2395824"
 }

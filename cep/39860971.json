@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nanuque",
   "uf": "MG",
-  "ibge": "3144300"
+  "ibge": "3144300",
+  "latitude": "-17.8400628",
+  "longitude": "-40.3482765"
 }

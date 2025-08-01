@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-16.74165",
+  "longitude": "-43.88434"
 }

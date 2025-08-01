@@ -1,9 +1,11 @@
 {
   "cep": "78210907",
   "logradouro": "Rua Generoso Marques Leite",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Celeste",
   "localidade": "Cáceres",
   "uf": "MT",
-  "ibge": "5102504"
+  "ibge": "5102504",
+  "latitude": "-16.0849422",
+  "longitude": "-57.6738583"
 }

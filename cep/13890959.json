@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Águas da Prata",
   "uf": "SP",
-  "ibge": "3500402"
+  "ibge": "3500402",
+  "latitude": "-21.93889",
+  "longitude": "-46.71969"
 }

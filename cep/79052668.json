@@ -5,5 +5,7 @@
   "bairro": "Jardim Jatobá",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4996162",
+  "longitude": "-54.5770099"
 }

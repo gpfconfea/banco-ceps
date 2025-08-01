@@ -5,5 +5,7 @@
   "bairro": "Jardim Pioneiro",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.5885166",
+  "longitude": "-46.8890426"
 }

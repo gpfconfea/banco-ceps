@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "latitude": "-12.130147",
+  "longitude": "-45.0083427"
 }

@@ -6,5 +6,7 @@
   "bairro": "Núcleo Residencial Barra Mansa",
   "localidade": "Morungaba",
   "uf": "SP",
-  "ibge": "3532009"
+  "ibge": "3532009",
+  "latitude": "-22.86643",
+  "longitude": "-46.79721"
 }

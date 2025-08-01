@@ -5,5 +5,7 @@
   "bairro": "Jardim Campos Elísios",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4146899",
+  "longitude": "-51.8956634"
 }

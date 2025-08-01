@@ -5,5 +5,7 @@
   "bairro": "Vila Sargento José de Paula",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5092419",
+  "longitude": "-46.8725888"
 }

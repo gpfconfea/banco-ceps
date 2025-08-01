@@ -1,9 +1,11 @@
 {
   "cep": "44900975",
   "logradouro": "Avenida Coronel Terêncio Dourado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Irecê",
   "uf": "BA",
-  "ibge": "2914604"
+  "ibge": "2914604",
+  "latitude": "-11.30703",
+  "longitude": "-41.85736"
 }

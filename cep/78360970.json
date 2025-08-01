@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campo Novo do Parecis",
   "uf": "MT",
-  "ibge": "5102637"
+  "ibge": "5102637",
+  "latitude": "-13.6600275",
+  "longitude": "-57.8912284"
 }

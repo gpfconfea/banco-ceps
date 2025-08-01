@@ -1,9 +1,11 @@
 {
   "cep": "35681994",
   "logradouro": "Praça da Igreja - Cachoeirinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "latitude": "-20.16441",
+  "longitude": "-44.61258"
 }

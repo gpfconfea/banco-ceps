@@ -5,5 +5,7 @@
   "bairro": "Parque Continental",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "latitude": "-23.9499773",
+  "longitude": "-46.4620203"
 }

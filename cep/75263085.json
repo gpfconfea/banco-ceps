@@ -5,5 +5,7 @@
   "bairro": "Residencial Aracy Amaral",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.7362471",
+  "longitude": "-49.0716439"
 }

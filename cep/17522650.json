@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Nova Marília",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-23.5534408",
+  "longitude": "-46.9096554"
 }

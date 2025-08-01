@@ -5,5 +5,7 @@
   "bairro": "Jardim Betty",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4399368",
+  "longitude": "-51.9453148"
 }

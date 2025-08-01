@@ -5,5 +5,7 @@
   "bairro": "Jardim Maite",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5581819",
+  "longitude": "-46.2870759"
 }

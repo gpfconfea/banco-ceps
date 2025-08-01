@@ -5,5 +5,7 @@
   "bairro": "Vila Regente Feijó",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.4402913",
+  "longitude": "-49.9150817"
 }

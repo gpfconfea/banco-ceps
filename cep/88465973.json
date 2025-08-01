@@ -1,9 +1,11 @@
 {
   "cep": "88465973",
   "logradouro": "Rua Geral de Barra Clara",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra Clara",
   "localidade": "Angelina",
   "uf": "SC",
-  "ibge": "4200903"
+  "ibge": "4200903",
+  "latitude": "-27.5261541",
+  "longitude": "-49.1185998"
 }
