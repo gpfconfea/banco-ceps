@@ -1,9 +1,11 @@
 {
   "cep": "35445971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Padre Felisberto",
   "localidade": "Amparo da Serra",
   "uf": "MG",
-  "ibge": "3102506"
+  "ibge": "3102506",
+  "latitude": "-20.4657309",
+  "longitude": "-42.7727883"
 }

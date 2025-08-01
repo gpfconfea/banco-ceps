@@ -6,5 +6,7 @@
   "bairro": "Portal de Extrema",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.86287",
+  "longitude": "-46.33211"
 }

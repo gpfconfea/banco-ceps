@@ -1,9 +1,11 @@
 {
   "cep": "73730970",
   "logradouro": "Rua 12 Quadra 19 Lote 17",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Mimoso de Goiás",
   "uf": "GO",
-  "ibge": "5213053"
+  "ibge": "5213053",
+  "latitude": "-15.0598074",
+  "longitude": "-48.1614289"
 }

@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Lençóis Paulista",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-22.60062",
+  "longitude": "-48.79733"
 }

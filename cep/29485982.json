@@ -1,9 +1,11 @@
 {
   "cep": "29485982",
   "logradouro": "Rua Jarbas Coelho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Camará",
   "localidade": "Muqui",
   "uf": "ES",
-  "ibge": "3203809"
+  "ibge": "3203809",
+  "latitude": "-20.8970499",
+  "longitude": "-41.2694088"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63192974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Brejo Grande",
   "localidade": "Santana do Cariri",
   "uf": "CE",
-  "ibge": "2312106"
+  "ibge": "2312106",
+  "latitude": "-7.2091123",
+  "longitude": "-39.7351561"
 }

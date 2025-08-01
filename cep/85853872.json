@@ -5,5 +5,7 @@
   "bairro": "Cataratas",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-5.8260411",
+  "longitude": "-35.2371739"
 }

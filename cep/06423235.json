@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Mirante dos Altos",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.504082",
+  "longitude": "-46.906269"
 }

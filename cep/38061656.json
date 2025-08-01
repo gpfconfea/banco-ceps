@@ -5,5 +5,7 @@
   "bairro": "Residencial Budeus",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.7406335",
+  "longitude": "-47.9559349"
 }

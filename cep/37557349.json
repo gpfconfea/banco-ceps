@@ -5,5 +5,7 @@
   "bairro": "Santo Expedito II",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-20.3292899",
+  "longitude": "-47.7894144"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "59583970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bebida Velha",
   "localidade": "Pureza",
   "uf": "RN",
-  "ibge": "2410405"
+  "ibge": "2410405",
+  "latitude": "-5.3839082",
+  "longitude": "-35.4789938"
 }

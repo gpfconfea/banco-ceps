@@ -1,9 +1,11 @@
 {
   "cep": "55760971",
   "logradouro": "Rua da Alegria",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tambor",
   "localidade": "Vertente do Lério",
   "uf": "PE",
-  "ibge": "2616183"
+  "ibge": "2616183",
+  "latitude": "-7.8016382",
+  "longitude": "-35.7832675"
 }

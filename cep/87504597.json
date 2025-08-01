@@ -6,5 +6,7 @@
   "bairro": "Conjunto Residencial Ouro Preto",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-25.5175614",
+  "longitude": "-54.5884692"
 }

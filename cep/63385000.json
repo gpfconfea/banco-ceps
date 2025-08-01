@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Barro",
   "uf": "CE",
-  "ibge": "2302008"
+  "ibge": "2302008",
+  "latitude": "-7.1652215",
+  "longitude": "-38.8846245"
 }

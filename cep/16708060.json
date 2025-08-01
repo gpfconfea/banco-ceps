@@ -6,5 +6,7 @@
   "bairro": "Residencial Antonio Portugues",
   "localidade": "Guararapes",
   "uf": "SP",
-  "ibge": "3518206"
+  "ibge": "3518206",
+  "latitude": "-21.2627981",
+  "longitude": "-50.6494237"
 }

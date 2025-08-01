@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Lapa",
   "uf": "PR",
-  "ibge": "4113205"
+  "ibge": "4113205",
+  "latitude": "-25.7651681",
+  "longitude": "-49.719985"
 }

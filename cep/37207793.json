@@ -5,5 +5,7 @@
   "bairro": "Parque Imperial",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.24298",
+  "longitude": "-45.01305"
 }

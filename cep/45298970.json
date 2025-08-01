@@ -1,9 +1,11 @@
 {
   "cep": "45298970",
   "logradouro": "Praça Valvir Malta Veiga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibitupa",
   "localidade": "Ibicuí",
   "uf": "BA",
-  "ibge": "2912301"
+  "ibge": "2912301",
+  "latitude": "-14.8433209",
+  "longitude": "-39.9859037"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "36787970",
   "logradouro": "Rua José Gonçalves de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Manoel do Guaiaçu",
   "localidade": "Dona Euzébia",
   "uf": "MG",
-  "ibge": "3122900"
+  "ibge": "3122900",
+  "latitude": "-21.3462159",
+  "longitude": "-42.8321302"
 }

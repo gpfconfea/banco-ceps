@@ -5,5 +5,7 @@
   "bairro": "Éden",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4202259",
+  "longitude": "-47.4163641"
 }

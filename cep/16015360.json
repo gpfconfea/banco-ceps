@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-21.2182942",
+  "longitude": "-50.4307965"
 }

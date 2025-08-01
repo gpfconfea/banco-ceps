@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.866602",
+  "longitude": "-50.9022496"
 }

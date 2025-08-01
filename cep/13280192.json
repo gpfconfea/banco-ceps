@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-23.0396944",
+  "longitude": "-46.9695899"
 }

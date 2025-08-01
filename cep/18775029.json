@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iaras",
   "uf": "SP",
-  "ibge": "3519253"
+  "ibge": "3519253",
+  "latitude": "-23.58628",
+  "longitude": "-46.84381"
 }

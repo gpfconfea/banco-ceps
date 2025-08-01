@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-7.5526068",
+  "longitude": "-35.4483739"
 }

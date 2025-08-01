@@ -1,9 +1,11 @@
 {
   "cep": "68360970",
   "logradouro": "Rua Quatorze de Abril",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Senador José Porfírio",
   "uf": "PA",
-  "ibge": "1507805"
+  "ibge": "1507805",
+  "latitude": "-2.5893019",
+  "longitude": "-51.9536585"
 }

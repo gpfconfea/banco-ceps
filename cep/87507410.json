@@ -5,5 +5,7 @@
   "bairro": "Parque Bonfim",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.7742099",
+  "longitude": "-53.2735537"
 }

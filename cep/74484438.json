@@ -5,5 +5,7 @@
   "bairro": "Residencial Goiânia Viva",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-14.0934737",
+  "longitude": "-46.3685122"
 }

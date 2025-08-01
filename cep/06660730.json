@@ -5,5 +5,7 @@
   "bairro": "Jardim Itacolomi",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5450197",
+  "longitude": "-46.9574288"
 }

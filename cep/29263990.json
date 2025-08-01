@@ -1,9 +1,11 @@
 {
   "cep": "29263990",
   "logradouro": "Rua Padre Francisco Albert",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Domingos Martins",
   "uf": "ES",
-  "ibge": "3201902"
+  "ibge": "3201902",
+  "latitude": "-20.36253",
+  "longitude": "-40.65898"
 }

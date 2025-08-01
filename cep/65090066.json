@@ -5,5 +5,7 @@
   "bairro": "Vila Itamar II",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5707993",
+  "longitude": "-44.2187195"
 }

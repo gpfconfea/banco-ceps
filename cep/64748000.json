@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Acauã",
   "uf": "PI",
-  "ibge": "2200053"
+  "ibge": "2200053",
+  "latitude": "-8.3303906",
+  "longitude": "-40.9841876"
 }

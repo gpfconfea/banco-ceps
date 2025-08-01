@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-15.9443008",
+  "longitude": "-50.1431161"
 }

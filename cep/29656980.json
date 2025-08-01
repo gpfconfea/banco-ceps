@@ -1,9 +1,11 @@
 {
   "cep": "29656980",
   "logradouro": "Rua José Delepranni",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto Caldeirão",
   "localidade": "Santa Teresa",
   "uf": "ES",
-  "ibge": "3204609"
+  "ibge": "3204609",
+  "latitude": "-19.9368278",
+  "longitude": "-40.5983289"
 }

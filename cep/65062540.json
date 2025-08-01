@@ -5,5 +5,7 @@
   "bairro": "Vila Padre Xavier",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5298735",
+  "longitude": "-44.2424697"
 }

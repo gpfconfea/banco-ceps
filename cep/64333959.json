@@ -1,9 +1,11 @@
 {
   "cep": "64333959",
   "logradouro": "Rua Nilo Campelo de Matos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Assunção do Piauí",
   "uf": "PI",
-  "ibge": "2201051"
+  "ibge": "2201051",
+  "latitude": "-5.86447",
+  "longitude": "-41.04859"
 }

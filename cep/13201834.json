@@ -5,5 +5,7 @@
   "bairro": "Vila Gotardo",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1837551",
+  "longitude": "-46.8912253"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Balneário Arroio do Silva",
   "uf": "SC",
-  "ibge": "4201950"
+  "ibge": "4201950",
+  "latitude": "-28.99963",
+  "longitude": "-49.43306"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "53230900",
   "logradouro": "Avenida Pan Nordestina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Popular",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-8.0171535",
+  "longitude": "-34.8605448"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "67020970",
   "logradouro": "Rua Quatorze",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Águas Lindas",
   "localidade": "Ananindeua",
   "uf": "PA",
-  "ibge": "1500800"
+  "ibge": "1500800",
+  "latitude": "-1.3931236",
+  "longitude": "-48.3785705"
 }

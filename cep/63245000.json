@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Abaiara",
   "uf": "CE",
-  "ibge": "2300101"
+  "ibge": "2300101",
+  "latitude": "-7.3764647",
+  "longitude": "-39.0279042"
 }

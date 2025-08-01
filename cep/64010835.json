@@ -5,5 +5,7 @@
   "bairro": "Mocambinho",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-4.7452385",
+  "longitude": "-42.5740084"
 }

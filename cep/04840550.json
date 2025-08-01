@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Brigadeiro Faria Lima",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7564446",
+  "longitude": "-46.679912"
 }

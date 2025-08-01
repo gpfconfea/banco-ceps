@@ -6,5 +6,7 @@
   "bairro": "Parque Residencial João Batista Costa Júnior",
   "localidade": "Tabapuã",
   "uf": "SP",
-  "ibge": "3552601"
+  "ibge": "3552601",
+  "latitude": "-20.96854",
+  "longitude": "-49.03091"
 }

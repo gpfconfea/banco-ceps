@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Reserva",
   "uf": "PR",
-  "ibge": "4121703"
+  "ibge": "4121703",
+  "latitude": "-24.6545336",
+  "longitude": "-50.8484432"
 }

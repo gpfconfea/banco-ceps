@@ -6,5 +6,7 @@
   "bairro": "Barreiras",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "latitude": "-6.3270661",
+  "longitude": "-39.3211151"
 }

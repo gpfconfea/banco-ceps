@@ -1,9 +1,11 @@
 {
   "cep": "13918900",
   "logradouro": "Rodovia Governador Doutor Adhemar Pereira de Barros Quilômetro 128,7",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tanquinho Velho",
   "localidade": "Jaguariúna",
   "uf": "SP",
-  "ibge": "3524709"
+  "ibge": "3524709",
+  "latitude": "-22.67153",
+  "longitude": "-47.00242"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "36243970",
   "logradouro": "Rua E",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dores do Paraibuna",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "latitude": "-21.5080198",
+  "longitude": "-43.6096874"
 }

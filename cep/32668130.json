@@ -5,5 +5,7 @@
   "bairro": "Petrovale",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9960349",
+  "longitude": "-44.1158445"
 }

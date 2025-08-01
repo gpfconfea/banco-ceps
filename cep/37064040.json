@@ -5,5 +5,7 @@
   "bairro": "Jardim Atlântico Sul",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-21.5866778",
+  "longitude": "-45.4284899"
 }

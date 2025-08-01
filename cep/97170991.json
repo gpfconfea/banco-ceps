@@ -5,5 +5,7 @@
   "bairro": "Boca do Monte",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "latitude": "-29.65164",
+  "longitude": "-53.91172"
 }

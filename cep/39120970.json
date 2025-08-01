@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gouveia",
   "uf": "MG",
-  "ibge": "3127602"
+  "ibge": "3127602",
+  "latitude": "-18.4578849",
+  "longitude": "-43.7399412"
 }

@@ -5,5 +5,7 @@
   "bairro": "Gleba Ribeirão Sarandi",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4046784",
+  "longitude": "-51.8542167"
 }

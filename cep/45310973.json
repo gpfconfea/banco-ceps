@@ -1,9 +1,11 @@
 {
   "cep": "45310973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto da Lagoinha",
   "localidade": "Ubaíra",
   "uf": "BA",
-  "ibge": "2932101"
+  "ibge": "2932101",
+  "latitude": "-12.833853",
+  "longitude": "-38.368085"
 }

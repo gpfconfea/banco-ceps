@@ -5,5 +5,7 @@
   "bairro": "Jardim da Mata",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-23.5404135",
+  "longitude": "-46.8587112"
 }

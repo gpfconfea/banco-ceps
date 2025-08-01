@@ -5,5 +5,7 @@
   "bairro": "Residencial Quinta das Castanheiras",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "latitude": "-20.90621",
+  "longitude": "-51.3567273"
 }

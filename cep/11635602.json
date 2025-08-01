@@ -5,5 +5,7 @@
   "bairro": "Viana",
   "localidade": "Ilhabela",
   "uf": "SP",
-  "ibge": "3520400"
+  "ibge": "3520400",
+  "latitude": "-23.7586355",
+  "longitude": "-45.3495968"
 }

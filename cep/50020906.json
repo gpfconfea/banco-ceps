@@ -1,9 +1,11 @@
 {
   "cep": "50020906",
   "logradouro": "Praça Dom Vital",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0687727",
+  "longitude": "-34.8777772"
 }

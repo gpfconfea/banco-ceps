@@ -5,5 +5,7 @@
   "bairro": "Santiago",
   "localidade": "Ji-Paraná",
   "uf": "RO",
-  "ibge": "1100122"
+  "ibge": "1100122",
+  "latitude": "-15.4927726",
+  "longitude": "-42.2037542"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63605970",
   "logradouro": "Avenida Doutor Alfredo Fernandes Franco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Piquet Carneiro",
   "uf": "CE",
-  "ibge": "2310902"
+  "ibge": "2310902",
+  "latitude": "-5.8025727",
+  "longitude": "-39.4176223"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cerâmica",
   "localidade": "São Caetano do Sul",
   "uf": "SP",
-  "ibge": "3548807"
+  "ibge": "3548807",
+  "latitude": "-23.6282601",
+  "longitude": "-46.578043"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Aquarius",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.2212153",
+  "longitude": "-45.9102124"
 }

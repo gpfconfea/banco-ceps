@@ -5,5 +5,7 @@
   "bairro": "Vila Guarany",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.7412402",
+  "longitude": "-49.0220841"
 }

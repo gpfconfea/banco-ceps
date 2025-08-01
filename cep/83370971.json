@@ -1,9 +1,11 @@
 {
   "cep": "83370971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barigui",
   "localidade": "Antonina",
   "uf": "PR",
-  "ibge": "4101200"
+  "ibge": "4101200",
+  "latitude": "-6.7705003",
+  "longitude": "-40.0644407"
 }

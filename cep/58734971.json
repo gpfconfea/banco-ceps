@@ -1,9 +1,11 @@
 {
   "cep": "58734971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Passagem",
   "uf": "PB",
-  "ibge": "2510709"
+  "ibge": "2510709",
+  "latitude": "-1.3741895",
+  "longitude": "-48.4364548"
 }

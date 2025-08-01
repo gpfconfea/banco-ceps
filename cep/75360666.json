@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Vista",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.5098957",
+  "longitude": "-49.4462052"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65764970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Joaquim dos Melos",
   "localidade": "Tuntum",
   "uf": "MA",
-  "ibge": "2112308"
+  "ibge": "2112308",
+  "latitude": "-5.0669178",
+  "longitude": "-44.6576352"
 }

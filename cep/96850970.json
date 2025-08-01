@@ -1,9 +1,11 @@
 {
   "cep": "96850970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Vista",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "latitude": "-29.7238726",
+  "longitude": "-50.8370854"
 }

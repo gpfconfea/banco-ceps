@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Novo Cravinhos",
   "localidade": "Pompéia",
   "uf": "SP",
-  "ibge": "3540002"
+  "ibge": "3540002",
+  "latitude": "-22.10436",
+  "longitude": "-50.17889"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "59580959",
   "logradouro": "Praça Vinte e Nove de Janeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Maxaranguape",
   "uf": "RN",
-  "ibge": "2407500"
+  "ibge": "2407500",
+  "latitude": "-5.5181875",
+  "longitude": "-35.2569071"
 }

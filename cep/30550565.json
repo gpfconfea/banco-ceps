@@ -5,5 +5,7 @@
   "bairro": "Salgado Filho",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-17.8918676",
+  "longitude": "-44.0138441"
 }

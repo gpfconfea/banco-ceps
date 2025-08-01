@@ -1,9 +1,11 @@
 {
   "cep": "68706971",
   "logradouro": "Vila de Mirasselvas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mirasselvas",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "latitude": "-1.0885984",
+  "longitude": "-46.9796074"
 }

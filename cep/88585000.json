@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cerro Negro",
   "uf": "SC",
-  "ibge": "4204178"
+  "ibge": "4204178",
+  "latitude": "-27.7953331",
+  "longitude": "-50.8741305"
 }

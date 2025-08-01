@@ -5,5 +5,7 @@
   "bairro": "Jardim São Geraldo",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2245012",
+  "longitude": "-49.944906"
 }

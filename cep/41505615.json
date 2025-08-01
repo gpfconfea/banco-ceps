@@ -5,5 +5,7 @@
   "bairro": "Cassange",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.8844946",
+  "longitude": "-38.380473"
 }

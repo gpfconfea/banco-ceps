@@ -5,5 +5,7 @@
   "bairro": "Zona Rural",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "latitude": "-17.4626006",
+  "longitude": "-41.8777168"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque dos Buritis",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.152195",
+  "longitude": "-51.3672444"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santana do Livramento",
   "uf": "RS",
-  "ibge": "4317103"
+  "ibge": "4317103",
+  "latitude": "-30.3874646",
+  "longitude": "-56.4394001"
 }

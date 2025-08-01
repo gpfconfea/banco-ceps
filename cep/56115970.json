@@ -1,9 +1,11 @@
 {
   "cep": "56115970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Conceição das Crioulas",
   "localidade": "Salgueiro",
   "uf": "PE",
-  "ibge": "2612208"
+  "ibge": "2612208",
+  "latitude": "-8.3044109",
+  "longitude": "-38.9370412"
 }

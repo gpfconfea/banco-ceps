@@ -6,5 +6,7 @@
   "bairro": "São Francisco",
   "localidade": "Igarapé",
   "uf": "MG",
-  "ibge": "3130101"
+  "ibge": "3130101",
+  "latitude": "-20.0803377",
+  "longitude": "-44.3552627"
 }

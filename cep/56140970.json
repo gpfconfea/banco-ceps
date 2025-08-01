@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serrita",
   "uf": "PE",
-  "ibge": "2614006"
+  "ibge": "2614006",
+  "latitude": "-8.4179068",
+  "longitude": "-37.0672594"
 }

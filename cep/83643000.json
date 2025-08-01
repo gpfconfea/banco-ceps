@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.2193393",
+  "longitude": "-49.6941662"
 }

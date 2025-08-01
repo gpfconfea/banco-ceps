@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4323307",
+  "longitude": "-46.8308658"
 }

@@ -5,5 +5,7 @@
   "bairro": "Verde",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.7462109",
+  "longitude": "-47.6408029"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jaderlândia",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "latitude": "-23.5044631",
+  "longitude": "-46.6873444"
 }

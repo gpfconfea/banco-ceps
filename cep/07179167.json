@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Paula",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4104658",
+  "longitude": "-46.42103"
 }

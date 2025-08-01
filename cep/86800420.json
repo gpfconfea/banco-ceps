@@ -5,5 +5,7 @@
   "bairro": "Vila Martins",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5587741",
+  "longitude": "-51.4745099"
 }

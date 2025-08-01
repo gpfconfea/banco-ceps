@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caiçara do Norte",
   "uf": "RN",
-  "ibge": "2401859"
+  "ibge": "2401859",
+  "latitude": "-5.063104",
+  "longitude": "-36.0520424"
 }

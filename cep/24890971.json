@@ -1,9 +1,11 @@
 {
   "cep": "24890971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Posse dos Coutinhos",
   "localidade": "Tanguá",
   "uf": "RJ",
-  "ibge": "3305752"
+  "ibge": "3305752",
+  "latitude": "-22.7982",
+  "longitude": "-42.75295"
 }

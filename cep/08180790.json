@@ -5,5 +5,7 @@
   "bairro": "Jardim Pantanal",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4751337",
+  "longitude": "-46.4171594"
 }

@@ -5,5 +5,7 @@
   "bairro": "Ocian",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-24.0278446",
+  "longitude": "-46.4721848"
 }

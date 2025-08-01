@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-26.2781635",
+  "longitude": "-48.8342974"
 }

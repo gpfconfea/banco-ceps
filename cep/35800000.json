@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ferros",
   "uf": "MG",
-  "ibge": "3125903"
+  "ibge": "3125903",
+  "latitude": "-19.234984",
+  "longitude": "-43.019542"
 }

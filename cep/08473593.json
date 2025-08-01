@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Barro Branco II",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5893839",
+  "longitude": "-46.3897849"
 }

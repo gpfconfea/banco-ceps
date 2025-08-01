@@ -1,9 +1,11 @@
 {
   "cep": "78573971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ipiranga",
   "localidade": "Tapurah",
   "uf": "MT",
-  "ibge": "5108006"
+  "ibge": "5108006",
+  "latitude": "-12.7554415",
+  "longitude": "-56.3770536"
 }

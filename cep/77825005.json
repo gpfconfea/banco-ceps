@@ -5,5 +5,7 @@
   "bairro": "Residencial Belchior",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "latitude": "-23.684905",
+  "longitude": "-46.4659849"
 }

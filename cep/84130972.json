@@ -1,9 +1,11 @@
 {
   "cep": "84130972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Queimadas",
   "localidade": "Palmeira",
   "uf": "PR",
-  "ibge": "4117701"
+  "ibge": "4117701",
+  "latitude": "-1.3501324",
+  "longitude": "-48.3598783"
 }

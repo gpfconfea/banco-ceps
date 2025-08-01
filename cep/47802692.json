@@ -5,5 +5,7 @@
   "bairro": "Flamengo",
   "localidade": "Barreiras",
   "uf": "BA",
-  "ibge": "2903201"
+  "ibge": "2903201",
+  "latitude": "-22.9349033",
+  "longitude": "-43.1783685"
 }

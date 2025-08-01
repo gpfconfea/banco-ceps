@@ -5,5 +5,7 @@
   "bairro": "Condomínio Terras do Vale",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.1295188",
+  "longitude": "-45.7340169"
 }

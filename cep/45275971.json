@@ -1,9 +1,11 @@
 {
   "cep": "45275971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itajaí",
   "localidade": "Nova Canaã",
   "uf": "BA",
-  "ibge": "2922706"
+  "ibge": "2922706",
+  "latitude": "-20.2824261",
+  "longitude": "-40.3716517"
 }

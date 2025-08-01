@@ -1,9 +1,11 @@
 {
   "cep": "37565973",
   "logradouro": "Rua Bento Cândido Pires",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sertãozinho",
   "localidade": "Borda da Mata",
   "uf": "MG",
-  "ibge": "3108305"
+  "ibge": "3108305",
+  "latitude": "-22.3232421",
+  "longitude": "-46.058869"
 }

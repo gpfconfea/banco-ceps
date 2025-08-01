@@ -5,5 +5,7 @@
   "bairro": "São José dos Salgados",
   "localidade": "Carmo do Cajuru",
   "uf": "MG",
-  "ibge": "3114204"
+  "ibge": "3114204",
+  "latitude": "-20.0852679",
+  "longitude": "-44.781583"
 }

@@ -5,5 +5,7 @@
   "bairro": "Petrópolis",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-23.6710999",
+  "longitude": "-46.4787422"
 }

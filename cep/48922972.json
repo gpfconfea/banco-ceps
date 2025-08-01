@@ -1,9 +1,11 @@
 {
   "cep": "48922972",
   "logradouro": "Rua da Estação",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Juremal",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-9.7281395",
+  "longitude": "-40.3585973"
 }

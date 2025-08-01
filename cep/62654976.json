@@ -1,9 +1,11 @@
 {
   "cep": "62654976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Retiro",
   "localidade": "Uruburetama",
   "uf": "CE",
-  "ibge": "2313807"
+  "ibge": "2313807",
+  "latitude": "-3.3771",
+  "longitude": "-39.45226"
 }

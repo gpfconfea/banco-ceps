@@ -5,5 +5,7 @@
   "bairro": "Ouro Verde",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.448174",
+  "longitude": "-49.5329436"
 }

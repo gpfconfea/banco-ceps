@@ -5,5 +5,7 @@
   "bairro": "Veneza",
   "localidade": "Fazenda Rio Grande",
   "uf": "PR",
-  "ibge": "4107652"
+  "ibge": "4107652",
+  "latitude": "-25.7003241",
+  "longitude": "-49.2998787"
 }

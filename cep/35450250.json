@@ -5,5 +5,7 @@
   "bairro": "Praia",
   "localidade": "Itabirito",
   "uf": "MG",
-  "ibge": "3131901"
+  "ibge": "3131901",
+  "latitude": "-20.2481195",
+  "longitude": "-43.8090483"
 }

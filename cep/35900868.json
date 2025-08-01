@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "latitude": "-22.3820522",
+  "longitude": "-44.9701613"
 }

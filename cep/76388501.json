@@ -5,5 +5,7 @@
   "bairro": "Aldeia do Morro",
   "localidade": "Goianésia",
   "uf": "GO",
-  "ibge": "5208608"
+  "ibge": "5208608",
+  "latitude": "-15.3309751",
+  "longitude": "-49.1361213"
 }

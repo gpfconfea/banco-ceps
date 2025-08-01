@@ -1,9 +1,11 @@
 {
   "cep": "29198970",
   "logradouro": "Rua Brasiliano Pereira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra do Sahy",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-19.8748767",
+  "longitude": "-40.0846639"
 }

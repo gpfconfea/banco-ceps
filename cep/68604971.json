@@ -1,9 +1,11 @@
 {
   "cep": "68604971",
   "logradouro": "Vila de Nova Mocajuba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Mocajuba",
   "localidade": "Bragança",
   "uf": "PA",
-  "ibge": "1501709"
+  "ibge": "1501709",
+  "latitude": "-1.3098781",
+  "longitude": "-46.8637829"
 }

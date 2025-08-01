@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-29.2121423",
+  "longitude": "-51.3440636"
 }

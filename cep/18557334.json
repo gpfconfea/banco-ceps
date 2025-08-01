@@ -5,5 +5,7 @@
   "bairro": "Vila Ginasial",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2816629",
+  "longitude": "-47.6806306"
 }

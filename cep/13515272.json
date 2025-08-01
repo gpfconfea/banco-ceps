@@ -5,5 +5,7 @@
   "bairro": "Jardim Solar",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-22.5119",
+  "longitude": "-47.76801"
 }

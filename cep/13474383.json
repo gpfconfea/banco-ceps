@@ -5,5 +5,7 @@
   "bairro": "Residencial Vale das Nogueiras",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-22.7083593",
+  "longitude": "-47.2857059"
 }

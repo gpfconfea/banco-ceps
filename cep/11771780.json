@@ -5,5 +5,7 @@
   "bairro": "Vila Isolina",
   "localidade": "Peruíbe",
   "uf": "SP",
-  "ibge": "3537602"
+  "ibge": "3537602",
+  "latitude": "-24.3151651",
+  "longitude": "-47.003131"
 }
