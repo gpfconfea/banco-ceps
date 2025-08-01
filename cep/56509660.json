@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "Arcoverde",
   "uf": "PE",
-  "ibge": "2601201"
+  "ibge": "2601201",
+  "latitude": "-20.3052418",
+  "longitude": "-40.351955"
 }

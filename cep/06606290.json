@@ -5,5 +5,7 @@
   "bairro": "Vila Ipê",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5342745",
+  "longitude": "-46.9081056"
 }

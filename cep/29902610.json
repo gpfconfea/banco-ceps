@@ -5,5 +5,7 @@
   "bairro": "José Rodrigues Maciel",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.3783545",
+  "longitude": "-40.0584474"
 }

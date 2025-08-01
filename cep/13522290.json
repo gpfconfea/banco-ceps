@@ -6,5 +6,7 @@
   "bairro": "Vila Rica",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "latitude": "-22.5509744",
+  "longitude": "-47.9060854"
 }

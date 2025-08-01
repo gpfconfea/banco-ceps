@@ -1,9 +1,11 @@
 {
   "cep": "68665971",
   "logradouro": "Vila Maripinima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Garrafão do Norte",
   "uf": "PA",
-  "ibge": "1503077"
+  "ibge": "1503077",
+  "latitude": "-1.9302206",
+  "longitude": "-47.0509121"
 }

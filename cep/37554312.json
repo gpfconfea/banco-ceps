@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora de Lourdes",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-21.77187",
+  "longitude": "-43.32632"
 }

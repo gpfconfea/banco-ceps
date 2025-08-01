@@ -1,9 +1,11 @@
 {
   "cep": "62835990",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Jaguaruana",
   "uf": "CE",
-  "ibge": "2307007"
+  "ibge": "2307007",
+  "latitude": "-3.76963",
+  "longitude": "-38.63064"
 }

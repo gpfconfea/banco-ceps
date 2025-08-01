@@ -5,5 +5,7 @@
   "bairro": "Faxinal",
   "localidade": "Mafra",
   "uf": "SC",
-  "ibge": "4210100"
+  "ibge": "4210100",
+  "latitude": "38.9543598",
+  "longitude": "-9.2414385"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44865970",
   "logradouro": "Praça Antonio Ferreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Duas Barras do Morro",
   "localidade": "Morro do Chapéu",
   "uf": "BA",
-  "ibge": "2921708"
+  "ibge": "2921708",
+  "latitude": "-11.1897081",
+  "longitude": "-40.2680352"
 }

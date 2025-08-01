@@ -6,5 +6,7 @@
   "bairro": "Jardim Paulistano",
   "localidade": "Itápolis",
   "uf": "SP",
-  "ibge": "3522703"
+  "ibge": "3522703",
+  "latitude": "-23.51048",
+  "longitude": "-47.46737"
 }

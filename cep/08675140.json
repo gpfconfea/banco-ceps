@@ -5,5 +5,7 @@
   "bairro": "Vila São Jorge",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5443621",
+  "longitude": "-46.310986"
 }

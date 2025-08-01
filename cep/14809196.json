@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Vista III",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-23.4359063",
+  "longitude": "-46.5163625"
 }

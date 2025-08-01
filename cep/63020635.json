@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "latitude": "-7.2128859",
+  "longitude": "-39.2950119"
 }

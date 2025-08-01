@@ -5,5 +5,7 @@
   "bairro": "Parque Jandaia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4664683",
+  "longitude": "-46.432222"
 }

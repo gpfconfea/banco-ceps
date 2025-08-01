@@ -1,9 +1,11 @@
 {
   "cep": "65400971",
   "logradouro": "Avenida Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Codó",
   "uf": "MA",
-  "ibge": "2103307"
+  "ibge": "2103307",
+  "latitude": "-4.4534774",
+  "longitude": "-43.8846769"
 }

@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Avaré",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.1005564",
+  "longitude": "-48.9200897"
 }

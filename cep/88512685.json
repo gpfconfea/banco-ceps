@@ -5,5 +5,7 @@
   "bairro": "Araucária",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.8417428",
+  "longitude": "-50.3411193"
 }

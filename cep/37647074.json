@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Ypês",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-19.8589",
+  "longitude": "-44.02749"
 }

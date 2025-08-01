@@ -1,9 +1,11 @@
 {
   "cep": "99132970",
   "logradouro": "Estrada de Bom Recreio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bom Recreio",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "latitude": "-28.3199493",
+  "longitude": "-52.4842595"
 }

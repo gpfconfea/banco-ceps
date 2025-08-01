@@ -6,5 +6,7 @@
   "bairro": "Setor Habitacional Jardim Botânico",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.8725",
+  "longitude": "-47.77414"
 }

@@ -5,5 +5,7 @@
   "bairro": "Salobro",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-29.1935467",
+  "longitude": "-51.2064912"
 }

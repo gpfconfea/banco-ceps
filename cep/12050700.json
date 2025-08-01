@@ -5,5 +5,7 @@
   "bairro": "Parque das Flores",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0143945",
+  "longitude": "-45.5706913"
 }

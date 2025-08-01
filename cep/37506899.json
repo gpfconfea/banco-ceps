@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Itajubá",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "latitude": "-22.4272759",
+  "longitude": "-45.4654788"
 }

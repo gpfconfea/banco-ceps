@@ -5,5 +5,7 @@
   "bairro": "Vila São Nicolau",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5447711",
+  "longitude": "-46.8922175"
 }

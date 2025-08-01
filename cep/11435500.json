@@ -5,5 +5,7 @@
   "bairro": "Vila da Noite",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "latitude": "-23.9748955",
+  "longitude": "-46.2112672"
 }

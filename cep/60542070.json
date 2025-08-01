@@ -5,5 +5,7 @@
   "bairro": "Bonsucesso",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-17.6933778",
+  "longitude": "-42.4972341"
 }

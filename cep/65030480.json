@@ -5,5 +5,7 @@
   "bairro": "Fátima",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-18.0899055",
+  "longitude": "-42.5634011"
 }

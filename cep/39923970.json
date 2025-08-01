@@ -1,9 +1,11 @@
 {
   "cep": "39923970",
   "logradouro": "Praça Ápio Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Estrela de Jordânia",
   "localidade": "Jordânia",
   "uf": "MG",
-  "ibge": "3136504"
+  "ibge": "3136504",
+  "latitude": "-15.8546416",
+  "longitude": "-40.2774969"
 }

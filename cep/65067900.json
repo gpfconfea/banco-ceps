@@ -1,9 +1,11 @@
 {
   "cep": "65067900",
   "logradouro": "Rua Aririzal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Eldorado",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5138935",
+  "longitude": "-44.2400165"
 }

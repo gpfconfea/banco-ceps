@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Real",
   "localidade": "Garça",
   "uf": "SP",
-  "ibge": "3516705"
+  "ibge": "3516705",
+  "latitude": "-22.20782",
+  "longitude": "-49.66919"
 }

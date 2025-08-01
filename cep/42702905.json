@@ -1,9 +1,11 @@
 {
   "cep": "42702905",
   "logradouro": "Rua Pataro Machado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Lauro de Freitas",
   "uf": "BA",
-  "ibge": "2919207"
+  "ibge": "2919207",
+  "latitude": "-12.8893069",
+  "longitude": "-38.3142243"
 }

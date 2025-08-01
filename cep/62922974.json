@@ -1,9 +1,11 @@
 {
   "cep": "62922974",
   "logradouro": "Rua Zacarias Ferreira de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoinha",
   "localidade": "Quixeré",
   "uf": "CE",
-  "ibge": "2311504"
+  "ibge": "2311504",
+  "latitude": "-5.0835",
+  "longitude": "-37.90961"
 }

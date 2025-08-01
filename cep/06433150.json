@@ -5,5 +5,7 @@
   "bairro": "Jardim São José",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5443415",
+  "longitude": "-46.8363807"
 }

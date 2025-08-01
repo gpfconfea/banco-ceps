@@ -5,5 +5,7 @@
   "bairro": "Residencial Esperança",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.1254863",
+  "longitude": "-45.713277"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Premier",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-21.4137352",
+  "longitude": "-50.0942768"
 }

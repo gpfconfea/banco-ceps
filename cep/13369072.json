@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Maria",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-23.01137",
+  "longitude": "-47.50505"
 }

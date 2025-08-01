@@ -5,5 +5,7 @@
   "bairro": "Nova Estação",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-9.9538076",
+  "longitude": "-67.82905"
 }

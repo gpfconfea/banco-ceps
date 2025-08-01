@@ -6,5 +6,7 @@
   "bairro": "Balneário Mar Azul",
   "localidade": "Itapuí",
   "uf": "SP",
-  "ibge": "3522901"
+  "ibge": "3522901",
+  "latitude": "-22.2323741",
+  "longitude": "-48.7394696"
 }

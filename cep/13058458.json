@@ -5,5 +5,7 @@
   "bairro": "Jardim Metonópolis",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "41.1674417",
+  "longitude": "-8.6485472"
 }

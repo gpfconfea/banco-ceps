@@ -1,9 +1,11 @@
 {
   "cep": "29740980",
   "logradouro": "Rua Engenheiro Silvino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibituba",
   "localidade": "Baixo Guandu",
   "uf": "ES",
-  "ibge": "3200805"
+  "ibge": "3200805",
+  "latitude": "-19.6891603",
+  "longitude": "-41.0182261"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "70077989",
-  "logradouro": "SDN Térreo Locker Correios",
+  "logradouro": "SDN Térreo",
   "complemento": "",
   "bairro": "Asa Norte",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.79075",
+  "longitude": "-47.88442"
 }

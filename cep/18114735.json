@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.4416049",
+  "longitude": "-46.5497737"
 }

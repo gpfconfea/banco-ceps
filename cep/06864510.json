@@ -5,5 +5,7 @@
   "bairro": "Parque São Francisco",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.7444261",
+  "longitude": "-46.8037742"
 }

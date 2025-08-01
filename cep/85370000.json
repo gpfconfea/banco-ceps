@@ -5,5 +5,7 @@
   "bairro": "Rio da Prata",
   "localidade": "Nova Laranjeiras",
   "uf": "PR",
-  "ibge": "4117057"
+  "ibge": "4117057",
+  "latitude": "-25.150784",
+  "longitude": "-52.4593804"
 }

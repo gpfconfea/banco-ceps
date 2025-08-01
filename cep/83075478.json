@@ -5,5 +5,7 @@
   "bairro": "Borda do Campo",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "-23.920683",
+  "longitude": "-49.655987"
 }

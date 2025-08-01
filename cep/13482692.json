@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Antonio Simonetti IV",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5920998",
+  "longitude": "-47.4350608"
 }

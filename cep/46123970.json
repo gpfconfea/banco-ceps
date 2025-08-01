@@ -1,10 +1,12 @@
 {
   "cep": "46123970",
   "logradouro": "Distrito de Cristalândia",
-  "complemento": "s/n",
+  "complemento": "",
   "unidade": "AGC Cristalândia",
   "bairro": "Cristalândia",
   "localidade": "Brumado",
   "uf": "BA",
-  "ibge": "2904605"
+  "ibge": "2904605",
+  "latitude": "-11.83662",
+  "longitude": "-42.75826"
 }

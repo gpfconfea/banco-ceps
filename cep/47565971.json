@@ -1,9 +1,11 @@
 {
   "cep": "47565971",
   "logradouro": "Rua Idalício Bastos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Brotas de Macaúbas",
   "uf": "BA",
-  "ibge": "2904506"
+  "ibge": "2904506",
+  "latitude": "-12.1351018",
+  "longitude": "-42.4724578"
 }

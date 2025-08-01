@@ -1,9 +1,11 @@
 {
   "cep": "85195971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Segredo",
   "localidade": "Reserva do Iguaçu",
   "uf": "PR",
-  "ibge": "4121752"
+  "ibge": "4121752",
+  "latitude": "-25.8324266",
+  "longitude": "-52.0276863"
 }

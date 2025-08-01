@@ -5,5 +5,7 @@
   "bairro": "Fazenda Tamburi",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-23.4425676",
+  "longitude": "-46.5815076"
 }

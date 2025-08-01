@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Doutor Pedro Nogueira",
   "localidade": "Jales",
   "uf": "SP",
-  "ibge": "3524808"
+  "ibge": "3524808",
+  "latitude": "-20.2492345",
+  "longitude": "-50.5449163"
 }

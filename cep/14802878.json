@@ -5,5 +5,7 @@
   "bairro": "Jardim Bounganville",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.7602332",
+  "longitude": "-48.1647042"
 }

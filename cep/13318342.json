@@ -6,5 +6,7 @@
   "bairro": "CECOM (Jacaré)",
   "localidade": "Cabreúva",
   "uf": "SP",
-  "ibge": "3508405"
+  "ibge": "3508405",
+  "latitude": "-23.3584555",
+  "longitude": "-47.444262"
 }

@@ -5,5 +5,7 @@
   "bairro": "Refinaria",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-1.3666412",
+  "longitude": "-48.2383851"
 }

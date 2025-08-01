@@ -1,9 +1,11 @@
 {
   "cep": "83632970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Colônia Dom Pedro II",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4634169",
+  "longitude": "-49.4411139"
 }

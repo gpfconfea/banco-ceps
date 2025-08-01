@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alto Paraná",
   "uf": "PR",
-  "ibge": "4100608"
+  "ibge": "4100608",
+  "latitude": "-23.1306053",
+  "longitude": "-52.3206403"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "50010931",
   "logradouro": "Rua Imperador Dom Pedro II",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0615559",
+  "longitude": "-34.8770516"
 }

@@ -5,5 +5,7 @@
   "bairro": "3 de Outubro",
   "localidade": "São Gabriel",
   "uf": "RS",
-  "ibge": "4318309"
+  "ibge": "4318309",
+  "latitude": "-30.32536",
+  "longitude": "-54.31062"
 }

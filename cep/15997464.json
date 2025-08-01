@@ -5,5 +5,7 @@
   "bairro": "Residencial São Gabriel",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "latitude": "-21.5875376",
+  "longitude": "-48.3524192"
 }

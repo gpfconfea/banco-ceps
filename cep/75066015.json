@@ -5,5 +5,7 @@
   "bairro": "Las Palmas",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.2736702",
+  "longitude": "-48.9744622"
 }

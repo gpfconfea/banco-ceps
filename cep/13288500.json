@@ -5,5 +5,7 @@
   "bairro": "Moinho",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-23.00924",
+  "longitude": "-46.96833"
 }

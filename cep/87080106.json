@@ -5,5 +5,7 @@
   "bairro": "Jardim Canadá 2ª Parte",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4045471",
+  "longitude": "-51.9523524"
 }

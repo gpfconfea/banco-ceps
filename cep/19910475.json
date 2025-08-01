@@ -5,5 +5,7 @@
   "bairro": "Parque Trianon",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-22.9370145",
+  "longitude": "-49.896978"
 }

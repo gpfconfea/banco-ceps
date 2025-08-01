@@ -5,5 +5,7 @@
   "bairro": "Parque Pinheiros",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "latitude": "-22.7605331",
+  "longitude": "-47.3112554"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63790974",
   "logradouro": "Avenida Nossa Senhora do Livramento",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nossa Senhora do Livramento",
   "localidade": "Monsenhor Tabosa",
   "uf": "CE",
-  "ibge": "2308609"
+  "ibge": "2308609",
+  "latitude": "-3.2971902",
+  "longitude": "-39.2650938"
 }

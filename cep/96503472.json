@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "latitude": "-30.0339443",
+  "longitude": "-52.9070074"
 }

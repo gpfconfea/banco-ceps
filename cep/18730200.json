@@ -5,5 +5,7 @@
   "bairro": "Beira Rio",
   "localidade": "Itaí",
   "uf": "SP",
-  "ibge": "3521804"
+  "ibge": "3521804",
+  "latitude": "-23.4108268",
+  "longitude": "-49.0898656"
 }

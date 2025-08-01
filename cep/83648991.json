@@ -1,9 +1,11 @@
 {
   "cep": "83648991",
   "logradouro": "Estrada de Bateias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.3768496",
+  "longitude": "-49.5261491"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "59220974",
   "logradouro": "Rua Principal Gurjau",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gurjau",
   "localidade": "Coronel Ezequiel",
   "uf": "RN",
-  "ibge": "2402808"
+  "ibge": "2402808",
+  "latitude": "-6.3752027",
+  "longitude": "-36.2226712"
 }

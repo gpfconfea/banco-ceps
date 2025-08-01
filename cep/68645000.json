@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bonito",
   "uf": "PA",
-  "ibge": "1501600"
+  "ibge": "1501600",
+  "latitude": "-1.3605722",
+  "longitude": "-47.3049907"
 }

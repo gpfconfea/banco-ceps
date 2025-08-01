@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Camargo",
   "uf": "RS",
-  "ibge": "4303558"
+  "ibge": "4303558",
+  "latitude": "-28.5865661",
+  "longitude": "-52.2031474"
 }

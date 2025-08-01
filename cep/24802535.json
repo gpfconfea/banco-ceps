@@ -5,5 +5,7 @@
   "bairro": "Esperança",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "latitude": "-21.4834052",
+  "longitude": "-42.2497152"
 }

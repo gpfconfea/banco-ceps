@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Horizonte",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5900743",
+  "longitude": "-47.373511"
 }

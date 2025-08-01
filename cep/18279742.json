@@ -5,5 +5,7 @@
   "bairro": "Residencial Terras de Tatuí",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3713131",
+  "longitude": "-47.8636533"
 }

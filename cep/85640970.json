@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ampére",
   "uf": "PR",
-  "ibge": "4101002"
+  "ibge": "4101002",
+  "latitude": "-23.29293",
+  "longitude": "-51.18527"
 }

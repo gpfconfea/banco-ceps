@@ -5,5 +5,7 @@
   "bairro": "Vila Formosa",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-21.4326132",
+  "longitude": "-50.069046"
 }

@@ -5,5 +5,7 @@
   "bairro": "Botafogo",
   "localidade": "São Pedro da Aldeia",
   "uf": "RJ",
-  "ibge": "3305208"
+  "ibge": "3305208",
+  "latitude": "-22.739797",
+  "longitude": "-42.0633371"
 }

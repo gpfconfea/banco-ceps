@@ -5,5 +5,7 @@
   "bairro": "Vila Girassol",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4116008",
+  "longitude": "-46.4503553"
 }

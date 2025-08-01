@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-23.6102214",
+  "longitude": "-46.4388229"
 }

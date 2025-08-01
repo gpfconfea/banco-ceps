@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Farias Brito",
   "uf": "CE",
-  "ibge": "2304301"
+  "ibge": "2304301",
+  "latitude": "-6.9266784",
+  "longitude": "-39.5728874"
 }

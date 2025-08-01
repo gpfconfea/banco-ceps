@@ -6,5 +6,7 @@
   "bairro": "Camargo",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "latitude": "-22.61391",
+  "longitude": "-47.85785"
 }

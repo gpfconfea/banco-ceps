@@ -5,5 +5,7 @@
   "bairro": "Serraria",
   "localidade": "Diadema",
   "uf": "SP",
-  "ibge": "3513801"
+  "ibge": "3513801",
+  "latitude": "-23.7071713",
+  "longitude": "-46.6058145"
 }

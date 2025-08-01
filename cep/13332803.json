@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Residencial Veredas da Conquista",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0516136",
+  "longitude": "-47.2409427"
 }

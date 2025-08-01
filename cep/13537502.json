@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Ipeúna",
   "uf": "SP",
-  "ibge": "3521101"
+  "ibge": "3521101",
+  "latitude": "-22.4385528",
+  "longitude": "-47.710456"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bataguassu",
   "uf": "MS",
-  "ibge": "5001904"
+  "ibge": "5001904",
+  "latitude": "-21.7137265",
+  "longitude": "-52.4237749"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Eldorado Expansão",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7057937",
+  "longitude": "-49.3285142"
 }

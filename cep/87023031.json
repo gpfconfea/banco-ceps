@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperial II",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3948915",
+  "longitude": "-51.9343431"
 }

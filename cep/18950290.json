@@ -5,5 +5,7 @@
   "bairro": "Terra dos Brilhantes",
   "localidade": "Ipaussu",
   "uf": "SP",
-  "ibge": "3520905"
+  "ibge": "3520905",
+  "latitude": "-23.06207",
+  "longitude": "-49.62919"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Juruaia",
   "uf": "MG",
-  "ibge": "3136900"
+  "ibge": "3136900",
+  "latitude": "-21.252778",
+  "longitude": "-46.577223"
 }

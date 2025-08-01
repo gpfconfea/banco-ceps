@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Alumínio",
   "uf": "SP",
-  "ibge": "3501152"
+  "ibge": "3501152",
+  "latitude": "-23.5310114",
+  "longitude": "-47.2541257"
 }

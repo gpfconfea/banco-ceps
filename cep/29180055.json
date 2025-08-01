@@ -5,5 +5,7 @@
   "bairro": "Belvedere",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-19.5178727",
+  "longitude": "-40.6502127"
 }

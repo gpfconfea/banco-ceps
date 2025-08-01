@@ -6,5 +6,7 @@
   "bairro": "Distrito Industrial IV",
   "localidade": "Boracéia",
   "uf": "SP",
-  "ibge": "3507308"
+  "ibge": "3507308",
+  "latitude": "-22.19307",
+  "longitude": "-48.78125"
 }

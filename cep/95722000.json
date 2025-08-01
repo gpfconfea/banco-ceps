@@ -5,5 +5,7 @@
   "bairro": "São José de Castro",
   "localidade": "Garibaldi",
   "uf": "RS",
-  "ibge": "4308607"
+  "ibge": "4308607",
+  "latitude": "-29.3157812",
+  "longitude": "-51.6948147"
 }

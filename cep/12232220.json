@@ -5,5 +5,7 @@
   "bairro": "Jardim Portugal",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.2582437",
+  "longitude": "-45.8796745"
 }

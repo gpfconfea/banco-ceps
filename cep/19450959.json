@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caiuá",
   "uf": "SP",
-  "ibge": "3509106"
+  "ibge": "3509106",
+  "latitude": "-23.36339",
+  "longitude": "-46.73989"
 }

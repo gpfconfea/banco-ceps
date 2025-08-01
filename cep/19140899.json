@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Presidente Prudente",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1185119",
+  "longitude": "-51.3832407"
 }

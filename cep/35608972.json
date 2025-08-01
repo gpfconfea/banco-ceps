@@ -1,9 +1,11 @@
 {
   "cep": "35608972",
   "logradouro": "Avenida José Cançado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alberto Isaacson",
   "localidade": "Martinho Campos",
   "uf": "MG",
-  "ibge": "3140506"
+  "ibge": "3140506",
+  "latitude": "-19.4975014",
+  "longitude": "-45.0602326"
 }

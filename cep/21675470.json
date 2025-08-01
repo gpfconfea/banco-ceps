@@ -5,5 +5,7 @@
   "bairro": "Guadalupe",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9610567",
+  "longitude": "-43.6880588"
 }

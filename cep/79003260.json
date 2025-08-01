@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4745579",
+  "longitude": "-54.5903377"
 }

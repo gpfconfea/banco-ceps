@@ -5,5 +5,7 @@
   "bairro": "Residencial Villa Flora Aquarius",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.1846927",
+  "longitude": "-49.9733164"
 }

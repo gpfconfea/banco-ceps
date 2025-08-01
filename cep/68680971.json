@@ -1,9 +1,11 @@
 {
   "cep": "68680971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tomé-Açu",
   "uf": "PA",
-  "ibge": "1508001"
+  "ibge": "1508001",
+  "latitude": "-23.5197728",
+  "longitude": "-46.5743913"
 }

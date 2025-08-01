@@ -5,5 +5,7 @@
   "bairro": "Distrito Agroindustrial de Rio Verde II - DARV II",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-18.4666056",
+  "longitude": "-50.4659011"
 }

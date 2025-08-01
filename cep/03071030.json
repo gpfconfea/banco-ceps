@@ -5,5 +5,7 @@
   "bairro": "Tatuapé",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5325916",
+  "longitude": "-46.5603588"
 }
