@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapuã",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.737924",
+  "longitude": "-47.651759"
 }

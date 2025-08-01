@@ -5,5 +5,7 @@
   "bairro": "Vila Real",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "latitude": "-22.854935",
+  "longitude": "-47.2183131"
 }

@@ -5,5 +5,7 @@
   "bairro": "Água Verde",
   "localidade": "Laranjeiras do Sul",
   "uf": "PR",
-  "ibge": "4113304"
+  "ibge": "4113304",
+  "latitude": "-24.9111901",
+  "longitude": "-52.938009"
 }

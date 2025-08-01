@@ -1,9 +1,11 @@
 {
   "cep": "83309990",
   "logradouro": "Estrada do Botiatuva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.4887",
+  "longitude": "-49.05855"
 }

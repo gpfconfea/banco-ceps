@@ -5,5 +5,7 @@
   "bairro": "Vila Verde",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "latitude": "-8.73236",
+  "longitude": "-63.87584"
 }

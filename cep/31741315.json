@@ -5,5 +5,7 @@
   "bairro": "São Bernardo",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8494963",
+  "longitude": "-43.9430167"
 }

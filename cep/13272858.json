@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Terras do Oriente",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-23.5269114",
+  "longitude": "-46.7330394"
 }

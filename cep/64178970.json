@@ -1,9 +1,11 @@
 {
   "cep": "64178970",
   "logradouro": "Praça Luiz Rebelo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Morro do Chapéu do Piauí",
   "uf": "PI",
-  "ibge": "2206670"
+  "ibge": "2206670",
+  "latitude": "-3.7394733",
+  "longitude": "-42.3108387"
 }

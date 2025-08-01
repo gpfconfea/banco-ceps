@@ -5,5 +5,7 @@
   "bairro": "Jardim Luciana",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "latitude": "-20.9451859",
+  "longitude": "-48.482244"
 }

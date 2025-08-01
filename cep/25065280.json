@@ -5,5 +5,7 @@
   "bairro": "Vila Ouro Preto",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "latitude": "-22.7701515",
+  "longitude": "-43.2868434"
 }

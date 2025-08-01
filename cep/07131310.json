@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Guarulhos",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4312886",
+  "longitude": "-46.5225681"
 }

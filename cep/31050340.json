@@ -5,5 +5,7 @@
   "bairro": "Mariano de Abreu",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-20.3577062",
+  "longitude": "-43.4170384"
 }

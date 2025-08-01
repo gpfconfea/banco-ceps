@@ -5,5 +5,7 @@
   "bairro": "Jardim Pitoresco",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.73443",
+  "longitude": "-43.5194334"
 }

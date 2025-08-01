@@ -1,9 +1,11 @@
 {
   "cep": "57237970",
   "logradouro": "Distrito Botafogo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Botafogo",
   "localidade": "Coruripe",
   "uf": "AL",
-  "ibge": "2702306"
+  "ibge": "2702306",
+  "latitude": "-10.1231",
+  "longitude": "-36.1709"
 }

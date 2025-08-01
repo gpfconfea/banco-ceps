@@ -6,5 +6,7 @@
   "bairro": "Quilômetro Vinte e Oito",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6220208",
+  "longitude": "-46.430533"
 }

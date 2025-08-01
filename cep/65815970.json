@@ -1,9 +1,11 @@
 {
   "cep": "65815970",
   "logradouro": "Área Rural",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Curupa",
   "localidade": "Alto Parnaíba",
   "uf": "MA",
-  "ibge": "2100501"
+  "ibge": "2100501",
+  "latitude": "-5.4451325",
+  "longitude": "-47.4063261"
 }

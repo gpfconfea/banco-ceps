@@ -1,9 +1,11 @@
 {
   "cep": "83860991",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Piên",
   "uf": "PR",
-  "ibge": "4119103"
+  "ibge": "4119103",
+  "latitude": "-25.49878",
+  "longitude": "-49.20343"
 }

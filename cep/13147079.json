@@ -5,5 +5,7 @@
   "bairro": "Bonfim",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "latitude": "-22.7182976",
+  "longitude": "-47.1396797"
 }

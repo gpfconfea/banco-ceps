@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cerro Grande do Sul",
   "uf": "RS",
-  "ibge": "4305173"
+  "ibge": "4305173",
+  "latitude": "-30.5935294",
+  "longitude": "-51.7505293"
 }

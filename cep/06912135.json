@@ -6,5 +6,7 @@
   "bairro": "Filipinho",
   "localidade": "Embu-Guaçu",
   "uf": "SP",
-  "ibge": "3515103"
+  "ibge": "3515103",
+  "latitude": "-23.8250149",
+  "longitude": "-46.8277097"
 }

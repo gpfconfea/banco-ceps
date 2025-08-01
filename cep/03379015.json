@@ -5,5 +5,7 @@
   "bairro": "Vila Olinda",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-21.8006452",
+  "longitude": "-48.1482668"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62823975",
   "logradouro": "Rua José de Almeida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jaguaruana",
   "uf": "CE",
-  "ibge": "2307007"
+  "ibge": "2307007",
+  "latitude": "-4.851523",
+  "longitude": "-37.8060742"
 }

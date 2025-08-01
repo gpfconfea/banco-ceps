@@ -5,5 +5,7 @@
   "bairro": "Jardim Marabá",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-21.1452141",
+  "longitude": "-47.9794677"
 }

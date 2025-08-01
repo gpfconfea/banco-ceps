@@ -5,5 +5,7 @@
   "bairro": "Residencial San Martino",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.63046",
+  "longitude": "-47.43594"
 }

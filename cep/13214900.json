@@ -1,9 +1,11 @@
 {
   "cep": "13214900",
   "logradouro": "Avenida da Liberdade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Botânico",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.170799",
+  "longitude": "-46.900521"
 }

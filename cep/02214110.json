@@ -5,5 +5,7 @@
   "bairro": "Vila Medeiros",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.490364",
+  "longitude": "-46.5910411"
 }

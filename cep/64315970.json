@@ -1,9 +1,11 @@
 {
   "cep": "64315970",
   "logradouro": "Avenida do Antonio Tomé",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Cruz dos Milagres",
   "uf": "PI",
-  "ibge": "2209153"
+  "ibge": "2209153",
+  "latitude": "-5.8028796",
+  "longitude": "-41.9553778"
 }

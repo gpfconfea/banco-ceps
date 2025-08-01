@@ -6,5 +6,7 @@
   "bairro": "Parque Residencial Helvetia",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.21436",
+  "longitude": "-45.90497"
 }

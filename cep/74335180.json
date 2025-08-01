@@ -5,5 +5,7 @@
   "bairro": "Vila Rezende",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7142611",
+  "longitude": "-49.2970478"
 }

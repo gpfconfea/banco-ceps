@@ -5,5 +5,7 @@
   "bairro": "Pirapitinga",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.8870667",
+  "longitude": "-43.6947298"
 }

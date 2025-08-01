@@ -1,9 +1,11 @@
 {
   "cep": "65643970",
   "logradouro": "Rodovia MA-034",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Brejo de São Félix",
   "localidade": "Parnarama",
   "uf": "MA",
-  "ibge": "2107803"
+  "ibge": "2107803",
+  "latitude": "-5.7003526",
+  "longitude": "-43.5674461"
 }

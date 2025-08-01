@@ -1,9 +1,11 @@
 {
   "cep": "68633973",
   "logradouro": "Rua Augusto Otávio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Dom Eliseu",
   "uf": "PA",
-  "ibge": "1502939"
+  "ibge": "1502939",
+  "latitude": "-4.29193",
+  "longitude": "-47.55715"
 }

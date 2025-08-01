@@ -1,9 +1,11 @@
 {
   "cep": "12070971",
   "logradouro": "Avenida Brigadeiro José Vicente de Faria Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila São Carlos",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0210716",
+  "longitude": "-45.5361573"
 }

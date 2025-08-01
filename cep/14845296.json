@@ -6,5 +6,7 @@
   "bairro": "Residencial Vila Mariana II",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.3753254",
+  "longitude": "-48.2318701"
 }

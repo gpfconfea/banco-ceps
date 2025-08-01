@@ -5,5 +5,7 @@
   "bairro": "Sede Aurora",
   "localidade": "Quinze de Novembro",
   "uf": "RS",
-  "ibge": "4315354"
+  "ibge": "4315354",
+  "latitude": "-28.7417383",
+  "longitude": "-53.0941008"
 }

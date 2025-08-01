@@ -5,5 +5,7 @@
   "bairro": "Residencial José B Almeida",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3513561",
+  "longitude": "-51.1293135"
 }

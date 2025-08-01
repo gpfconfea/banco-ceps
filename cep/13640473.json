@@ -5,5 +5,7 @@
   "bairro": "Jardim Luiz de Castro Santos",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.95145",
+  "longitude": "-47.36818"
 }

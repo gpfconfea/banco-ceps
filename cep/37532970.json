@@ -1,9 +1,11 @@
 {
   "cep": "37532970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dias",
   "localidade": "Brazópolis",
   "uf": "MG",
-  "ibge": "3108909"
+  "ibge": "3108909",
+  "latitude": "-22.4745622",
+  "longitude": "-45.614765"
 }

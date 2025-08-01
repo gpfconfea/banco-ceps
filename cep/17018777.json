@@ -5,5 +5,7 @@
   "bairro": "Residencial Villaggio II",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3678745",
+  "longitude": "-49.0619785"
 }

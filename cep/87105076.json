@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Pioneiro José Israel Factori (Floriano)",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.5263832",
+  "longitude": "-52.0482731"
 }

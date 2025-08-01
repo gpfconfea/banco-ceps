@@ -6,5 +6,7 @@
   "bairro": "Residencial Jardins da Catalunha",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.1198403",
+  "longitude": "-46.5951682"
 }

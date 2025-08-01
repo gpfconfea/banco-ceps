@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Laranjeiras",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-19.5047157",
+  "longitude": "-43.8998237"
 }

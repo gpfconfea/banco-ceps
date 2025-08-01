@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Vista",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "latitude": "-21.3621139",
+  "longitude": "-51.8645579"
 }

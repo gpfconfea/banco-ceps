@@ -1,9 +1,11 @@
 {
   "cep": "55205970",
   "logradouro": "Rua Cardeal Arcoverde",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cimbres",
   "localidade": "Pesqueira",
   "uf": "PE",
-  "ibge": "2610905"
+  "ibge": "2610905",
+  "latitude": "-8.3577456",
+  "longitude": "-36.6990903"
 }

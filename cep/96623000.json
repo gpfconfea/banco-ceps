@@ -5,5 +5,7 @@
   "bairro": "Santa Bárbara",
   "localidade": "Encruzilhada do Sul",
   "uf": "RS",
-  "ibge": "4306908"
+  "ibge": "4306908",
+  "latitude": "-30.4572427",
+  "longitude": "-52.44031"
 }

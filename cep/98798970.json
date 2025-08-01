@@ -5,5 +5,7 @@
   "bairro": "Sete de Setembro",
   "localidade": "Sete de Setembro",
   "uf": "RS",
-  "ibge": "4320578"
+  "ibge": "4320578",
+  "latitude": "-27.90487",
+  "longitude": "-54.57987"
 }

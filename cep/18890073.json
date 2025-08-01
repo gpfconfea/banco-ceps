@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taguaí",
   "uf": "SP",
-  "ibge": "3553005"
+  "ibge": "3553005",
+  "latitude": "-23.45455",
+  "longitude": "-49.41088"
 }

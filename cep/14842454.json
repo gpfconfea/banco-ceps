@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Aparecida Biccio do Amaral",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.3668424",
+  "longitude": "-48.2205788"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Imaculada",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4385826",
+  "longitude": "-46.5341406"
 }

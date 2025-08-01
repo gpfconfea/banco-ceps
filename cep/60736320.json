@@ -5,5 +5,7 @@
   "bairro": "Siqueira",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.8120777",
+  "longitude": "-38.6105215"
 }

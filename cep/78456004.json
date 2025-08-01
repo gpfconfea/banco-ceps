@@ -6,5 +6,7 @@
   "bairro": "Jardim Imperial",
   "localidade": "Nova Mutum",
   "uf": "MT",
-  "ibge": "5106224"
+  "ibge": "5106224",
+  "latitude": "-13.844873",
+  "longitude": "-56.0959668"
 }

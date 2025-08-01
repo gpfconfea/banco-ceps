@@ -1,9 +1,11 @@
 {
   "cep": "42800923",
   "logradouro": "Avenida Industrial Urbana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Industrial",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.719503",
+  "longitude": "-38.3119268"
 }

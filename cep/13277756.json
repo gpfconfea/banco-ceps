@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Morumbi",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-23.59063",
+  "longitude": "-46.70425"
 }

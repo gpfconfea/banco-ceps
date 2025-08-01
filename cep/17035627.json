@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto Bauru",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.335601",
+  "longitude": "-49.1148881"
 }

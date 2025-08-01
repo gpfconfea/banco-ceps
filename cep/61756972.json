@@ -1,9 +1,11 @@
 {
   "cep": "61756972",
   "logradouro": "Rua Josué Leite de Freitas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Patacas",
   "localidade": "Aquiraz",
   "uf": "CE",
-  "ibge": "2301000"
+  "ibge": "2301000",
+  "latitude": "-3.9748247",
+  "longitude": "-38.3444803"
 }

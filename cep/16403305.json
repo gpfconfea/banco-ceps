@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Monsenhor Pasetto",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.6914668",
+  "longitude": "-49.74947"
 }

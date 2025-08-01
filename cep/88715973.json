@@ -1,9 +1,11 @@
 {
   "cep": "88715973",
   "logradouro": "Estrada Geral de Olho D'Agua",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Olho D'Água",
   "localidade": "Jaguaruna",
   "uf": "SC",
-  "ibge": "4208807"
+  "ibge": "4208807",
+  "latitude": "-28.73166",
+  "longitude": "-49.17117"
 }

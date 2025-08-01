@@ -5,5 +5,7 @@
   "bairro": "Centro I Baixada",
   "localidade": "Mafra",
   "uf": "SC",
-  "ibge": "4210100"
+  "ibge": "4210100",
+  "latitude": "-26.1086419",
+  "longitude": "-49.8071822"
 }

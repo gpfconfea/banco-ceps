@@ -1,9 +1,11 @@
 {
   "cep": "84051901",
   "logradouro": "Avenida João Manoel dos Santos Ribas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Rússia",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "latitude": "-25.0868727",
+  "longitude": "-50.1754118"
 }

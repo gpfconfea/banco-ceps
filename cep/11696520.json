@@ -6,5 +6,7 @@
   "bairro": "Itamambuca",
   "localidade": "Ubatuba",
   "uf": "SP",
-  "ibge": "3555406"
+  "ibge": "3555406",
+  "latitude": "-23.3955163",
+  "longitude": "-44.9960766"
 }

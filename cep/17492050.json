@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Clara",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-20.52522",
+  "longitude": "-47.4455"
 }

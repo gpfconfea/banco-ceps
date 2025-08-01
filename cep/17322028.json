@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Clara",
   "localidade": "Mineiros do Tietê",
   "uf": "SP",
-  "ibge": "3529807"
+  "ibge": "3529807",
+  "latitude": "-22.4099955",
+  "longitude": "-48.4440138"
 }

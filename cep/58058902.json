@@ -1,9 +1,11 @@
 {
   "cep": "58058902",
   "logradouro": "Rua Emília Batista Celani",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mangabeira",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.165304",
+  "longitude": "-34.829123"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Vista",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "latitude": "-19.6224549",
+  "longitude": "-43.2048762"
 }

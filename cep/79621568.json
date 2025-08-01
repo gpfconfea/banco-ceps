@@ -5,5 +5,7 @@
   "bairro": "Real Park",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "latitude": "-20.7846",
+  "longitude": "-51.73492"
 }

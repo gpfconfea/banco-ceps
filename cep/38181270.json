@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Bela Vista",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "latitude": "0.0082543",
+  "longitude": "-51.0591442"
 }

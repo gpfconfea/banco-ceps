@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Campina Grande",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "latitude": "-7.216476",
+  "longitude": "-35.8817189"
 }

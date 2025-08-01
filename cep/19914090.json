@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-22.9721833",
+  "longitude": "-49.85817"
 }

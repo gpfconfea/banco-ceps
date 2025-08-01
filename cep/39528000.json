@@ -5,5 +5,7 @@
   "bairro": "São João do Bonito",
   "localidade": "Mato Verde",
   "uf": "MG",
-  "ibge": "3141009"
+  "ibge": "3141009",
+  "latitude": "-15.359339",
+  "longitude": "-42.794722"
 }

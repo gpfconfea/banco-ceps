@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "latitude": "-20.9164725",
+  "longitude": "-48.5053108"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iepê",
   "uf": "SP",
-  "ibge": "3519907"
+  "ibge": "3519907",
+  "latitude": "-22.6622516",
+  "longitude": "-51.0707825"
 }

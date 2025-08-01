@@ -1,9 +1,11 @@
 {
   "cep": "88798971",
   "logradouro": "Estrada Geral de Laranjeiras",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Laranjeiras",
   "localidade": "Pescaria Brava",
   "uf": "SC",
-  "ibge": "4212650"
+  "ibge": "4212650",
+  "latitude": "-28.4228807",
+  "longitude": "-48.8462491"
 }

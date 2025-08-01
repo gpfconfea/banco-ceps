@@ -1,9 +1,11 @@
 {
   "cep": "83855970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Colônia Padre Paulo",
   "localidade": "Agudos do Sul",
   "uf": "PR",
-  "ibge": "4100301"
+  "ibge": "4100301",
+  "latitude": "-25.9586642",
+  "longitude": "-49.3645931"
 }

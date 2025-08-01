@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Guitti",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2785131",
+  "longitude": "-47.2994008"
 }

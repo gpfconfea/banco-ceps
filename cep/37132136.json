@@ -5,5 +5,7 @@
   "bairro": "Residencial Alda Caetani",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.43773",
+  "longitude": "-45.95695"
 }

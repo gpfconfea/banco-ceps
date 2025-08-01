@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Ubá",
   "uf": "MG",
-  "ibge": "3169901"
+  "ibge": "3169901",
+  "latitude": "-21.11345",
+  "longitude": "-42.97547"
 }

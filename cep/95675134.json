@@ -6,5 +6,7 @@
   "bairro": "Planalto",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "latitude": "-29.3964526",
+  "longitude": "-50.8773682"
 }

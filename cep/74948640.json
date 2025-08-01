@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto Paraíso",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-15.5371386",
+  "longitude": "-47.3334766"
 }

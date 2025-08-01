@@ -1,9 +1,11 @@
 {
   "cep": "21032989",
-  "logradouro": "Rua Dona Isabel 158 Térreo Locker Correios",
+  "logradouro": "Rua Dona Isabel 158 Térreo",
   "complemento": "",
   "bairro": "Bonsucesso",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8684",
+  "longitude": "-43.25453"
 }

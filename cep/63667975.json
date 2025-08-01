@@ -5,5 +5,7 @@
   "bairro": "Barra Nova",
   "localidade": "Tauá",
   "uf": "CE",
-  "ibge": "2313302"
+  "ibge": "2313302",
+  "latitude": "-3.6961816",
+  "longitude": "-38.5804875"
 }

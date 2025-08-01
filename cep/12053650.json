@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional José Benedito de Moura Bona",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.000205",
+  "longitude": "-45.5687197"
 }

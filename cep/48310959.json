@@ -1,9 +1,11 @@
 {
   "cep": "48310959",
   "logradouro": "Rua Egídio Alves dos Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jandaíra",
   "uf": "BA",
-  "ibge": "2917904"
+  "ibge": "2917904",
+  "latitude": "-11.56438",
+  "longitude": "-37.78341"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Campo Verde",
   "localidade": "Ibirarema",
   "uf": "SP",
-  "ibge": "3519501"
+  "ibge": "3519501",
+  "latitude": "-22.81566",
+  "longitude": "-50.06269"
 }

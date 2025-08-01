@@ -5,5 +5,7 @@
   "bairro": "Jardim Marina",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0992616",
+  "longitude": "-47.2076204"
 }

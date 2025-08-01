@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Monte Líbano",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.7574958",
+  "longitude": "-53.2810111"
 }

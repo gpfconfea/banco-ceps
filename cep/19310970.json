@@ -1,9 +1,11 @@
 {
   "cep": "19310970",
   "logradouro": "Rua João Inácio Valasco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Araxás",
   "localidade": "Presidente Bernardes",
   "uf": "SP",
-  "ibge": "3541208"
+  "ibge": "3541208",
+  "latitude": "-21.9332338",
+  "longitude": "-51.5176757"
 }

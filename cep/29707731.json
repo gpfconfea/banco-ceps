@@ -6,5 +6,7 @@
   "bairro": "15 de Outubro",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-19.45399",
+  "longitude": "-40.68019"
 }

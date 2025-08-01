@@ -5,5 +5,7 @@
   "bairro": "Monte Sion",
   "localidade": "Parambu",
   "uf": "CE",
-  "ibge": "2310308"
+  "ibge": "2310308",
+  "latitude": "-7.2129352",
+  "longitude": "-48.1888491"
 }

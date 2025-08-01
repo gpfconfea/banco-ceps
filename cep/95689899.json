@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Canela",
   "localidade": "Canela",
   "uf": "RS",
-  "ibge": "4304408"
+  "ibge": "4304408",
+  "latitude": "-29.35453",
+  "longitude": "-50.81041"
 }

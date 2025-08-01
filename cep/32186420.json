@@ -5,5 +5,7 @@
   "bairro": "Vila Boa Vista",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.8511132",
+  "longitude": "-44.0126285"
 }

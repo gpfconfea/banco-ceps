@@ -1,9 +1,11 @@
 {
   "cep": "62112974",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caracará",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "latitude": "-3.3148069",
+  "longitude": "-40.5569303"
 }

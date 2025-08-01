@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Condeúba",
   "uf": "BA",
-  "ibge": "2908705"
+  "ibge": "2908705",
+  "latitude": "-14.89868",
+  "longitude": "-41.96845"
 }

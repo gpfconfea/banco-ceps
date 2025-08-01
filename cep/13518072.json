@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-22.52921",
+  "longitude": "-47.76682"
 }

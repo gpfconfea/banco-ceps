@@ -5,5 +5,7 @@
   "bairro": "Bom Retiro",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "latitude": "-19.5078426",
+  "longitude": "-42.5598194"
 }

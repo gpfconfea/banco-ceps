@@ -5,5 +5,7 @@
   "bairro": "Nacional",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-10.15473",
+  "longitude": "-67.7298638"
 }

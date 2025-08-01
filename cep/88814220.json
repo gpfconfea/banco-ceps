@@ -5,5 +5,7 @@
   "bairro": "Capão Bonito",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.7792365",
+  "longitude": "-49.3905453"
 }

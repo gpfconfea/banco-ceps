@@ -1,9 +1,11 @@
 {
   "cep": "74565971",
   "logradouro": "Rua Faixa Verde Quadra 71 Lote 40",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Urias Magalhães",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6414344",
+  "longitude": "-49.2750558"
 }

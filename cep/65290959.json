@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Luís Domingues",
   "uf": "MA",
-  "ibge": "2106201"
+  "ibge": "2106201",
+  "latitude": "-1.32883",
+  "longitude": "-45.89891"
 }

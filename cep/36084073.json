@@ -5,5 +5,7 @@
   "bairro": "Pedra Bonita",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.7499388",
+  "longitude": "-43.4163974"
 }

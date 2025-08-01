@@ -1,9 +1,11 @@
 {
   "cep": "29906998",
   "logradouro": "Rodovia Dom José Dalvit - Canivete",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-18.71935",
+  "longitude": "-39.86279"
 }

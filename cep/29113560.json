@@ -5,5 +5,7 @@
   "bairro": "Vale Encantado",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-23.5284731",
+  "longitude": "-47.4494857"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6936298",
+  "longitude": "-49.3649835"
 }

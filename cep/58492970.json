@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gado Bravo",
   "uf": "PB",
-  "ibge": "2506251"
+  "ibge": "2506251",
+  "latitude": "-7.5826011",
+  "longitude": "-35.792409"
 }

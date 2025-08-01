@@ -1,9 +1,11 @@
 {
   "cep": "99698974",
   "logradouro": "Rua Antônio Trombetta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Engenho Velho",
   "uf": "RS",
-  "ibge": "4306924"
+  "ibge": "4306924",
+  "latitude": "-27.7101445",
+  "longitude": "-52.9132636"
 }

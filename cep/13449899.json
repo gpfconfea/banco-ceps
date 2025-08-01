@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Engenheiro Coelho",
   "localidade": "Engenheiro Coelho",
   "uf": "SP",
-  "ibge": "3515152"
+  "ibge": "3515152",
+  "latitude": "-22.48806",
+  "longitude": "-47.21573"
 }

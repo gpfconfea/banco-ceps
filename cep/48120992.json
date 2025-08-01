@@ -1,9 +1,11 @@
 {
   "cep": "48120992",
   "logradouro": "Rua Raulino Jorge Dias Aquino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pojuca",
   "uf": "BA",
-  "ibge": "2925204"
+  "ibge": "2925204",
+  "latitude": "-12.40735",
+  "longitude": "-38.33594"
 }

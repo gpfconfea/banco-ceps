@@ -5,5 +5,7 @@
   "bairro": "Zona Portuária",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-28.1208156",
+  "longitude": "-54.7142404"
 }

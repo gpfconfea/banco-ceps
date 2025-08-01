@@ -1,9 +1,11 @@
 {
   "cep": "13212906",
   "logradouro": "Avenida de Ligação para Rodovia Marechal Rondon",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Industrial",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1688608",
+  "longitude": "-46.9364312"
 }

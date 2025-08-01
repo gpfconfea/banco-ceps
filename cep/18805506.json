@@ -5,5 +5,7 @@
   "bairro": "Paivas",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.206824",
+  "longitude": "-49.3827222"
 }

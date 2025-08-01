@@ -5,5 +5,7 @@
   "bairro": "Saúde",
   "localidade": "Guaiçara",
   "uf": "SP",
-  "ibge": "3517208"
+  "ibge": "3517208",
+  "latitude": "-21.6385138",
+  "longitude": "-49.782127"
 }

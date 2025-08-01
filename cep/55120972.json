@@ -1,9 +1,11 @@
 {
   "cep": "55120972",
   "logradouro": "Vila de Pinhoes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Vila de Pinhões",
   "localidade": "Riacho das Almas",
   "uf": "PE",
-  "ibge": "2611705"
+  "ibge": "2611705",
+  "latitude": "-8.14116",
+  "longitude": "-35.86451"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Mariana",
   "localidade": "Caraíbas",
   "uf": "BA",
-  "ibge": "2906899"
+  "ibge": "2906899",
+  "latitude": "-14.31372",
+  "longitude": "-39.32583"
 }

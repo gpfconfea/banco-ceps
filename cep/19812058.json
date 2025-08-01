@@ -5,5 +5,7 @@
   "bairro": "CDA",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-12.2115832",
+  "longitude": "-38.9896182"
 }

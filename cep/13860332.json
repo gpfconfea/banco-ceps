@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Aparecida",
   "localidade": "Aguaí",
   "uf": "SP",
-  "ibge": "3500303"
+  "ibge": "3500303",
+  "latitude": "-22.0584551",
+  "longitude": "-46.9704267"
 }
