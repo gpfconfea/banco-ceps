@@ -5,5 +5,7 @@
   "bairro": "Ferraria",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4038939",
+  "longitude": "-49.2625452"
 }

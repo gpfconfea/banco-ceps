@@ -1,9 +1,11 @@
 {
   "cep": "89816971",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto da Serra",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.0284312",
+  "longitude": "-52.7893472"
 }

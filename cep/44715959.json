@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Várzea do Poço",
   "uf": "BA",
-  "ibge": "2933109"
+  "ibge": "2933109",
+  "latitude": "-11.5287557",
+  "longitude": "-40.3194004"
 }

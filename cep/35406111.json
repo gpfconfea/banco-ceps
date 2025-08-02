@@ -5,5 +5,7 @@
   "bairro": "Alto da Cruz",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.3863824",
+  "longitude": "-43.4908382"
 }

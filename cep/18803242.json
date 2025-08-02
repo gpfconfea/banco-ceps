@@ -5,5 +5,7 @@
   "bairro": "Vila do Tico",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.2065919",
+  "longitude": "-49.3803715"
 }

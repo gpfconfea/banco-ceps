@@ -5,5 +5,7 @@
   "bairro": "Vila São Luiz",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-22.9588156",
+  "longitude": "-49.8805376"
 }

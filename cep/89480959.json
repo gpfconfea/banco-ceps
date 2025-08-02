@@ -1,9 +1,11 @@
 {
   "cep": "89480959",
   "logradouro": "Travessa Otacílio F. Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Major Vieira",
   "uf": "SC",
-  "ibge": "4210308"
+  "ibge": "4210308",
+  "latitude": "-26.36531",
+  "longitude": "-50.32784"
 }

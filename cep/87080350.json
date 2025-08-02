@@ -5,5 +5,7 @@
   "bairro": "Jardim Maravilha",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4127405",
+  "longitude": "-51.9574259"
 }

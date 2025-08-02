@@ -5,5 +5,7 @@
   "bairro": "Mini Distrito Industrial Gama Desenvolvimento Urbano",
   "localidade": "Santa Gertrudes",
   "uf": "SP",
-  "ibge": "3546702"
+  "ibge": "3546702",
+  "latitude": "-22.45605",
+  "longitude": "-47.53278"
 }

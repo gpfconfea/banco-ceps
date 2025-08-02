@@ -1,9 +1,11 @@
 {
   "cep": "84130971",
   "logradouro": "Avenida Presidente Ernesto Geisel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Palmeira",
   "uf": "PR",
-  "ibge": "4117701"
+  "ibge": "4117701",
+  "latitude": "-25.3892215",
+  "longitude": "-49.8172649"
 }

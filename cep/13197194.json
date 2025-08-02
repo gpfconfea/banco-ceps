@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial São Clemente",
   "localidade": "Monte Mor",
   "uf": "SP",
-  "ibge": "3531803"
+  "ibge": "3531803",
+  "latitude": "-23.26853",
+  "longitude": "-45.9064"
 }

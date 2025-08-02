@@ -5,5 +5,7 @@
   "bairro": "Fazenda",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "latitude": "-26.9163456",
+  "longitude": "-48.6536349"
 }

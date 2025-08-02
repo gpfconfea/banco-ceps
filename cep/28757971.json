@@ -1,9 +1,11 @@
 {
   "cep": "28757971",
   "logradouro": "Avenida Raul Veiga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Doutor Elias",
   "localidade": "Trajano de Moraes",
   "uf": "RJ",
-  "ibge": "3305901"
+  "ibge": "3305901",
+  "latitude": "-22.0281144",
+  "longitude": "-42.3628303"
 }

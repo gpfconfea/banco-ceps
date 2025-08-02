@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José da Safira",
   "uf": "MG",
-  "ibge": "3163003"
+  "ibge": "3163003",
+  "latitude": "-18.324439",
+  "longitude": "-42.1467228"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Morro Reuter",
   "uf": "RS",
-  "ibge": "4312476"
+  "ibge": "4312476",
+  "latitude": "-29.5403965",
+  "longitude": "-51.0821453"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tocos do Moji",
   "uf": "MG",
-  "ibge": "3169059"
+  "ibge": "3169059",
+  "latitude": "-22.3707057",
+  "longitude": "-46.0979"
 }

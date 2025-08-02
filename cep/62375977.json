@@ -1,9 +1,11 @@
 {
   "cep": "62375977",
   "logradouro": "Avenida São Vicente",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Carnaubal",
   "uf": "CE",
-  "ibge": "2303402"
+  "ibge": "2303402",
+  "latitude": "-4.1702837",
+  "longitude": "-40.9429892"
 }

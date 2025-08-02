@@ -5,5 +5,7 @@
   "bairro": "Vila Pires",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.75021",
+  "longitude": "-50.38922"
 }

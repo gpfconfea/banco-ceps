@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Damha IV",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.15576",
+  "longitude": "-51.42698"
 }

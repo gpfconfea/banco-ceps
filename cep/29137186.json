@@ -5,5 +5,7 @@
   "bairro": "Areinha",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "latitude": "-23.0350833",
+  "longitude": "-49.1700672"
 }

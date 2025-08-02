@@ -5,5 +5,7 @@
   "bairro": "Vale do Rio Caí",
   "localidade": "Nova Petrópolis",
   "uf": "RS",
-  "ibge": "4313201"
+  "ibge": "4313201",
+  "latitude": "-29.39109",
+  "longitude": "-51.2247"
 }

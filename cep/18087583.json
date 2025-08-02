@@ -5,5 +5,7 @@
   "bairro": "Residencial Villazul",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.48277",
+  "longitude": "-47.4210919"
 }

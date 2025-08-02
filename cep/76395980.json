@@ -1,9 +1,11 @@
 {
   "cep": "76395980",
   "logradouro": "Rua Monteiro de Barros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Santa Rita do Novo Destino",
   "uf": "GO",
-  "ibge": "5219456"
+  "ibge": "5219456",
+  "latitude": "-15.1356865",
+  "longitude": "-49.1177794"
 }

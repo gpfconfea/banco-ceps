@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Villagio Ipanema II",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5781",
+  "longitude": "-47.1862979"
 }

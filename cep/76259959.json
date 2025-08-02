@@ -1,9 +1,11 @@
 {
   "cep": "76259959",
   "logradouro": "Avenida Santos Dumont Quadra 16 Lote 263A",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Montes Claros de Goiás",
   "uf": "GO",
-  "ibge": "5213707"
+  "ibge": "5213707",
+  "latitude": "-16.00578",
+  "longitude": "-51.39855"
 }

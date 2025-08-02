@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Curvelo",
   "uf": "MG",
-  "ibge": "3120904"
+  "ibge": "3120904",
+  "latitude": "-18.75193",
+  "longitude": "-44.42915"
 }

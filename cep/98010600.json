@@ -5,5 +5,7 @@
   "bairro": "Rancho",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "latitude": "-29.7478484",
+  "longitude": "-51.1659429"
 }

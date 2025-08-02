@@ -5,5 +5,7 @@
   "bairro": "Grama",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-23.2104088",
+  "longitude": "-45.8528314"
 }

@@ -5,5 +5,7 @@
   "bairro": "Interlagos",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "latitude": "-26.2035892",
+  "longitude": "-52.6798064"
 }

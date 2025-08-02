@@ -1,9 +1,11 @@
 {
   "cep": "58940972",
   "logradouro": "Rua do Mercado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São José de Piranhas",
   "uf": "PB",
-  "ibge": "2514503"
+  "ibge": "2514503",
+  "latitude": "-7.1196339",
+  "longitude": "-38.4991949"
 }

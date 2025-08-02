@@ -1,9 +1,11 @@
 {
   "cep": "28425970",
   "logradouro": "Rua Maria José Garcez",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cambiasca",
   "localidade": "São Fidélis",
   "uf": "RJ",
-  "ibge": "3304805"
+  "ibge": "3304805",
+  "latitude": "-21.7157922",
+  "longitude": "-41.9246786"
 }

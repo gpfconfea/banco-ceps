@@ -1,9 +1,11 @@
 {
   "cep": "65035900",
   "logradouro": "Avenida dos Franceses",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Palmeira",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5444192",
+  "longitude": "-44.2578427"
 }

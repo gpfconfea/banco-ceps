@@ -1,9 +1,11 @@
 {
   "cep": "45109970",
   "logradouro": "Rua João Ludovíco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Veredinha",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-14.8503277",
+  "longitude": "-40.844989"
 }

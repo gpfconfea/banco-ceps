@@ -5,5 +5,7 @@
   "bairro": "Residencial Lago Azul",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.4956972",
+  "longitude": "-49.4114632"
 }

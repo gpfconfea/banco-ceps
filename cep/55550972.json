@@ -1,9 +1,11 @@
 {
   "cep": "55550972",
   "logradouro": "Rua Professora Maria dos Anjos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Campo Frio",
   "localidade": "Água Preta",
   "uf": "PE",
-  "ibge": "2600401"
+  "ibge": "2600401",
+  "latitude": "-7.79325",
+  "longitude": "-35.58922"
 }

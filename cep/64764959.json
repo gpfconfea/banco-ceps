@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Santa Rita",
   "uf": "PI",
-  "ibge": "2207959"
+  "ibge": "2207959",
+  "latitude": "-8.074708",
+  "longitude": "-42.0506177"
 }

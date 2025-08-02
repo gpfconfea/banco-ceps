@@ -5,5 +5,7 @@
   "bairro": "Vila Prosperidade",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.610925",
+  "longitude": "-46.5454019"
 }

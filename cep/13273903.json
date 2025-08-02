@@ -1,9 +1,11 @@
 {
   "cep": "13273903",
   "logradouro": "Rodovia Dom Pedro I Quilômetro 114,001",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santana dos Cuiabanos",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-23.1007762",
+  "longitude": "-46.5763539"
 }

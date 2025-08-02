@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Erval Grande",
   "uf": "RS",
-  "ibge": "4307203"
+  "ibge": "4307203",
+  "latitude": "-27.2873868",
+  "longitude": "-52.5520291"
 }

@@ -5,5 +5,7 @@
   "bairro": "Piqueri",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5024696",
+  "longitude": "-46.7092019"
 }

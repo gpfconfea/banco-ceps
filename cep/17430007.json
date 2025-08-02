@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alvinlândia",
   "uf": "SP",
-  "ibge": "3501509"
+  "ibge": "3501509",
+  "latitude": "-22.4437203",
+  "longitude": "-49.7638649"
 }

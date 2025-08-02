@@ -5,5 +5,7 @@
   "bairro": "Rancho Alegre",
   "localidade": "Guaxupé",
   "uf": "MG",
-  "ibge": "3128709"
+  "ibge": "3128709",
+  "latitude": "-21.31901",
+  "longitude": "-46.73018"
 }

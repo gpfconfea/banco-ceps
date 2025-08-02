@@ -1,9 +1,11 @@
 {
   "cep": "64898970",
   "logradouro": "Rua Modesto Antonio Piaulino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pajeú do Piauí",
   "uf": "PI",
-  "ibge": "2207355"
+  "ibge": "2207355",
+  "latitude": "-7.8557408",
+  "longitude": "-42.8222405"
 }

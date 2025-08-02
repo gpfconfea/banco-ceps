@@ -1,9 +1,11 @@
 {
   "cep": "92529992",
   "logradouro": "Estrada da Alfama",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Montenegro",
   "uf": "RS",
-  "ibge": "4312401"
+  "ibge": "4312401",
+  "latitude": "-29.68632",
+  "longitude": "-51.46742"
 }

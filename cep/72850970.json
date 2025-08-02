@@ -1,9 +1,11 @@
 {
   "cep": "72850970",
   "logradouro": "Avenida Lucena Roriz Quadra 58 Lote 44",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim do Ingá",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "latitude": "-16.1685407",
+  "longitude": "-47.9719789"
 }

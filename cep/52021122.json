@@ -5,5 +5,7 @@
   "bairro": "Espinheiro",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0421",
+  "longitude": "-34.88749"
 }

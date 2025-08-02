@@ -5,5 +5,7 @@
   "bairro": "Jardim Parnaso",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.6972365",
+  "longitude": "-45.4328054"
 }

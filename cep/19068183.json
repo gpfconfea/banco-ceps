@@ -5,5 +5,7 @@
   "bairro": "Residencial Solares",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.0877872",
+  "longitude": "-51.3890829"
 }

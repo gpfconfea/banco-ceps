@@ -5,5 +5,7 @@
   "bairro": "Desterro",
   "localidade": "Abreu e Lima",
   "uf": "PE",
-  "ibge": "2600054"
+  "ibge": "2600054",
+  "latitude": "-3.7038184",
+  "longitude": "-40.3327127"
 }

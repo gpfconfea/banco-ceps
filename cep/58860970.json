@@ -1,9 +1,11 @@
 {
   "cep": "58860970",
   "logradouro": "Rua Vicente de Franca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Paulista",
   "uf": "PB",
-  "ibge": "2510907"
+  "ibge": "2510907",
+  "latitude": "-6.5955417",
+  "longitude": "-37.6234296"
 }

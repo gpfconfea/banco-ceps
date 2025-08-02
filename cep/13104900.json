@@ -1,9 +1,11 @@
 {
   "cep": "13104900",
   "logradouro": "Rua San Conrado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Loteamento Caminhos de São Conrado (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8733645",
+  "longitude": "-46.9645255"
 }

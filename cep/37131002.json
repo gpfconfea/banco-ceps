@@ -5,5 +5,7 @@
   "bairro": "Residencial Mont Blanc",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.4384844",
+  "longitude": "-45.93164"
 }

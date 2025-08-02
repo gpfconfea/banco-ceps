@@ -5,5 +5,7 @@
   "bairro": "Jardim São Lucas",
   "localidade": "Garça",
   "uf": "SP",
-  "ibge": "3516705"
+  "ibge": "3516705",
+  "latitude": "-23.5842",
+  "longitude": "-46.5614"
 }

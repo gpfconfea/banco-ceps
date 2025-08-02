@@ -1,9 +1,11 @@
 {
   "cep": "86818970",
   "logradouro": "Estação Ferroviária do Distrito de Pirapó",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pirapó",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5616516",
+  "longitude": "-51.5370804"
 }

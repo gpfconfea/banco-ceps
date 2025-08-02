@@ -5,5 +5,7 @@
   "bairro": "Jardim Freitas",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4436283",
+  "longitude": "-51.8960693"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-17.8480943",
+  "longitude": "-41.5175145"
 }

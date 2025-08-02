@@ -1,9 +1,11 @@
 {
   "cep": "88620970",
   "logradouro": "Rua Antonio Florêncio Andrade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Izabel",
   "localidade": "São Joaquim",
   "uf": "SC",
-  "ibge": "4216503"
+  "ibge": "4216503",
+  "latitude": "-28.292455",
+  "longitude": "-49.9375873"
 }

@@ -5,5 +5,7 @@
   "bairro": "Eneida",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-21.9152678",
+  "longitude": "-51.3022359"
 }

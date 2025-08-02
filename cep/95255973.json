@@ -1,9 +1,11 @@
 {
   "cep": "95255973",
   "logradouro": "Rodovia BR-116",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Campestre da Serra",
   "uf": "RS",
-  "ibge": "4303673"
+  "ibge": "4303673",
+  "latitude": "-28.6208943",
+  "longitude": "-51.0595113"
 }

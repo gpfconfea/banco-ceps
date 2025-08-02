@@ -1,9 +1,11 @@
 {
   "cep": "35400977",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio do Salto",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.3675754",
+  "longitude": "-43.7029092"
 }

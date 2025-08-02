@@ -1,9 +1,11 @@
 {
   "cep": "83751993",
   "logradouro": "Rua Principal - Associaçao de Mães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Lapa",
   "uf": "PR",
-  "ibge": "4113205"
+  "ibge": "4113205",
+  "latitude": "-25.77158",
+  "longitude": "-49.71882"
 }

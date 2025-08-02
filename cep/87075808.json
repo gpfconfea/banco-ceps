@@ -5,5 +5,7 @@
   "bairro": "Jardim Everest",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4033575",
+  "longitude": "-51.9768205"
 }

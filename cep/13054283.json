@@ -5,5 +5,7 @@
   "bairro": "Eldorado dos Carajás",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0442948",
+  "longitude": "-47.1170036"
 }

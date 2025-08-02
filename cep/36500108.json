@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ubá",
   "uf": "MG",
-  "ibge": "3169901"
+  "ibge": "3169901",
+  "latitude": "-20.7199884",
+  "longitude": "-46.6279264"
 }

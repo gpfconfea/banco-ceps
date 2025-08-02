@@ -1,9 +1,11 @@
 {
   "cep": "58465970",
   "logradouro": "Rua Joaquim Santana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Riacho de Santo Antônio",
   "uf": "PB",
-  "ibge": "2512788"
+  "ibge": "2512788",
+  "latitude": "-7.6907282",
+  "longitude": "-36.1586037"
 }

@@ -5,5 +5,7 @@
   "bairro": "Piedade",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.2140603",
+  "longitude": "-45.7331474"
 }

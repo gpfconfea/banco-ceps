@@ -6,5 +6,7 @@
   "bairro": "Jardim Bonanza",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.0880486",
+  "longitude": "-47.7142009"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.35905",
+  "longitude": "-48.93591"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alvorada do Sul",
   "uf": "PR",
-  "ibge": "4100806"
+  "ibge": "4100806",
+  "latitude": "-22.7807269",
+  "longitude": "-51.2307721"
 }

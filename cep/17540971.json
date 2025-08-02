@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ocauçu",
   "uf": "SP",
-  "ibge": "3533700"
+  "ibge": "3533700",
+  "latitude": "28.3618715",
+  "longitude": "-81.4283256"
 }

@@ -6,5 +6,7 @@
   "bairro": "Barragem",
   "localidade": "Rio do Sul",
   "uf": "SC",
-  "ibge": "4214805"
+  "ibge": "4214805",
+  "latitude": "-27.2476191",
+  "longitude": "-49.6853299"
 }

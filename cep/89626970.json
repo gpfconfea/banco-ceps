@@ -1,9 +1,11 @@
 {
   "cep": "89626970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dal Pai",
   "localidade": "Campos Novos",
   "uf": "SC",
-  "ibge": "4203600"
+  "ibge": "4203600",
+  "latitude": "-27.2491318",
+  "longitude": "-51.2307751"
 }

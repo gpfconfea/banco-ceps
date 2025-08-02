@@ -5,5 +5,7 @@
   "bairro": "Vila Campinas",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "latitude": "-19.8838233",
+  "longitude": "-43.7949404"
 }

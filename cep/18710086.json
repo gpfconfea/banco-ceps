@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora Aparecida",
   "localidade": "Arandu",
   "uf": "SP",
-  "ibge": "3503109"
+  "ibge": "3503109",
+  "latitude": "-20.82641",
+  "longitude": "-49.49732"
 }

@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "latitude": "-12.80877",
+  "longitude": "-42.16834"
 }

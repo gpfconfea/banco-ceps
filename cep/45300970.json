@@ -1,9 +1,11 @@
 {
   "cep": "45300970",
   "logradouro": "Praça Yolanda Avena Pires",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Amargosa",
   "uf": "BA",
-  "ibge": "2901007"
+  "ibge": "2901007",
+  "latitude": "-13.0295498",
+  "longitude": "-39.6044631"
 }

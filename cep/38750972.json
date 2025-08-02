@@ -1,9 +1,11 @@
 {
   "cep": "38750972",
   "logradouro": "Rodovia Santiago Galena",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santiago de Minas",
   "localidade": "Presidente Olegário",
   "uf": "MG",
-  "ibge": "3153400"
+  "ibge": "3153400",
+  "latitude": "-18.525278",
+  "longitude": "-46.305"
 }

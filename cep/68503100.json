@@ -5,5 +5,7 @@
   "bairro": "Belo Horizonte",
   "localidade": "Marabá",
   "uf": "PA",
-  "ibge": "1504208"
+  "ibge": "1504208",
+  "latitude": "-22.3725428",
+  "longitude": "-47.3882504"
 }

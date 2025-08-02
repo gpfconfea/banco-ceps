@@ -5,5 +5,7 @@
   "bairro": "Farias",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.26275",
+  "longitude": "-40.0395"
 }

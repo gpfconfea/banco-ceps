@@ -5,5 +5,7 @@
   "bairro": "Residencial Viviane",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-19.2167156",
+  "longitude": "-49.7893133"
 }

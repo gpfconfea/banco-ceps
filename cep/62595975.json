@@ -1,9 +1,11 @@
 {
   "cep": "62595975",
   "logradouro": "Rua Lagoa dos Monteiros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado dos Monteiros",
   "localidade": "Cruz",
   "uf": "CE",
-  "ibge": "2304251"
+  "ibge": "2304251",
+  "latitude": "-3.65813",
+  "longitude": "-41.00693"
 }

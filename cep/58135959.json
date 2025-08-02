@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Esperança",
   "uf": "PB",
-  "ibge": "2506004"
+  "ibge": "2506004",
+  "latitude": "-7.0202423",
+  "longitude": "-35.8571079"
 }

@@ -5,5 +5,7 @@
   "bairro": "Pinhal",
   "localidade": "Soledade",
   "uf": "RS",
-  "ibge": "4320800"
+  "ibge": "4320800",
+  "latitude": "-28.7188139",
+  "longitude": "-52.3232584"
 }

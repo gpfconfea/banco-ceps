@@ -5,5 +5,7 @@
   "bairro": "Residencial Thina",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.4697233",
+  "longitude": "-46.6131373"
 }

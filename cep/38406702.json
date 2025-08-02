@@ -6,5 +6,7 @@
   "bairro": "Aclimação",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.87235",
+  "longitude": "-48.23453"
 }

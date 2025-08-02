@@ -5,5 +5,7 @@
   "bairro": "Cassino",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-32.182392",
+  "longitude": "-52.1720914"
 }

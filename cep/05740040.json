@@ -5,5 +5,7 @@
   "bairro": "Chácara Pirajussara",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5220605",
+  "longitude": "-46.433745"
 }

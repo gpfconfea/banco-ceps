@@ -5,5 +5,7 @@
   "bairro": "Jardim Sol Nascente",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1611224",
+  "longitude": "-51.4466324"
 }

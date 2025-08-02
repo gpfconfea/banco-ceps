@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Rosa de Goiás",
   "uf": "GO",
-  "ibge": "5219506"
+  "ibge": "5219506",
+  "latitude": "-16.0839829",
+  "longitude": "-49.495326"
 }

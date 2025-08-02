@@ -1,9 +1,11 @@
 {
   "cep": "61939903",
   "logradouro": "Rua Central 1",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Industrial I",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "latitude": "-3.8535108",
+  "longitude": "-38.5989067"
 }

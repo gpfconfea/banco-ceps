@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Macambira",
   "uf": "SE",
-  "ibge": "2803708"
+  "ibge": "2803708",
+  "latitude": "-10.66487",
+  "longitude": "-37.5426"
 }

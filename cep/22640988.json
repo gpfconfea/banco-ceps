@@ -1,9 +1,11 @@
 {
   "cep": "22640988",
-  "logradouro": "Avenida das Américas 4666 Loja 106/P 39 Térreo Locker Correios",
+  "logradouro": "Avenida das Américas 4666 Loja 106/P 39 Térreo",
   "complemento": "",
   "bairro": "Barra da Tijuca",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.99942",
+  "longitude": "-43.35607"
 }

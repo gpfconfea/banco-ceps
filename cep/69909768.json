@@ -5,5 +5,7 @@
   "bairro": "Vila Acre",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-22.8198861",
+  "longitude": "-43.2698437"
 }

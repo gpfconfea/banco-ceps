@@ -5,5 +5,7 @@
   "bairro": "Rosário",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "latitude": "-18.9272615",
+  "longitude": "-48.2598679"
 }

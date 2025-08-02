@@ -1,9 +1,11 @@
 {
   "cep": "63297973",
   "logradouro": "Rua São Joaquim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Corrente",
   "localidade": "Jardim",
   "uf": "CE",
-  "ibge": "2307106"
+  "ibge": "2307106",
+  "latitude": "-22.7808142",
+  "longitude": "-43.288853"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alto Santo",
   "uf": "CE",
-  "ibge": "2300705"
+  "ibge": "2300705",
+  "latitude": "-5.5193124",
+  "longitude": "-38.2710609"
 }

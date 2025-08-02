@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rancho Alegre d'Oeste",
   "uf": "PR",
-  "ibge": "4121356"
+  "ibge": "4121356",
+  "latitude": "-24.3110523",
+  "longitude": "-52.9532435"
 }

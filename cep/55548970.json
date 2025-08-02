@@ -1,9 +1,11 @@
 {
   "cep": "55548970",
   "logradouro": "Rua Vereador José T. de Lira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Palmares",
   "uf": "PE",
-  "ibge": "2610004"
+  "ibge": "2610004",
+  "latitude": "-23.3255112",
+  "longitude": "-46.7010737"
 }

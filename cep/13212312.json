@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Jundiaí L",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1656494",
+  "longitude": "-46.9698387"
 }

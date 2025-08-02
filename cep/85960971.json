@@ -1,9 +1,11 @@
 {
   "cep": "85960971",
   "logradouro": "Rua Itaipu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Marechal Cândido Rondon",
   "uf": "PR",
-  "ibge": "4114609"
+  "ibge": "4114609",
+  "latitude": "-24.7059709",
+  "longitude": "-54.0752304"
 }

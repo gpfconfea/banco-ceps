@@ -1,9 +1,11 @@
 {
   "cep": "44830971",
   "logradouro": "Praça São Antonio Carlos Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Porto Feliz",
   "localidade": "Piritiba",
   "uf": "BA",
-  "ibge": "2924801"
+  "ibge": "2924801",
+  "latitude": "-11.7583879",
+  "longitude": "-40.7079498"
 }

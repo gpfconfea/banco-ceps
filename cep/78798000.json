@@ -5,5 +5,7 @@
   "bairro": "São José do Planalto",
   "localidade": "Pedra Preta",
   "uf": "MT",
-  "ibge": "5106372"
+  "ibge": "5106372",
+  "latitude": "-16.9903599",
+  "longitude": "-54.533819"
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Arborais",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8224",
+  "longitude": "-47.02432"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "59184971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cobé de Cima",
   "localidade": "Vera Cruz",
   "uf": "RN",
-  "ibge": "2414803"
+  "ibge": "2414803",
+  "latitude": "-15.8558707",
+  "longitude": "-43.95009"
 }
