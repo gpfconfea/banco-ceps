@@ -1,9 +1,11 @@
 {
   "cep": "46300971",
   "logradouro": "Travessa do Mercado Municipal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Várzea Grande",
   "localidade": "Caculé",
   "uf": "BA",
-  "ibge": "2905008"
+  "ibge": "2905008",
+  "latitude": "-10.82037",
+  "longitude": "-40.22307"
 }

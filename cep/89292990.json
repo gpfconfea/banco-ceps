@@ -1,9 +1,11 @@
 {
   "cep": "89292990",
   "logradouro": "Rua Carlos Muhlmann",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São Bento do Sul",
   "uf": "SC",
-  "ibge": "4215802"
+  "ibge": "4215802",
+  "latitude": "-26.27127",
+  "longitude": "-49.31957"
 }

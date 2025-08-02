@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Bauru",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.2676911",
+  "longitude": "-49.0686944"
 }

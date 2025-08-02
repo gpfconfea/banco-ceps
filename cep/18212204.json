@@ -5,5 +5,7 @@
   "bairro": "Vila Arruda",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.569896",
+  "longitude": "-48.0329902"
 }

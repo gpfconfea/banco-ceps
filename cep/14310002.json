@@ -5,5 +5,7 @@
   "bairro": "Garimpo",
   "localidade": "Batatais",
   "uf": "SP",
-  "ibge": "3505906"
+  "ibge": "3505906",
+  "latitude": "-20.89953",
+  "longitude": "-47.55982"
 }

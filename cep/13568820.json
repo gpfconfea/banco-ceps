@@ -5,5 +5,7 @@
   "bairro": "Residencial Astolpho Luiz do Prado",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-21.9966772",
+  "longitude": "-47.8549777"
 }

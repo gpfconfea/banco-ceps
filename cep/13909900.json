@@ -1,9 +1,11 @@
 {
   "cep": "13909900",
   "logradouro": "Rua Maria Balduíno Urbano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Três Pontes)",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-22.6979116",
+  "longitude": "-46.7202528"
 }

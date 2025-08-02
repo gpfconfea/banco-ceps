@@ -1,9 +1,11 @@
 {
   "cep": "44930970",
   "logradouro": "Rua Esperança",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Presidente Dutra",
   "uf": "BA",
-  "ibge": "2925600"
+  "ibge": "2925600",
+  "latitude": "-11.2957539",
+  "longitude": "-41.9880889"
 }

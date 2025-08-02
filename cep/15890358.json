@@ -5,5 +5,7 @@
   "bairro": "Progresso",
   "localidade": "Uchoa",
   "uf": "SP",
-  "ibge": "3555604"
+  "ibge": "3555604",
+  "latitude": "-20.95977",
+  "longitude": "-49.17358"
 }

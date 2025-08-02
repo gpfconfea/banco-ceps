@@ -1,9 +1,11 @@
 {
   "cep": "13908900",
   "logradouro": "Rua Henrique Rebieri",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Arcadas)",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-22.7222441",
+  "longitude": "-46.8414536"
 }

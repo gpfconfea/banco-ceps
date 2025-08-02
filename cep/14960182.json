@@ -5,5 +5,7 @@
   "bairro": "Vila Patti",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-20.3345291",
+  "longitude": "-40.4232391"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "77001910",
   "logradouro": "Praça Girassóis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Plano Diretor Norte",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "latitude": "-10.1868191",
+  "longitude": "-48.3336937"
 }

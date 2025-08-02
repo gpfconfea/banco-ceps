@@ -5,5 +5,7 @@
   "bairro": "São Vicente",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-22.821376",
+  "longitude": "-45.6639731"
 }

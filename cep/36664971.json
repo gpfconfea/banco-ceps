@@ -1,9 +1,11 @@
 {
   "cep": "36664971",
   "logradouro": "Rua Quinze de Novembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Angustura",
   "localidade": "Além Paraíba",
   "uf": "MG",
-  "ibge": "3101508"
+  "ibge": "3101508",
+  "latitude": "-21.8833465",
+  "longitude": "-42.6997399"
 }

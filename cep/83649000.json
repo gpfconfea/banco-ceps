@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.3193609",
+  "longitude": "-49.5577517"
 }

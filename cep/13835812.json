@@ -5,5 +5,7 @@
   "bairro": "Residencial Reserva Colonial",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "latitude": "-22.3357635",
+  "longitude": "-47.174172"
 }

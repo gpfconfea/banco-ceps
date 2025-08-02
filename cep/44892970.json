@@ -1,9 +1,11 @@
 {
   "cep": "44892970",
   "logradouro": "Praça Senhor José Soares França",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Salobro",
   "localidade": "Canarana",
   "uf": "BA",
-  "ibge": "2906204"
+  "ibge": "2906204",
+  "latitude": "-11.6862665",
+  "longitude": "-41.7680836"
 }

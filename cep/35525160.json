@@ -5,5 +5,7 @@
   "bairro": "Lincoln Nogueira",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8640859",
+  "longitude": "-44.9841138"
 }

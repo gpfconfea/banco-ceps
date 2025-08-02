@@ -5,5 +5,7 @@
   "bairro": "Jardim Alterópolis",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5125609",
+  "longitude": "-46.289831"
 }

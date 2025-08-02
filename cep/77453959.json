@@ -1,9 +1,11 @@
 {
   "cep": "77453959",
   "logradouro": "Avenida Bernardo Sayão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Cariri do Tocantins",
   "uf": "TO",
-  "ibge": "1703867"
+  "ibge": "1703867",
+  "latitude": "-11.8920941",
+  "longitude": "-49.1616728"
 }

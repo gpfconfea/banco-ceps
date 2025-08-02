@@ -5,5 +5,7 @@
   "bairro": "Loteamento Jardim Primavera",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.7131496",
+  "longitude": "-45.443667"
 }

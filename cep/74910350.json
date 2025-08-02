@@ -5,5 +5,7 @@
   "bairro": "Vila Santos Dumont",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7304604",
+  "longitude": "-49.3207059"
 }

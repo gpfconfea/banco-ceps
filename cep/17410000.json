@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Álvaro de Carvalho",
   "uf": "SP",
-  "ibge": "3501400"
+  "ibge": "3501400",
+  "latitude": "-22.0787992",
+  "longitude": "-49.7194861"
 }

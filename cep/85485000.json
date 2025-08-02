@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Três Barras do Paraná",
   "uf": "PR",
-  "ibge": "4127858"
+  "ibge": "4127858",
+  "latitude": "-25.4212699",
+  "longitude": "-53.1837577"
 }

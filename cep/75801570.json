@@ -5,5 +5,7 @@
   "bairro": "Setor Francisco Antônio",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "latitude": "-23.5602999",
+  "longitude": "-47.4589277"
 }

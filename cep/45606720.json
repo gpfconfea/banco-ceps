@@ -5,5 +5,7 @@
   "bairro": "Maria Pinheiro",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "latitude": "-14.8124778",
+  "longitude": "-39.2620603"
 }

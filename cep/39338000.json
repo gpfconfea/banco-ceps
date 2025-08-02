@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campo Azul",
   "uf": "MG",
-  "ibge": "3111150"
+  "ibge": "3111150",
+  "latitude": "-16.5078525",
+  "longitude": "-44.8133524"
 }

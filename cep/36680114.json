@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João Nepomuceno",
   "uf": "MG",
-  "ibge": "3162906"
+  "ibge": "3162906",
+  "latitude": "-21.5386409",
+  "longitude": "-43.0091382"
 }

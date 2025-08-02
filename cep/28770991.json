@@ -1,9 +1,11 @@
 {
   "cep": "28770991",
   "logradouro": "Rua São Pedro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Santa Maria Madalena",
   "uf": "RJ",
-  "ibge": "3304607"
+  "ibge": "3304607",
+  "latitude": "38.7146813",
+  "longitude": "-9.1358564"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.8623761",
+  "longitude": "-47.4880438"
 }

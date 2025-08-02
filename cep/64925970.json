@@ -1,9 +1,11 @@
 {
   "cep": "64925970",
   "logradouro": "Rua Simão Borges",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Palmeira do Piauí",
   "uf": "PI",
-  "ibge": "2207405"
+  "ibge": "2207405",
+  "latitude": "-8.7272702",
+  "longitude": "-44.2345144"
 }

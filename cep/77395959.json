@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Porto Alegre do Tocantins",
   "uf": "TO",
-  "ibge": "1718006"
+  "ibge": "1718006",
+  "latitude": "-11.60711",
+  "longitude": "-47.05089"
 }

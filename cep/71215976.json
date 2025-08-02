@@ -1,9 +1,11 @@
 {
   "cep": "71215976",
   "logradouro": "SGCV Lote 16/19 Compartimento D",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Zona Industrial (Guará)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.77829",
+  "longitude": "-47.92909"
 }

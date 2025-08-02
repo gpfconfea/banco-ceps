@@ -5,5 +5,7 @@
   "bairro": "Residencial Floresta",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4753261",
+  "longitude": "-46.9472026"
 }

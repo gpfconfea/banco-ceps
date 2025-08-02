@@ -1,9 +1,11 @@
 {
   "cep": "62962976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Peixe Gordo",
   "localidade": "Tabuleiro do Norte",
   "uf": "CE",
-  "ibge": "2313104"
+  "ibge": "2313104",
+  "latitude": "-5.2475228",
+  "longitude": "-38.1288033"
 }

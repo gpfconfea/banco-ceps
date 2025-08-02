@@ -1,9 +1,11 @@
 {
   "cep": "99153970",
   "logradouro": "Estrada Marau",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Veado Pardo",
   "localidade": "Marau",
   "uf": "RS",
-  "ibge": "4311809"
+  "ibge": "4311809",
+  "latitude": "-13.9161214",
+  "longitude": "-38.9488363"
 }

@@ -5,5 +5,7 @@
   "bairro": "Solar do Madeira",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.89684",
+  "longitude": "-44.13547"
 }

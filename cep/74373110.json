@@ -5,5 +5,7 @@
   "bairro": "Loteamento Celina Park",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7071923",
+  "longitude": "-49.3232409"
 }

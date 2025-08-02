@@ -5,5 +5,7 @@
   "bairro": "Jardim Eneides Residencial",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.73889",
+  "longitude": "-47.41232"
 }

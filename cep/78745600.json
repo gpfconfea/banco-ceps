@@ -5,5 +5,7 @@
   "bairro": "Jardim Morumbi",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "latitude": "-21.4159267",
+  "longitude": "-50.054966"
 }

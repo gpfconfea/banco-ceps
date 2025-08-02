@@ -5,5 +5,7 @@
   "bairro": "Chácaras Vista Alegre",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.4072026",
+  "longitude": "-46.2799519"
 }

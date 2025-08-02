@@ -1,9 +1,11 @@
 {
   "cep": "78396970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tapirapua",
   "localidade": "Barra do Bugres",
   "uf": "MT",
-  "ibge": "5101704"
+  "ibge": "5101704",
+  "latitude": "-14.9238497",
+  "longitude": "-56.8421248"
 }

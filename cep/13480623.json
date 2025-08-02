@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rosália",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5825388",
+  "longitude": "-47.4050846"
 }

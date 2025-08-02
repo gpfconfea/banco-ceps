@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Florânia",
   "uf": "RN",
-  "ibge": "2403806"
+  "ibge": "2403806",
+  "latitude": "-5.5729",
+  "longitude": "-36.90713"
 }

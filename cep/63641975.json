@@ -1,9 +1,11 @@
 {
   "cep": "63641975",
   "logradouro": "Rua Manoel Ferreira de Melo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ematuba",
   "localidade": "Independência",
   "uf": "CE",
-  "ibge": "2305605"
+  "ibge": "2305605",
+  "latitude": "-5.2019756",
+  "longitude": "-40.1778986"
 }

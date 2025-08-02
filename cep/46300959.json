@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caculé",
   "uf": "BA",
-  "ibge": "2905008"
+  "ibge": "2905008",
+  "latitude": "-14.5068304",
+  "longitude": "-42.2236509"
 }

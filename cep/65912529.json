@@ -5,5 +5,7 @@
   "bairro": "Jardim Lopes",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.4763244",
+  "longitude": "-47.437727"
 }

@@ -5,5 +5,7 @@
   "bairro": "Itaberaba",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.1114828",
+  "longitude": "-48.9092031"
 }

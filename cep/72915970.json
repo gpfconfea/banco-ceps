@@ -1,9 +1,11 @@
 {
   "cep": "72915970",
   "logradouro": "Quadra 37 Lote 3",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Brasília",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "latitude": "-16.0733646",
+  "longitude": "-47.9742785"
 }

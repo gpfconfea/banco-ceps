@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.3535498",
+  "longitude": "-48.2245137"
 }

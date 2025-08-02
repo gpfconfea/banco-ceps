@@ -1,9 +1,11 @@
 {
   "cep": "57200959",
   "logradouro": "Avenida Floriano Peixoto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Penedo",
   "uf": "AL",
-  "ibge": "2706703"
+  "ibge": "2706703",
+  "latitude": "-10.2907622",
+  "longitude": "-36.5853545"
 }

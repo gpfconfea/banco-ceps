@@ -5,5 +5,7 @@
   "bairro": "Dona Rosa",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-20.169056",
+  "longitude": "-44.8557137"
 }

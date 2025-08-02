@@ -5,5 +5,7 @@
   "bairro": "Jardim Coral",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3032849",
+  "longitude": "-49.0845156"
 }

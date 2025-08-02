@@ -5,5 +5,7 @@
   "bairro": "Fronteira Sul",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.10243",
+  "longitude": "-52.70038"
 }

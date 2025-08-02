@@ -1,9 +1,11 @@
 {
   "cep": "59586971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pereiros",
   "localidade": "Parazinho",
   "uf": "RN",
-  "ibge": "2408805"
+  "ibge": "2408805",
+  "latitude": "-5.2797157",
+  "longitude": "-35.9867498"
 }

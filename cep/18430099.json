@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Ribeirão Branco",
   "uf": "SP",
-  "ibge": "3543006"
+  "ibge": "3543006",
+  "latitude": "-24.2309112",
+  "longitude": "-48.7687614"
 }

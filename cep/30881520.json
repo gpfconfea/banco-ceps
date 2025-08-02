@@ -5,5 +5,7 @@
   "bairro": "Novo Glória",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9007784",
+  "longitude": "-44.0183487"
 }

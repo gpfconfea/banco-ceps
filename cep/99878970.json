@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tupanci do Sul",
   "uf": "RS",
-  "ibge": "4322186"
+  "ibge": "4322186",
+  "latitude": "-27.9232528",
+  "longitude": "-51.5401284"
 }

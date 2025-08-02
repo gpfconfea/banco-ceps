@@ -1,9 +1,11 @@
 {
   "cep": "89744970",
   "logradouro": "Rua do Saber",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Estrela",
   "localidade": "Arabutã",
   "uf": "SC",
-  "ibge": "4201273"
+  "ibge": "4201273",
+  "latitude": "-27.150481",
+  "longitude": "-52.2048407"
 }

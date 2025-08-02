@@ -5,5 +5,7 @@
   "bairro": "Residencial Porto Seguro",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.35071",
+  "longitude": "-49.49889"
 }

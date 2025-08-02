@@ -5,5 +5,7 @@
   "bairro": "Lameiro",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "latitude": "-5.4529033",
+  "longitude": "-39.7160823"
 }

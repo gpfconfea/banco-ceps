@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guarantã",
   "uf": "SP",
-  "ibge": "3518107"
+  "ibge": "3518107",
+  "latitude": "-23.54527",
+  "longitude": "-46.63349"
 }

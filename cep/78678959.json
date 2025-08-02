@@ -1,9 +1,11 @@
 {
   "cep": "78678959",
   "logradouro": "Rua Dois Quadra 44 Lote 8",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bom Jesus do Araguaia",
   "uf": "MT",
-  "ibge": "5101852"
+  "ibge": "5101852",
+  "latitude": "-12.17453",
+  "longitude": "-51.50652"
 }

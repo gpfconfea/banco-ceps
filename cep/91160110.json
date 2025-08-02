@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa de Lima",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-29.3394935",
+  "longitude": "-49.7404173"
 }

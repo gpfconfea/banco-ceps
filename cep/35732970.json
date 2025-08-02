@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Baldim",
   "uf": "MG",
-  "ibge": "3105004"
+  "ibge": "3105004",
+  "latitude": "-19.327666",
+  "longitude": "-43.9337267"
 }

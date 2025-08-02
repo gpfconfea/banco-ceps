@@ -5,5 +5,7 @@
   "bairro": "Provedor I",
   "localidade": "Santana",
   "uf": "AP",
-  "ibge": "1600600"
+  "ibge": "1600600",
+  "latitude": "-0.0444307",
+  "longitude": "-51.1523002"
 }

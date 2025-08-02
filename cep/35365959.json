@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Abre Campo",
   "uf": "MG",
-  "ibge": "3100302"
+  "ibge": "3100302",
+  "latitude": "-20.3018607",
+  "longitude": "-42.4783803"
 }

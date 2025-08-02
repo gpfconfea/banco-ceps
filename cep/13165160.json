@@ -5,5 +5,7 @@
   "bairro": "São João dos Pinheiros",
   "localidade": "Artur Nogueira",
   "uf": "SP",
-  "ibge": "3503802"
+  "ibge": "3503802",
+  "latitude": "-22.5670308",
+  "longitude": "-47.1606086"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cedral",
   "uf": "MA",
-  "ibge": "2103109"
+  "ibge": "2103109",
+  "latitude": "-2.0034406",
+  "longitude": "-44.5341727"
 }

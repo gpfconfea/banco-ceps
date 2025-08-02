@@ -1,9 +1,11 @@
 {
   "cep": "63136990",
   "logradouro": "Rua Vicente Teles",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "latitude": "-7.1624437",
+  "longitude": "-39.5321375"
 }

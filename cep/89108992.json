@@ -1,9 +1,11 @@
 {
   "cep": "89108992",
   "logradouro": "Rua Benjamin Constant",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Massaranduba",
   "uf": "SC",
-  "ibge": "4210605"
+  "ibge": "4210605",
+  "latitude": "-26.614199",
+  "longitude": "-49.073787"
 }

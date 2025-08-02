@@ -1,9 +1,11 @@
 {
   "cep": "38995970",
   "logradouro": "Rua Brasiliano Pereira Cardoso",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cachoeirinha",
   "localidade": "Córrego Danta",
   "uf": "MG",
-  "ibge": "3119807"
+  "ibge": "3119807",
+  "latitude": "-19.8238155",
+  "longitude": "-45.9042482"
 }

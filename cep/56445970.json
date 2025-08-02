@@ -1,9 +1,11 @@
 {
   "cep": "56445970",
   "logradouro": "Rua Sargento João Eufrásio da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Riacho Pequeno",
   "localidade": "Belém do São Francisco",
   "uf": "PE",
-  "ibge": "2601607"
+  "ibge": "2601607",
+  "latitude": "-8.4392756",
+  "longitude": "-39.0331258"
 }

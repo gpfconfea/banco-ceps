@@ -1,9 +1,11 @@
 {
   "cep": "43855970",
   "logradouro": "Avenida Bahia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lamarão do Passe",
   "localidade": "São Sebastião do Passé",
   "uf": "BA",
-  "ibge": "2929503"
+  "ibge": "2929503",
+  "latitude": "-12.618955",
+  "longitude": "-38.3784091"
 }

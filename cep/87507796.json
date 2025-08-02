@@ -5,5 +5,7 @@
   "bairro": "Parque Colina Verde",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.77456",
+  "longitude": "-53.29463"
 }

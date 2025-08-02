@@ -5,5 +5,7 @@
   "bairro": "Coco",
   "localidade": "Moeda",
   "uf": "MG",
-  "ibge": "3142304"
+  "ibge": "3142304",
+  "latitude": "-20.304519",
+  "longitude": "-44.019115"
 }

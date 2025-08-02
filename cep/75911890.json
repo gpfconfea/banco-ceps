@@ -5,5 +5,7 @@
   "bairro": "Zona Industrial e de Serviço III",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-17.78517",
+  "longitude": "-50.90016"
 }

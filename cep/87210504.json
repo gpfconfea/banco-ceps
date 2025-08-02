@@ -6,5 +6,7 @@
   "bairro": "Forest Hill",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "-25.43999",
+  "longitude": "-49.27655"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29889982",
   "logradouro": "Praça Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itamira",
   "localidade": "Ponto Belo",
   "uf": "ES",
-  "ibge": "3204252"
+  "ibge": "3204252",
+  "latitude": "-18.1236627",
+  "longitude": "-40.5420969"
 }

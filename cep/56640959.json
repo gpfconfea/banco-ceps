@@ -1,9 +1,11 @@
 {
   "cep": "56640959",
   "logradouro": "Avenida Inocêncio de Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Custódia",
   "uf": "PE",
-  "ibge": "2605103"
+  "ibge": "2605103",
+  "latitude": "-8.08973",
+  "longitude": "-37.64409"
 }

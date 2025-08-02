@@ -1,9 +1,11 @@
 {
   "cep": "48895971",
   "logradouro": "Rua João Torquato",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Domingos",
   "uf": "BA",
-  "ibge": "2928950"
+  "ibge": "2928950",
+  "latitude": "-11.4658766",
+  "longitude": "-39.5277864"
 }

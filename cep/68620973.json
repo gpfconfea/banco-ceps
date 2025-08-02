@@ -1,9 +1,11 @@
 {
   "cep": "68620973",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Viseu",
   "uf": "PA",
-  "ibge": "1508308"
+  "ibge": "1508308",
+  "latitude": "40.63154",
+  "longitude": "-7.8503009"
 }

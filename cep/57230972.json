@@ -1,9 +1,11 @@
 {
   "cep": "57230972",
   "logradouro": "Rua José Carvalho de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Coruripe",
   "uf": "AL",
-  "ibge": "2702306"
+  "ibge": "2702306",
+  "latitude": "-10.1602051",
+  "longitude": "-36.1557548"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63984972",
   "logradouro": "Rua da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Oiticica",
   "localidade": "Ibaretama",
   "uf": "CE",
-  "ibge": "2305266"
+  "ibge": "2305266",
+  "latitude": "-4.6948414",
+  "longitude": "-38.6969189"
 }

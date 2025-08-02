@@ -1,9 +1,11 @@
 {
   "cep": "55385970",
   "logradouro": "Rua Major Capitu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Lajedo",
   "uf": "PE",
-  "ibge": "2608800"
+  "ibge": "2608800",
+  "latitude": "-8.6524222",
+  "longitude": "-36.3152335"
 }

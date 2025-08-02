@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3979003",
+  "longitude": "-51.9459057"
 }

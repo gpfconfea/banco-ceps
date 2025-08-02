@@ -1,9 +1,11 @@
 {
   "cep": "46520971",
   "logradouro": "Vila Canatiba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa Clara",
   "localidade": "Macaúbas",
   "uf": "BA",
-  "ibge": "2919801"
+  "ibge": "2919801",
+  "latitude": "-13.0863454",
+  "longitude": "-42.8539705"
 }

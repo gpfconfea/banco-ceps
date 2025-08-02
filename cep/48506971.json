@@ -1,9 +1,11 @@
 {
   "cep": "48506971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caimbé",
   "localidade": "Euclides da Cunha",
   "uf": "BA",
-  "ibge": "2910701"
+  "ibge": "2910701",
+  "latitude": "-10.4750162",
+  "longitude": "-38.8555791"
 }

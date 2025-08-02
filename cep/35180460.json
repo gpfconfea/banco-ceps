@@ -5,5 +5,7 @@
   "bairro": "Getúlio Vargas",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "latitude": "-19.5422899",
+  "longitude": "-42.6436477"
 }
