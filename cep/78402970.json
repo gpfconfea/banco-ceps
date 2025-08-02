@@ -5,5 +5,7 @@
   "bairro": "Novo Diamantino",
   "localidade": "Diamantino",
   "uf": "MT",
-  "ibge": "5103502"
+  "ibge": "5103502",
+  "latitude": "-14.379642",
+  "longitude": "-56.380077"
 }

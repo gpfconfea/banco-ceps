@@ -5,5 +5,7 @@
   "bairro": "Araras",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "latitude": "-23.3372055",
+  "longitude": "-51.1662522"
 }

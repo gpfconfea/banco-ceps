@@ -5,5 +5,7 @@
   "bairro": "Jardim Varan",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5093646",
+  "longitude": "-46.2935718"
 }

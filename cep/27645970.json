@@ -1,9 +1,11 @@
 {
   "cep": "27645970",
   "logradouro": "Rua Coronel João Esteves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pentagna",
   "localidade": "Valença",
   "uf": "RJ",
-  "ibge": "3306107"
+  "ibge": "3306107",
+  "latitude": "-22.1590258",
+  "longitude": "-43.7519773"
 }

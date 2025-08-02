@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-14.0182682",
+  "longitude": "-39.8875707"
 }

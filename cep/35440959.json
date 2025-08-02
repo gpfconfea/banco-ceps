@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dom Silvério",
   "uf": "MG",
-  "ibge": "3122702"
+  "ibge": "3122702",
+  "latitude": "-20.16316",
+  "longitude": "-42.96618"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Reserva do Cabaçal",
   "uf": "MT",
-  "ibge": "5107156"
+  "ibge": "5107156",
+  "latitude": "-15.1231491",
+  "longitude": "-58.3833502"
 }

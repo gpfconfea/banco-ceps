@@ -5,5 +5,7 @@
   "bairro": "Vila Monte Belo",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.484794",
+  "longitude": "-46.37378"
 }

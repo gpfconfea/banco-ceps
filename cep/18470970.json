@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Riversul",
   "uf": "SP",
-  "ibge": "3543501"
+  "ibge": "3543501",
+  "latitude": "-23.8268111",
+  "longitude": "-49.4353784"
 }

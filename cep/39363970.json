@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Engenheiro Navarro",
   "uf": "MG",
-  "ibge": "3123809"
+  "ibge": "3123809",
+  "latitude": "-17.2837667",
+  "longitude": "-43.9502919"
 }

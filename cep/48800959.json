@@ -1,9 +1,11 @@
 {
   "cep": "48800959",
   "logradouro": "Rua Teixeira de Freitas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Monte Santo",
   "uf": "BA",
-  "ibge": "2921500"
+  "ibge": "2921500",
+  "latitude": "-17.1692763",
+  "longitude": "-40.3280147"
 }

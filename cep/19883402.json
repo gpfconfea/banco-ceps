@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Sebastião Alves Borges",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.7574128",
+  "longitude": "-50.379557"
 }

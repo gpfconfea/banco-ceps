@@ -1,9 +1,11 @@
 {
   "cep": "39672971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Padre João Afonso",
   "localidade": "Itamarandiba",
   "uf": "MG",
-  "ibge": "3132503"
+  "ibge": "3132503",
+  "latitude": "-18.0266156",
+  "longitude": "-42.8509594"
 }

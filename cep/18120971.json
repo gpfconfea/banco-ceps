@@ -1,9 +1,11 @@
 {
   "cep": "18120971",
   "logradouro": "Estrada Municipal Cerim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dona Catarina",
   "localidade": "Mairinque",
   "uf": "SP",
-  "ibge": "3528403"
+  "ibge": "3528403",
+  "latitude": "-23.5470731",
+  "longitude": "-47.1836061"
 }

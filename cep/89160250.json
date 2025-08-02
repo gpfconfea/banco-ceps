@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Rio do Sul",
   "uf": "SC",
-  "ibge": "4214805"
+  "ibge": "4214805",
+  "latitude": "-27.2129899",
+  "longitude": "-49.6311527"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Poloni",
   "uf": "SP",
-  "ibge": "3539905"
+  "ibge": "3539905",
+  "latitude": "-20.78857",
+  "longitude": "-49.81623"
 }

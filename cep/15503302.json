@@ -5,5 +5,7 @@
   "bairro": "Vila Formosa",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-23.4822048",
+  "longitude": "-46.5532262"
 }

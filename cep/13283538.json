@@ -5,5 +5,7 @@
   "bairro": "Bosque",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-23.018154",
+  "longitude": "-46.9726291"
 }

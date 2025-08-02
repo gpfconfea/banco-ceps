@@ -5,5 +5,7 @@
   "bairro": "Residencial Monjolo",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "latitude": "-22.9325317",
+  "longitude": "-46.5302084"
 }

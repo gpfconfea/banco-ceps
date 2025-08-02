@@ -5,5 +5,7 @@
   "bairro": "Belenzinho",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5388299",
+  "longitude": "-46.5972475"
 }

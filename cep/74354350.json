@@ -5,5 +5,7 @@
   "bairro": "Setor Cristina",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7660668",
+  "longitude": "-49.3548376"
 }

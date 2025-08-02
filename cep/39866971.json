@@ -1,9 +1,11 @@
 {
   "cep": "39866971",
   "logradouro": "Rua Teófilo Otoni",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Epaminondas Otoni",
   "localidade": "Carlos Chagas",
   "uf": "MG",
-  "ibge": "3113701"
+  "ibge": "3113701",
+  "latitude": "-17.9124757",
+  "longitude": "-41.0120068"
 }

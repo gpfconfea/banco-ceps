@@ -5,5 +5,7 @@
   "bairro": "São Gonçalo",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9434524",
+  "longitude": "-38.4568982"
 }

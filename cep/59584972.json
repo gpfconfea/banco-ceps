@@ -1,9 +1,11 @@
 {
   "cep": "59584972",
   "logradouro": "Distrito de Cajueiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado de Cajueiro",
   "localidade": "Touros",
   "uf": "RN",
-  "ibge": "2414407"
+  "ibge": "2414407",
+  "latitude": "-5.1947659",
+  "longitude": "-35.4645872"
 }

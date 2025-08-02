@@ -5,5 +5,7 @@
   "bairro": "Irapuan",
   "localidade": "Quinta do Sol",
   "uf": "PR",
-  "ibge": "4121109"
+  "ibge": "4121109",
+  "latitude": "-23.764038",
+  "longitude": "-52.096618"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62595973",
   "logradouro": "Comunidade de Paraguai",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paraguai",
   "localidade": "Cruz",
   "uf": "CE",
-  "ibge": "2304251"
+  "ibge": "2304251",
+  "latitude": "-2.9109867",
+  "longitude": "-40.4099212"
 }

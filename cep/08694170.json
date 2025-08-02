@@ -5,5 +5,7 @@
   "bairro": "Jardim Revista",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5150798",
+  "longitude": "-46.2933708"
 }

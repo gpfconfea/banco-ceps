@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chapadão do Lageado",
   "uf": "SC",
-  "ibge": "4204194"
+  "ibge": "4204194",
+  "latitude": "-27.5861102",
+  "longitude": "-49.5465991"
 }

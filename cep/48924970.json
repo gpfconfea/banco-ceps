@@ -1,9 +1,11 @@
 {
   "cep": "48924970",
   "logradouro": "Praça Honório Soares",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pinhões",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-22.1909684",
+  "longitude": "-46.7496572"
 }

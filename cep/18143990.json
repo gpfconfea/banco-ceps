@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.53853",
+  "longitude": "-47.13417"
 }

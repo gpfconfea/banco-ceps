@@ -1,9 +1,11 @@
 {
   "cep": "46180970",
   "logradouro": "Rua da Usina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Érico Cardoso",
   "uf": "BA",
-  "ibge": "2900504"
+  "ibge": "2900504",
+  "latitude": "-13.5027542",
+  "longitude": "-42.0746285"
 }

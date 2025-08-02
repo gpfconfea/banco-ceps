@@ -1,9 +1,11 @@
 {
   "cep": "57080900",
   "logradouro": "Avenida Hélio de Castro Vasconcelos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Petrópolis",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.5929359",
+  "longitude": "-35.7371856"
 }

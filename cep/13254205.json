@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Pedro Fumachi",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-20.6216492",
+  "longitude": "-49.6687034"
 }

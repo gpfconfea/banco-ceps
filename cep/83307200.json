@@ -5,5 +5,7 @@
   "bairro": "Jardim Diguimabri",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.5244241",
+  "longitude": "-49.0589565"
 }

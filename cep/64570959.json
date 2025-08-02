@@ -1,9 +1,11 @@
 {
   "cep": "64570959",
   "logradouro": "Rua São Francisco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Isaías Coelho",
   "uf": "PI",
-  "ibge": "2204907"
+  "ibge": "2204907",
+  "latitude": "-7.7350405",
+  "longitude": "-41.6821155"
 }

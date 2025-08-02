@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dois Córregos",
   "uf": "SP",
-  "ibge": "3514106"
+  "ibge": "3514106",
+  "latitude": "-23.70146",
+  "longitude": "-46.55623"
 }

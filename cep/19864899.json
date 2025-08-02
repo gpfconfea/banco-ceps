@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Cruzália",
   "localidade": "Cruzália",
   "uf": "SP",
-  "ibge": "3513306"
+  "ibge": "3513306",
+  "latitude": "-22.74392",
+  "longitude": "-50.78989"
 }

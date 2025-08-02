@@ -1,9 +1,11 @@
 {
   "cep": "89772970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caraíba",
   "localidade": "Seara",
   "uf": "SC",
-  "ibge": "4217501"
+  "ibge": "4217501",
+  "latitude": "-27.2130668",
+  "longitude": "-52.3271924"
 }

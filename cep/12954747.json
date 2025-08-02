@@ -6,5 +6,7 @@
   "bairro": "Tanque",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.0361",
+  "longitude": "-46.57584"
 }

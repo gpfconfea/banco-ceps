@@ -5,5 +5,7 @@
   "bairro": "Jardim São Sebastião",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.272807",
+  "longitude": "-45.9034904"
 }

@@ -5,5 +5,7 @@
   "bairro": "Caçapava Velha",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.1211689",
+  "longitude": "-45.6456355"
 }

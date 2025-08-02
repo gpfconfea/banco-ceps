@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "São Leopoldo",
   "uf": "RS",
-  "ibge": "4318705"
+  "ibge": "4318705",
+  "latitude": "-29.7667662",
+  "longitude": "-51.1597589"
 }

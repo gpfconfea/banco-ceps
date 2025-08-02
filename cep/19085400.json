@@ -5,5 +5,7 @@
   "bairro": "Jardim Ouro Verde",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1115878",
+  "longitude": "-51.437842"
 }

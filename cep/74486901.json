@@ -1,9 +1,11 @@
 {
   "cep": "74486901",
   "logradouro": "Avenida Santa Maria",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Condomínio Residencial Santa Maria I",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-15.858886",
+  "longitude": "-48.9600903"
 }

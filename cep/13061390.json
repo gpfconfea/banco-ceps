@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Recanto dos Pássaros",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9061588",
+  "longitude": "-47.1214139"
 }

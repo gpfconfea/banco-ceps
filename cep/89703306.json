@@ -5,5 +5,7 @@
   "bairro": "Petrópolis",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "latitude": "-27.2214016",
+  "longitude": "-52.0475573"
 }

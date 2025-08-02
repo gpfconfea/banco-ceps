@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim do Bosque",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-23.6503027",
+  "longitude": "-46.4459143"
 }

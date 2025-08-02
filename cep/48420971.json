@@ -1,9 +1,11 @@
 {
   "cep": "48420971",
   "logradouro": "Praça Inácio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Vista",
   "localidade": "Antas",
   "uf": "BA",
-  "ibge": "2901601"
+  "ibge": "2901601",
+  "latitude": "-12.9298406",
+  "longitude": "-38.4618966"
 }

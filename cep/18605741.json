@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Popular Altos",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.9233445",
+  "longitude": "-48.440797"
 }

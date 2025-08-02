@@ -1,10 +1,12 @@
 {
   "cep": "35661900",
   "logradouro": "Estrada dos Costas",
-  "complemento": "s/n",
+  "complemento": "",
   "unidade": "Penitenciária de Pará de Minas I - Doutor Pio Canedo",
   "bairro": "Papa João Paulo II",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "latitude": "-19.4938653",
+  "longitude": "-44.7518828"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "48860972",
   "logradouro": "Praça do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoinha",
   "localidade": "Queimadas",
   "uf": "BA",
-  "ibge": "2925808"
+  "ibge": "2925808",
+  "latitude": "-11.8655179",
+  "longitude": "-41.752874"
 }

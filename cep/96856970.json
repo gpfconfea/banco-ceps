@@ -1,9 +1,11 @@
 {
   "cep": "96856970",
   "logradouro": "Estrada Rio Pardinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio Pardinho",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "latitude": "-29.2858996",
+  "longitude": "-52.5718973"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Couto",
   "localidade": "Cubatão",
   "uf": "SP",
-  "ibge": "3513504"
+  "ibge": "3513504",
+  "latitude": "-23.9444194",
+  "longitude": "-46.3767707"
 }

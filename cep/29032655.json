@@ -5,5 +5,7 @@
   "bairro": "Resistência",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "latitude": "-20.27418",
+  "longitude": "-40.31985"
 }

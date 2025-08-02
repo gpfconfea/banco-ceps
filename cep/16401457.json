@@ -5,5 +5,7 @@
   "bairro": "Parque Ferroviário",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.6560858",
+  "longitude": "-49.739858"
 }

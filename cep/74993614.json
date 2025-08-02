@@ -5,5 +5,7 @@
   "bairro": "Setor Buenos Aires - 1ª Etapa",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7221675",
+  "longitude": "-49.2713655"
 }

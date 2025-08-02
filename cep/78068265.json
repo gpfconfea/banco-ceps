@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-16.4480246",
+  "longitude": "-54.6709158"
 }

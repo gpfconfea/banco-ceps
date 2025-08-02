@@ -1,9 +1,11 @@
 {
   "cep": "28637972",
   "logradouro": "Estrada da Escola Municipalizada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dona Mariana",
   "localidade": "Sumidouro",
   "uf": "RJ",
-  "ibge": "3305703"
+  "ibge": "3305703",
+  "latitude": "-22.152253",
+  "longitude": "-42.6223802"
 }

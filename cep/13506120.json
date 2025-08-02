@@ -5,5 +5,7 @@
   "bairro": "Jardim Parque Residencial",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "latitude": "-22.3746284",
+  "longitude": "-47.5533263"
 }

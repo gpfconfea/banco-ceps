@@ -1,9 +1,11 @@
 {
   "cep": "48404970",
   "logradouro": "Praça Domingos Ferreira Brito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barrocão",
   "localidade": "Ribeira do Pombal",
   "uf": "BA",
-  "ibge": "2926608"
+  "ibge": "2926608",
+  "latitude": "-10.8364886",
+  "longitude": "-38.5439651"
 }

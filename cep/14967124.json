@@ -6,5 +6,7 @@
   "bairro": "Vila Mariana",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.46754",
+  "longitude": "-49.21377"
 }

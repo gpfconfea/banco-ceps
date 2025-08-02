@@ -5,5 +5,7 @@
   "bairro": "São Francisco de Assis",
   "localidade": "Cachoeiras de Macacu",
   "uf": "RJ",
-  "ibge": "3300803"
+  "ibge": "3300803",
+  "latitude": "-22.4717296",
+  "longitude": "-42.6540901"
 }

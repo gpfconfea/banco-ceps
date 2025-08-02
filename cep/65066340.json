@@ -5,5 +5,7 @@
   "bairro": "Turu",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-22.8907239",
+  "longitude": "-43.7197158"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78782970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Buriti",
   "localidade": "Alto Araguaia",
   "uf": "MT",
-  "ibge": "5100300"
+  "ibge": "5100300",
+  "latitude": "-17.9789383",
+  "longitude": "-53.5511412"
 }

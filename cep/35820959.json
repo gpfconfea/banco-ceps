@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itambé do Mato Dentro",
   "uf": "MG",
-  "ibge": "3132800"
+  "ibge": "3132800",
+  "latitude": "-19.41463",
+  "longitude": "-43.32217"
 }

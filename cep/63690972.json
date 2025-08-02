@@ -1,9 +1,11 @@
 {
   "cep": "63690972",
   "logradouro": "Rua José Alexandre Noronha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Novo Assis",
   "localidade": "Parambu",
   "uf": "CE",
-  "ibge": "2310308"
+  "ibge": "2310308",
+  "latitude": "-6.0279289",
+  "longitude": "-40.5838201"
 }

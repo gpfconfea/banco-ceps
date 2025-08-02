@@ -1,9 +1,11 @@
 {
   "cep": "46980970",
   "logradouro": "Rua Marechal Castelo Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Iraquara",
   "uf": "BA",
-  "ibge": "2914406"
+  "ibge": "2914406",
+  "latitude": "-12.25724",
+  "longitude": "-38.94291"
 }

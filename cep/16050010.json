@@ -5,5 +5,7 @@
   "bairro": "São Vicente",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-21.4028728",
+  "longitude": "-50.0902371"
 }

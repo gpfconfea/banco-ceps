@@ -5,5 +5,7 @@
   "bairro": "Vila Roberto",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1335695",
+  "longitude": "-51.3917912"
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácaras Campo Grande",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-20.10225",
+  "longitude": "-44.88154"
 }

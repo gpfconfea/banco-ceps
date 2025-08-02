@@ -5,5 +5,7 @@
   "bairro": "Jardim Roma",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.3835288",
+  "longitude": "-49.9795975"
 }

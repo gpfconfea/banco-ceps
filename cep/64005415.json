@@ -5,5 +5,7 @@
   "bairro": "São Joaquim",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-4.8435529",
+  "longitude": "-42.1546729"
 }

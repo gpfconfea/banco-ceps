@@ -1,9 +1,11 @@
 {
   "cep": "60710903",
   "logradouro": "Rua Lourenço Pessoa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Maraponga",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.7910209",
+  "longitude": "-38.5629804"
 }

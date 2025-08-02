@@ -1,9 +1,11 @@
 {
   "cep": "89666970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto Alegre",
   "localidade": "Capinzal",
   "uf": "SC",
-  "ibge": "4203907"
+  "ibge": "4203907",
+  "latitude": "-26.7228592",
+  "longitude": "-52.5637268"
 }

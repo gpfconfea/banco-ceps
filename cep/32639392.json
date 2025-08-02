@@ -5,5 +5,7 @@
   "bairro": "São Jorge",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-20.0238168",
+  "longitude": "-44.2317476"
 }

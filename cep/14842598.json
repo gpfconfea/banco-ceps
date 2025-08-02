@@ -6,5 +6,7 @@
   "bairro": "Residencial Mangolini",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.367909",
+  "longitude": "-48.2139643"
 }

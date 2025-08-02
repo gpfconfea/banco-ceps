@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Águas Virtuosas",
   "localidade": "Tejupá",
   "uf": "SP",
-  "ibge": "3554201"
+  "ibge": "3554201",
+  "latitude": "-23.39898",
+  "longitude": "-49.34806"
 }

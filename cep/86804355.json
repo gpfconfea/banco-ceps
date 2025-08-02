@@ -5,5 +5,7 @@
   "bairro": "Jardim Apucarana",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5431458",
+  "longitude": "-51.4506477"
 }

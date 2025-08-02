@@ -5,5 +5,7 @@
   "bairro": "Chapada",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-25.5451998",
+  "longitude": "-54.5561947"
 }

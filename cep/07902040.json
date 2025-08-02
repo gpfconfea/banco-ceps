@@ -5,5 +5,7 @@
   "bairro": "Jardim Eliza",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.2883868",
+  "longitude": "-46.7425886"
 }

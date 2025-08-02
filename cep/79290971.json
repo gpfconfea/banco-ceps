@@ -1,9 +1,11 @@
 {
   "cep": "79290971",
   "logradouro": "Quadra 14 Lotes 1, 2 e 3",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bonito",
   "uf": "MS",
-  "ibge": "5002209"
+  "ibge": "5002209",
+  "latitude": "-21.111749",
+  "longitude": "-56.478904"
 }

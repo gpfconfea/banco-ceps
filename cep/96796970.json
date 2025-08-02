@@ -5,5 +5,7 @@
   "bairro": "Pacheca",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-31.1313",
+  "longitude": "-51.78043"
 }

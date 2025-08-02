@@ -5,5 +5,7 @@
   "bairro": "Jardim Tropical",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5035621",
+  "longitude": "-47.4206209"
 }

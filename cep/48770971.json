@@ -1,9 +1,11 @@
 {
   "cep": "48770971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canto",
   "localidade": "Teofilândia",
   "uf": "BA",
-  "ibge": "2931509"
+  "ibge": "2931509",
+  "latitude": "-11.477411",
+  "longitude": "-39.0010994"
 }

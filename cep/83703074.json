@@ -5,5 +5,7 @@
   "bairro": "Porto das Laranjeiras",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "latitude": "-25.5859528",
+  "longitude": "-49.4186541"
 }

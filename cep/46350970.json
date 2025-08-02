@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Urandi",
   "uf": "BA",
-  "ibge": "2932606"
+  "ibge": "2932606",
+  "latitude": "-14.76565",
+  "longitude": "-42.65416"
 }

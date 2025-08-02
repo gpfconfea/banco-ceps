@@ -5,5 +5,7 @@
   "bairro": "Rio Pequeno",
   "localidade": "Camboriú",
   "uf": "SC",
-  "ibge": "4203204"
+  "ibge": "4203204",
+  "latitude": "-27.050232",
+  "longitude": "-48.6297085"
 }

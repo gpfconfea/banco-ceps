@@ -1,9 +1,11 @@
 {
   "cep": "37476972",
   "logradouro": "Rua Juscelino Kubitscheck",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cristina",
   "uf": "MG",
-  "ibge": "3120508"
+  "ibge": "3120508",
+  "latitude": "-18.9489397",
+  "longitude": "-49.4610974"
 }

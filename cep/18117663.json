@@ -5,5 +5,7 @@
   "bairro": "Residencial Cristal",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5795952",
+  "longitude": "-47.4663559"
 }

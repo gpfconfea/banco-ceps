@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4721678",
+  "longitude": "-47.0049213"
 }

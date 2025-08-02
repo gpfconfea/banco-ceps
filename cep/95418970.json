@@ -1,9 +1,11 @@
 {
   "cep": "95418970",
   "logradouro": "Rua José Ferreira de Castilhos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cazuza Ferreira",
   "localidade": "São Francisco de Paula",
   "uf": "RS",
-  "ibge": "4318200"
+  "ibge": "4318200",
+  "latitude": "-28.9313483",
+  "longitude": "-50.6558518"
 }

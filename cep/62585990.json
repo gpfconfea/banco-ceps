@@ -1,9 +1,11 @@
 {
   "cep": "62585990",
   "logradouro": "Rua Dom Aluísio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Acaraú",
   "uf": "CE",
-  "ibge": "2300200"
+  "ibge": "2300200",
+  "latitude": "-3.73609",
+  "longitude": "-38.59698"
 }

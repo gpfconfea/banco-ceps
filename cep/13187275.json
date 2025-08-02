@@ -5,5 +5,7 @@
   "bairro": "Gleba 1-A-2D-1C",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "latitude": "-22.88359",
+  "longitude": "-47.22361"
 }

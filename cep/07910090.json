@@ -5,5 +5,7 @@
   "bairro": "Jardim Professor Francisco Morato",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.4737477",
+  "longitude": "-46.6804878"
 }

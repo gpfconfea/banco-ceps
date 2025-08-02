@@ -5,5 +5,7 @@
   "bairro": "Travessão",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.703784",
+  "longitude": "-45.4476254"
 }

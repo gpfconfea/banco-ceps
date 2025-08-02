@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Casa Grande",
   "uf": "MG",
-  "ibge": "3114907"
+  "ibge": "3114907",
+  "latitude": "-18.85622",
+  "longitude": "-41.94528"
 }

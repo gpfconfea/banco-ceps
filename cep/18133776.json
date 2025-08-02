@@ -5,5 +5,7 @@
   "bairro": "Loteamento Parque Taxaquara",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5050536",
+  "longitude": "-47.1099985"
 }

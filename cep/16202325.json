@@ -5,5 +5,7 @@
   "bairro": "João Crevelaro",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "latitude": "-21.2782312",
+  "longitude": "-50.323166"
 }

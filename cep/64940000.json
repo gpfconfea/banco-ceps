@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte Alegre do Piauí",
   "uf": "PI",
-  "ibge": "2206605"
+  "ibge": "2206605",
+  "latitude": "-9.7483373",
+  "longitude": "-45.3048117"
 }

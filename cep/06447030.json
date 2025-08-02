@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaparica",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5375542",
+  "longitude": "-46.8799166"
 }

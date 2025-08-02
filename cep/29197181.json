@@ -5,5 +5,7 @@
   "bairro": "Vila do Riacho",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-17.8825416",
+  "longitude": "-39.8402598"
 }

@@ -5,5 +5,7 @@
   "bairro": "Papagaio",
   "localidade": "Barra",
   "uf": "BA",
-  "ibge": "2902708"
+  "ibge": "2902708",
+  "latitude": "-20.4492034",
+  "longitude": "-48.0173619"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "95572974",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Roça da Estância",
   "localidade": "Mampituba",
   "uf": "RS",
-  "ibge": "4311734"
+  "ibge": "4311734",
+  "latitude": "-29.2659517",
+  "longitude": "-50.0359021"
 }

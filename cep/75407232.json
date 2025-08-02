@@ -5,5 +5,7 @@
   "bairro": "Vila 31 de Março",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.3707823",
+  "longitude": "-49.4822847"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Alvorada",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-23.1682561",
+  "longitude": "-47.0539877"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipê",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.7849164",
+  "longitude": "-53.3323709"
 }

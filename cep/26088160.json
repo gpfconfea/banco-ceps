@@ -5,5 +5,7 @@
   "bairro": "Vila Guimarães",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-23.5600015",
+  "longitude": "-46.6571659"
 }

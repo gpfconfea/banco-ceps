@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.6951997",
+  "longitude": "-38.3243021"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Floresta",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.2616568",
+  "longitude": "-44.996859"
 }

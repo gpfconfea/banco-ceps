@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "José Boiteux",
   "uf": "SC",
-  "ibge": "4209151"
+  "ibge": "4209151",
+  "latitude": "-26.9619367",
+  "longitude": "-49.6256473"
 }

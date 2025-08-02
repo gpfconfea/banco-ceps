@@ -1,9 +1,11 @@
 {
   "cep": "63383975",
   "logradouro": "Vila Engenho Velho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Engenho Velho",
   "localidade": "Barro",
   "uf": "CE",
-  "ibge": "2302008"
+  "ibge": "2302008",
+  "latitude": "-7.078819",
+  "longitude": "-38.680341"
 }

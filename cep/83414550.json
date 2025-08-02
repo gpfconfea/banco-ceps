@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "latitude": "-25.2897714",
+  "longitude": "-49.2153505"
 }

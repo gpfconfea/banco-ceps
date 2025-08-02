@@ -1,9 +1,11 @@
 {
   "cep": "13274900",
   "logradouro": "Estrada Municipal do Clube de Campo Valinhos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim São Bento do Recreio",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9704388",
+  "longitude": "-46.9246128"
 }

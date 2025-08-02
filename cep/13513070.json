@@ -5,5 +5,7 @@
   "bairro": "Jardim Santana",
   "localidade": "Santa Gertrudes",
   "uf": "SP",
-  "ibge": "3546702"
+  "ibge": "3546702",
+  "latitude": "-22.453578",
+  "longitude": "-47.533311"
 }

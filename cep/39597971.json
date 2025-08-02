@@ -1,9 +1,11 @@
 {
   "cep": "39597971",
   "logradouro": "Praça Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Adão Colares",
   "localidade": "Botumirim",
   "uf": "MG",
-  "ibge": "3108503"
+  "ibge": "3108503",
+  "latitude": "-18.6658934",
+  "longitude": "-40.7965722"
 }

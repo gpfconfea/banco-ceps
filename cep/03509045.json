@@ -5,5 +5,7 @@
   "bairro": "Chácara Seis de Outubro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.6844932",
+  "longitude": "-45.7312509"
 }

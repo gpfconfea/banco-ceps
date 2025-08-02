@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tapejara",
   "uf": "PR",
-  "ibge": "4126801"
+  "ibge": "4126801",
+  "latitude": "-23.7337483",
+  "longitude": "-52.8676009"
 }

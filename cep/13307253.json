@@ -5,5 +5,7 @@
   "bairro": "Chácara Residencial Paraíso Marriot",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.3588928",
+  "longitude": "-47.3009727"
 }

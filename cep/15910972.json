@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Alto",
   "uf": "SP",
-  "ibge": "3531308"
+  "ibge": "3531308",
+  "latitude": "-21.2807332",
+  "longitude": "-48.5153415"
 }

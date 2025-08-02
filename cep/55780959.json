@@ -1,9 +1,11 @@
 {
   "cep": "55780959",
   "logradouro": "Avenida Presidente Kennedy",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Frei Miguelinho",
   "uf": "PE",
-  "ibge": "2605806"
+  "ibge": "2605806",
+  "latitude": "-7.9415347",
+  "longitude": "-35.9210579"
 }

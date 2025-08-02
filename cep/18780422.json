@@ -6,5 +6,7 @@
   "bairro": "CDHU Manduri C",
   "localidade": "Manduri",
   "uf": "SP",
-  "ibge": "3528601"
+  "ibge": "3528601",
+  "latitude": "-23.0156412",
+  "longitude": "-49.3153935"
 }

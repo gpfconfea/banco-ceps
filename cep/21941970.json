@@ -1,9 +1,11 @@
 {
   "cep": "21941970",
   "logradouro": "Avenida Vinte de Janeiro 3º Andar Sala 3023 Setor Verde",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Galeão",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8134098",
+  "longitude": "-43.2494233"
 }

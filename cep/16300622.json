@@ -5,5 +5,7 @@
   "bairro": "Residencial Gimenes",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-21.4100494",
+  "longitude": "-50.0545883"
 }

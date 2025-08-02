@@ -1,9 +1,11 @@
 {
   "cep": "56220972",
   "logradouro": "Rua Raimundo Alexandre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Clarana",
   "localidade": "Bodocó",
   "uf": "PE",
-  "ibge": "2602001"
+  "ibge": "2602001",
+  "latitude": "-3.8252772",
+  "longitude": "-38.5065277"
 }

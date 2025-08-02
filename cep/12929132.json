@@ -5,5 +5,7 @@
   "bairro": "Bairro do Menin",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.89077",
+  "longitude": "-46.49291"
 }

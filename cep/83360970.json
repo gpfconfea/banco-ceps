@@ -1,9 +1,11 @@
 {
   "cep": "83360970",
   "logradouro": "Rua das Almas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Porto de Cima",
   "localidade": "Morretes",
   "uf": "PR",
-  "ibge": "4116208"
+  "ibge": "4116208",
+  "latitude": "-23.4200054",
+  "longitude": "-51.4644376"
 }

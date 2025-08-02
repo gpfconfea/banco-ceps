@@ -5,5 +5,7 @@
   "bairro": "Hélio",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "latitude": "-18.977225",
+  "longitude": "-49.470849"
 }

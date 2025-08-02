@@ -5,5 +5,7 @@
   "bairro": "Jardim Anhangüera",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.8183837",
+  "longitude": "-49.4922594"
 }

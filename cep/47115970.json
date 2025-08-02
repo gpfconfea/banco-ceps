@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Muquém de São Francisco",
   "uf": "BA",
-  "ibge": "2922250"
+  "ibge": "2922250",
+  "latitude": "-12.0636811",
+  "longitude": "-43.5487705"
 }
