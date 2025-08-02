@@ -5,5 +5,7 @@
   "bairro": "Residencial Marco Guerrero",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-21.41579",
+  "longitude": "-50.05287"
 }

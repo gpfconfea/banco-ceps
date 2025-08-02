@@ -1,9 +1,11 @@
 {
   "cep": "62285990",
   "logradouro": "Rua Messias Ramos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Santa Quitéria",
   "uf": "CE",
-  "ibge": "2312205"
+  "ibge": "2312205",
+  "latitude": "-4.1023344",
+  "longitude": "-40.4291197"
 }

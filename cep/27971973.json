@@ -1,9 +1,11 @@
 {
   "cep": "27971973",
   "logradouro": "Estrada do Caminho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ajuda",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "latitude": "-22.8642315",
+  "longitude": "-42.0123106"
 }

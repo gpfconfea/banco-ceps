@@ -1,9 +1,11 @@
 {
   "cep": "78480959",
   "logradouro": "Avenida Honorato Pedroso de Barros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Acorizal",
   "uf": "MT",
-  "ibge": "5100102"
+  "ibge": "5100102",
+  "latitude": "-15.1985501",
+  "longitude": "-56.3698428"
 }

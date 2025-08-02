@@ -5,5 +5,7 @@
   "bairro": "Parque São José",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-23.4643934",
+  "longitude": "-45.0530675"
 }

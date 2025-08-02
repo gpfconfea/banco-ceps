@@ -5,5 +5,7 @@
   "bairro": "Vila São Manoel",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3205917",
+  "longitude": "-49.0918761"
 }

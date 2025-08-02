@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibicaré",
   "uf": "SC",
-  "ibge": "4206801"
+  "ibge": "4206801",
+  "latitude": "-27.088141",
+  "longitude": "-51.368101"
 }

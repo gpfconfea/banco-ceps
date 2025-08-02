@@ -1,9 +1,11 @@
 {
   "cep": "63935990",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.96915",
+  "longitude": "-39.02128"
 }

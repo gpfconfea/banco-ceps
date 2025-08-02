@@ -1,9 +1,11 @@
 {
   "cep": "66640902",
   "logradouro": "Quadra Vinte e Cinco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mangueirão",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-1.3768991",
+  "longitude": "-48.4386771"
 }

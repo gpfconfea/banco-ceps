@@ -1,9 +1,11 @@
 {
   "cep": "64820959",
   "logradouro": "Rua Ludgero de Franca Teixeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itaueira",
   "uf": "PI",
-  "ibge": "2205102"
+  "ibge": "2205102",
+  "latitude": "-7.6019214",
+  "longitude": "-43.0248768"
 }

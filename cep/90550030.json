@@ -5,5 +5,7 @@
   "bairro": "Higienópolis",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0115355",
+  "longitude": "-51.1826649"
 }

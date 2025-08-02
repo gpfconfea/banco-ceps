@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "latitude": "-19.4804728",
+  "longitude": "-44.2399112"
 }

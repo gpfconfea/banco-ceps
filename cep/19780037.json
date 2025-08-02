@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quatá",
   "uf": "SP",
-  "ibge": "3541703"
+  "ibge": "3541703",
+  "latitude": "-22.2494039",
+  "longitude": "-50.6981618"
 }

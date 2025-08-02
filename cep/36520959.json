@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Visconde do Rio Branco",
   "uf": "MG",
-  "ibge": "3172004"
+  "ibge": "3172004",
+  "latitude": "-21.0036067",
+  "longitude": "-42.8391998"
 }

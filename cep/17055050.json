@@ -5,5 +5,7 @@
   "bairro": "Vila Jardim Celina",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3351167",
+  "longitude": "-49.1072716"
 }

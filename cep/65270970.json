@@ -1,9 +1,11 @@
 {
   "cep": "65270970",
   "logradouro": "Avenida Padre João Cara",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bacuri",
   "uf": "MA",
-  "ibge": "2101301"
+  "ibge": "2101301",
+  "latitude": "-1.7263435",
+  "longitude": "-45.1421705"
 }

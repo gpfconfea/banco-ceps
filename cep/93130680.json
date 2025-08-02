@@ -5,5 +5,7 @@
   "bairro": "Rio dos Sinos",
   "localidade": "São Leopoldo",
   "uf": "RS",
-  "ibge": "4318705"
+  "ibge": "4318705",
+  "latitude": "43.8237836",
+  "longitude": "-72.4724393"
 }

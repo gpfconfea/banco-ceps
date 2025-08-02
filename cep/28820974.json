@@ -1,9 +1,11 @@
 {
   "cep": "28820974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bananeiras",
   "localidade": "Silva Jardim",
   "uf": "RJ",
-  "ibge": "3305604"
+  "ibge": "3305604",
+  "latitude": "-15.5446766",
+  "longitude": "-56.0373799"
 }

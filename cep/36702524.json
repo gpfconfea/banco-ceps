@@ -5,5 +5,7 @@
   "bairro": "Tomé Nogueira",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-21.5195",
+  "longitude": "-42.63633"
 }

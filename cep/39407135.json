@@ -5,5 +5,7 @@
   "bairro": "Mirante do Sol",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7079506",
+  "longitude": "-43.8722322"
 }

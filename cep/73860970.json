@@ -1,9 +1,11 @@
 {
   "cep": "73860970",
   "logradouro": "Rua Joaquim Pinheiro Quadra 36 Lote 11 Loja 1",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Leste",
   "localidade": "São Domingos",
   "uf": "GO",
-  "ibge": "5219803"
+  "ibge": "5219803",
+  "latitude": "-18.9343483",
+  "longitude": "-49.839626"
 }

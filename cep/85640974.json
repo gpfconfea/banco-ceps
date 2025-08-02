@@ -1,9 +1,11 @@
 {
   "cep": "85640974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ampére",
   "uf": "PR",
-  "ibge": "4101002"
+  "ibge": "4101002",
+  "latitude": "-25.4881081",
+  "longitude": "-50.6496355"
 }

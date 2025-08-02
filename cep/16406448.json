@@ -5,5 +5,7 @@
   "bairro": "Residencial Lucy Antunes",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-20.77106",
+  "longitude": "-49.40694"
 }

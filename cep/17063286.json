@@ -5,5 +5,7 @@
   "bairro": "Residencial Francisco Lemos de Almeida",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3074114",
+  "longitude": "-49.0830236"
 }

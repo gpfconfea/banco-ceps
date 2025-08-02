@@ -6,5 +6,7 @@
   "bairro": "São João",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.2487633",
+  "longitude": "-38.9486066"
 }

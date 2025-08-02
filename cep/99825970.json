@@ -1,9 +1,11 @@
 {
   "cep": "99825970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Carlos Gomes",
   "uf": "RS",
-  "ibge": "4304853"
+  "ibge": "4304853",
+  "latitude": "-21.8096731",
+  "longitude": "-41.3945485"
 }

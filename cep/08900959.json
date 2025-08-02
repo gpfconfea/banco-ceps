@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guararema",
   "uf": "SP",
-  "ibge": "3518305"
+  "ibge": "3518305",
+  "latitude": "-23.41352",
+  "longitude": "-46.04044"
 }

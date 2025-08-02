@@ -6,5 +6,7 @@
   "bairro": "Aldeia do Vale",
   "localidade": "Porangatu",
   "uf": "GO",
-  "ibge": "5218003"
+  "ibge": "5218003",
+  "latitude": "-15.90543",
+  "longitude": "-52.23269"
 }

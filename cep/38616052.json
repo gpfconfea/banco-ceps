@@ -5,5 +5,7 @@
   "bairro": "Barroca",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-19.76391",
+  "longitude": "-43.63225"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55730975",
   "logradouro": "Rua José Moraes Gercino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tamboatá",
   "localidade": "Bom Jardim",
   "uf": "PE",
-  "ibge": "2602209"
+  "ibge": "2602209",
+  "latitude": "-7.8103385",
+  "longitude": "-35.6678303"
 }

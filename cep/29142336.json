@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-1.9169072",
+  "longitude": "-55.5184147"
 }

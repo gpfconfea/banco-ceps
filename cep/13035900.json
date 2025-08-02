@@ -1,9 +1,11 @@
 {
   "cep": "13035900",
   "logradouro": "Rua Doutor Sales de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Industrial",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9110182",
+  "longitude": "-47.0669952"
 }

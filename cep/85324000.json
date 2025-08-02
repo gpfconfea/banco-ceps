@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Laranjeiras do Sul",
   "uf": "PR",
-  "ibge": "4113304"
+  "ibge": "4113304",
+  "latitude": "-25.3831409",
+  "longitude": "-52.3851028"
 }

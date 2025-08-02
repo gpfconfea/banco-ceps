@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Ubá",
   "uf": "MG",
-  "ibge": "3169901"
+  "ibge": "3169901",
+  "latitude": "-21.1156184",
+  "longitude": "-42.8916554"
 }

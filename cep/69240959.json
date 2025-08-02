@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Autazes",
   "uf": "AM",
-  "ibge": "1300300"
+  "ibge": "1300300",
+  "latitude": "-3.579658",
+  "longitude": "-59.1340706"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58397972",
   "logradouro": "Rua Almerinda Lemos Pena",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mata Limpa",
   "localidade": "Areia",
   "uf": "PB",
-  "ibge": "2501104"
+  "ibge": "2501104",
+  "latitude": "-6.9416568",
+  "longitude": "-35.7524728"
 }

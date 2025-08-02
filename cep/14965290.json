@@ -5,5 +5,7 @@
   "bairro": "Jardim São Benedito",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4711069",
+  "longitude": "-49.2041268"
 }

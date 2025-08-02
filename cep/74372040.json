@@ -5,5 +5,7 @@
   "bairro": "Residencial Fidelis",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7489806",
+  "longitude": "-49.3695315"
 }

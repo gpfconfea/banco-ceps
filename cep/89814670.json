@@ -5,5 +5,7 @@
   "bairro": "Palmital",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.5587743",
+  "longitude": "-48.6196646"
 }

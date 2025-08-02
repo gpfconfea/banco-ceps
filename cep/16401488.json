@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Francisco José de Oliveira Ratto",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-22.7874",
+  "longitude": "-47.06538"
 }

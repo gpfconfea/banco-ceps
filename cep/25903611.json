@@ -5,5 +5,7 @@
   "bairro": "Mundo Novo",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "latitude": "-22.6695855",
+  "longitude": "-43.0617661"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Taquaral",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.2092301",
+  "longitude": "-49.6556959"
 }

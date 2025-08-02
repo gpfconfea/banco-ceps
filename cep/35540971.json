@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Oliveira",
   "uf": "MG",
-  "ibge": "3145604"
+  "ibge": "3145604",
+  "latitude": "-20.698274",
+  "longitude": "-44.82623"
 }

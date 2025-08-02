@@ -5,5 +5,7 @@
   "bairro": "Vila Gatti",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2691646",
+  "longitude": "-47.3015978"
 }

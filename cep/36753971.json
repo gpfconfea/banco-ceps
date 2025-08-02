@@ -1,9 +1,11 @@
 {
   "cep": "36753971",
   "logradouro": "Rua Otaviano Medina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cisneiros",
   "localidade": "Palma",
   "uf": "MG",
-  "ibge": "3146701"
+  "ibge": "3146701",
+  "latitude": "-21.4398906",
+  "longitude": "-42.3590442"
 }

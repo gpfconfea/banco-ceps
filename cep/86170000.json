@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sertanópolis",
   "uf": "PR",
-  "ibge": "4126504"
+  "ibge": "4126504",
+  "latitude": "-23.0600434",
+  "longitude": "-51.0373544"
 }

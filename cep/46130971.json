@@ -1,9 +1,11 @@
 {
   "cep": "46130971",
   "logradouro": "Rua do Mercado Municipal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Várzea da Pedra",
   "localidade": "Aracatu",
   "uf": "BA",
-  "ibge": "2902005"
+  "ibge": "2902005",
+  "latitude": "-13.02663",
+  "longitude": "-39.60563"
 }

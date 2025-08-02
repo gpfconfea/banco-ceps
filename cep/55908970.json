@@ -1,9 +1,11 @@
 {
   "cep": "55908970",
   "logradouro": "Rua do Meio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pontas de Pedra",
   "localidade": "Goiana",
   "uf": "PE",
-  "ibge": "2606200"
+  "ibge": "2606200",
+  "latitude": "-7.6307954",
+  "longitude": "-34.8116675"
 }

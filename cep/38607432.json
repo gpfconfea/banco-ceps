@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Paracatu",
   "uf": "MG",
-  "ibge": "3147006"
+  "ibge": "3147006",
+  "latitude": "-17.2262733",
+  "longitude": "-46.8515172"
 }

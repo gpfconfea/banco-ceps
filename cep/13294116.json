@@ -5,5 +5,7 @@
   "bairro": "Residencial Burch",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-23.0984245",
+  "longitude": "-46.9762913"
 }

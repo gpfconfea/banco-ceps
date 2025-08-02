@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Catuji",
   "uf": "MG",
-  "ibge": "3115458"
+  "ibge": "3115458",
+  "latitude": "-17.3048",
+  "longitude": "-41.51688"
 }

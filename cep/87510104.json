@@ -5,5 +5,7 @@
   "bairro": "Jardim Império do Sol",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.3917231",
+  "longitude": "-52.9419739"
 }

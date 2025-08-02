@@ -5,5 +5,7 @@
   "bairro": "Vila Diva",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "latitude": "-23.5755906",
+  "longitude": "-46.8556343"
 }

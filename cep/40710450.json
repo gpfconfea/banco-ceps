@@ -5,5 +5,7 @@
   "bairro": "Escada",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-11.2295674",
+  "longitude": "-41.8778345"
 }

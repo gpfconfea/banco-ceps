@@ -1,9 +1,11 @@
 {
   "cep": "78328970",
   "logradouro": "Avenida 10 de Janeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Conselvan",
   "localidade": "Aripuanã",
   "uf": "MT",
-  "ibge": "5101407"
+  "ibge": "5101407",
+  "latitude": "-9.9283887",
+  "longitude": "-59.9155148"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "79044900",
   "logradouro": "Avenida Redentor",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Maria Aparecida Pedrossian",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4683463",
+  "longitude": "-54.5358979"
 }

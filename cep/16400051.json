@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.6761521",
+  "longitude": "-49.7517222"
 }

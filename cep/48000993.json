@@ -1,9 +1,11 @@
 {
   "cep": "48000993",
   "logradouro": "Rua Baixa da Candeia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "latitude": "-12.1448953",
+  "longitude": "-38.4483622"
 }

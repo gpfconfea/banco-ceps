@@ -1,9 +1,11 @@
 {
   "cep": "72007989",
-  "logradouro": "Rua 10B Chácaras 135/1 Lotes 2 e 3 Térreo Locker Correios",
+  "logradouro": "Rua 10B Chácaras 135/1 Lotes 2 e 3 Térreo",
   "complemento": "",
   "bairro": "Setor Habitacional Vicente Pires",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.79183",
+  "longitude": "-48.02287"
 }

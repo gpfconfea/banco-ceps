@@ -5,5 +5,7 @@
   "bairro": "Arquipélago",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-29.9740509",
+  "longitude": "-51.226362"
 }

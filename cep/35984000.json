@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Dionísio",
   "uf": "MG",
-  "ibge": "3121803"
+  "ibge": "3121803",
+  "latitude": "-19.841944",
+  "longitude": "-42.776945"
 }

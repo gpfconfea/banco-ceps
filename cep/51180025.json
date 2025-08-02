@@ -5,5 +5,7 @@
   "bairro": "Imbiribeira",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.09819",
+  "longitude": "-34.91506"
 }

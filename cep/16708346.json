@@ -6,5 +6,7 @@
   "bairro": "Residencial Santo Antônio",
   "localidade": "Guararapes",
   "uf": "SP",
-  "ibge": "3518206"
+  "ibge": "3518206",
+  "latitude": "-20.9631",
+  "longitude": "-48.47005"
 }

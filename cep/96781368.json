@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-30.83601",
+  "longitude": "-51.81549"
 }

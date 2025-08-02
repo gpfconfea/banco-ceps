@@ -5,5 +5,7 @@
   "bairro": "José Correia Machado",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7665454",
+  "longitude": "-43.867147"
 }

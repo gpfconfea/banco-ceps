@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.017811",
+  "longitude": "-45.5455993"
 }

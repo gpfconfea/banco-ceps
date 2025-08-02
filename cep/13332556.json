@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0667972",
+  "longitude": "-47.2332743"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim do Cedro",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.9289168",
+  "longitude": "-50.934631"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Santo Antônio",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.1618713",
+  "longitude": "-47.0455422"
 }

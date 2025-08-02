@@ -1,9 +1,11 @@
 {
   "cep": "58115972",
   "logradouro": "Sítio Grotão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Puxinanã",
   "uf": "PB",
-  "ibge": "2512408"
+  "ibge": "2512408",
+  "latitude": "-7.1819177",
+  "longitude": "-35.9640834"
 }

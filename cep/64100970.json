@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barras",
   "uf": "PI",
-  "ibge": "2201200"
+  "ibge": "2201200",
+  "latitude": "-4.2452715",
+  "longitude": "-42.2941537"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Rádio",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4238064",
+  "longitude": "-46.9587577"
 }

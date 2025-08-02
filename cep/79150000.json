@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Maracaju",
   "uf": "MS",
-  "ibge": "5005400"
+  "ibge": "5005400",
+  "latitude": "-21.6163005",
+  "longitude": "-55.164605"
 }

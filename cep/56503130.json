@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Arcoverde",
   "uf": "PE",
-  "ibge": "2601201"
+  "ibge": "2601201",
+  "latitude": "-8.0095375",
+  "longitude": "-34.8645753"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Militar",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-22.007738",
+  "longitude": "-47.4203003"
 }

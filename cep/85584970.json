@@ -1,9 +1,11 @@
 {
   "cep": "85584970",
   "logradouro": "Avenida Francisco Salvi",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra Grande",
   "localidade": "Itapejara d'Oeste",
   "uf": "PR",
-  "ibge": "4111209"
+  "ibge": "4111209",
+  "latitude": "-25.9622313",
+  "longitude": "-52.8153401"
 }

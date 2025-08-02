@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Joaquim do Monte",
   "uf": "PE",
-  "ibge": "2613305"
+  "ibge": "2613305",
+  "latitude": "-8.4325735",
+  "longitude": "-35.8060976"
 }

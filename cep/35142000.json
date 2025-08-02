@@ -5,5 +5,7 @@
   "bairro": "Vai-Volta",
   "localidade": "Tarumirim",
   "uf": "MG",
-  "ibge": "3168408"
+  "ibge": "3168408",
+  "latitude": "-19.3473288",
+  "longitude": "-41.8523385"
 }

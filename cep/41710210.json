@@ -6,5 +6,7 @@
   "bairro": "Boca do Rio",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9832422",
+  "longitude": "-38.4355384"
 }

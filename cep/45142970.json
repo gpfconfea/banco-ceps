@@ -1,9 +1,11 @@
 {
   "cep": "45142970",
   "logradouro": "Rua Dom Pedro II",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José do Colônia",
   "localidade": "Itambé",
   "uf": "BA",
-  "ibge": "2915809"
+  "ibge": "2915809",
+  "latitude": "-15.0885119",
+  "longitude": "-40.1007465"
 }

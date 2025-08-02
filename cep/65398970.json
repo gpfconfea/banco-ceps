@@ -1,9 +1,11 @@
 {
   "cep": "65398970",
   "logradouro": "Rua Nova",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Alto Alegre do Pindaré",
   "uf": "MA",
-  "ibge": "2100477"
+  "ibge": "2100477",
+  "latitude": "-3.6696762",
+  "longitude": "-45.8496673"
 }

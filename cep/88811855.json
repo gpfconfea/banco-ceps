@@ -5,5 +5,7 @@
   "bairro": "Linha Cabral",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6464524",
+  "longitude": "-49.3293897"
 }

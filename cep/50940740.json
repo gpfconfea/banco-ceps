@@ -5,5 +5,7 @@
   "bairro": "Sancho",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-23.25665",
+  "longitude": "-45.8899305"
 }

@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "latitude": "-19.977594",
+  "longitude": "-43.8553885"
 }

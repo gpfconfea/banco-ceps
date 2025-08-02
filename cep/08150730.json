@@ -5,5 +5,7 @@
   "bairro": "Jardim Nazareth",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-10.0733859",
+  "longitude": "-38.3493974"
 }

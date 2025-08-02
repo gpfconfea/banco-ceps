@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Octávio Cavalcanti Lacombe",
   "localidade": "Pompéia",
   "uf": "SP",
-  "ibge": "3540002"
+  "ibge": "3540002",
+  "latitude": "-22.08957",
+  "longitude": "-50.18865"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Paraíso",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-22.3664016",
+  "longitude": "-46.9379974"
 }

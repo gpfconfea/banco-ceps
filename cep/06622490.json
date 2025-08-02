@@ -5,5 +5,7 @@
   "bairro": "Parque dos Lagos",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5478173",
+  "longitude": "-46.8974054"
 }

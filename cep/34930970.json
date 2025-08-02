@@ -1,9 +1,11 @@
 {
   "cep": "34930970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Penédia",
   "localidade": "Caeté",
   "uf": "MG",
-  "ibge": "3110004"
+  "ibge": "3110004",
+  "latitude": "-22.9379813",
+  "longitude": "-46.5218621"
 }

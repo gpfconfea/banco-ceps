@@ -5,5 +5,7 @@
   "bairro": "Vera Cruz",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.7478024",
+  "longitude": "-49.4725046"
 }

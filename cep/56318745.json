@@ -5,5 +5,7 @@
   "bairro": "Jardim Amazonas",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-24.3113642",
+  "longitude": "-47.6265141"
 }

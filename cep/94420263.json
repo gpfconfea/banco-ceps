@@ -5,5 +5,7 @@
   "bairro": "Elsa",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "latitude": "-27.6379684",
+  "longitude": "-52.2467828"
 }

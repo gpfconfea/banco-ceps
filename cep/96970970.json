@@ -1,9 +1,11 @@
 {
   "cep": "96970970",
   "logradouro": "Rua Serafino Teloken",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Progresso",
   "localidade": "Progresso",
   "uf": "RS",
-  "ibge": "4315156"
+  "ibge": "4315156",
+  "latitude": "-29.3336597",
+  "longitude": "-53.0884802"
 }

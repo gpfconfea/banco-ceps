@@ -5,5 +5,7 @@
   "bairro": "Cordeiro de Minas",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "latitude": "-19.5313875",
+  "longitude": "-42.4206255"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Figueiras do Parque",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4986961",
+  "longitude": "-54.696851"
 }

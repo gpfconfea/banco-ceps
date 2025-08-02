@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Pedro da Aldeia",
   "uf": "RJ",
-  "ibge": "3305208"
+  "ibge": "3305208",
+  "latitude": "38.4943488",
+  "longitude": "-9.0450325"
 }

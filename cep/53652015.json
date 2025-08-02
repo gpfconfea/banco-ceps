@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "latitude": "-8.2662",
+  "longitude": "-35.01919"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5100755",
+  "longitude": "-46.8704306"
 }

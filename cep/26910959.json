@@ -1,9 +1,11 @@
 {
   "cep": "26910959",
   "logradouro": "Travessa Gilson M. Portela",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Governador Portela",
   "localidade": "Miguel Pereira",
   "uf": "RJ",
-  "ibge": "3302908"
+  "ibge": "3302908",
+  "latitude": "-22.47747",
+  "longitude": "-43.4986"
 }

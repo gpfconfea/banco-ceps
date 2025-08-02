@@ -1,9 +1,11 @@
 {
   "cep": "83650973",
   "logradouro": "Rodovia PR 510",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Balsa Nova",
   "uf": "PR",
-  "ibge": "4102307"
+  "ibge": "4102307",
+  "latitude": "-25.4627372",
+  "longitude": "-49.5758066"
 }

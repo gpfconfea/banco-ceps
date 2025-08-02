@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Antônio",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.1881483",
+  "longitude": "-47.2912766"
 }

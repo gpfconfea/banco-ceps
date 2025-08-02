@@ -5,5 +5,7 @@
   "bairro": "Maria Auxiliadora",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.2714294",
+  "longitude": "-36.0003266"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Julia",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-23.6233657",
+  "longitude": "-46.7776258"
 }

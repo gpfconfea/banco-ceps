@@ -6,5 +6,7 @@
   "bairro": "Parque Residencial Água Branca",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.193922",
+  "longitude": "-47.5213918"
 }

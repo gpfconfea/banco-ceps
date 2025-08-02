@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio do Planalto",
   "uf": "RS",
-  "ibge": "4317756"
+  "ibge": "4317756",
+  "latitude": "-28.3897078",
+  "longitude": "-52.6900738"
 }

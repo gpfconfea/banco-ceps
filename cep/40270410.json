@@ -5,5 +5,7 @@
   "bairro": "Vila Laura",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9706461",
+  "longitude": "-38.4886619"
 }

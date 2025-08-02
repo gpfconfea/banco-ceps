@@ -6,5 +6,7 @@
   "bairro": "Jardim Marco Zero",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0051997",
+  "longitude": "-51.0783036"
 }

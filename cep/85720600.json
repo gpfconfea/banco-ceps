@@ -5,5 +5,7 @@
   "bairro": "Área Industrial",
   "localidade": "Medianeira",
   "uf": "PR",
-  "ibge": "4115804"
+  "ibge": "4115804",
+  "latitude": "-25.26556",
+  "longitude": "-54.05309"
 }

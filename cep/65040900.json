@@ -1,9 +1,11 @@
 {
   "cep": "65040900",
   "logradouro": "Rua Jorge Damous",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Ivar Saldanha",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.540466",
+  "longitude": "-44.2637499"
 }

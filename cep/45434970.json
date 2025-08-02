@@ -1,9 +1,11 @@
 {
   "cep": "45434970",
   "logradouro": "Rua Nossa Senhora da Ajuda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Camurugi",
   "localidade": "Taperoá",
   "uf": "BA",
-  "ibge": "2931202"
+  "ibge": "2931202",
+  "latitude": "-12.915011",
+  "longitude": "-38.4677464"
 }

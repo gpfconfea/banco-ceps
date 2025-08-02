@@ -1,9 +1,11 @@
 {
   "cep": "39375970",
   "logradouro": "Avenida Mestra Fininha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Muquém",
   "localidade": "Mirabela",
   "uf": "MG",
-  "ibge": "3142007"
+  "ibge": "3142007",
+  "latitude": "-16.7359503",
+  "longitude": "-43.880726"
 }

@@ -5,5 +5,7 @@
   "bairro": "Morro 25",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "latitude": "-29.4924377",
+  "longitude": "-51.9846738"
 }

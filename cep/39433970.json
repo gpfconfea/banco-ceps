@@ -1,9 +1,11 @@
 {
   "cep": "39433970",
   "logradouro": "Rua Brejo Grande",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Olímpio Campos",
   "localidade": "São João da Ponte",
   "uf": "MG",
-  "ibge": "3162401"
+  "ibge": "3162401",
+  "latitude": "-15.8228563",
+  "longitude": "-44.0142794"
 }

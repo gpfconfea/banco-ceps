@@ -5,5 +5,7 @@
   "bairro": "Vila Aeroporto",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-10.3278026",
+  "longitude": "-67.1870669"
 }

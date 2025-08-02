@@ -6,5 +6,7 @@
   "bairro": "Residencial Fortunato Perdoncini",
   "localidade": "Campo Mourão",
   "uf": "PR",
-  "ibge": "4104303"
+  "ibge": "4104303",
+  "latitude": "-24.0194798",
+  "longitude": "-52.3773589"
 }

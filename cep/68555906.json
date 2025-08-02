@@ -1,9 +1,11 @@
 {
   "cep": "68555906",
   "logradouro": "Rua Amazonas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Xinguara",
   "uf": "PA",
-  "ibge": "1508407"
+  "ibge": "1508407",
+  "latitude": "-7.10979",
+  "longitude": "-49.9392131"
 }

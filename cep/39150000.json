@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serro",
   "uf": "MG",
-  "ibge": "3167103"
+  "ibge": "3167103",
+  "latitude": "-18.604444",
+  "longitude": "-43.379445"
 }

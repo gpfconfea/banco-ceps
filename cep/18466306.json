@@ -5,5 +5,7 @@
   "bairro": "Vila Novo Horizonte",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-23.57553",
+  "longitude": "-48.02545"
 }

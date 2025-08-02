@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Canas",
   "uf": "SP",
-  "ibge": "3509957"
+  "ibge": "3509957",
+  "latitude": "-22.7038475",
+  "longitude": "-45.0537864"
 }

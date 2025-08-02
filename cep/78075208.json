@@ -5,5 +5,7 @@
   "bairro": "Jardim Universitário",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-14.7736287",
+  "longitude": "-57.2821585"
 }

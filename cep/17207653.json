@@ -5,5 +5,7 @@
   "bairro": "Jardim Carolina",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-23.5282429",
+  "longitude": "-46.5705128"
 }

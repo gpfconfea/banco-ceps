@@ -5,5 +5,7 @@
   "bairro": "Parque da Figueira",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9461269",
+  "longitude": "-47.0620656"
 }

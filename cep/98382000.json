@@ -5,5 +5,7 @@
   "bairro": "Barrinha",
   "localidade": "Seberi",
   "uf": "RS",
-  "ibge": "4320206"
+  "ibge": "4320206",
+  "latitude": "-27.5249896",
+  "longitude": "-53.3029921"
 }
