@@ -1,9 +1,11 @@
 {
   "cep": "78056903",
   "logradouro": "Avenida Doutora Maria Auxiliadora Grissolia Mendes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Conquista",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.544997",
+  "longitude": "-56.0375583"
 }

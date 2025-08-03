@@ -5,5 +5,7 @@
   "bairro": "Belo Horizonte",
   "localidade": "Passos",
   "uf": "MG",
-  "ibge": "3147907"
+  "ibge": "3147907",
+  "latitude": "-20.7264482",
+  "longitude": "-46.6056226"
 }

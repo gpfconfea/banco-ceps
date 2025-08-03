@@ -1,9 +1,11 @@
 {
   "cep": "79864970",
   "logradouro": "Rua Entre Rios",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itahum",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.0847913",
+  "longitude": "-55.3508954"
 }

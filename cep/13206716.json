@@ -5,5 +5,7 @@
   "bairro": "Jardim Pitangueiras II",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.2146882",
+  "longitude": "-46.8826976"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Godoy",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3051162",
+  "longitude": "-49.0737582"
 }

@@ -5,5 +5,7 @@
   "bairro": "Campinho",
   "localidade": "Roca Sales",
   "uf": "RS",
-  "ibge": "4315800"
+  "ibge": "4315800",
+  "latitude": "-29.1817766",
+  "longitude": "-51.8445484"
 }

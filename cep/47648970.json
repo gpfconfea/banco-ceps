@@ -1,9 +1,11 @@
 {
   "cep": "47648970",
   "logradouro": "Praça do Posto de Saúde",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Inhaúmas",
   "localidade": "Santa Maria da Vitória",
   "uf": "BA",
-  "ibge": "2928109"
+  "ibge": "2928109",
+  "latitude": "-9.8426094",
+  "longitude": "-39.4779909"
 }

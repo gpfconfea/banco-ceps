@@ -5,5 +5,7 @@
   "bairro": "Praia do Siqueira",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "latitude": "-22.8738074",
+  "longitude": "-42.0478255"
 }

@@ -5,5 +5,7 @@
   "bairro": "Rio das Pedras",
   "localidade": "Videira",
   "uf": "SC",
-  "ibge": "4219309"
+  "ibge": "4219309",
+  "latitude": "-26.9988826",
+  "longitude": "-51.0802188"
 }

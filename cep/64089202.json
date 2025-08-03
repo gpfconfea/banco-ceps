@@ -5,5 +5,7 @@
   "bairro": "Todos os Santos",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.1096611",
+  "longitude": "-42.7313328"
 }

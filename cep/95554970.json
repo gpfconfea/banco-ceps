@@ -1,9 +1,11 @@
 {
   "cep": "95554970",
   "logradouro": "Rodovia BR-101",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Rosa",
   "localidade": "Santa Rosa",
   "uf": "RS",
-  "ibge": "4317202"
+  "ibge": "4317202",
+  "latitude": "-27.8834734",
+  "longitude": "-54.4931172"
 }

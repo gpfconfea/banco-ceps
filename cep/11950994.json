@@ -1,9 +1,11 @@
 {
   "cep": "11950994",
   "logradouro": "Estrada Municipal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cajati",
   "uf": "SP",
-  "ibge": "3509254"
+  "ibge": "3509254",
+  "latitude": "-24.7899258",
+  "longitude": "-48.1797305"
 }

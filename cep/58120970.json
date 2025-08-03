@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Massaranduba",
   "uf": "PB",
-  "ibge": "2509206"
+  "ibge": "2509206",
+  "latitude": "-7.1807581",
+  "longitude": "-35.7353226"
 }

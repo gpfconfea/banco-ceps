@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Luzerna",
   "uf": "SC",
-  "ibge": "4210035"
+  "ibge": "4210035",
+  "latitude": "-27.1294338",
+  "longitude": "-51.4686169"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68390959",
   "logradouro": "Avenida Independência",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Novo Horizonte",
   "localidade": "Ourilândia do Norte",
   "uf": "PA",
-  "ibge": "1505437"
+  "ibge": "1505437",
+  "latitude": "-6.7552797",
+  "longitude": "-51.069269"
 }

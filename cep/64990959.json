@@ -1,9 +1,11 @@
 {
   "cep": "64990959",
   "logradouro": "Rua Casemiro Barreira Soares",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Barreiras do Piauí",
   "uf": "PI",
-  "ibge": "2201309"
+  "ibge": "2201309",
+  "latitude": "-9.9237766",
+  "longitude": "-45.4774042"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58548971",
   "logradouro": "Rua Vereador Cícero Soares",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Amparo",
   "uf": "PB",
-  "ibge": "2500734"
+  "ibge": "2500734",
+  "latitude": "-7.5667744",
+  "longitude": "-37.0607061"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "77308959",
   "logradouro": "Avenida Pedro Ludovico Teixeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Taipas do Tocantins",
   "uf": "TO",
-  "ibge": "1720937"
+  "ibge": "1720937",
+  "latitude": "-12.19495",
+  "longitude": "-46.99231"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Monte Santo de Minas",
   "uf": "MG",
-  "ibge": "3143203"
+  "ibge": "3143203",
+  "latitude": "-21.189722",
+  "longitude": "-46.98"
 }

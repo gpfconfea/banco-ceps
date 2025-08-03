@@ -5,5 +5,7 @@
   "bairro": "Nova Mirim",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-24.0254372",
+  "longitude": "-46.4987505"
 }

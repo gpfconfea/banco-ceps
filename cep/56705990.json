@@ -1,9 +1,11 @@
 {
   "cep": "56705990",
   "logradouro": "Rua Antônio Apolônio - Distrito Riacho do Meio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São José do Egito",
   "uf": "PE",
-  "ibge": "2613602"
+  "ibge": "2613602",
+  "latitude": "-7.53629",
+  "longitude": "-37.37427"
 }

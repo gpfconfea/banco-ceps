@@ -1,9 +1,11 @@
 {
   "cep": "21775991",
   "logradouro": "Travessa Penha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8875747",
+  "longitude": "-43.4276066"
 }

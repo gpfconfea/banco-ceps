@@ -5,5 +5,7 @@
   "bairro": "Residencial Professor Luiz Rossi (Padre Nóbrega)",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.1750783",
+  "longitude": "-50.0121085"
 }

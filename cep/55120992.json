@@ -1,9 +1,11 @@
 {
   "cep": "55120992",
   "logradouro": "Povoado Vila do Vitorino - Vila do Vitorino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Riacho das Almas",
   "uf": "PE",
-  "ibge": "2611705"
+  "ibge": "2611705",
+  "latitude": "-8.15396",
+  "longitude": "-35.92651"
 }

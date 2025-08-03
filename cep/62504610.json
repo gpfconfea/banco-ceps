@@ -5,5 +5,7 @@
   "bairro": "Nova Aldeota",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "latitude": "-3.481146",
+  "longitude": "-39.5677375"
 }

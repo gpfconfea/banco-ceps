@@ -5,5 +5,7 @@
   "bairro": "Pompéia",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9133879",
+  "longitude": "-43.9077372"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cachoeira de Emas",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.923135",
+  "longitude": "-47.36473"
 }

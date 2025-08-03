@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santanópolis",
   "uf": "BA",
-  "ibge": "2928307"
+  "ibge": "2928307",
+  "latitude": "-12.025333",
+  "longitude": "-38.8680499"
 }

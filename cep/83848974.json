@@ -1,9 +1,11 @@
 {
   "cep": "83848974",
   "logradouro": "Estrada Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa Verde",
   "localidade": "Quitandinha",
   "uf": "PR",
-  "ibge": "4121208"
+  "ibge": "4121208",
+  "latitude": "-25.3993015",
+  "longitude": "-49.1942577"
 }

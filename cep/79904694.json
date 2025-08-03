@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "latitude": "-20.4993677",
+  "longitude": "-54.6743867"
 }

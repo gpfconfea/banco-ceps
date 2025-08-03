@@ -5,5 +5,7 @@
   "bairro": "Universidade",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "-10.8757321",
+  "longitude": "-37.0911407"
 }

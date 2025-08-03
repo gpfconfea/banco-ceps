@@ -5,5 +5,7 @@
   "bairro": "Vila Matilde",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.6700371",
+  "longitude": "-43.453534"
 }

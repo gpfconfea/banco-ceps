@@ -1,9 +1,11 @@
 {
   "cep": "83183990",
   "logradouro": "Estrada Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "-25.66525",
+  "longitude": "-49.1688"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Bongiovani",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.0897",
+  "longitude": "-51.42767"
 }

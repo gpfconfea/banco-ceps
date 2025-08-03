@@ -5,5 +5,7 @@
   "bairro": "Residencial Brisas da Mata",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6487988",
+  "longitude": "-49.3226093"
 }

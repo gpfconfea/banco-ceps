@@ -1,9 +1,11 @@
 {
   "cep": "73817970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bezerra",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "39.8472374",
+  "longitude": "-8.8983074"
 }

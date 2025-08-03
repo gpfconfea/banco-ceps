@@ -5,5 +5,7 @@
   "bairro": "Jardim Universo",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4565144",
+  "longitude": "-51.9519236"
 }

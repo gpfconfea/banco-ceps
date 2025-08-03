@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Verdejante",
   "uf": "PE",
-  "ibge": "2616100"
+  "ibge": "2616100",
+  "latitude": "-7.9285675",
+  "longitude": "-38.9685473"
 }

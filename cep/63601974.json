@@ -1,9 +1,11 @@
 {
   "cep": "63601974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bonfim",
   "localidade": "Senador Pompeu",
   "uf": "CE",
-  "ibge": "2312700"
+  "ibge": "2312700",
+  "latitude": "-3.7261351",
+  "longitude": "-38.5297803"
 }

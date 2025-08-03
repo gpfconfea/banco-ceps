@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Passos",
   "uf": "MG",
-  "ibge": "3147907"
+  "ibge": "3147907",
+  "latitude": "-18.9660055",
+  "longitude": "-48.3264742"
 }

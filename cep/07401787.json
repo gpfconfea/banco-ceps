@@ -5,5 +5,7 @@
   "bairro": "Vila Ferreira",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.3872943",
+  "longitude": "-46.318102"
 }

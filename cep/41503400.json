@@ -5,5 +5,7 @@
   "bairro": "Itinga",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.8725264",
+  "longitude": "-38.3559406"
 }

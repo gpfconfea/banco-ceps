@@ -1,9 +1,11 @@
 {
   "cep": "35185975",
   "logradouro": "Praça Santa Rita",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Marliéria",
   "uf": "MG",
-  "ibge": "3140308"
+  "ibge": "3140308",
+  "latitude": "-19.89167",
+  "longitude": "-43.81104"
 }

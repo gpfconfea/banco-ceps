@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Areia de Baraúnas",
   "uf": "PB",
-  "ibge": "2501153"
+  "ibge": "2501153",
+  "latitude": "-7.12365",
+  "longitude": "-36.94843"
 }

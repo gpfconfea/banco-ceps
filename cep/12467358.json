@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Campos do Jordão",
   "uf": "SP",
-  "ibge": "3509700"
+  "ibge": "3509700",
+  "latitude": "-22.755822",
+  "longitude": "-45.6093843"
 }

@@ -6,5 +6,7 @@
   "bairro": "Residencial Boa Vista",
   "localidade": "Birigui",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "latitude": "-22.74249",
+  "longitude": "-47.30216"
 }

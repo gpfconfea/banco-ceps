@@ -1,9 +1,11 @@
 {
   "cep": "44700973",
   "logradouro": "Rua Santa Rosa de Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jacobina",
   "uf": "BA",
-  "ibge": "2917508"
+  "ibge": "2917508",
+  "latitude": "-11.2854803",
+  "longitude": "-40.2775789"
 }

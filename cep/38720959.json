@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa Formosa",
   "uf": "MG",
-  "ibge": "3137502"
+  "ibge": "3137502",
+  "latitude": "-18.7757244",
+  "longitude": "-46.4102119"
 }

@@ -5,5 +5,7 @@
   "bairro": "Edson Queiroz",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-29.0924741",
+  "longitude": "-53.2229134"
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial I",
   "localidade": "Agudos",
   "uf": "SP",
-  "ibge": "3500709"
+  "ibge": "3500709",
+  "latitude": "-20.93482",
+  "longitude": "-48.4662"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29927982",
   "logradouro": "Estrada Juncado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Juncado",
   "localidade": "Sooretama",
   "uf": "ES",
-  "ibge": "3205010"
+  "ibge": "3205010",
+  "latitude": "-19.0743296",
+  "longitude": "-40.0883231"
 }

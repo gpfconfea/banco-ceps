@@ -5,5 +5,7 @@
   "bairro": "Capim Branco",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-16.3566054",
+  "longitude": "-46.9076413"
 }

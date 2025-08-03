@@ -1,9 +1,11 @@
 {
   "cep": "35868971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gororós",
   "localidade": "Dom Joaquim",
   "uf": "MG",
-  "ibge": "3122603"
+  "ibge": "3122603",
+  "latitude": "-20.0851202",
+  "longitude": "-44.2451111"
 }

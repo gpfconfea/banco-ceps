@@ -1,9 +1,11 @@
 {
   "cep": "78474973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bauxi",
   "localidade": "Rosário Oeste",
   "uf": "MT",
-  "ibge": "5107701"
+  "ibge": "5107701",
+  "latitude": "-15.1460181",
+  "longitude": "-56.7236856"
 }

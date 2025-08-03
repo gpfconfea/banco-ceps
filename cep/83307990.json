@@ -1,9 +1,11 @@
 {
   "cep": "83307990",
   "logradouro": "Estrada Pará",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.4910316",
+  "longitude": "-49.11713"
 }

@@ -6,5 +6,7 @@
   "bairro": "Itararé",
   "localidade": "Embu-Guaçu",
   "uf": "SP",
-  "ibge": "3515103"
+  "ibge": "3515103",
+  "latitude": "-23.77198",
+  "longitude": "-46.79259"
 }

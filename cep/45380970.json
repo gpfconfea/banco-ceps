@@ -1,9 +1,11 @@
 {
   "cep": "45380970",
   "logradouro": "Praça Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Itaipê",
   "localidade": "Planaltino",
   "uf": "BA",
-  "ibge": "2924900"
+  "ibge": "2924900",
+  "latitude": "-10.2601704",
+  "longitude": "-40.1947585"
 }

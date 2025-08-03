@@ -5,5 +5,7 @@
   "bairro": "Felipe Camarão",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-5.8265693",
+  "longitude": "-35.2509659"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68115971",
   "logradouro": "Vila de Boim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boim",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "latitude": "-2.5361978",
+  "longitude": "-55.3673601"
 }

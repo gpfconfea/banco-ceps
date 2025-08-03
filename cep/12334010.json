@@ -5,5 +5,7 @@
   "bairro": "Condomínio Lagoinha",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.2656594",
+  "longitude": "-45.9597454"
 }

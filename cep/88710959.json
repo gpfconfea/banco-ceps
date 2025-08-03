@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Treze de Maio",
   "uf": "SC",
-  "ibge": "4218400"
+  "ibge": "4218400",
+  "latitude": "-28.55877",
+  "longitude": "-49.14798"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "45605905",
   "logradouro": "Avenida Aziz Maron",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Vitória",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "latitude": "-14.7961964",
+  "longitude": "-39.2745761"
 }

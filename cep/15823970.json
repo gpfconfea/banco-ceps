@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Elisiário",
   "uf": "SP",
-  "ibge": "3514924"
+  "ibge": "3514924",
+  "latitude": "-21.1674141",
+  "longitude": "-49.112657"
 }

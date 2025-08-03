@@ -5,5 +5,7 @@
   "bairro": "Chácara Santa Filomena",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-23.01962",
+  "longitude": "-47.49709"
 }

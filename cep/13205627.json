@@ -5,5 +5,7 @@
   "bairro": "Chácara Recreio Lagoa dos Patos",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.140863",
+  "longitude": "-47.1194432"
 }

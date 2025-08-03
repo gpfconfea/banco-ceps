@@ -5,5 +5,7 @@
   "bairro": "Mato Queimado",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "latitude": "-29.3505244",
+  "longitude": "-50.8945432"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63925974",
   "logradouro": "Rua Maria Araújo Ângelo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cipó dos Anjos",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.9684385",
+  "longitude": "-39.0161259"
 }

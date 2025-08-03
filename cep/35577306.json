@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.47469",
+  "longitude": "-45.42966"
 }

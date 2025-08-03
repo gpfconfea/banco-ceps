@@ -1,9 +1,11 @@
 {
   "cep": "72988970",
   "logradouro": "Rua Anhanguera",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jaranápolis",
   "localidade": "Pirenópolis",
   "uf": "GO",
-  "ibge": "5217302"
+  "ibge": "5217302",
+  "latitude": "-16.019433",
+  "longitude": "-49.1130127"
 }

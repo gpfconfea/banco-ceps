@@ -5,5 +5,7 @@
   "bairro": "Seriema",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-22.8011555",
+  "longitude": "-43.3542449"
 }

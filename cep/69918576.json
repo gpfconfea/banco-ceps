@@ -5,5 +5,7 @@
   "bairro": "Vila Ivonete",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-23.5426917",
+  "longitude": "-46.5567948"
 }

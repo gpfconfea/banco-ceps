@@ -5,5 +5,7 @@
   "bairro": "Nova Cardoso",
   "localidade": "Itajobi",
   "uf": "SP",
-  "ibge": "3521903"
+  "ibge": "3521903",
+  "latitude": "-21.3335749",
+  "longitude": "-49.1601944"
 }

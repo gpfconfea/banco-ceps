@@ -1,9 +1,11 @@
 {
   "cep": "64253970",
   "logradouro": "Rua Projetada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Milton Brandão",
   "uf": "PI",
-  "ibge": "2206357"
+  "ibge": "2206357",
+  "latitude": "-5.11623",
+  "longitude": "-42.77856"
 }

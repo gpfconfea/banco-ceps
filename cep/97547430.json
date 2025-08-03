@@ -5,5 +5,7 @@
   "bairro": "Palma",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "latitude": "-29.925685",
+  "longitude": "-50.8901987"
 }

@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Natalino Pelloso",
   "localidade": "Getulina",
   "uf": "SP",
-  "ibge": "3517000"
+  "ibge": "3517000",
+  "latitude": "-21.7979088",
+  "longitude": "-49.9379077"
 }

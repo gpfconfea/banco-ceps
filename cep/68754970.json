@@ -1,9 +1,11 @@
 {
   "cep": "68754970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Murajá",
   "localidade": "Curuçá",
   "uf": "PA",
-  "ibge": "1502905"
+  "ibge": "1502905",
+  "latitude": "-1.355338",
+  "longitude": "-48.3657567"
 }

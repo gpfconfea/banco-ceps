@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Conselheiro Lafaiete",
   "uf": "MG",
-  "ibge": "3118304"
+  "ibge": "3118304",
+  "latitude": "-20.6459085",
+  "longitude": "-43.813273"
 }

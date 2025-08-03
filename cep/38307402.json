@@ -5,5 +5,7 @@
   "bairro": "Sol Nascente",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "latitude": "-16.7159911",
+  "longitude": "-43.8455255"
 }

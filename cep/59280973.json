@@ -1,9 +1,11 @@
 {
   "cep": "59280973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cajazeiras",
   "localidade": "Macaíba",
   "uf": "RN",
-  "ibge": "2407104"
+  "ibge": "2407104",
+  "latitude": "-5.9221236",
+  "longitude": "-35.2916634"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Dom Nery",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2437861",
+  "longitude": "-45.9336995"
 }

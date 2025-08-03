@@ -5,5 +5,7 @@
   "bairro": "Condominio Residencial Colonial Village II",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-22.95318",
+  "longitude": "-45.47382"
 }

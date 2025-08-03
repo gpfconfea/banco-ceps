@@ -5,5 +5,7 @@
   "bairro": "Guadalupe",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.16566",
+  "longitude": "-45.67871"
 }

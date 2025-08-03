@@ -5,5 +5,7 @@
   "bairro": "São Carlos",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3693181",
+  "longitude": "-48.9859194"
 }

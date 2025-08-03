@@ -1,9 +1,11 @@
 {
   "cep": "59663959",
   "logradouro": "Rua PM Ivan",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Zona Rural",
   "localidade": "Serra do Mel",
   "uf": "RN",
-  "ibge": "2413359"
+  "ibge": "2413359",
+  "latitude": "-5.1712526",
+  "longitude": "-37.0276999"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "39783971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Poaia",
   "localidade": "Santa Maria do Suaçuí",
   "uf": "MG",
-  "ibge": "3158201"
+  "ibge": "3158201",
+  "latitude": "-18.190056",
+  "longitude": "-42.4142948"
 }

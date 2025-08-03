@@ -5,5 +5,7 @@
   "bairro": "Clima Bom",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-20.5391589",
+  "longitude": "-47.4330644"
 }

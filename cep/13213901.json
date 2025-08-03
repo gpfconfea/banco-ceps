@@ -1,9 +1,11 @@
 {
   "cep": "13213901",
   "logradouro": "Avenida das Indústrias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Industrial",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1463081",
+  "longitude": "-46.9390946"
 }

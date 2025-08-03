@@ -1,9 +1,11 @@
 {
   "cep": "99955959",
   "logradouro": "Rua Quatro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Vila Lângaro",
   "uf": "RS",
-  "ibge": "4323358"
+  "ibge": "4323358",
+  "latitude": "-28.10747",
+  "longitude": "-52.1456"
 }

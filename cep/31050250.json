@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9014607",
+  "longitude": "-43.891695"
 }

@@ -5,5 +5,7 @@
   "bairro": "Caiçara",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "latitude": "-19.8392475",
+  "longitude": "-44.603628"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-25.0216636",
+  "longitude": "-47.9342751"
 }

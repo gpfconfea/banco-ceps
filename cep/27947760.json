@@ -5,5 +5,7 @@
   "bairro": "Botafogo",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "latitude": "-22.8498738",
+  "longitude": "-42.3236664"
 }

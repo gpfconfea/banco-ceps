@@ -1,9 +1,11 @@
 {
   "cep": "42801903",
   "logradouro": "Rua Princesa Isabel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Nascente do Rio Capivara",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.7300678",
+  "longitude": "-38.2942571"
 }

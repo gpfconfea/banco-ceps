@@ -5,5 +5,7 @@
   "bairro": "Vila Constança",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.508597",
+  "longitude": "-46.5029191"
 }

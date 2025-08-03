@@ -5,5 +5,7 @@
   "bairro": "Jardim Atlântico",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.1418341",
+  "longitude": "-40.1908406"
 }

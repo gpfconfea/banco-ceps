@@ -1,9 +1,11 @@
 {
   "cep": "64725970",
   "logradouro": "Avenida Presidente Médici",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ribeira do Piauí",
   "uf": "PI",
-  "ibge": "2208874"
+  "ibge": "2208874",
+  "latitude": "-7.6909994",
+  "longitude": "-42.7160892"
 }

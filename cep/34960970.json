@@ -1,9 +1,11 @@
 {
   "cep": "34960970",
   "logradouro": "Rua Outono",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Antônio dos Santos",
   "localidade": "Caeté",
   "uf": "MG",
-  "ibge": "3110004"
+  "ibge": "3110004",
+  "latitude": "-19.7972777",
+  "longitude": "-43.5611293"
 }

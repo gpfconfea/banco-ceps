@@ -1,9 +1,11 @@
 {
   "cep": "55522970",
   "logradouro": "Rua do Cinema",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila José Mariano",
   "localidade": "Ribeirão",
   "uf": "PE",
-  "ibge": "2611804"
+  "ibge": "2611804",
+  "latitude": "-8.024421",
+  "longitude": "-34.9009249"
 }

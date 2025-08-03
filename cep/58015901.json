@@ -1,9 +1,11 @@
 {
   "cep": "58015901",
   "logradouro": "Avenida Feliciano Cirne",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jaguaribe",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.1370297",
+  "longitude": "-34.8732589"
 }

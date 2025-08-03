@@ -5,5 +5,7 @@
   "bairro": "Vila Operária",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.3962458",
+  "longitude": "-43.5169905"
 }

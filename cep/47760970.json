@@ -1,9 +1,11 @@
 {
   "cep": "47760970",
   "logradouro": "Rua Tiradentes Quadra 23 Lote 03",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tabocas do Brejo Velho",
   "uf": "BA",
-  "ibge": "2930907"
+  "ibge": "2930907",
+  "latitude": "-12.7050771",
+  "longitude": "-44.0099634"
 }

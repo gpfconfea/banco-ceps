@@ -1,9 +1,11 @@
 {
   "cep": "79440990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Jaraguari",
   "uf": "MS",
-  "ibge": "5004908"
+  "ibge": "5004908",
+  "latitude": "-20.48569",
+  "longitude": "-54.74566"
 }

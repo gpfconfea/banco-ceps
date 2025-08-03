@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "latitude": "-19.0649221",
+  "longitude": "-41.7870536"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Maria",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6240383",
+  "longitude": "-46.48571"
 }

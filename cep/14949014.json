@@ -5,5 +5,7 @@
   "bairro": "Centro (Cambaratiba)",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.74285",
+  "longitude": "-49.02449"
 }

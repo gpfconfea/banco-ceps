@@ -5,5 +5,7 @@
   "bairro": "Vila Jahu",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.87405",
+  "longitude": "-48.4429717"
 }

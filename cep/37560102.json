@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-21.8010709",
+  "longitude": "-46.6043834"
 }
