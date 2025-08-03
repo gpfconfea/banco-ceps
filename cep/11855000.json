@@ -5,5 +5,7 @@
   "bairro": "Pedro Barros",
   "localidade": "Miracatu",
   "uf": "SP",
-  "ibge": "3529906"
+  "ibge": "3529906",
+  "latitude": "-24.2496943",
+  "longitude": "-47.3732226"
 }

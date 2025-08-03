@@ -1,9 +1,11 @@
 {
   "cep": "26553959",
   "logradouro": "Rua Goiás",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Mesquita",
   "uf": "RJ",
-  "ibge": "3302858"
+  "ibge": "3302858",
+  "latitude": "-22.7812314",
+  "longitude": "-43.4319931"
 }

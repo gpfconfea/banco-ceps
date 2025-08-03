@@ -5,5 +5,7 @@
   "bairro": "Residencial Araçá",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-29.1829309",
+  "longitude": "-51.2017605"
 }

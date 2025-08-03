@@ -1,9 +1,11 @@
 {
   "cep": "25860970",
   "logradouro": "Praça José da Mota Vizeu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Werneck",
   "localidade": "Paraíba do Sul",
   "uf": "RJ",
-  "ibge": "3303708"
+  "ibge": "3303708",
+  "latitude": "-22.2212077",
+  "longitude": "-43.3152981"
 }

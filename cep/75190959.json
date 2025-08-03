@@ -1,9 +1,11 @@
 {
   "cep": "75190959",
   "logradouro": "Rua Joaquim Bonifácio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Leopoldo de Bulhões",
   "uf": "GO",
-  "ibge": "5212303"
+  "ibge": "5212303",
+  "latitude": "-16.6219162",
+  "longitude": "-48.750903"
 }

@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.3594865",
+  "longitude": "-51.4717811"
 }

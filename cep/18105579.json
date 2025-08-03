@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial dos Reis",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4064312",
+  "longitude": "-47.3778397"
 }

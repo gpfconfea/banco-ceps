@@ -5,5 +5,7 @@
   "bairro": "Jardim Sotero Costa",
   "localidade": "Águas de Santa Bárbara",
   "uf": "SP",
-  "ibge": "3500550"
+  "ibge": "3500550",
+  "latitude": "-22.8865698",
+  "longitude": "-49.234802"
 }

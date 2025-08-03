@@ -1,9 +1,11 @@
 {
   "cep": "56470990",
   "logradouro": "Avenida Eletrobrás Sul - Centro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Jatobá",
   "uf": "PE",
-  "ibge": "2608057"
+  "ibge": "2608057",
+  "latitude": "-9.1750118",
+  "longitude": "-38.250338"
 }

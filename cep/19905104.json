@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-23.0031118",
+  "longitude": "-49.8826892"
 }

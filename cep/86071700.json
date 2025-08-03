@@ -5,5 +5,7 @@
   "bairro": "Santa Rita 1",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2846433",
+  "longitude": "-51.191109"
 }

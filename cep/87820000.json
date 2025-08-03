@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cidade Gaúcha",
   "uf": "PR",
-  "ibge": "4105607"
+  "ibge": "4105607",
+  "latitude": "-23.3816558",
+  "longitude": "-52.9444098"
 }

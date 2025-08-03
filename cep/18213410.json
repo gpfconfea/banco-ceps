@@ -5,5 +5,7 @@
   "bairro": "Jardim Vieira de Moraes",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5715577",
+  "longitude": "-48.0276601"
 }

@@ -6,5 +6,7 @@
   "bairro": "Residencial Portal do Bosque",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "latitude": "-21.11998",
+  "longitude": "-48.95409"
 }

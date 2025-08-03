@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Juvenal Bernini",
   "localidade": "Platina",
   "uf": "SP",
-  "ibge": "3539707"
+  "ibge": "3539707",
+  "latitude": "-22.63109",
+  "longitude": "-50.2039"
 }

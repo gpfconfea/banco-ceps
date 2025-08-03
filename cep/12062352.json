@@ -5,5 +5,7 @@
   "bairro": "Parque Esperança",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0074967",
+  "longitude": "-45.5515606"
 }

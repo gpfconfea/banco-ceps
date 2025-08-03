@@ -5,5 +5,7 @@
   "bairro": "Residencial Porto Seguro",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-29.8060549",
+  "longitude": "-51.8777851"
 }

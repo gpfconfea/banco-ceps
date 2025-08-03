@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Carandaí",
   "localidade": "Carandaí",
   "uf": "MG",
-  "ibge": "3113206"
+  "ibge": "3113206",
+  "latitude": "-20.95304",
+  "longitude": "-43.80695"
 }

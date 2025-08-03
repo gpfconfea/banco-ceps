@@ -5,5 +5,7 @@
   "bairro": "Álvaro Weyne",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-23.6154841",
+  "longitude": "-46.4439887"
 }

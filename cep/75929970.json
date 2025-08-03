@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Castelândia",
   "uf": "GO",
-  "ibge": "5205059"
+  "ibge": "5205059",
+  "latitude": "-18.0881447",
+  "longitude": "-50.2270715"
 }

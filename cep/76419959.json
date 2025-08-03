@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Campinorte",
   "uf": "GO",
-  "ibge": "5204706"
+  "ibge": "5204706",
+  "latitude": "-14.3141779",
+  "longitude": "-49.1515199"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55770971",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado de Serra da Cachoeira",
   "localidade": "Vertentes",
   "uf": "PE",
-  "ibge": "2616209"
+  "ibge": "2616209",
+  "latitude": "-7.7962833",
+  "longitude": "-35.9543034"
 }

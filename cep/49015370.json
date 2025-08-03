@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "latitude": "-22.016964",
+  "longitude": "-47.4087573"
 }

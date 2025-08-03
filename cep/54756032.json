@@ -5,5 +5,7 @@
   "bairro": "São Paulo",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "latitude": "-8.0072666",
+  "longitude": "-34.9737566"
 }

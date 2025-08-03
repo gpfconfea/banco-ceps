@@ -1,9 +1,11 @@
 {
   "cep": "84538970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Angai",
   "localidade": "Fernandes Pinheiro",
   "uf": "PR",
-  "ibge": "4107736"
+  "ibge": "4107736",
+  "latitude": "-25.463471",
+  "longitude": "-50.568185"
 }

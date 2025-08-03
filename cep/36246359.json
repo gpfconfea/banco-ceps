@@ -5,5 +5,7 @@
   "bairro": "Quarto Depósito",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "latitude": "-21.4737213",
+  "longitude": "-43.5443143"
 }

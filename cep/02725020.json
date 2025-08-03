@@ -5,5 +5,7 @@
   "bairro": "Vila Palmeiras",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.3271212",
+  "longitude": "-47.8001668"
 }

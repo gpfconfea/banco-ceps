@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-19.885866",
+  "longitude": "-40.8788027"
 }

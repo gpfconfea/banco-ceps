@@ -5,5 +5,7 @@
   "bairro": "Jardim Bi-Centenário",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4112399",
+  "longitude": "-46.9600624"
 }

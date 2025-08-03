@@ -5,5 +5,7 @@
   "bairro": "Ronda",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "latitude": "-25.1132615",
+  "longitude": "-50.183448"
 }

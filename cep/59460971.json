@@ -1,9 +1,11 @@
 {
   "cep": "59460971",
   "logradouro": "Rua Projetada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cabaço",
   "localidade": "São Paulo do Potengi",
   "uf": "RN",
-  "ibge": "2412609"
+  "ibge": "2412609",
+  "latitude": "-5.8688984",
+  "longitude": "-35.7650946"
 }

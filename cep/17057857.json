@@ -5,5 +5,7 @@
   "bairro": "Recanto Aprazível",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3282261",
+  "longitude": "-49.16463"
 }

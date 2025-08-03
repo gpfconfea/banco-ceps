@@ -5,5 +5,7 @@
   "bairro": "Vila Aurora",
   "localidade": "Bom Despacho",
   "uf": "MG",
-  "ibge": "3107406"
+  "ibge": "3107406",
+  "latitude": "-19.7308012",
+  "longitude": "-45.2524228"
 }

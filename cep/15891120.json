@@ -5,5 +5,7 @@
   "bairro": "Residencial Paulino Davanzzo III",
   "localidade": "Uchoa",
   "uf": "SP",
-  "ibge": "3555604"
+  "ibge": "3555604",
+  "latitude": "-20.964217",
+  "longitude": "-49.186751"
 }

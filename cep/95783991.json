@@ -1,9 +1,11 @@
 {
   "cep": "95783991",
   "logradouro": "Rua 20 de Março",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pareci Novo",
   "uf": "RS",
-  "ibge": "4314035"
+  "ibge": "4314035",
+  "latitude": "-29.6342",
+  "longitude": "-51.40306"
 }

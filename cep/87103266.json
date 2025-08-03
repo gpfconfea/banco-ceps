@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Dona Angelina (Iguatemi)",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3789411",
+  "longitude": "-52.0647904"
 }

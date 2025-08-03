@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Alberto Marques",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-22.7074034",
+  "longitude": "-46.8144541"
 }

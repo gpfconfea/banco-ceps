@@ -1,9 +1,11 @@
 {
   "cep": "83393971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tibicanga",
   "localidade": "Guaraqueçaba",
   "uf": "PR",
-  "ibge": "4109500"
+  "ibge": "4109500",
+  "latitude": "-25.4571237",
+  "longitude": "-48.2466635"
 }

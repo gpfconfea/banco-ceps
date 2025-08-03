@@ -5,5 +5,7 @@
   "bairro": "Vila da Paz",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-21.1280007",
+  "longitude": "-47.8195683"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "21941907",
   "logradouro": "Rua Paulo Emidio Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cidade Universitária",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8670455",
+  "longitude": "-43.2182066"
 }

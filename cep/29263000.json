@@ -5,5 +5,7 @@
   "bairro": "Isabel",
   "localidade": "Domingos Martins",
   "uf": "ES",
-  "ibge": "3201902"
+  "ibge": "3201902",
+  "latitude": "-20.3795956",
+  "longitude": "-40.598677"
 }

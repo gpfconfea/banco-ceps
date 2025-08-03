@@ -5,5 +5,7 @@
   "bairro": "Vila Votocel",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5528155",
+  "longitude": "-47.4428492"
 }

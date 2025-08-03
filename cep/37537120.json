@@ -6,5 +6,7 @@
   "bairro": "Fortaleza",
   "localidade": "Santa Rita do Sapucaí",
   "uf": "MG",
-  "ibge": "3159605"
+  "ibge": "3159605",
+  "latitude": "-22.25211",
+  "longitude": "-45.69263"
 }

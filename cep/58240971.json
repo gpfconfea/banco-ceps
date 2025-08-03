@@ -1,9 +1,11 @@
 {
   "cep": "58240971",
   "logradouro": "Distrito Cachoeirinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tacima",
   "uf": "PB",
-  "ibge": "2516409"
+  "ibge": "2516409",
+  "latitude": "-29.9195665",
+  "longitude": "-51.0751669"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Vitória",
   "localidade": "Congonhas",
   "uf": "MG",
-  "ibge": "3118007"
+  "ibge": "3118007",
+  "latitude": "-20.49785",
+  "longitude": "-43.87683"
 }

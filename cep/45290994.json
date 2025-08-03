@@ -1,9 +1,11 @@
 {
   "cep": "45290994",
   "logradouro": "Praça Valvimata Veiga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ibicuí",
   "uf": "BA",
-  "ibge": "2912301"
+  "ibge": "2912301",
+  "latitude": "-14.84353",
+  "longitude": "-39.99007"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "28765971",
   "logradouro": "Rua Licamor Heller",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila da Grama",
   "localidade": "Trajano de Moraes",
   "uf": "RJ",
-  "ibge": "3305901"
+  "ibge": "3305901",
+  "latitude": "-22.065931",
+  "longitude": "-42.0670481"
 }

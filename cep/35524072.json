@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.86884",
+  "longitude": "-44.99009"
 }

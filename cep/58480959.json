@@ -1,9 +1,11 @@
 {
   "cep": "58480959",
   "logradouro": "Avenida 4 de junho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cabaceiras",
   "uf": "PB",
-  "ibge": "2503100"
+  "ibge": "2503100",
+  "latitude": "-7.49078",
+  "longitude": "-36.28801"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vivenda",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.138269",
+  "longitude": "-46.9155413"
 }

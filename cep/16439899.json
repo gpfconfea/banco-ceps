@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Guaiçara",
   "localidade": "Guaiçara",
   "uf": "SP",
-  "ibge": "3517208"
+  "ibge": "3517208",
+  "latitude": "-21.62572",
+  "longitude": "-49.79821"
 }

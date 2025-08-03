@@ -1,9 +1,11 @@
 {
   "cep": "28860972",
   "logradouro": "Rua da Estação",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio Dourado",
   "localidade": "Casimiro de Abreu",
   "uf": "RJ",
-  "ibge": "3301306"
+  "ibge": "3301306",
+  "latitude": "-22.466667",
+  "longitude": "-42.066667"
 }

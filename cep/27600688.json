@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Valença",
   "uf": "RJ",
-  "ibge": "3306107"
+  "ibge": "3306107",
+  "latitude": "-22.22785",
+  "longitude": "-44.06256"
 }

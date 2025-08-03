@@ -5,5 +5,7 @@
   "bairro": "Bosque",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-10.9294826",
+  "longitude": "-69.563559"
 }

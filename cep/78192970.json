@@ -1,9 +1,11 @@
 {
   "cep": "78192970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Joselândia",
   "localidade": "Barão de Melgaço",
   "uf": "MT",
-  "ibge": "5101605"
+  "ibge": "5101605",
+  "latitude": "-15.5947198",
+  "longitude": "-56.0955552"
 }

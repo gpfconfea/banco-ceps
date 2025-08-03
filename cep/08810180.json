@@ -5,5 +5,7 @@
   "bairro": "Vila Suissa",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.4967719",
+  "longitude": "-46.1511304"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62263974",
   "logradouro": "Rua Raimundo Chaves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Amanaiara",
   "localidade": "Reriutaba",
   "uf": "CE",
-  "ibge": "2311702"
+  "ibge": "2311702",
+  "latitude": "-3.6691431",
+  "longitude": "-39.2396192"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55770972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João do Ferraz",
   "localidade": "Vertentes",
   "uf": "PE",
-  "ibge": "2616209"
+  "ibge": "2616209",
+  "latitude": "-22.6235773",
+  "longitude": "-46.7358008"
 }

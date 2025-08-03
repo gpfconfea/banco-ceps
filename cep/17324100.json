@@ -6,5 +6,7 @@
   "bairro": "Parque das Praias da Serra Verde",
   "localidade": "Mineiros do Tietê",
   "uf": "SP",
-  "ibge": "3529807"
+  "ibge": "3529807",
+  "latitude": "-22.52588",
+  "longitude": "-48.44091"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Ivar Saldanha",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-5.4978515",
+  "longitude": "-47.4898611"
 }

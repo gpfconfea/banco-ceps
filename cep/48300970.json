@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Conde",
   "uf": "BA",
-  "ibge": "2908606"
+  "ibge": "2908606",
+  "latitude": "-14.855279",
+  "longitude": "-40.840696"
 }

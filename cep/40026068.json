@@ -6,5 +6,7 @@
   "bairro": "Centro Histórico",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9887577",
+  "longitude": "-38.4763022"
 }

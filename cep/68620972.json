@@ -1,9 +1,11 @@
 {
   "cep": "68620972",
   "logradouro": "Distrito de Fernandes Belo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Viseu",
   "uf": "PA",
-  "ibge": "1508308"
+  "ibge": "1508308",
+  "latitude": "-1.1994729",
+  "longitude": "-46.1392529"
 }

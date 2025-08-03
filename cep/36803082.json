@@ -5,5 +5,7 @@
   "bairro": "Triângulo",
   "localidade": "Carangola",
   "uf": "MG",
-  "ibge": "3113305"
+  "ibge": "3113305",
+  "latitude": "-20.7395292",
+  "longitude": "-42.0343001"
 }

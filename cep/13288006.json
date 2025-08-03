@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Benedito Storani",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-23.0596825",
+  "longitude": "-46.9992529"
 }

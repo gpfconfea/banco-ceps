@@ -5,5 +5,7 @@
   "bairro": "Lagoa Azul",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-5.7306264",
+  "longitude": "-35.2536283"
 }

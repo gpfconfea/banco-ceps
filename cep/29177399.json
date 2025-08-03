@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.1118",
+  "longitude": "-40.30983"
 }

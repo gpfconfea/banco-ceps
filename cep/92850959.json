@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sertão Santana",
   "uf": "RS",
-  "ibge": "4320552"
+  "ibge": "4320552",
+  "latitude": "-30.45957",
+  "longitude": "-51.59757"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "28330970",
   "logradouro": "Rua Coronel Macário",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Retiro do Muriaé",
   "localidade": "Itaperuna",
   "uf": "RJ",
-  "ibge": "3302205"
+  "ibge": "3302205",
+  "latitude": "-21.2078939",
+  "longitude": "-41.8864094"
 }

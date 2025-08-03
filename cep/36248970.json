@@ -1,9 +1,11 @@
 {
   "cep": "36248970",
   "logradouro": "Rua Trajano Calderaro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Conceição do Formoso",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "latitude": "-21.4277322",
+  "longitude": "-43.3560096"
 }

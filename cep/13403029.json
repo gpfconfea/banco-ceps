@@ -5,5 +5,7 @@
   "bairro": "Castelinho",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.7315283",
+  "longitude": "-47.665763"
 }

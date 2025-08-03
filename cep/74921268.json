@@ -5,5 +5,7 @@
   "bairro": "Fazenda Santo Antônio",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7544963",
+  "longitude": "-49.2036593"
 }

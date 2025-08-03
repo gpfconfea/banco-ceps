@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Itaju",
   "uf": "SP",
-  "ibge": "3522000"
+  "ibge": "3522000",
+  "latitude": "-21.9835557",
+  "longitude": "-48.8029006"
 }

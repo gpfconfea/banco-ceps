@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Quirinópolis",
   "uf": "GO",
-  "ibge": "5218508"
+  "ibge": "5218508",
+  "latitude": "-18.4553313",
+  "longitude": "-50.4552864"
 }

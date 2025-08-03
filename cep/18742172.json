@@ -5,5 +5,7 @@
   "bairro": "Residencial Novo Centro",
   "localidade": "Taquarituba",
   "uf": "SP",
-  "ibge": "3553807"
+  "ibge": "3553807",
+  "latitude": "-23.5312998",
+  "longitude": "-49.2366999"
 }

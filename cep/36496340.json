@@ -5,5 +5,7 @@
   "bairro": "Amália Rodrigues",
   "localidade": "Ouro Branco",
   "uf": "MG",
-  "ibge": "3145901"
+  "ibge": "3145901",
+  "latitude": "-20.5284935",
+  "longitude": "-43.6891901"
 }

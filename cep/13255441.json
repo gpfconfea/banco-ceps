@@ -5,5 +5,7 @@
   "bairro": "Condominio Residencial Paradiso",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.0524566",
+  "longitude": "-46.901521"
 }

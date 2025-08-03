@@ -5,5 +5,7 @@
   "bairro": "Antenor Barion",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.1476933",
+  "longitude": "-49.9404218"
 }

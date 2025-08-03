@@ -5,5 +5,7 @@
   "bairro": "Jardim Zico Pires",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.10021",
+  "longitude": "-47.71193"
 }

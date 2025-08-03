@@ -5,5 +5,7 @@
   "bairro": "Residencial Nunes de Morais 2ª Etapa",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6540873",
+  "longitude": "-49.3557546"
 }

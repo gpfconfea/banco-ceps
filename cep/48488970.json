@@ -1,9 +1,11 @@
 {
   "cep": "48488970",
   "logradouro": "Rua Nova",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mimoso",
   "localidade": "Sátiro Dias",
   "uf": "BA",
-  "ibge": "2929701"
+  "ibge": "2929701",
+  "latitude": "-11.6582056",
+  "longitude": "-38.4885328"
 }

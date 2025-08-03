@@ -5,5 +5,7 @@
   "bairro": "Vila Cafeteira",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.4887069",
+  "longitude": "-47.4603841"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55409970",
   "logradouro": "Rua José Pelegrino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jaqueira",
   "uf": "PE",
-  "ibge": "2607950"
+  "ibge": "2607950",
+  "latitude": "-8.7308005",
+  "longitude": "-35.7945486"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Antunes",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-23.1960665",
+  "longitude": "-45.8900447"
 }

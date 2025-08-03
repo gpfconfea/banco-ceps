@@ -6,5 +6,7 @@
   "bairro": "Residencial Lagoa Bonita I",
   "localidade": "Engenheiro Coelho",
   "uf": "SP",
-  "ibge": "3515152"
+  "ibge": "3515152",
+  "latitude": "-22.487302",
+  "longitude": "-47.1657301"
 }

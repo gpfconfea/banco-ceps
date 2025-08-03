@@ -1,9 +1,11 @@
 {
   "cep": "86835970",
   "logradouro": "Rua Londrina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio do Palmital",
   "localidade": "Rio Bom",
   "uf": "PR",
-  "ibge": "4122107"
+  "ibge": "4122107",
+  "latitude": "-23.825033",
+  "longitude": "-51.4257448"
 }

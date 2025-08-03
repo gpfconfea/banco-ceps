@@ -5,5 +5,7 @@
   "bairro": "Vila Rute",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4725202",
+  "longitude": "-46.556628"
 }

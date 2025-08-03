@@ -6,5 +6,7 @@
   "bairro": "Bandeirantes",
   "localidade": "Lucas do Rio Verde",
   "uf": "MT",
-  "ibge": "5105259"
+  "ibge": "5105259",
+  "latitude": "-13.06366",
+  "longitude": "-55.93355"
 }

@@ -5,5 +5,7 @@
   "bairro": "Antônio Cassimiro",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-22.532815",
+  "longitude": "-52.9540945"
 }

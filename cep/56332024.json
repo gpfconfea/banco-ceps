@@ -5,5 +5,7 @@
   "bairro": "Henrique Leite",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-9.3891657",
+  "longitude": "-40.463117"
 }

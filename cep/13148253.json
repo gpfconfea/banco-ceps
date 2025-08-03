@@ -5,5 +5,7 @@
   "bairro": "Betel",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "latitude": "-23.6055675",
+  "longitude": "-46.7521341"
 }

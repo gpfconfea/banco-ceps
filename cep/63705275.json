@@ -5,5 +5,7 @@
   "bairro": "Cidade 2000",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "latitude": "-5.24214",
+  "longitude": "-40.91963"
 }

@@ -5,5 +5,7 @@
   "bairro": "Baia Alta",
   "localidade": "Ponte Serrada",
   "uf": "SC",
-  "ibge": "4213401"
+  "ibge": "4213401",
+  "latitude": "-26.8604652",
+  "longitude": "-52.028557"
 }

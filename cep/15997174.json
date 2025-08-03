@@ -5,5 +5,7 @@
   "bairro": "Jardim Popular",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "latitude": "-21.5906083",
+  "longitude": "-48.3445876"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Saint Patrick 2",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5189115",
+  "longitude": "-47.5257476"
 }

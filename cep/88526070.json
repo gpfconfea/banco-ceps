@@ -5,5 +5,7 @@
   "bairro": "Popular",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.825035",
+  "longitude": "-50.3085736"
 }

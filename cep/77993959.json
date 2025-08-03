@@ -1,9 +1,11 @@
 {
   "cep": "77993959",
   "logradouro": "Rua Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Esperantina",
   "uf": "TO",
-  "ibge": "1707405"
+  "ibge": "1707405",
+  "latitude": "-5.3664237",
+  "longitude": "-48.5383373"
 }

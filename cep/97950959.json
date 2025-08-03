@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guarani das Missões",
   "uf": "RS",
-  "ibge": "4309506"
+  "ibge": "4309506",
+  "latitude": "-28.14445",
+  "longitude": "-54.5613"
 }

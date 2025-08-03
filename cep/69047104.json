@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-23.6013762",
+  "longitude": "-46.4999387"
 }

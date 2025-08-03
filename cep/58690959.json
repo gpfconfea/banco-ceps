@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Livramento",
   "uf": "PB",
-  "ibge": "2508505"
+  "ibge": "2508505",
+  "latitude": "-7.3753978",
+  "longitude": "-36.9456819"
 }

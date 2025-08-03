@@ -6,5 +6,7 @@
   "bairro": "Parque São Bento",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.60846",
+  "longitude": "-48.06971"
 }

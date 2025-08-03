@@ -5,5 +5,7 @@
   "bairro": "Eucalíptos",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-22.9324498",
+  "longitude": "-45.4766828"
 }

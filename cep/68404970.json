@@ -1,9 +1,11 @@
 {
   "cep": "68404970",
   "logradouro": "Vila do Carapajó",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Carapajó",
   "localidade": "Cametá",
   "uf": "PA",
-  "ibge": "1502103"
+  "ibge": "1502103",
+  "latitude": "-2.2800985",
+  "longitude": "-49.3731516"
 }

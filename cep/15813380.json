@@ -6,5 +6,7 @@
   "bairro": "Residencial Nova Catanduva III",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "latitude": "-21.12803",
+  "longitude": "-48.94861"
 }

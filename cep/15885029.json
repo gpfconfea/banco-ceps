@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Novais",
   "uf": "SP",
-  "ibge": "3533254"
+  "ibge": "3533254",
+  "latitude": "-20.9931547",
+  "longitude": "-48.9165347"
 }

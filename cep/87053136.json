@@ -5,5 +5,7 @@
   "bairro": "Residencial Pioneiro Honorato Vecchi",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4589853",
+  "longitude": "-51.9237405"
 }

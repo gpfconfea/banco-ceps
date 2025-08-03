@@ -5,5 +5,7 @@
   "bairro": "Vila Padre Manoel de Nóbrega",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9118932",
+  "longitude": "-47.1173365"
 }

@@ -5,5 +5,7 @@
   "bairro": "Fazenda Alpina",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "latitude": "-22.386291",
+  "longitude": "-42.956063"
 }

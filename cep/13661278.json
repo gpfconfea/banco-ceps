@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.86997",
+  "longitude": "-47.47844"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Naque",
   "uf": "MG",
-  "ibge": "3144359"
+  "ibge": "3144359",
+  "latitude": "-19.2267277",
+  "longitude": "-42.3294588"
 }

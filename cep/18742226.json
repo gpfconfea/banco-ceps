@@ -6,5 +6,7 @@
   "bairro": "Residencial Colina Verde",
   "localidade": "Taquarituba",
   "uf": "SP",
-  "ibge": "3553807"
+  "ibge": "3553807",
+  "latitude": "-23.5307045",
+  "longitude": "-49.2373058"
 }

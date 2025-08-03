@@ -5,5 +5,7 @@
   "bairro": "Rua Nova",
   "localidade": "Belém",
   "uf": "PB",
-  "ibge": "2501906"
+  "ibge": "2501906",
+  "latitude": "-6.7435469",
+  "longitude": "-35.5149665"
 }

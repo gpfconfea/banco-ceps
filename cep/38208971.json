@@ -1,9 +1,11 @@
 {
   "cep": "38208971",
   "logradouro": "Rua C",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Barroso",
   "localidade": "Frutal",
   "uf": "MG",
-  "ibge": "3127107"
+  "ibge": "3127107",
+  "latitude": "-16.1762483",
+  "longitude": "-42.3023188"
 }

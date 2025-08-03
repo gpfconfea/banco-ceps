@@ -5,5 +5,7 @@
   "bairro": "Saliola",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2259778",
+  "longitude": "-49.9473863"
 }

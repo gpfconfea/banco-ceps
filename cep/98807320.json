@@ -5,5 +5,7 @@
   "bairro": "Esperança",
   "localidade": "Santo Ângelo",
   "uf": "RS",
-  "ibge": "4317509"
+  "ibge": "4317509",
+  "latitude": "-28.299205",
+  "longitude": "-54.2430545"
 }

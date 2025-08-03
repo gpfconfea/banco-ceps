@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Valle Verde",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.9154122",
+  "longitude": "-48.1949874"
 }

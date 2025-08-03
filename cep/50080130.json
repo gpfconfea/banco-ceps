@@ -5,5 +5,7 @@
   "bairro": "Ilha Joana Bezerra",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-20.3532976",
+  "longitude": "-40.3664396"
 }

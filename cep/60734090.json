@@ -5,5 +5,7 @@
   "bairro": "Canindezinho",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.8160522",
+  "longitude": "-38.605262"
 }

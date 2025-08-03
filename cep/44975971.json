@@ -1,9 +1,11 @@
 {
   "cep": "44975971",
   "logradouro": "Praça do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Iguitu",
   "localidade": "Ibipeba",
   "uf": "BA",
-  "ibge": "2912400"
+  "ibge": "2912400",
+  "latitude": "-11.6427819",
+  "longitude": "-42.0139553"
 }

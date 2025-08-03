@@ -5,5 +5,7 @@
   "bairro": "João Goulart",
   "localidade": "Santiago",
   "uf": "RS",
-  "ibge": "4317400"
+  "ibge": "4317400",
+  "latitude": "-29.17461",
+  "longitude": "-54.86338"
 }

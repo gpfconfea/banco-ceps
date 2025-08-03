@@ -1,9 +1,11 @@
 {
   "cep": "58397974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Usina Santa Maria",
   "localidade": "Areia",
   "uf": "PB",
-  "ibge": "2501104"
+  "ibge": "2501104",
+  "latitude": "39.058475",
+  "longitude": "-9.400948"
 }
