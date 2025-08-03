@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "latitude": "-21.4566918",
+  "longitude": "-43.5588193"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guapé",
   "uf": "MG",
-  "ibge": "3128105"
+  "ibge": "3128105",
+  "latitude": "-20.72406",
+  "longitude": "-46.60599"
 }

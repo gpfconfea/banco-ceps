@@ -6,5 +6,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.8624892",
+  "longitude": "-46.328681"
 }

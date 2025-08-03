@@ -1,9 +1,11 @@
 {
   "cep": "59655972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Ponta do Mel",
   "localidade": "Areia Branca",
   "uf": "RN",
-  "ibge": "2401107"
+  "ibge": "2401107",
+  "latitude": "-10.7862582",
+  "longitude": "-37.377568"
 }

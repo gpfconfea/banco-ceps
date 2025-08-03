@@ -5,5 +5,7 @@
   "bairro": "Flórida",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-24.0673158",
+  "longitude": "-46.5655952"
 }

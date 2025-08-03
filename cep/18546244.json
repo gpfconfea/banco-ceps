@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Rafael Alcalá",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.20303",
+  "longitude": "-47.51457"
 }

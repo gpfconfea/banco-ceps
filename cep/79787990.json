@@ -1,9 +1,11 @@
 {
   "cep": "79787990",
   "logradouro": "Av. Presidente Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ipezal",
   "localidade": "Angélica",
   "uf": "MS",
-  "ibge": "5000856"
+  "ibge": "5000856",
+  "latitude": "-22.6318547",
+  "longitude": "-43.2101878"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62958974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Chile",
   "localidade": "Ibicuitinga",
   "uf": "CE",
-  "ibge": "2305332"
+  "ibge": "2305332",
+  "latitude": "-4.9808796",
+  "longitude": "-38.6588052"
 }

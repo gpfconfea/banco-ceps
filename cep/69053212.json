@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-23.4617133",
+  "longitude": "-46.2888856"
 }

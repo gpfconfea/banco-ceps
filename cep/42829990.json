@@ -1,9 +1,11 @@
 {
   "cep": "42829990",
   "logradouro": "Rua Senhor do Bonfim - Monte Gordo (Monte Gordo)",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.5990216",
+  "longitude": "-38.0496995"
 }

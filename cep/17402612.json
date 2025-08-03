@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Eucaliptos",
   "localidade": "Garça",
   "uf": "SP",
-  "ibge": "3516705"
+  "ibge": "3516705",
+  "latitude": "-22.22482",
+  "longitude": "-49.64218"
 }

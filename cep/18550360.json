@@ -5,5 +5,7 @@
   "bairro": "Residencial Vitória",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2932229",
+  "longitude": "-47.6612939"
 }

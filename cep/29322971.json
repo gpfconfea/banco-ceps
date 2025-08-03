@@ -1,9 +1,11 @@
 {
   "cep": "29322971",
   "logradouro": "Rua Carlos Viana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Coutinho",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "latitude": "-20.7516046",
+  "longitude": "-41.1887018"
 }

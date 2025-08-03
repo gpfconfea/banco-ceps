@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nossa Senhora das Dores",
   "uf": "SE",
-  "ibge": "2804607"
+  "ibge": "2804607",
+  "latitude": "-29.6889833",
+  "longitude": "-53.7997266"
 }

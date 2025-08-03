@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santo Antônio de Goiás",
   "uf": "GO",
-  "ibge": "5219738"
+  "ibge": "5219738",
+  "latitude": "-16.4861723",
+  "longitude": "-49.3093885"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaíba",
   "uf": "PE",
-  "ibge": "2607505"
+  "ibge": "2607505",
+  "latitude": "-8.9455117",
+  "longitude": "-37.4231169"
 }

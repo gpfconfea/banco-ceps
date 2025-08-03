@@ -1,9 +1,11 @@
 {
   "cep": "58703971",
   "logradouro": "Rua Raniere Mazilli",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Liberdade",
   "localidade": "Patos",
   "uf": "PB",
-  "ibge": "2510808"
+  "ibge": "2510808",
+  "latitude": "-7.1638058",
+  "longitude": "-34.8679869"
 }

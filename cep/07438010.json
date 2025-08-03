@@ -5,5 +5,7 @@
   "bairro": "Jardim Via Dutra",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.4030645",
+  "longitude": "-46.3062912"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "88911970",
   "logradouro": "Rodovia Valmiro Manoel Gonçalves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Morro dos Conventos",
   "localidade": "Araranguá",
   "uf": "SC",
-  "ibge": "4201406"
+  "ibge": "4201406",
+  "latitude": "-28.9399279",
+  "longitude": "-49.4060693"
 }

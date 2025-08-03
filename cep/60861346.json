@@ -5,5 +5,7 @@
   "bairro": "Passaré",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.8168168",
+  "longitude": "-38.5369981"
 }

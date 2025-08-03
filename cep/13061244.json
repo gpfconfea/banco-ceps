@@ -5,5 +5,7 @@
   "bairro": "Vila Castelo Branco",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9167448",
+  "longitude": "-47.1091955"
 }

@@ -5,5 +5,7 @@
   "bairro": "Caceia",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.32834",
+  "longitude": "-46.64853"
 }

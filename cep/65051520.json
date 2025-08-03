@@ -5,5 +5,7 @@
   "bairro": "COHAB Anil IV",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-23.4772157",
+  "longitude": "-46.6213182"
 }

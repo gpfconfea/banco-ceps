@@ -5,5 +5,7 @@
   "bairro": "Jardim Vivendas",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4432297",
+  "longitude": "-49.9908722"
 }

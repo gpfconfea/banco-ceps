@@ -1,9 +1,11 @@
 {
   "cep": "95500995",
   "logradouro": "Estr Catanduvinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Santo Antônio da Patrulha",
   "uf": "RS",
-  "ibge": "4317608"
+  "ibge": "4317608",
+  "latitude": "-29.8217944",
+  "longitude": "-50.618293"
 }

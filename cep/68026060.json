@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "latitude": "40.622259",
+  "longitude": "-75.36547"
 }

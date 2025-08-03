@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque das Flores",
   "localidade": "Mirassol",
   "uf": "SP",
-  "ibge": "3530300"
+  "ibge": "3530300",
+  "latitude": "-20.840153",
+  "longitude": "-49.487237"
 }

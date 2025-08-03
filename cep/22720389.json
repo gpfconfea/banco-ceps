@@ -5,5 +5,7 @@
   "bairro": "Taquara",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9183876",
+  "longitude": "-43.3880356"
 }

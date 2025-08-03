@@ -5,5 +5,7 @@
   "bairro": "Residencial Octávio Cesário",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "latitude": "-23.2827831",
+  "longitude": "-51.284758"
 }

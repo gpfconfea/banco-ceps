@@ -5,5 +5,7 @@
   "bairro": "Residencial Solar de Vilhena",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "latitude": "-23.6617317",
+  "longitude": "-46.569197"
 }

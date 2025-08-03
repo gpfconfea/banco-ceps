@@ -5,5 +5,7 @@
   "bairro": "Jardim Antonio Carlos Bernini",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.49277",
+  "longitude": "-46.9997"
 }

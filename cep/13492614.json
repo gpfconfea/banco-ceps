@@ -6,5 +6,7 @@
   "bairro": "Distrito Industrial Alcides Fantussi",
   "localidade": "Cordeirópolis",
   "uf": "SP",
-  "ibge": "3512407"
+  "ibge": "3512407",
+  "latitude": "-22.5019287",
+  "longitude": "-47.4016019"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62515973",
   "logradouro": "Rua Pedro Paulo de Sousa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barrento",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "latitude": "-3.3111699",
+  "longitude": "-39.5135976"
 }

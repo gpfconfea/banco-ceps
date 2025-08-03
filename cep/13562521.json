@@ -5,5 +5,7 @@
   "bairro": "Residencial Monsenhor Romeu Tortorelli",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-22.0054959",
+  "longitude": "-47.9238998"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "98907970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Espírito Santo",
   "localidade": "Alegria",
   "uf": "RS",
-  "ibge": "4300455"
+  "ibge": "4300455",
+  "latitude": "-2.6257998",
+  "longitude": "-44.2935231"
 }

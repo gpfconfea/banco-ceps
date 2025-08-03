@@ -1,9 +1,11 @@
 {
   "cep": "62597976",
   "logradouro": "Rua Monsenhor Sabino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caiçara",
   "localidade": "Cruz",
   "uf": "CE",
-  "ibge": "2304251"
+  "ibge": "2304251",
+  "latitude": "-2.8582533",
+  "longitude": "-40.4055154"
 }

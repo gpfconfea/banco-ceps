@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Carlo",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-22.4519888",
+  "longitude": "-46.8134161"
 }

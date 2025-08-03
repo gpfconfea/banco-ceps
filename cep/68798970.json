@@ -1,9 +1,11 @@
 {
   "cep": "68798970",
   "logradouro": "Rodovia Augusto Meira Filho Quilômetro 17",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Bárbara do Pará",
   "uf": "PA",
-  "ibge": "1506351"
+  "ibge": "1506351",
+  "latitude": "-1.2823309",
+  "longitude": "-48.2535217"
 }

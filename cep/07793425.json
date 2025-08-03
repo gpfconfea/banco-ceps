@@ -5,5 +5,7 @@
   "bairro": "São Luiz (Polvilho)",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "latitude": "-23.4117252",
+  "longitude": "-46.8381912"
 }

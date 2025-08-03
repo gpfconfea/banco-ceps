@@ -5,5 +5,7 @@
   "bairro": "Novo Paraná",
   "localidade": "Porto dos Gaúchos",
   "uf": "MT",
-  "ibge": "5106802"
+  "ibge": "5106802",
+  "latitude": "-11.6181555",
+  "longitude": "-57.2340166"
 }

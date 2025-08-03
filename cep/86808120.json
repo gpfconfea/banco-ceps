@@ -5,5 +5,7 @@
   "bairro": "Vila Operária 1",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5545522",
+  "longitude": "-51.4529419"
 }

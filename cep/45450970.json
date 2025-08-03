@@ -1,9 +1,11 @@
 {
   "cep": "45450970",
   "logradouro": "Rua Nestor Lopes da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Gandu",
   "uf": "BA",
-  "ibge": "2911204"
+  "ibge": "2911204",
+  "latitude": "-13.74243",
+  "longitude": "-39.48523"
 }

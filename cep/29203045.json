@@ -5,5 +5,7 @@
   "bairro": "Kubitschek",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "latitude": "-20.2425014",
+  "longitude": "-40.2704497"
 }

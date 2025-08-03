@@ -1,9 +1,11 @@
 {
   "cep": "36574970",
   "logradouro": "Rua Wanor Feijó",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barrinha",
   "localidade": "Viçosa",
   "uf": "MG",
-  "ibge": "3171303"
+  "ibge": "3171303",
+  "latitude": "-20.7488148",
+  "longitude": "-42.7824428"
 }

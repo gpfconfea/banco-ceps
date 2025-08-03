@@ -1,9 +1,11 @@
 {
   "cep": "12334900",
   "logradouro": "Estrada do Jaguari",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pagador de Andrade",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.2270111",
+  "longitude": "-45.9929628"
 }

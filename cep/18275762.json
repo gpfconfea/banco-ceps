@@ -5,5 +5,7 @@
   "bairro": "Residencial Donato Flores",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3677918",
+  "longitude": "-47.8661246"
 }

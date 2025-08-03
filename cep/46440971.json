@@ -1,9 +1,11 @@
 {
   "cep": "46440971",
   "logradouro": "Praça Edvaldo Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canabrava",
   "localidade": "Malhada",
   "uf": "BA",
-  "ibge": "2920205"
+  "ibge": "2920205",
+  "latitude": "-14.5557949",
+  "longitude": "-43.7615108"
 }

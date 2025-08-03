@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pinhalzinho",
   "uf": "SP",
-  "ibge": "3538204"
+  "ibge": "3538204",
+  "latitude": "-23.35068",
+  "longitude": "-47.86382"
 }

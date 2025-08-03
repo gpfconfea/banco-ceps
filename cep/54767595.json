@@ -5,5 +5,7 @@
   "bairro": "Santa Mônica",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "latitude": "-23.7010445",
+  "longitude": "-46.7460329"
 }

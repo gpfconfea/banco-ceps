@@ -6,5 +6,7 @@
   "bairro": "Vale Verde",
   "localidade": "Valença",
   "uf": "RJ",
-  "ibge": "3306107"
+  "ibge": "3306107",
+  "latitude": "-22.28529",
+  "longitude": "-43.75702"
 }

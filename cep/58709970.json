@@ -1,9 +1,11 @@
 {
   "cep": "58709970",
   "logradouro": "Rua José Nunes Leite",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Gertrudes",
   "localidade": "Patos",
   "uf": "PB",
-  "ibge": "2510808"
+  "ibge": "2510808",
+  "latitude": "-6.9492832",
+  "longitude": "-37.3956338"
 }

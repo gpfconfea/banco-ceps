@@ -5,5 +5,7 @@
   "bairro": "Cantinho do Mar",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "latitude": "-22.529251",
+  "longitude": "-41.972419"
 }

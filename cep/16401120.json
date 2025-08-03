@@ -5,5 +5,7 @@
   "bairro": "Vila Azevedo",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.6624307",
+  "longitude": "-49.7450199"
 }

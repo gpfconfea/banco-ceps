@@ -1,9 +1,11 @@
 {
   "cep": "55594900",
   "logradouro": "Avenida Portuaria",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Suape",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.3976979",
+  "longitude": "-34.9891964"
 }

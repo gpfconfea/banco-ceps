@@ -5,5 +5,7 @@
   "bairro": "Residencial Anuar Auad",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.69625",
+  "longitude": "-49.10382"
 }

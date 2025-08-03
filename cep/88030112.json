@@ -5,5 +5,7 @@
   "bairro": "João Paulo",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.566674",
+  "longitude": "-48.5103712"
 }

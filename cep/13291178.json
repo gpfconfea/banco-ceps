@@ -5,5 +5,7 @@
   "bairro": "Santa Isabel II",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-23.0757723",
+  "longitude": "-46.9361282"
 }

@@ -5,5 +5,7 @@
   "bairro": "Abadia",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-23.09572",
+  "longitude": "-46.92314"
 }

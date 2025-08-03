@@ -5,5 +5,7 @@
   "bairro": "Distrito Agroindustrial de Senador Canedo",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.7317302",
+  "longitude": "-49.1429981"
 }

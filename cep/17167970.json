@@ -1,9 +1,11 @@
 {
   "cep": "17167970",
   "logradouro": "Rua Amaro Sardinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Izabel",
   "localidade": "Arealva",
   "uf": "SP",
-  "ibge": "3503406"
+  "ibge": "3503406",
+  "latitude": "-22.1175359",
+  "longitude": "-49.0025357"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "14180971",
   "logradouro": "Rua Eugenio Viel Biagi",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Walter Becker",
   "localidade": "Pontal",
   "uf": "SP",
-  "ibge": "3540200"
+  "ibge": "3540200",
+  "latitude": "-21.0193731",
+  "longitude": "-48.048394"
 }

@@ -5,5 +5,7 @@
   "bairro": "Polo do Alumínio",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.44866",
+  "longitude": "-49.49484"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Continental",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.5650991",
+  "longitude": "-48.8194569"
 }

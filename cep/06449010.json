@@ -5,5 +5,7 @@
   "bairro": "Parque Viana",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5406246",
+  "longitude": "-46.8711856"
 }

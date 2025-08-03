@@ -5,5 +5,7 @@
   "bairro": "Cidade São Mateus",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.1914118",
+  "longitude": "-45.8656644"
 }

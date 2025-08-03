@@ -1,9 +1,11 @@
 {
   "cep": "95943970",
   "logradouro": "Estrada Arroio Grande",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vale do Arroio Grande",
   "localidade": "Arroio do Meio",
   "uf": "RS",
-  "ibge": "4301008"
+  "ibge": "4301008",
+  "latitude": "-29.3435158",
+  "longitude": "-51.966124"
 }

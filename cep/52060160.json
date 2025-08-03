@@ -6,5 +6,7 @@
   "bairro": "Casa Amarela",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0053365",
+  "longitude": "-34.9362359"
 }

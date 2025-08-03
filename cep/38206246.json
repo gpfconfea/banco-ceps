@@ -5,5 +5,7 @@
   "bairro": "Zona Sul",
   "localidade": "Frutal",
   "uf": "MG",
-  "ibge": "3127107"
+  "ibge": "3127107",
+  "latitude": "-20.2868072",
+  "longitude": "-49.1669208"
 }

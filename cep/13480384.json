@@ -5,5 +5,7 @@
   "bairro": "Vila São Geraldo",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5785568",
+  "longitude": "-47.3974277"
 }

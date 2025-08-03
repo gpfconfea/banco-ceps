@@ -5,5 +5,7 @@
   "bairro": "Parada de Lucas",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9733518",
+  "longitude": "-44.2952399"
 }

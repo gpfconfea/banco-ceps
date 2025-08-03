@@ -1,9 +1,11 @@
 {
   "cep": "44568970",
   "logradouro": "Vila Taboleiro do Castro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Taboleiro do Castro",
   "localidade": "Varzedo",
   "uf": "BA",
-  "ibge": "2933174"
+  "ibge": "2933174",
+  "latitude": "-12.93303",
+  "longitude": "-39.40005"
 }

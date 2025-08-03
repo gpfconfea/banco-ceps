@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Limpo (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4374506",
+  "longitude": "-46.5739207"
 }

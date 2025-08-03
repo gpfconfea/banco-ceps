@@ -5,5 +5,7 @@
   "bairro": "Jardim das Margaridas",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-22.4820622",
+  "longitude": "-44.0730671"
 }

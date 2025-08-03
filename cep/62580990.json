@@ -1,9 +1,11 @@
 {
   "cep": "62580990",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Acaraú",
   "uf": "CE",
-  "ibge": "2300200"
+  "ibge": "2300200",
+  "latitude": "-3.84092",
+  "longitude": "-38.6426"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68030973",
   "logradouro": "Avenida Cuiabá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caranazal",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "latitude": "-2.4160572",
+  "longitude": "-54.7375156"
 }

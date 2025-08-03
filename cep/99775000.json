@@ -5,5 +5,7 @@
   "bairro": "Dourado",
   "localidade": "Aratiba",
   "uf": "RS",
-  "ibge": "4300901"
+  "ibge": "4300901",
+  "latitude": "-27.4455613",
+  "longitude": "-52.2581651"
 }

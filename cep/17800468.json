@@ -5,5 +5,7 @@
   "bairro": "Vila Fátima",
   "localidade": "Adamantina",
   "uf": "SP",
-  "ibge": "3500105"
+  "ibge": "3500105",
+  "latitude": "-21.67225",
+  "longitude": "-51.08723"
 }

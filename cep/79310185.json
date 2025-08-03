@@ -5,5 +5,7 @@
   "bairro": "Previsul",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "latitude": "-20.5377281",
+  "longitude": "-54.6399472"
 }

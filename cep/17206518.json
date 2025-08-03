@@ -5,5 +5,7 @@
   "bairro": "Residencial Campo Belo",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-22.2635931",
+  "longitude": "-48.566845"
 }

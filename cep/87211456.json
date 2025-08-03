@@ -5,5 +5,7 @@
   "bairro": "Complexo Industrial Bataglia",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "-23.6667028",
+  "longitude": "-52.5736408"
 }

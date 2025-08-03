@@ -1,9 +1,11 @@
 {
   "cep": "85545970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Covó",
   "localidade": "Mangueirinha",
   "uf": "PR",
-  "ibge": "4114401"
+  "ibge": "4114401",
+  "latitude": "-25.85",
+  "longitude": "-52.216667"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque das Paineiras",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4322471",
+  "longitude": "-46.3168007"
 }

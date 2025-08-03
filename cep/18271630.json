@@ -5,5 +5,7 @@
   "bairro": "Vila Doutor Laurindo",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.347532",
+  "longitude": "-47.8326926"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65468959",
   "logradouro": "Avenida do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Matões do Norte",
   "uf": "MA",
-  "ibge": "2106631"
+  "ibge": "2106631",
+  "latitude": "-3.56312",
+  "longitude": "-44.58533"
 }

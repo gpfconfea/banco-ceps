@@ -1,9 +1,11 @@
 {
   "cep": "89310970",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bela Vista do Sul",
   "localidade": "Mafra",
   "uf": "SC",
-  "ibge": "4210100"
+  "ibge": "4210100",
+  "latitude": "-26.5516792",
+  "longitude": "-50.2834109"
 }

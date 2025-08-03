@@ -5,5 +5,7 @@
   "bairro": "Arujá Lagos Residencial",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.4321111",
+  "longitude": "-46.749303"
 }

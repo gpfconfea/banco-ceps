@@ -1,9 +1,11 @@
 {
   "cep": "44220971",
   "logradouro": "Rua do Asfalto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bom Jesus dos Pobres",
   "localidade": "Saubara",
   "uf": "BA",
-  "ibge": "2929750"
+  "ibge": "2929750",
+  "latitude": "-12.8071008",
+  "longitude": "-38.7774405"
 }

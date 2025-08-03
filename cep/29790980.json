@@ -1,9 +1,11 @@
 {
   "cep": "29790980",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Jorge da Barra Seca",
   "localidade": "Vila Valério",
   "uf": "ES",
-  "ibge": "3205176"
+  "ibge": "3205176",
+  "latitude": "-18.9930096",
+  "longitude": "-40.2732692"
 }

@@ -6,5 +6,7 @@
   "bairro": "Cidade Ipava",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.723579",
+  "longitude": "-46.7594398"
 }

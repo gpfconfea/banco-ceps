@@ -5,5 +5,7 @@
   "bairro": "Jardim São Vicente",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-23.4143843",
+  "longitude": "-51.9109058"
 }
