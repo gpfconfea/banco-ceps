@@ -5,5 +5,7 @@
   "bairro": "Jardim Jaraguá",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.6965818",
+  "longitude": "-45.4429776"
 }

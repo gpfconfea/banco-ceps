@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Clara",
   "localidade": "Macatuba",
   "uf": "SP",
-  "ibge": "3528007"
+  "ibge": "3528007",
+  "latitude": "-22.5022091",
+  "longitude": "-48.7151249"
 }

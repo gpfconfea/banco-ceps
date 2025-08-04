@@ -5,5 +5,7 @@
   "bairro": "Moinho Residencial",
   "localidade": "Holambra",
   "uf": "SP",
-  "ibge": "3519055"
+  "ibge": "3519055",
+  "latitude": "-22.62772",
+  "longitude": "-47.05856"
 }

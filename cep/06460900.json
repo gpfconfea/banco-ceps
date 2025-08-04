@@ -5,5 +5,7 @@
   "bairro": "Centro Empresarial Tamboré",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.4952452",
+  "longitude": "-46.8306733"
 }

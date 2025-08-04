@@ -1,9 +1,11 @@
 {
   "cep": "79787970",
   "logradouro": "Rua Benedito Francisco de Azevedo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ipezal",
   "localidade": "Angélica",
   "uf": "MS",
-  "ibge": "5000856"
+  "ibge": "5000856",
+  "latitude": "-22.0520856",
+  "longitude": "-54.0698133"
 }

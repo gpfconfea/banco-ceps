@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Vespasiano",
   "uf": "MG",
-  "ibge": "3171204"
+  "ibge": "3171204",
+  "latitude": "-19.7859359",
+  "longitude": "-43.9490128"
 }

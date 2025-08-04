@@ -1,9 +1,11 @@
 {
   "cep": "79734970",
   "logradouro": "Avenida Presidente Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guaçulândia",
   "localidade": "Glória de Dourados",
   "uf": "MS",
-  "ibge": "5004007"
+  "ibge": "5004007",
+  "latitude": "-22.4931112",
+  "longitude": "-54.1594367"
 }

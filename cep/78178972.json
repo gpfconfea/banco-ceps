@@ -1,9 +1,11 @@
 {
   "cep": "78178972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cangas",
   "localidade": "Poconé",
   "uf": "MT",
-  "ibge": "5106505"
+  "ibge": "5106505",
+  "latitude": "-16.0855495",
+  "longitude": "-56.5692555"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Oliveira I",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4044494",
+  "longitude": "-46.4757809"
 }

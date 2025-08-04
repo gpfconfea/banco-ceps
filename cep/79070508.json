@@ -5,5 +5,7 @@
   "bairro": "Residencial Joana D'Arc",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.5213339",
+  "longitude": "-54.6266287"
 }

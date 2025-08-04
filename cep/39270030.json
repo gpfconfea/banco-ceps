@@ -5,5 +5,7 @@
   "bairro": "Aparecida",
   "localidade": "Pirapora",
   "uf": "MG",
-  "ibge": "3151206"
+  "ibge": "3151206",
+  "latitude": "-17.345612",
+  "longitude": "-44.9531064"
 }

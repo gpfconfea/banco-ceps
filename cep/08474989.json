@@ -1,9 +1,11 @@
 {
   "cep": "08474989",
-  "logradouro": "Rua Sara Kubitscheck 165 Locker Correios Terminal Tiradentes - Ent Exc",
+  "logradouro": "Rua Sara Kubitscheck 165  Terminal Tiradentes  Ent Exc",
   "complemento": "",
   "bairro": "Conjunto Habitacional Castro Alves",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5828",
+  "longitude": "-46.40597"
 }

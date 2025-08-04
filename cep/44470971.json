@@ -1,9 +1,11 @@
 {
   "cep": "44470971",
   "logradouro": "Rua Vinte e Oito de Maio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gamboa",
   "localidade": "Vera Cruz",
   "uf": "BA",
-  "ibge": "2933208"
+  "ibge": "2933208",
+  "latitude": "-12.9745807",
+  "longitude": "-38.6193343"
 }

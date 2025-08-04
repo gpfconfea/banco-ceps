@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Florentino Favoretto",
   "localidade": "Pompéia",
   "uf": "SP",
-  "ibge": "3540002"
+  "ibge": "3540002",
+  "latitude": "-22.1172866",
+  "longitude": "-50.1581388"
 }

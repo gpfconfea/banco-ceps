@@ -1,9 +1,11 @@
 {
   "cep": "46315970",
   "logradouro": "Praça Francisco David",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Irundiara",
   "localidade": "Jacaraci",
   "uf": "BA",
-  "ibge": "2917409"
+  "ibge": "2917409",
+  "latitude": "-14.7914903",
+  "longitude": "-42.2713829"
 }

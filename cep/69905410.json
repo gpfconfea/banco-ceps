@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-9.9803574",
+  "longitude": "-67.8143617"
 }

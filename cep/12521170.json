@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Neiva",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.7822661",
+  "longitude": "-45.1657809"
 }

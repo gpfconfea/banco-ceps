@@ -5,5 +5,7 @@
   "bairro": "Marambaia",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-23.0458432",
+  "longitude": "-47.0002624"
 }

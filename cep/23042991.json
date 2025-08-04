@@ -1,9 +1,11 @@
 {
   "cep": "23042991",
   "logradouro": "Estrada das Agulhas Negras",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9312571",
+  "longitude": "-43.5605179"
 }

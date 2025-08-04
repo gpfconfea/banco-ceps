@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "latitude": "-23.9764057",
+  "longitude": "-46.2559469"
 }

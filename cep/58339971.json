@@ -1,9 +1,11 @@
 {
   "cep": "58339971",
   "logradouro": "Praça Noé Rodrigues de Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São José dos Ramos",
   "uf": "PB",
-  "ibge": "2514453"
+  "ibge": "2514453",
+  "latitude": "-7.2490485",
+  "longitude": "-35.3803083"
 }

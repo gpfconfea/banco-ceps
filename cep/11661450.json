@@ -5,5 +5,7 @@
   "bairro": "Sumaré",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.8198011",
+  "longitude": "-46.7267597"
 }

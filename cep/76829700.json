@@ -5,5 +5,7 @@
   "bairro": "Lagoinha",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-22.4294657",
+  "longitude": "-45.4396061"
 }

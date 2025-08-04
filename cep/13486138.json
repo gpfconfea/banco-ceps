@@ -5,5 +5,7 @@
   "bairro": "Jardim Rossi",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5554952",
+  "longitude": "-47.415019"
 }

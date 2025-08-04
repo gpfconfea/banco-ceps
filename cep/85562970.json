@@ -1,9 +1,11 @@
 {
   "cep": "85562970",
   "logradouro": "Rodovia PR 281",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Francisco",
   "localidade": "Chopinzinho",
   "uf": "PR",
-  "ibge": "4105409"
+  "ibge": "4105409",
+  "latitude": "-25.9374775",
+  "longitude": "-52.4026078"
 }

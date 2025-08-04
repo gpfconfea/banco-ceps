@@ -5,5 +5,7 @@
   "bairro": "Residencial Vista Alegre",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.4360163",
+  "longitude": "-45.9554294"
 }

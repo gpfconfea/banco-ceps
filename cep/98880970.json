@@ -1,9 +1,11 @@
 {
   "cep": "98880970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cândido Freire",
   "localidade": "Giruá",
   "uf": "RS",
-  "ibge": "4309001"
+  "ibge": "4309001",
+  "latitude": "-28.0294287",
+  "longitude": "-54.3508327"
 }

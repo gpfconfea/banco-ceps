@@ -5,5 +5,7 @@
   "bairro": "Residencial do Bosque",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-22.31892",
+  "longitude": "-49.04356"
 }

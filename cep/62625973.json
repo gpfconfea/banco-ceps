@@ -1,9 +1,11 @@
 {
   "cep": "62625973",
   "logradouro": "Rua Alípio Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Missi",
   "localidade": "Irauçuba",
   "uf": "CE",
-  "ibge": "2306108"
+  "ibge": "2306108",
+  "latitude": "-3.6235125",
+  "longitude": "-39.822971"
 }

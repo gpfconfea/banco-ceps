@@ -5,5 +5,7 @@
   "bairro": "Poço",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0358955",
+  "longitude": "-34.9253196"
 }

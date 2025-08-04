@@ -5,5 +5,7 @@
   "bairro": "Batistini",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "latitude": "-23.7782679",
+  "longitude": "-46.6012861"
 }

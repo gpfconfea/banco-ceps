@@ -5,5 +5,7 @@
   "bairro": "Dom Gerônimo",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.06053",
+  "longitude": "-52.63199"
 }

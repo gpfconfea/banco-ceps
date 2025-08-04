@@ -5,5 +5,7 @@
   "bairro": "Residencial Alto do Vale",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-21.5785161",
+  "longitude": "-45.3956657"
 }

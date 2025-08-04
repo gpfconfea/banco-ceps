@@ -1,9 +1,11 @@
 {
   "cep": "39524972",
   "logradouro": "Avenida Gabriel M. Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paciência",
   "localidade": "Porteirinha",
   "uf": "MG",
-  "ibge": "3152204"
+  "ibge": "3152204",
+  "latitude": "-20.0113932",
+  "longitude": "-44.0428775"
 }

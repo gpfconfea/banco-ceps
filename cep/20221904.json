@@ -1,9 +1,11 @@
 {
   "cep": "20221904",
   "logradouro": "Praça Duque de Caxias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.5080899",
+  "longitude": "-43.1688691"
 }

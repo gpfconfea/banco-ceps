@@ -5,5 +5,7 @@
   "bairro": "Fazenda Monte D'Este",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.7834748",
+  "longitude": "-47.0140715"
 }

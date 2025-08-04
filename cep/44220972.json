@@ -1,9 +1,11 @@
 {
   "cep": "44220972",
   "logradouro": "Rua do Porto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cabuçu",
   "localidade": "Saubara",
   "uf": "BA",
-  "ibge": "2929750"
+  "ibge": "2929750",
+  "latitude": "-12.7792728",
+  "longitude": "-38.7711642"
 }

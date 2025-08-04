@@ -5,5 +5,7 @@
   "bairro": "Cipoal",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "latitude": "-22.7752111",
+  "longitude": "-45.2248622"
 }

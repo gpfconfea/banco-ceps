@@ -1,9 +1,11 @@
 {
   "cep": "46900972",
   "logradouro": "Praça do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Velame",
   "localidade": "Seabra",
   "uf": "BA",
-  "ibge": "2929909"
+  "ibge": "2929909",
+  "latitude": "-11.929383",
+  "longitude": "-41.8571678"
 }

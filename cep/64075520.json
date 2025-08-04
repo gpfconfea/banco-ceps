@@ -5,5 +5,7 @@
   "bairro": "Beira Rio",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.1097689",
+  "longitude": "-42.7715571"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "83251977",
   "logradouro": "Praça Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ilha do Teixeira",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-24.5654729",
+  "longitude": "-53.9075071"
 }

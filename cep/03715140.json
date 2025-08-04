@@ -5,5 +5,7 @@
   "bairro": "Jardim de Lorenzo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5048795",
+  "longitude": "-46.5373356"
 }

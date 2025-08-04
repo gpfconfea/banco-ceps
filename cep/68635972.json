@@ -1,9 +1,11 @@
 {
   "cep": "68635972",
   "logradouro": "Rua Palheta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Domingos do Capim",
   "uf": "PA",
-  "ibge": "1507201"
+  "ibge": "1507201",
+  "latitude": "-1.6800522",
+  "longitude": "-47.7713716"
 }

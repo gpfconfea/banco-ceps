@@ -1,9 +1,11 @@
 {
   "cep": "58253970",
   "logradouro": "Rua Francisco Carneiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Caiçara",
   "uf": "PB",
-  "ibge": "2503605"
+  "ibge": "2503605",
+  "latitude": "-3.6632928",
+  "longitude": "-40.3765853"
 }

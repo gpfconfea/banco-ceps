@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barão de Monte Alto",
   "uf": "MG",
-  "ibge": "3105509"
+  "ibge": "3105509",
+  "latitude": "-21.2468227",
+  "longitude": "-42.2388378"
 }

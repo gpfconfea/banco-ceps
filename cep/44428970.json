@@ -1,9 +1,11 @@
 {
   "cep": "44428970",
   "logradouro": "Praça da Vitória",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Roque do Paraguaçu",
   "localidade": "Maragogipe",
   "uf": "BA",
-  "ibge": "2920601"
+  "ibge": "2920601",
+  "latitude": "-12.8562512",
+  "longitude": "-38.8462929"
 }

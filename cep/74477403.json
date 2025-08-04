@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-17.7156037",
+  "longitude": "-48.1594385"
 }

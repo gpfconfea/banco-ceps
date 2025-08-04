@@ -5,5 +5,7 @@
   "bairro": "Iguape",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "latitude": "-16.3837831",
+  "longitude": "-39.574244"
 }

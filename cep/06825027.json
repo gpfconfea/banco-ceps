@@ -5,5 +5,7 @@
   "bairro": "Chácaras Caxingui",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "latitude": "-23.5273086",
+  "longitude": "-46.5339785"
 }

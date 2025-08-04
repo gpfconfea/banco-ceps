@@ -1,9 +1,11 @@
 {
   "cep": "58115971",
   "logradouro": "Praça Publica de Jenipapo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Puxinanã",
   "uf": "PB",
-  "ibge": "2512408"
+  "ibge": "2512408",
+  "latitude": "-7.1819177",
+  "longitude": "-35.9640834"
 }

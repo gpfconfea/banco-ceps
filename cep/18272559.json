@@ -5,5 +5,7 @@
   "bairro": "Residencial Bosques dos Ipês",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.33727",
+  "longitude": "-47.82052"
 }

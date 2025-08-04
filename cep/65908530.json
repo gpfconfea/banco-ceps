@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.52082",
+  "longitude": "-47.45913"
 }

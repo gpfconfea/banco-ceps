@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Catanduvas",
   "uf": "PR",
-  "ibge": "4105003"
+  "ibge": "4105003",
+  "latitude": "-25.2101106",
+  "longitude": "-53.1528506"
 }

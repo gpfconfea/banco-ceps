@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-16.3739879",
+  "longitude": "-46.9112881"
 }

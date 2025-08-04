@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Helena - Gleba I",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "latitude": "-23.4784658",
+  "longitude": "-47.013779"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Afonso",
   "localidade": "Aparecida",
   "uf": "SP",
-  "ibge": "3502507"
+  "ibge": "3502507",
+  "latitude": "-16.7917394",
+  "longitude": "-49.3317743"
 }

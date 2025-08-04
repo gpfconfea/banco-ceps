@@ -5,5 +5,7 @@
   "bairro": "Jardim Colina I",
   "localidade": "Monte Mor",
   "uf": "SP",
-  "ibge": "3531803"
+  "ibge": "3531803",
+  "latitude": "-23.61877",
+  "longitude": "-46.51867"
 }

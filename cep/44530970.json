@@ -1,9 +1,11 @@
 {
   "cep": "44530970",
   "logradouro": "Avenida Doutor Joaquim Barreto de Araújo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Sapeaçu",
   "uf": "BA",
-  "ibge": "2929602"
+  "ibge": "2929602",
+  "latitude": "-12.7288524",
+  "longitude": "-39.1864959"
 }

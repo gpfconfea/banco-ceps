@@ -5,5 +5,7 @@
   "bairro": "Portes",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.5069317",
+  "longitude": "-54.5936495"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58257970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rua Nova",
   "localidade": "Belém",
   "uf": "PB",
-  "ibge": "2501906"
+  "ibge": "2501906",
+  "latitude": "-1.3554458",
+  "longitude": "-48.447945"
 }

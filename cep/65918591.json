@@ -5,5 +5,7 @@
   "bairro": "Parque das Flores",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.52749",
+  "longitude": "-47.4761"
 }

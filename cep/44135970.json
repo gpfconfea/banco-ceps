@@ -1,9 +1,11 @@
 {
   "cep": "44135970",
   "logradouro": "Rua Cônego Olímpio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Humildes",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.3531774",
+  "longitude": "-38.8691309"
 }

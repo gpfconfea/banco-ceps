@@ -5,5 +5,7 @@
   "bairro": "Goianases",
   "localidade": "Capetinga",
   "uf": "MG",
-  "ibge": "3112406"
+  "ibge": "3112406",
+  "latitude": "-20.7185",
+  "longitude": "-46.9885882"
 }

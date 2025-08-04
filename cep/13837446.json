@@ -6,5 +6,7 @@
   "bairro": "Jardim Terra Nobre",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "latitude": "-22.3272",
+  "longitude": "-47.15413"
 }

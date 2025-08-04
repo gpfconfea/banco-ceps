@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro",
   "localidade": "Planalto",
   "uf": "RS",
-  "ibge": "4314704"
+  "ibge": "4314704",
+  "latitude": "-29.2969614",
+  "longitude": "-51.501893"
 }

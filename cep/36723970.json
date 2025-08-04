@@ -1,9 +1,11 @@
 {
   "cep": "36723970",
   "logradouro": "Praça João F. Bastos Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Trimonte",
   "localidade": "Volta Grande",
   "uf": "MG",
-  "ibge": "3172103"
+  "ibge": "3172103",
+  "latitude": "-21.7675802",
+  "longitude": "-42.5379069"
 }

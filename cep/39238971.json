@@ -1,9 +1,11 @@
 {
   "cep": "39238971",
   "logradouro": "Avenida Maria Álvares Pereira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José do Buriti",
   "localidade": "Felixlândia",
   "uf": "MG",
-  "ibge": "3125705"
+  "ibge": "3125705",
+  "latitude": "-18.7135827",
+  "longitude": "-44.9253354"
 }

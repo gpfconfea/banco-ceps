@@ -1,9 +1,11 @@
 {
   "cep": "48790971",
   "logradouro": "Praça Dom Bosco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rua Nova",
   "localidade": "Tucano",
   "uf": "BA",
-  "ibge": "2931905"
+  "ibge": "2931905",
+  "latitude": "-10.9655",
+  "longitude": "-38.78648"
 }

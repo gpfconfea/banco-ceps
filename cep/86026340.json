@@ -5,5 +5,7 @@
   "bairro": "Vila Matarazzo",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2997383",
+  "longitude": "-51.1515281"
 }

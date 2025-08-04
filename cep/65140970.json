@@ -1,9 +1,11 @@
 {
   "cep": "65140970",
   "logradouro": "Rua Elpidio Silvino Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Presidente Juscelino",
   "uf": "MA",
-  "ibge": "2109205"
+  "ibge": "2109205",
+  "latitude": "-2.9238615",
+  "longitude": "-44.06344"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "39630971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Virgem da Lapa",
   "uf": "MG",
-  "ibge": "3171600"
+  "ibge": "3171600",
+  "latitude": "-19.953847",
+  "longitude": "-43.9442564"
 }

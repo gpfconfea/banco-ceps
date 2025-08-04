@@ -5,5 +5,7 @@
   "bairro": "Vila Mariana",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.4662002",
+  "longitude": "-49.1387652"
 }

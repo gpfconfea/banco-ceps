@@ -1,9 +1,11 @@
 {
   "cep": "89240993",
   "logradouro": "Rua Binot Palmier de Goneville",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São Francisco do Sul",
   "uf": "SC",
-  "ibge": "4216206"
+  "ibge": "4216206",
+  "latitude": "-26.27773",
+  "longitude": "-48.59979"
 }

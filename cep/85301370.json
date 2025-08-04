@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Laranjeiras do Sul",
   "uf": "PR",
-  "ibge": "4113304"
+  "ibge": "4113304",
+  "latitude": "-25.3986417",
+  "longitude": "-52.4039517"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Alzira Franco",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.1788326",
+  "longitude": "-45.8806923"
 }

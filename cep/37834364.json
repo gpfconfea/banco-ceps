@@ -5,5 +5,7 @@
   "bairro": "Vila Magalhães",
   "localidade": "Guaxupé",
   "uf": "MG",
-  "ibge": "3128709"
+  "ibge": "3128709",
+  "latitude": "-21.3045107",
+  "longitude": "-46.7264893"
 }

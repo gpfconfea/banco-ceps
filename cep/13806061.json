@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Anselmo Lopes Bueno",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4274306",
+  "longitude": "-46.9650304"
 }

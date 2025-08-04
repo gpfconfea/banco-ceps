@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Retiro (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "latitude": "-22.857915",
+  "longitude": "-47.1889433"
 }

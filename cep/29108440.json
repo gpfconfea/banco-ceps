@@ -5,5 +5,7 @@
   "bairro": "IBES",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3499044",
+  "longitude": "-40.3132571"
 }

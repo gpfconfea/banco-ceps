@@ -1,9 +1,11 @@
 {
   "cep": "59584973",
   "logradouro": "Distrito Santa Luzia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Santa Luzia",
   "localidade": "Touros",
   "uf": "RN",
-  "ibge": "2414407"
+  "ibge": "2414407",
+  "latitude": "-5.866667",
+  "longitude": "-35.2"
 }

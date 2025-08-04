@@ -5,5 +5,7 @@
   "bairro": "Brotas",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-17.5379688",
+  "longitude": "-39.7527393"
 }

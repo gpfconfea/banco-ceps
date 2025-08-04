@@ -1,9 +1,11 @@
 {
   "cep": "18790971",
   "logradouro": "Rua Antônio Cândido Batista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mandaguari",
   "localidade": "Óleo",
   "uf": "SP",
-  "ibge": "3533809"
+  "ibge": "3533809",
+  "latitude": "-22.9379953",
+  "longitude": "-49.4345865"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Aparecida",
   "localidade": "Pederneiras",
   "uf": "SP",
-  "ibge": "3536703"
+  "ibge": "3536703",
+  "latitude": "-22.345507",
+  "longitude": "-48.7802319"
 }

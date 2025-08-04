@@ -1,9 +1,11 @@
 {
   "cep": "58300970",
   "logradouro": "Praça Antenor Navarro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Rita",
   "uf": "PB",
-  "ibge": "2513703"
+  "ibge": "2513703",
+  "latitude": "-7.1237779",
+  "longitude": "-34.9810348"
 }

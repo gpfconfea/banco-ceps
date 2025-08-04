@@ -1,9 +1,11 @@
 {
   "cep": "49700972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Capela",
   "uf": "SE",
-  "ibge": "2801306"
+  "ibge": "2801306",
+  "latitude": "-10.91095",
+  "longitude": "-37.0527"
 }

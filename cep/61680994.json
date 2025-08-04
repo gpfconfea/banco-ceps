@@ -1,9 +1,11 @@
 {
   "cep": "61680994",
   "logradouro": "Rua Honorina Barros Fonteles",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.6351871",
+  "longitude": "-38.8065993"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4205245",
+  "longitude": "-47.409994"
 }

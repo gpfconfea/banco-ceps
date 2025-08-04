@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaguaçu I",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.3183229",
+  "longitude": "-49.0927221"
 }

@@ -5,5 +5,7 @@
   "bairro": "Félix",
   "localidade": "Ubatuba",
   "uf": "SP",
-  "ibge": "3555406"
+  "ibge": "3555406",
+  "latitude": "-23.42819",
+  "longitude": "-45.11961"
 }

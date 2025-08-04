@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Victor Graeff",
   "uf": "RS",
-  "ibge": "4323200"
+  "ibge": "4323200",
+  "latitude": "-28.56",
+  "longitude": "-52.74968"
 }

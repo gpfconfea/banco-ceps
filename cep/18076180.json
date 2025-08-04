@@ -5,5 +5,7 @@
   "bairro": "Vila Formosa",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4655722",
+  "longitude": "-47.4767478"
 }

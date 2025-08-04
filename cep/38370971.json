@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cachoeira Dourada",
   "uf": "MG",
-  "ibge": "3109808"
+  "ibge": "3109808",
+  "latitude": "-18.5140248",
+  "longitude": "-49.5019869"
 }

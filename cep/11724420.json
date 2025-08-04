@@ -5,5 +5,7 @@
   "bairro": "Tupiry",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-24.011906",
+  "longitude": "-46.4717143"
 }

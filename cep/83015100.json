@@ -5,5 +5,7 @@
   "bairro": "Ouro Fino",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "-25.5561702",
+  "longitude": "-49.1809121"
 }

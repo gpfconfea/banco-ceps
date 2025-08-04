@@ -5,5 +5,7 @@
   "bairro": "Jardim Goiás",
   "localidade": "Piracanjuba",
   "uf": "GO",
-  "ibge": "5217104"
+  "ibge": "5217104",
+  "latitude": "-17.3023",
+  "longitude": "-49.03546"
 }

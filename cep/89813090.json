@@ -5,5 +5,7 @@
   "bairro": "Seminário",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.1287039",
+  "longitude": "-52.5998523"
 }

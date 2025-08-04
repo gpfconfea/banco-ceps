@@ -5,5 +5,7 @@
   "bairro": "Acácio Martins",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.87707",
+  "longitude": "-44.99385"
 }

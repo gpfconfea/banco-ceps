@@ -1,9 +1,11 @@
 {
   "cep": "62132974",
   "logradouro": "Travessa José Barbalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Camilos",
   "localidade": "Meruoca",
   "uf": "CE",
-  "ibge": "2308203"
+  "ibge": "2308203",
+  "latitude": "-3.6141136",
+  "longitude": "-40.4832874"
 }

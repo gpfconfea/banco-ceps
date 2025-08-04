@@ -5,5 +5,7 @@
   "bairro": "Vila Regina",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5508498",
+  "longitude": "-47.3911565"
 }

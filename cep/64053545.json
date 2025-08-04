@@ -5,5 +5,7 @@
   "bairro": "Campestre",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.0679721",
+  "longitude": "-42.7583966"
 }

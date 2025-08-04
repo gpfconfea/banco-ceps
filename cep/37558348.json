@@ -5,5 +5,7 @@
   "bairro": "Foch II",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2518696",
+  "longitude": "-45.9244813"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29817985",
   "logradouro": "Estrada Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Poranga",
   "localidade": "Barra de São Francisco",
   "uf": "ES",
-  "ibge": "3200904"
+  "ibge": "3200904",
+  "latitude": "-18.5841054",
+  "longitude": "-40.8623682"
 }

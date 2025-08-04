@@ -5,5 +5,7 @@
   "bairro": "Cata Preta",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "40.8179236",
+  "longitude": "-8.5719696"
 }

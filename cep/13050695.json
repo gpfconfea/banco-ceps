@@ -5,5 +5,7 @@
   "bairro": "Vila Mingone",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0224213",
+  "longitude": "-47.1194907"
 }
