@@ -1,9 +1,11 @@
 {
   "cep": "96915970",
   "logradouro": "Avenida dos Expedicionários do Brasil",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tamanduá",
   "localidade": "Segredo",
   "uf": "RS",
-  "ibge": "4320263"
+  "ibge": "4320263",
+  "latitude": "-27.86542",
+  "longitude": "-54.47039"
 }

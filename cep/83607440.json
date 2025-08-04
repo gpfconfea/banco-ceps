@@ -5,5 +5,7 @@
   "bairro": "Fazendinha",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4282541",
+  "longitude": "-49.4787981"
 }

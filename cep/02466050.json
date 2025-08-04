@@ -5,5 +5,7 @@
   "bairro": "Imirim",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4954402",
+  "longitude": "-46.64158"
 }

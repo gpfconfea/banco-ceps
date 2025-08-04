@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-30.84468",
+  "longitude": "-51.80237"
 }

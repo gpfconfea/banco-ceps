@@ -5,5 +5,7 @@
   "bairro": "Jardim Irmãos Sigrist",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.003151",
+  "longitude": "-47.1051917"
 }

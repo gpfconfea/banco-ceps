@@ -1,9 +1,11 @@
 {
   "cep": "58125970",
   "logradouro": "Rua João Moura",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Alagoa Nova",
   "uf": "PB",
-  "ibge": "2500403"
+  "ibge": "2500403",
+  "latitude": "-7.0598526",
+  "longitude": "-35.7590641"
 }

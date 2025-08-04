@@ -5,5 +5,7 @@
   "bairro": "Jardim Luiza",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.2746975",
+  "longitude": "-45.9498809"
 }

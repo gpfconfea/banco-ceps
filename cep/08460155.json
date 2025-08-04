@@ -5,5 +5,7 @@
   "bairro": "Jardim Solange",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5493633",
+  "longitude": "-46.4038997"
 }

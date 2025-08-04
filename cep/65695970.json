@@ -1,9 +1,11 @@
 {
   "cep": "65695970",
   "logradouro": "Avenida Newton Bello",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Fortuna",
   "uf": "MA",
-  "ibge": "2104206"
+  "ibge": "2104206",
+  "latitude": "-5.7356069",
+  "longitude": "-44.1562687"
 }

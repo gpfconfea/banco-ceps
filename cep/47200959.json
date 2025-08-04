@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Remanso",
   "uf": "BA",
-  "ibge": "2926004"
+  "ibge": "2926004",
+  "latitude": "-9.62362",
+  "longitude": "-42.07978"
 }

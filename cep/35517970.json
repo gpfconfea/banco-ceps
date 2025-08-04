@@ -1,9 +1,11 @@
 {
   "cep": "35517970",
   "logradouro": "Rua Augusto Correa de Lacerda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Vista de Minas",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8759584",
+  "longitude": "-44.9842605"
 }

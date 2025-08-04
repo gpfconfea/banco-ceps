@@ -1,9 +1,11 @@
 {
   "cep": "83860972",
   "logradouro": "Estrada Principal de Lageado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lajeado",
   "localidade": "Piên",
   "uf": "PR",
-  "ibge": "4119103"
+  "ibge": "4119103",
+  "latitude": "-25.99",
+  "longitude": "-50.36337"
 }

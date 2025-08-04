@@ -5,5 +5,7 @@
   "bairro": "Vila Liberdade",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-15.8344531",
+  "longitude": "-48.0127997"
 }

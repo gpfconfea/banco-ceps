@@ -1,9 +1,11 @@
 {
   "cep": "68045995",
   "logradouro": "Avenida Maicá - Maicá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "latitude": "-2.4720992",
+  "longitude": "-54.6767111"
 }

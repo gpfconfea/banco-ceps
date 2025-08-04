@@ -1,9 +1,11 @@
 {
   "cep": "29326980",
   "logradouro": "Rua Jerônimo Moreira Filho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gironda",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "latitude": "-20.7222425",
+  "longitude": "-41.0848271"
 }

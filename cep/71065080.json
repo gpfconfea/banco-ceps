@@ -5,5 +5,7 @@
   "bairro": "Guará II",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.8406719",
+  "longitude": "-47.9814193"
 }

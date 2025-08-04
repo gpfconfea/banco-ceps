@@ -5,5 +5,7 @@
   "bairro": "Boa Esperança",
   "localidade": "Arcoverde",
   "uf": "PE",
-  "ibge": "2601201"
+  "ibge": "2601201",
+  "latitude": "-23.5400169",
+  "longitude": "-47.4527656"
 }

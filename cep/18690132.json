@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Itatinga",
   "uf": "SP",
-  "ibge": "3523503"
+  "ibge": "3523503",
+  "latitude": "-23.1050087",
+  "longitude": "-48.6151401"
 }

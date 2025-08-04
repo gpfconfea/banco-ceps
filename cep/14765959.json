@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taquaral",
   "uf": "SP",
-  "ibge": "3553658"
+  "ibge": "3553658",
+  "latitude": "-21.0724341",
+  "longitude": "-48.4127249"
 }

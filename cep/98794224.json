@@ -5,5 +5,7 @@
   "bairro": "Planalto",
   "localidade": "Santa Rosa",
   "uf": "RS",
-  "ibge": "4317202"
+  "ibge": "4317202",
+  "latitude": "-22.5280941",
+  "longitude": "-44.1389649"
 }

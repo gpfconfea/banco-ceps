@@ -5,5 +5,7 @@
   "bairro": "Marumbi",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3103119",
+  "longitude": "-51.1268136"
 }

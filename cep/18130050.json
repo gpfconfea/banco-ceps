@@ -5,5 +5,7 @@
   "bairro": "Jardim Meny",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.535985",
+  "longitude": "-47.1354242"
 }

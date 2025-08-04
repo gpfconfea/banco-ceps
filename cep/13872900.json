@@ -1,9 +1,11 @@
 {
   "cep": "13872900",
   "logradouro": "Rua Júlio Michelazzo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Nossa Senhora de Fátima",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "latitude": "-21.980521",
+  "longitude": "-46.8123598"
 }

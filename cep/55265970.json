@@ -1,9 +1,11 @@
 {
   "cep": "55265970",
   "logradouro": "Praça Zacarias Virgínio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Perpétuo Socorro",
   "localidade": "Alagoinha",
   "uf": "PE",
-  "ibge": "2600609"
+  "ibge": "2600609",
+  "latitude": "-8.5379343",
+  "longitude": "-36.7298084"
 }

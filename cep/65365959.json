@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Zé Doca",
   "uf": "MA",
-  "ibge": "2114007"
+  "ibge": "2114007",
+  "latitude": "-3.2753305",
+  "longitude": "-45.657793"
 }

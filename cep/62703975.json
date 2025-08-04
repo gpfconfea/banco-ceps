@@ -1,9 +1,11 @@
 {
   "cep": "62703975",
   "logradouro": "Rua Irmã Simplicia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Monte Alegre",
   "localidade": "Canindé",
   "uf": "CE",
-  "ibge": "2302800"
+  "ibge": "2302800",
+  "latitude": "-4.3593167",
+  "longitude": "-39.314783"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Lázaro Pimenta",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-17.754879",
+  "longitude": "-50.9049273"
 }

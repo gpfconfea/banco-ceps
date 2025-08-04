@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto Murtinho",
   "uf": "MS",
-  "ibge": "5006903"
+  "ibge": "5006903",
+  "latitude": "-21.6986879",
+  "longitude": "-57.8870177"
 }

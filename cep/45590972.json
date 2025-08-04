@@ -1,9 +1,11 @@
 {
   "cep": "45590972",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Planalto Iris",
   "localidade": "Dário Meira",
   "uf": "BA",
-  "ibge": "2910008"
+  "ibge": "2910008",
+  "latitude": "-14.4420334",
+  "longitude": "-40.0514434"
 }

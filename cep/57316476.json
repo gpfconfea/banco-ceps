@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "latitude": "-9.4147063",
+  "longitude": "-36.6385168"
 }

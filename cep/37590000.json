@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jacutinga",
   "uf": "MG",
-  "ibge": "3134905"
+  "ibge": "3134905",
+  "latitude": "-22.285833",
+  "longitude": "-46.612222"
 }

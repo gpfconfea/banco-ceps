@@ -5,5 +5,7 @@
   "bairro": "Residencial São Cristóvão",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3729824",
+  "longitude": "-48.9480196"
 }

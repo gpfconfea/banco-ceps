@@ -1,9 +1,11 @@
 {
   "cep": "95301970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Luzia",
   "localidade": "Lagoa Vermelha",
   "uf": "RS",
-  "ibge": "4311304"
+  "ibge": "4311304",
+  "latitude": "-28.2084791",
+  "longitude": "-51.5279196"
 }

@@ -5,5 +5,7 @@
   "bairro": "Primeiro de Maio",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.8846",
+  "longitude": "-47.20032"
 }

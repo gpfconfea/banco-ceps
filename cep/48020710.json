@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "latitude": "-12.12098",
+  "longitude": "-38.40432"
 }

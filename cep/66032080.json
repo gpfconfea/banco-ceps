@@ -5,5 +5,7 @@
   "bairro": "Condor",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-28.8218747",
+  "longitude": "-51.2706988"
 }

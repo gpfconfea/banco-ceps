@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nonoai",
   "uf": "RS",
-  "ibge": "4312708"
+  "ibge": "4312708",
+  "latitude": "-27.3651823",
+  "longitude": "-52.7730088"
 }

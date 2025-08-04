@@ -5,5 +5,7 @@
   "bairro": "Pindorama",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.906275",
+  "longitude": "-44.0233337"
 }

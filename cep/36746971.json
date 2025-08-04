@@ -1,9 +1,11 @@
 {
   "cep": "36746971",
   "logradouro": "Rua José Domingos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Angaturama",
   "localidade": "Recreio",
   "uf": "MG",
-  "ibge": "3154101"
+  "ibge": "3154101",
+  "latitude": "-21.2089348",
+  "longitude": "-47.7508189"
 }

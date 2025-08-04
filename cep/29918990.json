@@ -1,9 +1,11 @@
 {
   "cep": "29918990",
   "logradouro": "Avenida José Tesch Sobrinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.36678",
+  "longitude": "-40.45276"
 }

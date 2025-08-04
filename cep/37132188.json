@@ -5,5 +5,7 @@
   "bairro": "Cruz Preta",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.4390265",
+  "longitude": "-45.947883"
 }

@@ -5,5 +5,7 @@
   "bairro": "Padre Andrade",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-22.8894554",
+  "longitude": "-43.5864762"
 }

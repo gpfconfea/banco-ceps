@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Miguel de Taipu",
   "uf": "PB",
-  "ibge": "2515005"
+  "ibge": "2515005",
+  "latitude": "-7.25074",
+  "longitude": "-35.20985"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Maria da Boa Vista",
   "uf": "PE",
-  "ibge": "2612604"
+  "ibge": "2612604",
+  "latitude": "-8.79722",
+  "longitude": "-39.82819"
 }

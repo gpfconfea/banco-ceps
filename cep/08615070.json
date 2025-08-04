@@ -5,5 +5,7 @@
   "bairro": "Vila Urupês",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5468637",
+  "longitude": "-46.2968582"
 }

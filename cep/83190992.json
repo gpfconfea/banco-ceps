@@ -1,9 +1,11 @@
 {
   "cep": "83190992",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Tijucas do Sul",
   "uf": "PR",
-  "ibge": "4127601"
+  "ibge": "4127601",
+  "latitude": "-25.9231",
+  "longitude": "-49.17834"
 }

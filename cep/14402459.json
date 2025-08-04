@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulistano",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5237106",
+  "longitude": "-47.3562377"
 }

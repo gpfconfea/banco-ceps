@@ -1,9 +1,11 @@
 {
   "cep": "28615991",
   "logradouro": "Estrada Rio Bonito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "latitude": "-22.4017559",
+  "longitude": "-42.2895215"
 }

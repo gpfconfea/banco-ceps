@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Geminiano",
   "uf": "PI",
-  "ibge": "2204352"
+  "ibge": "2204352",
+  "latitude": "-7.1580497",
+  "longitude": "-41.3629299"
 }

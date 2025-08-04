@@ -1,9 +1,11 @@
 {
   "cep": "58040902",
   "logradouro": "Avenida Ministro José Américo de Almeida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Torre",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.1274068",
+  "longitude": "-34.8522813"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55641913",
   "logradouro": "Praça Padre Rodolfo de Moraes Moreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gravatá Centro",
   "localidade": "Gravatá",
   "uf": "PE",
-  "ibge": "2606408"
+  "ibge": "2606408",
+  "latitude": "-8.2116007",
+  "longitude": "-35.5677787"
 }

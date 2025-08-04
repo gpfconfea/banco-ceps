@@ -5,5 +5,7 @@
   "bairro": "Residencial Bonsucesso",
   "localidade": "Duartina",
   "uf": "SP",
-  "ibge": "3514502"
+  "ibge": "3514502",
+  "latitude": "-22.41367",
+  "longitude": "-49.40571"
 }

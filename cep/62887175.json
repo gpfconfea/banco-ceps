@@ -5,5 +5,7 @@
   "bairro": "Lagoinha",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "latitude": "-19.9282791",
+  "longitude": "-43.9772281"
 }

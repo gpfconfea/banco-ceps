@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Anita Garibaldi",
   "uf": "SC",
-  "ibge": "4201000"
+  "ibge": "4201000",
+  "latitude": "-27.6849053",
+  "longitude": "-51.1312387"
 }

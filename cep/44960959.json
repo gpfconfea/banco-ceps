@@ -1,9 +1,11 @@
 {
   "cep": "44960959",
   "logradouro": "Praça do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ibititá",
   "uf": "BA",
-  "ibge": "2913101"
+  "ibge": "2913101",
+  "latitude": "-11.5500721",
+  "longitude": "-41.9038465"
 }

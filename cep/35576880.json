@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Vereador José Luiz Andrade II",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.44494",
+  "longitude": "-45.42475"
 }

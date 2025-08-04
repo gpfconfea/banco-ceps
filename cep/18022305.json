@@ -5,5 +5,7 @@
   "bairro": "Vila Zacarias",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.523804",
+  "longitude": "-47.4372471"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Fassina",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.0000773",
+  "longitude": "-46.8380338"
 }

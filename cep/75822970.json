@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Serranópolis",
   "uf": "GO",
-  "ibge": "5220504"
+  "ibge": "5220504",
+  "latitude": "-18.3092757",
+  "longitude": "-51.9577467"
 }

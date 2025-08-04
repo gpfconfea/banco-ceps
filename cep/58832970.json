@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mato Grosso",
   "uf": "PB",
-  "ibge": "2509370"
+  "ibge": "2509370",
+  "latitude": "-6.5414875",
+  "longitude": "-37.7125669"
 }

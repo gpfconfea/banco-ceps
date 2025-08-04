@@ -5,5 +5,7 @@
   "bairro": "Vila Paula",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "latitude": "-22.7873127",
+  "longitude": "-43.3156862"
 }

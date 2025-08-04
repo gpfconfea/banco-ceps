@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "latitude": "-25.5839275",
+  "longitude": "-49.4030064"
 }

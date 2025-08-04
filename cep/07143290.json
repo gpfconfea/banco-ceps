@@ -5,5 +5,7 @@
   "bairro": "Jardim Taboão",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4252603",
+  "longitude": "-46.5033363"
 }

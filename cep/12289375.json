@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Alvorada",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.0698734",
+  "longitude": "-45.7155688"
 }

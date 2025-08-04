@@ -1,9 +1,11 @@
 {
   "cep": "55122990",
   "logradouro": "Povoado Vila Trapiá - Vila Trapiá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Riacho das Almas",
   "uf": "PE",
-  "ibge": "2611705"
+  "ibge": "2611705",
+  "latitude": "-8.01221",
+  "longitude": "-35.90693"
 }

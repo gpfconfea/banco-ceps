@@ -1,9 +1,11 @@
 {
   "cep": "35552970",
   "logradouro": "Praça Brígida Maria do Nascimento",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Neolândia",
   "localidade": "Itapecerica",
   "uf": "MG",
-  "ibge": "3133501"
+  "ibge": "3133501",
+  "latitude": "-20.4719298",
+  "longitude": "-45.124195"
 }

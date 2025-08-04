@@ -5,5 +5,7 @@
   "bairro": "Paulistinha",
   "localidade": "Embu-Guaçu",
   "uf": "SP",
-  "ibge": "3515103"
+  "ibge": "3515103",
+  "latitude": "-23.87511",
+  "longitude": "-46.82928"
 }

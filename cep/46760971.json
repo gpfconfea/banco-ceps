@@ -1,9 +1,11 @@
 {
   "cep": "46760971",
   "logradouro": "Praça do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cascavel",
   "localidade": "Ibicoara",
   "uf": "BA",
-  "ibge": "2912202"
+  "ibge": "2912202",
+  "latitude": "-13.2780852",
+  "longitude": "-41.3859577"
 }

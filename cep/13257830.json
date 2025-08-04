@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Lagos",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.4757622",
+  "longitude": "-46.7208083"
 }

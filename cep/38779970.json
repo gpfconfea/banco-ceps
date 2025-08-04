@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brasilândia de Minas",
   "uf": "MG",
-  "ibge": "3108552"
+  "ibge": "3108552",
+  "latitude": "-16.9984715",
+  "longitude": "-46.0095081"
 }

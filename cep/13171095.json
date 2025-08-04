@@ -5,5 +5,7 @@
   "bairro": "Vila Carlos Basso",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "latitude": "-20.7671223",
+  "longitude": "-49.7149883"
 }

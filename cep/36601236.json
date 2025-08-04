@@ -5,5 +5,7 @@
   "bairro": "Souza Mattos",
   "localidade": "Bicas",
   "uf": "MG",
-  "ibge": "3106903"
+  "ibge": "3106903",
+  "latitude": "-21.72145",
+  "longitude": "-43.0695"
 }

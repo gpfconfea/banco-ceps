@@ -5,5 +5,7 @@
   "bairro": "Caetano Mendes",
   "localidade": "Tibagi",
   "uf": "PR",
-  "ibge": "4127502"
+  "ibge": "4127502",
+  "latitude": "-24.6239998",
+  "longitude": "-50.6409065"
 }

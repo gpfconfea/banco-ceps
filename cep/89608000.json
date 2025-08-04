@@ -5,5 +5,7 @@
   "bairro": "Santa Helena",
   "localidade": "Joaçaba",
   "uf": "SC",
-  "ibge": "4209003"
+  "ibge": "4209003",
+  "latitude": "-27.1626239",
+  "longitude": "-51.6423232"
 }

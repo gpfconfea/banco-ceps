@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulistano",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5125668",
+  "longitude": "-47.4696054"
 }

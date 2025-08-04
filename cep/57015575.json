@@ -5,5 +5,7 @@
   "bairro": "Vergel do Lago",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-22.3453155",
+  "longitude": "-49.1112469"
 }

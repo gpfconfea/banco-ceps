@@ -1,9 +1,11 @@
 {
   "cep": "35447977",
   "logradouro": "Rua de Cima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Barra Longa",
   "uf": "MG",
-  "ibge": "3105707"
+  "ibge": "3105707",
+  "latitude": "-20.350102",
+  "longitude": "-43.0803479"
 }

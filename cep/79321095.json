@@ -5,5 +5,7 @@
   "bairro": "Popular Nova",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "latitude": "-20.417553",
+  "longitude": "-54.6587791"
 }

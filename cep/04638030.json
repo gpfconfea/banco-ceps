@@ -5,5 +5,7 @@
   "bairro": "Jardim Petrópolis",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6326254",
+  "longitude": "-46.6880506"
 }

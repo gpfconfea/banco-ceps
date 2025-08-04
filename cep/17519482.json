@@ -5,5 +5,7 @@
   "bairro": "Jardim Parati",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-23.1869342",
+  "longitude": "-49.3995616"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ceres",
   "uf": "GO",
-  "ibge": "5205406"
+  "ibge": "5205406",
+  "latitude": "-15.3103568",
+  "longitude": "-49.6032054"
 }

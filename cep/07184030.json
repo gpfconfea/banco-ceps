@@ -5,5 +5,7 @@
   "bairro": "Vila Militar de Cumbica",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-22.5909237",
+  "longitude": "-47.5117127"
 }

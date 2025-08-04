@@ -5,5 +5,7 @@
   "bairro": "Bairro dos Estados",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "latitude": "-22.8701797",
+  "longitude": "-43.5625554"
 }

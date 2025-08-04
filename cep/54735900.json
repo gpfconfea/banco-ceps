@@ -1,9 +1,11 @@
 {
   "cep": "54735900",
   "logradouro": "Rua João Francisco de Araújo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Lourenço da Mata",
   "uf": "PE",
-  "ibge": "2613701"
+  "ibge": "2613701",
+  "latitude": "-7.9971677",
+  "longitude": "-35.0426221"
 }

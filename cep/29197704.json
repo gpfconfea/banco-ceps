@@ -5,5 +5,7 @@
   "bairro": "Barra do Riacho",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-20.3415428",
+  "longitude": "-40.3369927"
 }

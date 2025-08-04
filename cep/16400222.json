@@ -5,5 +5,7 @@
   "bairro": "Garcia",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.678845",
+  "longitude": "-49.7614226"
 }

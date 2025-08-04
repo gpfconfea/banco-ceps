@@ -5,5 +5,7 @@
   "bairro": "Vila Barcelona",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-19.7493538",
+  "longitude": "-47.9005909"
 }

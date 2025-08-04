@@ -5,5 +5,7 @@
   "bairro": "Princesa Isabel",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "latitude": "-11.4320804",
+  "longitude": "-61.4485445"
 }

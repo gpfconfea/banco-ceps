@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Cruz",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.0919625",
+  "longitude": "-47.6960684"
 }

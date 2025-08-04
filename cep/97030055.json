@@ -6,5 +6,7 @@
   "bairro": "Pinheiro Machado",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "latitude": "-29.701992",
+  "longitude": "-53.8583252"
 }

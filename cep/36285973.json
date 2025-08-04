@@ -1,9 +1,11 @@
 {
   "cep": "36285973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Hermilo Alves",
   "localidade": "Carandaí",
   "uf": "MG",
-  "ibge": "3113206"
+  "ibge": "3113206",
+  "latitude": "-20.953166",
+  "longitude": "-43.8054086"
 }

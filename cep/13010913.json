@@ -1,9 +1,11 @@
 {
   "cep": "13010913",
   "logradouro": "Rua Barreto Leme",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9025136",
+  "longitude": "-47.0630271"
 }

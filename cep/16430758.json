@@ -5,5 +5,7 @@
   "bairro": "Residencial Maria Luiza",
   "localidade": "Guaiçara",
   "uf": "SP",
-  "ibge": "3517208"
+  "ibge": "3517208",
+  "latitude": "-23.49589",
+  "longitude": "-46.66275"
 }

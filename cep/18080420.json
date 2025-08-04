@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4843138",
+  "longitude": "-47.4676207"
 }

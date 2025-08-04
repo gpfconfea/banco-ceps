@@ -1,9 +1,11 @@
 {
   "cep": "73758970",
   "logradouro": "Praça Jurandir Camilo Boaventura",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Gabriel de Goiás",
   "localidade": "Planaltina",
   "uf": "GO",
-  "ibge": "5217609"
+  "ibge": "5217609",
+  "latitude": "-15.4534095",
+  "longitude": "-47.615352"
 }

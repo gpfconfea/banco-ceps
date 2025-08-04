@@ -1,9 +1,11 @@
 {
   "cep": "42800941",
   "logradouro": "Estrada da Cascalheira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Limoeiro",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.81243",
+  "longitude": "-38.25151"
 }

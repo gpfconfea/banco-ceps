@@ -1,9 +1,11 @@
 {
   "cep": "89122970",
   "logradouro": "Estrada Geral Cedro Alto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cedro Alto",
   "localidade": "Rio dos Cedros",
   "uf": "SC",
-  "ibge": "4214706"
+  "ibge": "4214706",
+  "latitude": "-26.6771565",
+  "longitude": "-49.2876885"
 }

@@ -5,5 +5,7 @@
   "bairro": "João Jabour",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.1663997",
+  "longitude": "-47.3215153"
 }

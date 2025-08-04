@@ -5,5 +5,7 @@
   "bairro": "Chatuba",
   "localidade": "Mesquita",
   "uf": "RJ",
-  "ibge": "3302858"
+  "ibge": "3302858",
+  "latitude": "-22.78385",
+  "longitude": "-43.43137"
 }

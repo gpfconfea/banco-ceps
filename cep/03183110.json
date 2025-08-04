@@ -5,5 +5,7 @@
   "bairro": "Alto da Mooca",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5617923",
+  "longitude": "-46.5858513"
 }

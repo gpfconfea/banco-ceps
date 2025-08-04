@@ -6,5 +6,7 @@
   "bairro": "Flândria",
   "localidade": "Pompéia",
   "uf": "SP",
-  "ibge": "3540002"
+  "ibge": "3540002",
+  "latitude": "-22.1046073",
+  "longitude": "-50.1669192"
 }

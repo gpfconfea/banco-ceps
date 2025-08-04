@@ -5,5 +5,7 @@
   "bairro": "Vila Primavera",
   "localidade": "Jaguariúna",
   "uf": "SP",
-  "ibge": "3524709"
+  "ibge": "3524709",
+  "latitude": "-22.6995181",
+  "longitude": "-46.955987"
 }

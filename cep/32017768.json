@@ -5,5 +5,7 @@
   "bairro": "Estância Silveira",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.90766",
+  "longitude": "-44.08817"
 }

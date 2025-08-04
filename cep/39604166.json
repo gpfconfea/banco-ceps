@@ -6,5 +6,7 @@
   "bairro": "São Francisco",
   "localidade": "Araçuaí",
   "uf": "MG",
-  "ibge": "3103405"
+  "ibge": "3103405",
+  "latitude": "-16.8474576",
+  "longitude": "-42.0537189"
 }

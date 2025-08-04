@@ -1,9 +1,11 @@
 {
   "cep": "57540970",
   "logradouro": "Rua Siqueira Campos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Mata Grande",
   "uf": "AL",
-  "ibge": "2705002"
+  "ibge": "2705002",
+  "latitude": "-9.1180824",
+  "longitude": "-37.7228583"
 }

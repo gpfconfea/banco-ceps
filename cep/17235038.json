@@ -6,5 +6,7 @@
   "bairro": "Residencial Girassol",
   "localidade": "Itapuí",
   "uf": "SP",
-  "ibge": "3522901"
+  "ibge": "3522901",
+  "latitude": "-22.234982",
+  "longitude": "-48.7282036"
 }

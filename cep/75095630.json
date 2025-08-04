@@ -5,5 +5,7 @@
   "bairro": "Lourdes",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3324948",
+  "longitude": "-48.9164425"
 }
