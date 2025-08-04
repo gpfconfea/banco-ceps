@@ -5,5 +5,7 @@
   "bairro": "José Rosa",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "latitude": "-4.87353",
+  "longitude": "-39.90281"
 }

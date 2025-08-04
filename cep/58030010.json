@@ -5,5 +5,7 @@
   "bairro": "Estados",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.1191957",
+  "longitude": "-34.8640955"
 }

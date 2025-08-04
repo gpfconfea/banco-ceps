@@ -1,10 +1,12 @@
 {
   "cep": "45083900",
   "logradouro": "Estrada Bem Querer",
-  "complemento": "s/n",
+  "complemento": "",
   "unidade": "Universidade do Sudoeste da Bahia",
   "bairro": "Universidade",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-14.8954576",
+  "longitude": "-40.8055687"
 }

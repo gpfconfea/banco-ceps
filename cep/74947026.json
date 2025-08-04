@@ -5,5 +5,7 @@
   "bairro": "Setor Aeroporto Sul - 3ª Etapa",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7968458",
+  "longitude": "-49.357257"
 }

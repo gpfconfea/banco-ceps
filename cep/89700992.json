@@ -1,9 +1,11 @@
 {
   "cep": "89700992",
   "logradouro": "Rua Principal - Posto Cem",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "latitude": "-27.2467",
+  "longitude": "-52.11632"
 }

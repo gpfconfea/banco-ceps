@@ -5,5 +5,7 @@
   "bairro": "Parque das Nações",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-23.6371",
+  "longitude": "-46.52058"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Estoril",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.25293",
+  "longitude": "-45.88351"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "37461970",
   "logradouro": "Avenida Saint Clair Mota",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pinheirinhos",
   "localidade": "Passa Quatro",
   "uf": "MG",
-  "ibge": "3147600"
+  "ibge": "3147600",
+  "latitude": "-22.4147846",
+  "longitude": "-44.9772684"
 }

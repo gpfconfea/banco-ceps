@@ -1,9 +1,11 @@
 {
   "cep": "48350991",
   "logradouro": "Rua Custódio Batista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Aporá",
   "uf": "BA",
-  "ibge": "2901908"
+  "ibge": "2901908",
+  "latitude": "-11.66053",
+  "longitude": "-38.07999"
 }

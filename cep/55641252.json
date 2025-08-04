@@ -5,5 +5,7 @@
   "bairro": "Gravatá Centro",
   "localidade": "Gravatá",
   "uf": "PE",
-  "ibge": "2606408"
+  "ibge": "2606408",
+  "latitude": "-23.7289119",
+  "longitude": "-46.5582239"
 }

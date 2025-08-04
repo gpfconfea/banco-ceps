@@ -5,5 +5,7 @@
   "bairro": "Santa Marta",
   "localidade": "Canela",
   "uf": "RS",
-  "ibge": "4304408"
+  "ibge": "4304408",
+  "latitude": "-29.3694355",
+  "longitude": "-50.8425877"
 }

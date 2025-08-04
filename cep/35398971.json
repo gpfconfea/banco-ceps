@@ -1,9 +1,11 @@
 {
   "cep": "35398971",
   "logradouro": "Avenida Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Vicente do Grama",
   "localidade": "Jequeri",
   "uf": "MG",
-  "ibge": "3135506"
+  "ibge": "3135506",
+  "latitude": "-20.454534",
+  "longitude": "-42.6668072"
 }

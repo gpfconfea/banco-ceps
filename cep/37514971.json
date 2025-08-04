@@ -1,9 +1,11 @@
 {
   "cep": "37514971",
   "logradouro": "Rua Luiz Francisco Ribeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Delfim Moreira",
   "uf": "MG",
-  "ibge": "3121100"
+  "ibge": "3121100",
+  "latitude": "-22.3782159",
+  "longitude": "-45.2608571"
 }

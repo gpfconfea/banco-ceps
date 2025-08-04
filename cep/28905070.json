@@ -5,5 +5,7 @@
   "bairro": "Itajuru",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "latitude": "-21.7203021",
+  "longitude": "-41.3112647"
 }

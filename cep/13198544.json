@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Monte Mor",
   "uf": "SP",
-  "ibge": "3531803"
+  "ibge": "3531803",
+  "latitude": "-23.69438",
+  "longitude": "-46.52352"
 }

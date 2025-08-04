@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Ipiguá",
   "uf": "SP",
-  "ibge": "3521150"
+  "ibge": "3521150",
+  "latitude": "-20.6556747",
+  "longitude": "-49.3843463"
 }

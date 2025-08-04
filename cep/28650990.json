@@ -1,9 +1,11 @@
 {
   "cep": "28650990",
   "logradouro": "Praça Pedro Henrique Ângeloº",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Duas Barras",
   "uf": "RJ",
-  "ibge": "3301603"
+  "ibge": "3301603",
+  "latitude": "-22.05023",
+  "longitude": "-42.52461"
 }

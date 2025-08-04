@@ -1,9 +1,11 @@
 {
   "cep": "62802974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barreira dos Vianas",
   "localidade": "Aracati",
   "uf": "CE",
-  "ibge": "2301109"
+  "ibge": "2301109",
+  "latitude": "-4.6301682",
+  "longitude": "-37.8265116"
 }

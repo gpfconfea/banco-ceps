@@ -5,5 +5,7 @@
   "bairro": "Jardins de Renoir",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.21974",
+  "longitude": "-49.88955"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29367980",
   "logradouro": "Praça Osório Breseskin",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Estrela do Norte",
   "localidade": "Castelo",
   "uf": "ES",
-  "ibge": "3201407"
+  "ibge": "3201407",
+  "latitude": "-20.6040151",
+  "longitude": "-41.204439"
 }

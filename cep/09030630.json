@@ -5,5 +5,7 @@
   "bairro": "Vila Assunção",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.667979",
+  "longitude": "-46.5278863"
 }

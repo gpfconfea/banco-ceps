@@ -5,5 +5,7 @@
   "bairro": "Vila Garrido",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.2976567",
+  "longitude": "-40.3124975"
 }

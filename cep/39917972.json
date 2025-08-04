@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bandeira",
   "uf": "MG",
-  "ibge": "3105202"
+  "ibge": "3105202",
+  "latitude": "-15.886647",
+  "longitude": "-40.559834"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Três Cachoeiras",
   "uf": "RS",
-  "ibge": "4321667"
+  "ibge": "4321667",
+  "latitude": "-29.4551253",
+  "longitude": "-49.923871"
 }

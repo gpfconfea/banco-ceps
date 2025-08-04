@@ -1,9 +1,11 @@
 {
   "cep": "39648971",
   "logradouro": "Rua Primavera",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cachoeira do Norte",
   "localidade": "Chapada do Norte",
   "uf": "MG",
-  "ibge": "3116100"
+  "ibge": "3116100",
+  "latitude": "-17.0521364",
+  "longitude": "-42.6508945"
 }

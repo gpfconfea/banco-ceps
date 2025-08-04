@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Argirita",
   "uf": "MG",
-  "ibge": "3104403"
+  "ibge": "3104403",
+  "latitude": "-18.9602975",
+  "longitude": "-49.4578727"
 }

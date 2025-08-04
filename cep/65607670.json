@@ -5,5 +5,7 @@
   "bairro": "Ponte",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-29.18096",
+  "longitude": "-51.1624111"
 }

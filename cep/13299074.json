@@ -5,5 +5,7 @@
   "bairro": "Residencial Botânica",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-22.93788",
+  "longitude": "-47.12169"
 }

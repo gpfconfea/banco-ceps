@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque das Laranjeiras",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "latitude": "-11.86353",
+  "longitude": "-55.54603"
 }

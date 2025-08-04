@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto Lucena",
   "uf": "RS",
-  "ibge": "4315008"
+  "ibge": "4315008",
+  "latitude": "-27.8540231",
+  "longitude": "-55.0190906"
 }

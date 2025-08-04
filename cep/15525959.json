@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Parisi",
   "uf": "SP",
-  "ibge": "3536257"
+  "ibge": "3536257",
+  "latitude": "-20.302631",
+  "longitude": "-50.013641"
 }

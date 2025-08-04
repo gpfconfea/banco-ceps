@@ -5,5 +5,7 @@
   "bairro": "Dom Modesto",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "latitude": "-19.7399845",
+  "longitude": "-42.1613259"
 }

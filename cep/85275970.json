@@ -1,9 +1,11 @@
 {
   "cep": "85275970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Laranjal",
   "uf": "PR",
-  "ibge": "4113254"
+  "ibge": "4113254",
+  "latitude": "-2.5654514",
+  "longitude": "-44.1445217"
 }

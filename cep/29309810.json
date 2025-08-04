@@ -5,5 +5,7 @@
   "bairro": "Ilha da Luz",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "latitude": "-20.839691",
+  "longitude": "-41.122368"
 }

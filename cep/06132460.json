@@ -5,5 +5,7 @@
   "bairro": "Bussocaba",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.4188055",
+  "longitude": "-47.4892908"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Picos",
   "uf": "PI",
-  "ibge": "2208007"
+  "ibge": "2208007",
+  "latitude": "-7.0792637",
+  "longitude": "-41.4686283"
 }

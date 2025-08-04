@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Costa Verde",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6982171",
+  "longitude": "-49.4145238"
 }

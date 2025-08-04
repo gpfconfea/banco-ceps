@@ -5,5 +5,7 @@
   "bairro": "Taboão",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5459519",
+  "longitude": "-47.111678"
 }

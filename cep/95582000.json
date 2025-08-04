@@ -5,5 +5,7 @@
   "bairro": "Rio do Terra",
   "localidade": "Três Cachoeiras",
   "uf": "RS",
-  "ibge": "4321667"
+  "ibge": "4321667",
+  "latitude": "-29.4509074",
+  "longitude": "-50.0033354"
 }

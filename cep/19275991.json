@@ -1,9 +1,11 @@
 {
   "cep": "19275991",
   "logradouro": "Rua Central, Agrovila Rosanela",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Euclides da Cunha Paulista",
   "uf": "SP",
-  "ibge": "3515350"
+  "ibge": "3515350",
+  "latitude": "-22.5733",
+  "longitude": "-52.47223"
 }

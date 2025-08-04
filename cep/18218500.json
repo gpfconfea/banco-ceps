@@ -5,5 +5,7 @@
   "bairro": "Varginha",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.7279068",
+  "longitude": "-48.1998045"
 }

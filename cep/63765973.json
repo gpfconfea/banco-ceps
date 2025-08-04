@@ -1,9 +1,11 @@
 {
   "cep": "63765973",
   "logradouro": "Rua Manoel Linhares",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sucesso",
   "localidade": "Tamboril",
   "uf": "CE",
-  "ibge": "2313203"
+  "ibge": "2313203",
+  "latitude": "-4.943962",
+  "longitude": "-40.5375544"
 }

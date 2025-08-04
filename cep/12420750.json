@@ -5,5 +5,7 @@
   "bairro": "Socorro",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-22.9539134",
+  "longitude": "-45.4676599"
 }

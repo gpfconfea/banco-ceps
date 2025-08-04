@@ -5,5 +5,7 @@
   "bairro": "Jardim São Carlos",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.4100898",
+  "longitude": "-45.9466246"
 }

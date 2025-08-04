@@ -1,9 +1,11 @@
 {
   "cep": "14790971",
   "logradouro": "Praça Raimundo de Castro Diniz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José do Albertópolis",
   "localidade": "Guaíra",
   "uf": "SP",
-  "ibge": "3517406"
+  "ibge": "3517406",
+  "latitude": "-22.8014579",
+  "longitude": "-47.2622795"
 }

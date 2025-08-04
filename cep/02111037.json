@@ -5,5 +5,7 @@
   "bairro": "Vila Maria Baixa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5203786",
+  "longitude": "-46.593888"
 }

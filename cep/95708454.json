@@ -5,5 +5,7 @@
   "bairro": "São Roque",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.14042",
+  "longitude": "-51.50991"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Marcheti",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-23.2065063",
+  "longitude": "-46.764416"
 }

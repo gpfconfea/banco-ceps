@@ -5,5 +5,7 @@
   "bairro": "Vila Hortência",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.508072",
+  "longitude": "-47.4434325"
 }

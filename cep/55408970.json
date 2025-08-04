@@ -1,9 +1,11 @@
 {
   "cep": "55408970",
   "logradouro": "Rua Manoel José Loureiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sertãozinho de Baixo",
   "localidade": "Maraial",
   "uf": "PE",
-  "ibge": "2609204"
+  "ibge": "2609204",
+  "latitude": "-8.8042722",
+  "longitude": "-35.8292775"
 }

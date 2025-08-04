@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Parque da Raposa II",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5471522",
+  "longitude": "-51.4199287"
 }

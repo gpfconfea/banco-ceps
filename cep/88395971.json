@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João do Itaperiú",
   "uf": "SC",
-  "ibge": "4216354"
+  "ibge": "4216354",
+  "latitude": "-26.6155527",
+  "longitude": "-48.7661312"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "61700973",
   "logradouro": "Travessa Jangada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Prainha",
   "localidade": "Aquiraz",
   "uf": "CE",
-  "ibge": "2301000"
+  "ibge": "2301000",
+  "latitude": "-3.9017574",
+  "longitude": "-38.3506777"
 }

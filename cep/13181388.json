@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Joana",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "latitude": "-30.0034454",
+  "longitude": "-51.0856302"
 }

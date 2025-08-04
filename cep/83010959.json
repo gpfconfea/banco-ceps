@@ -1,9 +1,11 @@
 {
   "cep": "83010959",
   "logradouro": "Avenida Rocha Pombo Loja 27",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Águas Belas",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "-25.5349645",
+  "longitude": "-49.1857263"
 }

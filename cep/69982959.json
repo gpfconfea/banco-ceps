@@ -1,9 +1,11 @@
 {
   "cep": "69982959",
   "logradouro": "Rua Projetada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Porto Walter",
   "uf": "AC",
-  "ibge": "1200393"
+  "ibge": "1200393",
+  "latitude": "-8.26661",
+  "longitude": "-72.74229"
 }

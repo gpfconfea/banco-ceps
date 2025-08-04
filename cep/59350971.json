@@ -1,9 +1,11 @@
 {
   "cep": "59350971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tuiuiu",
   "localidade": "Santana do Seridó",
   "uf": "RN",
-  "ibge": "2411429"
+  "ibge": "2411429",
+  "latitude": "-6.770789",
+  "longitude": "-36.7332381"
 }

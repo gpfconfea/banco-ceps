@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Muliterno",
   "uf": "RS",
-  "ibge": "4312625"
+  "ibge": "4312625",
+  "latitude": "-29.2710646",
+  "longitude": "-51.9871586"
 }

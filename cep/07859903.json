@@ -1,9 +1,11 @@
 {
   "cep": "07859903",
   "logradouro": "Rua Marcus Vinícius Donadel Góes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Industrial",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-23.3351414",
+  "longitude": "-46.6842056"
 }

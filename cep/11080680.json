@@ -5,5 +5,7 @@
   "bairro": "Morro Santa Maria",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-30.0111271",
+  "longitude": "-51.089006"
 }

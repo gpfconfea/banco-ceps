@@ -5,5 +5,7 @@
   "bairro": "Jardim Etelvina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5287722",
+  "longitude": "-46.420681"
 }

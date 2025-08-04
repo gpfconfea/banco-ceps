@@ -1,9 +1,11 @@
 {
   "cep": "36107979",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Monte Verde",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.9177741",
+  "longitude": "-43.5186083"
 }

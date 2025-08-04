@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vista Alegre do Prata",
   "uf": "RS",
-  "ibge": "4323606"
+  "ibge": "4323606",
+  "latitude": "-28.80878",
+  "longitude": "-51.78866"
 }

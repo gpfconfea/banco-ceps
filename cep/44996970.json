@@ -1,9 +1,11 @@
 {
   "cep": "44996970",
   "logradouro": "Vila de Antari",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Antarí",
   "localidade": "Barra do Mendes",
   "uf": "BA",
-  "ibge": "2903003"
+  "ibge": "2903003",
+  "latitude": "-12.1619213",
+  "longitude": "-42.0278865"
 }

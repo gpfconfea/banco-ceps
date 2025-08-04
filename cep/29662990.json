@@ -1,9 +1,11 @@
 {
   "cep": "29662990",
   "logradouro": "Rua São Paulo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto Santa Maria",
   "localidade": "Santa Teresa",
   "uf": "ES",
-  "ibge": "3204609"
+  "ibge": "3204609",
+  "latitude": "-19.896562",
+  "longitude": "-40.7629417"
 }

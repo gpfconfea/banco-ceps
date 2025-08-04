@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora Aparecida",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6433529",
+  "longitude": "-56.0489893"
 }

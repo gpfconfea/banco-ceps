@@ -5,5 +5,7 @@
   "bairro": "Vila Samara",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.7433237",
+  "longitude": "-44.3493473"
 }

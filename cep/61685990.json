@@ -1,9 +1,11 @@
 {
   "cep": "61685990",
   "logradouro": "Rodovia Raimundo Pessoa de Araújo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.8085067",
+  "longitude": "-38.6618964"
 }

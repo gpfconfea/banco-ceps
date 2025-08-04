@@ -5,5 +5,7 @@
   "bairro": "Vila Antonieta",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5783178",
+  "longitude": "-46.5124891"
 }

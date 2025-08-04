@@ -1,9 +1,11 @@
 {
   "cep": "96470990",
   "logradouro": "Rua Osmar Correa da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pinheiro Machado",
   "uf": "RS",
-  "ibge": "4314506"
+  "ibge": "4314506",
+  "latitude": "-29.68998",
+  "longitude": "-53.88254"
 }

@@ -5,5 +5,7 @@
   "bairro": "Ipioca",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.6165757",
+  "longitude": "-35.7488177"
 }

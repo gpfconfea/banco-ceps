@@ -5,5 +5,7 @@
   "bairro": "Condominio Granja Colonial",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.6450815",
+  "longitude": "-47.0006271"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Iperó",
   "uf": "SP",
-  "ibge": "3521002"
+  "ibge": "3521002",
+  "latitude": "-23.45175",
+  "longitude": "-47.54919"
 }

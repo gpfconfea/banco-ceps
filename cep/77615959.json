@@ -1,9 +1,11 @@
 {
   "cep": "77615959",
   "logradouro": "Praça Cinco de Janeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Santa Tereza do Tocantins",
   "uf": "TO",
-  "ibge": "1719004"
+  "ibge": "1719004",
+  "latitude": "-10.283",
+  "longitude": "-47.80886"
 }

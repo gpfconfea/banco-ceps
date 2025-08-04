@@ -1,9 +1,11 @@
 {
   "cep": "89243970",
   "logradouro": "Vila da Glória",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sai",
   "localidade": "São Francisco do Sul",
   "uf": "SC",
-  "ibge": "4216206"
+  "ibge": "4216206",
+  "latitude": "-26.2216827",
+  "longitude": "-48.6801343"
 }

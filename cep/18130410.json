@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-21.8364183",
+  "longitude": "-46.7448301"
 }

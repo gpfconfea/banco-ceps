@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Clara",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.47643",
+  "longitude": "-46.99472"
 }

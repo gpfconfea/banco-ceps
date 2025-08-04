@@ -1,9 +1,11 @@
 {
   "cep": "63593976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Felipe",
   "localidade": "Saboeiro",
   "uf": "CE",
-  "ibge": "2311900"
+  "ibge": "2311900",
+  "latitude": "-3.7449808",
+  "longitude": "-38.6483705"
 }

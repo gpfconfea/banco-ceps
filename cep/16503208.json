@@ -5,5 +5,7 @@
   "bairro": "Campo Belo",
   "localidade": "Cafelândia",
   "uf": "SP",
-  "ibge": "3508801"
+  "ibge": "3508801",
+  "latitude": "-23.3923",
+  "longitude": "-46.71429"
 }

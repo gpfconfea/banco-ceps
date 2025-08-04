@@ -5,5 +5,7 @@
   "bairro": "Tiradentes",
   "localidade": "Salgado Filho",
   "uf": "PR",
-  "ibge": "4122800"
+  "ibge": "4122800",
+  "latitude": "-23.31186",
+  "longitude": "-51.36996"
 }

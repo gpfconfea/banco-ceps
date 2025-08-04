@@ -1,9 +1,11 @@
 {
   "cep": "46330959",
   "logradouro": "Praça Dois de Julho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Licínio de Almeida",
   "uf": "BA",
-  "ibge": "2919405"
+  "ibge": "2919405",
+  "latitude": "-14.6835555",
+  "longitude": "-42.5067309"
 }

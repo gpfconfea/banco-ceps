@@ -1,9 +1,11 @@
 {
   "cep": "63816974",
   "logradouro": "Rua Osvaldo Ribeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Belém",
   "localidade": "Quixeramobim",
   "uf": "CE",
-  "ibge": "2311405"
+  "ibge": "2311405",
+  "latitude": "-8.7626468",
+  "longitude": "-63.8205929"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "36335975",
   "logradouro": "Pátio da Escola Municipal Maria Augusta Rodrigues",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Restinga de Cima",
   "localidade": "Ritápolis",
   "uf": "MG",
-  "ibge": "3156106"
+  "ibge": "3156106",
+  "latitude": "-21.0274",
+  "longitude": "-44.32069"
 }

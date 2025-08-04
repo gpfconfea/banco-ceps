@@ -1,9 +1,11 @@
 {
   "cep": "45325972",
   "logradouro": "Rodovia Br-116",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Km 100",
   "localidade": "Brejões",
   "uf": "BA",
-  "ibge": "2904308"
+  "ibge": "2904308",
+  "latitude": "-13.0094868",
+  "longitude": "-39.9571204"
 }

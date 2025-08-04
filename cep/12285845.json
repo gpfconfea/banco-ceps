@@ -5,5 +5,7 @@
   "bairro": "Padre Marcelo",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.176641",
+  "longitude": "-45.742704"
 }

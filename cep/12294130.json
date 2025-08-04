@@ -5,5 +5,7 @@
   "bairro": "Sapé I",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.1138415",
+  "longitude": "-45.628114"
 }

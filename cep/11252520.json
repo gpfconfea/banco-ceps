@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-22.3816254",
+  "longitude": "-46.9431374"
 }

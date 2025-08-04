@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caarapó",
   "uf": "MS",
-  "ibge": "5002407"
+  "ibge": "5002407",
+  "latitude": "-22.6382414",
+  "longitude": "-54.8215517"
 }

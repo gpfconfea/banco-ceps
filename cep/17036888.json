@@ -5,5 +5,7 @@
   "bairro": "Vale do Igapó",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-23.3044475",
+  "longitude": "-47.2989728"
 }

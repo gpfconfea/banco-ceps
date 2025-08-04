@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Jardim Padre Demósthenes",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-23.23233",
+  "longitude": "-45.88354"
 }

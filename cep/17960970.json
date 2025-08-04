@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Castelo",
   "uf": "SP",
-  "ibge": "3531605"
+  "ibge": "3531605",
+  "latitude": "-21.2994074",
+  "longitude": "-51.5707886"
 }

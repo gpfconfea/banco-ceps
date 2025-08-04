@@ -5,5 +5,7 @@
   "bairro": "Planalto Boa Esperança",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "latitude": "-20.4303435",
+  "longitude": "-49.9750334"
 }

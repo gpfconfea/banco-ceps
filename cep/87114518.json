@@ -5,5 +5,7 @@
   "bairro": "Jardim Universal",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4304825",
+  "longitude": "-51.8469707"
 }

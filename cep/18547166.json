@@ -6,5 +6,7 @@
   "bairro": "Cidade Nova Bandeirantes",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.2199441",
+  "longitude": "-47.5146194"
 }

@@ -5,5 +5,7 @@
   "bairro": "Guarujá",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.7729099",
+  "longitude": "-50.2860859"
 }

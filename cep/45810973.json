@@ -1,9 +1,11 @@
 {
   "cep": "45810973",
   "logradouro": "Rua Santa Rita",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pindorama",
   "localidade": "Porto Seguro",
   "uf": "BA",
-  "ibge": "2925303"
+  "ibge": "2925303",
+  "latitude": "-16.413532",
+  "longitude": "-39.0832723"
 }

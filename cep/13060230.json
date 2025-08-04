@@ -5,5 +5,7 @@
   "bairro": "Jardim Londres",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9184401",
+  "longitude": "-47.102031"
 }

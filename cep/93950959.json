@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dois Irmãos",
   "uf": "RS",
-  "ibge": "4306403"
+  "ibge": "4306403",
+  "latitude": "-29.56877",
+  "longitude": "-51.08524"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Suiça",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7143155",
+  "longitude": "-49.2832772"
 }

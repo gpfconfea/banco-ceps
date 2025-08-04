@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Itaí",
   "uf": "SP",
-  "ibge": "3521804"
+  "ibge": "3521804",
+  "latitude": "-23.42266",
+  "longitude": "-49.08482"
 }

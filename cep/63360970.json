@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aurora",
   "uf": "CE",
-  "ibge": "2301703"
+  "ibge": "2301703",
+  "latitude": "-6.9425007",
+  "longitude": "-38.9671473"
 }

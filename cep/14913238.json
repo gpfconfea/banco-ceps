@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Tabatinga",
   "uf": "SP",
-  "ibge": "3552700"
+  "ibge": "3552700",
+  "latitude": "-23.56572",
+  "longitude": "-46.75103"
 }

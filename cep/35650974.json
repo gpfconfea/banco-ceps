@@ -5,5 +5,7 @@
   "bairro": "Campo Grande",
   "localidade": "Pitangui",
   "uf": "MG",
-  "ibge": "3151404"
+  "ibge": "3151404",
+  "latitude": "-19.6095035",
+  "longitude": "-44.9314194"
 }

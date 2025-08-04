@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Vila Bella Dom Pedro",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0245161",
+  "longitude": "-47.1212405"
 }

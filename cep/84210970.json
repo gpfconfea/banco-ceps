@@ -1,9 +1,11 @@
 {
   "cep": "84210970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Eduardo Xavier da Silva",
   "localidade": "Jaguariaíva",
   "uf": "PR",
-  "ibge": "4112009"
+  "ibge": "4112009",
+  "latitude": "-24.2443757",
+  "longitude": "-49.7071163"
 }

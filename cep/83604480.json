@@ -5,5 +5,7 @@
   "bairro": "Vila Vista Alegre",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4615008",
+  "longitude": "-49.5479013"
 }

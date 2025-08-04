@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Joaquim",
   "uf": "SC",
-  "ibge": "4216503"
+  "ibge": "4216503",
+  "latitude": "-28.2916741",
+  "longitude": "-49.9345888"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Haras Inga Mirim",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.34615",
+  "longitude": "-47.6772141"
 }

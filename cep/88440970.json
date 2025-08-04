@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Imbuia",
   "uf": "SC",
-  "ibge": "4207403"
+  "ibge": "4207403",
+  "latitude": "-27.4920242",
+  "longitude": "-49.4224324"
 }

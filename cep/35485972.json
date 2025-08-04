@@ -1,9 +1,11 @@
 {
   "cep": "35485972",
   "logradouro": "Praça Joaquim Gomes Maciel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bernardas",
   "localidade": "Rio Manso",
   "uf": "MG",
-  "ibge": "3155306"
+  "ibge": "3155306",
+  "latitude": "-20.2670203",
+  "longitude": "-44.3074982"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "95722971",
   "logradouro": "Estrada São José da Costa Real",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José de Castro",
   "localidade": "Garibaldi",
   "uf": "RS",
-  "ibge": "4308607"
+  "ibge": "4308607",
+  "latitude": "-30.07541",
+  "longitude": "-51.16937"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Florença",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "latitude": "-12.72101",
+  "longitude": "-60.10563"
 }

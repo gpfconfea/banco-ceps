@@ -1,9 +1,11 @@
 {
   "cep": "13930971",
   "logradouro": "Praça Prefeito João Zelante Loja 4",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Serra Negra",
   "uf": "SP",
-  "ibge": "3551603"
+  "ibge": "3551603",
+  "latitude": "-22.6115838",
+  "longitude": "-46.700637"
 }

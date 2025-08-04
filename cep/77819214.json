@@ -5,5 +5,7 @@
   "bairro": "Barra da Grota",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "latitude": "-22.4209178",
+  "longitude": "-45.4607274"
 }

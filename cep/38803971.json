@@ -1,9 +1,11 @@
 {
   "cep": "38803971",
   "logradouro": "Rua Sônia Cristina de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guarda dos Ferreiros",
   "localidade": "São Gotardo",
   "uf": "MG",
-  "ibge": "3162104"
+  "ibge": "3162104",
+  "latitude": "-19.370764",
+  "longitude": "-46.1248512"
 }

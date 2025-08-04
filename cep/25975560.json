@@ -5,5 +5,7 @@
   "bairro": "Tijuca",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "latitude": "-22.4200461",
+  "longitude": "-42.9551681"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "37139971",
   "logradouro": "Rua Ana Quitéria",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barranco Alto",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.1825006",
+  "longitude": "-45.9610938"
 }

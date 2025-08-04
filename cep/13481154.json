@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Belo",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-21.67895",
+  "longitude": "-51.089848"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Branco do Ivaí",
   "uf": "PR",
-  "ibge": "4122172"
+  "ibge": "4122172",
+  "latitude": "-24.3207094",
+  "longitude": "-51.3148027"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "24440989",
-  "logradouro": "Praça Estefania de Carvalho 15 Térreo Locker Correios",
+  "logradouro": "Praça Estefania de Carvalho 15 Térreo",
   "complemento": "",
   "bairro": "Zé Garoto",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "latitude": "-22.82915",
+  "longitude": "-43.05476"
 }

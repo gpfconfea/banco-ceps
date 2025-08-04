@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Pinhão",
   "uf": "PR",
-  "ibge": "4119301"
+  "ibge": "4119301",
+  "latitude": "-25.6937399",
+  "longitude": "-51.661064"
 }

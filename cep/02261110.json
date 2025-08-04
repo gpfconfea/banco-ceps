@@ -5,5 +5,7 @@
   "bairro": "Jaçanã",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.76113",
+  "longitude": "-47.320435"
 }

@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "latitude": "-19.0379847",
+  "longitude": "-43.424704"
 }

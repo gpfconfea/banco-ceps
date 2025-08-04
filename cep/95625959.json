@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Imbé",
   "uf": "RS",
-  "ibge": "4310330"
+  "ibge": "4310330",
+  "latitude": "-29.96866",
+  "longitude": "-50.13468"
 }

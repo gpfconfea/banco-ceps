@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Roma do Sul",
   "uf": "RS",
-  "ibge": "4313359"
+  "ibge": "4313359",
+  "latitude": "-28.99003",
+  "longitude": "-51.407"
 }

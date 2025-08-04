@@ -1,9 +1,11 @@
 {
   "cep": "39483970",
   "logradouro": "Avenida Antônio Correia Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Riacho da Cruz",
   "localidade": "Januária",
   "uf": "MG",
-  "ibge": "3135209"
+  "ibge": "3135209",
+  "latitude": "-15.3343643",
+  "longitude": "-44.2489727"
 }

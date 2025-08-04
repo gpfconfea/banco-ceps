@@ -5,5 +5,7 @@
   "bairro": "Residencial Sol Nascente",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4336538",
+  "longitude": "-46.7752859"
 }

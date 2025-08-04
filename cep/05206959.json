@@ -5,5 +5,7 @@
   "bairro": "Vila Inácio",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4058835",
+  "longitude": "-46.7575933"
 }

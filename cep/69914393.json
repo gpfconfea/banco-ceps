@@ -5,5 +5,7 @@
   "bairro": "Calafate",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-23.7192214",
+  "longitude": "-45.4422278"
 }

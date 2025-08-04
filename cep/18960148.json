@@ -6,5 +6,7 @@
   "bairro": "Jardim Brasil Lll",
   "localidade": "Bernardino de Campos",
   "uf": "SP",
-  "ibge": "3506300"
+  "ibge": "3506300",
+  "latitude": "-23.0166765",
+  "longitude": "-49.4845689"
 }

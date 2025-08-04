@@ -5,5 +5,7 @@
   "bairro": "Terra de Vera Cruz",
   "localidade": "Vera Cruz",
   "uf": "SP",
-  "ibge": "3556602"
+  "ibge": "3556602",
+  "latitude": "-22.2283865",
+  "longitude": "-49.802801"
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Rancho Maringá II",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.6700492",
+  "longitude": "-46.6364853"
 }
