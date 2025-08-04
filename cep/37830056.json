@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaxupé",
   "uf": "MG",
-  "ibge": "3128709"
+  "ibge": "3128709",
+  "latitude": "-21.3046036",
+  "longitude": "-46.7164922"
 }

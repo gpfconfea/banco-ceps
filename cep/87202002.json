@@ -5,5 +5,7 @@
   "bairro": "Residencial Atlântico I",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "-23.6475905",
+  "longitude": "-52.6222489"
 }

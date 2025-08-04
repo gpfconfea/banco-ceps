@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Belém",
   "uf": "MG",
-  "ibge": "3144672"
+  "ibge": "3144672",
+  "latitude": "-23.280461",
+  "longitude": "-46.7476417"
 }

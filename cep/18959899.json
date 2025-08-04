@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Ipaussu",
   "localidade": "Ipaussu",
   "uf": "SP",
-  "ibge": "3520905"
+  "ibge": "3520905",
+  "latitude": "-23.05851",
+  "longitude": "-49.62862"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Campos Verdes",
   "uf": "GO",
-  "ibge": "5204953"
+  "ibge": "5204953",
+  "latitude": "-16.6041995",
+  "longitude": "-50.1359524"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Terra Boa",
   "uf": "PR",
-  "ibge": "4127205"
+  "ibge": "4127205",
+  "latitude": "-23.7650368",
+  "longitude": "-52.4471789"
 }

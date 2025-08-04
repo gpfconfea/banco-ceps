@@ -6,5 +6,7 @@
   "bairro": "Santa Rita",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "latitude": "-22.3333111",
+  "longitude": "-47.1796118"
 }

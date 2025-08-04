@@ -1,9 +1,11 @@
 {
   "cep": "65578972",
   "logradouro": "Rua São Benedito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Frexeiras",
   "localidade": "Água Doce do Maranhão",
   "uf": "MA",
-  "ibge": "2100154"
+  "ibge": "2100154",
+  "latitude": "-2.8407774",
+  "longitude": "-42.1715329"
 }

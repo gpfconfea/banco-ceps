@@ -5,5 +5,7 @@
   "bairro": "Vila Maria Tereza",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.5395464",
+  "longitude": "-46.535051"
 }

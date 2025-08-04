@@ -5,5 +5,7 @@
   "bairro": "Rio da Praia",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-23.7557",
+  "longitude": "-45.87858"
 }

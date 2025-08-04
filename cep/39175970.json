@@ -1,9 +1,11 @@
 {
   "cep": "39175970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pedra Menina",
   "localidade": "Rio Vermelho",
   "uf": "MG",
-  "ibge": "3156007"
+  "ibge": "3156007",
+  "latitude": "-19.9156734",
+  "longitude": "-44.0251225"
 }

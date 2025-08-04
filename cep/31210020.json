@@ -5,5 +5,7 @@
   "bairro": "Lagoinha",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.910312",
+  "longitude": "-43.9427313"
 }

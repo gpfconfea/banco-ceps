@@ -5,5 +5,7 @@
   "bairro": "Nova Contagem",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.8211158",
+  "longitude": "-44.1454198"
 }

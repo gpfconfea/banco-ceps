@@ -5,5 +5,7 @@
   "bairro": "Pirituba",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.40206",
+  "longitude": "-46.35644"
 }

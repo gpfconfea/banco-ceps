@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Era",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9782637",
+  "longitude": "-46.9822371"
 }

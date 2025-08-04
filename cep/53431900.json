@@ -1,9 +1,11 @@
 {
   "cep": "53431900",
   "logradouro": "Rua São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nossa Senhora do Ó",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "latitude": "-7.8987616",
+  "longitude": "-34.8303218"
 }

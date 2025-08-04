@@ -5,5 +5,7 @@
   "bairro": "Vila Bela Vista",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "latitude": "-23.9860122",
+  "longitude": "-48.3469085"
 }

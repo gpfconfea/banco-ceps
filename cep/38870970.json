@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Matutina",
   "uf": "MG",
-  "ibge": "3141207"
+  "ibge": "3141207",
+  "latitude": "-19.22052",
+  "longitude": "-45.9684993"
 }

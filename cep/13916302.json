@@ -5,5 +5,7 @@
   "bairro": "Residencial Campo Camanducaia",
   "localidade": "Jaguariúna",
   "uf": "SP",
-  "ibge": "3524709"
+  "ibge": "3524709",
+  "latitude": "-21.28275",
+  "longitude": "-50.31736"
 }

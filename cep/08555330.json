@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-30.1719458",
+  "longitude": "-51.0838083"
 }

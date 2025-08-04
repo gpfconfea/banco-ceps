@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rolim de Moura",
   "uf": "RO",
-  "ibge": "1100288"
+  "ibge": "1100288",
+  "latitude": "-11.7400167",
+  "longitude": "-61.7729051"
 }

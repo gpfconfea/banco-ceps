@@ -5,5 +5,7 @@
   "bairro": "CDHU Doutor João Adônis Castilho de Barros",
   "localidade": "Águas de Santa Bárbara",
   "uf": "SP",
-  "ibge": "3500550"
+  "ibge": "3500550",
+  "latitude": "-22.89192",
+  "longitude": "-49.23902"
 }

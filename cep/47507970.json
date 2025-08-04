@@ -1,9 +1,11 @@
 {
   "cep": "47507970",
   "logradouro": "Rua Marechal Deodoro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Volta da Serra",
   "localidade": "Paratinga",
   "uf": "BA",
-  "ibge": "2923704"
+  "ibge": "2923704",
+  "latitude": "-12.6932152",
+  "longitude": "-43.1856031"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vale Verde",
   "localidade": "Canaã dos Carajás",
   "uf": "PA",
-  "ibge": "1502152"
+  "ibge": "1502152",
+  "latitude": "-6.5348",
+  "longitude": "-49.84792"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Nova Veneza",
   "uf": "GO",
-  "ibge": "5215009"
+  "ibge": "5215009",
+  "latitude": "-16.3703051",
+  "longitude": "-49.3210888"
 }

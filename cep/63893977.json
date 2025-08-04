@@ -1,9 +1,11 @@
 {
   "cep": "63893977",
   "logradouro": "Rua Manoel Bezerril",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Olho D'água do Bezerril",
   "localidade": "Boa Viagem",
   "uf": "CE",
-  "ibge": "2302404"
+  "ibge": "2302404",
+  "latitude": "-4.85778",
+  "longitude": "-39.83453"
 }

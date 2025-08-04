@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-21.2097973",
+  "longitude": "-50.4482847"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Bela",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-23.3156019",
+  "longitude": "-46.7274809"
 }

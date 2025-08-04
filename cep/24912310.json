@@ -5,5 +5,7 @@
   "bairro": "Itapeba",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "latitude": "-22.9040994",
+  "longitude": "-42.8255322"
 }

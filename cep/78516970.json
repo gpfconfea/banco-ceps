@@ -1,9 +1,11 @@
 {
   "cep": "78516970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Flôr da Serra",
   "localidade": "Nova Canaã do Norte",
   "uf": "MT",
-  "ibge": "5106216"
+  "ibge": "5106216",
+  "latitude": "-10.555366",
+  "longitude": "-55.948389"
 }

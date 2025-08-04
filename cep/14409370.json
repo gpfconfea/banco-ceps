@@ -5,5 +5,7 @@
   "bairro": "Residencial Olavo Pinheiro",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.490994",
+  "longitude": "-47.4019262"
 }

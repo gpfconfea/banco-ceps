@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alpinópolis",
   "uf": "MG",
-  "ibge": "3101904"
+  "ibge": "3101904",
+  "latitude": "-20.864196",
+  "longitude": "-46.391581"
 }

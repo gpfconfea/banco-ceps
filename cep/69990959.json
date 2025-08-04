@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mâncio Lima",
   "uf": "AC",
-  "ibge": "1200336"
+  "ibge": "1200336",
+  "latitude": "-7.61055",
+  "longitude": "-72.90402"
 }

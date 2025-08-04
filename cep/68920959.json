@@ -1,9 +1,11 @@
 {
   "cep": "68920959",
   "logradouro": "Rua Tancredo Neves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Agreste",
   "localidade": "Laranjal do Jari",
   "uf": "AP",
-  "ibge": "1600279"
+  "ibge": "1600279",
+  "latitude": "-0.84537",
+  "longitude": "-52.52484"
 }

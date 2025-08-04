@@ -1,9 +1,11 @@
 {
   "cep": "65636904",
   "logradouro": "Avenida Luís Firmino de Sousa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Benedito",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "latitude": "-5.1052956",
+  "longitude": "-42.8411374"
 }

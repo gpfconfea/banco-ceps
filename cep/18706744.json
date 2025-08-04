@@ -5,5 +5,7 @@
   "bairro": "Residencial São Rogério II",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.0749289",
+  "longitude": "-48.9402151"
 }

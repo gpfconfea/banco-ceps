@@ -1,9 +1,11 @@
 {
   "cep": "83255994",
   "logradouro": "Rodovia Engenheiro Darci Gomes de Morais",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pontal do Paraná",
   "uf": "PR",
-  "ibge": "4119954"
+  "ibge": "4119954",
+  "latitude": "-25.6646618",
+  "longitude": "-48.455154"
 }

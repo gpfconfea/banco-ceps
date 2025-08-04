@@ -5,5 +5,7 @@
   "bairro": "Praia Brava",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.402791",
+  "longitude": "-48.415244"
 }

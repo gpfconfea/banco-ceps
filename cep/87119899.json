@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Sarandi",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-25.4437279",
+  "longitude": "-49.2789783"
 }

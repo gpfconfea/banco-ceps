@@ -1,9 +1,11 @@
 {
   "cep": "58778959",
   "logradouro": "Rua Vereador Odílio Pereira Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Aguiar",
   "uf": "PB",
-  "ibge": "2500205"
+  "ibge": "2500205",
+  "latitude": "-7.09095",
+  "longitude": "-38.17055"
 }

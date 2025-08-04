@@ -5,5 +5,7 @@
   "bairro": "Vila Rica",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5900461",
+  "longitude": "-48.0172212"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63594978",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Malhada",
   "localidade": "Saboeiro",
   "uf": "CE",
-  "ibge": "2311900"
+  "ibge": "2311900",
+  "latitude": "-2.7956374",
+  "longitude": "-40.5140808"
 }

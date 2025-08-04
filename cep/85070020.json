@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.3958933",
+  "longitude": "-51.4478331"
 }

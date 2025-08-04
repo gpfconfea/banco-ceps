@@ -5,5 +5,7 @@
   "bairro": "Santa Lúcia",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2275614",
+  "longitude": "-45.908329"
 }

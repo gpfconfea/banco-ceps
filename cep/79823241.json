@@ -5,5 +5,7 @@
   "bairro": "Jardim Universitário",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.5695278",
+  "longitude": "-55.6924973"
 }

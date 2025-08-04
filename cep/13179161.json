@@ -5,5 +5,7 @@
   "bairro": "Jardim Martins (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "latitude": "-23.611935",
+  "longitude": "-46.5304776"
 }

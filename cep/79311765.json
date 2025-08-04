@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "latitude": "-21.7004903",
+  "longitude": "-57.884104"
 }

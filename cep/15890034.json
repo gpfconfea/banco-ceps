@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Uchoa",
   "uf": "SP",
-  "ibge": "3555604"
+  "ibge": "3555604",
+  "latitude": "-22.31322",
+  "longitude": "-49.06832"
 }

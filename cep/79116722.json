@@ -5,5 +5,7 @@
   "bairro": "Residencial Tolentino",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-21.2623061",
+  "longitude": "-52.0371446"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Terras de Santa Maria",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.96162",
+  "longitude": "-47.43206"
 }

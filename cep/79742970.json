@@ -1,9 +1,11 @@
 {
   "cep": "79742970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Amandina",
   "localidade": "Ivinhema",
   "uf": "MS",
-  "ibge": "5004700"
+  "ibge": "5004700",
+  "latitude": "-20.5567372",
+  "longitude": "-54.6000015"
 }

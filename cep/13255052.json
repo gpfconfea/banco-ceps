@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Beija-Flor",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.0166344",
+  "longitude": "-46.8286884"
 }

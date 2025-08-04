@@ -1,9 +1,11 @@
 {
   "cep": "36892975",
   "logradouro": "Rua Aparício Vieira Machado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vermelho",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "latitude": "-21.10788",
+  "longitude": "-42.44915"
 }

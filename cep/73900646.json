@@ -6,5 +6,7 @@
   "bairro": "Vila Morena",
   "localidade": "Posse",
   "uf": "GO",
-  "ibge": "5218300"
+  "ibge": "5218300",
+  "latitude": "-13.79539",
+  "longitude": "-47.45845"
 }

@@ -5,5 +5,7 @@
   "bairro": "Marechal Rondon",
   "localidade": "Canoas",
   "uf": "RS",
-  "ibge": "4304606"
+  "ibge": "4304606",
+  "latitude": "-29.9222429",
+  "longitude": "-51.169334"
 }

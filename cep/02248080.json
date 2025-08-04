@@ -5,5 +5,7 @@
   "bairro": "Parada Inglesa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4845634",
+  "longitude": "-46.5966523"
 }

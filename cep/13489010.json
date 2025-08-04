@@ -5,5 +5,7 @@
   "bairro": "Tatu",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5559422",
+  "longitude": "-47.3686492"
 }

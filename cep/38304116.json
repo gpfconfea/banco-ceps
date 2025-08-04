@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "latitude": "-18.96535",
+  "longitude": "-49.46313"
 }

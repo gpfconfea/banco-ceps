@@ -5,5 +5,7 @@
   "bairro": "Cordeiro",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-23.5646245",
+  "longitude": "-46.7979116"
 }

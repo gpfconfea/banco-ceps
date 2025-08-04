@@ -1,9 +1,11 @@
 {
   "cep": "56420970",
   "logradouro": "Rua Major Pedro Nunes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Carnaubeira da Penha",
   "uf": "PE",
-  "ibge": "2603926"
+  "ibge": "2603926",
+  "latitude": "-8.3221107",
+  "longitude": "-38.7430348"
 }

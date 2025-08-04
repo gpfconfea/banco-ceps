@@ -1,9 +1,11 @@
 {
   "cep": "28755970",
   "logradouro": "Rua Daudeth Caetano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Visconde de Imbé",
   "localidade": "Trajano de Moraes",
   "uf": "RJ",
-  "ibge": "3305901"
+  "ibge": "3305901",
+  "latitude": "-22.0987474",
+  "longitude": "-42.2070731"
 }

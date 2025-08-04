@@ -1,9 +1,11 @@
 {
   "cep": "29475980",
   "logradouro": "Rua Acendino Nunes de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto Calçado",
   "localidade": "São José do Calçado",
   "uf": "ES",
-  "ibge": "3204807"
+  "ibge": "3204807",
+  "latitude": "-20.9462241",
+  "longitude": "-41.6207924"
 }

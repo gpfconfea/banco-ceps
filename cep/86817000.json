@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.4814665",
+  "longitude": "-51.5860137"
 }

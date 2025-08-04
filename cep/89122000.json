@@ -5,5 +5,7 @@
   "bairro": "Cedro Alto",
   "localidade": "Rio dos Cedros",
   "uf": "SC",
-  "ibge": "4214706"
+  "ibge": "4214706",
+  "latitude": "-26.6986118",
+  "longitude": "-49.2996092"
 }

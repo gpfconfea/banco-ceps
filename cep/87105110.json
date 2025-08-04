@@ -5,5 +5,7 @@
   "bairro": "Conjunto Hab. Pioneiro José Pires de Oliveira",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.5244388",
+  "longitude": "-52.0439061"
 }

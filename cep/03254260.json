@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosider",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5255888",
+  "longitude": "-46.5164566"
 }

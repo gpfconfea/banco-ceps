@@ -6,5 +6,7 @@
   "bairro": "Parque Dracena",
   "localidade": "Dracena",
   "uf": "SP",
-  "ibge": "3514403"
+  "ibge": "3514403",
+  "latitude": "-21.4771436",
+  "longitude": "-51.5174367"
 }

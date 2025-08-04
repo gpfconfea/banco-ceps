@@ -5,5 +5,7 @@
   "bairro": "Progresso",
   "localidade": "Pouso Redondo",
   "uf": "SC",
-  "ibge": "4213708"
+  "ibge": "4213708",
+  "latitude": "-27.25394",
+  "longitude": "-49.93309"
 }

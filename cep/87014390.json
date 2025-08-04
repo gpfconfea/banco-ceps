@@ -5,5 +5,7 @@
   "bairro": "Jardim Alamar",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4402112",
+  "longitude": "-51.9461682"
 }

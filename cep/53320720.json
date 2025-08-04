@@ -5,5 +5,7 @@
   "bairro": "Alto da Nação",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-23.6468913",
+  "longitude": "-46.8053597"
 }

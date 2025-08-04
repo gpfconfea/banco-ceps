@@ -1,9 +1,11 @@
 {
   "cep": "13492970",
   "logradouro": "Rodovia Constante Peruchi",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bairro do Cascalho",
   "localidade": "Cordeirópolis",
   "uf": "SP",
-  "ibge": "3512407"
+  "ibge": "3512407",
+  "latitude": "-22.4765698",
+  "longitude": "-47.4606937"
 }

@@ -5,5 +5,7 @@
   "bairro": "Frei Rogério",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.802114",
+  "longitude": "-50.3196767"
 }

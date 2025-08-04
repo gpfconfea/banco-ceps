@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Fé",
   "uf": "PR",
-  "ibge": "4123402"
+  "ibge": "4123402",
+  "latitude": "-23.0327442",
+  "longitude": "-51.830033"
 }

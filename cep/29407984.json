@@ -1,9 +1,11 @@
 {
   "cep": "29407984",
   "logradouro": "Estrada Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio do Muqui",
   "localidade": "Mimoso do Sul",
   "uf": "ES",
-  "ibge": "3203403"
+  "ibge": "3203403",
+  "latitude": "-21.15608",
+  "longitude": "-41.5648079"
 }

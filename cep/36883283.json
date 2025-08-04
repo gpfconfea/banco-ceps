@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "latitude": "-21.1502399",
+  "longitude": "-42.3799813"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Planura",
   "uf": "MG",
-  "ibge": "3151602"
+  "ibge": "3151602",
+  "latitude": "-20.1399212",
+  "longitude": "-48.7010563"
 }

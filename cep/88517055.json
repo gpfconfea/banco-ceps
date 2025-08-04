@@ -5,5 +5,7 @@
   "bairro": "Jardim das Camélias",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-29.7903458",
+  "longitude": "-51.1229039"
 }

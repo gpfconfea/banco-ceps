@@ -5,5 +5,7 @@
   "bairro": "Jardim Real",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-22.3679467",
+  "longitude": "-46.9423001"
 }

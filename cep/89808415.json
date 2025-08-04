@@ -5,5 +5,7 @@
   "bairro": "Araras",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.0935612",
+  "longitude": "-52.7039523"
 }

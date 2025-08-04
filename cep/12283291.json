@@ -5,5 +5,7 @@
   "bairro": "Loteamento Centro Empresarial Aeroespacial",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.60706",
+  "longitude": "-46.4955"
 }

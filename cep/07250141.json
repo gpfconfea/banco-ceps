@@ -5,5 +5,7 @@
   "bairro": "Cidade Aracilia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.421075",
+  "longitude": "-46.3709218"
 }
