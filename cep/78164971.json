@@ -1,9 +1,11 @@
 {
   "cep": "78164971",
   "logradouro": "Avenida Luís Pedro de Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Capão Grande",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6979269",
+  "longitude": "-56.157653"
 }

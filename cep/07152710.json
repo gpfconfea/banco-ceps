@@ -5,5 +5,7 @@
   "bairro": "Jardim Munira",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.402247",
+  "longitude": "-46.4754172"
 }

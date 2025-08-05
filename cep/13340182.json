@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Caminho da Luz",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0882481",
+  "longitude": "-47.1664166"
 }

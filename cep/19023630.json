@@ -5,5 +5,7 @@
   "bairro": "Vila Geni",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1110317",
+  "longitude": "-51.4062741"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São João",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6582338",
+  "longitude": "-46.7353789"
 }

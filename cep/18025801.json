@@ -5,5 +5,7 @@
   "bairro": "Jardim Parada do Alto",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5244419",
+  "longitude": "-47.4473797"
 }

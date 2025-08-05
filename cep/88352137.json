@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "latitude": "-28.4889855",
+  "longitude": "-49.0208367"
 }

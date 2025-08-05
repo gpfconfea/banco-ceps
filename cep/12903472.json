@@ -5,5 +5,7 @@
   "bairro": "Residencial Vino Barolo",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.9302047",
+  "longitude": "-46.568523"
 }

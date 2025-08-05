@@ -5,5 +5,7 @@
   "bairro": "Jardim Maristela",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.6226349",
+  "longitude": "-46.5703789"
 }

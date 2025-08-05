@@ -1,9 +1,11 @@
 {
   "cep": "25085989",
-  "logradouro": "Rodovia Washington Luiz 2895 Locker Correios Caxias Shopping - Entrega Exclusiva",
+  "logradouro": "Rodovia Washington Luiz 2895  Caxias Shopping",
   "complemento": "",
   "bairro": "Parque Duque",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "latitude": "-22.78667",
+  "longitude": "-43.2857"
 }

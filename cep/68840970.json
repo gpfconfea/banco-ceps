@@ -1,9 +1,11 @@
 {
   "cep": "68840970",
   "logradouro": "Travessa Major Emiliano Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cachoeira do Arari",
   "uf": "PA",
-  "ibge": "1502004"
+  "ibge": "1502004",
+  "latitude": "-1.0074965",
+  "longitude": "-48.9607408"
 }

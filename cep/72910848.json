@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "latitude": "-15.73281",
+  "longitude": "-48.26758"
 }

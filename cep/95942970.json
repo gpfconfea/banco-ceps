@@ -1,9 +1,11 @@
 {
   "cep": "95942970",
   "logradouro": "Estrada de Forqueta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Forqueta",
   "localidade": "Arroio do Meio",
   "uf": "RS",
-  "ibge": "4301008"
+  "ibge": "4301008",
+  "latitude": "-29.3747995",
+  "longitude": "-52.039592"
 }

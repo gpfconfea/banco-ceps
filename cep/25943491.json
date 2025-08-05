@@ -5,5 +5,7 @@
   "bairro": "Parada Modelo",
   "localidade": "Guapimirim",
   "uf": "RJ",
-  "ibge": "3301850"
+  "ibge": "3301850",
+  "latitude": "-23.0139452",
+  "longitude": "-43.3062366"
 }

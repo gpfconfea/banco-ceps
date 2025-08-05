@@ -1,9 +1,11 @@
 {
   "cep": "37787971",
   "logradouro": "Rua Virgílio Ferreira Franco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Pedro de Caldas",
   "localidade": "Caldas",
   "uf": "MG",
-  "ibge": "3110301"
+  "ibge": "3110301",
+  "latitude": "-21.8209007",
+  "longitude": "-46.2584284"
 }

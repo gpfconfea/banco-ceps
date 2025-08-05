@@ -1,9 +1,11 @@
 {
   "cep": "17110990",
   "logradouro": "Rua Figueira de Melo, Quadra 3 - Centro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.32361",
+  "longitude": "-49.07847"
 }

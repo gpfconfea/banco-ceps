@@ -5,5 +5,7 @@
   "bairro": "Canto",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.5892675",
+  "longitude": "-48.5864349"
 }

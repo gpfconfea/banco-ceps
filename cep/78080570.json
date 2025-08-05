@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6340779",
+  "longitude": "-56.036944"
 }

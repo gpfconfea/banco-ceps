@@ -5,5 +5,7 @@
   "bairro": "Jardim Almanara",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.428854",
+  "longitude": "-46.8305889"
 }

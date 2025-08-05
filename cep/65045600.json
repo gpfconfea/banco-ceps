@@ -5,5 +5,7 @@
   "bairro": "Parque Jaguarema",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-23.6628277",
+  "longitude": "-46.729708"
 }

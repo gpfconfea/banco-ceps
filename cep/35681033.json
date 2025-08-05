@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "latitude": "-20.0987916",
+  "longitude": "-44.5939815"
 }

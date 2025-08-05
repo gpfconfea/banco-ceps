@@ -1,9 +1,11 @@
 {
   "cep": "29273994",
   "logradouro": "Rua Principal de Perobas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Domingos Martins",
   "uf": "ES",
-  "ibge": "3201902"
+  "ibge": "3201902",
+  "latitude": "-20.28382",
+  "longitude": "-40.81813"
 }

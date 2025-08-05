@@ -1,9 +1,11 @@
 {
   "cep": "85540973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Mangueirinha",
   "uf": "PR",
-  "ibge": "4114401"
+  "ibge": "4114401",
+  "latitude": "-25.9423323",
+  "longitude": "-52.1758908"
 }

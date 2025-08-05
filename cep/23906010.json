@@ -5,5 +5,7 @@
   "bairro": "Balneário",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "latitude": "-23.0000986",
+  "longitude": "-44.306944"
 }

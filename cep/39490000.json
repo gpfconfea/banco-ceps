@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bonito de Minas",
   "uf": "MG",
-  "ibge": "3108255"
+  "ibge": "3108255",
+  "latitude": "-15.3231001",
+  "longitude": "-44.7572539"
 }

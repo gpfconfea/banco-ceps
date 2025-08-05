@@ -5,5 +5,7 @@
   "bairro": "Vila Industrial",
   "localidade": "Sertãozinho",
   "uf": "SP",
-  "ibge": "3551702"
+  "ibge": "3551702",
+  "latitude": "-23.5767125",
+  "longitude": "-46.5975118"
 }

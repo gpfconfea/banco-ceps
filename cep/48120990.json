@@ -1,9 +1,11 @@
 {
   "cep": "48120990",
   "logradouro": "Módulo Esportivo do Retiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pojuca",
   "uf": "BA",
-  "ibge": "2925204"
+  "ibge": "2925204",
+  "latitude": "-12.39447",
+  "longitude": "-38.30569"
 }

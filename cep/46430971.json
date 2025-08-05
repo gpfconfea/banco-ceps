@@ -1,9 +1,11 @@
 {
   "cep": "46430971",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Morrinhos",
   "localidade": "Guanambi",
   "uf": "BA",
-  "ibge": "2911709"
+  "ibge": "2911709",
+  "latitude": "-13.9344044",
+  "longitude": "-43.6282529"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campos Gerais",
   "uf": "MG",
-  "ibge": "3111606"
+  "ibge": "3111606",
+  "latitude": "-21.23212",
+  "longitude": "-45.7559005"
 }

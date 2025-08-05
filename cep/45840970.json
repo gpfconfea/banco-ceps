@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaratinga",
   "uf": "BA",
-  "ibge": "2911808"
+  "ibge": "2911808",
+  "latitude": "-16.5839212",
+  "longitude": "-39.7803006"
 }

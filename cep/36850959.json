@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Antônio Prado de Minas",
   "uf": "MG",
-  "ibge": "3103108"
+  "ibge": "3103108",
+  "latitude": "-21.01968",
+  "longitude": "-42.11083"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65076906",
   "logradouro": "Avenida Professor Carlos Cunha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jaracaty",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.4995724",
+  "longitude": "-44.2753556"
 }

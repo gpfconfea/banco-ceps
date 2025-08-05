@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sumé",
   "uf": "PB",
-  "ibge": "2516300"
+  "ibge": "2516300",
+  "latitude": "-7.6714691",
+  "longitude": "-36.8784349"
 }

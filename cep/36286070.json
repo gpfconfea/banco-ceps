@@ -5,5 +5,7 @@
   "bairro": "Vila Real",
   "localidade": "Carandaí",
   "uf": "MG",
-  "ibge": "3113206"
+  "ibge": "3113206",
+  "latitude": "-20.9599725",
+  "longitude": "-43.8013088"
 }

@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Santa Inês",
   "uf": "MA",
-  "ibge": "2109908"
+  "ibge": "2109908",
+  "latitude": "-3.6478118",
+  "longitude": "-45.3687619"
 }

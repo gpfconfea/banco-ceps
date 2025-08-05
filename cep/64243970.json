@@ -1,9 +1,11 @@
 {
   "cep": "64243970",
   "logradouro": "Avenida São João Batista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São João da Fronteira",
   "uf": "PI",
-  "ibge": "2209872"
+  "ibge": "2209872",
+  "latitude": "-3.9389411",
+  "longitude": "-41.2581663"
 }

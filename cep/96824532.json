@@ -5,5 +5,7 @@
   "bairro": "Country",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "latitude": "-29.7030255",
+  "longitude": "-52.3946069"
 }

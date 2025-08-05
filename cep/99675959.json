@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Três Palmeiras",
   "uf": "RS",
-  "ibge": "4321857"
+  "ibge": "4321857",
+  "latitude": "-27.6131019",
+  "longitude": "-52.8459048"
 }

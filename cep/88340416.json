@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Camboriú",
   "uf": "SC",
-  "ibge": "4203204"
+  "ibge": "4203204",
+  "latitude": "-27.0281449",
+  "longitude": "-48.6527211"
 }

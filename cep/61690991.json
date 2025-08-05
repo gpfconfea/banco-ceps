@@ -1,9 +1,11 @@
 {
   "cep": "61690991",
   "logradouro": "Estrada de Santa Rosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.74911",
+  "longitude": "-38.95278"
 }

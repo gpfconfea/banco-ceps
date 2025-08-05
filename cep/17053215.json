@@ -5,5 +5,7 @@
   "bairro": "Residencial Villa Lobos",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3594744",
+  "longitude": "-49.0693451"
 }

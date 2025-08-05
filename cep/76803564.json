@@ -5,5 +5,7 @@
   "bairro": "Costa e Silva",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-22.4333198",
+  "longitude": "-45.4626507"
 }

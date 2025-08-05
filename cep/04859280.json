@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada (Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4812956",
+  "longitude": "-46.6153099"
 }

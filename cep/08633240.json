@@ -5,5 +5,7 @@
   "bairro": "Vale das Serras",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.6803981",
+  "longitude": "-46.2716819"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "96190971",
   "logradouro": "Estrada Linha Correa Neto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Fátima",
   "localidade": "Dom Feliciano",
   "uf": "RS",
-  "ibge": "4306502"
+  "ibge": "4306502",
+  "latitude": "-30.8559897",
+  "longitude": "-51.7912627"
 }

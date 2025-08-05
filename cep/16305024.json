@@ -5,5 +5,7 @@
   "bairro": "Vila Torres",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-21.4184445",
+  "longitude": "-50.0801768"
 }

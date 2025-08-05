@@ -5,5 +5,7 @@
   "bairro": "Bahia Velha",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-19.785932",
+  "longitude": "-47.9079863"
 }

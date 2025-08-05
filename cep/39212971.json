@@ -1,9 +1,11 @@
 {
   "cep": "39212971",
   "logradouro": "Praça Major da Glória",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Senhora da Glória",
   "localidade": "Santo Hipólito",
   "uf": "MG",
-  "ibge": "3160603"
+  "ibge": "3160603",
+  "latitude": "-18.4530895",
+  "longitude": "-44.1730015"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Menk",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "latitude": "-23.5382536",
+  "longitude": "-46.8473077"
 }

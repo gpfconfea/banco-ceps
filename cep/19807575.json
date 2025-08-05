@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-3.2709529",
+  "longitude": "-60.1719151"
 }

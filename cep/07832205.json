@@ -5,5 +5,7 @@
   "bairro": "Vila Leopolis",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-23.1759082",
+  "longitude": "-47.3152585"
 }

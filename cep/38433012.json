@@ -5,5 +5,7 @@
   "bairro": "Vila Marielza",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.8976591",
+  "longitude": "-48.1548907"
 }

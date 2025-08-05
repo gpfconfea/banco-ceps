@@ -5,5 +5,7 @@
   "bairro": "Lindóia",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2816222",
+  "longitude": "-51.1254746"
 }

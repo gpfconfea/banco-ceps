@@ -1,9 +1,11 @@
 {
   "cep": "55405959",
   "logradouro": "Rua Abdias Viana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Maraial",
   "uf": "PE",
-  "ibge": "2609204"
+  "ibge": "2609204",
+  "latitude": "-8.78411",
+  "longitude": "-35.81201"
 }

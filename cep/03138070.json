@@ -5,5 +5,7 @@
   "bairro": "Vila Zelina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.3127335",
+  "longitude": "-49.0929401"
 }

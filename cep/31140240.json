@@ -5,5 +5,7 @@
   "bairro": "Nova Floresta",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8947577",
+  "longitude": "-43.9353033"
 }

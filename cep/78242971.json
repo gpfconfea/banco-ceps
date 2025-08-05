@@ -1,9 +1,11 @@
 {
   "cep": "78242971",
   "logradouro": "Rua Paraná",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Cardoso",
   "localidade": "Porto Esperidião",
   "uf": "MT",
-  "ibge": "5106828"
+  "ibge": "5106828",
+  "latitude": "-13.660228",
+  "longitude": "-57.8911791"
 }

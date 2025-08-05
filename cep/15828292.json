@@ -6,5 +6,7 @@
   "bairro": "Jardim União",
   "localidade": "Palmares Paulista",
   "uf": "SP",
-  "ibge": "3535101"
+  "ibge": "3535101",
+  "latitude": "-21.084545",
+  "longitude": "-48.8093291"
 }

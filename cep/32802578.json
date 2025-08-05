@@ -5,5 +5,7 @@
   "bairro": "Recreio",
   "localidade": "Esmeraldas",
   "uf": "MG",
-  "ibge": "3124104"
+  "ibge": "3124104",
+  "latitude": "-19.823156",
+  "longitude": "-44.154001"
 }

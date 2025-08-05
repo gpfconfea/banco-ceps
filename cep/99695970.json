@@ -1,9 +1,11 @@
 {
   "cep": "99695970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pinhalzinho",
   "localidade": "Liberato Salzano",
   "uf": "RS",
-  "ibge": "4311601"
+  "ibge": "4311601",
+  "latitude": "-28.233333",
+  "longitude": "-51.883333"
 }

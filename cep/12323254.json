@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Fogaça",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.29952",
+  "longitude": "-45.93566"
 }

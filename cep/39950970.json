@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rubim",
   "uf": "MG",
-  "ibge": "3156601"
+  "ibge": "3156601",
+  "latitude": "-16.3754638",
+  "longitude": "-40.5393046"
 }

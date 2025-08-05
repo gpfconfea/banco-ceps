@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vargem",
   "uf": "SP",
-  "ibge": "3556354"
+  "ibge": "3556354",
+  "latitude": "-22.90588",
+  "longitude": "-46.37995"
 }

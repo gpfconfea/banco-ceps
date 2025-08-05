@@ -5,5 +5,7 @@
   "bairro": "Cantinho do Céu",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-5.8927645",
+  "longitude": "-35.2059833"
 }

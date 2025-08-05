@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jauru",
   "uf": "MT",
-  "ibge": "5105002"
+  "ibge": "5105002",
+  "latitude": "-15.338769",
+  "longitude": "-58.8746757"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62782974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gado",
   "localidade": "Palmácia",
   "uf": "CE",
-  "ibge": "2310100"
+  "ibge": "2310100",
+  "latitude": "-3.7449808",
+  "longitude": "-38.6483705"
 }

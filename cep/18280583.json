@@ -5,5 +5,7 @@
   "bairro": "Jardins de Tatuí",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.32638",
+  "longitude": "-47.86724"
 }

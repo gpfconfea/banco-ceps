@@ -1,9 +1,11 @@
 {
   "cep": "78274970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Progresso",
   "localidade": "Salto do Céu",
   "uf": "MT",
-  "ibge": "5107750"
+  "ibge": "5107750",
+  "latitude": "-15.0222617",
+  "longitude": "-58.2509477"
 }

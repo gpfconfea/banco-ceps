@@ -1,9 +1,11 @@
 {
   "cep": "11310971",
   "logradouro": "Praça Coronel José Lopes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "latitude": "-23.9650167",
+  "longitude": "-46.3837724"
 }

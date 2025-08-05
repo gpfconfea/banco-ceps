@@ -1,9 +1,11 @@
 {
   "cep": "63614974",
   "logradouro": "Rua Manoel Correia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Manoel Correia",
   "localidade": "Mombaça",
   "uf": "CE",
-  "ibge": "2308500"
+  "ibge": "2308500",
+  "latitude": "-5.6363985",
+  "longitude": "-35.4187342"
 }

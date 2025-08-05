@@ -1,9 +1,11 @@
 {
   "cep": "45412970",
   "logradouro": "Rua São Francisco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Maricoabo",
   "localidade": "Valença",
   "uf": "BA",
-  "ibge": "2932903"
+  "ibge": "2932903",
+  "latitude": "-13.3965919",
+  "longitude": "-39.0334666"
 }

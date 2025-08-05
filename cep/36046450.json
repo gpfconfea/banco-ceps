@@ -5,5 +5,7 @@
   "bairro": "Bom Clima",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.729681",
+  "longitude": "-43.3586262"
 }

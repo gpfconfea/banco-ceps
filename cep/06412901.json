@@ -1,9 +1,11 @@
 {
   "cep": "06412901",
   "logradouro": "Estrada dos Romeiros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Universal",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.4843791",
+  "longitude": "-46.8810969"
 }

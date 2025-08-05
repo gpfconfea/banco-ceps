@@ -5,5 +5,7 @@
   "bairro": "Loteamento Leal",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-23.6543166",
+  "longitude": "-47.5734766"
 }

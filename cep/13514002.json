@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial e Comercial I",
   "localidade": "Santa Gertrudes",
   "uf": "SP",
-  "ibge": "3546702"
+  "ibge": "3546702",
+  "latitude": "-22.46818",
+  "longitude": "-47.53627"
 }

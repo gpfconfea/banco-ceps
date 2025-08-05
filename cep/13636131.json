@@ -5,5 +5,7 @@
   "bairro": "Vila Becker",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.9875664",
+  "longitude": "-47.4161912"
 }

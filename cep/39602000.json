@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Schnoor",
   "localidade": "Araçuaí",
   "uf": "MG",
-  "ibge": "3103405"
+  "ibge": "3103405",
+  "latitude": "-17.1055",
+  "longitude": "-42.0875625"
 }

@@ -5,5 +5,7 @@
   "bairro": "Recreio Jardim Dalva",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-23.6639117",
+  "longitude": "-45.448227"
 }

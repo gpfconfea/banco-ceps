@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Carmo do Rio Verde",
   "uf": "GO",
-  "ibge": "5205000"
+  "ibge": "5205000",
+  "latitude": "-15.35653",
+  "longitude": "-49.69967"
 }

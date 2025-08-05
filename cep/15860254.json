@@ -6,5 +6,7 @@
   "bairro": "Jardim Durigan",
   "localidade": "Ibirá",
   "uf": "SP",
-  "ibge": "3519402"
+  "ibge": "3519402",
+  "latitude": "-23.5005",
+  "longitude": "-46.72254"
 }

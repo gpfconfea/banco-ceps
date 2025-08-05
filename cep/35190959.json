@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iapu",
   "uf": "MG",
-  "ibge": "3129301"
+  "ibge": "3129301",
+  "latitude": "-19.43681",
+  "longitude": "-42.21617"
 }

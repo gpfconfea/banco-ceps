@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "São Pedro do Turvo",
   "uf": "SP",
-  "ibge": "3550506"
+  "ibge": "3550506",
+  "latitude": "-22.7423908",
+  "longitude": "-49.7477089"
 }

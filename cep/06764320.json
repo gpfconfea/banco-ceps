@@ -5,5 +5,7 @@
   "bairro": "Jardim Três Irmãos",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "latitude": "-23.6171611",
+  "longitude": "-46.7633361"
 }

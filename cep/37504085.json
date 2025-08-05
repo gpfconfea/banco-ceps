@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "latitude": "-22.4255517",
+  "longitude": "-45.4833514"
 }

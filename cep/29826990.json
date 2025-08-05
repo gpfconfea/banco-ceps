@@ -1,9 +1,11 @@
 {
   "cep": "29826990",
   "logradouro": "Rodovia - ES 080",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Água Doce do Norte",
   "uf": "ES",
-  "ibge": "3200169"
+  "ibge": "3200169",
+  "latitude": "-18.4819989",
+  "longitude": "-41.0112727"
 }

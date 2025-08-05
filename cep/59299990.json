@@ -1,9 +1,11 @@
 {
   "cep": "59299990",
   "logradouro": "Rua Principal - Povoado Uruaçu - São Gonçalo do Amarante/RN",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São Gonçalo do Amarante",
   "uf": "RN",
-  "ibge": "2412005"
+  "ibge": "2412005",
+  "latitude": "-5.79599",
+  "longitude": "-35.41402"
 }

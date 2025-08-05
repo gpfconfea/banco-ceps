@@ -1,9 +1,11 @@
 {
   "cep": "29322972",
   "logradouro": "Avenida João Calabrez",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Vicente",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "latitude": "-20.8502666",
+  "longitude": "-41.1143394"
 }

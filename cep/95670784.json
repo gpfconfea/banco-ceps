@@ -5,5 +5,7 @@
   "bairro": "Carniel",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "latitude": "-29.3578743",
+  "longitude": "-50.8504816"
 }

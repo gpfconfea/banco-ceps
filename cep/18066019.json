@@ -5,5 +5,7 @@
   "bairro": "Vila Aeroporto",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4872545",
+  "longitude": "-47.4948024"
 }

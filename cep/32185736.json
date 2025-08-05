@@ -5,5 +5,7 @@
   "bairro": "Vale das Orquídeas",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.8473",
+  "longitude": "-44.03104"
 }

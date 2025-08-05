@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Filomena do Maranhão",
   "uf": "MA",
-  "ibge": "2109759"
+  "ibge": "2109759",
+  "latitude": "-5.4995569",
+  "longitude": "-44.560626"
 }

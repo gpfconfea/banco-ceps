@@ -1,9 +1,11 @@
 {
   "cep": "55674970",
   "logradouro": "Rua do Centro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santana de São Joaquim",
   "localidade": "São Joaquim do Monte",
   "uf": "PE",
-  "ibge": "2613305"
+  "ibge": "2613305",
+  "latitude": "-19.7429403",
+  "longitude": "-45.2532282"
 }

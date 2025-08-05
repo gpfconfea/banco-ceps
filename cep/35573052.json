@@ -5,5 +5,7 @@
   "bairro": "Alto da Praia",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-28.2747142",
+  "longitude": "-49.1510766"
 }

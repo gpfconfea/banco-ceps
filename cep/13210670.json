@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Jundiaí",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.0828622",
+  "longitude": "-46.9553353"
 }

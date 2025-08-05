@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedra Branca",
   "uf": "PB",
-  "ibge": "2511004"
+  "ibge": "2511004",
+  "latitude": "-7.4305982",
+  "longitude": "-38.0698869"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Villagio Toscana",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.71372",
+  "longitude": "-49.29463"
 }

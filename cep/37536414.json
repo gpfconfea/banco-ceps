@@ -6,5 +6,7 @@
   "bairro": "Bela Vista",
   "localidade": "Santa Rita do Sapucaí",
   "uf": "MG",
-  "ibge": "3159605"
+  "ibge": "3159605",
+  "latitude": "-22.2333716",
+  "longitude": "-45.7012656"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Vale das Goiabeiras",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.370675",
+  "longitude": "-49.4976506"
 }

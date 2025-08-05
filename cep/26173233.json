@@ -5,5 +5,7 @@
   "bairro": "São Vicente",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "latitude": "-22.4707559",
+  "longitude": "-42.6557311"
 }
