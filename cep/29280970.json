@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iconha",
   "uf": "ES",
-  "ibge": "3202603"
+  "ibge": "3202603",
+  "latitude": "-20.7933167",
+  "longitude": "-40.8125293"
 }

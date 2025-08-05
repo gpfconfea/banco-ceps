@@ -6,5 +6,7 @@
   "bairro": "Jardim Monte Belo",
   "localidade": "Casa Branca",
   "uf": "SP",
-  "ibge": "3510807"
+  "ibge": "3510807",
+  "latitude": "-21.77482",
+  "longitude": "-47.1004"
 }

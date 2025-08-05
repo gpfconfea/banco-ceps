@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Severínia",
   "uf": "SP",
-  "ibge": "3551900"
+  "ibge": "3551900",
+  "latitude": "-20.81068",
+  "longitude": "-48.80614"
 }

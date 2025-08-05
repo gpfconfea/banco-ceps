@@ -5,5 +5,7 @@
   "bairro": "Salto Ville",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-26.9124909",
+  "longitude": "-51.4042326"
 }

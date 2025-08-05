@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ilha Comprida",
   "uf": "SP",
-  "ibge": "3520426"
+  "ibge": "3520426",
+  "latitude": "-24.7387084",
+  "longitude": "-47.5550726"
 }

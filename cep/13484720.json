@@ -5,5 +5,7 @@
   "bairro": "Bairro São Francisco",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.53958",
+  "longitude": "-47.4275404"
 }

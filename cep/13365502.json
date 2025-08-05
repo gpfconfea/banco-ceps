@@ -6,5 +6,7 @@
   "bairro": "Chácara Santa Helena",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-22.53708",
+  "longitude": "-47.36735"
 }

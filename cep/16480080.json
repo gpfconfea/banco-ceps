@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Rosa",
   "localidade": "Guaimbê",
   "uf": "SP",
-  "ibge": "3517307"
+  "ibge": "3517307",
+  "latitude": "-21.9089929",
+  "longitude": "-49.8955031"
 }

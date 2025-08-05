@@ -1,9 +1,11 @@
 {
   "cep": "28637971",
   "logradouro": "Rua do Posto de Saúde",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campinas",
   "localidade": "Sumidouro",
   "uf": "RJ",
-  "ibge": "3305703"
+  "ibge": "3305703",
+  "latitude": "-22.1643526",
+  "longitude": "-42.6605295"
 }

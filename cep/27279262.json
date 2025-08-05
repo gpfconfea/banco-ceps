@@ -5,5 +5,7 @@
   "bairro": "Mariana Torres",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.88216",
+  "longitude": "-43.0698709"
 }

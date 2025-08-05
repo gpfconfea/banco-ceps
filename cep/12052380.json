@@ -5,5 +5,7 @@
   "bairro": "Vila Elvira",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0082903",
+  "longitude": "-45.5751625"
 }

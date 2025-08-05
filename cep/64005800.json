@@ -5,5 +5,7 @@
   "bairro": "Poti Velho",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.0360643",
+  "longitude": "-42.830795"
 }

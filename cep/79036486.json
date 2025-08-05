@@ -5,5 +5,7 @@
   "bairro": "Bosque do Carvalho",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.431236",
+  "longitude": "-54.5617558"
 }

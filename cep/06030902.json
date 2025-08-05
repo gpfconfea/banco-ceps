@@ -1,9 +1,11 @@
 {
   "cep": "06030902",
   "logradouro": "Rua Benedito Ferreira Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Umuarama",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.5612872",
+  "longitude": "-46.76935"
 }

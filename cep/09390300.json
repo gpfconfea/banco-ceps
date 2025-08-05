@@ -5,5 +5,7 @@
   "bairro": "Jardim Cerqueira Leite",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.6619512",
+  "longitude": "-46.4546402"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29510980",
   "logradouro": "Avenida Senador Atílio Vivácqua",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Celina",
   "localidade": "Alegre",
   "uf": "ES",
-  "ibge": "3200201"
+  "ibge": "3200201",
+  "latitude": "-20.7693347",
+  "longitude": "-41.5956491"
 }

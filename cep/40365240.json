@@ -5,5 +5,7 @@
   "bairro": "Curuzu",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-23.4301154",
+  "longitude": "-51.9595497"
 }

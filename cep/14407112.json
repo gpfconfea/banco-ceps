@@ -5,5 +5,7 @@
   "bairro": "Jardim Portinari",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.4984708",
+  "longitude": "-47.4257438"
 }

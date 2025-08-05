@@ -5,5 +5,7 @@
   "bairro": "Varame",
   "localidade": "Campos Borges",
   "uf": "RS",
-  "ibge": "4304101"
+  "ibge": "4304101",
+  "latitude": "-28.8947444",
+  "longitude": "-52.9650861"
 }

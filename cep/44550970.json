@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Felipe",
   "uf": "BA",
-  "ibge": "2929107"
+  "ibge": "2929107",
+  "latitude": "-12.845551",
+  "longitude": "-39.0912882"
 }

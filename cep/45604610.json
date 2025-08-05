@@ -5,5 +5,7 @@
   "bairro": "João Soares",
   "localidade": "Itabuna",
   "uf": "BA",
-  "ibge": "2914802"
+  "ibge": "2914802",
+  "latitude": "-14.7753349",
+  "longitude": "-39.2621668"
 }

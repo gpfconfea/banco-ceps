@@ -5,5 +5,7 @@
   "bairro": "Vila Dalva",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "latitude": "-23.4179209",
+  "longitude": "-51.4417179"
 }

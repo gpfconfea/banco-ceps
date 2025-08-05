@@ -5,5 +5,7 @@
   "bairro": "Jardim Santos Dumont II",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.5720518",
+  "longitude": "-46.2290071"
 }

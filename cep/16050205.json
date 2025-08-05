@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-23.5616234",
+  "longitude": "-46.6549191"
 }

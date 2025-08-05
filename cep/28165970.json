@@ -5,5 +5,7 @@
   "bairro": "Vila Nova de Campos",
   "localidade": "Campos dos Goytacazes",
   "uf": "RJ",
-  "ibge": "3301009"
+  "ibge": "3301009",
+  "latitude": "-21.4433232",
+  "longitude": "-41.4060678"
 }

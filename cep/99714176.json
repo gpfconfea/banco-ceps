@@ -5,5 +5,7 @@
   "bairro": "Presidente Vargas",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "latitude": "-29.8426356",
+  "longitude": "-51.1313731"
 }

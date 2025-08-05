@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Antas",
   "uf": "BA",
-  "ibge": "2901601"
+  "ibge": "2901601",
+  "latitude": "-10.4139231",
+  "longitude": "-38.3323695"
 }

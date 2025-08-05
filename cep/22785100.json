@@ -5,5 +5,7 @@
   "bairro": "Vargem Grande",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9755256",
+  "longitude": "-43.4862469"
 }

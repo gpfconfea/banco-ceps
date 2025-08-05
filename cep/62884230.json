@@ -5,5 +5,7 @@
   "bairro": "Planalto Horizonte",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "latitude": "-19.9680686",
+  "longitude": "-44.1955117"
 }

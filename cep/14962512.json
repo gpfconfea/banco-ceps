@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapuã",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4675",
+  "longitude": "-49.23788"
 }

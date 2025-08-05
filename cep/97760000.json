@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jaguari",
   "uf": "RS",
-  "ibge": "4311106"
+  "ibge": "4311106",
+  "latitude": "-29.4980313",
+  "longitude": "-54.6919404"
 }

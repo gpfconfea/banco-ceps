@@ -1,9 +1,11 @@
 {
   "cep": "63982974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pirangi",
   "localidade": "Ibaretama",
   "uf": "CE",
-  "ibge": "2305266"
+  "ibge": "2305266",
+  "latitude": "-3.7449808",
+  "longitude": "-38.6483705"
 }

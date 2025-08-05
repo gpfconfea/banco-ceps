@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Corumbiara",
   "uf": "RO",
-  "ibge": "1100072"
+  "ibge": "1100072",
+  "latitude": "-12.9984262",
+  "longitude": "-60.9414538"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Inglesa",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "latitude": "-21.9479691",
+  "longitude": "-50.5052145"
 }

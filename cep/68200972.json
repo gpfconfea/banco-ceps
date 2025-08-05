@@ -1,9 +1,11 @@
 {
   "cep": "68200972",
   "logradouro": "Vila de Camburão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Camburão",
   "localidade": "Alenquer",
   "uf": "PA",
-  "ibge": "1500404"
+  "ibge": "1500404",
+  "latitude": "-1.677038",
+  "longitude": "-54.6840236"
 }

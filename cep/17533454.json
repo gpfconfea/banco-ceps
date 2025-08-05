@@ -5,5 +5,7 @@
   "bairro": "Residencial Montana (Padre Nóbrega)",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.16137",
+  "longitude": "-50.01659"
 }

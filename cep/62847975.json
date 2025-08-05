@@ -1,9 +1,11 @@
 {
   "cep": "62847975",
   "logradouro": "Sítio Forquilha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Forquilha",
   "localidade": "Forquilha",
   "uf": "CE",
-  "ibge": "2304350"
+  "ibge": "2304350",
+  "latitude": "-4.2214011",
+  "longitude": "-38.9497639"
 }

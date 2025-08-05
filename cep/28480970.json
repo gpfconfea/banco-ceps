@@ -1,9 +1,11 @@
 {
   "cep": "28480970",
   "logradouro": "Rua Justino Pereira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Cruz",
   "localidade": "Santo Antônio de Pádua",
   "uf": "RJ",
-  "ibge": "3304706"
+  "ibge": "3304706",
+  "latitude": "-21.5418158",
+  "longitude": "-42.1837129"
 }

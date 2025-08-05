@@ -1,9 +1,11 @@
 {
   "cep": "12929990",
   "logradouro": "Estrada Ismael Leme Mourão - Bom Retiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.98369",
+  "longitude": "-46.50746"
 }

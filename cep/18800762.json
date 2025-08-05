@@ -5,5 +5,7 @@
   "bairro": "Jardim São Carlos",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.2058729",
+  "longitude": "-49.3712372"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Cidade Singer II",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0876784",
+  "longitude": "-46.9541146"
 }

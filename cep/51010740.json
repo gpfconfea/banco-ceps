@@ -5,5 +5,7 @@
   "bairro": "Brasília Teimosa",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-19.516395",
+  "longitude": "-40.6609783"
 }

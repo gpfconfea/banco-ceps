@@ -1,9 +1,11 @@
 {
   "cep": "99173970",
   "logradouro": "Estrada Engenheiro Luiz Englert",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Engenheiro Luiz Englert",
   "localidade": "Sertão",
   "uf": "RS",
-  "ibge": "4320503"
+  "ibge": "4320503",
+  "latitude": "-28.03735",
+  "longitude": "-52.27473"
 }

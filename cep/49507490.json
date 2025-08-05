@@ -5,5 +5,7 @@
   "bairro": "Oviedo Teixeira",
   "localidade": "Itabaiana",
   "uf": "SE",
-  "ibge": "2802908"
+  "ibge": "2802908",
+  "latitude": "-23.5086544",
+  "longitude": "-46.4439983"
 }

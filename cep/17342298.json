@@ -6,5 +6,7 @@
   "bairro": "Residencial da Colina",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.4854919",
+  "longitude": "-48.5564212"
 }

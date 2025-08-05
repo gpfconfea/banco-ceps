@@ -1,9 +1,11 @@
 {
   "cep": "78403970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bojui",
   "localidade": "Diamantino",
   "uf": "MT",
-  "ibge": "5103502"
+  "ibge": "5103502",
+  "latitude": "-14.4079136",
+  "longitude": "-56.4461875"
 }

@@ -5,5 +5,7 @@
   "bairro": "Heliolândia",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "latitude": "-23.4045355",
+  "longitude": "-46.853369"
 }

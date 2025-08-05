@@ -5,5 +5,7 @@
   "bairro": "Parque Cento e Vinte",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.3030828",
+  "longitude": "-46.7224371"
 }

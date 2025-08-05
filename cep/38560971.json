@@ -1,9 +1,11 @@
 {
   "cep": "38560971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alegre",
   "localidade": "Coromandel",
   "uf": "MG",
-  "ibge": "3119302"
+  "ibge": "3119302",
+  "latitude": "-19.953847",
+  "longitude": "-43.9442564"
 }

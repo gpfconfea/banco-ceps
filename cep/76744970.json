@@ -1,9 +1,11 @@
 {
   "cep": "76744970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jeroaquara",
   "localidade": "Faina",
   "uf": "GO",
-  "ibge": "5207535"
+  "ibge": "5207535",
+  "latitude": "-15.6983401",
+  "longitude": "-51.4852449"
 }

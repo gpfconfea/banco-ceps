@@ -5,5 +5,7 @@
   "bairro": "Tabatinga",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "latitude": "-7.8566318",
+  "longitude": "-34.908667"
 }

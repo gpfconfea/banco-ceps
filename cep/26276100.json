@@ -5,5 +5,7 @@
   "bairro": "São Jorge",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.7676978",
+  "longitude": "-43.5174623"
 }

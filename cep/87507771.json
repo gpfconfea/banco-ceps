@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto da Glória",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-25.4197",
+  "longitude": "-49.26181"
 }

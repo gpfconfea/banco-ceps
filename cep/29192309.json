@@ -5,5 +5,7 @@
   "bairro": "São Clemente",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-23.4923678",
+  "longitude": "-47.4808395"
 }

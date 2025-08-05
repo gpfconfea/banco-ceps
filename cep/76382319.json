@@ -5,5 +5,7 @@
   "bairro": "Residencial Granville",
   "localidade": "Goianésia",
   "uf": "GO",
-  "ibge": "5208608"
+  "ibge": "5208608",
+  "latitude": "-14.9592083",
+  "longitude": "-49.5498739"
 }

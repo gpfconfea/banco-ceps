@@ -1,9 +1,11 @@
 {
   "cep": "88708991",
   "logradouro": "Rod. João Alfredo Rosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "latitude": "-28.44213",
+  "longitude": "-49.07964"
 }

@@ -6,5 +6,7 @@
   "bairro": "Graça",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.6254869",
+  "longitude": "-46.949476"
 }

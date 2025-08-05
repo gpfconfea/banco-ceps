@@ -5,5 +5,7 @@
   "bairro": "São Lourenço",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-23.8181879",
+  "longitude": "-46.117098"
 }

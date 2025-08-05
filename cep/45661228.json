@@ -5,5 +5,7 @@
   "bairro": "Banco da Vitória",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "latitude": "-16.4125833",
+  "longitude": "-39.0966172"
 }

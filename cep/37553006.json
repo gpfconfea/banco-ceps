@@ -5,5 +5,7 @@
   "bairro": "Doutor José Alfredo de Paula",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2247655",
+  "longitude": "-45.9315037"
 }

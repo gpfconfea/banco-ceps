@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Ipês",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4982932",
+  "longitude": "-46.4137698"
 }

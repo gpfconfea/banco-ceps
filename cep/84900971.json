@@ -1,9 +1,11 @@
 {
   "cep": "84900971",
   "logradouro": "Rua Presidente Costa e Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ibaiti",
   "uf": "PR",
-  "ibge": "4109708"
+  "ibge": "4109708",
+  "latitude": "-23.7739598",
+  "longitude": "-50.2817182"
 }

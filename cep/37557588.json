@@ -5,5 +5,7 @@
   "bairro": "Jardim Jacarandá",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2793154",
+  "longitude": "-45.9087456"
 }

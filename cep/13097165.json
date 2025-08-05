@@ -5,5 +5,7 @@
   "bairro": "Vila dos Plátanos",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8362769",
+  "longitude": "-47.0322581"
 }

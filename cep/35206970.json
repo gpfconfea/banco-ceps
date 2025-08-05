@@ -1,9 +1,11 @@
 {
   "cep": "35206970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tabaúna",
   "localidade": "Aimorés",
   "uf": "MG",
-  "ibge": "3101102"
+  "ibge": "3101102",
+  "latitude": "-19.100457",
+  "longitude": "-41.0357243"
 }

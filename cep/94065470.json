@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.9460031",
+  "longitude": "-51.0442712"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Delta",
   "uf": "MG",
-  "ibge": "3121258"
+  "ibge": "3121258",
+  "latitude": "-19.30473",
+  "longitude": "-46.05111"
 }

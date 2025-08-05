@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mamonas",
   "uf": "MG",
-  "ibge": "3139250"
+  "ibge": "3139250",
+  "latitude": "-15.0483963",
+  "longitude": "-42.9472519"
 }

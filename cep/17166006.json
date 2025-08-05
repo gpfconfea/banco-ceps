@@ -5,5 +5,7 @@
   "bairro": "San Francisco",
   "localidade": "Arealva",
   "uf": "SP",
-  "ibge": "3503406"
+  "ibge": "3503406",
+  "latitude": "-22.0327393",
+  "longitude": "-49.0060481"
 }

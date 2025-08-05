@@ -5,5 +5,7 @@
   "bairro": "Jardim Aurora IV",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.43201",
+  "longitude": "-51.8631"
 }

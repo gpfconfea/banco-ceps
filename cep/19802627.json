@@ -5,5 +5,7 @@
   "bairro": "Residencial Sol Nascente II",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-23.24459",
+  "longitude": "-45.89295"
 }

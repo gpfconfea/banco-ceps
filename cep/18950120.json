@@ -5,5 +5,7 @@
   "bairro": "Residencial Arboris",
   "localidade": "Ipaussu",
   "uf": "SP",
-  "ibge": "3520905"
+  "ibge": "3520905",
+  "latitude": "-23.06088",
+  "longitude": "-49.62224"
 }

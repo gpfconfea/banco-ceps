@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional São Francisco de Assis",
   "localidade": "São Francisco",
   "uf": "SP",
-  "ibge": "3549003"
+  "ibge": "3549003",
+  "latitude": "-21.2098375",
+  "longitude": "-43.7676669"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João do Polêsine",
   "uf": "RS",
-  "ibge": "4318432"
+  "ibge": "4318432",
+  "latitude": "-29.6151091",
+  "longitude": "-53.4458979"
 }

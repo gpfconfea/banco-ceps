@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tarabai",
   "uf": "SP",
-  "ibge": "3553906"
+  "ibge": "3553906",
+  "latitude": "-22.3029528",
+  "longitude": "-51.5611824"
 }

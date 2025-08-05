@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedra do Indaiá",
   "uf": "MG",
-  "ibge": "3148905"
+  "ibge": "3148905",
+  "latitude": "-20.25511",
+  "longitude": "-45.2092"
 }

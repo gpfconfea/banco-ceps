@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Pereiras",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.446968",
+  "longitude": "-46.5227185"
 }

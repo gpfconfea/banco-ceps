@@ -1,9 +1,11 @@
 {
   "cep": "77458970",
   "logradouro": "Avenida Ipê",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Sucupira",
   "uf": "TO",
-  "ibge": "1720853"
+  "ibge": "1720853",
+  "latitude": "-11.9873203",
+  "longitude": "-48.9094425"
 }

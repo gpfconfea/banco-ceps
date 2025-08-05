@@ -5,5 +5,7 @@
   "bairro": "Jardim Nazareth",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.539354",
+  "longitude": "-46.2907289"
 }

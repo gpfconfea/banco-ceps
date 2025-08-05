@@ -5,5 +5,7 @@
   "bairro": "Jardim Cisoto",
   "localidade": "Olímpia",
   "uf": "SP",
-  "ibge": "3533908"
+  "ibge": "3533908",
+  "latitude": "-23.47138",
+  "longitude": "-47.44611"
 }

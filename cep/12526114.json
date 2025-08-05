@@ -6,5 +6,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Potim",
   "uf": "SP",
-  "ibge": "3540754"
+  "ibge": "3540754",
+  "latitude": "-22.8264834",
+  "longitude": "-45.273623"
 }

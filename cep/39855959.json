@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ouro Verde de Minas",
   "uf": "MG",
-  "ibge": "3146206"
+  "ibge": "3146206",
+  "latitude": "-20.71551",
+  "longitude": "-46.61185"
 }

@@ -6,5 +6,7 @@
   "bairro": "São Domingos",
   "localidade": "Itaperuçu",
   "uf": "PR",
-  "ibge": "4111258"
+  "ibge": "4111258",
+  "latitude": "-25.2138",
+  "longitude": "-49.35357"
 }

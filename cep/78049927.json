@@ -1,9 +1,11 @@
 {
   "cep": "78049927",
   "logradouro": "Rua Júlio Domingos de Campos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro Político Administrativo",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.568077",
+  "longitude": "-56.0728632"
 }

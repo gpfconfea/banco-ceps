@@ -5,5 +5,7 @@
   "bairro": "Parque dos Lima",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "37.1317332",
+  "longitude": "-8.5505092"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "latitude": "-20.2821111",
+  "longitude": "-45.5400029"
 }

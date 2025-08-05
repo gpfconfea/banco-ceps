@@ -5,5 +5,7 @@
   "bairro": "Lobato",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-11.4918164",
+  "longitude": "-37.9318505"
 }

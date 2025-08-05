@@ -5,5 +5,7 @@
   "bairro": "Campo Belo",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.8086152",
+  "longitude": "-47.316825"
 }

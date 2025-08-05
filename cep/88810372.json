@@ -5,5 +5,7 @@
   "bairro": "Maria Céu",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6710523",
+  "longitude": "-49.3950866"
 }

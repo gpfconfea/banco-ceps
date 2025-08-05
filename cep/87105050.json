@@ -5,5 +5,7 @@
   "bairro": "Distrito de Floriano (Floriano)",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.5236203",
+  "longitude": "-52.0515132"
 }

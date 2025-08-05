@@ -5,5 +5,7 @@
   "bairro": "Vila Apolo",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.6178556",
+  "longitude": "-48.0435238"
 }

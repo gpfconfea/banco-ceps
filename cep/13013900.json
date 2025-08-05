@@ -1,9 +1,11 @@
 {
   "cep": "13013900",
   "logradouro": "Rua Regente Feijó",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9026033",
+  "longitude": "-47.0616793"
 }

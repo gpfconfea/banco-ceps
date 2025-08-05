@@ -5,5 +5,7 @@
   "bairro": "José Tonolli",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4566929",
+  "longitude": "-46.791116"
 }
