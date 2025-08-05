@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Machado",
   "uf": "MG",
-  "ibge": "3139003"
+  "ibge": "3139003",
+  "latitude": "-21.678043",
+  "longitude": "-45.9213561"
 }

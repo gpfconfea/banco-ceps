@@ -1,9 +1,11 @@
 {
   "cep": "27580991",
   "logradouro": "Praça Toivos Armas Sipilla",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Itatiaia",
   "uf": "RJ",
-  "ibge": "3302254"
+  "ibge": "3302254",
+  "latitude": "-22.48961",
+  "longitude": "-44.56044"
 }

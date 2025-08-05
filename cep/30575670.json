@@ -5,5 +5,7 @@
   "bairro": "Palmeiras",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9781195",
+  "longitude": "-43.9808894"
 }

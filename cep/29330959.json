@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapemirim",
   "uf": "ES",
-  "ibge": "3202801"
+  "ibge": "3202801",
+  "latitude": "-21.00892",
+  "longitude": "-40.83472"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Balneário Poiares",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.6865477",
+  "longitude": "-45.4495664"
 }

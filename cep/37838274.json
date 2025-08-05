@@ -5,5 +5,7 @@
   "bairro": "Alfa",
   "localidade": "Andradas",
   "uf": "MG",
-  "ibge": "3102605"
+  "ibge": "3102605",
+  "latitude": "-22.08111",
+  "longitude": "-46.57003"
 }

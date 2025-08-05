@@ -1,9 +1,11 @@
 {
   "cep": "56829970",
   "logradouro": "Rua Tomé Francisco da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Lagoa da Cruz",
   "localidade": "Quixabá",
   "uf": "PE",
-  "ibge": "2611533"
+  "ibge": "2611533",
+  "latitude": "-7.7112278",
+  "longitude": "-37.9162755"
 }

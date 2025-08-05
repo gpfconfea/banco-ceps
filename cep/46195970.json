@@ -1,9 +1,11 @@
 {
   "cep": "46195970",
   "logradouro": "Praça Nossa Senhora das Graças",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canabravinha",
   "localidade": "Paramirim",
   "uf": "BA",
-  "ibge": "2923605"
+  "ibge": "2923605",
+  "latitude": "-13.5251116",
+  "longitude": "-42.1730666"
 }

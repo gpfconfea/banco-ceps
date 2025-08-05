@@ -5,5 +5,7 @@
   "bairro": "Fartura",
   "localidade": "Mirassol",
   "uf": "SP",
-  "ibge": "3530300"
+  "ibge": "3530300",
+  "latitude": "-20.82143",
+  "longitude": "-49.51628"
 }

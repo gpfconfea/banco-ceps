@@ -5,5 +5,7 @@
   "bairro": "Jardim Horto",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5983282",
+  "longitude": "-45.4304556"
 }

@@ -5,5 +5,7 @@
   "bairro": "João VI",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "latitude": "-21.14095",
+  "longitude": "-42.36274"
 }

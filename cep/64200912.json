@@ -1,9 +1,11 @@
 {
   "cep": "64200912",
   "logradouro": "Avenida Presidente Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "latitude": "-2.9030817",
+  "longitude": "-41.7764026"
 }

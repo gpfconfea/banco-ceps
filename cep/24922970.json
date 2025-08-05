@@ -1,9 +1,11 @@
 {
   "cep": "24922970",
   "logradouro": "Rua São Pedro Apóstolo Quadra 3 Lote 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ponta Negra (Ponta Negra)",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "latitude": "-22.94924",
+  "longitude": "-42.69741"
 }

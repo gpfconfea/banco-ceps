@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-15.83767",
+  "longitude": "-43.28811"
 }

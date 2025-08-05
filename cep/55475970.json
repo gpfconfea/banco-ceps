@@ -1,9 +1,11 @@
 {
   "cep": "55475970",
   "logradouro": "Praça Vila São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José",
   "localidade": "Panelas",
   "uf": "PE",
-  "ibge": "2610202"
+  "ibge": "2610202",
+  "latitude": "-23.2005389",
+  "longitude": "-45.8862035"
 }

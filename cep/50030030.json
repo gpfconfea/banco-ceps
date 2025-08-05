@@ -5,5 +5,7 @@
   "bairro": "Recife",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0644594",
+  "longitude": "-34.8739223"
 }

@@ -5,5 +5,7 @@
   "bairro": "Mercadinho",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-20.2241968",
+  "longitude": "-40.2811441"
 }

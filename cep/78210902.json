@@ -1,9 +1,11 @@
 {
   "cep": "78210902",
   "logradouro": "Avenida Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Celeste",
   "localidade": "Cáceres",
   "uf": "MT",
-  "ibge": "5102504"
+  "ibge": "5102504",
+  "latitude": "-16.0829805",
+  "longitude": "-57.676763"
 }

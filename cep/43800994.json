@@ -1,9 +1,11 @@
 {
   "cep": "43800994",
   "logradouro": "Rua da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Candeias",
   "uf": "BA",
-  "ibge": "2906501"
+  "ibge": "2906501",
+  "latitude": "-12.7393007",
+  "longitude": "-38.4452112"
 }

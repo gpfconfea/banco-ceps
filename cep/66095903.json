@@ -1,9 +1,11 @@
 {
   "cep": "66095903",
   "logradouro": "Conjunto Enéas Pinheiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Marco",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-1.4342537",
+  "longitude": "-48.4514564"
 }

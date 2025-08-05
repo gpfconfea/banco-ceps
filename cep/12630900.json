@@ -1,9 +1,11 @@
 {
   "cep": "12630900",
   "logradouro": "Rua João Paulo II",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto da Bela Vista",
   "localidade": "Cachoeira Paulista",
   "uf": "SP",
-  "ibge": "3508603"
+  "ibge": "3508603",
+  "latitude": "-22.6633305",
+  "longitude": "-45.0016874"
 }

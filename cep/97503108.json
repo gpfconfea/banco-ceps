@@ -5,5 +5,7 @@
   "bairro": "Alexandre Zachia",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "latitude": "-29.7773253",
+  "longitude": "-57.0964726"
 }

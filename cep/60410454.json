@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-21.1330157",
+  "longitude": "-42.366799"
 }

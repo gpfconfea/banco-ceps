@@ -1,9 +1,11 @@
 {
   "cep": "18445990",
   "logradouro": "Rua Principal - Distrito Engenheiro Maia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Itaberá",
   "uf": "SP",
-  "ibge": "3521705"
+  "ibge": "3521705",
+  "latitude": "-24.03782",
+  "longitude": "-49.09845"
 }

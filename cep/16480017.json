@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaimbê",
   "uf": "SP",
-  "ibge": "3517307"
+  "ibge": "3517307",
+  "latitude": "-21.9135509",
+  "longitude": "-49.897417"
 }

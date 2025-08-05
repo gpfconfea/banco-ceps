@@ -5,5 +5,7 @@
   "bairro": "Santa Tereza",
   "localidade": "Videira",
   "uf": "SC",
-  "ibge": "4219309"
+  "ibge": "4219309",
+  "latitude": "-27.00177",
+  "longitude": "-51.13773"
 }

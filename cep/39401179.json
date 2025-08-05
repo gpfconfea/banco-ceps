@@ -5,5 +5,7 @@
   "bairro": "Santos Reis",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-19.4530376",
+  "longitude": "-42.5660601"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Fé",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.26006",
+  "longitude": "-45.92932"
 }

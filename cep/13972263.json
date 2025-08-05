@@ -5,5 +5,7 @@
   "bairro": "Vila Vieira",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4314787",
+  "longitude": "-46.812487"
 }

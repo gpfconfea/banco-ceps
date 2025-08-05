@@ -5,5 +5,7 @@
   "bairro": "Porto",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-14.645524",
+  "longitude": "-57.486529"
 }

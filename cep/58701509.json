@@ -6,5 +6,7 @@
   "bairro": "Maternidade",
   "localidade": "Patos",
   "uf": "PB",
-  "ibge": "2510808"
+  "ibge": "2510808",
+  "latitude": "-7.039433",
+  "longitude": "-37.2879663"
 }

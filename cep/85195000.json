@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Reserva do Iguaçu",
   "uf": "PR",
-  "ibge": "4121752"
+  "ibge": "4121752",
+  "latitude": "-25.8365103",
+  "longitude": "-52.028256"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Altair",
   "uf": "SP",
-  "ibge": "3500907"
+  "ibge": "3500907",
+  "latitude": "-20.5228046",
+  "longitude": "-49.0637252"
 }

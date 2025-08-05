@@ -1,9 +1,11 @@
 {
   "cep": "49820971",
   "logradouro": "Avenida Ananias Fernandes Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Canindé de São Francisco",
   "uf": "SE",
-  "ibge": "2801207"
+  "ibge": "2801207",
+  "latitude": "-9.6617517",
+  "longitude": "-37.7913352"
 }

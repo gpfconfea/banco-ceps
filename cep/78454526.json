@@ -5,5 +5,7 @@
   "bairro": "Residencial Paraíso",
   "localidade": "Nova Mutum",
   "uf": "MT",
-  "ibge": "5106224"
+  "ibge": "5106224",
+  "latitude": "-16.47514",
+  "longitude": "-54.57432"
 }

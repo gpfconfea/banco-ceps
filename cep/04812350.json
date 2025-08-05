@@ -5,5 +5,7 @@
   "bairro": "Praia Paulistinha",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7163939",
+  "longitude": "-46.6832199"
 }

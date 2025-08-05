@@ -5,5 +5,7 @@
   "bairro": "Jardim Ester",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5846274",
+  "longitude": "-46.7597892"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "43700973",
   "logradouro": "Rua Padre Emille Felix Wagner",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Simões Filho",
   "uf": "BA",
-  "ibge": "2930709"
+  "ibge": "2930709",
+  "latitude": "-12.7870345",
+  "longitude": "-38.403295"
 }

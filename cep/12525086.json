@@ -6,5 +6,7 @@
   "bairro": "João Nogueira",
   "localidade": "Potim",
   "uf": "SP",
-  "ibge": "3540754"
+  "ibge": "3540754",
+  "latitude": "-22.8402848",
+  "longitude": "-45.2571252"
 }

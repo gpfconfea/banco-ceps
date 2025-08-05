@@ -6,5 +6,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Taquarituba",
   "uf": "SP",
-  "ibge": "3553807"
+  "ibge": "3553807",
+  "latitude": "-23.541154",
+  "longitude": "-49.2526934"
 }

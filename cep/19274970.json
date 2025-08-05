@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Rosana",
   "uf": "SP",
-  "ibge": "3544251"
+  "ibge": "3544251",
+  "latitude": "-22.5302325",
+  "longitude": "-52.9499703"
 }

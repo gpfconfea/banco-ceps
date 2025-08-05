@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Triunfo",
   "uf": "BA",
-  "ibge": "2923050"
+  "ibge": "2923050",
+  "latitude": "-10.3342641",
+  "longitude": "-38.4203078"
 }

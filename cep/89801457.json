@@ -5,5 +5,7 @@
   "bairro": "Maria Goretti",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.0907805",
+  "longitude": "-52.6023157"
 }

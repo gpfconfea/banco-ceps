@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Itapipoca",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "latitude": "-3.50112",
+  "longitude": "-39.57957"
 }

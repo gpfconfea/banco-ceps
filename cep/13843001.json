@@ -5,5 +5,7 @@
   "bairro": "Vila Paraíso",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "latitude": "-22.377364",
+  "longitude": "-46.9403448"
 }

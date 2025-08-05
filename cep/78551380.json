@@ -5,5 +5,7 @@
   "bairro": "Residencial Vila Rica",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "latitude": "-12.5226125",
+  "longitude": "-55.723643"
 }

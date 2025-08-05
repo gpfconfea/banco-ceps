@@ -5,5 +5,7 @@
   "bairro": "Jardim Elite",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.4260414",
+  "longitude": "-45.9600721"
 }

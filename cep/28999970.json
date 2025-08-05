@@ -1,9 +1,11 @@
 {
   "cep": "28999970",
   "logradouro": "Rua Noventa e Sete",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jaconé (Sampaio Correia)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "latitude": "-22.9238845",
+  "longitude": "-42.5946948"
 }

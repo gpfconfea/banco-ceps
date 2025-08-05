@@ -5,5 +5,7 @@
   "bairro": "Campos Elíseos",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-23.5264942",
+  "longitude": "-46.6771882"
 }

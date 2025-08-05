@@ -6,5 +6,7 @@
   "bairro": "Ponte Vila",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.5275406",
+  "longitude": "-45.5873106"
 }

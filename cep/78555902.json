@@ -1,9 +1,11 @@
 {
   "cep": "78555902",
   "logradouro": "Avenida dos Mognos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Eunice",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "latitude": "-11.8397555",
+  "longitude": "-55.5253866"
 }

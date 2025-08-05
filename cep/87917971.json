@@ -1,9 +1,11 @@
 {
   "cep": "87917971",
   "logradouro": "Rua Maringá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Mônica",
   "uf": "PR",
-  "ibge": "4123956"
+  "ibge": "4123956",
+  "latitude": "-23.4610335",
+  "longitude": "-52.0523054"
 }

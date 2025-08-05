@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pinheiros",
   "uf": "ES",
-  "ibge": "3204104"
+  "ibge": "3204104",
+  "latitude": "-18.4162979",
+  "longitude": "-40.2120169"
 }

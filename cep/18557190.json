@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2767683",
+  "longitude": "-47.6883873"
 }

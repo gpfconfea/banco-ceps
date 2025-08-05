@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Glaucilândia",
   "uf": "MG",
-  "ibge": "3127354"
+  "ibge": "3127354",
+  "latitude": "-16.8504251",
+  "longitude": "-43.6979516"
 }

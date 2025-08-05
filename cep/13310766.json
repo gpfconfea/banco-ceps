@@ -5,5 +5,7 @@
   "bairro": "Terras de Santa Carolina",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.3484222",
+  "longitude": "-47.3034489"
 }

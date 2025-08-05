@@ -1,9 +1,11 @@
 {
   "cep": "59500972",
   "logradouro": "Rua José Freire",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Diogo Lopes",
   "localidade": "Macau",
   "uf": "RN",
-  "ibge": "2407203"
+  "ibge": "2407203",
+  "latitude": "-5.8259971",
+  "longitude": "-35.2075476"
 }

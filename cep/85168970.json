@@ -1,9 +1,11 @@
 {
   "cep": "85168970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Marquinho",
   "uf": "PR",
-  "ibge": "4115457"
+  "ibge": "4115457",
+  "latitude": "39.9023504",
+  "longitude": "-8.4816251"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "89476970",
   "logradouro": "Estrada Geral de Pinheiros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pinheiros",
   "localidade": "Canoinhas",
   "uf": "SC",
-  "ibge": "4203808"
+  "ibge": "4203808",
+  "latitude": "-27.0333021",
+  "longitude": "-49.5702074"
 }

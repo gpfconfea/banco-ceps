@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Indamar",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.8840407",
+  "longitude": "-48.4273"
 }

@@ -6,5 +6,7 @@
   "bairro": "Itaquera",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.50136",
+  "longitude": "-46.52486"
 }

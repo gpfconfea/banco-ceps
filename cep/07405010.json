@@ -5,5 +5,7 @@
   "bairro": "Pedreira",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.39134",
+  "longitude": "-46.28483"
 }

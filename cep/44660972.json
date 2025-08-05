@@ -1,9 +1,11 @@
 {
   "cep": "44660972",
   "logradouro": "Avenida Ernesto Gonçalves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ponto Serra Preta",
   "localidade": "Serra Preta",
   "uf": "BA",
-  "ibge": "2930402"
+  "ibge": "2930402",
+  "latitude": "-12.1432267",
+  "longitude": "-45.01291"
 }

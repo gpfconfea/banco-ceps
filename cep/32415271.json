@@ -5,5 +5,7 @@
   "bairro": "Vila Rosário",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "latitude": "-20.0173688",
+  "longitude": "-44.0863371"
 }

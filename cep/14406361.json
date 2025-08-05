@@ -5,5 +5,7 @@
   "bairro": "São Joaquim",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5364498",
+  "longitude": "-47.4265043"
 }

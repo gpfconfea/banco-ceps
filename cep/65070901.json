@@ -1,9 +1,11 @@
 {
   "cep": "65070901",
   "logradouro": "Avenida Jerônimo de Albuquerque Maranhão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Calhau",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.4996072",
+  "longitude": "-44.2761998"
 }

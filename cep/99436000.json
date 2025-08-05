@@ -5,5 +5,7 @@
   "bairro": "Volta Vitória",
   "localidade": "Campos Borges",
   "uf": "RS",
-  "ibge": "4304101"
+  "ibge": "4304101",
+  "latitude": "-28.8658896",
+  "longitude": "-52.9764319"
 }

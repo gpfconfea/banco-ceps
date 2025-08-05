@@ -1,9 +1,11 @@
 {
   "cep": "83513990",
   "logradouro": "Rua Antônio Eduardo Trevisan",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.3029199",
+  "longitude": "-49.3540381"
 }

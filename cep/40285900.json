@@ -1,9 +1,11 @@
 {
   "cep": "40285900",
   "logradouro": "Avenida Vasco da Gama",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Brotas",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9979082",
+  "longitude": "-38.4922566"
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Jova Rural",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4538959",
+  "longitude": "-46.579946"
 }

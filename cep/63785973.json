@@ -1,9 +1,11 @@
 {
   "cep": "63785973",
   "logradouro": "Vila Barreiros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barreiros",
   "localidade": "Monsenhor Tabosa",
   "uf": "CE",
-  "ibge": "2308609"
+  "ibge": "2308609",
+  "latitude": "-5.1060385",
+  "longitude": "-40.0486486"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64420959",
   "logradouro": "Rua dos Três Poderes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Palmeirais",
   "uf": "PI",
-  "ibge": "2207504"
+  "ibge": "2207504",
+  "latitude": "-7.0100641",
+  "longitude": "-40.9379335"
 }

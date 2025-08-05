@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Faina",
   "uf": "GO",
-  "ibge": "5207535"
+  "ibge": "5207535",
+  "latitude": "-15.4511441",
+  "longitude": "-50.3606667"
 }

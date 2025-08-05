@@ -5,5 +5,7 @@
   "bairro": "Estância Grande",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "latitude": "-29.9087116",
+  "longitude": "-51.0662059"
 }

@@ -6,5 +6,7 @@
   "bairro": "Industrial",
   "localidade": "Igarapé",
   "uf": "MG",
-  "ibge": "3130101"
+  "ibge": "3130101",
+  "latitude": "-20.0644022",
+  "longitude": "-44.2907017"
 }

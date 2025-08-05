@@ -5,5 +5,7 @@
   "bairro": "Jardim Gutierres",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5036277",
+  "longitude": "-47.4200622"
 }

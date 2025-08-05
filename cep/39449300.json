@@ -5,5 +5,7 @@
   "bairro": "Barreiro da Raiz",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-16.0404724",
+  "longitude": "-43.3426277"
 }

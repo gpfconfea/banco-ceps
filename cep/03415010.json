@@ -5,5 +5,7 @@
   "bairro": "Jardim Textil",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5614921",
+  "longitude": "-46.5442537"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brás Pires",
   "uf": "MG",
-  "ibge": "3108701"
+  "ibge": "3108701",
+  "latitude": "-20.8450606",
+  "longitude": "-43.2413803"
 }

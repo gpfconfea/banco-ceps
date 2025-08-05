@@ -5,5 +5,7 @@
   "bairro": "Planalto Universitário",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.9676378",
+  "longitude": "-39.0211374"
 }

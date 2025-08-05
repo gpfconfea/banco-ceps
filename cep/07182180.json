@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Paes de Barros",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4446784",
+  "longitude": "-46.4648673"
 }

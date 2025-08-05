@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaquá",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4514668",
+  "longitude": "-46.3401496"
 }

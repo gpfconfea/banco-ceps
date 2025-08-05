@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "latitude": "-22.2527842",
+  "longitude": "-45.7010988"
 }

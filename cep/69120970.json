@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapiranga",
   "uf": "AM",
-  "ibge": "1302009"
+  "ibge": "1302009",
+  "latitude": "-3.13213",
+  "longitude": "-60.01898"
 }

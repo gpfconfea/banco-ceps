@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barra do Quaraí",
   "uf": "RS",
-  "ibge": "4301875"
+  "ibge": "4301875",
+  "latitude": "-30.2077155",
+  "longitude": "-57.549008"
 }

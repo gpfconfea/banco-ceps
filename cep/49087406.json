@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "latitude": "-10.8973825",
+  "longitude": "-37.078744"
 }

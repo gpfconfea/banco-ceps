@@ -5,5 +5,7 @@
   "bairro": "Morada Nova",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.0952437",
+  "longitude": "-42.8022575"
 }

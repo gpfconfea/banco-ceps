@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pratânia",
   "uf": "SP",
-  "ibge": "3541059"
+  "ibge": "3541059",
+  "latitude": "-22.35382",
+  "longitude": "-49.04179"
 }

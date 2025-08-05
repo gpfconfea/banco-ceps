@@ -5,5 +5,7 @@
   "bairro": "Moinho",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-22.74713",
+  "longitude": "-47.3261"
 }

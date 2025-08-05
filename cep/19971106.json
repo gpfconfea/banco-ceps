@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Zanete",
   "localidade": "Palmital",
   "uf": "SP",
-  "ibge": "3535309"
+  "ibge": "3535309",
+  "latitude": "-22.78447",
+  "longitude": "-50.21268"
 }

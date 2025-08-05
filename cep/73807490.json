@@ -5,5 +5,7 @@
   "bairro": "Lagoa dos Santos",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "-16.70014",
+  "longitude": "-49.09362"
 }

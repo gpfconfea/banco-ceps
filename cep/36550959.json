@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coimbra",
   "uf": "MG",
-  "ibge": "3116704"
+  "ibge": "3116704",
+  "latitude": "-20.85621",
+  "longitude": "-42.80221"
 }

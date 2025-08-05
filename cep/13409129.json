@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Piracicaba",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.6711212",
+  "longitude": "-47.711355"
 }

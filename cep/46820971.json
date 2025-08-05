@@ -1,9 +1,11 @@
 {
   "cep": "46820971",
   "logradouro": "Praça Venâncio Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bonito",
   "uf": "BA",
-  "ibge": "2904050"
+  "ibge": "2904050",
+  "latitude": "-11.86226",
+  "longitude": "-41.30616"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Amazonas",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5529903",
+  "longitude": "-47.4167056"
 }

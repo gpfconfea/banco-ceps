@@ -5,5 +5,7 @@
   "bairro": "Residencial Primavera",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5686427",
+  "longitude": "-44.3110171"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65363970",
   "logradouro": "Avenida Juscelino Kubitschek",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Governador Newton Bello",
   "uf": "MA",
-  "ibge": "2104651"
+  "ibge": "2104651",
+  "latitude": "-3.43238",
+  "longitude": "-45.67002"
 }

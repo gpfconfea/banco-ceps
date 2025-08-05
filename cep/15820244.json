@@ -6,5 +6,7 @@
   "bairro": "Vila Nunes",
   "localidade": "Pirangi",
   "uf": "SP",
-  "ibge": "3539004"
+  "ibge": "3539004",
+  "latitude": "-21.0979677",
+  "longitude": "-48.6694671"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Auriflama",
   "uf": "SP",
-  "ibge": "3504206"
+  "ibge": "3504206",
+  "latitude": "-20.6859389",
+  "longitude": "-50.5467035"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Granja Anita",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.510973",
+  "longitude": "-46.1280564"
 }

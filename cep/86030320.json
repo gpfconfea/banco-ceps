@@ -5,5 +5,7 @@
   "bairro": "Indústrias Leves",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2904579",
+  "longitude": "-51.1322576"
 }

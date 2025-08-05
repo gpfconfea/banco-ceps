@@ -5,5 +5,7 @@
   "bairro": "Gamas",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8784587",
+  "longitude": "-44.9123764"
 }
