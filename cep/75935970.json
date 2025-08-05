@@ -1,9 +1,11 @@
 {
   "cep": "75935970",
   "logradouro": "Rua Maria Vitória",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Santo Antônio da Barra",
   "uf": "GO",
-  "ibge": "5219712"
+  "ibge": "5219712",
+  "latitude": "-17.5601796",
+  "longitude": "-50.6364923"
 }

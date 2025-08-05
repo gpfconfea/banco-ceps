@@ -6,5 +6,7 @@
   "bairro": "Jardim Samambaia",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-23.19066",
+  "longitude": "-46.90714"
 }

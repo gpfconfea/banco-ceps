@@ -1,9 +1,11 @@
 {
   "cep": "63158974",
   "logradouro": "Rua da Cajarana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa dos Crioulos",
   "localidade": "Salitre",
   "uf": "CE",
-  "ibge": "2311959"
+  "ibge": "2311959",
+  "latitude": "-7.248002",
+  "longitude": "-40.3831611"
 }

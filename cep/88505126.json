@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.8088467",
+  "longitude": "-50.3354152"
 }

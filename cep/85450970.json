@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campo Bonito",
   "uf": "PR",
-  "ibge": "4104055"
+  "ibge": "4104055",
+  "latitude": "-25.0266486",
+  "longitude": "-52.9936118"
 }

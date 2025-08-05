@@ -1,9 +1,11 @@
 {
   "cep": "95725974",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Marcorama",
   "localidade": "Garibaldi",
   "uf": "RS",
-  "ibge": "4308607"
+  "ibge": "4308607",
+  "latitude": "-29.2115377",
+  "longitude": "-51.525369"
 }

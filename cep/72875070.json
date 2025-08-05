@@ -5,5 +5,7 @@
   "bairro": "Unimorar",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "latitude": "-16.5954772",
+  "longitude": "-49.2546728"
 }

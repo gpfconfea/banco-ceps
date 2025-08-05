@@ -5,5 +5,7 @@
   "bairro": "Chácara do Carmo",
   "localidade": "Vargem Grande Paulista",
   "uf": "SP",
-  "ibge": "3556453"
+  "ibge": "3556453",
+  "latitude": "-23.6215928",
+  "longitude": "-47.0512596"
 }

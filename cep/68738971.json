@@ -5,5 +5,7 @@
   "bairro": "Vila de São Paulo",
   "localidade": "Santa Maria do Pará",
   "uf": "PA",
-  "ibge": "1506609"
+  "ibge": "1506609",
+  "latitude": "-23.5162428",
+  "longitude": "-46.6241421"
 }

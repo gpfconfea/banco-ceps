@@ -5,5 +5,7 @@
   "bairro": "Brazmadeira",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "latitude": "-24.9225437",
+  "longitude": "-53.4487269"
 }

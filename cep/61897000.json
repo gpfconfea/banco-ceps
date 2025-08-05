@@ -5,5 +5,7 @@
   "bairro": "Dourado",
   "localidade": "Guaiúba",
   "uf": "CE",
-  "ibge": "2304954"
+  "ibge": "2304954",
+  "latitude": "-4.0412656",
+  "longitude": "-38.6369079"
 }

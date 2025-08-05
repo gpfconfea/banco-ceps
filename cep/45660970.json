@@ -1,9 +1,11 @@
 {
   "cep": "45660970",
   "logradouro": "Praça Cláudio Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Olivença",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "latitude": "-14.9503734",
+  "longitude": "-39.0111417"
 }

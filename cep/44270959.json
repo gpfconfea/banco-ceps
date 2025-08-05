@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Terra Nova",
   "uf": "BA",
-  "ibge": "2931707"
+  "ibge": "2931707",
+  "latitude": "-12.4073459",
+  "longitude": "-38.6243769"
 }

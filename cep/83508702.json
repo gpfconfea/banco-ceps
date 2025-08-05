@@ -5,5 +5,7 @@
   "bairro": "Colonia Santa Gabriela",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.3664225",
+  "longitude": "-49.2957425"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tabaí",
   "uf": "RS",
-  "ibge": "4320859"
+  "ibge": "4320859",
+  "latitude": "-29.69034",
+  "longitude": "-51.72522"
 }

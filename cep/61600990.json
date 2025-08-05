@@ -1,9 +1,11 @@
 {
   "cep": "61600990",
   "logradouro": "Rua Luiz Eduardo Souza de Araújo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.69382",
+  "longitude": "-38.73194"
 }

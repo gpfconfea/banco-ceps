@@ -5,5 +5,7 @@
   "bairro": "Jardim Rosa",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.2792441",
+  "longitude": "-46.7345554"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "30140912",
   "logradouro": "Praça da Liberdade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Funcionários",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9321561",
+  "longitude": "-43.937481"
 }

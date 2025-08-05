@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Várzea Paulista",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "latitude": "-23.225008",
+  "longitude": "-46.824889"
 }

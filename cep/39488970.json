@@ -1,9 +1,11 @@
 {
   "cep": "39488970",
   "logradouro": "Praça Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Joaquim",
   "localidade": "Januária",
   "uf": "MG",
-  "ibge": "3135209"
+  "ibge": "3135209",
+  "latitude": "-20.2576216",
+  "longitude": "-42.0338714"
 }

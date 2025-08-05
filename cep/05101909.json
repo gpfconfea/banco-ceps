@@ -5,5 +5,7 @@
   "bairro": "Vila Fiat Lux",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5068275",
+  "longitude": "-46.7235527"
 }

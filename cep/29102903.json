@@ -1,9 +1,11 @@
 {
   "cep": "29102903",
   "logradouro": "Rua C",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Coqueiral de Itaparica",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.367641",
+  "longitude": "-40.3070163"
 }

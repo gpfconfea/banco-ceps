@@ -1,9 +1,11 @@
 {
   "cep": "99980974",
   "logradouro": "Distrito Capela São José do Capingui",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Capela São José do Capingui (Distrito)",
   "localidade": "David Canabarro",
   "uf": "RS",
-  "ibge": "4306304"
+  "ibge": "4306304",
+  "latitude": "-28.4513555",
+  "longitude": "-51.8807142"
 }

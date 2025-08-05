@@ -1,9 +1,11 @@
 {
   "cep": "36708975",
   "logradouro": "Rua Wilson Pimentel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ribeiro Junqueira",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-21.4538305",
+  "longitude": "-42.5127699"
 }

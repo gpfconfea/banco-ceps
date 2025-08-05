@@ -5,5 +5,7 @@
   "bairro": "Residencial Portal dos Bandeirantes",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.694061",
+  "longitude": "-49.8347233"
 }

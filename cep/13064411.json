@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Bárbara",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.1427006",
+  "longitude": "-47.0352313"
 }

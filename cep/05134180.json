@@ -5,5 +5,7 @@
   "bairro": "Vila Guedes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4856795",
+  "longitude": "-46.7415933"
 }

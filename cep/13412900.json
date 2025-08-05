@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.6705324",
+  "longitude": "-47.6266253"
 }

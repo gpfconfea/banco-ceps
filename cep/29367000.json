@@ -5,5 +5,7 @@
   "bairro": "Estrela do Norte",
   "localidade": "Castelo",
   "uf": "ES",
-  "ibge": "3201407"
+  "ibge": "3201407",
+  "latitude": "-20.5884216",
+  "longitude": "-41.3367605"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0956306",
+  "longitude": "-47.219001"
 }

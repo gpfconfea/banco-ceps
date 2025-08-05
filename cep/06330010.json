@@ -5,5 +5,7 @@
   "bairro": "Parque Jandaia",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "latitude": "-23.5498796",
+  "longitude": "-46.8217488"
 }

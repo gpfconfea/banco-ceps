@@ -5,5 +5,7 @@
   "bairro": "Heliópolis",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8460111",
+  "longitude": "-43.9364127"
 }

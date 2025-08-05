@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4683461",
+  "longitude": "-49.2067438"
 }

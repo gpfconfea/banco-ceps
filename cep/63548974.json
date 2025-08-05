@@ -1,9 +1,11 @@
 {
   "cep": "63548974",
   "logradouro": "Rua Bonifácio Alves Correia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Riacho Verde",
   "localidade": "Várzea Alegre",
   "uf": "CE",
-  "ibge": "2314003"
+  "ibge": "2314003",
+  "latitude": "-6.7919808",
+  "longitude": "-39.2985684"
 }

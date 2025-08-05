@@ -5,5 +5,7 @@
   "bairro": "Jardim Moreira",
   "localidade": "Monte Mor",
   "uf": "SP",
-  "ibge": "3531803"
+  "ibge": "3531803",
+  "latitude": "-22.9361888",
+  "longitude": "-47.2865424"
 }

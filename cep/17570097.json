@@ -6,5 +6,7 @@
   "bairro": "Vila Reis",
   "localidade": "Oriente",
   "uf": "SP",
-  "ibge": "3534104"
+  "ibge": "3534104",
+  "latitude": "-22.15579",
+  "longitude": "-50.09046"
 }

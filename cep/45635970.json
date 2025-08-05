@@ -1,9 +1,11 @@
 {
   "cep": "45635970",
   "logradouro": "Rua Valentin Vidal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bandeira do Almada",
   "localidade": "Itajuípe",
   "uf": "BA",
-  "ibge": "2915502"
+  "ibge": "2915502",
+  "latitude": "-14.6681812",
+  "longitude": "-39.4965975"
 }

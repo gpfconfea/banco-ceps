@@ -1,9 +1,11 @@
 {
   "cep": "11740974",
   "logradouro": "Avenida Marginal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Balneário São Jorge",
   "localidade": "Itanhaém",
   "uf": "SP",
-  "ibge": "3522109"
+  "ibge": "3522109",
+  "latitude": "-24.2105877",
+  "longitude": "-46.8620717"
 }

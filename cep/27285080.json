@@ -5,5 +5,7 @@
   "bairro": "São Luís",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.4721538",
+  "longitude": "-44.0643393"
 }

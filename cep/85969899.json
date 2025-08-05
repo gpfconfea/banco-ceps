@@ -5,5 +5,7 @@
   "bairro": "Área Rural Marechal Cândido Rondon",
   "localidade": "Marechal Cândido Rondon",
   "uf": "PR",
-  "ibge": "4114609"
+  "ibge": "4114609",
+  "latitude": "-24.57168",
+  "longitude": "-54.03194"
 }

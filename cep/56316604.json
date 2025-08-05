@@ -5,5 +5,7 @@
   "bairro": "João de Deus",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-8.2912116",
+  "longitude": "-35.9628119"
 }

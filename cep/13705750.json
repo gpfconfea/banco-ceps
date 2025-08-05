@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Professor Wlademir Pereira",
   "localidade": "Casa Branca",
   "uf": "SP",
-  "ibge": "3510807"
+  "ibge": "3510807",
+  "latitude": "-23.54601",
+  "longitude": "-46.95096"
 }

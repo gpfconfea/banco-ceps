@@ -5,5 +5,7 @@
   "bairro": "Jardim",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.78832",
+  "longitude": "-46.28801"
 }

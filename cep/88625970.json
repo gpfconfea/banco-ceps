@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Urupema",
   "uf": "SC",
-  "ibge": "4218954"
+  "ibge": "4218954",
+  "latitude": "-27.95426",
+  "longitude": "-49.8752582"
 }

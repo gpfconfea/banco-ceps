@@ -6,5 +6,7 @@
   "bairro": "Engenho do Mato",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "latitude": "-22.95255",
+  "longitude": "-43.02376"
 }

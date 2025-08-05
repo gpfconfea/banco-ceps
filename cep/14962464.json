@@ -5,5 +5,7 @@
   "bairro": "Jardim São Vicente de Paulo",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.47033",
+  "longitude": "-49.23422"
 }

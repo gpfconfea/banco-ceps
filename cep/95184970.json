@@ -1,9 +1,11 @@
 {
   "cep": "95184970",
   "logradouro": "Estrada Júlio de Castilhos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jansen",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-29.3075065",
+  "longitude": "-51.3196304"
 }

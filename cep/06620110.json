@@ -5,5 +5,7 @@
   "bairro": "Vila Haber",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5447634",
+  "longitude": "-46.8938201"
 }

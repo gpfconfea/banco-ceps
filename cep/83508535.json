@@ -5,5 +5,7 @@
   "bairro": "Planta Almirante",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.360958",
+  "longitude": "-49.32561"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Chapadão do Céu",
   "uf": "GO",
-  "ibge": "5205471"
+  "ibge": "5205471",
+  "latitude": "-18.39385",
+  "longitude": "-52.66895"
 }

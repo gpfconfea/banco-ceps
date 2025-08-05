@@ -1,9 +1,11 @@
 {
   "cep": "06708901",
   "logradouro": "Rua Santarém",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Santo Antônio",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.5854141",
+  "longitude": "-46.8503883"
 }

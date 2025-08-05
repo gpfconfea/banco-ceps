@@ -5,5 +5,7 @@
   "bairro": "Nucleo Habitacional Juscelino Kubitschek",
   "localidade": "Pompéia",
   "uf": "SP",
-  "ibge": "3540002"
+  "ibge": "3540002",
+  "latitude": "-22.1013187",
+  "longitude": "-50.1884094"
 }

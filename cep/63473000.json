@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Ererê",
   "uf": "CE",
-  "ibge": "2304277"
+  "ibge": "2304277",
+  "latitude": "-5.919145",
+  "longitude": "-38.230367"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "46640970",
   "logradouro": "Praça da Bandeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ituaçu",
   "uf": "BA",
-  "ibge": "2917201"
+  "ibge": "2917201",
+  "latitude": "-13.8142571",
+  "longitude": "-41.2974867"
 }

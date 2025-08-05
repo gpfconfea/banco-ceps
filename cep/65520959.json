@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brejo",
   "uf": "MA",
-  "ibge": "2102101"
+  "ibge": "2102101",
+  "latitude": "-2.54515",
+  "longitude": "-44.25075"
 }

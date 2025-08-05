@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.5432738",
+  "longitude": "-54.5739593"
 }

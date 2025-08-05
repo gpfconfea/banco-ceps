@@ -5,5 +5,7 @@
   "bairro": "Deodoro",
   "localidade": "Venâncio Aires",
   "uf": "RS",
-  "ibge": "4322608"
+  "ibge": "4322608",
+  "latitude": "-29.4204618",
+  "longitude": "-52.3189336"
 }

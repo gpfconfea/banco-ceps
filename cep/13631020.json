@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.9938995",
+  "longitude": "-47.4255279"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Espírito Santo do Turvo",
   "uf": "SP",
-  "ibge": "3515194"
+  "ibge": "3515194",
+  "latitude": "-22.68774",
+  "longitude": "-49.42934"
 }

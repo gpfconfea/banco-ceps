@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Célia",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3000181",
+  "longitude": "-49.0795455"
 }

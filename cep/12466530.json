@@ -5,5 +5,7 @@
   "bairro": "Monte Carlo",
   "localidade": "Campos do Jordão",
   "uf": "SP",
-  "ibge": "3509700"
+  "ibge": "3509700",
+  "latitude": "-22.7504812",
+  "longitude": "-45.5815885"
 }

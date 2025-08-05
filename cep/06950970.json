@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Juquitiba",
   "uf": "SP",
-  "ibge": "3526209"
+  "ibge": "3526209",
+  "latitude": "-22.7620386",
+  "longitude": "-47.3620552"
 }

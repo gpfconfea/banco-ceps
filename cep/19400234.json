@@ -6,5 +6,7 @@
   "bairro": "Parque Bela Vista",
   "localidade": "Presidente Venceslau",
   "uf": "SP",
-  "ibge": "3541505"
+  "ibge": "3541505",
+  "latitude": "-21.88645",
+  "longitude": "-51.84902"
 }

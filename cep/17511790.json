@@ -5,5 +5,7 @@
   "bairro": "Jardim Lavínia",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.1804451",
+  "longitude": "-49.9545672"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "77712980",
   "logradouro": "Rua Tocantins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Pedro Afonso",
   "uf": "TO",
-  "ibge": "1716505"
+  "ibge": "1716505",
+  "latitude": "-8.9857212",
+  "longitude": "-48.168464"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Luzia do Paruá",
   "uf": "MA",
-  "ibge": "2110039"
+  "ibge": "2110039",
+  "latitude": "-2.5604477",
+  "longitude": "-45.7712038"
 }

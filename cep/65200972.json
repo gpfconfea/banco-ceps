@@ -1,9 +1,11 @@
 {
   "cep": "65200972",
   "logradouro": "Rodovia MA-006",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Bom Viver",
   "localidade": "Pinheiro",
   "uf": "MA",
-  "ibge": "2108603"
+  "ibge": "2108603",
+  "latitude": "-2.2972365",
+  "longitude": "-45.0067056"
 }

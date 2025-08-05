@@ -6,5 +6,7 @@
   "bairro": "Vila Maria",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.2165966",
+  "longitude": "-47.5205739"
 }

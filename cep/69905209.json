@@ -5,5 +5,7 @@
   "bairro": "Cadeia Velha",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-30.5472493",
+  "longitude": "-52.5367293"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44127970",
   "logradouro": "Rua do Colégio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Morrinhos",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.2736018",
+  "longitude": "-38.9500367"
 }

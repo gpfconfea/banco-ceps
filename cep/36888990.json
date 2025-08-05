@@ -1,9 +1,11 @@
 {
   "cep": "36888990",
   "logradouro": "Avenida Alvino Carlos de Souza Sofocó",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "latitude": "-21.09335",
+  "longitude": "-42.38035"
 }

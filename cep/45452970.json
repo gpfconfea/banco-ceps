@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Ibiá",
   "uf": "BA",
-  "ibge": "2922755"
+  "ibge": "2922755",
+  "latitude": "-12.05901",
+  "longitude": "-40.50402"
 }

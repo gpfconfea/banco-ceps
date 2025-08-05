@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Catunda",
   "uf": "CE",
-  "ibge": "2303659"
+  "ibge": "2303659",
+  "latitude": "-3.90168",
+  "longitude": "-38.38096"
 }

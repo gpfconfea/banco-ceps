@@ -5,5 +5,7 @@
   "bairro": "Jardim das Palmeiras-CDHU",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-23.5081",
+  "longitude": "-47.49134"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Meira",
   "localidade": "Santa Cruz das Palmeiras",
   "uf": "SP",
-  "ibge": "3546306"
+  "ibge": "3546306",
+  "latitude": "-21.8206713",
+  "longitude": "-47.2498405"
 }

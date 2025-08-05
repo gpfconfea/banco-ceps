@@ -1,9 +1,11 @@
 {
   "cep": "45303970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itachama",
   "localidade": "Amargosa",
   "uf": "BA",
-  "ibge": "2901007"
+  "ibge": "2901007",
+  "latitude": "-13.028",
+  "longitude": "-39.72187"
 }

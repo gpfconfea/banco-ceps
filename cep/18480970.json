@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaporanga",
   "uf": "SP",
-  "ibge": "3522802"
+  "ibge": "3522802",
+  "latitude": "-23.70521",
+  "longitude": "-49.48422"
 }

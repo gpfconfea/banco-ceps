@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "latitude": "-27.8136839",
+  "longitude": "-50.3361437"
 }

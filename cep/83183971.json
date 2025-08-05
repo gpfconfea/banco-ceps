@@ -1,9 +1,11 @@
 {
   "cep": "83183971",
   "logradouro": "Rua Antônio Quintino de Almeida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campo Largo da Roseira",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "-25.6999494",
+  "longitude": "-49.1473343"
 }

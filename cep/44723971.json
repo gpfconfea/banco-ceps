@@ -1,9 +1,11 @@
 {
   "cep": "44723971",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tapiranga",
   "localidade": "Miguel Calmon",
   "uf": "BA",
-  "ibge": "2921203"
+  "ibge": "2921203",
+  "latitude": "-11.4423164",
+  "longitude": "-40.4244286"
 }

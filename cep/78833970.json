@@ -1,9 +1,11 @@
 {
   "cep": "78833970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Entre Rios",
   "localidade": "Dom Aquino",
   "uf": "MT",
-  "ibge": "5103601"
+  "ibge": "5103601",
+  "latitude": "-15.5656799",
+  "longitude": "-56.1176455"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bonfim",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9076271",
+  "longitude": "-43.9570664"
 }

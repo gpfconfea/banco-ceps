@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Santa Cruz dos Lopes",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-23.94979",
+  "longitude": "-49.49632"
 }

@@ -5,5 +5,7 @@
   "bairro": "Taquaril",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9161595",
+  "longitude": "-43.8853263"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Acreúna",
   "uf": "GO",
-  "ibge": "5200134"
+  "ibge": "5200134",
+  "latitude": "-17.39814",
+  "longitude": "-50.37782"
 }

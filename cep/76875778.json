@@ -5,5 +5,7 @@
   "bairro": "Coqueiral",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "latitude": "-10.2084887",
+  "longitude": "-63.8266092"
 }

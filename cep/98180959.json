@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jóia",
   "uf": "RS",
-  "ibge": "4311155"
+  "ibge": "4311155",
+  "latitude": "-28.6482278",
+  "longitude": "-54.11842"
 }
