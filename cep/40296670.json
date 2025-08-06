@@ -5,5 +5,7 @@
   "bairro": "Candeal",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9971233",
+  "longitude": "-38.483072"
 }

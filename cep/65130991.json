@@ -1,9 +1,11 @@
 {
   "cep": "65130991",
   "logradouro": "Rua Tia Bia - Pindoba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Paço do Lumiar",
   "uf": "MA",
-  "ibge": "2107506"
+  "ibge": "2107506",
+  "latitude": "-2.49913",
+  "longitude": "-44.13666"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vera Cruz",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5122579",
+  "longitude": "-47.4979546"
 }

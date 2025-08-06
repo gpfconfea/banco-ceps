@@ -5,5 +5,7 @@
   "bairro": "Jardim Asteca",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3668482",
+  "longitude": "-40.3229002"
 }

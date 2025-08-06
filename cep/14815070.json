@@ -6,5 +6,7 @@
   "bairro": "Residencial Antonio Donatoni",
   "localidade": "Ibaté",
   "uf": "SP",
-  "ibge": "3519303"
+  "ibge": "3519303",
+  "latitude": "-21.9523737",
+  "longitude": "-47.9967288"
 }

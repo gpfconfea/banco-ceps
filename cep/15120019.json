@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Neves Paulista",
   "uf": "SP",
-  "ibge": "3532504"
+  "ibge": "3532504",
+  "latitude": "-20.8459997",
+  "longitude": "-49.631837"
 }

@@ -6,5 +6,7 @@
   "bairro": "Residencial Água Branca",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2658829",
+  "longitude": "-47.6647328"
 }

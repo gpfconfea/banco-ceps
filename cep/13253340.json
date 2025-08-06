@@ -5,5 +5,7 @@
   "bairro": "Vila Centenário",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.0036121",
+  "longitude": "-46.8268769"
 }

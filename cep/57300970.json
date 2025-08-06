@@ -1,9 +1,11 @@
 {
   "cep": "57300970",
   "logradouro": "Praça Luiz Pereira Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "latitude": "-9.7538607",
+  "longitude": "-36.6597005"
 }

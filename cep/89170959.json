@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Laurentino",
   "uf": "SC",
-  "ibge": "4209508"
+  "ibge": "4209508",
+  "latitude": "-27.22273",
+  "longitude": "-49.73329"
 }

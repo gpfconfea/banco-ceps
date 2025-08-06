@@ -5,5 +5,7 @@
   "bairro": "Rio Seco (Bacaxá)",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "latitude": "-23.475234",
+  "longitude": "-45.958696"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Irati",
   "uf": "PR",
-  "ibge": "4110706"
+  "ibge": "4110706",
+  "latitude": "-23.99447",
+  "longitude": "-51.81795"
 }

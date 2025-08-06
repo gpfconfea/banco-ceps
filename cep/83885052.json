@@ -5,5 +5,7 @@
   "bairro": "Bairro Alto",
   "localidade": "Rio Negro",
   "uf": "PR",
-  "ibge": "4122305"
+  "ibge": "4122305",
+  "latitude": "-26.0868212",
+  "longitude": "-49.7691073"
 }

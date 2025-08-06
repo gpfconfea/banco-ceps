@@ -5,5 +5,7 @@
   "bairro": "Altos de Itu",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.3856035",
+  "longitude": "-47.3014265"
 }

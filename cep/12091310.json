@@ -5,5 +5,7 @@
   "bairro": "Chácaras Reunidas Brasil",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0539256",
+  "longitude": "-45.5649208"
 }

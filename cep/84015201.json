@@ -5,5 +5,7 @@
   "bairro": "Orfãs",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "latitude": "-24.5180615",
+  "longitude": "-50.407558"
 }

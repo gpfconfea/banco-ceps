@@ -5,5 +5,7 @@
   "bairro": "Valparaiso II",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "latitude": "-16.0815778",
+  "longitude": "-47.9757229"
 }

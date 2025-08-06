@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "latitude": "-27.1614821",
+  "longitude": "-48.8920178"
 }

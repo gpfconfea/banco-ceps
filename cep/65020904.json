@@ -1,9 +1,11 @@
 {
   "cep": "65020904",
   "logradouro": "Rua Cristóvão Colombo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Diamante",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5301544",
+  "longitude": "-44.2900311"
 }

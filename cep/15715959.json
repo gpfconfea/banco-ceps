@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dirce Reis",
   "uf": "SP",
-  "ibge": "3513850"
+  "ibge": "3513850",
+  "latitude": "-20.4666445",
+  "longitude": "-50.6068582"
 }

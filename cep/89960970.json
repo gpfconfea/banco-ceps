@@ -1,9 +1,11 @@
 {
   "cep": "89960970",
   "logradouro": "Rua Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Pedro Tobias",
   "localidade": "Dionísio Cerqueira",
   "uf": "SC",
-  "ibge": "4205001"
+  "ibge": "4205001",
+  "latitude": "-27.0498554",
+  "longitude": "-50.1136556"
 }

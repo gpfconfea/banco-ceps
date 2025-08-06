@@ -5,5 +5,7 @@
   "bairro": "Residencial Casa Grande",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5488771",
+  "longitude": "-51.4224615"
 }

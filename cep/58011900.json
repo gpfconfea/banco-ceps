@@ -1,9 +1,11 @@
 {
   "cep": "58011900",
   "logradouro": "Praça Venâncio Neiva Bloco 2 Anexo 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.1222932",
+  "longitude": "-34.8846591"
 }

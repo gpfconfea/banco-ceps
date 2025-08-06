@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Joanésia",
   "uf": "MG",
-  "ibge": "3136108"
+  "ibge": "3136108",
+  "latitude": "-19.2043",
+  "longitude": "-42.6880552"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Venturosa",
   "uf": "PE",
-  "ibge": "2616001"
+  "ibge": "2616001",
+  "latitude": "-8.57747",
+  "longitude": "-36.87743"
 }

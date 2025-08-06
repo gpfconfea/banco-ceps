@@ -5,5 +5,7 @@
   "bairro": "Terras de São Paulo I",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.23251",
+  "longitude": "-49.90307"
 }

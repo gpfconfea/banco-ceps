@@ -1,9 +1,11 @@
 {
   "cep": "85892974",
   "logradouro": "Rua Iguaçu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Helena",
   "uf": "PR",
-  "ibge": "4123501"
+  "ibge": "4123501",
+  "latitude": "-24.9711384",
+  "longitude": "-54.3920105"
 }

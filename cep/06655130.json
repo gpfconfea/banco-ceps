@@ -5,5 +5,7 @@
   "bairro": "Vila Olinda",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5304064",
+  "longitude": "-46.9829252"
 }

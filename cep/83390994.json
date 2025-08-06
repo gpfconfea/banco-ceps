@@ -1,9 +1,11 @@
 {
   "cep": "83390994",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Guaraqueçaba",
   "uf": "PR",
-  "ibge": "4109500"
+  "ibge": "4109500",
+  "latitude": "-25.32486",
+  "longitude": "-50.35653"
 }

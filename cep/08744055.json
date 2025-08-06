@@ -5,5 +5,7 @@
   "bairro": "Jardim Modelo",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.5483658",
+  "longitude": "-46.2252606"
 }

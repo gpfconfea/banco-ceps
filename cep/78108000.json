@@ -5,5 +5,7 @@
   "bairro": "Aguaçu",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.2804838",
+  "longitude": "-56.1226277"
 }

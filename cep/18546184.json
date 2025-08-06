@@ -6,5 +6,7 @@
   "bairro": "Jardim Julita",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.21874",
+  "longitude": "-47.52682"
 }

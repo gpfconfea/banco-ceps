@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lábrea",
   "uf": "AM",
-  "ibge": "1302405"
+  "ibge": "1302405",
+  "latitude": "-7.2663774",
+  "longitude": "-64.7951"
 }

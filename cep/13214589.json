@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.0944101",
+  "longitude": "-46.8494437"
 }

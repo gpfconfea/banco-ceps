@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Morro da Garça",
   "uf": "MG",
-  "ibge": "3143609"
+  "ibge": "3143609",
+  "latitude": "-18.54448",
+  "longitude": "-44.6027"
 }

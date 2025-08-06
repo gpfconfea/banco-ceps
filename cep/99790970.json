@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mariano Moro",
   "uf": "RS",
-  "ibge": "4312005"
+  "ibge": "4312005",
+  "latitude": "-27.3553445",
+  "longitude": "-52.1485452"
 }

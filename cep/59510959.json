@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Afonso Bezerra",
   "uf": "RN",
-  "ibge": "2400307"
+  "ibge": "2400307",
+  "latitude": "-5.49986",
+  "longitude": "-36.50731"
 }

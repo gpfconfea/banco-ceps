@@ -1,9 +1,11 @@
 {
   "cep": "63183990",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Barbalha",
   "uf": "CE",
-  "ibge": "2301901"
+  "ibge": "2301901",
+  "latitude": "-3.76963",
+  "longitude": "-38.63064"
 }

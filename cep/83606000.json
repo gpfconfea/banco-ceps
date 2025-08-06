@@ -5,5 +5,7 @@
   "bairro": "Jardim Social",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4531279",
+  "longitude": "-49.5415864"
 }

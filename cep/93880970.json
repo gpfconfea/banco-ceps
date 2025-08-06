@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araricá",
   "uf": "RS",
-  "ibge": "4300877"
+  "ibge": "4300877",
+  "latitude": "-29.6191494",
+  "longitude": "-50.9282755"
 }

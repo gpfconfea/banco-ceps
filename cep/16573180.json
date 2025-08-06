@@ -5,5 +5,7 @@
   "bairro": "Residencial Santo Expedito",
   "localidade": "Guarantã",
   "uf": "SP",
-  "ibge": "3518107"
+  "ibge": "3518107",
+  "latitude": "-21.8874437",
+  "longitude": "-49.5837001"
 }

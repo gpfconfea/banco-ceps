@@ -5,5 +5,7 @@
   "bairro": "Cataratas",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "latitude": "-24.9627472",
+  "longitude": "-53.4029297"
 }

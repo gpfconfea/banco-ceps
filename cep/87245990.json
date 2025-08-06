@@ -1,9 +1,11 @@
 {
   "cep": "87245990",
   "logradouro": "Praça Luiz Peraro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Terra Boa",
   "uf": "PR",
-  "ibge": "4127205"
+  "ibge": "4127205",
+  "latitude": "-23.76884",
+  "longitude": "-52.44683"
 }

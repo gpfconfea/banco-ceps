@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Francisco Belo de Camargo",
   "localidade": "Arealva",
   "uf": "SP",
-  "ibge": "3503406"
+  "ibge": "3503406",
+  "latitude": "-22.0523333",
+  "longitude": "-49.0414746"
 }

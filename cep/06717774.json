@@ -6,5 +6,7 @@
   "bairro": "Loteamento Residencial Lago do Sol",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.62172",
+  "longitude": "-46.91759"
 }

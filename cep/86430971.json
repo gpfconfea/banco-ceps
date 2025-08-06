@@ -1,9 +1,11 @@
 {
   "cep": "86430971",
   "logradouro": "Rua Águas Marinhas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Platina",
   "localidade": "Santo Antônio da Platina",
   "uf": "PR",
-  "ibge": "4124103"
+  "ibge": "4124103",
+  "latitude": "-23.314454",
+  "longitude": "-50.0196445"
 }

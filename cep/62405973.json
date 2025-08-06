@@ -1,9 +1,11 @@
 {
   "cep": "62405973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Amarelas",
   "localidade": "Camocim",
   "uf": "CE",
-  "ibge": "2302602"
+  "ibge": "2302602",
+  "latitude": "-2.7956374",
+  "longitude": "-40.5140808"
 }

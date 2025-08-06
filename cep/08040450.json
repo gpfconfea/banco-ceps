@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5080458",
+  "longitude": "-46.4478535"
 }

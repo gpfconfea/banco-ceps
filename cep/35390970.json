@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jequeri",
   "uf": "MG",
-  "ibge": "3135506"
+  "ibge": "3135506",
+  "latitude": "-20.4536254",
+  "longitude": "-42.6666989"
 }

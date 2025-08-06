@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.9495412",
+  "longitude": "-48.30182"
 }

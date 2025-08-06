@@ -5,5 +5,7 @@
   "bairro": "Jardim Itararé",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "latitude": "-7.22405",
+  "longitude": "-35.89099"
 }

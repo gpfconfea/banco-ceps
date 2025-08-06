@@ -5,5 +5,7 @@
   "bairro": "Pedras",
   "localidade": "Estância Velha",
   "uf": "RS",
-  "ibge": "4307609"
+  "ibge": "4307609",
+  "latitude": "-29.6326123",
+  "longitude": "-51.1448382"
 }

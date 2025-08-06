@@ -5,5 +5,7 @@
   "bairro": "Bom Viver",
   "localidade": "Biguaçu",
   "uf": "SC",
-  "ibge": "4202305"
+  "ibge": "4202305",
+  "latitude": "-27.5334928",
+  "longitude": "-48.6387924"
 }

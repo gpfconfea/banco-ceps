@@ -5,5 +5,7 @@
   "bairro": "Santa Sara",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.869345",
+  "longitude": "-44.9715506"
 }

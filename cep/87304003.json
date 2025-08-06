@@ -5,5 +5,7 @@
   "bairro": "Residencial Gran Riva",
   "localidade": "Campo Mourão",
   "uf": "PR",
-  "ibge": "4104303"
+  "ibge": "4104303",
+  "latitude": "-25.4620649",
+  "longitude": "-49.5299981"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44904970",
   "logradouro": "Rua do Posto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itapicuru",
   "localidade": "Itapicuru",
   "uf": "BA",
-  "ibge": "2916500"
+  "ibge": "2916500",
+  "latitude": "-11.3037619",
+  "longitude": "-41.8538484"
 }

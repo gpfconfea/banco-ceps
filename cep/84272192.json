@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-23.2593594",
+  "longitude": "-51.1482947"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque das Águas",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8736067",
+  "longitude": "-45.0067348"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "38665970",
   "logradouro": "Rua Afonso Rauber",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serra Bonita",
   "localidade": "Buritis",
   "uf": "MG",
-  "ibge": "3109303"
+  "ibge": "3109303",
+  "latitude": "-15.2140101",
+  "longitude": "-46.8192117"
 }

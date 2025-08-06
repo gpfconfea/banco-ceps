@@ -5,5 +5,7 @@
   "bairro": "Parque Marabá",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4622443",
+  "longitude": "-46.5548425"
 }

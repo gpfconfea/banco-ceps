@@ -5,5 +5,7 @@
   "bairro": "Residencial Lagoa Park",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-21.9406463",
+  "longitude": "-42.6021966"
 }

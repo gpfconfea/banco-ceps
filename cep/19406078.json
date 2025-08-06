@@ -6,5 +6,7 @@
   "bairro": "Residencial Matarazzo Village",
   "localidade": "Presidente Venceslau",
   "uf": "SP",
-  "ibge": "3541505"
+  "ibge": "3541505",
+  "latitude": "-21.871",
+  "longitude": "-51.83458"
 }

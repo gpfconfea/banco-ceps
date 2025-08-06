@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Pedro do Turvo",
   "uf": "SP",
-  "ibge": "3550506"
+  "ibge": "3550506",
+  "latitude": "-22.7470272",
+  "longitude": "-49.7414146"
 }

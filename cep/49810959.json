@@ -1,9 +1,11 @@
 {
   "cep": "49810959",
   "logradouro": "Rua Lourival Batista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Poço Redondo",
   "uf": "SE",
-  "ibge": "2805406"
+  "ibge": "2805406",
+  "latitude": "-9.80465",
+  "longitude": "-37.68504"
 }

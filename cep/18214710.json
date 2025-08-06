@@ -5,5 +5,7 @@
   "bairro": "Jardim Cruzeiro do Sul",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5750486",
+  "longitude": "-48.0041328"
 }

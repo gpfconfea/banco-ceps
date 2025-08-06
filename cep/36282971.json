@@ -1,9 +1,11 @@
 {
   "cep": "36282971",
   "logradouro": "Rua Rogério Meireles",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pedra do Sino",
   "localidade": "Carandaí",
   "uf": "MG",
-  "ibge": "3113206"
+  "ibge": "3113206",
+  "latitude": "-20.8949466",
+  "longitude": "-43.8292117"
 }

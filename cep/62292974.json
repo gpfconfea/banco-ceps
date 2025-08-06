@@ -1,9 +1,11 @@
 {
   "cep": "62292974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Logradouro",
   "localidade": "Santa Quitéria",
   "uf": "CE",
-  "ibge": "2312205"
+  "ibge": "2312205",
+  "latitude": "-4.2147899",
+  "longitude": "-40.4338587"
 }

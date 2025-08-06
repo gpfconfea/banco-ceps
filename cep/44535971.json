@@ -1,9 +1,11 @@
 {
   "cep": "44535971",
   "logradouro": "Praça Manoel Caetano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Baixa do Palmeira",
   "localidade": "Sapeaçu",
   "uf": "BA",
-  "ibge": "2929602"
+  "ibge": "2929602",
+  "latitude": "-12.9655481",
+  "longitude": "-38.4727699"
 }

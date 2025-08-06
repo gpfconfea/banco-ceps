@@ -1,9 +1,11 @@
 {
   "cep": "63770974",
   "logradouro": "Rua Carlos Menor",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Esperança",
   "localidade": "Tamboril",
   "uf": "CE",
-  "ibge": "2313203"
+  "ibge": "2313203",
+  "latitude": "-4.6398231",
+  "longitude": "-40.4085762"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Iepê",
   "uf": "SP",
-  "ibge": "3519907"
+  "ibge": "3519907",
+  "latitude": "-23.27387",
+  "longitude": "-47.29214"
 }

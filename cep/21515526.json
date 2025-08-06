@@ -5,5 +5,7 @@
   "bairro": "Costa Barros",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8811197",
+  "longitude": "-43.5533518"
 }

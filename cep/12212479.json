@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Vila Leila",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.15463",
+  "longitude": "-45.90498"
 }

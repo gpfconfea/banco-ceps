@@ -6,5 +6,7 @@
   "bairro": "Parque Dois Irmãos",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.8084853",
+  "longitude": "-38.5536661"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63136974",
   "logradouro": "Rua Benedito José Teles",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Fé",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "latitude": "-7.1653907",
+  "longitude": "-39.5310203"
 }

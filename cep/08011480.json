@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto Pedroso",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4975623",
+  "longitude": "-46.4471766"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Sorocabano",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5326162",
+  "longitude": "-46.9051405"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "35902991",
   "logradouro": "Rua da Chapada - Chapada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "latitude": "-19.7156571",
+  "longitude": "-43.3200884"
 }

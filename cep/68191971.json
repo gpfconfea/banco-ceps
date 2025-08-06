@@ -1,9 +1,11 @@
 {
   "cep": "68191971",
   "logradouro": "Vila de Miritituba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Miritituba",
   "localidade": "Itaituba",
   "uf": "PA",
-  "ibge": "1503606"
+  "ibge": "1503606",
+  "latitude": "-4.297743",
+  "longitude": "-55.95535"
 }

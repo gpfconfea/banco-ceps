@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz da Figueira",
   "localidade": "Águas Mornas",
   "uf": "SC",
-  "ibge": "4200606"
+  "ibge": "4200606",
+  "latitude": "-27.7208204",
+  "longitude": "-48.8853641"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29525980",
   "logradouro": "Rua Belmiro Antônio Machado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Angélica",
   "localidade": "Alegre",
   "uf": "ES",
-  "ibge": "3200201"
+  "ibge": "3200201",
+  "latitude": "-20.763302",
+  "longitude": "-41.5313006"
 }

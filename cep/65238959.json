@@ -1,9 +1,11 @@
 {
   "cep": "65238959",
   "logradouro": "Travessa Manoel Abreu Melo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Palmeirândia",
   "uf": "MA",
-  "ibge": "2107605"
+  "ibge": "2107605",
+  "latitude": "-2.64512",
+  "longitude": "-44.89676"
 }

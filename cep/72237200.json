@@ -5,5 +5,7 @@
   "bairro": "Área de Desenvolvimento Econômico (Ceilândia)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.7845",
+  "longitude": "-47.88967"
 }

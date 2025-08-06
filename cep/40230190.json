@@ -5,5 +5,7 @@
   "bairro": "Federação",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-17.5239687",
+  "longitude": "-39.7390104"
 }

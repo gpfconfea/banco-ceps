@@ -1,9 +1,11 @@
 {
   "cep": "29329990",
   "logradouro": "Avenida Cândido Câmara Centro Conduru",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "latitude": "-20.67391",
+  "longitude": "-41.20402"
 }

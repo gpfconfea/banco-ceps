@@ -1,9 +1,11 @@
 {
   "cep": "29236980",
   "logradouro": "Rua Damaceno Pereira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jabaquara",
   "localidade": "Anchieta",
   "uf": "ES",
-  "ibge": "3200409"
+  "ibge": "3200409",
+  "latitude": "-20.6859812",
+  "longitude": "-40.6776877"
 }

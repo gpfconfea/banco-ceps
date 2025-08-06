@@ -1,9 +1,11 @@
 {
   "cep": "53401904",
   "logradouro": "Rua Humberto Félix da Cruz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nobre",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "latitude": "-7.9413607",
+  "longitude": "-34.8782324"
 }

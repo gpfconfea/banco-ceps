@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Centralina",
   "uf": "MG",
-  "ibge": "3115805"
+  "ibge": "3115805",
+  "latitude": "-18.5843349",
+  "longitude": "-49.1954739"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "latitude": "-9.9359808",
+  "longitude": "-63.0267471"
 }

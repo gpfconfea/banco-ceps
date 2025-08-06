@@ -5,5 +5,7 @@
   "bairro": "Jardim Estoril",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-21.4787776",
+  "longitude": "-51.5177499"
 }

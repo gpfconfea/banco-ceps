@@ -1,9 +1,11 @@
 {
   "cep": "85350970",
   "logradouro": "Rua Santa Catarina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Nova Laranjeiras",
   "uf": "PR",
-  "ibge": "4117057"
+  "ibge": "4117057",
+  "latitude": "-25.3071647",
+  "longitude": "-52.5382667"
 }

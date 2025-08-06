@@ -1,9 +1,11 @@
 {
   "cep": "62764959",
   "logradouro": "Rua Padre Benedito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Mulungu",
   "uf": "CE",
-  "ibge": "2309102"
+  "ibge": "2309102",
+  "latitude": "-4.3052306",
+  "longitude": "-38.9958653"
 }

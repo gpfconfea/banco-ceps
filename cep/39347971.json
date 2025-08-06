@@ -1,9 +1,11 @@
 {
   "cep": "39347971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alvação",
   "localidade": "Coração de Jesus",
   "uf": "MG",
-  "ibge": "3118809"
+  "ibge": "3118809",
+  "latitude": "-16.5076404",
+  "longitude": "-44.0826357"
 }

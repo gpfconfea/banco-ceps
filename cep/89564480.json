@@ -5,5 +5,7 @@
   "bairro": "Campo Experimental",
   "localidade": "Videira",
   "uf": "SC",
-  "ibge": "4219309"
+  "ibge": "4219309",
+  "latitude": "-27.0233482",
+  "longitude": "-51.144602"
 }

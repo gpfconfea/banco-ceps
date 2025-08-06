@@ -5,5 +5,7 @@
   "bairro": "Jardim Guaranhuns",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.382811",
+  "longitude": "-40.3247522"
 }

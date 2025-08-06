@@ -5,5 +5,7 @@
   "bairro": "Corumbá (Terra Preta)",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.2455233",
+  "longitude": "-46.566178"
 }
