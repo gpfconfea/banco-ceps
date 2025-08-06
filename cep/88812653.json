@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.8253099",
+  "longitude": "-49.3738935"
 }

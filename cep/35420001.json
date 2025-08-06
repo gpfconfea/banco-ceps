@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "latitude": "-17.2327058",
+  "longitude": "-46.8774072"
 }

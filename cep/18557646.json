@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Esplanada",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2758543",
+  "longitude": "-47.6735484"
 }

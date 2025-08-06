@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Espírito Santo",
   "uf": "RN",
-  "ibge": "2403509"
+  "ibge": "2403509",
+  "latitude": "-20.3279936",
+  "longitude": "-40.3631322"
 }

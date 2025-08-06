@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso II",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-21.714682",
+  "longitude": "-47.263061"
 }

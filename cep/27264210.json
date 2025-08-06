@@ -5,5 +5,7 @@
   "bairro": "Minerlândia",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.8349691",
+  "longitude": "-43.3637813"
 }

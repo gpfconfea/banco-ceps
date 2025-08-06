@@ -5,5 +5,7 @@
   "bairro": "Parque Continental",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5331739",
+  "longitude": "-46.7592286"
 }

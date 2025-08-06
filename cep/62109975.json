@@ -1,9 +1,11 @@
 {
   "cep": "62109975",
   "logradouro": "Rua da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caioca",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "latitude": "39.2474589",
+  "longitude": "-9.2637413"
 }

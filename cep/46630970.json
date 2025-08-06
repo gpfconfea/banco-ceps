@@ -1,9 +1,11 @@
 {
   "cep": "46630970",
   "logradouro": "Praça Nossa Senhora da Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caraibuna",
   "localidade": "Contendas do Sincorá",
   "uf": "BA",
-  "ibge": "2908804"
+  "ibge": "2908804",
+  "latitude": "-11.3368462",
+  "longitude": "-38.9637087"
 }

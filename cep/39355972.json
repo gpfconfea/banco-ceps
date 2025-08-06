@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João da Lagoa",
   "uf": "MG",
-  "ibge": "3162252"
+  "ibge": "3162252",
+  "latitude": "-16.8459983",
+  "longitude": "-44.3511353"
 }

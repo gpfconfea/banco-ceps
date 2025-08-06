@@ -1,9 +1,11 @@
 {
   "cep": "64200914",
   "logradouro": "Praça da Graça",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "latitude": "-2.9028644",
+  "longitude": "-41.7794577"
 }

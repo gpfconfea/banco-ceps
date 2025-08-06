@@ -5,5 +5,7 @@
   "bairro": "Chácara Águas Claras",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.4862754",
+  "longitude": "-49.1056342"
 }

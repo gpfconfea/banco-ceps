@@ -6,5 +6,7 @@
   "bairro": "Santa Fé",
   "localidade": "Embu-Guaçu",
   "uf": "SP",
-  "ibge": "3515103"
+  "ibge": "3515103",
+  "latitude": "-23.82143",
+  "longitude": "-46.86146"
 }

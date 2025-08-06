@@ -1,9 +1,11 @@
 {
   "cep": "29630971",
   "logradouro": "Estrada Brejetuba-Santa Rita",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Rita de Brejetuba",
   "localidade": "Brejetuba",
   "uf": "ES",
-  "ibge": "3201159"
+  "ibge": "3201159",
+  "latitude": "-20.1208374",
+  "longitude": "-41.2803435"
 }

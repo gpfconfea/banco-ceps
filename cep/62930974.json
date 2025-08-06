@@ -1,9 +1,11 @@
 {
   "cep": "62930974",
   "logradouro": "Vila Córrego de Areia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Limoeiro do Norte",
   "uf": "CE",
-  "ibge": "2307601"
+  "ibge": "2307601",
+  "latitude": "-5.1454953",
+  "longitude": "-38.0995084"
 }

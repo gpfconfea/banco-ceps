@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Boa Vista",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.2086081",
+  "longitude": "-49.377241"
 }

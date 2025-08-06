@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Aracruz",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-19.8202232",
+  "longitude": "-40.271799"
 }

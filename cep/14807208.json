@@ -5,5 +5,7 @@
   "bairro": "Jardim Almeida",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.8027961",
+  "longitude": "-48.1623157"
 }

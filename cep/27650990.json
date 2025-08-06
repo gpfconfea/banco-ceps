@@ -1,9 +1,11 @@
 {
   "cep": "27650990",
   "logradouro": "Rua Duque Costa - Parapeúna",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Valença",
   "uf": "RJ",
-  "ibge": "3306107"
+  "ibge": "3306107",
+  "latitude": "-22.0913544",
+  "longitude": "-43.8258416"
 }

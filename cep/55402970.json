@@ -1,9 +1,11 @@
 {
   "cep": "55402970",
   "logradouro": "Rua João Clementino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Laje Grande",
   "localidade": "Catende",
   "uf": "PE",
-  "ibge": "2604205"
+  "ibge": "2604205",
+  "latitude": "-8.5980548",
+  "longitude": "-35.7810479"
 }

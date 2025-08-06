@@ -1,9 +1,11 @@
 {
   "cep": "68940972",
   "logradouro": "Vila de Mazagão Velho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila de Mazagão Velho",
   "localidade": "Mazagão",
   "uf": "AP",
-  "ibge": "1600402"
+  "ibge": "1600402",
+  "latitude": "-0.2174558",
+  "longitude": "-51.4288811"
 }

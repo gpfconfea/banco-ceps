@@ -1,9 +1,11 @@
 {
   "cep": "55225990",
   "logradouro": "Rua Silvino Tenótio  - Distrito de Mimoso",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mimoso",
   "localidade": "Pesqueira",
   "uf": "PE",
-  "ibge": "2610905"
+  "ibge": "2610905",
+  "latitude": "-8.40076",
+  "longitude": "-36.89821"
 }

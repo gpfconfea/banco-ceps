@@ -5,5 +5,7 @@
   "bairro": "Alto do Pari",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5247182",
+  "longitude": "-46.6035206"
 }

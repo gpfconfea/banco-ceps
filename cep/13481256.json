@@ -5,5 +5,7 @@
   "bairro": "Residencial Rubi",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.6117413",
+  "longitude": "-47.432672"
 }

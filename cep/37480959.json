@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lambari",
   "uf": "MG",
-  "ibge": "3137809"
+  "ibge": "3137809",
+  "latitude": "-21.9751194",
+  "longitude": "-45.3505481"
 }

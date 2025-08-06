@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gastão Vidigal",
   "uf": "SP",
-  "ibge": "3516804"
+  "ibge": "3516804",
+  "latitude": "-20.7976899",
+  "longitude": "-50.1878901"
 }

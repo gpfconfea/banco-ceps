@@ -1,9 +1,11 @@
 {
   "cep": "75969971",
   "logradouro": "Avenida Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Arantina",
   "localidade": "Acreúna",
   "uf": "GO",
-  "ibge": "5200134"
+  "ibge": "5200134",
+  "latitude": "-17.531968",
+  "longitude": "-50.1979982"
 }

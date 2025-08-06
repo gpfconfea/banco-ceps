@@ -5,5 +5,7 @@
   "bairro": "Jardim Elizabeth",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4335123",
+  "longitude": "-46.5196324"
 }

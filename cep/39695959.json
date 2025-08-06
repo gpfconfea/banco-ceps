@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Franciscópolis",
   "uf": "MG",
-  "ibge": "3126752"
+  "ibge": "3126752",
+  "latitude": "-17.959",
+  "longitude": "-42.00878"
 }

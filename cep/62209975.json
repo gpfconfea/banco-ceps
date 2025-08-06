@@ -1,9 +1,11 @@
 {
   "cep": "62209975",
   "logradouro": "Rua Ana Gonçalves de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Pedro",
   "localidade": "Nova Russas",
   "uf": "CE",
-  "ibge": "2309300"
+  "ibge": "2309300",
+  "latitude": "-4.6604786",
+  "longitude": "-40.5985491"
 }

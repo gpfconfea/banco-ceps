@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alto Rio Doce",
   "uf": "MG",
-  "ibge": "3102100"
+  "ibge": "3102100",
+  "latitude": "-21.0223562",
+  "longitude": "-43.4152732"
 }

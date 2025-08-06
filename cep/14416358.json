@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Nova Sapucaí",
   "localidade": "Patrocínio Paulista",
   "uf": "SP",
-  "ibge": "3536307"
+  "ibge": "3536307",
+  "latitude": "-20.65253",
+  "longitude": "-47.2867"
 }

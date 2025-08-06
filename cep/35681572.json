@@ -5,5 +5,7 @@
   "bairro": "Juscelino Kubitschek",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "latitude": "-20.0805524",
+  "longitude": "-44.5986413"
 }

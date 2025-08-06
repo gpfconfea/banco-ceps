@@ -1,9 +1,11 @@
 {
   "cep": "48430971",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Conceição de Campinas",
   "localidade": "Paripiranga",
   "uf": "BA",
-  "ibge": "2923803"
+  "ibge": "2923803",
+  "latitude": "-13.532118",
+  "longitude": "-43.6432959"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9499215",
+  "longitude": "-44.1089366"
 }

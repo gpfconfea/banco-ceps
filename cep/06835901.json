@@ -1,9 +1,11 @@
 {
   "cep": "06835901",
   "logradouro": "Estrada Louis Pasteur",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Pinheiros",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "latitude": "-23.6789462",
+  "longitude": "-46.8484972"
 }

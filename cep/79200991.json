@@ -1,9 +1,11 @@
 {
   "cep": "79200991",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Camisão",
   "localidade": "Aquidauana",
   "uf": "MS",
-  "ibge": "5001102"
+  "ibge": "5001102",
+  "latitude": "-20.5357765",
+  "longitude": "-56.897951"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pocinhos",
   "uf": "PB",
-  "ibge": "2512002"
+  "ibge": "2512002",
+  "latitude": "-7.0764621",
+  "longitude": "-36.0615089"
 }

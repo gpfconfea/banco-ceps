@@ -1,9 +1,11 @@
 {
   "cep": "27553970",
   "logradouro": "Rua Presidente Wenceslau Braz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Visconde de Mauá",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "latitude": "-19.7348904",
+  "longitude": "-47.921606"
 }

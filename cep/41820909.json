@@ -1,9 +1,11 @@
 {
   "cep": "41820909",
   "logradouro": "Avenida Tancredo Neves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caminho das Árvores",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9797962",
+  "longitude": "-38.4643033"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim do Sol",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.1079154",
+  "longitude": "-47.2076768"
 }

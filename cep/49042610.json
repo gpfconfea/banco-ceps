@@ -5,5 +5,7 @@
   "bairro": "São Conrado",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "latitude": "-20.5213046",
+  "longitude": "-47.3931455"
 }

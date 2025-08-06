@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Cruz Machado",
   "uf": "PR",
-  "ibge": "4106803"
+  "ibge": "4106803",
+  "latitude": "-25.9456966",
+  "longitude": "-51.2576366"
 }

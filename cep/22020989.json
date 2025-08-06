@@ -1,9 +1,11 @@
 {
   "cep": "22020989",
-  "logradouro": "Avenida Nossa Senhora de Copacabana 540 Térreo Locker Correios",
+  "logradouro": "Avenida Nossa Senhora de Copacabana 540 Térreo",
   "complemento": "",
   "bairro": "Copacabana",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.96869",
+  "longitude": "-43.1842"
 }

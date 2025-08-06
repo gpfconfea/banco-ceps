@@ -1,9 +1,11 @@
 {
   "cep": "45416972",
   "logradouro": "Rua Natal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Corte de Pedra",
   "localidade": "Presidente Tancredo Neves",
   "uf": "BA",
-  "ibge": "2925758"
+  "ibge": "2925758",
+  "latitude": "-12.88557",
+  "longitude": "-38.35133"
 }

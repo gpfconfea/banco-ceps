@@ -1,9 +1,11 @@
 {
   "cep": "61760997",
   "logradouro": "Rua Izídio José Campina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Eusébio",
   "uf": "CE",
-  "ibge": "2304285"
+  "ibge": "2304285",
+  "latitude": "-3.87272",
+  "longitude": "-38.47333"
 }

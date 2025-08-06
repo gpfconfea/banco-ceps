@@ -5,5 +5,7 @@
   "bairro": "Parque da Colônia",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.180368",
+  "longitude": "-46.8595665"
 }

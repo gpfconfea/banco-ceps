@@ -1,9 +1,11 @@
 {
   "cep": "58385971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Serra Redonda",
   "uf": "PB",
-  "ibge": "2515807"
+  "ibge": "2515807",
+  "latitude": "-10.5285804",
+  "longitude": "-37.5036933"
 }

@@ -6,5 +6,7 @@
   "bairro": "Cidade Nova (Santa Maria)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-29.9288916",
+  "longitude": "-51.0879567"
 }

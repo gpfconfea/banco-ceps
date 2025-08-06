@@ -5,5 +5,7 @@
   "bairro": "Parque Aeroporto",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.6682552",
+  "longitude": "-49.7307495"
 }

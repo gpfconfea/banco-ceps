@@ -6,5 +6,7 @@
   "bairro": "Residencial Jardim do Bosque",
   "localidade": "Ibirá",
   "uf": "SP",
-  "ibge": "3519402"
+  "ibge": "3519402",
+  "latitude": "-21.0864433",
+  "longitude": "-49.2343344"
 }

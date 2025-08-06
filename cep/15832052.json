@@ -6,5 +6,7 @@
   "bairro": "Residencial Giovana",
   "localidade": "Pindorama",
   "uf": "SP",
-  "ibge": "3538105"
+  "ibge": "3538105",
+  "latitude": "-21.1846315",
+  "longitude": "-48.9214456"
 }

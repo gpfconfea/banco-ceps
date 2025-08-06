@@ -5,5 +5,7 @@
   "bairro": "Zona de Produção Industrial Dois (ZPI-02)",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.77302",
+  "longitude": "-47.30892"
 }

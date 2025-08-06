@@ -1,9 +1,11 @@
 {
   "cep": "36945971",
   "logradouro": "Rua José Evangelista da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Filomena",
   "localidade": "Santana do Manhuaçu",
   "uf": "MG",
-  "ibge": "3158904"
+  "ibge": "3158904",
+  "latitude": "-20.6599222",
+  "longitude": "-44.3407617"
 }

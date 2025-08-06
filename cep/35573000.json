@@ -6,5 +6,7 @@
   "bairro": "Pouso Alegre",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.4417251",
+  "longitude": "-45.454407"
 }

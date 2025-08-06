@@ -5,5 +5,7 @@
   "bairro": "Castelo Branco",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-22.4666936",
+  "longitude": "-44.4478535"
 }

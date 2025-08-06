@@ -5,5 +5,7 @@
   "bairro": "Vila Nova II",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5560525",
+  "longitude": "-51.4319221"
 }

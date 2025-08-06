@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Central de Minas",
   "uf": "MG",
-  "ibge": "3115706"
+  "ibge": "3115706",
+  "latitude": "-18.813977",
+  "longitude": "-41.258646"
 }

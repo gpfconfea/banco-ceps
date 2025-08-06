@@ -5,5 +5,7 @@
   "bairro": "Vila Serafim",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5985482",
+  "longitude": "-48.0414213"
 }

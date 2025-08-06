@@ -1,9 +1,11 @@
 {
   "cep": "29742980",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Nova de Bananal",
   "localidade": "Baixo Guandu",
   "uf": "ES",
-  "ibge": "3200805"
+  "ibge": "3200805",
+  "latitude": "-19.6863176",
+  "longitude": "-41.1242823"
 }

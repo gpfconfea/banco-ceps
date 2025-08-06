@@ -5,5 +5,7 @@
   "bairro": "Jardim São Bento",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.2220561",
+  "longitude": "-47.519062"
 }

@@ -5,5 +5,7 @@
   "bairro": "Aviário",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-9.9653382",
+  "longitude": "-67.8052199"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "59390971",
   "logradouro": "Sítio de Dentro Loja Telemar",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sítio de Dentro",
   "localidade": "Lagoa Nova",
   "uf": "RN",
-  "ibge": "2406502"
+  "ibge": "2406502",
+  "latitude": "-6.1152462",
+  "longitude": "-36.5718292"
 }

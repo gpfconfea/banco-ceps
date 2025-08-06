@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Helena",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-23.45703",
+  "longitude": "-46.59304"
 }

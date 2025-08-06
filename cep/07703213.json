@@ -5,5 +5,7 @@
   "bairro": "Nova Caieiras",
   "localidade": "Caieiras",
   "uf": "SP",
-  "ibge": "3509007"
+  "ibge": "3509007",
+  "latitude": "-23.540646",
+  "longitude": "-46.9168876"
 }

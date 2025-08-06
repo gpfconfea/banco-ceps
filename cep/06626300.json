@@ -5,5 +5,7 @@
   "bairro": "Vila Lucinda",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5406374",
+  "longitude": "-46.9133086"
 }

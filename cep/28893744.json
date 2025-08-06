@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "latitude": "-22.6228858",
+  "longitude": "-42.0052801"
 }

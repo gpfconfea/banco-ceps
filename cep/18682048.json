@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-22.6075908",
+  "longitude": "-48.8028973"
 }

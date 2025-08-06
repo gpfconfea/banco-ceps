@@ -1,9 +1,11 @@
 {
   "cep": "84928970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lavrinha",
   "localidade": "Pinhalão",
   "uf": "PR",
-  "ibge": "4119202"
+  "ibge": "4119202",
+  "latitude": "-25.6157429",
+  "longitude": "-53.6862238"
 }

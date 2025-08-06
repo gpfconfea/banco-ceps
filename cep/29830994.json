@@ -1,9 +1,11 @@
 {
   "cep": "29830994",
   "logradouro": "Praça da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Nova Venécia",
   "uf": "ES",
-  "ibge": "3203908"
+  "ibge": "3203908",
+  "latitude": "-18.69365",
+  "longitude": "-40.40132"
 }

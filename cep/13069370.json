@@ -5,5 +5,7 @@
   "bairro": "Techno Park",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.87807",
+  "longitude": "-47.12663"
 }

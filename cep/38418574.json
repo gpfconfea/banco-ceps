@@ -5,5 +5,7 @@
   "bairro": "Residencial Fruta do Conde",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.9305874",
+  "longitude": "-48.353901"
 }

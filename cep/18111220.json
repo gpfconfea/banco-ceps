@@ -5,5 +5,7 @@
   "bairro": "Rio Acima",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5387042",
+  "longitude": "-47.4381638"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itacuruba",
   "uf": "PE",
-  "ibge": "2607406"
+  "ibge": "2607406",
+  "latitude": "-8.726152",
+  "longitude": "-38.6866342"
 }

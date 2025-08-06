@@ -5,5 +5,7 @@
   "bairro": "Caema",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-6.5568989",
+  "longitude": "-47.4448762"
 }

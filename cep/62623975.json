@@ -1,9 +1,11 @@
 {
   "cep": "62623975",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Vista do Caxitoré",
   "localidade": "Irauçuba",
   "uf": "CE",
-  "ibge": "2306108"
+  "ibge": "2306108",
+  "latitude": "-3.8294231",
+  "longitude": "-39.6189847"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sertão",
   "uf": "RS",
-  "ibge": "4320503"
+  "ibge": "4320503",
+  "latitude": "-27.97902",
+  "longitude": "-52.24151"
 }

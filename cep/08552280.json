@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Bela Vista",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-23.5288514",
+  "longitude": "-46.35015"
 }

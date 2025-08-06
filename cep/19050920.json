@@ -5,5 +5,7 @@
   "bairro": "Cidade Universitária",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1329732",
+  "longitude": "-51.4054636"
 }

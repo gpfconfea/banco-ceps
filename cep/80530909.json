@@ -1,9 +1,11 @@
 {
   "cep": "80530909",
   "logradouro": "Praça Nossa Senhora de Salette",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro Cívico",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "latitude": "-25.4148438",
+  "longitude": "-49.2680946"
 }

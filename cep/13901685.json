@@ -5,5 +5,7 @@
   "bairro": "Chácara Vitória",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-22.4762047",
+  "longitude": "-46.6227372"
 }

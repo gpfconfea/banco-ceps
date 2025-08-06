@@ -1,9 +1,11 @@
 {
   "cep": "61634900",
   "logradouro": "Rodovia BR-020",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tabapuá Brasília",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.746443",
+  "longitude": "-38.6244282"
 }

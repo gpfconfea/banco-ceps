@@ -5,5 +5,7 @@
   "bairro": "Gramadinho",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.7866273",
+  "longitude": "-48.1262383"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Tangará da Serra",
   "uf": "MT",
-  "ibge": "5107958"
+  "ibge": "5107958",
+  "latitude": "-15.0711642",
+  "longitude": "-57.2077269"
 }

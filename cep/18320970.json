@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Apiaí",
   "uf": "SP",
-  "ibge": "3502705"
+  "ibge": "3502705",
+  "latitude": "-24.5113085",
+  "longitude": "-48.8447394"
 }

@@ -5,5 +5,7 @@
   "bairro": "Apicum",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5333613",
+  "longitude": "-44.2948689"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Jatibela",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.867051",
+  "longitude": "-47.0128584"
 }

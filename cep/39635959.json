@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coronel Murta",
   "uf": "MG",
-  "ibge": "3119500"
+  "ibge": "3119500",
+  "latitude": "-16.6168108",
+  "longitude": "-42.1837641"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pinhais",
   "uf": "PR",
-  "ibge": "4119152"
+  "ibge": "4119152",
+  "latitude": "-25.4317529",
+  "longitude": "-49.1920188"
 }
