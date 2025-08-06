@@ -1,9 +1,11 @@
 {
   "cep": "98869970",
   "logradouro": "Avenida São João",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João das Missões",
   "localidade": "São Miguel das Missões",
   "uf": "RS",
-  "ibge": "4319158"
+  "ibge": "4319158",
+  "latitude": "-28.70748",
+  "longitude": "-54.58056"
 }

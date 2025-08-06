@@ -5,5 +5,7 @@
   "bairro": "João Paulo II",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2212113",
+  "longitude": "-45.9342819"
 }

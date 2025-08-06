@@ -1,9 +1,11 @@
 {
   "cep": "99865971",
   "logradouro": "Rodovia RS-343",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Luís Rei",
   "localidade": "Cacique Doble",
   "uf": "RS",
-  "ibge": "4303202"
+  "ibge": "4303202",
+  "latitude": "-29.22401",
+  "longitude": "-51.35489"
 }

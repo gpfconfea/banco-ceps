@@ -5,5 +5,7 @@
   "bairro": "Jardim Engenho Velho",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-22.99089",
+  "longitude": "-47.5159"
 }

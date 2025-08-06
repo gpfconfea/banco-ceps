@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Ouro Branco",
   "localidade": "Ouro Branco",
   "uf": "MG",
-  "ibge": "3145901"
+  "ibge": "3145901",
+  "latitude": "-20.51791",
+  "longitude": "-43.70044"
 }

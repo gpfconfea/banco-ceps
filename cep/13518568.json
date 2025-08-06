@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Luzia",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-21.26998",
+  "longitude": "-50.32127"
 }

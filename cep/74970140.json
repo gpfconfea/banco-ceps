@@ -5,5 +5,7 @@
   "bairro": "Cidade Livre",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.8276964",
+  "longitude": "-49.2856643"
 }

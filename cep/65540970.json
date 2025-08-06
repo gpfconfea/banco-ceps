@@ -1,9 +1,11 @@
 {
   "cep": "65540970",
   "logradouro": "Avenida Coronel Francisco Moreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Quitéria do Maranhão",
   "uf": "MA",
-  "ibge": "2110104"
+  "ibge": "2110104",
+  "latitude": "-3.4977412",
+  "longitude": "-42.5609633"
 }

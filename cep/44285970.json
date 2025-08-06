@@ -1,9 +1,11 @@
 {
   "cep": "44285970",
   "logradouro": "Praça do Mercado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Buracica",
   "localidade": "Teodoro Sampaio",
   "uf": "BA",
-  "ibge": "2931400"
+  "ibge": "2931400",
+  "latitude": "-12.973143",
+  "longitude": "-38.5138585"
 }

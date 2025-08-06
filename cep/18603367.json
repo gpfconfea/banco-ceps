@@ -5,5 +5,7 @@
   "bairro": "Jardim Central",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-23.55132",
+  "longitude": "-46.6323359"
 }

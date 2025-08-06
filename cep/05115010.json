@@ -5,5 +5,7 @@
   "bairro": "Vila Jaguara",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.2290336",
+  "longitude": "-47.2680705"
 }

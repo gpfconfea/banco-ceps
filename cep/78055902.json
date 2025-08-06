@@ -1,9 +1,11 @@
 {
   "cep": "78055902",
   "logradouro": "Rua Interna",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Novo Paraíso",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6581144",
+  "longitude": "-56.1170275"
 }

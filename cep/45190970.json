@@ -1,9 +1,11 @@
 {
   "cep": "45190970",
   "logradouro": "Praça Valdemira Gomes dos Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Planalto",
   "uf": "BA",
-  "ibge": "2925006"
+  "ibge": "2925006",
+  "latitude": "-14.66911",
+  "longitude": "-40.47771"
 }

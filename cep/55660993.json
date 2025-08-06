@@ -1,9 +1,11 @@
 {
   "cep": "55660993",
   "logradouro": "Rua Rui Barbosa - Vila dos Remédios",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bezerros",
   "uf": "PE",
-  "ibge": "2601904"
+  "ibge": "2601904",
+  "latitude": "-8.20258",
+  "longitude": "-35.5677"
 }

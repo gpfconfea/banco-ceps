@@ -1,9 +1,11 @@
 {
   "cep": "46966970",
   "logradouro": "Rua da Estiva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Coronel Otaviano Alves",
   "localidade": "Lençóis",
   "uf": "BA",
-  "ibge": "2919306"
+  "ibge": "2919306",
+  "latitude": "-12.4967097",
+  "longitude": "-41.2960259"
 }

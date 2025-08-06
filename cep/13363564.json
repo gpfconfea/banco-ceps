@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Alto do Castelani",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-23.27501",
+  "longitude": "-45.88886"
 }

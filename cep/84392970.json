@@ -1,9 +1,11 @@
 {
   "cep": "84392970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vista Alegre",
   "localidade": "Ortigueira",
   "uf": "PR",
-  "ibge": "4117305"
+  "ibge": "4117305",
+  "latitude": "-24.3641657",
+  "longitude": "-50.8794504"
 }

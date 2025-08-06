@@ -1,9 +1,11 @@
 {
   "cep": "29405990",
   "logradouro": "Ladeira Amelia Bastos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Mimoso do Sul",
   "uf": "ES",
-  "ibge": "3203403"
+  "ibge": "3203403",
+  "latitude": "-21.0747409",
+  "longitude": "-41.4976174"
 }

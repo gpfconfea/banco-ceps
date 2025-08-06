@@ -5,5 +5,7 @@
   "bairro": "Estados",
   "localidade": "Fazenda Rio Grande",
   "uf": "PR",
-  "ibge": "4107652"
+  "ibge": "4107652",
+  "latitude": "-23.1080536",
+  "longitude": "-50.3673059"
 }

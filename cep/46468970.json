@@ -1,9 +1,11 @@
 {
   "cep": "46468970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rancho das Mães",
   "localidade": "Palmas de Monte Alto",
   "uf": "BA",
-  "ibge": "2923407"
+  "ibge": "2923407",
+  "latitude": "-14.2665839",
+  "longitude": "-43.1634955"
 }

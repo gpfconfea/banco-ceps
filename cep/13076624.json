@@ -5,5 +5,7 @@
   "bairro": "Jardim Dom Bosco",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.1970385",
+  "longitude": "-46.7435674"
 }

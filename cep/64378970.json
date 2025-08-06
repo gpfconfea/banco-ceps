@@ -1,9 +1,11 @@
 {
   "cep": "64378970",
   "logradouro": "Avenida Júlio Teixeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Miguel da Baixa Grande",
   "uf": "PI",
-  "ibge": "2210383"
+  "ibge": "2210383",
+  "latitude": "-5.865102",
+  "longitude": "-42.1889176"
 }

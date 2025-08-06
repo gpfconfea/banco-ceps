@@ -5,5 +5,7 @@
   "bairro": "Residencial Golden Village",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1537587",
+  "longitude": "-51.4046335"
 }

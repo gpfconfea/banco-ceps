@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vale Real",
   "uf": "RS",
-  "ibge": "4322541"
+  "ibge": "4322541",
+  "latitude": "-29.3968401",
+  "longitude": "-51.2580696"
 }

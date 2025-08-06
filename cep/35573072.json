@@ -5,5 +5,7 @@
   "bairro": "Vargem Grande",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-16.75071",
+  "longitude": "-43.87404"
 }

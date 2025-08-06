@@ -5,5 +5,7 @@
   "bairro": "Parque Renato Maia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4531096",
+  "longitude": "-46.531619"
 }

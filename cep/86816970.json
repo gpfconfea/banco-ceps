@@ -1,9 +1,11 @@
 {
   "cep": "86816970",
   "logradouro": "Rua Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Correia de Freitas",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5390842",
+  "longitude": "-51.4413665"
 }

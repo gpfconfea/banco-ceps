@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "latitude": "-7.7196029",
+  "longitude": "-37.8482741"
 }

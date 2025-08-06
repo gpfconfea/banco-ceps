@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Bela Vista de Goiás",
   "uf": "GO",
-  "ibge": "5203302"
+  "ibge": "5203302",
+  "latitude": "-16.9746741",
+  "longitude": "-48.9518282"
 }

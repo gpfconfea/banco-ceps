@@ -1,9 +1,11 @@
 {
   "cep": "65485970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itapecuru Mirim",
   "uf": "MA",
-  "ibge": "2105401"
+  "ibge": "2105401",
+  "latitude": "-3.4665731",
+  "longitude": "-43.9044683"
 }

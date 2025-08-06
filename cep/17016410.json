@@ -5,5 +5,7 @@
   "bairro": "Jardim Estoril III",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-23.539293",
+  "longitude": "-46.6681524"
 }

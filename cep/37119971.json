@@ -1,9 +1,11 @@
 {
   "cep": "37119971",
   "logradouro": "Avenida Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Cruz da Aparecida",
   "localidade": "Monte Belo",
   "uf": "MG",
-  "ibge": "3143005"
+  "ibge": "3143005",
+  "latitude": "-21.2469631",
+  "longitude": "-46.2813432"
 }

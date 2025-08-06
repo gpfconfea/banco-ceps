@@ -5,5 +5,7 @@
   "bairro": "Jardim Independência",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.7274391",
+  "longitude": "-47.6162592"
 }

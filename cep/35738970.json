@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Prudente de Morais",
   "uf": "MG",
-  "ibge": "3153608"
+  "ibge": "3153608",
+  "latitude": "-19.4746913",
+  "longitude": "-44.1594878"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "47450959",
   "logradouro": "Rua Antônio Mariano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Gentio do Ouro",
   "uf": "BA",
-  "ibge": "2911303"
+  "ibge": "2911303",
+  "latitude": "-11.43009",
+  "longitude": "-42.50571"
 }

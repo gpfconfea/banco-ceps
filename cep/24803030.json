@@ -5,5 +5,7 @@
   "bairro": "Engenho Velho",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "latitude": "-21.7142105",
+  "longitude": "-41.2960211"
 }

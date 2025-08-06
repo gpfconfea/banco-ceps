@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Izabel",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.1134632",
+  "longitude": "-45.704098"
 }

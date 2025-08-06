@@ -5,5 +5,7 @@
   "bairro": "Vila Mineirão",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4624108",
+  "longitude": "-47.4616502"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68145971",
   "logradouro": "Avenida Presidente Médici",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Medicilândia",
   "localidade": "Medicilândia",
   "uf": "PA",
-  "ibge": "1504455"
+  "ibge": "1504455",
+  "latitude": "-3.4459789",
+  "longitude": "-52.8907228"
 }

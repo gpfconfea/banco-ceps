@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Santiago",
   "uf": "RS",
-  "ibge": "4317400"
+  "ibge": "4317400",
+  "latitude": "-29.1724987",
+  "longitude": "-54.8839543"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alfredo Wagner",
   "uf": "SC",
-  "ibge": "4200705"
+  "ibge": "4200705",
+  "latitude": "-27.7004866",
+  "longitude": "-49.334232"
 }

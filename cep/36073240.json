@@ -5,5 +5,7 @@
   "bairro": "Terras Altas",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.769182",
+  "longitude": "-43.3072928"
 }

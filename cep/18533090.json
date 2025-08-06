@@ -6,5 +6,7 @@
   "bairro": "Parque dos Lagos",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.0875461",
+  "longitude": "-47.7170859"
 }

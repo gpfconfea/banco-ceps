@@ -6,5 +6,7 @@
   "bairro": "Biopark",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "latitude": "-24.6240479",
+  "longitude": "-53.7161581"
 }

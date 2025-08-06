@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipanema",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7653654",
+  "longitude": "-49.353626"
 }

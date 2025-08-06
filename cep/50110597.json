@@ -5,5 +5,7 @@
   "bairro": "Santo Amaro",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-3.7959295",
+  "longitude": "-38.59888"
 }

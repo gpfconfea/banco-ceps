@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iporanga",
   "uf": "SP",
-  "ibge": "3521200"
+  "ibge": "3521200",
+  "latitude": "-24.5879547",
+  "longitude": "-48.596058"
 }

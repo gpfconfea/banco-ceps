@@ -5,5 +5,7 @@
   "bairro": "Residencial Gabriel Fernandes",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.5008",
+  "longitude": "-49.42425"
 }

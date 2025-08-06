@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.7440346",
+  "longitude": "-50.3753016"
 }

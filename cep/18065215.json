@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Maria",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4850299",
+  "longitude": "-47.475336"
 }

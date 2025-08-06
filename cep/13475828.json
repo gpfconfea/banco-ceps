@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Barra do Cisne I",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-22.737075",
+  "longitude": "-47.2447741"
 }

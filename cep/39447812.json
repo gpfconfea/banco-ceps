@@ -5,5 +5,7 @@
   "bairro": "Residencial Dona Lindu",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-15.8505444",
+  "longitude": "-43.3041538"
 }

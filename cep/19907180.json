@@ -5,5 +5,7 @@
   "bairro": "Jardim Aurora",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-22.9750851",
+  "longitude": "-49.8802947"
 }

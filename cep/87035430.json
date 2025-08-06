@@ -5,5 +5,7 @@
   "bairro": "Jardim Andrade",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3873881",
+  "longitude": "-51.8967596"
 }

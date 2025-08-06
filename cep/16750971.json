@@ -1,9 +1,11 @@
 {
   "cep": "16750971",
   "logradouro": "Praça Ulisses Raimundo de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caramuru",
   "localidade": "Rubiácea",
   "uf": "SP",
-  "ibge": "3544400"
+  "ibge": "3544400",
+  "latitude": "-23.1856139",
+  "longitude": "-46.8751569"
 }

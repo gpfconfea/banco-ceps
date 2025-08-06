@@ -5,5 +5,7 @@
   "bairro": "Residencial Monte Alegre",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-23.1982762",
+  "longitude": "-46.7783486"
 }

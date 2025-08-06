@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora Aparecida",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2561599",
+  "longitude": "-47.3165513"
 }

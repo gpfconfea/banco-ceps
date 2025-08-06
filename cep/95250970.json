@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Antônio Prado",
   "uf": "RS",
-  "ibge": "4300802"
+  "ibge": "4300802",
+  "latitude": "-28.8583061",
+  "longitude": "-51.2812447"
 }

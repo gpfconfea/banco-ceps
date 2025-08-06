@@ -1,9 +1,11 @@
 {
   "cep": "29278988",
   "logradouro": "Rodovia Pedro Cola",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aracê",
   "localidade": "Domingos Martins",
   "uf": "ES",
-  "ibge": "3201902"
+  "ibge": "3201902",
+  "latitude": "-20.3871484",
+  "longitude": "-40.9970996"
 }

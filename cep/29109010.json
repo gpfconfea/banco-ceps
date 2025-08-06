@@ -5,5 +5,7 @@
   "bairro": "Jardim Guadalajara",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3389556",
+  "longitude": "-40.2951096"
 }

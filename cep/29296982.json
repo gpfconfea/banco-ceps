@@ -1,9 +1,11 @@
 {
   "cep": "29296982",
   "logradouro": "Rua Eugênio Fassarella",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto Castelinho",
   "localidade": "Vargem Alta",
   "uf": "ES",
-  "ibge": "3205036"
+  "ibge": "3205036",
+  "latitude": "-20.5260585",
+  "longitude": "-40.9865764"
 }

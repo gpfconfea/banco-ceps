@@ -1,9 +1,11 @@
 {
   "cep": "58818959",
   "logradouro": "Rua Josué Alves Casimiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Francisco",
   "uf": "PB",
-  "ibge": "2513984"
+  "ibge": "2513984",
+  "latitude": "-6.618806",
+  "longitude": "-38.0965483"
 }

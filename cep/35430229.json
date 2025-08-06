@@ -5,5 +5,7 @@
   "bairro": "Palmeiras",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.409417",
+  "longitude": "-42.89412"
 }

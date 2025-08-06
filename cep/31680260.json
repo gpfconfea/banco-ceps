@@ -5,5 +5,7 @@
   "bairro": "Maria Helena",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.7966831",
+  "longitude": "-43.996439"
 }

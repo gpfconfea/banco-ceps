@@ -1,9 +1,11 @@
 {
   "cep": "55730972",
   "logradouro": "Rua da Alegria",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Umari",
   "localidade": "Bom Jardim",
   "uf": "PE",
-  "ibge": "2602209"
+  "ibge": "2602209",
+  "latitude": "-3.5516884",
+  "longitude": "-45.604434"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "latitude": "-22.6109027",
+  "longitude": "-43.282434"
 }

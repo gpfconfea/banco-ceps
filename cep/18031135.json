@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Guaporé",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5204428",
+  "longitude": "-47.4594954"
 }

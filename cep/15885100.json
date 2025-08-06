@@ -6,5 +6,7 @@
   "bairro": "Residencial Morada Nova Flausinos",
   "localidade": "Novais",
   "uf": "SP",
-  "ibge": "3533254"
+  "ibge": "3533254",
+  "latitude": "-20.993632",
+  "longitude": "-48.921911"
 }

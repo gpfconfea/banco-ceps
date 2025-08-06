@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.114704",
+  "longitude": "-46.5528944"
 }

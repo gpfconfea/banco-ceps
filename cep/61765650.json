@@ -5,5 +5,7 @@
   "bairro": "Cidade Alpha",
   "localidade": "Eusébio",
   "uf": "CE",
-  "ibge": "2304285"
+  "ibge": "2304285",
+  "latitude": "-3.8288596",
+  "longitude": "-38.4264569"
 }

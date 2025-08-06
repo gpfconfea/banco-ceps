@@ -5,5 +5,7 @@
   "bairro": "São Vicente de Paulo",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "latitude": "-19.5909944",
+  "longitude": "-46.9454986"
 }

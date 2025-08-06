@@ -5,5 +5,7 @@
   "bairro": "Jardim Rubi",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.56757",
+  "longitude": "-46.1883241"
 }

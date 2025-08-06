@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Rancharia",
   "uf": "SP",
-  "ibge": "3542206"
+  "ibge": "3542206",
+  "latitude": "-22.2297525",
+  "longitude": "-50.8960534"
 }

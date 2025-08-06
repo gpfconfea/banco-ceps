@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Rondonópolis",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "latitude": "-16.4676432",
+  "longitude": "-54.6344531"
 }

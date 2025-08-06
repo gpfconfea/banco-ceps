@@ -5,5 +5,7 @@
   "bairro": "Morro do Algodão",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.674389",
+  "longitude": "-45.4524634"
 }

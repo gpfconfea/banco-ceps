@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Salesópolis",
   "uf": "SP",
-  "ibge": "3545001"
+  "ibge": "3545001",
+  "latitude": "-23.528805",
+  "longitude": "-45.84653"
 }

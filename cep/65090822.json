@@ -5,5 +5,7 @@
   "bairro": "Maracanã",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.6025696",
+  "longitude": "-44.1944604"
 }

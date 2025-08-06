@@ -1,9 +1,11 @@
 {
   "cep": "63760976",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Holanda",
   "localidade": "Tamboril",
   "uf": "CE",
-  "ibge": "2313203"
+  "ibge": "2313203",
+  "latitude": "-3.724712",
+  "longitude": "-38.524421"
 }

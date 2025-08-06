@@ -5,5 +5,7 @@
   "bairro": "Nova Eunápolis",
   "localidade": "Eunápolis",
   "uf": "BA",
-  "ibge": "2910727"
+  "ibge": "2910727",
+  "latitude": "-16.3314326",
+  "longitude": "-39.580321"
 }

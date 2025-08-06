@@ -5,5 +5,7 @@
   "bairro": "Nova Londrina",
   "localidade": "Ariquemes",
   "uf": "RO",
-  "ibge": "1100023"
+  "ibge": "1100023",
+  "latitude": "-11.4443217",
+  "longitude": "-61.4482557"
 }

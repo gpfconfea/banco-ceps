@@ -1,9 +1,11 @@
 {
   "cep": "78585970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Mutum",
   "localidade": "Alta Floresta",
   "uf": "MT",
-  "ibge": "5100250"
+  "ibge": "5100250",
+  "latitude": "-9.8973445",
+  "longitude": "-56.0878485"
 }

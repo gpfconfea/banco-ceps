@@ -1,9 +1,11 @@
 {
   "cep": "55410959",
   "logradouro": "Avenida Alcides Cordeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Benedito do Sul",
   "uf": "PE",
-  "ibge": "2612901"
+  "ibge": "2612901",
+  "latitude": "-8.8036217",
+  "longitude": "-35.9201349"
 }

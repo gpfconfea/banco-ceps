@@ -5,5 +5,7 @@
   "bairro": "Parelheiros",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.8284759",
+  "longitude": "-46.7300661"
 }

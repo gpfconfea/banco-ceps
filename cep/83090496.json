@@ -5,5 +5,7 @@
   "bairro": "Jurema",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "-25.6231232",
+  "longitude": "-49.1353295"
 }

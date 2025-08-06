@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Terezinha",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3202399",
+  "longitude": "-48.978507"
 }

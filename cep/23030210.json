@@ -5,5 +5,7 @@
   "bairro": "Guaratiba",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.7423776",
+  "longitude": "-43.4463239"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Rica",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-20.7154376",
+  "longitude": "-46.6007143"
 }

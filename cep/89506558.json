@@ -5,5 +5,7 @@
   "bairro": "Santa Catarina",
   "localidade": "Caçador",
   "uf": "SC",
-  "ibge": "4203006"
+  "ibge": "4203006",
+  "latitude": "-26.760777",
+  "longitude": "-51.0234038"
 }

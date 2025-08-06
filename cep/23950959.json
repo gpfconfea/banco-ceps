@@ -1,9 +1,11 @@
 {
   "cep": "23950959",
   "logradouro": "Avenida C",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Praia Brava (Mambucaba)",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "latitude": "-23.0060768",
+  "longitude": "-44.4820266"
 }

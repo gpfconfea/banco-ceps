@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Urucânia",
   "uf": "MG",
-  "ibge": "3170503"
+  "ibge": "3170503",
+  "latitude": "-20.35183",
+  "longitude": "-42.74196"
 }

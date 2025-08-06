@@ -1,9 +1,11 @@
 {
   "cep": "44895973",
   "logradouro": "Travessa São Sebastião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa Funda",
   "localidade": "Barro Alto",
   "uf": "BA",
-  "ibge": "2903235"
+  "ibge": "2903235",
+  "latitude": "-11.9636161",
+  "longitude": "-41.6421534"
 }

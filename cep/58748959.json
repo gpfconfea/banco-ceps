@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Água Branca",
   "uf": "PB",
-  "ibge": "2500106"
+  "ibge": "2500106",
+  "latitude": "-7.5167544",
+  "longitude": "-37.6389862"
 }

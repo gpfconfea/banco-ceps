@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Camargo",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.0774642",
+  "longitude": "-48.9158968"
 }

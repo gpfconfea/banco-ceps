@@ -5,5 +5,7 @@
   "bairro": "Reserva Celeste",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "latitude": "-11.8886055",
+  "longitude": "-55.4770366"
 }

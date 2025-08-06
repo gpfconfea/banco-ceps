@@ -5,5 +5,7 @@
   "bairro": "Jardim Belcito",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.3683801",
+  "longitude": "-46.9398623"
 }
