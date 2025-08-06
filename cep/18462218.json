@@ -5,5 +5,7 @@
   "bairro": "Jardim Fronteira",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-23.60324",
+  "longitude": "-47.16871"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "São Patrício",
   "uf": "GO",
-  "ibge": "5220280"
+  "ibge": "5220280",
+  "latitude": "-15.35256",
+  "longitude": "-49.82215"
 }

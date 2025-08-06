@@ -5,5 +5,7 @@
   "bairro": "Santa Rita de Cássia",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.955168",
+  "longitude": "-43.9411329"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Lenheiro",
   "localidade": "São João Del Rei",
   "uf": "MG",
-  "ibge": "3162500"
+  "ibge": "3162500",
+  "latitude": "-21.1436347",
+  "longitude": "-44.2825865"
 }

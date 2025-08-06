@@ -1,9 +1,11 @@
 {
   "cep": "56220973",
   "logradouro": "Rua Deputado Juvenal Pinto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Feitoria",
   "localidade": "Bodocó",
   "uf": "PE",
-  "ibge": "2602001"
+  "ibge": "2602001",
+  "latitude": "-27.5870468",
+  "longitude": "-50.3619235"
 }

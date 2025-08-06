@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Guarita",
   "uf": "MT",
-  "ibge": "5108808"
+  "ibge": "5108808",
+  "latitude": "-10.3124906",
+  "longitude": "-55.4067209"
 }

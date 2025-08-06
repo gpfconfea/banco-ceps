@@ -5,5 +5,7 @@
   "bairro": "Setor União",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7087579",
+  "longitude": "-49.3015962"
 }

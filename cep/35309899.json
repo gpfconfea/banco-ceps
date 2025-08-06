@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Caratinga",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "latitude": "-19.7905476",
+  "longitude": "-42.1381556"
 }

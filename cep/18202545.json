@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5887122",
+  "longitude": "-48.0161274"
 }

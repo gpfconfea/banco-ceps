@@ -1,9 +1,11 @@
 {
   "cep": "95307970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Sebastião",
   "localidade": "Ibiraiaras",
   "uf": "RS",
-  "ibge": "4309902"
+  "ibge": "4309902",
+  "latitude": "-28.3701199",
+  "longitude": "-51.6359377"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Marcos",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-22.9563088",
+  "longitude": "-46.99622"
 }

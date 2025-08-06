@@ -5,5 +5,7 @@
   "bairro": "Compensa",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-25.5148586",
+  "longitude": "-54.5777456"
 }

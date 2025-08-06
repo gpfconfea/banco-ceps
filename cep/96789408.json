@@ -5,5 +5,7 @@
   "bairro": "Jardim",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-30.8627431",
+  "longitude": "-51.816922"
 }

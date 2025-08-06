@@ -5,5 +5,7 @@
   "bairro": "Jardim Filadélfia",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "latitude": "-8.849026",
+  "longitude": "-48.503523"
 }

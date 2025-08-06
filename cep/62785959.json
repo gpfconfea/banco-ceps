@@ -1,9 +1,11 @@
 {
   "cep": "62785959",
   "logradouro": "Rua José Guilherme",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Acarape",
   "uf": "CE",
-  "ibge": "2300150"
+  "ibge": "2300150",
+  "latitude": "-4.22439",
+  "longitude": "-38.70521"
 }

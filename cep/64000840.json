@@ -5,5 +5,7 @@
   "bairro": "Cabral",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-23.507898",
+  "longitude": "-46.768115"
 }

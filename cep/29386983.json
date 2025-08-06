@@ -1,9 +1,11 @@
 {
   "cep": "29386983",
   "logradouro": "Rua Hermínio Machado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Piaçu",
   "localidade": "Muniz Freire",
   "uf": "ES",
-  "ibge": "3203700"
+  "ibge": "3203700",
+  "latitude": "-22.0806839",
+  "longitude": "-51.4712933"
 }

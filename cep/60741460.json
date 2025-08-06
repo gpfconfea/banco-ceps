@@ -5,5 +5,7 @@
   "bairro": "Serrinha",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.0315907",
+  "longitude": "-41.241446"
 }

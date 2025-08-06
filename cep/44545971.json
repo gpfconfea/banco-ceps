@@ -1,9 +1,11 @@
 {
   "cep": "44545971",
   "logradouro": "Rua Jaguaripe",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Comércio",
   "localidade": "Conceição do Almeida",
   "uf": "BA",
-  "ibge": "2908309"
+  "ibge": "2908309",
+  "latitude": "-12.8092187",
+  "longitude": "-39.2764356"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-28.2942331",
+  "longitude": "-49.9356359"
 }

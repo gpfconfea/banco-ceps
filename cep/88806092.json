@@ -6,5 +6,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6997961",
+  "longitude": "-49.432825"
 }

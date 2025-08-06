@@ -5,5 +5,7 @@
   "bairro": "Jardim Scyntila",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.5204169",
+  "longitude": "-46.6620361"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gália",
   "uf": "SP",
-  "ibge": "3516606"
+  "ibge": "3516606",
+  "latitude": "-22.289343",
+  "longitude": "-49.5550855"
 }

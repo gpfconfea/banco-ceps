@@ -5,5 +5,7 @@
   "bairro": "Novo Jardim",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-16.36854",
+  "longitude": "-46.88291"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "latitude": "-27.6392026",
+  "longitude": "-52.2823129"
 }

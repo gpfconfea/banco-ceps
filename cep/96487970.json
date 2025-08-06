@@ -1,9 +1,11 @@
 {
   "cep": "96487970",
   "logradouro": "Praça Silveira Martins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pedras Altas",
   "uf": "RS",
-  "ibge": "4314175"
+  "ibge": "4314175",
+  "latitude": "-31.3313836",
+  "longitude": "-54.1060756"
 }

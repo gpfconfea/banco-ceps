@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lucianópolis",
   "uf": "SP",
-  "ibge": "3527504"
+  "ibge": "3527504",
+  "latitude": "-22.4303231",
+  "longitude": "-49.5231875"
 }

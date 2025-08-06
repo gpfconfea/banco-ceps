@@ -1,9 +1,11 @@
 {
   "cep": "62375975",
   "logradouro": "Estrada Sítio São Bernardo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Carnaubal",
   "uf": "CE",
-  "ibge": "2303402"
+  "ibge": "2303402",
+  "latitude": "-4.6861",
+  "longitude": "-39.02125"
 }

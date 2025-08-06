@@ -5,5 +5,7 @@
   "bairro": "Residencial Ecopark",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-22.9407728",
+  "longitude": "-46.5331398"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Taquari (Taquaralto)",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "latitude": "-10.256587",
+  "longitude": "-48.322741"
 }

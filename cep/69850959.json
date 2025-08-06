@@ -1,9 +1,11 @@
 {
   "cep": "69850959",
   "logradouro": "Rua CA 02",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Platô do Piquiá",
   "localidade": "Boca do Acre",
   "uf": "AM",
-  "ibge": "1300706"
+  "ibge": "1300706",
+  "latitude": "-8.73814",
+  "longitude": "-67.40234"
 }

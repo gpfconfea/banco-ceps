@@ -1,9 +1,11 @@
 {
   "cep": "45305970",
   "logradouro": "Rua Quinze de Novembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Elísio Medrado",
   "uf": "BA",
-  "ibge": "2910305"
+  "ibge": "2910305",
+  "latitude": "-12.9470004",
+  "longitude": "-39.5238053"
 }

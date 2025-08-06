@@ -5,5 +5,7 @@
   "bairro": "Santa Mariana",
   "localidade": "Pirapora",
   "uf": "MG",
-  "ibge": "3151206"
+  "ibge": "3151206",
+  "latitude": "-17.6060096",
+  "longitude": "-44.7386344"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Sítio Santo Antônio",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0099425",
+  "longitude": "-45.5231518"
 }

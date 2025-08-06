@@ -1,9 +1,11 @@
 {
   "cep": "35961971",
   "logradouro": "Rua Carlos Antônio Pereira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Florália",
   "localidade": "Santa Bárbara",
   "uf": "MG",
-  "ibge": "3157203"
+  "ibge": "3157203",
+  "latitude": "-19.9496963",
+  "longitude": "-43.3144354"
 }

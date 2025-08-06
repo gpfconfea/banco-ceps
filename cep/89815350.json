@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.1392517",
+  "longitude": "-52.6289691"
 }

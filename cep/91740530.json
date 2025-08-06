@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.1090179",
+  "longitude": "-51.209276"
 }

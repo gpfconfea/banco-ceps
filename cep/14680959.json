@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jardinópolis",
   "uf": "SP",
-  "ibge": "3525102"
+  "ibge": "3525102",
+  "latitude": "-21.0231012",
+  "longitude": "-47.7708421"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65209970",
   "logradouro": "Avenida Prinicipal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Curva Grande",
   "localidade": "Santa Helena",
   "uf": "MA",
-  "ibge": "2109809"
+  "ibge": "2109809",
+  "latitude": "-2.91838",
+  "longitude": "-42.07916"
 }

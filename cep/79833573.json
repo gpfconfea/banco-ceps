@@ -5,5 +5,7 @@
   "bairro": "Caiman",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.2175039",
+  "longitude": "-54.7535727"
 }

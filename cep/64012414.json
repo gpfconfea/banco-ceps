@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.2903489",
+  "longitude": "-41.9322807"
 }

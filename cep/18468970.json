@@ -1,9 +1,11 @@
 {
   "cep": "18468970",
   "logradouro": "Rua João de Genaro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Santa Cruz dos Lopes)",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-23.9496079",
+  "longitude": "-49.4963164"
 }

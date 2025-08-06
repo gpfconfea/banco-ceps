@@ -1,9 +1,11 @@
 {
   "cep": "49230970",
   "logradouro": "Praça Getulio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Luzia do Itanhy",
   "uf": "SE",
-  "ibge": "2806305"
+  "ibge": "2806305",
+  "latitude": "-11.3506711",
+  "longitude": "-37.4484808"
 }

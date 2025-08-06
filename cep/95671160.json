@@ -5,5 +5,7 @@
   "bairro": "Piratini",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "latitude": "-29.379331",
+  "longitude": "-50.8799863"
 }

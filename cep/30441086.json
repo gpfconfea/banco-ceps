@@ -5,5 +5,7 @@
   "bairro": "Gutierrez",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9366983",
+  "longitude": "-43.9565391"
 }

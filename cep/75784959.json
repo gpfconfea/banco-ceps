@@ -5,5 +5,7 @@
   "bairro": "Domiciano Ribeiro",
   "localidade": "Ipameri",
   "uf": "GO",
-  "ibge": "5210109"
+  "ibge": "5210109",
+  "latitude": "-16.67038",
+  "longitude": "-49.25452"
 }

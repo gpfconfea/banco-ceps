@@ -5,5 +5,7 @@
   "bairro": "Henrique Jorge",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-22.3420691",
+  "longitude": "-49.0909719"
 }

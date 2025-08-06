@@ -1,9 +1,11 @@
 {
   "cep": "45295970",
   "logradouro": "Rua Ruy Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Água Doce",
   "localidade": "Ibicuí",
   "uf": "BA",
-  "ibge": "2912301"
+  "ibge": "2912301",
+  "latitude": "-14.8436476",
+  "longitude": "-39.9867646"
 }

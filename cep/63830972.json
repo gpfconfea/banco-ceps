@@ -1,9 +1,11 @@
 {
   "cep": "63830972",
   "logradouro": "Vila Manituba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Manituba",
   "localidade": "Quixeramobim",
   "uf": "CE",
-  "ibge": "2311405"
+  "ibge": "2311405",
+  "latitude": "-5.22658",
+  "longitude": "-39.569827"
 }

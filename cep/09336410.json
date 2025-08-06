@@ -5,5 +5,7 @@
   "bairro": "Chácara do Carneiro",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.66471",
+  "longitude": "-46.44478"
 }

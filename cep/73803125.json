@@ -5,5 +5,7 @@
   "bairro": "Setor Industrial II",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "-15.5448172",
+  "longitude": "-47.3522843"
 }

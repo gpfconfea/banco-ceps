@@ -1,9 +1,11 @@
 {
   "cep": "55748971",
   "logradouro": "Rua Manoel Borba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito de Chá do Rocha",
   "localidade": "Orobó",
   "uf": "PE",
-  "ibge": "2609709"
+  "ibge": "2609709",
+  "latitude": "-7.6570318",
+  "longitude": "-35.5670576"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "89173971",
   "logradouro": "Rua Fortunato Fronza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aterrado Torto",
   "localidade": "Pouso Redondo",
   "uf": "SC",
-  "ibge": "4213708"
+  "ibge": "4213708",
+  "latitude": "-27.271566",
+  "longitude": "-49.8833567"
 }

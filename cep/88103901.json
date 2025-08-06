@@ -1,9 +1,11 @@
 {
   "cep": "88103901",
   "logradouro": "Rua Adolfo Donato da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Praia Comprida",
   "localidade": "São José",
   "uf": "SC",
-  "ibge": "4216602"
+  "ibge": "4216602",
+  "latitude": "-27.6075872",
+  "longitude": "-48.6302788"
 }

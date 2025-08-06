@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibiassucê",
   "uf": "BA",
-  "ibge": "2912004"
+  "ibge": "2912004",
+  "latitude": "-14.2725",
+  "longitude": "-42.2581"
 }

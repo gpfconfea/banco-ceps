@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vargem Alegre",
   "uf": "MG",
-  "ibge": "3170578"
+  "ibge": "3170578",
+  "latitude": "-19.6070413",
+  "longitude": "-42.2997922"
 }

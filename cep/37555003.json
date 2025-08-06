@@ -5,5 +5,7 @@
   "bairro": "Fátima III",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-23.1389623",
+  "longitude": "-45.7741702"
 }

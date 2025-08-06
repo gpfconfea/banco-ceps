@@ -5,5 +5,7 @@
   "bairro": "Santa Paula",
   "localidade": "São Caetano do Sul",
   "uf": "SP",
-  "ibge": "3548807"
+  "ibge": "3548807",
+  "latitude": "-29.3837245",
+  "longitude": "-51.9237121"
 }

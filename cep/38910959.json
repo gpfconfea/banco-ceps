@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iguatama",
   "uf": "MG",
-  "ibge": "3130309"
+  "ibge": "3130309",
+  "latitude": "-20.1744356",
+  "longitude": "-45.7124506"
 }

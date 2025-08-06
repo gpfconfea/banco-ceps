@@ -5,5 +5,7 @@
   "bairro": "Jardim Diamante",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3731878",
+  "longitude": "-51.9458714"
 }

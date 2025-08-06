@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lassance",
   "uf": "MG",
-  "ibge": "3138104"
+  "ibge": "3138104",
+  "latitude": "-17.8867811",
+  "longitude": "-44.5765427"
 }

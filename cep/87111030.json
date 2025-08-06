@@ -5,5 +5,7 @@
   "bairro": "Jardim Perimetral",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-29.9963305",
+  "longitude": "-51.1318648"
 }

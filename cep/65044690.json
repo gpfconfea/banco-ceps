@@ -5,5 +5,7 @@
   "bairro": "Coroadinho",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-5.5407334",
+  "longitude": "-47.4801478"
 }

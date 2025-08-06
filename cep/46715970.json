@@ -1,9 +1,11 @@
 {
   "cep": "46715970",
   "logradouro": "Travessa do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Olhos D'Água do Seco",
   "localidade": "Ibitiara",
   "uf": "BA",
-  "ibge": "2913002"
+  "ibge": "2913002",
+  "latitude": "-11.29587",
+  "longitude": "-41.98724"
 }

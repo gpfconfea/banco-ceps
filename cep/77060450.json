@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Helena",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "latitude": "-7.1538567",
+  "longitude": "-48.6912566"
 }

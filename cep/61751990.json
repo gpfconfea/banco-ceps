@@ -1,9 +1,11 @@
 {
   "cep": "61751990",
   "logradouro": "Rua Rufino C. de Assunção",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Aquiraz",
   "uf": "CE",
-  "ibge": "2301000"
+  "ibge": "2301000",
+  "latitude": "-4.07041",
+  "longitude": "-38.43562"
 }

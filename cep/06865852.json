@@ -5,5 +5,7 @@
   "bairro": "Jardim do Carmo III",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.71948",
+  "longitude": "-46.85974"
 }

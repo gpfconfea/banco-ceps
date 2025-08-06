@@ -1,9 +1,11 @@
 {
   "cep": "63268974",
   "logradouro": "Rua Teleceará",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Poço",
   "localidade": "Brejo Santo",
   "uf": "CE",
-  "ibge": "2302503"
+  "ibge": "2302503",
+  "latitude": "-7.4720506",
+  "longitude": "-38.9368255"
 }

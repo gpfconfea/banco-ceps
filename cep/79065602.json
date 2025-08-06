@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Jerusalém",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.5422536",
+  "longitude": "-54.5729646"
 }

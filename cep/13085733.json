@@ -5,5 +5,7 @@
   "bairro": "Village Campinas",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.7526909",
+  "longitude": "-47.0526454"
 }

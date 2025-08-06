@@ -1,9 +1,11 @@
 {
   "cep": "37062900",
   "logradouro": "Rua Santa Clara",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Urupês",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-20.7132954",
+  "longitude": "-46.6044303"
 }

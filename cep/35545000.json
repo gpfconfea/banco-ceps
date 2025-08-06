@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Perdigão",
   "uf": "MG",
-  "ibge": "3149705"
+  "ibge": "3149705",
+  "latitude": "-19.953056",
+  "longitude": "-45.084166"
 }

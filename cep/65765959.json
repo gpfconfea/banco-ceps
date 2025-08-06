@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dom Pedro",
   "uf": "MA",
-  "ibge": "2103802"
+  "ibge": "2103802",
+  "latitude": "-5.0404593",
+  "longitude": "-44.4382893"
 }

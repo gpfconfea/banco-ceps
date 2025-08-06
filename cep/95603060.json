@@ -5,5 +5,7 @@
   "bairro": "Santa Teresinha",
   "localidade": "Taquara",
   "uf": "RS",
-  "ibge": "4321204"
+  "ibge": "4321204",
+  "latitude": "-22.93879",
+  "longitude": "-43.3698881"
 }

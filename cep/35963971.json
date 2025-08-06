@@ -1,9 +1,11 @@
 {
   "cep": "35963971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra Feliz",
   "localidade": "Santa Bárbara",
   "uf": "MG",
-  "ibge": "3157203"
+  "ibge": "3157203",
+  "latitude": "-19.9632026",
+  "longitude": "-43.4607698"
 }

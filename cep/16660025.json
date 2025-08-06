@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pongaí",
   "uf": "SP",
-  "ibge": "3540101"
+  "ibge": "3540101",
+  "latitude": "-21.7386815",
+  "longitude": "-49.3582782"
 }

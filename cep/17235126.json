@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Itapuí",
   "uf": "SP",
-  "ibge": "3522901"
+  "ibge": "3522901",
+  "latitude": "-22.2378421",
+  "longitude": "-48.7330498"
 }

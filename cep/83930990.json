@@ -1,9 +1,11 @@
 {
   "cep": "83930990",
   "logradouro": "Rua João Toporowicz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São Mateus do Sul",
   "uf": "PR",
-  "ibge": "4125605"
+  "ibge": "4125605",
+  "latitude": "-25.86559",
+  "longitude": "-50.41508"
 }

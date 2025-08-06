@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Canaã dos Carajás",
   "uf": "PA",
-  "ibge": "1502152"
+  "ibge": "1502152",
+  "latitude": "-6.54624",
+  "longitude": "-49.85331"
 }

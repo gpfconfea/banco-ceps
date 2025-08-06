@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campos Novos Paulista",
   "uf": "SP",
-  "ibge": "3509809"
+  "ibge": "3509809",
+  "latitude": "-22.601952",
+  "longitude": "-49.998726"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44359970",
   "logradouro": "Praça Quixabeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Quixabeira",
   "uf": "BA",
-  "ibge": "2925931"
+  "ibge": "2925931",
+  "latitude": "-11.4129542",
+  "longitude": "-40.1282724"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bairu",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.7400617",
+  "longitude": "-43.3482745"
 }

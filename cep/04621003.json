@@ -5,5 +5,7 @@
   "bairro": "Brooklin Paulista",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4950624",
+  "longitude": "-46.5571848"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Diana",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.185462",
+  "longitude": "-49.392871"
 }

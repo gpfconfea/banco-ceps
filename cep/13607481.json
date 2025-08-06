@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo André",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "latitude": "-22.3686286",
+  "longitude": "-47.3672231"
 }

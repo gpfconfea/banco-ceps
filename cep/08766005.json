@@ -5,5 +5,7 @@
   "bairro": "Conjunto Bom Pastor",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.5730043",
+  "longitude": "-46.2059592"
 }

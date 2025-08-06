@@ -1,9 +1,11 @@
 {
   "cep": "49512970",
   "logradouro": "Rua Capitão José Florencio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pedra Mole",
   "uf": "SE",
-  "ibge": "2805000"
+  "ibge": "2805000",
+  "latitude": "-10.6138719",
+  "longitude": "-37.692531"
 }

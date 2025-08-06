@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fagundes",
   "uf": "PB",
-  "ibge": "2506103"
+  "ibge": "2506103",
+  "latitude": "-7.3582688",
+  "longitude": "-35.7868519"
 }

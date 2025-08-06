@@ -5,5 +5,7 @@
   "bairro": "Ponte Nova",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.8491968",
+  "longitude": "-46.3288407"
 }

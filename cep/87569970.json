@@ -1,9 +1,11 @@
 {
   "cep": "87569970",
   "logradouro": "Praça Paulo Stanisoski",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jangada",
   "localidade": "Cafezal do Sul",
   "uf": "PR",
-  "ibge": "4103479"
+  "ibge": "4103479",
+  "latitude": "-23.925967",
+  "longitude": "-53.5419225"
 }

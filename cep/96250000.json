@@ -5,5 +5,7 @@
   "bairro": "Mirim",
   "localidade": "Santa Vitória do Palmar",
   "uf": "RS",
-  "ibge": "4317301"
+  "ibge": "4317301",
+  "latitude": "-33.0457283",
+  "longitude": "-53.1279429"
 }

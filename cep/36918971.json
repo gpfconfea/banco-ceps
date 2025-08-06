@@ -1,9 +1,11 @@
 {
   "cep": "36918971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pontões",
   "localidade": "São João do Manhuaçu",
   "uf": "MG",
-  "ibge": "3162559"
+  "ibge": "3162559",
+  "latitude": "-20.3910211",
+  "longitude": "-42.1507546"
 }

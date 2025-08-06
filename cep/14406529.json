@@ -5,5 +5,7 @@
   "bairro": "Vila Rezende",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5304253",
+  "longitude": "-47.4300452"
 }

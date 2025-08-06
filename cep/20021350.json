@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8745315",
+  "longitude": "-43.0754881"
 }

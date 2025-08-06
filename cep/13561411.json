@@ -5,5 +5,7 @@
   "bairro": "Swiss Park Residencial",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-22.0196909",
+  "longitude": "-47.9177657"
 }

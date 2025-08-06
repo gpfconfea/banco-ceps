@@ -1,9 +1,11 @@
 {
   "cep": "86947970",
   "logradouro": "Rua Manoel Lago Figueiredo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mariza",
   "localidade": "São Pedro do Ivaí",
   "uf": "PR",
-  "ibge": "4125803"
+  "ibge": "4125803",
+  "latitude": "-23.7712858",
+  "longitude": "-51.9353788"
 }

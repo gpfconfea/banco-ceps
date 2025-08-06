@@ -6,5 +6,7 @@
   "bairro": "Vila São Paulo",
   "localidade": "Teodoro Sampaio",
   "uf": "SP",
-  "ibge": "3554300"
+  "ibge": "3554300",
+  "latitude": "-22.5296685",
+  "longitude": "-52.1771871"
 }

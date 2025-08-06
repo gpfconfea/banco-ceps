@@ -1,9 +1,11 @@
 {
   "cep": "42807902",
   "logradouro": "Avenida Octávio Mangabeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Maria",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.97577",
+  "longitude": "-38.42075"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Asturias",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.2826182",
+  "longitude": "-46.7616471"
 }

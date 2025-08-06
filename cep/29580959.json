@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dores do Rio Preto",
   "uf": "ES",
-  "ibge": "3202009"
+  "ibge": "3202009",
+  "latitude": "-20.69468",
+  "longitude": "-41.85042"
 }

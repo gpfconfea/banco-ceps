@@ -5,5 +5,7 @@
   "bairro": "Bexiga",
   "localidade": "Rio Pardo",
   "uf": "RS",
-  "ibge": "4315701"
+  "ibge": "4315701",
+  "latitude": "-29.9829244",
+  "longitude": "-52.6184506"
 }

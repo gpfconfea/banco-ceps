@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Barreiro",
   "uf": "RS",
-  "ibge": "4313490"
+  "ibge": "4313490",
+  "latitude": "-27.9012604",
+  "longitude": "-53.1226212"
 }

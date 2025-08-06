@@ -5,5 +5,7 @@
   "bairro": "Jardim Natália",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1815913",
+  "longitude": "-46.9831203"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Floresta II",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6786317",
+  "longitude": "-49.4017387"
 }

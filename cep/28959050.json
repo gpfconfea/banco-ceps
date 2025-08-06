@@ -6,5 +6,7 @@
   "bairro": "Baía Formosa",
   "localidade": "Armação dos Búzios",
   "uf": "RJ",
-  "ibge": "3300233"
+  "ibge": "3300233",
+  "latitude": "-22.79499",
+  "longitude": "-41.97961"
 }

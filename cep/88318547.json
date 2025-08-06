@@ -5,5 +5,7 @@
   "bairro": "Limoeiro",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "latitude": "-27.0447772",
+  "longitude": "-48.8454664"
 }

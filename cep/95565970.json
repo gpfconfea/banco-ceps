@@ -1,9 +1,11 @@
 {
   "cep": "95565970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Glória",
   "localidade": "Torres",
   "uf": "RS",
-  "ibge": "4321501"
+  "ibge": "4321501",
+  "latitude": "-11.8771299",
+  "longitude": "-77.0662498"
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio Nova Aliança Premium",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-15.35587",
+  "longitude": "-49.70768"
 }

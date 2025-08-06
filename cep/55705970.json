@@ -1,9 +1,11 @@
 {
   "cep": "55705970",
   "logradouro": "Vila Uruçuba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Limoeiro",
   "uf": "PE",
-  "ibge": "2608909"
+  "ibge": "2608909",
+  "latitude": "-7.817647",
+  "longitude": "-35.408628"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.091164",
+  "longitude": "-47.6960791"
 }

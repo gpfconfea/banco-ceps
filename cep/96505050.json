@@ -5,5 +5,7 @@
   "bairro": "Quinta da Boa Vista",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "latitude": "-29.9987432",
+  "longitude": "-52.9043004"
 }

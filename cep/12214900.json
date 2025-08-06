@@ -1,9 +1,11 @@
 {
   "cep": "12214900",
   "logradouro": "Rua Jaguari",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Altos de Santana",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.1576218",
+  "longitude": "-45.9110835"
 }
