@@ -5,5 +5,7 @@
   "bairro": "Jardim Cidade Nova",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-21.555718",
+  "longitude": "-45.4214877"
 }

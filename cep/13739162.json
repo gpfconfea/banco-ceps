@@ -5,5 +5,7 @@
   "bairro": "Loteamento Pôr do Sol I",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-23.19014",
+  "longitude": "-47.28791"
 }

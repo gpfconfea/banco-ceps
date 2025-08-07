@@ -5,5 +5,7 @@
   "bairro": "Conradinho",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-6.4184603",
+  "longitude": "-38.2639269"
 }

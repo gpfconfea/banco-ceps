@@ -5,5 +5,7 @@
   "bairro": "Parque Primavera",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-22.6602718",
+  "longitude": "-47.6545511"
 }

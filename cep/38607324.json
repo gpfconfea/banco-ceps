@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Paracatu",
   "uf": "MG",
-  "ibge": "3147006"
+  "ibge": "3147006",
+  "latitude": "-17.2159861",
+  "longitude": "-46.855895"
 }

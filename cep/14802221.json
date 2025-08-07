@@ -5,5 +5,7 @@
   "bairro": "Villa Dei Fiori Residencial",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.2132078",
+  "longitude": "-47.7880157"
 }

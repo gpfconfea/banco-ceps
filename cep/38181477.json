@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "latitude": "-20.53532",
+  "longitude": "-43.55083"
 }

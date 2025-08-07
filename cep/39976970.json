@@ -1,9 +1,11 @@
 {
   "cep": "39976970",
   "logradouro": "Rua da Creche",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Araçaji de Minas",
   "localidade": "Pedra Azul",
   "uf": "MG",
-  "ibge": "3148707"
+  "ibge": "3148707",
+  "latitude": "-16.7529108",
+  "longitude": "-41.5064464"
 }

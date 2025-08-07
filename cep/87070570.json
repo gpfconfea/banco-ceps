@@ -5,5 +5,7 @@
   "bairro": "Jardim Aurora",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4151461",
+  "longitude": "-51.9741768"
 }

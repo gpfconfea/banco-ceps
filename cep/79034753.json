@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Estrela D'Alva III",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4256723",
+  "longitude": "-54.5545945"
 }

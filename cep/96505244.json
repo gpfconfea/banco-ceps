@@ -5,5 +5,7 @@
   "bairro": "Oliveira",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "latitude": "-30.8864995",
+  "longitude": "-55.5397874"
 }

@@ -5,5 +5,7 @@
   "bairro": "Canelas",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7473082",
+  "longitude": "-43.865498"
 }

@@ -5,5 +5,7 @@
   "bairro": "Colina Verde",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-17.8761841",
+  "longitude": "-41.4961514"
 }

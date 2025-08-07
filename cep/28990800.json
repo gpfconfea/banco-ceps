@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "latitude": "-22.9350234",
+  "longitude": "-42.493602"
 }

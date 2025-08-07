@@ -1,9 +1,11 @@
 {
   "cep": "29815990",
   "logradouro": "Praça Municipal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Barra de São Francisco",
   "uf": "ES",
-  "ibge": "3200904"
+  "ibge": "3200904",
+  "latitude": "-18.75237",
+  "longitude": "-40.89295"
 }

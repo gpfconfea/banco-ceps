@@ -5,5 +5,7 @@
   "bairro": "Loteamento Parque dos Canários",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.20167",
+  "longitude": "-47.01749"
 }

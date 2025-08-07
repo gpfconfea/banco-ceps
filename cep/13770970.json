@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caconde",
   "uf": "SP",
-  "ibge": "3508702"
+  "ibge": "3508702",
+  "latitude": "-21.528928",
+  "longitude": "-46.6443519"
 }

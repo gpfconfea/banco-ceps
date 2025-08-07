@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-3.0634707",
+  "longitude": "-59.9228352"
 }

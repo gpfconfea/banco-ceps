@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boracéia",
   "uf": "SP",
-  "ibge": "3507308"
+  "ibge": "3507308",
+  "latitude": "-22.1933472",
+  "longitude": "-48.7805577"
 }

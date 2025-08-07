@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quaraí",
   "uf": "RS",
-  "ibge": "4315305"
+  "ibge": "4315305",
+  "latitude": "-30.3863278",
+  "longitude": "-56.4527138"
 }

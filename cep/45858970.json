@@ -1,9 +1,11 @@
 {
   "cep": "45858970",
   "logradouro": "Praça São Geraldo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caiubi",
   "localidade": "Itapebi",
   "uf": "BA",
-  "ibge": "2916302"
+  "ibge": "2916302",
+  "latitude": "-15.909158",
+  "longitude": "-39.8945886"
 }

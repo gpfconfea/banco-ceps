@@ -1,9 +1,11 @@
 {
   "cep": "68502902",
   "logradouro": "Rodovia Transamazônica Aeroporto Marabá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Amapá",
   "localidade": "Marabá",
   "uf": "PA",
-  "ibge": "1504208"
+  "ibge": "1504208",
+  "latitude": "-5.3717191",
+  "longitude": "-49.1369385"
 }

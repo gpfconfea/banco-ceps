@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Suíça",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "latitude": "-21.4629268",
+  "longitude": "-47.0214655"
 }

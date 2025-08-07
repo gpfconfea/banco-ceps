@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Gameleira de Goiás",
   "uf": "GO",
-  "ibge": "5208152"
+  "ibge": "5208152",
+  "latitude": "-16.4853739",
+  "longitude": "-48.64541"
 }

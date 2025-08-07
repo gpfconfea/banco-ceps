@@ -5,5 +5,7 @@
   "bairro": "Residencial Villa de León",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-23.5783121",
+  "longitude": "-46.5731866"
 }

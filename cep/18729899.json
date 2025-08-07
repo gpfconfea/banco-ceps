@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Campos de Holambra",
   "localidade": "Paranapanema",
   "uf": "SP",
-  "ibge": "3535804"
+  "ibge": "3535804",
+  "latitude": "-23.43694",
+  "longitude": "-48.86275"
 }

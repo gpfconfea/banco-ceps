@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Spazio Verde I",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.6244732",
+  "longitude": "-48.0710168"
 }

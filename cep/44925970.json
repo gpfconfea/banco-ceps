@@ -1,9 +1,11 @@
 {
   "cep": "44925970",
   "logradouro": "Praça Máximo Guedes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jussara",
   "uf": "BA",
-  "ibge": "2918506"
+  "ibge": "2918506",
+  "latitude": "-11.0479442",
+  "longitude": "-41.9701149"
 }

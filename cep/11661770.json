@@ -5,5 +5,7 @@
   "bairro": "Prainha",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.630271",
+  "longitude": "-45.3909115"
 }

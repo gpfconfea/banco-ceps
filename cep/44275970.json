@@ -1,9 +1,11 @@
 {
   "cep": "44275970",
   "logradouro": "Praça Eduardo Valente",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio Fundo",
   "localidade": "Terra Nova",
   "uf": "BA",
-  "ibge": "2931707"
+  "ibge": "2931707",
+  "latitude": "-12.4041466",
+  "longitude": "-38.6179623"
 }

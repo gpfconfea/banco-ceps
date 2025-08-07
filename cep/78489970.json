@@ -1,9 +1,11 @@
 {
   "cep": "78489970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aldeia",
   "localidade": "Acorizal",
   "uf": "MT",
-  "ibge": "5100102"
+  "ibge": "5100102",
+  "latitude": "-15.2338156",
+  "longitude": "-56.2963827"
 }

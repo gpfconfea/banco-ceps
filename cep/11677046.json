@@ -5,5 +5,7 @@
   "bairro": "Balneário Gardem Mar",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5859007",
+  "longitude": "-45.3360486"
 }

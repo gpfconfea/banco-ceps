@@ -5,5 +5,7 @@
   "bairro": "Assunção",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "latitude": "-23.7217531",
+  "longitude": "-46.560767"
 }

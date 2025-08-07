@@ -5,5 +5,7 @@
   "bairro": "Planalto",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "latitude": "-27.0572145",
+  "longitude": "-48.8653044"
 }

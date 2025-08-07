@@ -1,9 +1,11 @@
 {
   "cep": "48090902",
   "logradouro": "Parque Imaculada Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Catu",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "latitude": "-12.123283",
+  "longitude": "-38.4273945"
 }

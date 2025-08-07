@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-24.1208675",
+  "longitude": "-49.3487713"
 }

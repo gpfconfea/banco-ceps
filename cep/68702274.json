@@ -5,5 +5,7 @@
   "bairro": "Areia Branca",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "latitude": "-26.9846271",
+  "longitude": "-51.180651"
 }

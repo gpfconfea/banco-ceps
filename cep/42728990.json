@@ -1,9 +1,11 @@
 {
   "cep": "42728990",
   "logradouro": "Rua Nova - Jambeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Lauro de Freitas",
   "uf": "BA",
-  "ibge": "2919207"
+  "ibge": "2919207",
+  "latitude": "-12.84061",
+  "longitude": "-38.32929"
 }

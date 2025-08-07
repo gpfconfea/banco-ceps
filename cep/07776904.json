@@ -1,9 +1,11 @@
 {
   "cep": "07776904",
   "logradouro": "Avenida Antonio Cândido Machado Galpão 3100 GRU6 Galpão Prologis III",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cristais (Jordanésia)",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "latitude": "-23.33782",
+  "longitude": "-46.84054"
 }

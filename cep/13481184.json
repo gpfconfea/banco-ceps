@@ -5,5 +5,7 @@
   "bairro": "Fazenda Duas Barras",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.6052345",
+  "longitude": "-47.3825227"
 }

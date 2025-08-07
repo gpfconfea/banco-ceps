@@ -1,9 +1,11 @@
 {
   "cep": "65050900",
   "logradouro": "Rua Padre Antônio Vieira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "COHAB Anil IV",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.527245",
+  "longitude": "-44.2997246"
 }

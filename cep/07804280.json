@@ -5,5 +5,7 @@
   "bairro": "Vila São Benedito",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-23.329481",
+  "longitude": "-46.7376837"
 }

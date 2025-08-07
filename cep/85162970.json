@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Goioxim",
   "uf": "PR",
-  "ibge": "4108650"
+  "ibge": "4108650",
+  "latitude": "-25.3975235",
+  "longitude": "-51.4943345"
 }

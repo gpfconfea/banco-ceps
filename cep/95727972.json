@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boa Vista do Sul",
   "uf": "RS",
-  "ibge": "4302253"
+  "ibge": "4302253",
+  "latitude": "-28.3011122",
+  "longitude": "-54.2652714"
 }

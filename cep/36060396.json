@@ -5,5 +5,7 @@
   "bairro": "Linhares",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.7299947",
+  "longitude": "-43.334749"
 }

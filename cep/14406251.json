@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5402953",
+  "longitude": "-47.4675404"
 }

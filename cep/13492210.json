@@ -5,5 +5,7 @@
   "bairro": "Loteamento Industrial e Comercial Santa Marina",
   "localidade": "Cordeirópolis",
   "uf": "SP",
-  "ibge": "3512407"
+  "ibge": "3512407",
+  "latitude": "-22.5075",
+  "longitude": "-47.45852"
 }

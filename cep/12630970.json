@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cachoeira Paulista",
   "uf": "SP",
-  "ibge": "3508603"
+  "ibge": "3508603",
+  "latitude": "-22.6668635",
+  "longitude": "-45.0122619"
 }

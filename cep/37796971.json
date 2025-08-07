@@ -1,9 +1,11 @@
 {
   "cep": "37796971",
   "logradouro": "Rua Albertina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gramínea",
   "localidade": "Andradas",
   "uf": "MG",
-  "ibge": "3102605"
+  "ibge": "3102605",
+  "latitude": "-22.1692961",
+  "longitude": "-46.6265102"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Neman Sahyun",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3588451",
+  "longitude": "-51.1310564"
 }

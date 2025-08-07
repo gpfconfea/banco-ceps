@@ -1,9 +1,11 @@
 {
   "cep": "73890959",
   "logradouro": "Rua 9 Quadra Quadra 14 Lote 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Flores",
   "localidade": "Flores de Goiás",
   "uf": "GO",
-  "ibge": "5207907"
+  "ibge": "5207907",
+  "latitude": "-14.45629",
+  "longitude": "-47.04113"
 }

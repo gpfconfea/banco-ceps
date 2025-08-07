@@ -1,9 +1,11 @@
 {
   "cep": "95242970",
   "logradouro": "Rua Higino Zanotto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Segredo",
   "uf": "RS",
-  "ibge": "4320263"
+  "ibge": "4320263",
+  "latitude": "-28.7601108",
+  "longitude": "-51.3775634"
 }

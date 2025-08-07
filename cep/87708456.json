@@ -5,5 +5,7 @@
   "bairro": "Sol Nascente",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-23.1096338",
+  "longitude": "-52.4511825"
 }

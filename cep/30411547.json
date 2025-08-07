@@ -5,5 +5,7 @@
   "bairro": "Calafate",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.78583",
+  "longitude": "-43.97173"
 }

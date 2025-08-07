@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova VI",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8981611",
+  "longitude": "-44.952719"
 }

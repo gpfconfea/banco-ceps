@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Leblon",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6894026",
+  "longitude": "-49.227845"
 }

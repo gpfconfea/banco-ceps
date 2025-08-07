@@ -1,9 +1,11 @@
 {
   "cep": "63395973",
   "logradouro": "Vila Cuncás",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cuncas",
   "localidade": "Barro",
   "uf": "CE",
-  "ibge": "2302008"
+  "ibge": "2302008",
+  "latitude": "-7.0941445",
+  "longitude": "-38.7231583"
 }

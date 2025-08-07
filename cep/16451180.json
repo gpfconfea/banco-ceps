@@ -6,5 +6,7 @@
   "bairro": "Vila Vivan",
   "localidade": "Getulina",
   "uf": "SP",
-  "ibge": "3517000"
+  "ibge": "3517000",
+  "latitude": "-23.49023",
+  "longitude": "-47.45797"
 }

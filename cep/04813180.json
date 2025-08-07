@@ -5,5 +5,7 @@
   "bairro": "Jardim São Benedito",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7200176",
+  "longitude": "-46.6871375"
 }

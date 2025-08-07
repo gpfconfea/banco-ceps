@@ -1,9 +1,11 @@
 {
   "cep": "48420973",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Entroncamento",
   "localidade": "Antas",
   "uf": "BA",
-  "ibge": "2901601"
+  "ibge": "2901601",
+  "latitude": "-10.3671648",
+  "longitude": "-38.3355194"
 }

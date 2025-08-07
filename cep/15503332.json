@@ -5,5 +5,7 @@
   "bairro": "Vila Anna",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-23.4741743",
+  "longitude": "-46.5880082"
 }

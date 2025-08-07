@@ -5,5 +5,7 @@
   "bairro": "Jardim Vicente de Carvalho",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-23.83088",
+  "longitude": "-46.14434"
 }

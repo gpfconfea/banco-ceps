@@ -6,5 +6,7 @@
   "bairro": "Residencial Atenas",
   "localidade": "Ipiguá",
   "uf": "SP",
-  "ibge": "3521150"
+  "ibge": "3521150",
+  "latitude": "-20.6511315",
+  "longitude": "-49.384473"
 }

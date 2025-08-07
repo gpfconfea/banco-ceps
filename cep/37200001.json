@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.2549196",
+  "longitude": "-44.9989918"
 }

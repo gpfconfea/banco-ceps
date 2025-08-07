@@ -5,5 +5,7 @@
   "bairro": "São Caetano",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.937422",
+  "longitude": "-44.1168436"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Caetano",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "latitude": "-16.1394775",
+  "longitude": "-47.9278254"
 }

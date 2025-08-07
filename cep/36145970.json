@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Olaria",
   "uf": "MG",
-  "ibge": "3145406"
+  "ibge": "3145406",
+  "latitude": "-21.8602895",
+  "longitude": "-43.9365837"
 }

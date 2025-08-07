@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial III Jacob Maretto",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "latitude": "-22.3684925",
+  "longitude": "-47.4123916"
 }

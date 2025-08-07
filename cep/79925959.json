@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paranhos",
   "uf": "MS",
-  "ibge": "5006358"
+  "ibge": "5006358",
+  "latitude": "-23.8865409",
+  "longitude": "-55.4289618"
 }

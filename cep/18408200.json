@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional São Camilo",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-23.996231",
+  "longitude": "-48.9059583"
 }

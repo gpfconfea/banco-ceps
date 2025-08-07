@@ -5,5 +5,7 @@
   "bairro": "Jardim Silvana",
   "localidade": "Campo Mourão",
   "uf": "PR",
-  "ibge": "4104303"
+  "ibge": "4104303",
+  "latitude": "-23.994616",
+  "longitude": "-52.356407"
 }

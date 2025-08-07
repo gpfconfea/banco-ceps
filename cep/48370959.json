@@ -1,9 +1,11 @@
 {
   "cep": "48370959",
   "logradouro": "Praça Monsenhor Zacarias Luz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Esplanada",
   "uf": "BA",
-  "ibge": "2910602"
+  "ibge": "2910602",
+  "latitude": "-11.80189",
+  "longitude": "-37.94525"
 }

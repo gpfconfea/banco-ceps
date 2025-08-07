@@ -1,9 +1,11 @@
 {
   "cep": "56250975",
   "logradouro": "Sítio Saco Verde",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Fazenda Espirito Santo",
   "localidade": "Trindade",
   "uf": "PE",
-  "ibge": "2615607"
+  "ibge": "2615607",
+  "latitude": "-7.740099",
+  "longitude": "-40.2884386"
 }

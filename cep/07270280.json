@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4623604",
+  "longitude": "-46.427663"
 }

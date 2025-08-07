@@ -5,5 +5,7 @@
   "bairro": "Jardim Chácaras Oriente",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.5038389",
+  "longitude": "-47.4104062"
 }

@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Conselheiro Lafaiete",
   "uf": "MG",
-  "ibge": "3118304"
+  "ibge": "3118304",
+  "latitude": "-19.5646672",
+  "longitude": "-46.9271062"
 }

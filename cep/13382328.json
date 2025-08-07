@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Klavin",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7959993",
+  "longitude": "-47.31031"
 }

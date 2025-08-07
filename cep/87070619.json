@@ -5,5 +5,7 @@
   "bairro": "Km 130",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4133387",
+  "longitude": "-52.010847"
 }

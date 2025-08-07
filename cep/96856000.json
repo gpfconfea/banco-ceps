@@ -5,5 +5,7 @@
   "bairro": "Rio Pardinho",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "latitude": "-29.607163",
+  "longitude": "-52.4915307"
 }

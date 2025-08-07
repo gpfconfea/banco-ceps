@@ -5,5 +5,7 @@
   "bairro": "América",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.5246308",
+  "longitude": "-54.5890947"
 }

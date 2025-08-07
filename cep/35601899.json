@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Arcos",
   "localidade": "Arcos",
   "uf": "MG",
-  "ibge": "3104205"
+  "ibge": "3104205",
+  "latitude": "-20.28582",
+  "longitude": "-45.54022"
 }

@@ -5,5 +5,7 @@
   "bairro": "Campo Grande",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9888875",
+  "longitude": "-38.5232797"
 }

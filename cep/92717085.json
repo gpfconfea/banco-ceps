@@ -5,5 +5,7 @@
   "bairro": "Columbia City",
   "localidade": "Guaíba",
   "uf": "RS",
-  "ibge": "4309308"
+  "ibge": "4309308",
+  "latitude": "-30.12828",
+  "longitude": "-51.35168"
 }

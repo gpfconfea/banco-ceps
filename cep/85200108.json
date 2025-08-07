@@ -5,5 +5,7 @@
   "bairro": "Maria do Carmo",
   "localidade": "Pitanga",
   "uf": "PR",
-  "ibge": "4119608"
+  "ibge": "4119608",
+  "latitude": "-24.7647134",
+  "longitude": "-51.7619491"
 }

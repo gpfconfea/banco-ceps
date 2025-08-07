@@ -6,5 +6,7 @@
   "bairro": "Nonoai",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0782432",
+  "longitude": "-51.2143089"
 }

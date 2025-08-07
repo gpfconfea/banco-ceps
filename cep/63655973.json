@@ -1,9 +1,11 @@
 {
   "cep": "63655973",
   "logradouro": "Rua Noé Angelim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Algodões",
   "localidade": "Quiterianópolis",
   "uf": "CE",
-  "ibge": "2311264"
+  "ibge": "2311264",
+  "latitude": "-5.8438152",
+  "longitude": "-40.7019137"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Milagres",
   "uf": "BA",
-  "ibge": "2921302"
+  "ibge": "2921302",
+  "latitude": "-12.8655883",
+  "longitude": "-39.8629165"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Souza",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4688143",
+  "longitude": "-46.6759489"
 }

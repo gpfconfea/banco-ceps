@@ -5,5 +5,7 @@
   "bairro": "Setor Norte",
   "localidade": "Vila Rica",
   "uf": "MT",
-  "ibge": "5108600"
+  "ibge": "5108600",
+  "latitude": "-10.0167537",
+  "longitude": "-51.127287"
 }

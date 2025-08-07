@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Lajeado",
   "uf": "TO",
-  "ibge": "1712009"
+  "ibge": "1712009",
+  "latitude": "-9.75361",
+  "longitude": "-48.35546"
 }

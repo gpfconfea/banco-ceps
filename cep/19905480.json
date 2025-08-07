@@ -5,5 +5,7 @@
   "bairro": "Vila Musa",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-23.0051519",
+  "longitude": "-49.8873158"
 }

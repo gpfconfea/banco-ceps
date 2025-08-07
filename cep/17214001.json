@@ -5,5 +5,7 @@
   "bairro": "Residencial Chácara Botelho",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-20.52465",
+  "longitude": "-47.44599"
 }

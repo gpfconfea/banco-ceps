@@ -1,9 +1,11 @@
 {
   "cep": "59170971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Patané",
   "localidade": "Arez",
   "uf": "RN",
-  "ibge": "2401206"
+  "ibge": "2401206",
+  "latitude": "39.5367286",
+  "longitude": "-7.7787822"
 }

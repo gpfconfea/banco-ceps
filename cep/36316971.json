@@ -1,9 +1,11 @@
 {
   "cep": "36316971",
   "logradouro": "Rua São Pedro de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Sebastião da Vitória",
   "localidade": "São João Del Rei",
   "uf": "MG",
-  "ibge": "3162500"
+  "ibge": "3162500",
+  "latitude": "-21.1272677",
+  "longitude": "-44.240402"
 }

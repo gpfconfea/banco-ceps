@@ -5,5 +5,7 @@
   "bairro": "Cidade Universitária",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.7047117",
+  "longitude": "-49.3546027"
 }

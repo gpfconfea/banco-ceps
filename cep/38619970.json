@@ -1,9 +1,11 @@
 {
   "cep": "38619970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ruralminas",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-20.09083",
+  "longitude": "-43.0643"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68741972",
   "logradouro": "Rodovia BR-316",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Titanlândia",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "latitude": "-1.2977168",
+  "longitude": "-47.9552146"
 }

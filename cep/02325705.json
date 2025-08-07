@@ -5,5 +5,7 @@
   "bairro": "Jardim Apuana",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.7475701",
+  "longitude": "-47.3641435"
 }

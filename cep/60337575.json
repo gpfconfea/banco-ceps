@@ -5,5 +5,7 @@
   "bairro": "Cristo Redentor",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.7094383",
+  "longitude": "-38.558758"
 }

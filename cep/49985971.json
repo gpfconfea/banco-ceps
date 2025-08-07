@@ -1,9 +1,11 @@
 {
   "cep": "49985971",
   "logradouro": "Rua Belarmino Gomes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santana do São Francisco",
   "uf": "SE",
-  "ibge": "2806404"
+  "ibge": "2806404",
+  "latitude": "-10.2912127",
+  "longitude": "-36.6053653"
 }

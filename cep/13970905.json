@@ -5,5 +5,7 @@
   "bairro": "Vila Pereira",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4430785",
+  "longitude": "-46.8208533"
 }

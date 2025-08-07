@@ -1,9 +1,11 @@
 {
   "cep": "62362974",
   "logradouro": "Avenida Benjamin Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto Lindo",
   "localidade": "Ibiapina",
   "uf": "CE",
-  "ibge": "2305308"
+  "ibge": "2305308",
+  "latitude": "-3.9825588",
+  "longitude": "-40.9419376"
 }

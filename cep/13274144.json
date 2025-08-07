@@ -5,5 +5,7 @@
   "bairro": "Vila Santana",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9695999",
+  "longitude": "-47.0020792"
 }

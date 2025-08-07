@@ -5,5 +5,7 @@
   "bairro": "Vila Vitória",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-22.970901",
+  "longitude": "-47.1482156"
 }

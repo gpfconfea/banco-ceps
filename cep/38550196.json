@@ -6,5 +6,7 @@
   "bairro": "Santa Maria",
   "localidade": "Coromandel",
   "uf": "MG",
-  "ibge": "3119302"
+  "ibge": "3119302",
+  "latitude": "-18.46302",
+  "longitude": "-47.19844"
 }

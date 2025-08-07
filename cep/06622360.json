@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Tereza",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.549412",
+  "longitude": "-46.9011556"
 }

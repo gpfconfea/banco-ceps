@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Três Pontas",
   "uf": "MG",
-  "ibge": "3169406"
+  "ibge": "3169406",
+  "latitude": "-21.3704309",
+  "longitude": "-45.5041601"
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Basílio",
   "localidade": "Palmital",
   "uf": "SP",
-  "ibge": "3535309"
+  "ibge": "3535309",
+  "latitude": "-22.0115",
+  "longitude": "-46.81559"
 }

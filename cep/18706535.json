@@ -5,5 +5,7 @@
   "bairro": "Terras Altas",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.0868931",
+  "longitude": "-48.9339092"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "77693959",
   "logradouro": "Avenida de João Francisco Abreu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Abreulândia",
   "uf": "TO",
-  "ibge": "1700251"
+  "ibge": "1700251",
+  "latitude": "-9.6242468",
+  "longitude": "-49.155935"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.883462",
+  "longitude": "-44.9802083"
 }

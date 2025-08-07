@@ -1,9 +1,11 @@
 {
   "cep": "62846974",
   "logradouro": "Avenida Irmão Raimundo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serra do Félix",
   "localidade": "Beberibe",
   "uf": "CE",
-  "ibge": "2302206"
+  "ibge": "2302206",
+  "latitude": "-3.8020646",
+  "longitude": "-40.2674054"
 }
