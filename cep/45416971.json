@@ -1,9 +1,11 @@
 {
   "cep": "45416971",
   "logradouro": "Rua do Acampamento",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Moenda",
   "localidade": "Presidente Tancredo Neves",
   "uf": "BA",
-  "ibge": "2925758"
+  "ibge": "2925758",
+  "latitude": "-12.6059519",
+  "longitude": "-41.5062507"
 }

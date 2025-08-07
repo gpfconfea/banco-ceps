@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Vila Réggio",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8730275",
+  "longitude": "-47.1444402"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.4598633",
+  "longitude": "-44.059122"
 }

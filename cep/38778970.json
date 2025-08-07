@@ -1,9 +1,11 @@
 {
   "cep": "38778970",
   "logradouro": "Rua José Martins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caatinga",
   "localidade": "João Pinheiro",
   "uf": "MG",
-  "ibge": "3136306"
+  "ibge": "3136306",
+  "latitude": "-17.1507586",
+  "longitude": "-45.8864266"
 }

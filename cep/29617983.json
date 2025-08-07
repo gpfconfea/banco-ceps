@@ -1,9 +1,11 @@
 {
   "cep": "29617983",
   "logradouro": "Rua Guilherme Pizzarra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Joatuba",
   "localidade": "Laranja da Terra",
   "uf": "ES",
-  "ibge": "3203163"
+  "ibge": "3203163",
+  "latitude": "-19.8998714",
+  "longitude": "-41.0572681"
 }

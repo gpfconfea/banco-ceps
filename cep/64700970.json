@@ -1,9 +1,11 @@
 {
   "cep": "64700970",
   "logradouro": "Rua Sérgio Ferreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Simplício Mendes",
   "uf": "PI",
-  "ibge": "2210805"
+  "ibge": "2210805",
+  "latitude": "-7.8604674",
+  "longitude": "-41.9037115"
 }

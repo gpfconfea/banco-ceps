@@ -5,5 +5,7 @@
   "bairro": "Por do Sol",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-19.5373042",
+  "longitude": "-40.6359914"
 }

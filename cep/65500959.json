@@ -1,9 +1,11 @@
 {
   "cep": "65500959",
   "logradouro": "Rua Sebastião Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Chapadinha",
   "uf": "MA",
-  "ibge": "2103208"
+  "ibge": "2103208",
+  "latitude": "-3.74252",
+  "longitude": "-43.36075"
 }

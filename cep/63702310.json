@@ -5,5 +5,7 @@
   "bairro": "Planalto",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "latitude": "-26.3712326",
+  "longitude": "-48.8423314"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44928970",
   "logradouro": "Rua José Sobrinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jussara",
   "uf": "BA",
-  "ibge": "2918506"
+  "ibge": "2918506",
+  "latitude": "-12.89657",
+  "longitude": "-38.35055"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Independência",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.587443",
+  "longitude": "-46.5584415"
 }

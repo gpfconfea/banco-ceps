@@ -5,5 +5,7 @@
   "bairro": "Residencial Jatobá",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1462",
+  "longitude": "-51.44632"
 }

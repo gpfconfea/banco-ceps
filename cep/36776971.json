@@ -1,9 +1,11 @@
 {
   "cep": "36776971",
   "logradouro": "Rua Pastor Ferreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aracati de Minas",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "latitude": "-21.4139868",
+  "longitude": "-42.5997065"
 }

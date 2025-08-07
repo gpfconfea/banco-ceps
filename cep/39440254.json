@@ -5,5 +5,7 @@
   "bairro": "Rio Novo",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-15.7911491",
+  "longitude": "-43.3179926"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperador",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3769986",
+  "longitude": "-51.9659573"
 }

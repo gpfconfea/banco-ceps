@@ -5,5 +5,7 @@
   "bairro": "Cristo Rei",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-14.8094132",
+  "longitude": "-39.292454"
 }

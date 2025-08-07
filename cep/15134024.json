@@ -5,5 +5,7 @@
   "bairro": "Industrial Alto Mirassol",
   "localidade": "Mirassol",
   "uf": "SP",
-  "ibge": "3530300"
+  "ibge": "3530300",
+  "latitude": "-20.8098145",
+  "longitude": "-49.4992545"
 }

@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.699328",
+  "longitude": "-49.4036904"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Oratório",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.1796425",
+  "longitude": "-49.7002809"
 }

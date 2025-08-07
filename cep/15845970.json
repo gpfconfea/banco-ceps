@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marapoama",
   "uf": "SP",
-  "ibge": "3528858"
+  "ibge": "3528858",
+  "latitude": "-21.2592138",
+  "longitude": "-49.1324616"
 }

@@ -5,5 +5,7 @@
   "bairro": "Anápolis",
   "localidade": "Iacri",
   "uf": "SP",
-  "ibge": "3519204"
+  "ibge": "3519204",
+  "latitude": "-21.8583385",
+  "longitude": "-50.6892931"
 }

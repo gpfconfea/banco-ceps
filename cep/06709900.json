@@ -1,9 +1,11 @@
 {
   "cep": "06709900",
   "logradouro": "Rodovia Raposo Tavares Via Km22,140",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lageadinho",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.5891576",
+  "longitude": "-46.8159399"
 }

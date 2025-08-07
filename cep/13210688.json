@@ -5,5 +5,7 @@
   "bairro": "Vila Anchieta",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-25.4293326",
+  "longitude": "-49.2216049"
 }

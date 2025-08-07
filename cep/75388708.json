@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "latitude": "-16.6564161",
+  "longitude": "-49.4891083"
 }

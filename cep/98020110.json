@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "latitude": "-28.6232065",
+  "longitude": "-53.6148128"
 }

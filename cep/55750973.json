@@ -1,9 +1,11 @@
 {
   "cep": "55750973",
   "logradouro": "Rua Agamenon Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Chá do Marinheiro",
   "localidade": "Surubim",
   "uf": "PE",
-  "ibge": "2614501"
+  "ibge": "2614501",
+  "latitude": "-7.8392747",
+  "longitude": "-35.7600497"
 }

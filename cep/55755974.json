@@ -1,9 +1,11 @@
 {
   "cep": "55755974",
   "logradouro": "Vila Oratório",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Oratório",
   "localidade": "Casinhas",
   "uf": "PE",
-  "ibge": "2604155"
+  "ibge": "2604155",
+  "latitude": "-7.74472",
+  "longitude": "-35.72352"
 }

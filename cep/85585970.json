@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Verê",
   "uf": "PR",
-  "ibge": "4128609"
+  "ibge": "4128609",
+  "latitude": "-25.8788832",
+  "longitude": "-52.9058316"
 }

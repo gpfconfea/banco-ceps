@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Maria Isabel de Almeida Prado",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-21.2112622",
+  "longitude": "-50.4620061"
 }

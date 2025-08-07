@@ -5,5 +5,7 @@
   "bairro": "Cantagalo",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "latitude": "-23.0326081",
+  "longitude": "-44.2037032"
 }

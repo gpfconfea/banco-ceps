@@ -5,5 +5,7 @@
   "bairro": "Jardim Raphael",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-23.80753",
+  "longitude": "-46.09173"
 }

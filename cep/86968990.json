@@ -1,9 +1,11 @@
 {
   "cep": "86968990",
   "logradouro": "Avenida Brasil",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Barbosa Ferraz",
   "uf": "PR",
-  "ibge": "4102505"
+  "ibge": "4102505",
+  "latitude": "-24.0316883",
+  "longitude": "-52.1330402"
 }

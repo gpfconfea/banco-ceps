@@ -5,5 +5,7 @@
   "bairro": "Reserva dos Vinhedos",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-23.0705479",
+  "longitude": "-46.9771883"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62260970",
   "logradouro": "Rua Monsenhor José Ataíde de Vasconcelos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Reriutaba",
   "uf": "CE",
-  "ibge": "2311702"
+  "ibge": "2311702",
+  "latitude": "-4.1418673",
+  "longitude": "-40.5826628"
 }

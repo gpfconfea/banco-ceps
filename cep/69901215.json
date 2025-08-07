@@ -5,5 +5,7 @@
   "bairro": "Jardim Tropical",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-9.9579333",
+  "longitude": "-67.7933347"
 }

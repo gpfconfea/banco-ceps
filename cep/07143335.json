@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-22.2911573",
+  "longitude": "-48.5516576"
 }

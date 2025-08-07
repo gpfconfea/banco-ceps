@@ -6,5 +6,7 @@
   "bairro": "Residencial Bem Te Vi II",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.8583817",
+  "longitude": "-48.4719839"
 }

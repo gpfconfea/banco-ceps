@@ -5,5 +5,7 @@
   "bairro": "Alto da Conquista",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-15.4491739",
+  "longitude": "-50.3648191"
 }

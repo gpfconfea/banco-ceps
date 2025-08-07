@@ -1,9 +1,11 @@
 {
   "cep": "36345973",
   "logradouro": "Praça Santo Antônio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Catauá",
   "localidade": "Lagoa Dourada",
   "uf": "MG",
-  "ibge": "3137403"
+  "ibge": "3137403",
+  "latitude": "-20.914279",
+  "longitude": "-44.0780793"
 }

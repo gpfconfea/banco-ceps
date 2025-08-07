@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Henrique",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-24.7293021",
+  "longitude": "-47.873544"
 }

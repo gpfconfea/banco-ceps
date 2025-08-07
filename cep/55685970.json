@@ -1,9 +1,11 @@
 {
   "cep": "55685970",
   "logradouro": "Rua Capitão Antonio Lourenço",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Alto do Bonito",
   "localidade": "Bonito",
   "uf": "PE",
-  "ibge": "2602308"
+  "ibge": "2602308",
+  "latitude": "-8.5065522",
+  "longitude": "-35.8126026"
 }

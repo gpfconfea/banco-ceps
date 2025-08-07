@@ -1,9 +1,11 @@
 {
   "cep": "85607970",
   "logradouro": "Avenida José Hellmann",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jacutinga",
   "localidade": "Francisco Beltrão",
   "uf": "PR",
-  "ibge": "4108403"
+  "ibge": "4108403",
+  "latitude": "-26.0806807",
+  "longitude": "-53.0499233"
 }

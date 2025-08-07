@@ -1,9 +1,11 @@
 {
   "cep": "63648976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Maratoã",
   "localidade": "Deputado Irapuan Pinheiro",
   "uf": "CE",
-  "ibge": "2304269"
+  "ibge": "2304269",
+  "latitude": "-5.9014028",
+  "longitude": "-39.2043968"
 }

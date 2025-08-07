@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Antônio Carlos",
   "localidade": "Antônio Carlos",
   "uf": "SC",
-  "ibge": "4201208"
+  "ibge": "4201208",
+  "latitude": "-27.51684",
+  "longitude": "-48.76773"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caranaíba",
   "uf": "MG",
-  "ibge": "3113107"
+  "ibge": "3113107",
+  "latitude": "-18.9371567",
+  "longitude": "-48.2998989"
 }

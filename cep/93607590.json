@@ -5,5 +5,7 @@
   "bairro": "Rincão Gaúcho",
   "localidade": "Estância Velha",
   "uf": "RS",
-  "ibge": "4307609"
+  "ibge": "4307609",
+  "latitude": "-29.6529191",
+  "longitude": "-51.1454545"
 }

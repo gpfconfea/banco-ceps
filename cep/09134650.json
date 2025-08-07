@@ -5,5 +5,7 @@
   "bairro": "Recreio da Borda do Campo",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.7277589",
+  "longitude": "-46.4874754"
 }

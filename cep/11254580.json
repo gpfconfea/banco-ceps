@@ -5,5 +5,7 @@
   "bairro": "Caiubura",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-23.8284277",
+  "longitude": "-46.1396332"
 }

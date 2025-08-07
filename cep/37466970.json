@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itamonte",
   "uf": "MG",
-  "ibge": "3133006"
+  "ibge": "3133006",
+  "latitude": "-22.287071",
+  "longitude": "-44.870194"
 }

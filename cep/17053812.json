@@ -5,5 +5,7 @@
   "bairro": "Jardim Ferraz",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3564126",
+  "longitude": "-49.1043234"
 }

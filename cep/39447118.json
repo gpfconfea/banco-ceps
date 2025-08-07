@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-15.8223657",
+  "longitude": "-43.3027833"
 }

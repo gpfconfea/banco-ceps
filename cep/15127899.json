@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Neves Paulista",
   "localidade": "Neves Paulista",
   "uf": "SP",
-  "ibge": "3532504"
+  "ibge": "3532504",
+  "latitude": "-20.84374",
+  "longitude": "-49.63229"
 }

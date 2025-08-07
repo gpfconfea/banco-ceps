@@ -5,5 +5,7 @@
   "bairro": "Vila Alvarenga",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.41165",
+  "longitude": "-42.91355"
 }

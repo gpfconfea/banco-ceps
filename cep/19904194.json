@@ -5,5 +5,7 @@
   "bairro": "Jardim Paris",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-22.8560897",
+  "longitude": "-42.3451344"
 }

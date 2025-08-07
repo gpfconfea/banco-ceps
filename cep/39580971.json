@@ -1,9 +1,11 @@
 {
   "cep": "39580971",
   "logradouro": "Praça Saturnino Cardoso de Moura",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Geraldo",
   "localidade": "Francisco Sá",
   "uf": "MG",
-  "ibge": "3126703"
+  "ibge": "3126703",
+  "latitude": "-16.1037308",
+  "longitude": "-43.4395871"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Puccamp",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0354053",
+  "longitude": "-47.126048"
 }

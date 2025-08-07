@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz da Boa Vista",
   "localidade": "Maracaí",
   "uf": "SP",
-  "ibge": "3528809"
+  "ibge": "3528809",
+  "latitude": "-22.6105899",
+  "longitude": "-50.667938"
 }

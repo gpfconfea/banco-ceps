@@ -1,9 +1,11 @@
 {
   "cep": "35147976",
   "logradouro": "Rua José Rodrigues",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pedra Corrida",
   "localidade": "Açucena",
   "uf": "MG",
-  "ibge": "3100500"
+  "ibge": "3100500",
+  "latitude": "-19.07562",
+  "longitude": "-42.54593"
 }

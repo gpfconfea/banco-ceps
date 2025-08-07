@@ -5,5 +5,7 @@
   "bairro": "Centreville",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-23.4008139",
+  "longitude": "-46.4363402"
 }

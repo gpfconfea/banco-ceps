@@ -5,5 +5,7 @@
   "bairro": "Jardim Barcelona",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.1003903",
+  "longitude": "-47.247847"
 }

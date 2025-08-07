@@ -5,5 +5,7 @@
   "bairro": "Residencial Paratodos",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.93216",
+  "longitude": "-48.44247"
 }

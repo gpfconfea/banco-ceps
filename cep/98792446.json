@@ -5,5 +5,7 @@
   "bairro": "Figueira",
   "localidade": "Santa Rosa",
   "uf": "RS",
-  "ibge": "4317202"
+  "ibge": "4317202",
+  "latitude": "-26.8474971",
+  "longitude": "-52.2577765"
 }

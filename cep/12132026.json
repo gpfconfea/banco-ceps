@@ -6,5 +6,7 @@
   "bairro": "Cruzeiro",
   "localidade": "Lagoinha",
   "uf": "SP",
-  "ibge": "3526308"
+  "ibge": "3526308",
+  "latitude": "-23.09225",
+  "longitude": "-45.19047"
 }

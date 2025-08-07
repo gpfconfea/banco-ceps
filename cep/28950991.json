@@ -1,9 +1,11 @@
 {
   "cep": "28950991",
   "logradouro": "Rua Itajirú",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Armação dos Búzios",
   "uf": "RJ",
-  "ibge": "3300233"
+  "ibge": "3300233",
+  "latitude": "-22.77743",
+  "longitude": "-41.93145"
 }

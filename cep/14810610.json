@@ -5,5 +5,7 @@
   "bairro": "Residencial Campos de Piemonte",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.8372588",
+  "longitude": "-47.4784286"
 }

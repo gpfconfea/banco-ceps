@@ -1,9 +1,11 @@
 {
   "cep": "64275959",
   "logradouro": "Rua Joaquim Terto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jatobá do Piauí",
   "uf": "PI",
-  "ibge": "2205276"
+  "ibge": "2205276",
+  "latitude": "-4.7719806",
+  "longitude": "-41.8154795"
 }

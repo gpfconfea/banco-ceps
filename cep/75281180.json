@@ -6,5 +6,7 @@
   "bairro": "Boa Vista",
   "localidade": "Orizona",
   "uf": "GO",
-  "ibge": "5215306"
+  "ibge": "5215306",
+  "latitude": "-17.0379553",
+  "longitude": "-48.2979136"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mari",
   "uf": "PB",
-  "ibge": "2509107"
+  "ibge": "2509107",
+  "latitude": "-7.05851",
+  "longitude": "-35.32028"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63390972",
   "logradouro": "Rua Monsenhor Vicente Bezerra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Iara",
   "localidade": "Barro",
   "uf": "CE",
-  "ibge": "2302008"
+  "ibge": "2302008",
+  "latitude": "-7.0548134",
+  "longitude": "-38.7826099"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "28923990",
   "logradouro": "Rua Pau-brasilº - Caravelas do Peró",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "latitude": "-22.62046",
+  "longitude": "-42.02029"
 }

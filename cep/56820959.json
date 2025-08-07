@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carnaíba",
   "uf": "PE",
-  "ibge": "2603900"
+  "ibge": "2603900",
+  "latitude": "-7.805738",
+  "longitude": "-37.793206"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Alta",
   "localidade": "Cachoeiras de Macacu",
   "uf": "RJ",
-  "ibge": "3300803"
+  "ibge": "3300803",
+  "latitude": "-22.46018",
+  "longitude": "-42.66026"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62684972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim",
   "localidade": "Jardim",
   "uf": "CE",
-  "ibge": "2307106"
+  "ibge": "2307106",
+  "latitude": "-10.8808733",
+  "longitude": "-37.1436133"
 }

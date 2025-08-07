@@ -6,5 +6,7 @@
   "bairro": "Residencial Estrela Dalva",
   "localidade": "Posse",
   "uf": "GO",
-  "ibge": "5218300"
+  "ibge": "5218300",
+  "latitude": "-16.59355",
+  "longitude": "-49.31352"
 }

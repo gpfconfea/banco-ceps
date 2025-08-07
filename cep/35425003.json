@@ -5,5 +5,7 @@
   "bairro": "Vila Maquiné",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "latitude": "-20.38161",
+  "longitude": "-43.41886"
 }

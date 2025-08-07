@@ -5,5 +5,7 @@
   "bairro": "Fazendinha",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "-25.6480007",
+  "longitude": "-49.3325718"
 }

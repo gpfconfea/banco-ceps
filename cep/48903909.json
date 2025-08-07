@@ -1,9 +1,11 @@
 {
   "cep": "48903909",
   "logradouro": "Rua Barão do Rio Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-9.4103935",
+  "longitude": "-40.5056842"
 }

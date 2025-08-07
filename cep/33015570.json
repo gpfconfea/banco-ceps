@@ -5,5 +5,7 @@
   "bairro": "Kennedy",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "latitude": "-19.7799186",
+  "longitude": "-43.9346043"
 }

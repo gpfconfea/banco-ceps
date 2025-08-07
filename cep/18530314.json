@@ -6,5 +6,7 @@
   "bairro": "Terras de Santa Maria",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.1272353",
+  "longitude": "-47.7018879"
 }

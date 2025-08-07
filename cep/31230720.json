@@ -5,5 +5,7 @@
   "bairro": "Aparecida",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9004444",
+  "longitude": "-43.947772"
 }

@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Esteio",
   "uf": "RS",
-  "ibge": "4307708"
+  "ibge": "4307708",
+  "latitude": "-29.8509931",
+  "longitude": "-51.1702767"
 }

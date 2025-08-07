@@ -1,9 +1,11 @@
 {
   "cep": "64780970",
   "logradouro": "Praça Sebastião Rodrigues",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Anísio de Abreu",
   "uf": "PI",
-  "ibge": "2200707"
+  "ibge": "2200707",
+  "latitude": "-5.09665",
+  "longitude": "-42.8042"
 }

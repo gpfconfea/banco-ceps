@@ -1,9 +1,11 @@
 {
   "cep": "75114970",
   "logradouro": "Avenida Jamel Cecílio Quadra 65 Lote 21 Loja 01/02",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "JK Nova Capital",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3344411",
+  "longitude": "-48.9375931"
 }

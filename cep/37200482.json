@@ -5,5 +5,7 @@
   "bairro": "Vila São Francisco",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-18.58578",
+  "longitude": "-46.51047"
 }

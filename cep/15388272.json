@@ -6,5 +6,7 @@
   "bairro": "Portal do Sol",
   "localidade": "Ilha Solteira",
   "uf": "SP",
-  "ibge": "3520442"
+  "ibge": "3520442",
+  "latitude": "-20.43873",
+  "longitude": "-51.35332"
 }

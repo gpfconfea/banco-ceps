@@ -5,5 +5,7 @@
   "bairro": "Jardim Marabá",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3649773",
+  "longitude": "-49.0253309"
 }

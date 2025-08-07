@@ -5,5 +5,7 @@
   "bairro": "Shopping Park",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.9457724",
+  "longitude": "-48.317468"
 }

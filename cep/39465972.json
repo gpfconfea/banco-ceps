@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Miravânia",
   "uf": "MG",
-  "ibge": "3142254"
+  "ibge": "3142254",
+  "latitude": "-19.9605428",
+  "longitude": "-44.2088022"
 }

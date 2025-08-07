@@ -5,5 +5,7 @@
   "bairro": "Residencial Santo André",
   "localidade": "Pirajuí",
   "uf": "SP",
-  "ibge": "3538907"
+  "ibge": "3538907",
+  "latitude": "-22.13524",
+  "longitude": "-51.4675"
 }

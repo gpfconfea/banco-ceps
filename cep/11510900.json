@@ -1,9 +1,11 @@
 {
   "cep": "11510900",
   "logradouro": "Praça dos Emancipadores",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cubatão",
   "uf": "SP",
-  "ibge": "3513504"
+  "ibge": "3513504",
+  "latitude": "-23.8835819",
+  "longitude": "-46.4224294"
 }

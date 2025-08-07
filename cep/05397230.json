@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperial",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5331546",
+  "longitude": "-46.7830853"
 }

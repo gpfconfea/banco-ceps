@@ -1,9 +1,11 @@
 {
   "cep": "78502970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nonoai do Norte",
   "localidade": "Colíder",
   "uf": "MT",
-  "ibge": "5103205"
+  "ibge": "5103205",
+  "latitude": "-10.5801605",
+  "longitude": "-55.5269503"
 }

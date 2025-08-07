@@ -1,9 +1,11 @@
 {
   "cep": "62940974",
   "logradouro": "Setor 1 Perímêtro Irrigado Morada Nova",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Morada Nova",
   "uf": "CE",
-  "ibge": "2308708"
+  "ibge": "2308708",
+  "latitude": "-5.0977503",
+  "longitude": "-38.3705014"
 }

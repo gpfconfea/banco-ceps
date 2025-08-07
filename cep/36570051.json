@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Viçosa",
   "uf": "MG",
-  "ibge": "3171303"
+  "ibge": "3171303",
+  "latitude": "-18.73235",
+  "longitude": "-43.36301"
 }

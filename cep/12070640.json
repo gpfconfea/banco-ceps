@@ -5,5 +5,7 @@
   "bairro": "Jardim do Sol",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0162904",
+  "longitude": "-45.5365712"
 }

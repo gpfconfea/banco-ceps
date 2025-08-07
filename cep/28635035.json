@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "latitude": "-22.2582066",
+  "longitude": "-42.530398"
 }

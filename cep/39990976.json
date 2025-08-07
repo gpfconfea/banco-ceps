@@ -5,5 +5,7 @@
   "bairro": "Machado Mineiro",
   "localidade": "Águas Vermelhas",
   "uf": "MG",
-  "ibge": "3101003"
+  "ibge": "3101003",
+  "latitude": "-15.5218369",
+  "longitude": "-41.4978931"
 }

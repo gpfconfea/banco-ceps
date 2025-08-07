@@ -5,5 +5,7 @@
   "bairro": "Cachoeira",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.3815132",
+  "longitude": "-46.321453"
 }

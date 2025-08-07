@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Itaperuçu",
   "uf": "PR",
-  "ibge": "4111258"
+  "ibge": "4111258",
+  "latitude": "-25.2200108",
+  "longitude": "-49.3442535"
 }

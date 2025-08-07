@@ -5,5 +5,7 @@
   "bairro": "Guarani",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "latitude": "-22.7441944",
+  "longitude": "-43.4666287"
 }

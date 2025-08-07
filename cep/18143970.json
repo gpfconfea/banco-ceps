@@ -1,9 +1,11 @@
 {
   "cep": "18143970",
   "logradouro": "Rua Luiz Matheus Mailasqui",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Mailasqui)",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5519096",
+  "longitude": "-47.0855123"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Alpino",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-23.3556074",
+  "longitude": "-46.7410265"
 }

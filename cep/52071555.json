@@ -5,5 +5,7 @@
   "bairro": "Monteiro",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-7.9908957",
+  "longitude": "-35.054401"
 }

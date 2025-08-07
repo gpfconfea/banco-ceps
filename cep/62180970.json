@@ -1,9 +1,11 @@
 {
   "cep": "62180970",
   "logradouro": "Rua Vinte e Dois de Setembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pacujá",
   "uf": "CE",
-  "ibge": "2309904"
+  "ibge": "2309904",
+  "latitude": "-3.9776241",
+  "longitude": "-40.699947"
 }

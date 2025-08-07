@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Iporá",
   "uf": "GO",
-  "ibge": "5210208"
+  "ibge": "5210208",
+  "latitude": "-16.4402684",
+  "longitude": "-51.1138014"
 }
