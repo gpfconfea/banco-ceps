@@ -1,9 +1,11 @@
 {
   "cep": "65170959",
   "logradouro": "Rua Duque de Caxias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Icatu",
   "uf": "MA",
-  "ibge": "2105104"
+  "ibge": "2105104",
+  "latitude": "-2.7757137",
+  "longitude": "-44.063889"
 }

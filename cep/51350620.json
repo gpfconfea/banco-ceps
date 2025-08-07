@@ -5,5 +5,7 @@
   "bairro": "Ipsep",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-7.9755888",
+  "longitude": "-34.842298"
 }

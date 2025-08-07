@@ -5,5 +5,7 @@
   "bairro": "João Bosco Teixeira",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "latitude": "-19.5724326",
+  "longitude": "-46.9304731"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65632990",
   "logradouro": "Vila do BEC",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "latitude": "-5.1397498",
+  "longitude": "-42.8266741"
 }

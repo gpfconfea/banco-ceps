@@ -1,9 +1,11 @@
 {
   "cep": "28820976",
   "logradouro": "Rua do Caxito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caxito",
   "localidade": "Silva Jardim",
   "uf": "RJ",
-  "ibge": "3305604"
+  "ibge": "3305604",
+  "latitude": "-22.895262",
+  "longitude": "-42.8256401"
 }

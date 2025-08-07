@@ -5,5 +5,7 @@
   "bairro": "Residencial Flor do Ipê I",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.657259",
+  "longitude": "-49.129342"
 }

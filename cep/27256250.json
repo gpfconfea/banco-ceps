@@ -5,5 +5,7 @@
   "bairro": "Jardim Esperança",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.5353709",
+  "longitude": "-44.0887233"
 }

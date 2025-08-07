@@ -5,5 +5,7 @@
   "bairro": "Siciliano",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5303594",
+  "longitude": "-46.7020472"
 }

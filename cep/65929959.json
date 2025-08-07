@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Francisco do Brejão",
   "uf": "MA",
-  "ibge": "2110856"
+  "ibge": "2110856",
+  "latitude": "-5.125357",
+  "longitude": "-47.3872395"
 }

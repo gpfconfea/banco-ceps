@@ -5,5 +5,7 @@
   "bairro": "Residencial Santo Expedito",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.304364",
+  "longitude": "-48.8902801"
 }

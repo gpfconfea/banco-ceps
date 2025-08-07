@@ -5,5 +5,7 @@
   "bairro": "Maria José do Amaral",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.86607",
+  "longitude": "-44.98084"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista Sul",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-20.90185",
+  "longitude": "-51.35347"
 }

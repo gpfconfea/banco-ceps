@@ -1,9 +1,11 @@
 {
   "cep": "37260972",
   "logradouro": "Rua Romão Fagundes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Perdões",
   "uf": "MG",
-  "ibge": "3149903"
+  "ibge": "3149903",
+  "latitude": "-21.0514467",
+  "longitude": "-45.0188661"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Dona Marly Arantes",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.77296",
+  "longitude": "-48.81884"
 }

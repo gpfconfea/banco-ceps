@@ -5,5 +5,7 @@
   "bairro": "Nova Alegria",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "latitude": "-22.4757661",
+  "longitude": "-44.4973191"
 }

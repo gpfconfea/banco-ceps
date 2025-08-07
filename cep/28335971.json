@@ -1,9 +1,11 @@
 {
   "cep": "28335971",
   "logradouro": "Rua Frei Miguelino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nossa Senhora da Penha",
   "localidade": "Itaperuna",
   "uf": "RJ",
-  "ibge": "3302205"
+  "ibge": "3302205",
+  "latitude": "-21.2765973",
+  "longitude": "-41.7875126"
 }

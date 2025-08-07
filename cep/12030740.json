@@ -5,5 +5,7 @@
   "bairro": "Vila das Jabuticabeiras",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0392159",
+  "longitude": "-45.5715177"
 }

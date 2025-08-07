@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Governador Lindenberg",
   "uf": "ES",
-  "ibge": "3202256"
+  "ibge": "3202256",
+  "latitude": "-19.25076",
+  "longitude": "-40.462888"
 }

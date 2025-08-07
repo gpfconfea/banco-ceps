@@ -1,9 +1,11 @@
 {
   "cep": "28010973",
   "logradouro": "Avenida José Alves de Azevedo Box 35",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Campos dos Goytacazes",
   "uf": "RJ",
-  "ibge": "3301009"
+  "ibge": "3301009",
+  "latitude": "-21.7626682",
+  "longitude": "-41.3184501"
 }

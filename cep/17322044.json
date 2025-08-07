@@ -6,5 +6,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Mineiros do Tietê",
   "uf": "SP",
-  "ibge": "3529807"
+  "ibge": "3529807",
+  "latitude": "-22.41169",
+  "longitude": "-48.44333"
 }

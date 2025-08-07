@@ -5,5 +5,7 @@
   "bairro": "Chácara Maria Aparecida",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.6540765",
+  "longitude": "-46.4188264"
 }

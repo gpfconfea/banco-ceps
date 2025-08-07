@@ -5,5 +5,7 @@
   "bairro": "Pedro Mario de Barros",
   "localidade": "Taquarituba",
   "uf": "SP",
-  "ibge": "3553807"
+  "ibge": "3553807",
+  "latitude": "-23.5449476",
+  "longitude": "-49.2330962"
 }

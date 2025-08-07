@@ -5,5 +5,7 @@
   "bairro": "Ponte Nova",
   "localidade": "Curvelo",
   "uf": "MG",
-  "ibge": "3120904"
+  "ibge": "3120904",
+  "latitude": "-20.40941",
+  "longitude": "-42.89583"
 }

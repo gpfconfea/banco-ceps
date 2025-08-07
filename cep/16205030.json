@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim do Trevo",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "latitude": "-21.3068809",
+  "longitude": "-50.3649091"
 }

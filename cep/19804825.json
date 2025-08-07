@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora de Fátima",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-23.64514",
+  "longitude": "-46.81842"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Maria José",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-20.5305922",
+  "longitude": "-47.3746915"
 }

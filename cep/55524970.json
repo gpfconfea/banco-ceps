@@ -1,9 +1,11 @@
 {
   "cep": "55524970",
   "logradouro": "Vila Aripibu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Aripibu",
   "localidade": "Ribeirão",
   "uf": "PE",
-  "ibge": "2611804"
+  "ibge": "2611804",
+  "latitude": "-8.4435495",
+  "longitude": "-35.3464528"
 }

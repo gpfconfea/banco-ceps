@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaguajé",
   "uf": "PR",
-  "ibge": "4110904"
+  "ibge": "4110904",
+  "latitude": "-22.6191568",
+  "longitude": "-51.9644048"
 }

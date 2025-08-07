@@ -1,9 +1,11 @@
 {
   "cep": "65278959",
   "logradouro": "Rua Godofredo Viana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Turiaçu",
   "uf": "MA",
-  "ibge": "2112407"
+  "ibge": "2112407",
+  "latitude": "-1.6696228",
+  "longitude": "-45.3706645"
 }

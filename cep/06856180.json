@@ -5,5 +5,7 @@
   "bairro": "Jardim das Esmeraldas",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.6945979",
+  "longitude": "-46.8116452"
 }

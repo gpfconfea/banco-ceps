@@ -5,5 +5,7 @@
   "bairro": "Residencial Vila Flora",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "latitude": "-20.7862965",
+  "longitude": "-49.3457026"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Carlos Vendramini",
   "localidade": "Oriente",
   "uf": "SP",
-  "ibge": "3534104"
+  "ibge": "3534104",
+  "latitude": "-22.1481038",
+  "longitude": "-50.097053"
 }

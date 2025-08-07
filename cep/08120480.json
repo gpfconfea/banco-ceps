@@ -5,5 +5,7 @@
   "bairro": "Jardim Ida Guedes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5025001",
+  "longitude": "-46.3903205"
 }

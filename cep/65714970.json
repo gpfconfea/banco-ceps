@@ -1,9 +1,11 @@
 {
   "cep": "65714970",
   "logradouro": "Avenida César Bandeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Marajá do Sena",
   "uf": "MA",
-  "ibge": "2106359"
+  "ibge": "2106359",
+  "latitude": "-4.6210323",
+  "longitude": "-45.4578148"
 }

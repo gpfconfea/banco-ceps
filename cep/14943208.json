@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Belo",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-23.03029",
+  "longitude": "-47.11604"
 }

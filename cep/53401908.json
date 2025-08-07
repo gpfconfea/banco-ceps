@@ -1,9 +1,11 @@
 {
   "cep": "53401908",
   "logradouro": "Praça Frederico Lundgren",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "latitude": "-7.9395107",
+  "longitude": "-34.8834304"
 }

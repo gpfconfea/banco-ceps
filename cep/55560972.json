@@ -1,9 +1,11 @@
 {
   "cep": "55560972",
   "logradouro": "Rua do Campo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Carimã",
   "localidade": "Barreiros",
   "uf": "PE",
-  "ibge": "2601409"
+  "ibge": "2601409",
+  "latitude": "40.7403701",
+  "longitude": "-8.446734"
 }

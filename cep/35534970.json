@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carmópolis de Minas",
   "uf": "MG",
-  "ibge": "3114501"
+  "ibge": "3114501",
+  "latitude": "-20.5391062",
+  "longitude": "-44.6340287"
 }

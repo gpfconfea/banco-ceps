@@ -5,5 +5,7 @@
   "bairro": "Nazaré",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9762917",
+  "longitude": "-38.4879662"
 }

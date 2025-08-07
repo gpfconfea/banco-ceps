@@ -1,9 +1,11 @@
 {
   "cep": "48933970",
   "logradouro": "Praça do Xisto Graciliano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Riacho Seco",
   "localidade": "Curaçá",
   "uf": "BA",
-  "ibge": "2909901"
+  "ibge": "2909901",
+  "latitude": "-8.9916568",
+  "longitude": "-39.905835"
 }

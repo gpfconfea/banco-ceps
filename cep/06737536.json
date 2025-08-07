@@ -5,5 +5,7 @@
   "bairro": "Nagoya Garden",
   "localidade": "Vargem Grande Paulista",
   "uf": "SP",
-  "ibge": "3556453"
+  "ibge": "3556453",
+  "latitude": "-23.6247209",
+  "longitude": "-47.0131047"
 }

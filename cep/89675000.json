@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Vargem Bonita",
   "uf": "SC",
-  "ibge": "4219176"
+  "ibge": "4219176",
+  "latitude": "-27.005456",
+  "longitude": "-51.740238"
 }

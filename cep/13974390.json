@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4427599",
+  "longitude": "-46.8296439"
 }

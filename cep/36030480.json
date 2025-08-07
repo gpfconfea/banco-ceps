@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.7945325",
+  "longitude": "-43.3403635"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "48443970",
   "logradouro": "Rua do Butano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Raspador",
   "localidade": "Ribeira do Amparo",
   "uf": "BA",
-  "ibge": "2926509"
+  "ibge": "2926509",
+  "latitude": "-12.9098482",
+  "longitude": "-38.4534503"
 }

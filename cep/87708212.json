@@ -5,5 +5,7 @@
   "bairro": "Residencial Vila Operária II",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-23.1021914",
+  "longitude": "-52.4474431"
 }

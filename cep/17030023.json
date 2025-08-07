@@ -5,5 +5,7 @@
   "bairro": "Vila Coralina",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3215334",
+  "longitude": "-49.0507346"
 }

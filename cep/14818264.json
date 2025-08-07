@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Ibaté",
   "uf": "SP",
-  "ibge": "3519303"
+  "ibge": "3519303",
+  "latitude": "-21.9351906",
+  "longitude": "-47.9972097"
 }

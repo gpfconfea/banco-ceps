@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "latitude": "-22.8751617",
+  "longitude": "-42.0090021"
 }

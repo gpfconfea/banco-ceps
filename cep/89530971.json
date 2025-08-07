@@ -1,9 +1,11 @@
 {
   "cep": "89530971",
   "logradouro": "Rua João Batista Pilon",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Frei Rogério",
   "uf": "SC",
-  "ibge": "4205555"
+  "ibge": "4205555",
+  "latitude": "-27.1731436",
+  "longitude": "-50.8062469"
 }

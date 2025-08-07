@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Americana",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-23.1405743",
+  "longitude": "-46.640719"
 }

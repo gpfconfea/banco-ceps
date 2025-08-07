@@ -1,9 +1,11 @@
 {
   "cep": "99492970",
   "logradouro": "Rua São Pedro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Pedro",
   "localidade": "Tapera",
   "uf": "RS",
-  "ibge": "4321006"
+  "ibge": "4321006",
+  "latitude": "-20.3299828",
+  "longitude": "-41.1299834"
 }

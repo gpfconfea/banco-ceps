@@ -5,5 +5,7 @@
   "bairro": "Cidade Industrial de Apucarana",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.27408",
+  "longitude": "-51.11424"
 }

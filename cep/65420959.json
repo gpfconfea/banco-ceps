@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Timbiras",
   "uf": "MA",
-  "ibge": "2112100"
+  "ibge": "2112100",
+  "latitude": "-4.25221",
+  "longitude": "-43.9337"
 }

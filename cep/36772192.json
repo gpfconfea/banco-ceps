@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "latitude": "-19.7409223",
+  "longitude": "-44.1373974"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Comercial Novo Horizonte",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.5646109",
+  "longitude": "-46.7750879"
 }

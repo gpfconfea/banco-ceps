@@ -5,5 +5,7 @@
   "bairro": "Barra Bonita",
   "localidade": "Mato Rico",
   "uf": "PR",
-  "ibge": "4115739"
+  "ibge": "4115739",
+  "latitude": "-24.7045571",
+  "longitude": "-52.1493001"
 }

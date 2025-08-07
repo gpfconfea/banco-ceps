@@ -1,9 +1,11 @@
 {
   "cep": "36579970",
   "logradouro": "Rua Alexandre Aad",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cachoeira de Santa Cruz",
   "localidade": "Viçosa",
   "uf": "MG",
-  "ibge": "3171303"
+  "ibge": "3171303",
+  "latitude": "-20.755353",
+  "longitude": "-42.8941043"
 }

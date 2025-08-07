@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Fátima",
   "localidade": "Taquara",
   "uf": "RS",
-  "ibge": "4321204"
+  "ibge": "4321204",
+  "latitude": "-29.643556",
+  "longitude": "-50.7954283"
 }

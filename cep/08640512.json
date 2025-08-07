@@ -5,5 +5,7 @@
   "bairro": "Jardim das Lavras II",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5030198",
+  "longitude": "-46.2807048"
 }

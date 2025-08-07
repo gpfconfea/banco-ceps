@@ -5,5 +5,7 @@
   "bairro": "Maringá",
   "localidade": "Alvorada",
   "uf": "RS",
-  "ibge": "4300604"
+  "ibge": "4300604",
+  "latitude": "-19.8135522",
+  "longitude": "-43.1789279"
 }

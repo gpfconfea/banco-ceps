@@ -5,5 +5,7 @@
   "bairro": "Passo do Carro",
   "localidade": "Monte Alegre dos Campos",
   "uf": "RS",
-  "ibge": "4312377"
+  "ibge": "4312377",
+  "latitude": "-28.6007181",
+  "longitude": "-50.746887"
 }

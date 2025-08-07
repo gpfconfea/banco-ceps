@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Luiziana",
   "uf": "PR",
-  "ibge": "4113734"
+  "ibge": "4113734",
+  "latitude": "-24.2836723",
+  "longitude": "-52.2761932"
 }

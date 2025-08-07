@@ -6,5 +6,7 @@
   "bairro": "CECAP",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.45798",
+  "longitude": "-48.56934"
 }

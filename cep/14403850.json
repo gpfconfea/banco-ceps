@@ -5,5 +5,7 @@
   "bairro": "Vila Hípica",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-23.5421207",
+  "longitude": "-46.5537914"
 }

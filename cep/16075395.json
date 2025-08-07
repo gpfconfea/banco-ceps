@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-21.1775456",
+  "longitude": "-50.466438"
 }

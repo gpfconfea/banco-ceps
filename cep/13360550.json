@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Tarsila",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-23.00331",
+  "longitude": "-47.52618"
 }

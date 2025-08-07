@@ -5,5 +5,7 @@
   "bairro": "Vila São Domingos",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5832006",
+  "longitude": "-46.5392432"
 }

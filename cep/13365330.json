@@ -6,5 +6,7 @@
   "bairro": "Jardim do Bosque",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-20.84547",
+  "longitude": "-49.38107"
 }

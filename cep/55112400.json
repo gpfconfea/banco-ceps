@@ -5,5 +5,7 @@
   "bairro": "Patos",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-7.9969521",
+  "longitude": "-35.9321404"
 }

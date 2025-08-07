@@ -5,5 +5,7 @@
   "bairro": "Cascata",
   "localidade": "Horizontina",
   "uf": "RS",
-  "ibge": "4309605"
+  "ibge": "4309605",
+  "latitude": "-27.5264492",
+  "longitude": "-54.2401096"
 }

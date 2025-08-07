@@ -5,5 +5,7 @@
   "bairro": "Vila Bandeirantes",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-23.520766",
+  "longitude": "-46.3318988"
 }

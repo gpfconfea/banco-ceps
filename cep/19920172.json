@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Centenário",
   "localidade": "Salto Grande",
   "uf": "SP",
-  "ibge": "3545407"
+  "ibge": "3545407",
+  "latitude": "-22.87813",
+  "longitude": "-49.97481"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62394976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Roque",
   "localidade": "Croatá",
   "uf": "CE",
-  "ibge": "2304236"
+  "ibge": "2304236",
+  "latitude": "-7.2321422",
+  "longitude": "-39.4111177"
 }

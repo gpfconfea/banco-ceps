@@ -5,5 +5,7 @@
   "bairro": "Terminal Intermodal de Cargas (TIC)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8447569",
+  "longitude": "-47.152122"
 }

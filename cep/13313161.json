@@ -5,5 +5,7 @@
   "bairro": "Vila Ianni",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2509886",
+  "longitude": "-47.3157044"
 }

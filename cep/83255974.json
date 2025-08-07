@@ -5,5 +5,7 @@
   "bairro": "Guaraguaçu",
   "localidade": "Pontal do Paraná",
   "uf": "PR",
-  "ibge": "4119954"
+  "ibge": "4119954",
+  "latitude": "-25.6778455",
+  "longitude": "-48.5043629"
 }

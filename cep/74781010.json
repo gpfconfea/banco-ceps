@@ -5,5 +5,7 @@
   "bairro": "Residencial Sonho Dourado",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-15.5650813",
+  "longitude": "-49.9414332"
 }

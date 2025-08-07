@@ -5,5 +5,7 @@
   "bairro": "Estância Flávia",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.86044",
+  "longitude": "-47.52315"
 }

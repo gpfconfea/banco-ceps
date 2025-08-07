@@ -1,9 +1,11 @@
 {
   "cep": "99529980",
   "logradouro": "Rua Gudiva Guerra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Xadrez",
   "localidade": "Coqueiros do Sul",
   "uf": "RS",
-  "ibge": "4305850"
+  "ibge": "4305850",
+  "latitude": "-28.19266",
+  "longitude": "-52.7455"
 }

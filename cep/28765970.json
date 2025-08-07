@@ -1,9 +1,11 @@
 {
   "cep": "28765970",
   "logradouro": "Avenida Nô Carneiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila da Grama",
   "localidade": "Trajano de Moraes",
   "uf": "RJ",
-  "ibge": "3305901"
+  "ibge": "3305901",
+  "latitude": "-22.9192303",
+  "longitude": "-43.2060545"
 }

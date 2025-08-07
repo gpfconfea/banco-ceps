@@ -6,5 +6,7 @@
   "bairro": "Jardim Dona Elvira",
   "localidade": "Oriente",
   "uf": "SP",
-  "ibge": "3534104"
+  "ibge": "3534104",
+  "latitude": "-22.1579758",
+  "longitude": "-50.0928171"
 }

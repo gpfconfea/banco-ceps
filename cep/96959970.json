@@ -1,9 +1,11 @@
 {
   "cep": "96959970",
   "logradouro": "Estrada de Taquaral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Taquaral",
   "localidade": "Arroio do Tigre",
   "uf": "RS",
-  "ibge": "4301206"
+  "ibge": "4301206",
+  "latitude": "-29.55505",
+  "longitude": "-50.67411"
 }

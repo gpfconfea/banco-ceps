@@ -1,9 +1,11 @@
 {
   "cep": "46868970",
   "logradouro": "Rua Santa Rosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lajedo Alto",
   "localidade": "Iaçu",
   "uf": "BA",
-  "ibge": "2911907"
+  "ibge": "2911907",
+  "latitude": "-12.7255535",
+  "longitude": "-39.8769133"
 }

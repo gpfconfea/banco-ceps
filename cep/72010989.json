@@ -1,9 +1,11 @@
 {
   "cep": "72010989",
-  "logradouro": "Praça do Relógio Térreo Locker Correios",
+  "logradouro": "Praça do Relógio Térreo",
   "complemento": "",
   "bairro": "Taguatinga Centro (Taguatinga)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.83292",
+  "longitude": "-48.05694"
 }

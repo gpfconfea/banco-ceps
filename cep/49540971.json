@@ -1,9 +1,11 @@
 {
   "cep": "49540971",
   "logradouro": "Avenida Tiradentes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Nossa Senhora Aparecida",
   "uf": "SE",
-  "ibge": "2804458"
+  "ibge": "2804458",
+  "latitude": "-18.9603194",
+  "longitude": "-49.4535199"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Brasília",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "latitude": "-6.3539322",
+  "longitude": "-39.2961804"
 }

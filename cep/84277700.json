@@ -5,5 +5,7 @@
   "bairro": "Alto Amparo",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-24.7416689",
+  "longitude": "-50.5404834"
 }

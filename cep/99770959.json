@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aratiba",
   "uf": "RS",
-  "ibge": "4300901"
+  "ibge": "4300901",
+  "latitude": "-27.39609",
+  "longitude": "-52.30011"
 }

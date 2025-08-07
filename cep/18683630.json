@@ -5,5 +5,7 @@
   "bairro": "Jardim Village",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-22.6102726",
+  "longitude": "-48.8064758"
 }

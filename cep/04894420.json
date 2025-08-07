@@ -5,5 +5,7 @@
   "bairro": "Jardim das Fontes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.8666997",
+  "longitude": "-46.7560274"
 }

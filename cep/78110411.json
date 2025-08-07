@@ -5,5 +5,7 @@
   "bairro": "Centro-Norte",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-16.2299536",
+  "longitude": "-41.4729303"
 }

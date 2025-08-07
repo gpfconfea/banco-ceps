@@ -6,5 +6,7 @@
   "bairro": "Vila São José",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.4917",
+  "longitude": "-48.55787"
 }

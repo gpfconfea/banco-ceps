@@ -1,9 +1,11 @@
 {
   "cep": "45736970",
   "logradouro": "Praça Antonio Osório",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Palmira",
   "localidade": "Itaju do Colônia",
   "uf": "BA",
-  "ibge": "2915403"
+  "ibge": "2915403",
+  "latitude": "-15.1788444",
+  "longitude": "-39.5716843"
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio Boa Vista",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.46744",
+  "longitude": "-46.98759"
 }

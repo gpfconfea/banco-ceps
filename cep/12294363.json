@@ -5,5 +5,7 @@
   "bairro": "Residencial Colinas",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.13354",
+  "longitude": "-45.71481"
 }

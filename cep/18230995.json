@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Miguel Arcanjo",
   "uf": "SP",
-  "ibge": "3550209"
+  "ibge": "3550209",
+  "latitude": "-23.7512685",
+  "longitude": "-47.9630447"
 }

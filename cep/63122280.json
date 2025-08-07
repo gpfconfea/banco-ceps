@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "latitude": "-20.3857777",
+  "longitude": "-40.3154715"
 }

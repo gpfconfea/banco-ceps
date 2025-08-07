@@ -1,9 +1,11 @@
 {
   "cep": "55900977",
   "logradouro": "Rua 69",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Nova Goiana",
   "localidade": "Goiana",
   "uf": "PE",
-  "ibge": "2606200"
+  "ibge": "2606200",
+  "latitude": "-7.55795",
+  "longitude": "-34.9972004"
 }

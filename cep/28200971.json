@@ -1,9 +1,11 @@
 {
   "cep": "28200971",
   "logradouro": "Rua Carmelita M. Nascife",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Atafona",
   "localidade": "São João da Barra",
   "uf": "RJ",
-  "ibge": "3305000"
+  "ibge": "3305000",
+  "latitude": "-21.6292309",
+  "longitude": "-41.0199186"
 }

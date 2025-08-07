@@ -5,5 +5,7 @@
   "bairro": "Edgar Pereira",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-15.8065825",
+  "longitude": "-42.2332245"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lindóia do Sul",
   "uf": "SC",
-  "ibge": "4209854"
+  "ibge": "4209854",
+  "latitude": "-30.0892087",
+  "longitude": "-51.0323366"
 }

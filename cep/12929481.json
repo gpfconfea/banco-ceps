@@ -5,5 +5,7 @@
   "bairro": "Residencial Monreale",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.98105",
+  "longitude": "-46.53171"
 }

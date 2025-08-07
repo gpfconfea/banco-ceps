@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Miguel do Fidalgo",
   "uf": "PI",
-  "ibge": "2210391"
+  "ibge": "2210391",
+  "latitude": "-7.5846252",
+  "longitude": "-42.3735465"
 }

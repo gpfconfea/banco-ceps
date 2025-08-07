@@ -5,5 +5,7 @@
   "bairro": "Massangano",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-9.4408914",
+  "longitude": "-40.5687761"
 }

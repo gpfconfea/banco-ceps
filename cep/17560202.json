@@ -5,5 +5,7 @@
   "bairro": "Lorenzetti",
   "localidade": "Vera Cruz",
   "uf": "SP",
-  "ibge": "3556602"
+  "ibge": "3556602",
+  "latitude": "-22.2254161",
+  "longitude": "-49.8246262"
 }

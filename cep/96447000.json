@@ -5,5 +5,7 @@
   "bairro": "Rio Negro",
   "localidade": "Aceguá",
   "uf": "RS",
-  "ibge": "4300034"
+  "ibge": "4300034",
+  "latitude": "-31.6519675",
+  "longitude": "-54.2956695"
 }

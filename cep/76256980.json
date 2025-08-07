@@ -1,9 +1,11 @@
 {
   "cep": "76256980",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito de Lucilândia",
   "localidade": "Montes Claros de Goiás",
   "uf": "GO",
-  "ibge": "5213707"
+  "ibge": "5213707",
+  "latitude": "-15.6983401",
+  "longitude": "-51.4852449"
 }

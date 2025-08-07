@@ -5,5 +5,7 @@
   "bairro": "Residencial Anita Tiezzi",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1447221",
+  "longitude": "-51.4619632"
 }

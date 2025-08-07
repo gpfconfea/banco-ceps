@@ -1,9 +1,11 @@
 {
   "cep": "85370970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio da Prata",
   "localidade": "Nova Laranjeiras",
   "uf": "PR",
-  "ibge": "4117057"
+  "ibge": "4117057",
+  "latitude": "-25.3085494",
+  "longitude": "-52.5367025"
 }

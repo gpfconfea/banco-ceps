@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Moradias Porto Seguro",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.51978",
+  "longitude": "-48.53904"
 }

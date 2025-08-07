@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Bento do Sul",
   "uf": "SC",
-  "ibge": "4215802"
+  "ibge": "4215802",
+  "latitude": "-26.2531468",
+  "longitude": "-49.3868911"
 }

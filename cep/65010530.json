@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-3.2193335",
+  "longitude": "-45.0033011"
 }

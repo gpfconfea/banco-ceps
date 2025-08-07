@@ -5,5 +5,7 @@
   "bairro": "Vila Norte",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.284101",
+  "longitude": "-48.9221322"
 }

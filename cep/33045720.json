@@ -5,5 +5,7 @@
   "bairro": "Frimisa",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "latitude": "-25.5699226",
+  "longitude": "-49.3125936"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.6736838",
+  "longitude": "-43.4528333"
 }
