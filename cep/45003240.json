@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-14.84418",
+  "longitude": "-40.831769"
 }

@@ -5,5 +5,7 @@
   "bairro": "Grangeiro",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "latitude": "-7.270351",
+  "longitude": "-39.4365726"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "59152901",
   "logradouro": "Rua Jacarandá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Parnamirim",
   "localidade": "Parnamirim",
   "uf": "RN",
-  "ibge": "2403251"
+  "ibge": "2403251",
+  "latitude": "-5.8960822",
+  "longitude": "-35.1942488"
 }

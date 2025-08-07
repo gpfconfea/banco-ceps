@@ -5,5 +5,7 @@
   "bairro": "Souza",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-23.5013808",
+  "longitude": "-47.460204"
 }

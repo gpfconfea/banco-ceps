@@ -1,9 +1,11 @@
 {
   "cep": "44837970",
   "logradouro": "Praça Ministro Francisco Sá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "França",
   "localidade": "Piritiba",
   "uf": "BA",
-  "ibge": "2924801"
+  "ibge": "2924801",
+  "latitude": "-11.7294518",
+  "longitude": "-40.5550799"
 }

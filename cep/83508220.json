@@ -5,5 +5,7 @@
   "bairro": "Tanguá",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.3759725",
+  "longitude": "-49.3056426"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araguaiana",
   "uf": "MT",
-  "ibge": "5101001"
+  "ibge": "5101001",
+  "latitude": "-15.729144",
+  "longitude": "-51.834112"
 }

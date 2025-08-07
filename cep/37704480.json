@@ -5,5 +5,7 @@
   "bairro": "Gato Preto",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "latitude": "-21.7888586",
+  "longitude": "-46.5678138"
 }

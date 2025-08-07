@@ -1,9 +1,11 @@
 {
   "cep": "46940971",
   "logradouro": "Avenida Nelson Souza Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caeté-Açu",
   "localidade": "Palmeiras",
   "uf": "BA",
-  "ibge": "2923506"
+  "ibge": "2923506",
+  "latitude": "-12.5139541",
+  "longitude": "-41.5758862"
 }

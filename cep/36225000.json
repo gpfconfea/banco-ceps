@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ibertioga",
   "uf": "MG",
-  "ibge": "3129400"
+  "ibge": "3129400",
+  "latitude": "-21.431111",
+  "longitude": "-43.966111"
 }

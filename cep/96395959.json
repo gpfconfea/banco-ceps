@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cerrito",
   "uf": "RS",
-  "ibge": "4305124"
+  "ibge": "4305124",
+  "latitude": "-31.85673",
+  "longitude": "-52.81224"
 }

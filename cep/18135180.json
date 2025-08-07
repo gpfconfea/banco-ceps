@@ -5,5 +5,7 @@
   "bairro": "Jardim Villaça",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.546342",
+  "longitude": "-47.1234472"
 }

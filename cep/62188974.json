@@ -1,9 +1,11 @@
 {
   "cep": "62188974",
   "logradouro": "Rua da Postagem",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cacimbas",
   "localidade": "Cariré",
   "uf": "CE",
-  "ibge": "2303105"
+  "ibge": "2303105",
+  "latitude": "-3.9489642",
+  "longitude": "-40.4763889"
 }

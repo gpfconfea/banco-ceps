@@ -1,9 +1,11 @@
 {
   "cep": "68502910",
   "logradouro": "Rodovia BR-230",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Amapá",
   "localidade": "Marabá",
   "uf": "PA",
-  "ibge": "1504208"
+  "ibge": "1504208",
+  "latitude": "-5.3609022",
+  "longitude": "-49.1235055"
 }

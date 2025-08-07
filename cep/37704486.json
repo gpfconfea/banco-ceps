@@ -5,5 +5,7 @@
   "bairro": "Chácara Praia do Sol",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "latitude": "-22.0745293",
+  "longitude": "-46.5818401"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Benedito",
   "localidade": "Pongaí",
   "uf": "SP",
-  "ibge": "3540101"
+  "ibge": "3540101",
+  "latitude": "-21.7240129",
+  "longitude": "-49.3569226"
 }

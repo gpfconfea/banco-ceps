@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Teixeira",
   "uf": "PB",
-  "ibge": "2516706"
+  "ibge": "2516706",
+  "latitude": "-7.2225734",
+  "longitude": "-37.2502709"
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Bosque dos Palmares",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.66703",
+  "longitude": "-46.545"
 }

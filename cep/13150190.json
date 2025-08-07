@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista III",
   "localidade": "Cosmópolis",
   "uf": "SP",
-  "ibge": "3512803"
+  "ibge": "3512803",
+  "latitude": "-22.637757",
+  "longitude": "-47.184853"
 }

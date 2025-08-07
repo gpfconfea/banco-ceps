@@ -6,5 +6,7 @@
   "bairro": "Vila Eduarda",
   "localidade": "São Luís de Montes Belos",
   "uf": "GO",
-  "ibge": "5220108"
+  "ibge": "5220108",
+  "latitude": "-16.514292",
+  "longitude": "-50.3707794"
 }

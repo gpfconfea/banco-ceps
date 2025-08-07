@@ -5,5 +5,7 @@
   "bairro": "Matadouro",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.84688",
+  "longitude": "-46.32031"
 }

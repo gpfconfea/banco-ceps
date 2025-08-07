@@ -5,5 +5,7 @@
   "bairro": "Parque da Barragem Setor 01",
   "localidade": "Águas Lindas de Goiás",
   "uf": "GO",
-  "ibge": "5200258"
+  "ibge": "5200258",
+  "latitude": "-15.7801856",
+  "longitude": "-48.2850132"
 }

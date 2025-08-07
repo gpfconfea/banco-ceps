@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Lutécia",
   "uf": "SP",
-  "ibge": "3527900"
+  "ibge": "3527900",
+  "latitude": "-22.34012",
+  "longitude": "-50.39383"
 }

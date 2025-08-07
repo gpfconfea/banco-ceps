@@ -5,5 +5,7 @@
   "bairro": "Vila Itaberaba",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "38.7080172",
+  "longitude": "-9.1469709"
 }

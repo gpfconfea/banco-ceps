@@ -1,9 +1,11 @@
 {
   "cep": "45653919",
   "logradouro": "Praça Cairu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "latitude": "-14.7976568",
+  "longitude": "-39.036749"
 }

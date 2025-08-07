@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Fé",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-23.4861642",
+  "longitude": "-46.6973206"
 }

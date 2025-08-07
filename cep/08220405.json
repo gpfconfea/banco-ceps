@@ -5,5 +5,7 @@
   "bairro": "Vila Campanela",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5384842",
+  "longitude": "-46.459749"
 }

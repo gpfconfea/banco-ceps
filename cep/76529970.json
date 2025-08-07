@@ -1,9 +1,11 @@
 {
   "cep": "76529970",
   "logradouro": "Avenida Perdiz Quadra 22 Lote 10",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Uirapuru",
   "uf": "GO",
-  "ibge": "5221577"
+  "ibge": "5221577",
+  "latitude": "-14.2854012",
+  "longitude": "-49.9162903"
 }

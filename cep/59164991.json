@@ -1,9 +1,11 @@
 {
   "cep": "59164991",
   "logradouro": "Rua Carmem Miranda - Pirangi do Sul",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Nísia Floresta",
   "uf": "RN",
-  "ibge": "2408201"
+  "ibge": "2408201",
+  "latitude": "-6.00763",
+  "longitude": "-35.1094"
 }

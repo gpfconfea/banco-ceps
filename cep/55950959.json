@@ -1,9 +1,11 @@
 {
   "cep": "55950959",
   "logradouro": "Avenida Antônio Carlos de Almeida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itaquitinga",
   "uf": "PE",
-  "ibge": "2607802"
+  "ibge": "2607802",
+  "latitude": "-7.6662827",
+  "longitude": "-35.1008459"
 }

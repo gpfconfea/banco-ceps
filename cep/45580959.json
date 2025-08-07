@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibirataia",
   "uf": "BA",
-  "ibge": "2912905"
+  "ibge": "2912905",
+  "latitude": "-14.06845",
+  "longitude": "-39.6398"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44140970",
   "logradouro": "Rua Lúcia Cerqueira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tiquaruçu",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.8625522",
+  "longitude": "-38.2921617"
 }

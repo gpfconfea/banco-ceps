@@ -5,5 +5,7 @@
   "bairro": "Jardim Itanguá",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5068387",
+  "longitude": "-47.424968"
 }

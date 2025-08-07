@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Capela do Alto",
   "uf": "SP",
-  "ibge": "3510302"
+  "ibge": "3510302",
+  "latitude": "-23.4708729",
+  "longitude": "-47.7360959"
 }

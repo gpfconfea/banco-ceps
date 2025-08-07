@@ -5,5 +5,7 @@
   "bairro": "Pingo de Ouro",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.7831031",
+  "longitude": "-45.2465141"
 }

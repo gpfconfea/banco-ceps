@@ -1,9 +1,11 @@
 {
   "cep": "29894980",
   "logradouro": "Rua Presidente Kennedy",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vinhático",
   "localidade": "Montanha",
   "uf": "ES",
-  "ibge": "3203502"
+  "ibge": "3203502",
+  "latitude": "-18.1964893",
+  "longitude": "-40.2652521"
 }

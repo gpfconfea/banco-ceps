@@ -1,9 +1,11 @@
 {
   "cep": "44335970",
   "logradouro": "Praça Doutor José Falcão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sergi",
   "localidade": "São Gonçalo dos Campos",
   "uf": "BA",
-  "ibge": "2929305"
+  "ibge": "2929305",
+  "latitude": "-12.4350209",
+  "longitude": "-38.9507919"
 }

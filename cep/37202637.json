@@ -5,5 +5,7 @@
   "bairro": "Lavras Shopping",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.2494478",
+  "longitude": "-44.9901949"
 }

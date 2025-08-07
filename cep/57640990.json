@@ -1,9 +1,11 @@
 {
   "cep": "57640990",
   "logradouro": "Rua Principal - Lagoa Grande",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Taquarana",
   "uf": "AL",
-  "ibge": "2709103"
+  "ibge": "2709103",
+  "latitude": "-9.24106",
+  "longitude": "-37.95963"
 }

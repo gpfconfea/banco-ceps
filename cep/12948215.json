@@ -6,5 +6,7 @@
   "bairro": "Portão",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.21749",
+  "longitude": "-46.59281"
 }

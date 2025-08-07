@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dom Viçoso",
   "uf": "MG",
-  "ibge": "3122801"
+  "ibge": "3122801",
+  "latitude": "-22.25463",
+  "longitude": "-45.16193"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Dom Gilberto",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.037909",
+  "longitude": "-47.1277189"
 }

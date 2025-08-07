@@ -5,5 +5,7 @@
   "bairro": "Serra dos Lemes",
   "localidade": "Cabo Verde",
   "uf": "MG",
-  "ibge": "3109501"
+  "ibge": "3109501",
+  "latitude": "-21.4482596",
+  "longitude": "-46.2929538"
 }

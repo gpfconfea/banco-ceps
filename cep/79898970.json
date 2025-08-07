@@ -1,9 +1,11 @@
 {
   "cep": "79898970",
   "logradouro": "Rua Aureno Arnaldo Cordeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Terezinha",
   "localidade": "Itaporã",
   "uf": "MS",
-  "ibge": "5004502"
+  "ibge": "5004502",
+  "latitude": "-22.0804966",
+  "longitude": "-54.793886"
 }

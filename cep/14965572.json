@@ -5,5 +5,7 @@
   "bairro": "Residencial Machado III",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4692978",
+  "longitude": "-49.1997669"
 }

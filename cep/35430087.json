@@ -5,5 +5,7 @@
   "bairro": "Santa Teresa",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.0884052",
+  "longitude": "-44.5968035"
 }

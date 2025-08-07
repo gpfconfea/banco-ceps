@@ -5,5 +5,7 @@
   "bairro": "São Sebastião do Paraíba",
   "localidade": "Cantagalo",
   "uf": "RJ",
-  "ibge": "3301108"
+  "ibge": "3301108",
+  "latitude": "-21.7553",
+  "longitude": "-42.3789"
 }

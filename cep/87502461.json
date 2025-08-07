@@ -5,5 +5,7 @@
   "bairro": "Residencial Royal Garden",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "33.5857125",
+  "longitude": "-78.9903328"
 }

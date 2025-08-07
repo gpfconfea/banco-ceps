@@ -5,5 +5,7 @@
   "bairro": "Vila Irene",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "latitude": "-22.6173576",
+  "longitude": "-43.2064472"
 }

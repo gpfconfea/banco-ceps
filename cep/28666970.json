@@ -1,9 +1,11 @@
 {
   "cep": "28666970",
   "logradouro": "Fazenda JT",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra Alegre",
   "localidade": "Bom Jardim",
   "uf": "RJ",
-  "ibge": "3300506"
+  "ibge": "3300506",
+  "latitude": "-22.1538861",
+  "longitude": "-42.4190334"
 }

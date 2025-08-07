@@ -5,5 +5,7 @@
   "bairro": "Atalaia",
   "localidade": "Ananindeua",
   "uf": "PA",
-  "ibge": "1500800"
+  "ibge": "1500800",
+  "latitude": "37.7380865",
+  "longitude": "-122.2423738"
 }

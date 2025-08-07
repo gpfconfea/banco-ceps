@@ -1,9 +1,11 @@
 {
   "cep": "40020900",
   "logradouro": "Praça Thomé de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9749237",
+  "longitude": "-38.5130801"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Louzada",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4772757",
+  "longitude": "-47.48568"
 }

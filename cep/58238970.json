@@ -1,9 +1,11 @@
 {
   "cep": "58238970",
   "logradouro": "Rua Durval Costa Lira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Casserengue",
   "uf": "PB",
-  "ibge": "2504157"
+  "ibge": "2504157",
+  "latitude": "-6.7826311",
+  "longitude": "-35.817803"
 }

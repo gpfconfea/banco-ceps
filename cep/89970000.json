@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Anchieta",
   "uf": "SC",
-  "ibge": "4200804"
+  "ibge": "4200804",
+  "latitude": "-26.5350527",
+  "longitude": "-53.3293938"
 }

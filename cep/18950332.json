@@ -5,5 +5,7 @@
   "bairro": "Parque do Brilhante",
   "localidade": "Ipaussu",
   "uf": "SP",
-  "ibge": "3520905"
+  "ibge": "3520905",
+  "latitude": "-23.0609816",
+  "longitude": "-49.6309569"
 }

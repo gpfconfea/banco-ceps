@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rita",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4874256",
+  "longitude": "-47.4612438"
 }

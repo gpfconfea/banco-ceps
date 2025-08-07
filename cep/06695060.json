@@ -5,5 +5,7 @@
   "bairro": "Jardim Portela",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5448342",
+  "longitude": "-46.9393287"
 }

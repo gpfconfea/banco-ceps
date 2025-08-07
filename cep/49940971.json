@@ -1,9 +1,11 @@
 {
   "cep": "49940971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Malhada dos Bois",
   "uf": "SE",
-  "ibge": "2803807"
+  "ibge": "2803807",
+  "latitude": "-19.7914943",
+  "longitude": "-44.0833162"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Esmeralda",
   "localidade": "Canitar",
   "uf": "SP",
-  "ibge": "3510153"
+  "ibge": "3510153",
+  "latitude": "-22.99818",
+  "longitude": "-49.78538"
 }

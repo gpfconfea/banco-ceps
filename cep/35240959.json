@@ -5,5 +5,7 @@
   "bairro": "Estação Velha",
   "localidade": "Conselheiro Pena",
   "uf": "MG",
-  "ibge": "3118403"
+  "ibge": "3118403",
+  "latitude": "-19.17139",
+  "longitude": "-41.47009"
 }

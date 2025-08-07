@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Porto Serguro 2",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2663291",
+  "longitude": "-51.1656032"
 }

@@ -5,5 +5,7 @@
   "bairro": "Barretos",
   "localidade": "Capão Bonito do Sul",
   "uf": "RS",
-  "ibge": "4304622"
+  "ibge": "4304622",
+  "latitude": "-28.3046924",
+  "longitude": "-51.4447117"
 }

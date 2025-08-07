@@ -5,5 +5,7 @@
   "bairro": "Vila Fortuna",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9067268",
+  "longitude": "-47.0856925"
 }

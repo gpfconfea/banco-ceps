@@ -1,9 +1,11 @@
 {
   "cep": "59148902",
   "logradouro": "Rua Rio Xingu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Emaús",
   "localidade": "Parnamirim",
   "uf": "RN",
-  "ibge": "2403251"
+  "ibge": "2403251",
+  "latitude": "-5.8942407",
+  "longitude": "-35.2475651"
 }

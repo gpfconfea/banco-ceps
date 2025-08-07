@@ -5,5 +5,7 @@
   "bairro": "Pau Amarelo",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "latitude": "-23.8610289",
+  "longitude": "-46.704929"
 }

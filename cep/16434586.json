@@ -5,5 +5,7 @@
   "bairro": "Dom Bosco",
   "localidade": "Guaiçara",
   "uf": "SP",
-  "ibge": "3517208"
+  "ibge": "3517208",
+  "latitude": "-21.63148",
+  "longitude": "-49.77744"
 }

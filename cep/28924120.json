@@ -5,5 +5,7 @@
   "bairro": "Ogiva",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "latitude": "-22.8695519",
+  "longitude": "-42.0049665"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Promissão",
   "uf": "SP",
-  "ibge": "3541604"
+  "ibge": "3541604",
+  "latitude": "-21.5373457",
+  "longitude": "-49.857517"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bucarein",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-26.314887",
+  "longitude": "-48.8381374"
 }

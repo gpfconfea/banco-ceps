@@ -5,5 +5,7 @@
   "bairro": "Vera Cruz",
   "localidade": "Camaragibe",
   "uf": "PE",
-  "ibge": "2603454"
+  "ibge": "2603454",
+  "latitude": "-16.725495",
+  "longitude": "-49.3094401"
 }

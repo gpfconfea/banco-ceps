@@ -1,9 +1,11 @@
 {
   "cep": "85408990",
   "logradouro": "Rua Juscelino Kubitschek",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Diamante do Sul",
   "uf": "PR",
-  "ibge": "4107124"
+  "ibge": "4107124",
+  "latitude": "-23.26863",
+  "longitude": "-51.06847"
 }

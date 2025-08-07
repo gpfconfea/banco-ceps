@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Veneza",
   "uf": "GO",
-  "ibge": "5215009"
+  "ibge": "5215009",
+  "latitude": "-16.3709074",
+  "longitude": "-49.3212061"
 }

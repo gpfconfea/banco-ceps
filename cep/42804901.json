@@ -1,9 +1,11 @@
 {
   "cep": "42804901",
   "logradouro": "Rua São Lázaro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Camaçari de Dentro",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.7015255",
+  "longitude": "-38.3338016"
 }

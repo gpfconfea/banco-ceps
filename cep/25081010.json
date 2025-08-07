@@ -5,5 +5,7 @@
   "bairro": "Vila Operária",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "latitude": "-22.6384954",
+  "longitude": "-43.2739356"
 }

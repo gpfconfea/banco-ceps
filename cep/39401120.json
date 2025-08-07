@@ -5,5 +5,7 @@
   "bairro": "Vila Oliveira",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-20.4804181",
+  "longitude": "-47.4330956"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "69343970",
   "logradouro": "Avenida Tepequem",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Amajari",
   "uf": "RR",
-  "ibge": "1400027"
+  "ibge": "1400027",
+  "latitude": "3.6544677",
+  "longitude": "-61.4168669"
 }

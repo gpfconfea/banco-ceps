@@ -5,5 +5,7 @@
   "bairro": "Roque",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.7763753",
+  "longitude": "-63.890989"
 }

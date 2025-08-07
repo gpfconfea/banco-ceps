@@ -5,5 +5,7 @@
   "bairro": "Vila Rosa",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7475654",
+  "longitude": "-49.294068"
 }

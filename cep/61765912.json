@@ -1,10 +1,12 @@
 {
   "cep": "61765912",
   "logradouro": "Avenida Atlântica",
-  "complemento": "s/n",
+  "complemento": "",
   "unidade": "Terras Alphaville Residencial 1",
   "bairro": "Cidade Alpha",
   "localidade": "Eusébio",
   "uf": "CE",
-  "ibge": "2304285"
+  "ibge": "2304285",
+  "latitude": "-3.8899559",
+  "longitude": "-38.4860893"
 }

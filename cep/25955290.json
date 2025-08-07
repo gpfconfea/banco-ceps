@@ -5,5 +5,7 @@
   "bairro": "Fazendinha",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "latitude": "-22.4243224",
+  "longitude": "-42.972379"
 }

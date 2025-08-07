@@ -1,9 +1,11 @@
 {
   "cep": "29399982",
   "logradouro": "Estrada Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Cruz de Irupi",
   "localidade": "Irupi",
   "uf": "ES",
-  "ibge": "3202652"
+  "ibge": "3202652",
+  "latitude": "-20.1164058",
+  "longitude": "-40.8350541"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62761973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Vista",
   "localidade": "Baturité",
   "uf": "CE",
-  "ibge": "2302107"
+  "ibge": "2302107",
+  "latitude": "-4.3915078",
+  "longitude": "-38.8356262"
 }

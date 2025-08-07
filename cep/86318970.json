@@ -1,9 +1,11 @@
 {
   "cep": "86318970",
   "logradouro": "Avenida Geremias Lunardelli",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Judas Tadeu",
   "localidade": "Santo Antônio do Paraíso",
   "uf": "PR",
-  "ibge": "4124301"
+  "ibge": "4124301",
+  "latitude": "-24.0779416",
+  "longitude": "-51.7423989"
 }

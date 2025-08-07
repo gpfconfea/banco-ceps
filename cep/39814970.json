@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pavão",
   "uf": "MG",
-  "ibge": "3148509"
+  "ibge": "3148509",
+  "latitude": "-17.429813",
+  "longitude": "-41.0001259"
 }

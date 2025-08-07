@@ -5,5 +5,7 @@
   "bairro": "Costa Azul I",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.2547303",
+  "longitude": "-48.9894595"
 }

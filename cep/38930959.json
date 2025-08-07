@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Medeiros",
   "uf": "MG",
-  "ibge": "3141306"
+  "ibge": "3141306",
+  "latitude": "-19.99653",
+  "longitude": "-46.21898"
 }

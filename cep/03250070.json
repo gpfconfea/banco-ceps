@@ -5,5 +5,7 @@
   "bairro": "Vila Industrial",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6072089",
+  "longitude": "-46.53236"
 }

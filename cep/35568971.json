@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Córrego Fundo",
   "uf": "MG",
-  "ibge": "3119955"
+  "ibge": "3119955",
+  "latitude": "-20.44817",
+  "longitude": "-45.55464"
 }

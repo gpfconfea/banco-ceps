@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paraíso do Norte",
   "uf": "PR",
-  "ibge": "4118006"
+  "ibge": "4118006",
+  "latitude": "-23.2841077",
+  "longitude": "-52.6063005"
 }

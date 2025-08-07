@@ -5,5 +5,7 @@
   "bairro": "Jardim Elizabeth",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.6671278",
+  "longitude": "-46.4155003"
 }

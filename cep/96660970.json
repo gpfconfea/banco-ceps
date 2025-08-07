@@ -1,9 +1,11 @@
 {
   "cep": "96660970",
   "logradouro": "Estrada Rincão Del Rei",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rincão Del Rei",
   "localidade": "Rio Pardo",
   "uf": "RS",
-  "ibge": "4315701"
+  "ibge": "4315701",
+  "latitude": "-29.8920356",
+  "longitude": "-52.4154141"
 }

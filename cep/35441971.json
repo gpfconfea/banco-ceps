@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sem Peixe",
   "uf": "MG",
-  "ibge": "3165560"
+  "ibge": "3165560",
+  "latitude": "-20.1024146",
+  "longitude": "-42.8402978"
 }

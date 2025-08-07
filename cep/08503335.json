@@ -6,5 +6,7 @@
   "bairro": "Parque São Judas Tadeu",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "latitude": "-23.55155",
+  "longitude": "-46.35971"
 }

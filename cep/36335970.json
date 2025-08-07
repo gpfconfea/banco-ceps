@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ritápolis",
   "uf": "MG",
-  "ibge": "3156106"
+  "ibge": "3156106",
+  "latitude": "-21.0264689",
+  "longitude": "-44.3193143"
 }

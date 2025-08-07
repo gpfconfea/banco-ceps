@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araquari",
   "uf": "SC",
-  "ibge": "4201307"
+  "ibge": "4201307",
+  "latitude": "-26.3706801",
+  "longitude": "-48.7227615"
 }

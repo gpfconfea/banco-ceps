@@ -5,5 +5,7 @@
   "bairro": "Sapiranga",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-17.8342492",
+  "longitude": "-40.3463142"
 }

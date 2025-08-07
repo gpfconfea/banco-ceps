@@ -5,5 +5,7 @@
   "bairro": "João XXIII",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-9.43358",
+  "longitude": "-40.49985"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vale Dourado",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "latitude": "-27.6208499",
+  "longitude": "-52.2824281"
 }

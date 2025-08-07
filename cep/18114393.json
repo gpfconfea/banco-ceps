@@ -6,5 +6,7 @@
   "bairro": "Colina Santa Mônica",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.53979",
+  "longitude": "-47.41328"
 }

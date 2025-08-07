@@ -6,5 +6,7 @@
   "bairro": "Maria Vitoria",
   "localidade": "Manduri",
   "uf": "SP",
-  "ibge": "3528601"
+  "ibge": "3528601",
+  "latitude": "-23.0071276",
+  "longitude": "-49.3266572"
 }
