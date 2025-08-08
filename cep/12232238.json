@@ -5,5 +5,7 @@
   "bairro": "Jardim Del Rey",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.26574",
+  "longitude": "-45.88543"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto Franco",
   "uf": "MA",
-  "ibge": "2109007"
+  "ibge": "2109007",
+  "latitude": "-4.37832",
+  "longitude": "-44.67254"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Caminho do Lago",
   "localidade": "Caldas Novas",
   "uf": "GO",
-  "ibge": "5204508"
+  "ibge": "5204508",
+  "latitude": "-17.7384944",
+  "longitude": "-48.5806851"
 }

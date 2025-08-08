@@ -1,9 +1,11 @@
 {
   "cep": "37509971",
   "logradouro": "Avenida Geraldo Felix da Mota",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Olegário Maciel",
   "localidade": "Piranguinho",
   "uf": "MG",
-  "ibge": "3151008"
+  "ibge": "3151008",
+  "latitude": "-22.3667739",
+  "longitude": "-45.5597823"
 }

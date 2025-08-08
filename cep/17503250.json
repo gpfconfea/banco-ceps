@@ -5,5 +5,7 @@
   "bairro": "Palmeira",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.6030884",
+  "longitude": "-46.7098448"
 }

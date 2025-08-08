@@ -1,9 +1,11 @@
 {
   "cep": "89631970",
   "logradouro": "Rua Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibicuí",
   "localidade": "Campos Novos",
   "uf": "SC",
-  "ibge": "4203600"
+  "ibge": "4203600",
+  "latitude": "-27.4022016",
+  "longitude": "-51.228659"
 }

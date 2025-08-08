@@ -5,5 +5,7 @@
   "bairro": "Jardim Lourdes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.540233",
+  "longitude": "-46.8679489"
 }

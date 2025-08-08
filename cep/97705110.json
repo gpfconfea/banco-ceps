@@ -5,5 +5,7 @@
   "bairro": "São Jorge",
   "localidade": "Santiago",
   "uf": "RS",
-  "ibge": "4317400"
+  "ibge": "4317400",
+  "latitude": "-29.1823",
+  "longitude": "-54.85261"
 }

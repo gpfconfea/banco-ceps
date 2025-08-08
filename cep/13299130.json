@@ -5,5 +5,7 @@
   "bairro": "Monte Serrat",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.17211",
+  "longitude": "-47.10826"
 }

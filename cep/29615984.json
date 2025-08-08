@@ -1,9 +1,11 @@
 {
   "cep": "29615984",
   "logradouro": "Estrada ES-261",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila de Laranja da Terra",
   "localidade": "Laranja da Terra",
   "uf": "ES",
-  "ibge": "3203163"
+  "ibge": "3203163",
+  "latitude": "-19.9019068",
+  "longitude": "-41.0125342"
 }

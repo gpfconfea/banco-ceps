@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Charqueadas",
   "uf": "RS",
-  "ibge": "4305355"
+  "ibge": "4305355",
+  "latitude": "-29.940269",
+  "longitude": "-51.7178083"
 }

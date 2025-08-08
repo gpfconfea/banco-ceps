@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Efigênia",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.2275449",
+  "longitude": "-47.2705508"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carolina",
   "uf": "MA",
-  "ibge": "2102804"
+  "ibge": "2102804",
+  "latitude": "-7.3342744",
+  "longitude": "-47.4731706"
 }

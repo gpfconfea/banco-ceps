@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Monaco",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.1839756",
+  "longitude": "-45.9508971"
 }

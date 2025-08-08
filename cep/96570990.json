@@ -1,9 +1,11 @@
 {
   "cep": "96570990",
   "logradouro": "Av Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caçapava do Sul",
   "uf": "RS",
-  "ibge": "4302808"
+  "ibge": "4302808",
+  "latitude": "-30.51626",
+  "longitude": "-53.48673"
 }

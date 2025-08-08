@@ -1,9 +1,11 @@
 {
   "cep": "63614976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cipó",
   "localidade": "Mombaça",
   "uf": "CE",
-  "ibge": "2308500"
+  "ibge": "2308500",
+  "latitude": "-3.7449808",
+  "longitude": "-38.6483705"
 }

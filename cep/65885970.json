@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Benedito Leite",
   "uf": "MA",
-  "ibge": "2101806"
+  "ibge": "2101806",
+  "latitude": "-2.5988891",
+  "longitude": "-44.2483166"
 }

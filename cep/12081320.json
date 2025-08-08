@@ -5,5 +5,7 @@
   "bairro": "Jardim Sonia Maria",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0330524",
+  "longitude": "-45.5347431"
 }

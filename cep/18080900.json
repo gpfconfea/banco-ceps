@@ -5,5 +5,7 @@
   "bairro": "Vila Odim Antão",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4721607",
+  "longitude": "-47.454815"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vitória do Xingu",
   "uf": "PA",
-  "ibge": "1508357"
+  "ibge": "1508357",
+  "latitude": "-2.8947637",
+  "longitude": "-52.0142409"
 }

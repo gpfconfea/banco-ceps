@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.1504712",
+  "longitude": "-42.7811751"
 }

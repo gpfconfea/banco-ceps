@@ -5,5 +5,7 @@
   "bairro": "Goiabeiras",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5998",
+  "longitude": "-56.11588"
 }

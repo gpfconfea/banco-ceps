@@ -5,5 +5,7 @@
   "bairro": "Gama",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.993276",
+  "longitude": "-48.0578632"
 }

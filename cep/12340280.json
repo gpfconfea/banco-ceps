@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-22.7027699",
+  "longitude": "-47.3810244"
 }

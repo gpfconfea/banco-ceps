@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-19.54192",
+  "longitude": "-40.6252"
 }

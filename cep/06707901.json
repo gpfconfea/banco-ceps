@@ -1,9 +1,11 @@
 {
   "cep": "06707901",
   "logradouro": "Rua Maestro Manoel Vitorino dos Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Granja Viana",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.5929719",
+  "longitude": "-46.8709627"
 }

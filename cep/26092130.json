@@ -5,5 +5,7 @@
   "bairro": "Rio D'ouro",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.8704213",
+  "longitude": "-43.6291445"
 }

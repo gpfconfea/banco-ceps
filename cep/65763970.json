@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tuntum",
   "uf": "MA",
-  "ibge": "2112308"
+  "ibge": "2112308",
+  "latitude": "-7.0194269",
+  "longitude": "-45.4829163"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62560976",
   "logradouro": "Rua Zeneide Osterno",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Marco",
   "uf": "CE",
-  "ibge": "2307809"
+  "ibge": "2307809",
+  "latitude": "-3.1288748",
+  "longitude": "-40.1585979"
 }

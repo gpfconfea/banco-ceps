@@ -5,5 +5,7 @@
   "bairro": "Pamplona",
   "localidade": "Rio do Sul",
   "uf": "SC",
-  "ibge": "4214805"
+  "ibge": "4214805",
+  "latitude": "-27.6553157",
+  "longitude": "-48.4874746"
 }

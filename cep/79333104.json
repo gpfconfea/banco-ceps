@@ -5,5 +5,7 @@
   "bairro": "Dom Bosco",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "latitude": "-21.6100791",
+  "longitude": "-55.1682302"
 }

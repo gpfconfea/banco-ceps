@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Gabriela",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5180886",
+  "longitude": "-47.3981355"
 }

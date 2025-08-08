@@ -5,5 +5,7 @@
   "bairro": "Soledade",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "latitude": "-20.694613",
+  "longitude": "-44.8390449"
 }

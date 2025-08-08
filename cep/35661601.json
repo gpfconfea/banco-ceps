@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "latitude": "-19.8741701",
+  "longitude": "-44.596212"
 }

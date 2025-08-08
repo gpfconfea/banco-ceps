@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-19.8301937",
+  "longitude": "-40.2701546"
 }

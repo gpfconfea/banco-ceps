@@ -1,9 +1,11 @@
 {
   "cep": "75360971",
   "logradouro": "Avenida José Rodrigues Naves Quadra 33 Lotes 7 e 8",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Padre Pelágio",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.50941",
+  "longitude": "-49.42842"
 }

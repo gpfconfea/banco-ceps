@@ -1,9 +1,11 @@
 {
   "cep": "37910974",
   "logradouro": "Rua Eulâmpia de Carvalho Lopes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Delfinópolis",
   "uf": "MG",
-  "ibge": "3121209"
+  "ibge": "3121209",
+  "latitude": "-20.4354313",
+  "longitude": "-46.7318415"
 }

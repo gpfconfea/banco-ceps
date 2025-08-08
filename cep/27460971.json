@@ -1,9 +1,11 @@
 {
   "cep": "27460971",
   "logradouro": "Estrada da Vendinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Fazenda da Grama",
   "localidade": "Rio Claro",
   "uf": "RJ",
-  "ibge": "3304409"
+  "ibge": "3304409",
+  "latitude": "-22.6527418",
+  "longitude": "-44.0368622"
 }

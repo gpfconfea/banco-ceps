@@ -1,9 +1,11 @@
 {
   "cep": "13257900",
   "logradouro": "Avenida Prefeito José Maurício de Camargo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Nossa Senhora das Graças",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-22.9908036",
+  "longitude": "-46.8467887"
 }

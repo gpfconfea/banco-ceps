@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alagoinha do Piauí",
   "uf": "PI",
-  "ibge": "2200251"
+  "ibge": "2200251",
+  "latitude": "-7.0097065",
+  "longitude": "-40.9371633"
 }

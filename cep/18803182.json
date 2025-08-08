@@ -5,5 +5,7 @@
   "bairro": "Vila Ana Maria",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.20776",
+  "longitude": "-49.37247"
 }

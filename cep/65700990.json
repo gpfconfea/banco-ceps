@@ -1,9 +1,11 @@
 {
   "cep": "65700990",
   "logradouro": "Rua Nova (Unid. Escolar Chagas Araújo)",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bacabal",
   "uf": "MA",
-  "ibge": "2101202"
+  "ibge": "2101202",
+  "latitude": "-4.26731",
+  "longitude": "-44.90196"
 }

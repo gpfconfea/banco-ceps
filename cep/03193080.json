@@ -5,5 +5,7 @@
   "bairro": "Vila Libanesa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5731964",
+  "longitude": "-46.5737717"
 }

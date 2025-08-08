@@ -5,5 +5,7 @@
   "bairro": "Vila São Benedito",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.1958723",
+  "longitude": "-45.8645996"
 }

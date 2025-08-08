@@ -5,5 +5,7 @@
   "bairro": "Vila Mocó",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-9.3865645",
+  "longitude": "-40.5054343"
 }

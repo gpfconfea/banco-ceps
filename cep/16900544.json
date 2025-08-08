@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Nova Esperança",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "latitude": "-20.8997219",
+  "longitude": "-51.3883489"
 }

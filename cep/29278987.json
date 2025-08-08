@@ -1,9 +1,11 @@
 {
   "cep": "29278987",
   "logradouro": "Avenida Módulo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aracê",
   "localidade": "Domingos Martins",
   "uf": "ES",
-  "ibge": "3201902"
+  "ibge": "3201902",
+  "latitude": "-20.3795248",
+  "longitude": "-41.0308129"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-12.9060463",
+  "longitude": "-38.4242093"
 }

@@ -6,5 +6,7 @@
   "bairro": "Cidade Alta",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.8865915",
+  "longitude": "-36.4712245"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santos Dumont I",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5507707",
+  "longitude": "-51.4125019"
 }

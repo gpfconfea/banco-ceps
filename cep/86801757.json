@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora da Aparecida",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.6008061",
+  "longitude": "-51.6291088"
 }

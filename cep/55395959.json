@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jupi",
   "uf": "PE",
-  "ibge": "2608305"
+  "ibge": "2608305",
+  "latitude": "-8.7122339",
+  "longitude": "-36.4149661"
 }

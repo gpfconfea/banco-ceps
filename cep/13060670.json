@@ -5,5 +5,7 @@
   "bairro": "Vila Regina",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9537131",
+  "longitude": "-47.1148972"
 }

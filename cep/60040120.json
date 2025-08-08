@@ -5,5 +5,7 @@
   "bairro": "José Bonifácio",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.8655731",
+  "longitude": "-38.4522596"
 }

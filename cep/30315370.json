@@ -5,5 +5,7 @@
   "bairro": "Comiteco",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9568723",
+  "longitude": "-43.9294274"
 }

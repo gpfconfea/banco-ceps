@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Abaíra",
   "uf": "BA",
-  "ibge": "2900108"
+  "ibge": "2900108",
+  "latitude": "-13.25016",
+  "longitude": "-41.66501"
 }

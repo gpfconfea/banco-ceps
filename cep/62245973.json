@@ -1,9 +1,11 @@
 {
   "cep": "62245973",
   "logradouro": "Rua Ernesto Bezerra da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Fátima",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "latitude": "-4.5015243",
+  "longitude": "-40.8173034"
 }

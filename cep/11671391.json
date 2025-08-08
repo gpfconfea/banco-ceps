@@ -5,5 +5,7 @@
   "bairro": "Loteamento Rio Marinas",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-22.7802937",
+  "longitude": "-47.1312425"
 }

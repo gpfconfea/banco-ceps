@@ -5,5 +5,7 @@
   "bairro": "Vila Fiori",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4764355",
+  "longitude": "-47.4654892"
 }

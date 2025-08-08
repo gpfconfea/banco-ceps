@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Inácio",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-13.0074321",
+  "longitude": "-38.4971508"
 }

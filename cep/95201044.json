@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Vacaria",
   "uf": "RS",
-  "ibge": "4322509"
+  "ibge": "4322509",
+  "latitude": "-28.5055323",
+  "longitude": "-50.9274921"
 }

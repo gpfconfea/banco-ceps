@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Conceição do Coité",
   "uf": "BA",
-  "ibge": "2908408"
+  "ibge": "2908408",
+  "latitude": "-11.5479301",
+  "longitude": "-39.393063"
 }

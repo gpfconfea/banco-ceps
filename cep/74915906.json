@@ -1,9 +1,11 @@
 {
   "cep": "74915906",
   "logradouro": "Avenida Rio Verde Quadra 102 / 104",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila São Tomaz",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.741933",
+  "longitude": "-49.277669"
 }

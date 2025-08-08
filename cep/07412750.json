@@ -5,5 +5,7 @@
   "bairro": "Portão",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.4154",
+  "longitude": "-46.34649"
 }

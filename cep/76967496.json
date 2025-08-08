@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "latitude": "-11.41651",
+  "longitude": "-61.45698"
 }

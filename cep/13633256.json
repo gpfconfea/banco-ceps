@@ -5,5 +5,7 @@
   "bairro": "Residencial Vila Romana",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-22.0077333",
+  "longitude": "-47.4346086"
 }

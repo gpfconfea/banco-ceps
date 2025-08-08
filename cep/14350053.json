@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Altinópolis",
   "uf": "SP",
-  "ibge": "3501004"
+  "ibge": "3501004",
+  "latitude": "-21.0254925",
+  "longitude": "-47.3735184"
 }

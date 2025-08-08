@@ -1,9 +1,11 @@
 {
   "cep": "95955959",
   "logradouro": "Avenida Itália",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Coqueiro Baixo",
   "uf": "RS",
-  "ibge": "4305835"
+  "ibge": "4305835",
+  "latitude": "-29.1773282",
+  "longitude": "-52.0972534"
 }

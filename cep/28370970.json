@@ -1,9 +1,11 @@
 {
   "cep": "28370970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rosal",
   "localidade": "Bom Jesus do Itabapoana",
   "uf": "RJ",
-  "ibge": "3300605"
+  "ibge": "3300605",
+  "latitude": "-21.2357412",
+  "longitude": "-41.4914784"
 }

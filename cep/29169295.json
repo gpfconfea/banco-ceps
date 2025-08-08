@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-7.4803988",
+  "longitude": "-37.2763473"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Regina Alice",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.4987071",
+  "longitude": "-46.8808349"
 }

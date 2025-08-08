@@ -5,5 +5,7 @@
   "bairro": "Loteamento Ibisco",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5741605",
+  "longitude": "-45.3304282"
 }

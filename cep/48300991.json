@@ -1,9 +1,11 @@
 {
   "cep": "48300991",
   "logradouro": "Avenida Oito de Setembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Conde",
   "uf": "BA",
-  "ibge": "2908606"
+  "ibge": "2908606",
+  "latitude": "-11.81393",
+  "longitude": "-37.61052"
 }

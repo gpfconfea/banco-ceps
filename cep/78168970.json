@@ -1,9 +1,11 @@
 {
   "cep": "78168970",
   "logradouro": "Praça Nino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Passagem da Conceição",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6464606",
+  "longitude": "-56.130748"
 }

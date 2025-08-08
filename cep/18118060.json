@@ -5,5 +5,7 @@
   "bairro": "Alphaville Nova Esplanada 3",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5721188",
+  "longitude": "-47.470633"
 }

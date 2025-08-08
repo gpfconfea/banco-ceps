@@ -5,5 +5,7 @@
   "bairro": "Pedreira",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6940211",
+  "longitude": "-46.6739633"
 }

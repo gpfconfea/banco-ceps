@@ -1,9 +1,11 @@
 {
   "cep": "63883975",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ipiranga",
   "localidade": "Boa Viagem",
   "uf": "CE",
-  "ibge": "2302404"
+  "ibge": "2302404",
+  "latitude": "-10.8906604",
+  "longitude": "-37.1166471"
 }

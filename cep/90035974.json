@@ -1,9 +1,11 @@
 {
   "cep": "90035974",
   "logradouro": "Largo Vespasiano Júlio Veppo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro Histórico",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0226969",
+  "longitude": "-51.2180255"
 }

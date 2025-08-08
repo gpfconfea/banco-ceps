@@ -5,5 +5,7 @@
   "bairro": "Bom Destino",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "latitude": "-19.8205563",
+  "longitude": "-43.8289003"
 }

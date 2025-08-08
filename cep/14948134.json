@@ -5,5 +5,7 @@
   "bairro": "Jardim Sarbony",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.75603",
+  "longitude": "-48.79928"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Dom Bosco",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-23.9807504",
+  "longitude": "-48.8900082"
 }

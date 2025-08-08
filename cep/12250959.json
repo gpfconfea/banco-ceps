@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monteiro Lobato",
   "uf": "SP",
-  "ibge": "3531704"
+  "ibge": "3531704",
+  "latitude": "-22.9548737",
+  "longitude": "-45.8380656"
 }

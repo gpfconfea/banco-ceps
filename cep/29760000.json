@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto Rio Novo",
   "uf": "ES",
-  "ibge": "3200359"
+  "ibge": "3200359",
+  "latitude": "-19.0577208",
+  "longitude": "-41.0171518"
 }

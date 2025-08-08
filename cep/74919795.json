@@ -5,5 +5,7 @@
   "bairro": "Residencial Cândido Queiroz",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7761728",
+  "longitude": "-49.2587005"
 }

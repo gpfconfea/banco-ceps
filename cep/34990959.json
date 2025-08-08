@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova União",
   "uf": "MG",
-  "ibge": "3136603"
+  "ibge": "3136603",
+  "latitude": "-19.68911",
+  "longitude": "-43.58103"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "74985900",
   "logradouro": "Anel Viário Quadra 1 Módulo 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Polo Empresarial Goiás",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.78626",
+  "longitude": "-49.25573"
 }

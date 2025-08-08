@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoão",
   "uf": "RS",
-  "ibge": "4311254"
+  "ibge": "4311254",
+  "latitude": "-29.2297394",
+  "longitude": "-52.7801294"
 }

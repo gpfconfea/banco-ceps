@@ -5,5 +5,7 @@
   "bairro": "Morada da Serra",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "latitude": "-19.8205",
+  "longitude": "-43.8309"
 }

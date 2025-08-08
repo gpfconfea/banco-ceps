@@ -5,5 +5,7 @@
   "bairro": "Vila Eduardo",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-7.8268163",
+  "longitude": "-34.910364"
 }

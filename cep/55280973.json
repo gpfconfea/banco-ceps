@@ -1,9 +1,11 @@
 {
   "cep": "55280973",
   "logradouro": "Rua Joao Galindo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila São Pedro do Cordeiro",
   "localidade": "Pedra",
   "uf": "PE",
-  "ibge": "2610806"
+  "ibge": "2610806",
+  "latitude": "-8.5007006",
+  "longitude": "-36.9446036"
 }

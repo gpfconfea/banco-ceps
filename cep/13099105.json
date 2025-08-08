@@ -5,5 +5,7 @@
   "bairro": "Carlos Gomes",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.7452972",
+  "longitude": "-47.0037955"
 }

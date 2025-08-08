@@ -1,9 +1,11 @@
 {
   "cep": "57265974",
   "logradouro": "Distrito Gulandim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Gulandim",
   "localidade": "Teotônio Vilela",
   "uf": "AL",
-  "ibge": "2709152"
+  "ibge": "2709152",
+  "latitude": "-9.9084895",
+  "longitude": "-36.3597748"
 }

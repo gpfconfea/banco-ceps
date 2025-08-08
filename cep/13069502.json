@@ -5,5 +5,7 @@
   "bairro": "Jardim Mirassol",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8440414",
+  "longitude": "-47.1388138"
 }

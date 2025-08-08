@@ -1,9 +1,11 @@
 {
   "cep": "86963990",
   "logradouro": "Rua Joaquim Murtin",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Barbosa Ferraz",
   "uf": "PR",
-  "ibge": "4102505"
+  "ibge": "4102505",
+  "latitude": "-24.18138",
+  "longitude": "-52.22172"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Souza Campos",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4885835",
+  "longitude": "-46.3101592"
 }

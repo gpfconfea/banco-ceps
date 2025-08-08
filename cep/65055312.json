@@ -5,5 +5,7 @@
   "bairro": "COHAPAM",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.4922073",
+  "longitude": "-44.2795105"
 }

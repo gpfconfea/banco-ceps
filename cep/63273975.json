@@ -1,9 +1,11 @@
 {
   "cep": "63273975",
   "logradouro": "Vila Simão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Simão",
   "localidade": "Porteiras",
   "uf": "CE",
-  "ibge": "2311108"
+  "ibge": "2311108",
+  "latitude": "-7.5139388",
+  "longitude": "-39.0959902"
 }

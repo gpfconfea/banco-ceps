@@ -5,5 +5,7 @@
   "bairro": "Terrazul BA",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.9708635",
+  "longitude": "-47.4155291"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cristália",
   "uf": "MG",
-  "ibge": "3120300"
+  "ibge": "3120300",
+  "latitude": "-16.7202751",
+  "longitude": "-42.8666618"
 }

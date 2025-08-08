@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Cavalari",
   "localidade": "Ipiguá",
   "uf": "SP",
-  "ibge": "3521150"
+  "ibge": "3521150",
+  "latitude": "-20.652758",
+  "longitude": "-49.384019"
 }

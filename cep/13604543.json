@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Prefeito Professor Milton Severino",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "latitude": "-22.3355286",
+  "longitude": "-47.3523807"
 }

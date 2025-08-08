@@ -5,5 +5,7 @@
   "bairro": "Jardim Casa Grande",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5703476",
+  "longitude": "-48.0413864"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Amélia",
   "uf": "PR",
-  "ibge": "4123105"
+  "ibge": "4123105",
+  "latitude": "-23.2670013",
+  "longitude": "-50.4307848"
 }

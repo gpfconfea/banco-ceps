@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Poetas",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-23.0076589",
+  "longitude": "-47.5182632"
 }

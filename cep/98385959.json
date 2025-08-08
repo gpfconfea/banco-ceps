@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dois Irmãos das Missões",
   "uf": "RS",
-  "ibge": "4306429"
+  "ibge": "4306429",
+  "latitude": "-27.6576",
+  "longitude": "-53.52649"
 }

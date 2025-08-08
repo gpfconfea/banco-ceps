@@ -5,5 +5,7 @@
   "bairro": "Residencial Bella Morada",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "latitude": "-23.4233127",
+  "longitude": "-51.4510967"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nipoã",
   "uf": "SP",
-  "ibge": "3532702"
+  "ibge": "3532702",
+  "latitude": "-20.915013",
+  "longitude": "-49.7791174"
 }

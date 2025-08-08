@@ -5,5 +5,7 @@
   "bairro": "Esperança",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "latitude": "-19.4617038",
+  "longitude": "-42.5760621"
 }

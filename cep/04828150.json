@@ -5,5 +5,7 @@
   "bairro": "Jardim Iporanga",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7275571",
+  "longitude": "-46.704743"
 }

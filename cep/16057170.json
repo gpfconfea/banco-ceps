@@ -5,5 +5,7 @@
   "bairro": "Vila Alba",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-21.1773838",
+  "longitude": "-50.4524705"
 }

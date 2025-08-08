@@ -5,5 +5,7 @@
   "bairro": "Jardim Quintas da Terracota",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0510269",
+  "longitude": "-47.2534888"
 }

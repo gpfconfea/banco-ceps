@@ -5,5 +5,7 @@
   "bairro": "João XXIII",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "latitude": "-19.5596076",
+  "longitude": "-42.6497224"
 }

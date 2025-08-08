@@ -5,5 +5,7 @@
   "bairro": "Catiapoa",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "latitude": "-23.9606556",
+  "longitude": "-46.3865158"
 }

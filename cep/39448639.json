@@ -5,5 +5,7 @@
   "bairro": "Residencial Portal Sul",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-15.7985272",
+  "longitude": "-43.3219194"
 }

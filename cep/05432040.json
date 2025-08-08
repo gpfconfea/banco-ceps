@@ -5,5 +5,7 @@
   "bairro": "Pinheiros",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5599806",
+  "longitude": "-46.687967"
 }

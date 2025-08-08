@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.76854",
+  "longitude": "-48.82079"
 }

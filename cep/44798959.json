@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Umburanas",
   "uf": "BA",
-  "ibge": "2932457"
+  "ibge": "2932457",
+  "latitude": "-10.73389",
+  "longitude": "-41.326"
 }

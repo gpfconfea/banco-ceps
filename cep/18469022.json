@@ -5,5 +5,7 @@
   "bairro": "Centro (Pedra Branca de Itararé)",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-24.11698",
+  "longitude": "-49.32596"
 }

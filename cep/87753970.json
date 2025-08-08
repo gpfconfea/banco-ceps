@@ -1,9 +1,11 @@
 {
   "cep": "87753970",
   "logradouro": "Avenida Jacareí",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Maristela",
   "localidade": "Alto Paraná",
   "uf": "PR",
-  "ibge": "4100608"
+  "ibge": "4100608",
+  "latitude": "-23.1291911",
+  "longitude": "-52.2956181"
 }

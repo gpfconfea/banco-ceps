@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Planalto Paulista",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9582507",
+  "longitude": "-46.985288"
 }
