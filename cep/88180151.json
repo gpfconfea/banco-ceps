@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Antônio Carlos",
   "uf": "SC",
-  "ibge": "4201208"
+  "ibge": "4201208",
+  "latitude": "-27.5210946",
+  "longitude": "-48.799191"
 }

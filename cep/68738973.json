@@ -1,9 +1,11 @@
 {
   "cep": "68738973",
   "logradouro": "Vila Jesu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Maria do Pará",
   "uf": "PA",
-  "ibge": "1506609"
+  "ibge": "1506609",
+  "latitude": "-1.3501218",
+  "longitude": "-47.575462"
 }

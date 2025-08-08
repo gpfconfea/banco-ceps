@@ -5,5 +5,7 @@
   "bairro": "Jardim das Maravilhas",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6237617",
+  "longitude": "-46.5173706"
 }

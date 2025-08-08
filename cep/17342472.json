@@ -6,5 +6,7 @@
   "bairro": "Fazenda Santana",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.4854668",
+  "longitude": "-48.5485778"
 }

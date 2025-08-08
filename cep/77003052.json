@@ -5,5 +5,7 @@
   "bairro": "Loteamento Sonho Meu",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "latitude": "-10.119555",
+  "longitude": "-48.32604"
 }

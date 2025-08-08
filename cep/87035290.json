@@ -5,5 +5,7 @@
   "bairro": "Ebenezer",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3874962",
+  "longitude": "-51.9041025"
 }

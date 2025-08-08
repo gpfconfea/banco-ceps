@@ -5,5 +5,7 @@
   "bairro": "Sadia",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "latitude": "-24.7525833",
+  "longitude": "-53.7354571"
 }

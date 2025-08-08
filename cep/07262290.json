@@ -5,5 +5,7 @@
   "bairro": "Jardim Anny",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4770182",
+  "longitude": "-46.3969775"
 }

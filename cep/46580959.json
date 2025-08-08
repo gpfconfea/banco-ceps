@@ -1,9 +1,11 @@
 {
   "cep": "46580959",
   "logradouro": "Avenida Prefeito João Neves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tanque Novo",
   "uf": "BA",
-  "ibge": "2931053"
+  "ibge": "2931053",
+  "latitude": "-13.5557228",
+  "longitude": "-42.4833846"
 }

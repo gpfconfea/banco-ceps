@@ -5,5 +5,7 @@
   "bairro": "Parque do Café",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.7812645",
+  "longitude": "-47.8360138"
 }

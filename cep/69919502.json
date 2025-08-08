@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-29.9631375",
+  "longitude": "-51.1980468"
 }

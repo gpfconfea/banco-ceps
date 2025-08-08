@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9499126",
+  "longitude": "-43.9371705"
 }

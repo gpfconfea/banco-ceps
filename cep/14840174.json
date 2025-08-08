@@ -6,5 +6,7 @@
   "bairro": "Vila Pacífico",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.355909",
+  "longitude": "-48.2294799"
 }

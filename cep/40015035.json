@@ -5,5 +5,7 @@
   "bairro": "Comércio",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9640599",
+  "longitude": "-38.5058289"
 }

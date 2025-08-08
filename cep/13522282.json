@@ -6,5 +6,7 @@
   "bairro": "Bela Vista",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "latitude": "-22.5509428",
+  "longitude": "-47.9018911"
 }

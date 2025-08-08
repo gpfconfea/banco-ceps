@@ -5,5 +5,7 @@
   "bairro": "Padre Jackson",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.4206901",
+  "longitude": "-49.3020085"
 }

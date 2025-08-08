@@ -5,5 +5,7 @@
   "bairro": "Colinas de Itapevi",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.6265756",
+  "longitude": "-46.6001817"
 }

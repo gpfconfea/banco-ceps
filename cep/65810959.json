@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alto Parnaíba",
   "uf": "MA",
-  "ibge": "2100501"
+  "ibge": "2100501",
+  "latitude": "-9.1134385",
+  "longitude": "-45.9284297"
 }

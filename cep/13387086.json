@@ -5,5 +5,7 @@
   "bairro": "Vila Azenha",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7708048",
+  "longitude": "-47.291436"
 }

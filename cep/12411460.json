@@ -5,5 +5,7 @@
   "bairro": "Residencial Maricá",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-22.9334506",
+  "longitude": "-45.4318071"
 }

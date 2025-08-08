@@ -5,5 +5,7 @@
   "bairro": "Jardim Dracena",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5555877",
+  "longitude": "-46.8314908"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Bento",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "latitude": "-21.832292",
+  "longitude": "-46.5691667"
 }

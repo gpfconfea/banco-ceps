@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.3939785",
+  "longitude": "-43.4912586"
 }

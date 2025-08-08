@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Guilhermina",
   "localidade": "Pirajuí",
   "uf": "SP",
-  "ibge": "3538907"
+  "ibge": "3538907",
+  "latitude": "-21.9846285",
+  "longitude": "-49.4620825"
 }

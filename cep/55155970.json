@@ -1,9 +1,11 @@
 {
   "cep": "55155970",
   "logradouro": "Praça Dom Luiz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Pedro",
   "localidade": "Belo Jardim",
   "uf": "PE",
-  "ibge": "2601706"
+  "ibge": "2601706",
+  "latitude": "-8.334144",
+  "longitude": "-36.4205788"
 }

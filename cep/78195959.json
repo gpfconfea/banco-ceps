@@ -1,9 +1,11 @@
 {
   "cep": "78195959",
   "logradouro": "Rua Tiradentes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Chapada dos Guimarães",
   "uf": "MT",
-  "ibge": "5103007"
+  "ibge": "5103007",
+  "latitude": "-15.4495321",
+  "longitude": "-55.7436608"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Dona Tonica",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2380292",
+  "longitude": "-47.3258032"
 }

@@ -5,5 +5,7 @@
   "bairro": "Paraíso do Tobias",
   "localidade": "Miracema",
   "uf": "RJ",
-  "ibge": "3303005"
+  "ibge": "3303005",
+  "latitude": "-21.4314",
+  "longitude": "-42.1008"
 }

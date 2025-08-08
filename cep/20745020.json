@@ -5,5 +5,7 @@
   "bairro": "Encantado",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.89827",
+  "longitude": "-43.3073863"
 }

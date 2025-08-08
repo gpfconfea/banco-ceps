@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sardoá",
   "uf": "MG",
-  "ibge": "3165503"
+  "ibge": "3165503",
+  "latitude": "-18.7826247",
+  "longitude": "-42.3667772"
 }

@@ -5,5 +5,7 @@
   "bairro": "Planalto de Minas",
   "localidade": "Diamantina",
   "uf": "MG",
-  "ibge": "3121605"
+  "ibge": "3121605",
+  "latitude": "-17.5269049",
+  "longitude": "-43.2692716"
 }

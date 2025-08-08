@@ -5,5 +5,7 @@
   "bairro": "IAPI",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-11.8544574",
+  "longitude": "-37.5690712"
 }

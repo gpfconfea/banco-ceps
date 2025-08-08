@@ -5,5 +5,7 @@
   "bairro": "Campos Elísios",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.405751",
+  "longitude": "-45.9457744"
 }

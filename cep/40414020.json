@@ -5,5 +5,7 @@
   "bairro": "Boa Viagem",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-13.9471596",
+  "longitude": "-73.6707086"
 }

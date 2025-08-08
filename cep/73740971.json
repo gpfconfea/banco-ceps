@@ -1,9 +1,11 @@
 {
   "cep": "73740971",
   "logradouro": "Rua 15 de novembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Colinas do Sul",
   "uf": "GO",
-  "ibge": "5205521"
+  "ibge": "5205521",
+  "latitude": "-27.0487974",
+  "longitude": "-48.8677949"
 }

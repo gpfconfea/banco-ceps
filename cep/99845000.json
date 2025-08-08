@@ -5,5 +5,7 @@
   "bairro": "Rio Tigre",
   "localidade": "Sananduva",
   "uf": "RS",
-  "ibge": "4316600"
+  "ibge": "4316600",
+  "latitude": "-27.8536138",
+  "longitude": "-51.9009107"
 }

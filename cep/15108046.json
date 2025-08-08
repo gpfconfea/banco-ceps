@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Ipiguá",
   "uf": "SP",
-  "ibge": "3521150"
+  "ibge": "3521150",
+  "latitude": "-20.6608729",
+  "longitude": "-49.386122"
 }

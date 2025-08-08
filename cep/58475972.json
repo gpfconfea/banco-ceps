@@ -1,9 +1,11 @@
 {
   "cep": "58475972",
   "logradouro": "Sítio Ligeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Queimadas",
   "uf": "PB",
-  "ibge": "2512507"
+  "ibge": "2512507",
+  "latitude": "-7.3637571",
+  "longitude": "-35.9023681"
 }

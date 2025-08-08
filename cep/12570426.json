@@ -6,5 +6,7 @@
   "bairro": "São Francisco",
   "localidade": "Aparecida",
   "uf": "SP",
-  "ibge": "3502507"
+  "ibge": "3502507",
+  "latitude": "-22.8638812",
+  "longitude": "-45.2228162"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Cruz",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.1068533",
+  "longitude": "-48.9281747"
 }

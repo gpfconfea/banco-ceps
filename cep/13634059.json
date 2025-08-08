@@ -5,5 +5,7 @@
   "bairro": "Vila Steola",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.9960646",
+  "longitude": "-47.4344177"
 }

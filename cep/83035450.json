@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "-25.5177327",
+  "longitude": "-49.2072043"
 }

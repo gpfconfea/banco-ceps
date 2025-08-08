@@ -1,9 +1,11 @@
 {
   "cep": "86890971",
   "logradouro": "Rua dos Patriotas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sete de Maio",
   "localidade": "Cambira",
   "uf": "PR",
-  "ibge": "4103800"
+  "ibge": "4103800",
+  "latitude": "-23.6855151",
+  "longitude": "-51.5094189"
 }

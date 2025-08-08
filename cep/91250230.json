@@ -5,5 +5,7 @@
   "bairro": "Jardim Leopoldina",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0346471",
+  "longitude": "-51.2176584"
 }

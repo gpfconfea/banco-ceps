@@ -6,5 +6,7 @@
   "bairro": "Vila Jardim",
   "localidade": "Adamantina",
   "uf": "SP",
-  "ibge": "3500105"
+  "ibge": "3500105",
+  "latitude": "-21.6832314",
+  "longitude": "-51.0668841"
 }

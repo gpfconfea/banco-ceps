@@ -1,9 +1,11 @@
 {
   "cep": "61677974",
   "logradouro": "Avenida Brasília",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bom Princípio",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.752655",
+  "longitude": "-38.6224701"
 }

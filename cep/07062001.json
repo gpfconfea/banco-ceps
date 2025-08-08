@@ -5,5 +5,7 @@
   "bairro": "Jardim Gopoúva",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4652807",
+  "longitude": "-46.5461277"
 }

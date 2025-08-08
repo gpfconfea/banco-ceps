@@ -5,5 +5,7 @@
   "bairro": "Periperi",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.8695981",
+  "longitude": "-38.465856"
 }

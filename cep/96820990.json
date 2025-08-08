@@ -1,9 +1,11 @@
 {
   "cep": "96820990",
   "logradouro": "RS-287, km 92",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "latitude": "-14.235004",
+  "longitude": "-51.92528"
 }

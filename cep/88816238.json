@@ -5,5 +5,7 @@
   "bairro": "Cristo Redentor",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.7034421",
+  "longitude": "-49.3355073"
 }

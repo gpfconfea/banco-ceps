@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Pires do Rio",
   "uf": "GO",
-  "ibge": "5217401"
+  "ibge": "5217401",
+  "latitude": "-17.3143154",
+  "longitude": "-48.2771056"
 }

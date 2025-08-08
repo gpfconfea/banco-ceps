@@ -5,5 +5,7 @@
   "bairro": "Residencial Julieta",
   "localidade": "Manduri",
   "uf": "SP",
-  "ibge": "3528601"
+  "ibge": "3528601",
+  "latitude": "-23.0140436",
+  "longitude": "-49.3171312"
 }

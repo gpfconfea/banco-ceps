@@ -5,5 +5,7 @@
   "bairro": "Núcleo Santa Rita de Cássia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0844044",
+  "longitude": "-47.2108795"
 }

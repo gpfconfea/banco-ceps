@@ -5,5 +5,7 @@
   "bairro": "Tara",
   "localidade": "Pedra",
   "uf": "PE",
-  "ibge": "2610806"
+  "ibge": "2610806",
+  "latitude": "-8.7333333",
+  "longitude": "-36.8166667"
 }

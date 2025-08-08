@@ -1,9 +1,11 @@
 {
   "cep": "63460991",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pereiro",
   "uf": "CE",
-  "ibge": "2310803"
+  "ibge": "2310803",
+  "latitude": "41.5237277",
+  "longitude": "-7.8026337"
 }

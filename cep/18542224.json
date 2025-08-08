@@ -6,5 +6,7 @@
   "bairro": "Residencial Humberto Martelli",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.1974553",
+  "longitude": "-47.5226212"
 }

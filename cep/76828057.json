@@ -5,5 +5,7 @@
   "bairro": "Jardim Santana",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.762584",
+  "longitude": "-63.812887"
 }

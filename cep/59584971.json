@@ -1,9 +1,11 @@
 {
   "cep": "59584971",
   "logradouro": "Distrito Boa Cica",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Boa Cica",
   "localidade": "Touros",
   "uf": "RN",
-  "ibge": "2414407"
+  "ibge": "2414407",
+  "latitude": "-5.2817726",
+  "longitude": "-35.5572931"
 }

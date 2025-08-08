@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapura",
   "uf": "SP",
-  "ibge": "3523008"
+  "ibge": "3523008",
+  "latitude": "-20.645821",
+  "longitude": "-51.510594"
 }

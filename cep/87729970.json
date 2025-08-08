@@ -5,5 +5,7 @@
   "bairro": "Mandiocaba",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-23.6446716",
+  "longitude": "-46.4547994"
 }

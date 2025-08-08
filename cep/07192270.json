@@ -5,5 +5,7 @@
   "bairro": "Jardim São Judas Tadeu",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.455253",
+  "longitude": "-46.5057951"
 }

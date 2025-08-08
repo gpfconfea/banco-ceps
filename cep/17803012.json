@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Mônica",
   "localidade": "Adamantina",
   "uf": "SP",
-  "ibge": "3500105"
+  "ibge": "3500105",
+  "latitude": "-21.7016868",
+  "longitude": "-51.0679949"
 }

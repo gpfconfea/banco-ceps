@@ -5,5 +5,7 @@
   "bairro": "Diadema",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "latitude": "-19.0042871",
+  "longitude": "-44.0359348"
 }

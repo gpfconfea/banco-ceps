@@ -1,9 +1,11 @@
 {
   "cep": "54520992",
   "logradouro": "Engenho Propriedade Serraria PE-60 km 08 - Vila Dois Irmãos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "latitude": "-14.235004",
+  "longitude": "-51.92528"
 }

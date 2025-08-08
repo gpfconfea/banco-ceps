@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Ipanema",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4580845",
+  "longitude": "-46.551183"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipanema (São Miguel)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5131629",
+  "longitude": "-46.4363354"
 }

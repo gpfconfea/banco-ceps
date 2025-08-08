@@ -5,5 +5,7 @@
   "bairro": "Rio Marinho",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.364267",
+  "longitude": "-40.359243"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62534976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Riachão",
   "localidade": "Miraíma",
   "uf": "CE",
-  "ibge": "2308377"
+  "ibge": "2308377",
+  "latitude": "-3.5692506",
+  "longitude": "-39.7639608"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65233970",
   "logradouro": "Rua São Lino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bacurituba",
   "uf": "MA",
-  "ibge": "2101350"
+  "ibge": "2101350",
+  "latitude": "-2.7083357",
+  "longitude": "-44.7363141"
 }

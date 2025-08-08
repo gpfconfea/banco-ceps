@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipecaetá",
   "uf": "BA",
-  "ibge": "2913804"
+  "ibge": "2913804",
+  "latitude": "-12.3167106",
+  "longitude": "-39.30736"
 }

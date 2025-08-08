@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pimenta Bueno",
   "uf": "RO",
-  "ibge": "1100189"
+  "ibge": "1100189",
+  "latitude": "-11.6737761",
+  "longitude": "-61.1866484"
 }
