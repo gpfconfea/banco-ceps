@@ -1,9 +1,11 @@
 {
   "cep": "15795970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Esmeralda",
   "localidade": "Rubinéia",
   "uf": "SP",
-  "ibge": "3544509"
+  "ibge": "3544509",
+  "latitude": "-22.7449792",
+  "longitude": "-47.3752548"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Laís",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5177538",
+  "longitude": "-46.53516"
 }

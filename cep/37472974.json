@@ -1,9 +1,11 @@
 {
   "cep": "37472974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Carmo de Minas",
   "uf": "MG",
-  "ibge": "3114105"
+  "ibge": "3114105",
+  "latitude": "-19.953847",
+  "longitude": "-43.9442564"
 }

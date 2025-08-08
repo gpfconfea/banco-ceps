@@ -1,9 +1,11 @@
 {
   "cep": "62951990",
   "logradouro": "Rua Raimundo José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Morada Nova",
   "uf": "CE",
-  "ibge": "2308708"
+  "ibge": "2308708",
+  "latitude": "-5.2120708",
+  "longitude": "-49.0472147"
 }

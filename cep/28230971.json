@@ -1,9 +1,11 @@
 {
   "cep": "28230971",
   "logradouro": "Estrada do Amontoado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Amontoado Brejo Grande",
   "localidade": "São Francisco de Itabapoana",
   "uf": "RJ",
-  "ibge": "3304755"
+  "ibge": "3304755",
+  "latitude": "-21.4033845",
+  "longitude": "-41.1602597"
 }

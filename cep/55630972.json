@@ -1,9 +1,11 @@
 {
   "cep": "55630972",
   "logradouro": "Rua da Usina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nossa Senhora do Carmo",
   "localidade": "Pombos",
   "uf": "PE",
-  "ibge": "2611309"
+  "ibge": "2611309",
+  "latitude": "-23.4666847",
+  "longitude": "-46.6846216"
 }

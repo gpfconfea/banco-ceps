@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Itatinga",
   "localidade": "Itatinga",
   "uf": "SP",
-  "ibge": "3523503"
+  "ibge": "3523503",
+  "latitude": "-23.1019",
+  "longitude": "-48.61531"
 }

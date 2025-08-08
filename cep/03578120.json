@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapema",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5579319",
+  "longitude": "-46.5040146"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "50670900",
   "logradouro": "Avenida Professor Moraes Rego",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Iputinga",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.045392",
+  "longitude": "-34.9442429"
 }

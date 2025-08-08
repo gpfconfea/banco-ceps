@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Tereza",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-22.9432342",
+  "longitude": "-43.3619669"
 }

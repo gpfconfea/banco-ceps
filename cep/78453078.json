@@ -5,5 +5,7 @@
   "bairro": "Residencial das Acácias",
   "localidade": "Nova Mutum",
   "uf": "MT",
-  "ibge": "5106224"
+  "ibge": "5106224",
+  "latitude": "-15.59887",
+  "longitude": "-56.09465"
 }

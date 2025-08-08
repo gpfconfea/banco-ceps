@@ -1,9 +1,11 @@
 {
   "cep": "78144902",
   "logradouro": "Rodovia Mário Andreazza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Petrópolis",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6080786",
+  "longitude": "-56.1389088"
 }

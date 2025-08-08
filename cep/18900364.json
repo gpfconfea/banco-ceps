@@ -5,5 +5,7 @@
   "bairro": "Vila Joaquim Paulino",
   "localidade": "Santa Cruz do Rio Pardo",
   "uf": "SP",
-  "ibge": "3546405"
+  "ibge": "3546405",
+  "latitude": "-22.8955074",
+  "longitude": "-49.6195578"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paiva",
   "uf": "MG",
-  "ibge": "3146602"
+  "ibge": "3146602",
+  "latitude": "-21.2880869",
+  "longitude": "-43.4143391"
 }

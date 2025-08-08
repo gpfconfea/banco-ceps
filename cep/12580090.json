@@ -6,5 +6,7 @@
   "bairro": "Villa Roma",
   "localidade": "Roseira",
   "uf": "SP",
-  "ibge": "3544301"
+  "ibge": "3544301",
+  "latitude": "-22.9042834",
+  "longitude": "-45.3148833"
 }

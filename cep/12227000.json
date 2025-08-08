@@ -5,5 +5,7 @@
   "bairro": "Parque Martim Cererê",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.2225028",
+  "longitude": "-45.8561283"
 }

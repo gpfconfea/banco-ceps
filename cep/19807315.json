@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rita",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-22.6439641",
+  "longitude": "-50.4273677"
 }

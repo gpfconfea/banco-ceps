@@ -5,5 +5,7 @@
   "bairro": "Vila Bela Aliança",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5208821",
+  "longitude": "-46.732574"
 }

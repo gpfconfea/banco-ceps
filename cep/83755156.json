@@ -5,5 +5,7 @@
   "bairro": "Centro (Mariental)",
   "localidade": "Lapa",
   "uf": "PR",
-  "ibge": "4113205"
+  "ibge": "4113205",
+  "latitude": "-25.71713",
+  "longitude": "-49.65745"
 }

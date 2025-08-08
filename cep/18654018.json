@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Antônio",
   "localidade": "São Manuel",
   "uf": "SP",
-  "ibge": "3550100"
+  "ibge": "3550100",
+  "latitude": "-23.75415",
+  "longitude": "-46.68112"
 }

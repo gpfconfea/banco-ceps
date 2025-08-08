@@ -1,9 +1,11 @@
 {
   "cep": "78277970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa União",
   "localidade": "Rio Branco",
   "uf": "MT",
-  "ibge": "5107206"
+  "ibge": "5107206",
+  "latitude": "-10.0072932",
+  "longitude": "-67.7944355"
 }

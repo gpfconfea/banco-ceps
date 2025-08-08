@@ -1,9 +1,11 @@
 {
   "cep": "46145971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Timóteo",
   "localidade": "Livramento de Nossa Senhora",
   "uf": "BA",
-  "ibge": "2919504"
+  "ibge": "2919504",
+  "latitude": "-13.6505425",
+  "longitude": "-41.8424703"
 }

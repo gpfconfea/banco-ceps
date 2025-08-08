@@ -6,5 +6,7 @@
   "bairro": "Nova Sussuarana",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9370447",
+  "longitude": "-38.4311407"
 }

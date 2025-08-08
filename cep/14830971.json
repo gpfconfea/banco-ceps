@@ -1,9 +1,11 @@
 {
   "cep": "14830971",
   "logradouro": "Rua João Candido Gonçalves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Taquaral",
   "localidade": "Rincão",
   "uf": "SP",
-  "ibge": "3543709"
+  "ibge": "3543709",
+  "latitude": "-23.4152653",
+  "longitude": "-46.7474483"
 }

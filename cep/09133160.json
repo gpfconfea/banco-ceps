@@ -5,5 +5,7 @@
   "bairro": "Parque Miami",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.7417911",
+  "longitude": "-46.4999703"
 }

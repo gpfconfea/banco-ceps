@@ -5,5 +5,7 @@
   "bairro": "Residencial Bom Jardim",
   "localidade": "Rio das Pedras",
   "uf": "SP",
-  "ibge": "3544004"
+  "ibge": "3544004",
+  "latitude": "-22.82884",
+  "longitude": "-47.5961216"
 }

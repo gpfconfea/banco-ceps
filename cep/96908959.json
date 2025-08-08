@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Passa Sete",
   "uf": "RS",
-  "ibge": "4314068"
+  "ibge": "4314068",
+  "latitude": "-29.4458691",
+  "longitude": "-52.9668263"
 }

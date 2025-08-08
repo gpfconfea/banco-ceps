@@ -5,5 +5,7 @@
   "bairro": "Marari",
   "localidade": "Tangará",
   "uf": "SC",
-  "ibge": "4217907"
+  "ibge": "4217907",
+  "latitude": "-27.212038",
+  "longitude": "-51.110244"
 }

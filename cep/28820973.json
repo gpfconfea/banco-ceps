@@ -1,9 +1,11 @@
 {
   "cep": "28820973",
   "logradouro": "Rua Joaquim Belmiro Machado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aldeia Velha",
   "localidade": "Silva Jardim",
   "uf": "RJ",
-  "ibge": "3305604"
+  "ibge": "3305604",
+  "latitude": "-22.4686803",
+  "longitude": "-42.3097738"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "Arcoverde",
   "uf": "PE",
-  "ibge": "2601201"
+  "ibge": "2601201",
+  "latitude": "-8.4049082",
+  "longitude": "-37.098194"
 }

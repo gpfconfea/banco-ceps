@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "latitude": "-25.8520668",
+  "longitude": "-52.5227938"
 }

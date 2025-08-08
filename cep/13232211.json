@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Califórnia",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-23.2133819",
+  "longitude": "-46.7645115"
 }

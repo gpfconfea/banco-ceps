@@ -1,9 +1,11 @@
 {
   "cep": "28735971",
   "logradouro": "Avenida Atlântica",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra do Furado",
   "localidade": "Quissamã",
   "uf": "RJ",
-  "ibge": "3304151"
+  "ibge": "3304151",
+  "latitude": "-22.0998916",
+  "longitude": "-41.1437683"
 }

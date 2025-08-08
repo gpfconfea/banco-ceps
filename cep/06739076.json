@@ -6,5 +6,7 @@
   "bairro": "Jardim Margarida",
   "localidade": "Vargem Grande Paulista",
   "uf": "SP",
-  "ibge": "3556453"
+  "ibge": "3556453",
+  "latitude": "-23.6174",
+  "longitude": "-47.04476"
 }

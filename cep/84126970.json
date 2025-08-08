@@ -1,9 +1,11 @@
 {
   "cep": "84126970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cerrado Grande",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "latitude": "-24.3641657",
+  "longitude": "-50.8794504"
 }

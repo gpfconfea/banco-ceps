@@ -5,5 +5,7 @@
   "bairro": "Várzea",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0377086",
+  "longitude": "-34.9782714"
 }

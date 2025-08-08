@@ -5,5 +5,7 @@
   "bairro": "Francisco Pereira",
   "localidade": "Lagoa Santa",
   "uf": "MG",
-  "ibge": "3137601"
+  "ibge": "3137601",
+  "latitude": "-19.6548139",
+  "longitude": "-43.8747357"
 }

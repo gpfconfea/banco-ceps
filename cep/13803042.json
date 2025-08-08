@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Antonieta",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4537986",
+  "longitude": "-46.9765895"
 }

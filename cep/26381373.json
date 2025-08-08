@@ -5,5 +5,7 @@
   "bairro": "Do Carmo",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.6981818",
+  "longitude": "-43.5689167"
 }

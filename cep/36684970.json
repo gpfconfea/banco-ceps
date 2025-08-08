@@ -1,9 +1,11 @@
 {
   "cep": "36684970",
   "logradouro": "Rua Olinto Lopes Faria",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ituí",
   "localidade": "São João Nepomuceno",
   "uf": "MG",
-  "ibge": "3162906"
+  "ibge": "3162906",
+  "latitude": "-21.516667",
+  "longitude": "-42.933333"
 }

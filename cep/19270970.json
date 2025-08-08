@@ -5,5 +5,7 @@
   "bairro": "Cuiabá Paulista",
   "localidade": "Mirante do Paranapanema",
   "uf": "SP",
-  "ibge": "3530201"
+  "ibge": "3530201",
+  "latitude": "-22.2851859",
+  "longitude": "-52.1026275"
 }

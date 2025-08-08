@@ -6,5 +6,7 @@
   "bairro": "Parque das Rosas",
   "localidade": "Roseira",
   "uf": "SP",
-  "ibge": "3544301"
+  "ibge": "3544301",
+  "latitude": "-23.28154",
+  "longitude": "-47.30203"
 }

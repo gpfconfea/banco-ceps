@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "latitude": "-28.2114837",
+  "longitude": "-52.5442148"
 }

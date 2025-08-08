@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial II",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-2.6390348",
+  "longitude": "-56.754164"
 }

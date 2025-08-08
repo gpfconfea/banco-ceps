@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jarinu",
   "uf": "SP",
-  "ibge": "3525201"
+  "ibge": "3525201",
+  "latitude": "-23.17625",
+  "longitude": "-46.7411"
 }

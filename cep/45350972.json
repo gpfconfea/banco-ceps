@@ -1,9 +1,11 @@
 {
   "cep": "45350972",
   "logradouro": "Avenida Amélia Umburanas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Upabuçu",
   "localidade": "Itiruçu",
   "uf": "BA",
-  "ibge": "2916906"
+  "ibge": "2916906",
+  "latitude": "-13.4600124",
+  "longitude": "-40.2267559"
 }

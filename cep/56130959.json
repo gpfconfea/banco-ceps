@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cedro",
   "uf": "PE",
-  "ibge": "2604304"
+  "ibge": "2604304",
+  "latitude": "-8.2350807",
+  "longitude": "-35.7537264"
 }

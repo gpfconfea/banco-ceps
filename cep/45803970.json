@@ -1,9 +1,11 @@
 {
   "cep": "45803970",
   "logradouro": "Rua São Sebastião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mogiquiçaba",
   "localidade": "Belmonte",
   "uf": "BA",
-  "ibge": "2903409"
+  "ibge": "2903409",
+  "latitude": "40.2121044",
+  "longitude": "-8.3879219"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "75449959",
   "logradouro": "Avenida Bernardo Sayão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Brazabrantes",
   "uf": "GO",
-  "ibge": "5203609"
+  "ibge": "5203609",
+  "latitude": "-16.43028",
+  "longitude": "-49.38844"
 }

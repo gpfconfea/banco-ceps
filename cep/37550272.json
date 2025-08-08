@@ -5,5 +5,7 @@
   "bairro": "Coronel Evaristo Azevedo Junqueira",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2365402",
+  "longitude": "-45.9373807"
 }

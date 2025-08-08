@@ -1,9 +1,11 @@
 {
   "cep": "65962959",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jenipapo dos Vieiras",
   "uf": "MA",
-  "ibge": "2105476"
+  "ibge": "2105476",
+  "latitude": "-5.36977",
+  "longitude": "-45.63615"
 }

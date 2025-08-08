@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.7389311",
+  "longitude": "-45.5975835"
 }

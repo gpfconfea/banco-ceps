@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-20.3244915",
+  "longitude": "-40.3938566"
 }

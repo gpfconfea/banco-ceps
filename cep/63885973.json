@@ -1,9 +1,11 @@
 {
   "cep": "63885973",
   "logradouro": "Rua do Colégio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guia",
   "localidade": "Boa Viagem",
   "uf": "CE",
-  "ibge": "2302404"
+  "ibge": "2302404",
+  "latitude": "-4.9130142",
+  "longitude": "-39.8054688"
 }

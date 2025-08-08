@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Frutal",
   "uf": "MG",
-  "ibge": "3127107"
+  "ibge": "3127107",
+  "latitude": "-20.0252545",
+  "longitude": "-48.9353809"
 }

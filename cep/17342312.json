@@ -6,5 +6,7 @@
   "bairro": "Jardim Santa Maria",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.484464",
+  "longitude": "-48.5571952"
 }

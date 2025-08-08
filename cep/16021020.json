@@ -5,5 +5,7 @@
   "bairro": "Esplanada",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-23.2394454",
+  "longitude": "-45.8981311"
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Giovanni Fornoni",
   "localidade": "Pardinho",
   "uf": "SP",
-  "ibge": "3536109"
+  "ibge": "3536109",
+  "latitude": "-22.0115",
+  "longitude": "-46.81559"
 }

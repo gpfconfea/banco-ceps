@@ -5,5 +5,7 @@
   "bairro": "Jardim Gramados de Sorocaba",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5022839",
+  "longitude": "-47.4177018"
 }

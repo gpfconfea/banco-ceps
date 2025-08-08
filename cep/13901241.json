@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Antônio",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-22.699049",
+  "longitude": "-46.7742306"
 }

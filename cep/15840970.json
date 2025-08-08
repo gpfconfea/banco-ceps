@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itajobi",
   "uf": "SP",
-  "ibge": "3521903"
+  "ibge": "3521903",
+  "latitude": "-21.3146337",
+  "longitude": "-49.0549947"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Reserva Santa Maria",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-3.0847625",
+  "longitude": "-60.0436918"
 }

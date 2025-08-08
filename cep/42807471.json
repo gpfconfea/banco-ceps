@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.7139697",
+  "longitude": "-38.3428161"
 }

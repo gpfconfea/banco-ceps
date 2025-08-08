@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "latitude": "-22.5698359",
+  "longitude": "-43.0606973"
 }

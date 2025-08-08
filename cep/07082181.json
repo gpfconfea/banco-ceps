@@ -5,5 +5,7 @@
   "bairro": "Jardim Carioca",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4407571",
+  "longitude": "-46.5483748"
 }

@@ -5,5 +5,7 @@
   "bairro": "Rio Quartel",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.5219611",
+  "longitude": "-40.1481698"
 }

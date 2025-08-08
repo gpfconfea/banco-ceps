@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Pedro",
   "uf": "RN",
-  "ibge": "2412708"
+  "ibge": "2412708",
+  "latitude": "-5.900673",
+  "longitude": "-35.6333922"
 }

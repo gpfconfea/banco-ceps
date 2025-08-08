@@ -6,5 +6,7 @@
   "bairro": "Vila Rica",
   "localidade": "Jarinu",
   "uf": "SP",
-  "ibge": "3525201"
+  "ibge": "3525201",
+  "latitude": "-23.1043903",
+  "longitude": "-46.7273928"
 }

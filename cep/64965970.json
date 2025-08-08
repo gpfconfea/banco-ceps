@@ -1,9 +1,11 @@
 {
   "cep": "64965970",
   "logradouro": "Avenida Sérgio Gama",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Avelino Lopes",
   "uf": "PI",
-  "ibge": "2201101"
+  "ibge": "2201101",
+  "latitude": "-10.1332585",
+  "longitude": "-43.9573414"
 }

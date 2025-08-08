@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.3759291",
+  "longitude": "-46.1627545"
 }

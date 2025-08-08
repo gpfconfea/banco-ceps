@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9091278",
+  "longitude": "-43.9289883"
 }

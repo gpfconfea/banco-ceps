@@ -1,9 +1,11 @@
 {
   "cep": "69975959",
   "logradouro": "Rua Romildo Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jordão",
   "uf": "AC",
-  "ibge": "1200328"
+  "ibge": "1200328",
+  "latitude": "-9.1868367",
+  "longitude": "-71.9513962"
 }

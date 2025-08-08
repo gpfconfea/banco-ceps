@@ -6,5 +6,7 @@
   "bairro": "Residencial Serra Verde I",
   "localidade": "São Luís de Montes Belos",
   "uf": "GO",
-  "ibge": "5220108"
+  "ibge": "5220108",
+  "latitude": "-16.5171844",
+  "longitude": "-50.3915883"
 }

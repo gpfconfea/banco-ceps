@@ -1,9 +1,11 @@
 {
   "cep": "95870972",
   "logradouro": "Rua Faxinal Silva Jorge",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Faxinal do Silva Jorge",
   "localidade": "Bom Retiro do Sul",
   "uf": "RS",
-  "ibge": "4302402"
+  "ibge": "4302402",
+  "latitude": "-30.1503183",
+  "longitude": "-51.4594894"
 }

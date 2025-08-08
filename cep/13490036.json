@@ -5,5 +5,7 @@
   "bairro": "Vila Lídia",
   "localidade": "Cordeirópolis",
   "uf": "SP",
-  "ibge": "3512407"
+  "ibge": "3512407",
+  "latitude": "-22.4834851",
+  "longitude": "-47.4541628"
 }

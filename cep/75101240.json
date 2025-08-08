@@ -5,5 +5,7 @@
   "bairro": "Residencial Flamboyant",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3347779",
+  "longitude": "-48.9023311"
 }

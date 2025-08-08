@@ -5,5 +5,7 @@
   "bairro": "Rio Negro",
   "localidade": "São Bento do Sul",
   "uf": "SC",
-  "ibge": "4215802"
+  "ibge": "4215802",
+  "latitude": "-26.2394467",
+  "longitude": "-49.395903"
 }

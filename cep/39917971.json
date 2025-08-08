@@ -1,9 +1,11 @@
 {
   "cep": "39917971",
   "logradouro": "Fazenda Vista Alegre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Zona Rural",
   "localidade": "Bandeira",
   "uf": "MG",
-  "ibge": "3105202"
+  "ibge": "3105202",
+  "latitude": "-19.38857",
+  "longitude": "-41.5785"
 }

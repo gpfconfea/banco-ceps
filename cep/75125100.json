@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Clima",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-15.3030784",
+  "longitude": "-49.600305"
 }

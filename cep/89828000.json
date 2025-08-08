@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lajeado Grande",
   "uf": "SC",
-  "ibge": "4209458"
+  "ibge": "4209458",
+  "latitude": "-26.8583425",
+  "longitude": "-52.5666619"
 }

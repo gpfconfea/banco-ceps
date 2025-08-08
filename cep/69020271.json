@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "42.0965163",
+  "longitude": "-79.2416959"
 }

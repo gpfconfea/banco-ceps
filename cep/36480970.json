@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piranga",
   "uf": "MG",
-  "ibge": "3150802"
+  "ibge": "3150802",
+  "latitude": "-20.6853786",
+  "longitude": "-43.3009986"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim das Nações",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.3974809",
+  "longitude": "-46.4370972"
 }

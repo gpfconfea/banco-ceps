@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3720824",
+  "longitude": "-48.9512324"
 }

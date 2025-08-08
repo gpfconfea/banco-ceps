@@ -5,5 +5,7 @@
   "bairro": "Perobal",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.42769",
+  "longitude": "-46.32463"
 }

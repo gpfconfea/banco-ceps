@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Viadutos",
   "uf": "RS",
-  "ibge": "4322905"
+  "ibge": "4322905",
+  "latitude": "-27.5707204",
+  "longitude": "-52.0217067"
 }

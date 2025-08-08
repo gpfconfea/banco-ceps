@@ -6,5 +6,7 @@
   "bairro": "Parque Santa Isabel",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.1762677",
+  "longitude": "-47.0615222"
 }

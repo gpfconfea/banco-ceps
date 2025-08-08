@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.8059774",
+  "longitude": "-50.3248213"
 }

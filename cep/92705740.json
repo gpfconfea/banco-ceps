@@ -5,5 +5,7 @@
   "bairro": "Parque 35",
   "localidade": "Guaíba",
   "uf": "RS",
-  "ibge": "4309308"
+  "ibge": "4309308",
+  "latitude": "-30.107501",
+  "longitude": "-51.3271898"
 }

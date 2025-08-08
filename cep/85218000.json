@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Pitanga",
   "uf": "PR",
-  "ibge": "4119608"
+  "ibge": "4119608",
+  "latitude": "-24.5294005",
+  "longitude": "-51.8086475"
 }

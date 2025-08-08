@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Honório Serpa",
   "uf": "PR",
-  "ibge": "4109658"
+  "ibge": "4109658",
+  "latitude": "-26.1432982",
+  "longitude": "-52.3829045"
 }

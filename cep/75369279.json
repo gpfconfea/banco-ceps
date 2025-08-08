@@ -5,5 +5,7 @@
   "bairro": "Residencial Morumbi",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.38223",
+  "longitude": "-48.97539"
 }

@@ -5,5 +5,7 @@
   "bairro": "Villagio Mundo Novo",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5069846",
+  "longitude": "-47.4386848"
 }

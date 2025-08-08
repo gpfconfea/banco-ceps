@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Montanha",
   "uf": "ES",
-  "ibge": "3203502"
+  "ibge": "3203502",
+  "latitude": "-18.1273353",
+  "longitude": "-40.3636006"
 }

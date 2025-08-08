@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa Seca",
   "uf": "PB",
-  "ibge": "2508307"
+  "ibge": "2508307",
+  "latitude": "-7.1579903",
+  "longitude": "-35.8546985"
 }

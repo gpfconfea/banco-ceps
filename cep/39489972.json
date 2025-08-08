@@ -1,9 +1,11 @@
 {
   "cep": "39489972",
   "logradouro": "Praça São Vicente",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cônego Marinho",
   "uf": "MG",
-  "ibge": "3117836"
+  "ibge": "3117836",
+  "latitude": "-15.2967672",
+  "longitude": "-44.414291"
 }

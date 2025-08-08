@@ -5,5 +5,7 @@
   "bairro": "Vila Olímpia",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5365057",
+  "longitude": "-46.9848509"
 }

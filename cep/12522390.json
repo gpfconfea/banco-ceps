@@ -5,5 +5,7 @@
   "bairro": "Chácaras Vitória",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.777562",
+  "longitude": "-45.1618083"
 }

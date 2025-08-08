@@ -5,5 +5,7 @@
   "bairro": "Serra Dourada II",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-19.763044",
+  "longitude": "-43.0364944"
 }

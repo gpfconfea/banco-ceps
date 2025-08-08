@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Marengo",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4944649",
+  "longitude": "-46.3031093"
 }

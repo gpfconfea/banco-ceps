@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Cazarin",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5712411",
+  "longitude": "-51.4726595"
 }

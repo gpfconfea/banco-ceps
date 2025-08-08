@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Holambra",
   "uf": "SP",
-  "ibge": "3519055"
+  "ibge": "3519055",
+  "latitude": "-22.61305",
+  "longitude": "-47.0692"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Morada do Sol",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.3695903",
+  "longitude": "-48.2248394"
 }
