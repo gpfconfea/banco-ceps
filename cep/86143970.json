@@ -1,9 +1,11 @@
 {
   "cep": "86143970",
   "logradouro": "Rua Guairacá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Primeiro de Maio",
   "uf": "PR",
-  "ibge": "4120507"
+  "ibge": "4120507",
+  "latitude": "-22.9376496",
+  "longitude": "-51.0225823"
 }

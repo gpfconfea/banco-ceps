@@ -1,9 +1,11 @@
 {
   "cep": "84623970",
   "logradouro": "Rua Elvino Barczak",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santana",
   "localidade": "Cruz Machado",
   "uf": "PR",
-  "ibge": "4106803"
+  "ibge": "4106803",
+  "latitude": "-25.9429691",
+  "longitude": "-51.2500983"
 }

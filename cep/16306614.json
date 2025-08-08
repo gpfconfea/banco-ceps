@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Cecília",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-21.3995668",
+  "longitude": "-50.1005445"
 }

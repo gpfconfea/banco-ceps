@@ -5,5 +5,7 @@
   "bairro": "Alto da Riviera",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7005785",
+  "longitude": "-46.7675662"
 }

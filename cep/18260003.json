@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Porangaba",
   "uf": "SP",
-  "ibge": "3540507"
+  "ibge": "3540507",
+  "latitude": "-23.1769386",
+  "longitude": "-48.1220638"
 }

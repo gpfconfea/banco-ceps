@@ -6,5 +6,7 @@
   "bairro": "Cidade Jardim Taquaril",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-20.3503654",
+  "longitude": "-40.2848139"
 }

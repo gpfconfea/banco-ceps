@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Oeiras do Pará",
   "uf": "PA",
-  "ibge": "1505205"
+  "ibge": "1505205",
+  "latitude": "-2.0043428",
+  "longitude": "-49.8544296"
 }

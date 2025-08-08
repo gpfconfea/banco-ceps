@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Minas Novas",
   "uf": "MG",
-  "ibge": "3141801"
+  "ibge": "3141801",
+  "latitude": "-17.2185332",
+  "longitude": "-42.590971"
 }

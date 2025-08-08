@@ -5,5 +5,7 @@
   "bairro": "Gran Ville",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3115086",
+  "longitude": "-48.9071937"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Olinda",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.628634",
+  "longitude": "-46.7581203"
 }

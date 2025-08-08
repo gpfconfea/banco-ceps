@@ -5,5 +5,7 @@
   "bairro": "Politeama",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9851788",
+  "longitude": "-38.5178706"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "36218971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bom Retiro",
   "localidade": "Santa Bárbara do Tugúrio",
   "uf": "MG",
-  "ibge": "3157302"
+  "ibge": "3157302",
+  "latitude": "-21.2396328",
+  "longitude": "-43.4913265"
 }

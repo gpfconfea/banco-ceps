@@ -5,5 +5,7 @@
   "bairro": "Jardim Utinga",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.617658",
+  "longitude": "-46.5200822"
 }

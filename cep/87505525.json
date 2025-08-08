@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperial I",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.7743404",
+  "longitude": "-53.2937465"
 }

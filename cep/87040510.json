@@ -5,5 +5,7 @@
   "bairro": "Jardim Tupinambá",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4077813",
+  "longitude": "-51.909079"
 }

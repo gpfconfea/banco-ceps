@@ -1,9 +1,11 @@
 {
   "cep": "41150902",
   "logradouro": "Rua Silveira Martins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cabula",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9545557",
+  "longitude": "-38.4562786"
 }

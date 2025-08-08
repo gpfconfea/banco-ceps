@@ -5,5 +5,7 @@
   "bairro": "Amazonas",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8850337",
+  "longitude": "-44.9984566"
 }

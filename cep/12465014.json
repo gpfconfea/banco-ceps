@@ -6,5 +6,7 @@
   "bairro": "Vila Guarani",
   "localidade": "Campos do Jordão",
   "uf": "SP",
-  "ibge": "3509700"
+  "ibge": "3509700",
+  "latitude": "-22.7320818",
+  "longitude": "-45.5790191"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "35777991",
   "logradouro": "Rua Pai José Bairro Pai José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Araçaí",
   "uf": "MG",
-  "ibge": "3103207"
+  "ibge": "3103207",
+  "latitude": "-19.20428",
+  "longitude": "-44.24724"
 }

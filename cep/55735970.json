@@ -1,9 +1,11 @@
 {
   "cep": "55735970",
   "logradouro": "Rua São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bizarra",
   "localidade": "Bom Jardim",
   "uf": "PE",
-  "ibge": "2602209"
+  "ibge": "2602209",
+  "latitude": "-7.7606726",
+  "longitude": "-35.4855576"
 }

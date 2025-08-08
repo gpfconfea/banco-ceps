@@ -5,5 +5,7 @@
   "bairro": "Residencial Nossa Senhora Auxiliadora",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7013073",
+  "longitude": "-49.4051059"
 }

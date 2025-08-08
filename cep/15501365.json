@@ -5,5 +5,7 @@
   "bairro": "Estação",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4358947",
+  "longitude": "-49.9866408"
 }

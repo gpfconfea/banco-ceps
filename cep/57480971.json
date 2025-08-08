@@ -1,9 +1,11 @@
 {
   "cep": "57480971",
   "logradouro": "Rua José Manoel da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Delmiro Gouveia",
   "uf": "AL",
-  "ibge": "2702405"
+  "ibge": "2702405",
+  "latitude": "-9.3810081",
+  "longitude": "-38.0049741"
 }

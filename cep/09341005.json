@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapeva",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.6761004",
+  "longitude": "-46.4177273"
 }

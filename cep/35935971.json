@@ -1,9 +1,11 @@
 {
   "cep": "35935971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Una",
   "localidade": "São Gonçalo do Rio Abaixo",
   "uf": "MG",
-  "ibge": "3161908"
+  "ibge": "3161908",
+  "latitude": "-19.842641",
+  "longitude": "-43.3225997"
 }

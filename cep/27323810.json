@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "latitude": "-22.5307017",
+  "longitude": "-44.1648407"
 }

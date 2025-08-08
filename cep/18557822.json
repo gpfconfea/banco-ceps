@@ -5,5 +5,7 @@
   "bairro": "Colina Nova Boituva",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2664636",
+  "longitude": "-47.6566682"
 }

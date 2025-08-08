@@ -1,9 +1,11 @@
 {
   "cep": "65925970",
   "logradouro": "Avenida Presidente José Sarney",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Sítio Novo",
   "uf": "MA",
-  "ibge": "2111805"
+  "ibge": "2111805",
+  "latitude": "-5.8746329",
+  "longitude": "-46.7001252"
 }

@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Redentora",
   "uf": "RS",
-  "ibge": "4315404"
+  "ibge": "4315404",
+  "latitude": "-27.4874441",
+  "longitude": "-53.628028"
 }

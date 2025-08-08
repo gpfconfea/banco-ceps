@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mauá da Serra",
   "uf": "PR",
-  "ibge": "4115754"
+  "ibge": "4115754",
+  "latitude": "-23.9019508",
+  "longitude": "-51.2252316"
 }

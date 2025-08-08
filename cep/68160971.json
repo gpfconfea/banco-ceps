@@ -1,9 +1,11 @@
 {
   "cep": "68160971",
   "logradouro": "Avenida Presidente Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Brasília Legal",
   "localidade": "Aveiro",
   "uf": "PA",
-  "ibge": "1501006"
+  "ibge": "1501006",
+  "latitude": "-3.9418806",
+  "longitude": "-55.5919488"
 }

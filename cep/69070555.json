@@ -5,5 +5,7 @@
   "bairro": "Educandos",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-18.9955768",
+  "longitude": "-46.3065718"
 }

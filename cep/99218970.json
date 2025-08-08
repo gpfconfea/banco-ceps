@@ -1,9 +1,11 @@
 {
   "cep": "99218970",
   "logradouro": "Rua João Becker",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pulador",
   "localidade": "União da Serra",
   "uf": "RS",
-  "ibge": "4322350"
+  "ibge": "4322350",
+  "latitude": "-28.7948649",
+  "longitude": "-52.0339716"
 }

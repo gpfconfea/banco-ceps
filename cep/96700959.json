@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Jerônimo",
   "uf": "RS",
-  "ibge": "4318408"
+  "ibge": "4318408",
+  "latitude": "-29.9563851",
+  "longitude": "-51.7241212"
 }

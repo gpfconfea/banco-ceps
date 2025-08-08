@@ -5,5 +5,7 @@
   "bairro": "Residencial Green Ville",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1048254",
+  "longitude": "-51.4408273"
 }

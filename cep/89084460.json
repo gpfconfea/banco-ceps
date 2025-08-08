@@ -5,5 +5,7 @@
   "bairro": "Benedito",
   "localidade": "Indaial",
   "uf": "SC",
-  "ibge": "4207502"
+  "ibge": "4207502",
+  "latitude": "-26.8776944",
+  "longitude": "-49.250445"
 }

@@ -5,5 +5,7 @@
   "bairro": "Terra Prometida",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4707632",
+  "longitude": "-46.3076124"
 }

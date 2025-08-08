@@ -5,5 +5,7 @@
   "bairro": "Segredo",
   "localidade": "Ipê",
   "uf": "RS",
-  "ibge": "4310439"
+  "ibge": "4310439",
+  "latitude": "-28.7510584",
+  "longitude": "-51.3552693"
 }

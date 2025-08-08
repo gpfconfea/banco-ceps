@@ -5,5 +5,7 @@
   "bairro": "Lara",
   "localidade": "Esperança do Sul",
   "uf": "RS",
-  "ibge": "4307450"
+  "ibge": "4307450",
+  "latitude": "-27.2993304",
+  "longitude": "-53.9913414"
 }

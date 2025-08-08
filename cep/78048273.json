@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6201056",
+  "longitude": "-55.9525704"
 }

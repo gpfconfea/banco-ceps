@@ -5,5 +5,7 @@
   "bairro": "Nova Floresta II",
   "localidade": "Guaxupé",
   "uf": "MG",
-  "ibge": "3128709"
+  "ibge": "3128709",
+  "latitude": "-21.3126775",
+  "longitude": "-46.6912607"
 }

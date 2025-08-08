@@ -1,9 +1,11 @@
 {
   "cep": "62692974",
   "logradouro": "Rua Teodorico Ferreira Pinto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canaan",
   "localidade": "Trairi",
   "uf": "CE",
-  "ibge": "2313500"
+  "ibge": "2313500",
+  "latitude": "-3.218325",
+  "longitude": "-39.3639126"
 }

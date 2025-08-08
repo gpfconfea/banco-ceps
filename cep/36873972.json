@@ -1,9 +1,11 @@
 {
   "cep": "36873972",
   "logradouro": "Rua Mendonça Freitas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Silveira Carvalho",
   "localidade": "Barão de Monte Alto",
   "uf": "MG",
-  "ibge": "3105509"
+  "ibge": "3105509",
+  "latitude": "-21.2982193",
+  "longitude": "-42.267924"
 }

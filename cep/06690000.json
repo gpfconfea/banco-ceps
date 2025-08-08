@@ -5,5 +5,7 @@
   "bairro": "Condomínio Nova São Paulo",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5246326",
+  "longitude": "-46.9522467"
 }

@@ -5,5 +5,7 @@
   "bairro": "Espírito Santo",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "latitude": "-27.7568283",
+  "longitude": "-52.2409699"
 }

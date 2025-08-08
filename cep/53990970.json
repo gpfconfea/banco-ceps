@@ -1,9 +1,11 @@
 {
   "cep": "53990970",
   "logradouro": "Rua de São Miguel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila dos Remédios",
   "localidade": "Fernando de Noronha",
   "uf": "PE",
-  "ibge": "2605459"
+  "ibge": "2605459",
+  "latitude": "-3.8546145",
+  "longitude": "-32.4243853"
 }

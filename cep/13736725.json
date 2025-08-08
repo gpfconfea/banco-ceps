@@ -5,5 +5,7 @@
   "bairro": "Jardim José André de Lima",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-23.5729779",
+  "longitude": "-46.6579552"
 }

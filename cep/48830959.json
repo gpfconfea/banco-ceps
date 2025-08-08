@@ -1,9 +1,11 @@
 {
   "cep": "48830959",
   "logradouro": "Praça Tiradentes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Quijingue",
   "uf": "BA",
-  "ibge": "2925907"
+  "ibge": "2925907",
+  "latitude": "-10.6817286",
+  "longitude": "-39.0527442"
 }

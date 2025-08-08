@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-4.9168227",
+  "longitude": "-43.3478828"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cruz das Almas",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-16.2560342",
+  "longitude": "-47.911223"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Valverde",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-20.3618315",
+  "longitude": "-40.363409"
 }

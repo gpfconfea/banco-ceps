@@ -1,9 +1,11 @@
 {
   "cep": "95549971",
   "logradouro": "Rodovia BR-101",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bacupari",
   "localidade": "Palmares do Sul",
   "uf": "RS",
-  "ibge": "4313656"
+  "ibge": "4313656",
+  "latitude": "-30.2063043",
+  "longitude": "-50.3266241"
 }

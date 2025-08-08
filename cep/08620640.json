@@ -5,5 +5,7 @@
   "bairro": "Vila Voeges",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5428412",
+  "longitude": "-46.3198998"
 }

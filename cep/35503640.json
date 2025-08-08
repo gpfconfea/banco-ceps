@@ -5,5 +5,7 @@
   "bairro": "Santa Marta",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-20.1106016",
+  "longitude": "-44.8817963"
 }

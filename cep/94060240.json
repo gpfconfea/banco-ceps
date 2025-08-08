@@ -5,5 +5,7 @@
   "bairro": "Santa Fé",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.9450493",
+  "longitude": "-51.0583843"
 }

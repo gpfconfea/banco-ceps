@@ -5,5 +5,7 @@
   "bairro": "Vila Dalva",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5690668",
+  "longitude": "-46.7597644"
 }

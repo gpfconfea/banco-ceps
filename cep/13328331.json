@@ -5,5 +5,7 @@
   "bairro": "Buru",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.1144327",
+  "longitude": "-47.3296233"
 }

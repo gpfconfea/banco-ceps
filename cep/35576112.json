@@ -5,5 +5,7 @@
   "bairro": "Santa Tereza",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.4593496",
+  "longitude": "-45.4282405"
 }

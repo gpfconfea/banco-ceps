@@ -1,9 +1,11 @@
 {
   "cep": "39628959",
   "logradouro": "Rua José Joaquim dos Reis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Comercinho",
   "uf": "MG",
-  "ibge": "3117009"
+  "ibge": "3117009",
+  "latitude": "-16.2967589",
+  "longitude": "-41.7919001"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Manoel do Paraná",
   "uf": "PR",
-  "ibge": "4125555"
+  "ibge": "4125555",
+  "latitude": "-23.394137",
+  "longitude": "-52.645376"
 }

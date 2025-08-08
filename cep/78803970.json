@@ -1,9 +1,11 @@
 {
   "cep": "78803970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto Coité",
   "localidade": "Poxoréu",
   "uf": "MT",
-  "ibge": "5107008"
+  "ibge": "5107008",
+  "latitude": "-15.738867",
+  "longitude": "-54.3375102"
 }

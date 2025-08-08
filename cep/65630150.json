@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "latitude": "-5.0967158",
+  "longitude": "-42.8246877"
 }

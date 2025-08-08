@@ -1,9 +1,11 @@
 {
   "cep": "89108991",
   "logradouro": "Rua Campinha Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Massaranduba",
   "uf": "SC",
-  "ibge": "4210605"
+  "ibge": "4210605",
+  "latitude": "-26.60397",
+  "longitude": "-49.03467"
 }

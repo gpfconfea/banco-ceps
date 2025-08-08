@@ -5,5 +5,7 @@
   "bairro": "São Martinho",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "latitude": "-29.5056503",
+  "longitude": "-52.415445"
 }

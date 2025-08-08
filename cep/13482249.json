@@ -5,5 +5,7 @@
   "bairro": "Jardim Parque Avenida",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5761521",
+  "longitude": "-47.4230819"
 }

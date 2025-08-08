@@ -6,5 +6,7 @@
   "bairro": "Residencial Vila Rica",
   "localidade": "Dracena",
   "uf": "SP",
-  "ibge": "3514403"
+  "ibge": "3514403",
+  "latitude": "-23.17617",
+  "longitude": "-45.84943"
 }
