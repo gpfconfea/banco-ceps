@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Florínea",
   "uf": "SP",
-  "ibge": "3516101"
+  "ibge": "3516101",
+  "latitude": "-22.902758",
+  "longitude": "-50.7259239"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Branca",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2699802",
+  "longitude": "-45.9300248"
 }

@@ -5,5 +5,7 @@
   "bairro": "Leão",
   "localidade": "Campos Novos",
   "uf": "SC",
-  "ibge": "4203600"
+  "ibge": "4203600",
+  "latitude": "-27.311326",
+  "longitude": "-51.562586"
 }

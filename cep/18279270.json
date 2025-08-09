@@ -5,5 +5,7 @@
   "bairro": "Vila Bandeirantes",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3362446",
+  "longitude": "-47.8542468"
 }

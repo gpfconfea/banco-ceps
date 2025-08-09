@@ -1,9 +1,11 @@
 {
   "cep": "18190997",
   "logradouro": "Estrada do Cercado, cx 837, Bairro do Cercado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Araçoiaba da Serra",
   "uf": "SP",
-  "ibge": "3502903"
+  "ibge": "3502903",
+  "latitude": "-23.5688796",
+  "longitude": "-47.689827"
 }

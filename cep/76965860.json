@@ -5,5 +5,7 @@
   "bairro": "Incra",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "latitude": "-11.4446443",
+  "longitude": "-61.4347039"
 }

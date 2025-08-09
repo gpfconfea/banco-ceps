@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sabinópolis",
   "uf": "MG",
-  "ibge": "3156809"
+  "ibge": "3156809",
+  "latitude": "-18.6663341",
+  "longitude": "-43.082927"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "49010905",
   "logradouro": "Praça Fausto Cardoso",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "latitude": "-10.2103795",
+  "longitude": "-36.8342691"
 }

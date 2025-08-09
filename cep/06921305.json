@@ -6,5 +6,7 @@
   "bairro": "Vale Florido",
   "localidade": "Embu-Guaçu",
   "uf": "SP",
-  "ibge": "3515103"
+  "ibge": "3515103",
+  "latitude": "-23.8586824",
+  "longitude": "-46.8470858"
 }

@@ -5,5 +5,7 @@
   "bairro": "Aeroclube",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.8053923",
+  "longitude": "-63.8626905"
 }

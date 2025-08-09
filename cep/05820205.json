@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Santo Amaro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-2.4875781",
+  "longitude": "-44.2158048"
 }

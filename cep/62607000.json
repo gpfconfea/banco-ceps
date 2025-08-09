@@ -5,5 +5,7 @@
   "bairro": "Soledade",
   "localidade": "Itapajé",
   "uf": "CE",
-  "ibge": "2306306"
+  "ibge": "2306306",
+  "latitude": "-3.6454879",
+  "longitude": "-39.5776785"
 }

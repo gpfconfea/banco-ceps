@@ -5,5 +5,7 @@
   "bairro": "Residencial Damha Belvedere",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-23.8551831",
+  "longitude": "-46.9439308"
 }

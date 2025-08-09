@@ -5,5 +5,7 @@
   "bairro": "Campos Elíseos",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "latitude": "-18.6221848",
+  "longitude": "-46.4947802"
 }

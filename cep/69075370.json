@@ -5,5 +5,7 @@
   "bairro": "Mauazinho",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-0.789275",
+  "longitude": "113.921327"
 }

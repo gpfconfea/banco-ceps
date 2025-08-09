@@ -6,5 +6,7 @@
   "bairro": "Meneghel",
   "localidade": "Taguaí",
   "uf": "SP",
-  "ibge": "3553005"
+  "ibge": "3553005",
+  "latitude": "-23.4586379",
+  "longitude": "-49.4010625"
 }

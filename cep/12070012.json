@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Augusta",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0276561",
+  "longitude": "-45.5457751"
 }

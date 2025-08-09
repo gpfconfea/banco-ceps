@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Luiz do Paraitinga",
   "uf": "SP",
-  "ibge": "3550001"
+  "ibge": "3550001",
+  "latitude": "-23.225064",
+  "longitude": "-45.3100087"
 }

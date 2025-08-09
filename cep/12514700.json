@@ -5,5 +5,7 @@
   "bairro": "CECAP",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.7928562",
+  "longitude": "-45.2013317"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Cidade",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "latitude": "-22.8540242",
+  "longitude": "-42.0561696"
 }

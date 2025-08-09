@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fazenda Vilanova",
   "uf": "RS",
-  "ibge": "4308078"
+  "ibge": "4308078",
+  "latitude": "-29.5608534",
+  "longitude": "-51.8812653"
 }

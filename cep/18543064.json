@@ -6,5 +6,7 @@
   "bairro": "Jardim Vista Alegre",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.1843837",
+  "longitude": "-47.5388551"
 }

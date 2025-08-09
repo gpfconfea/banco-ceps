@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Francisco Perez Moya",
   "localidade": "Ipaussu",
   "uf": "SP",
-  "ibge": "3520905"
+  "ibge": "3520905",
+  "latitude": "-23.0404967",
+  "longitude": "-49.6333392"
 }

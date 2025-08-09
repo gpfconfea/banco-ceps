@@ -5,5 +5,7 @@
   "bairro": "Vila Romana",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "latitude": "-11.4601296",
+  "longitude": "-61.4311162"
 }

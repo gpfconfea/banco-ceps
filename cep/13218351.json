@@ -5,5 +5,7 @@
   "bairro": "Jardim Adélia",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1849307",
+  "longitude": "-46.8570266"
 }

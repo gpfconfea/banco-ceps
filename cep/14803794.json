@@ -5,5 +5,7 @@
   "bairro": "Quinta do Salto Residence",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.8049363",
+  "longitude": "-48.2064758"
 }

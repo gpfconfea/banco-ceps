@@ -5,5 +5,7 @@
   "bairro": "Guaratuba",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-22.3699359",
+  "longitude": "-46.9319069"
 }

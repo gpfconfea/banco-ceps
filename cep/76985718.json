@@ -5,5 +5,7 @@
   "bairro": "Residencial Alphaville I",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "latitude": "43.4078758",
+  "longitude": "3.7008219"
 }

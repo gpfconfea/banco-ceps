@@ -1,9 +1,11 @@
 {
   "cep": "29238980",
   "logradouro": "Rodovia Virgílio Lorencini",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto Pongal",
   "localidade": "Anchieta",
   "uf": "ES",
-  "ibge": "3200409"
+  "ibge": "3200409",
+  "latitude": "-20.7260719",
+  "longitude": "-40.7795782"
 }

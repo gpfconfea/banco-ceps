@@ -5,5 +5,7 @@
   "bairro": "Santa Izabel",
   "localidade": "São Francisco",
   "uf": "MG",
-  "ibge": "3161106"
+  "ibge": "3161106",
+  "latitude": "-20.0397621",
+  "longitude": "-44.2168124"
 }

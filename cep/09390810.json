@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.6493735",
+  "longitude": "-46.4470434"
 }

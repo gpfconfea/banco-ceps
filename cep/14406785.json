@@ -5,5 +5,7 @@
   "bairro": "Polo Industrial São Bernardo",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5477021",
+  "longitude": "-47.4301443"
 }

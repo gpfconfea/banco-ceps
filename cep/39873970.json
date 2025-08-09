@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Machacalis",
   "uf": "MG",
-  "ibge": "3138906"
+  "ibge": "3138906",
+  "latitude": "-17.0780892",
+  "longitude": "-40.7159165"
 }

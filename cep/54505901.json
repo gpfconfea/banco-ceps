@@ -1,9 +1,11 @@
 {
   "cep": "54505901",
   "logradouro": "Avenida Presidente Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "latitude": "-8.2852146",
+  "longitude": "-35.0370503"
 }

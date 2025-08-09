@@ -5,5 +5,7 @@
   "bairro": "São Mateus",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7125554",
+  "longitude": "-43.8671858"
 }

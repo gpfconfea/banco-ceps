@@ -1,9 +1,11 @@
 {
   "cep": "66635919",
   "logradouro": "Rodovia Augusto Montenegro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Verde",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-1.3739828",
+  "longitude": "-48.4424017"
 }

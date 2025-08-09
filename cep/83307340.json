@@ -5,5 +5,7 @@
   "bairro": "Planta Laranjeiras",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.5256074",
+  "longitude": "-49.0796247"
 }

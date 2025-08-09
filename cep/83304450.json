@@ -5,5 +5,7 @@
   "bairro": "Cayva",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.4238737",
+  "longitude": "-49.0622923"
 }

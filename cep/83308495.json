@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Helena",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.4829337",
+  "longitude": "-49.1323889"
 }

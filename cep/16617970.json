@@ -1,9 +1,11 @@
 {
   "cep": "16617970",
   "logradouro": "Rua Santo Antônio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Santo Antônio da Estiva)",
   "localidade": "Pirajuí",
   "uf": "SP",
-  "ibge": "3538907"
+  "ibge": "3538907",
+  "latitude": "-21.8922511",
+  "longitude": "-49.4069614"
 }

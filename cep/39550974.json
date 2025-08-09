@@ -1,9 +1,11 @@
 {
   "cep": "39550974",
   "logradouro": "Praça do Mercado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Taiobeiras",
   "uf": "MG",
-  "ibge": "3168002"
+  "ibge": "3168002",
+  "latitude": "-15.814375",
+  "longitude": "-42.2295252"
 }

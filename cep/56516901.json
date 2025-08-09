@@ -1,9 +1,11 @@
 {
   "cep": "56516901",
   "logradouro": "Rua Anderson Henrique Cristino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pôr do Sol",
   "localidade": "Arcoverde",
   "uf": "PE",
-  "ibge": "2601201"
+  "ibge": "2601201",
+  "latitude": "-8.4236615",
+  "longitude": "-37.0703842"
 }

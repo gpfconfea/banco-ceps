@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rosa",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.6849637",
+  "longitude": "-46.4392073"
 }

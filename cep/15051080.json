@@ -5,5 +5,7 @@
   "bairro": "Jardim João Paulo II",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "latitude": "-20.77354",
+  "longitude": "-49.366736"
 }

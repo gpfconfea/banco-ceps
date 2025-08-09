@@ -5,5 +5,7 @@
   "bairro": "Chácaras Selva",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5424204",
+  "longitude": "-46.9200503"
 }

@@ -5,5 +5,7 @@
   "bairro": "Guarani",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.843663",
+  "longitude": "-43.9299691"
 }

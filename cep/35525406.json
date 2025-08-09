@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.855546",
+  "longitude": "-44.9963725"
 }

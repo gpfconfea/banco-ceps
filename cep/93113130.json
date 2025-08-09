@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "São Leopoldo",
   "uf": "RS",
-  "ibge": "4318705"
+  "ibge": "4318705",
+  "latitude": "-29.6245859",
+  "longitude": "-50.8330449"
 }

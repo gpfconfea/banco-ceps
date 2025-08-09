@@ -6,5 +6,7 @@
   "bairro": "Vila São Pedro",
   "localidade": "Potim",
   "uf": "SP",
-  "ibge": "3540754"
+  "ibge": "3540754",
+  "latitude": "-22.8359974",
+  "longitude": "-45.2584315"
 }

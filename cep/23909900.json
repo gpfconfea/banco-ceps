@@ -1,9 +1,11 @@
 {
   "cep": "23909900",
   "logradouro": "Avenida Marquês de Leão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Colégio Naval",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "latitude": "-23.0146929",
+  "longitude": "-44.3281675"
 }

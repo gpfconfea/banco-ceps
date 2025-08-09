@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mãe do Rio",
   "uf": "PA",
-  "ibge": "1504059"
+  "ibge": "1504059",
+  "latitude": "-2.055689",
+  "longitude": "-47.554168"
 }

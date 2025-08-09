@@ -5,5 +5,7 @@
   "bairro": "Parque Mirante da Mata",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.6162953",
+  "longitude": "-46.9545381"
 }
