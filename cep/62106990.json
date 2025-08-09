@@ -1,9 +1,11 @@
 {
   "cep": "62106990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "latitude": "-4.336771",
+  "longitude": "-40.7125466"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "96700990",
   "logradouro": "Rua Recreativa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São Jerônimo",
   "uf": "RS",
-  "ibge": "4318408"
+  "ibge": "4318408",
+  "latitude": "-29.9666002",
+  "longitude": "-51.7966682"
 }

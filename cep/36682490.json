@@ -6,5 +6,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "São João Nepomuceno",
   "uf": "MG",
-  "ibge": "3162906"
+  "ibge": "3162906",
+  "latitude": "-21.5235113",
+  "longitude": "-43.0127813"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidades",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "latitude": "-7.2735482",
+  "longitude": "-35.9313987"
 }

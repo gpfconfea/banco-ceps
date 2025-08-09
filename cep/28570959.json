@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaocara",
   "uf": "RJ",
-  "ibge": "3302106"
+  "ibge": "3302106",
+  "latitude": "-21.6713076",
+  "longitude": "-42.0879615"
 }

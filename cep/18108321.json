@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Tupã II",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.486762",
+  "longitude": "-47.3873743"
 }

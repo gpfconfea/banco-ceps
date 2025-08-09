@@ -5,5 +5,7 @@
   "bairro": "Residencial Arco Iris I",
   "localidade": "Jaguariúna",
   "uf": "SP",
-  "ibge": "3524709"
+  "ibge": "3524709",
+  "latitude": "-22.7357549",
+  "longitude": "-47.0530427"
 }

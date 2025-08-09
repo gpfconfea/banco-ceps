@@ -1,9 +1,11 @@
 {
   "cep": "89340971",
   "logradouro": "Rodovia SC-477",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito de Moema",
   "localidade": "Itaiópolis",
   "uf": "SC",
-  "ibge": "4208104"
+  "ibge": "4208104",
+  "latitude": "-26.440672",
+  "longitude": "-50.0663056"
 }

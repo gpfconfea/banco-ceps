@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Capitólio",
   "uf": "MG",
-  "ibge": "3112802"
+  "ibge": "3112802",
+  "latitude": "-20.613",
+  "longitude": "-46.0534894"
 }

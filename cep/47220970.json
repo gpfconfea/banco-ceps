@@ -1,9 +1,11 @@
 {
   "cep": "47220970",
   "logradouro": "Rua 21 de Abril",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Campo Alegre de Lourdes",
   "uf": "BA",
-  "ibge": "2905909"
+  "ibge": "2905909",
+  "latitude": "-9.5165372",
+  "longitude": "-43.0085619"
 }

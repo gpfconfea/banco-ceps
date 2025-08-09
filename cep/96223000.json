@@ -5,5 +5,7 @@
   "bairro": "Ilha dos Marinheiros",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-32.0048287",
+  "longitude": "-52.150032"
 }

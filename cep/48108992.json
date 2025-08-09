@@ -1,9 +1,11 @@
 {
   "cep": "48108992",
   "logradouro": "Fazenda Floresta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Araçás",
   "uf": "BA",
-  "ibge": "2902054"
+  "ibge": "2902054",
+  "latitude": "-12.2113492",
+  "longitude": "-38.2034519"
 }

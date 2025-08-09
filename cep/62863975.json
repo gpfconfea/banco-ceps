@@ -1,9 +1,11 @@
 {
   "cep": "62863975",
   "logradouro": "Avenida Vale Albino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pratiús",
   "localidade": "Pindoretama",
   "uf": "CE",
-  "ibge": "2310852"
+  "ibge": "2310852",
+  "latitude": "-4.0371996",
+  "longitude": "-38.2627818"
 }

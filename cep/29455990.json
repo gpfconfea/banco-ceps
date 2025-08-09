@@ -1,9 +1,11 @@
 {
   "cep": "29455990",
   "logradouro": "Rua Doutor Manoel da Silva Araújo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Apiacá",
   "uf": "ES",
-  "ibge": "3200508"
+  "ibge": "3200508",
+  "latitude": "-21.1476178",
+  "longitude": "-41.6210415"
 }

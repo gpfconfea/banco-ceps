@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Bueno Franco",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9423277",
+  "longitude": "-44.1834562"
 }

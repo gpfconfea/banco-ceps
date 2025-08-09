@@ -1,9 +1,11 @@
 {
   "cep": "61756990",
   "logradouro": "Rua Josué Leite de Freitas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Aquiraz",
   "uf": "CE",
-  "ibge": "2301000"
+  "ibge": "2301000",
+  "latitude": "-3.974369",
+  "longitude": "-38.3443641"
 }

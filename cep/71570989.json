@@ -1,9 +1,11 @@
 {
   "cep": "71570989",
-  "logradouro": "Praça Central Lote 1 Térreo Locker Correios",
+  "logradouro": "Praça Central Lote 1 Térreo",
   "complemento": "",
   "bairro": "Paranoá",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.7973815",
+  "longitude": "-47.8891485"
 }

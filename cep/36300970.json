@@ -1,9 +1,11 @@
 {
   "cep": "36300970",
   "logradouro": "Rua Maestro Telêmaco Neves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tejuco",
   "localidade": "São João Del Rei",
   "uf": "MG",
-  "ibge": "3162500"
+  "ibge": "3162500",
+  "latitude": "-21.1379457",
+  "longitude": "-44.2662479"
 }

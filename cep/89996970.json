@@ -1,9 +1,11 @@
 {
   "cep": "89996970",
   "logradouro": "Rua J",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Roque",
   "localidade": "São Lourenço do Oeste",
   "uf": "SC",
-  "ibge": "4216909"
+  "ibge": "4216909",
+  "latitude": "-26.504058",
+  "longitude": "-52.8163388"
 }

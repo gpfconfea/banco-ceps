@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Massaranduba",
   "uf": "SC",
-  "ibge": "4210605"
+  "ibge": "4210605",
+  "latitude": "-26.6106988",
+  "longitude": "-49.007882"
 }

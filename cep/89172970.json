@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pouso Redondo",
   "uf": "SC",
-  "ibge": "4213708"
+  "ibge": "4213708",
+  "latitude": "-27.2571063",
+  "longitude": "-49.9377093"
 }

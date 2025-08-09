@@ -5,5 +5,7 @@
   "bairro": "Parque São Paulo",
   "localidade": "Embu-Guaçu",
   "uf": "SP",
-  "ibge": "3515103"
+  "ibge": "3515103",
+  "latitude": "-23.8680996",
+  "longitude": "-46.790844"
 }

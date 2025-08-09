@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Campos Elísios",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.377269",
+  "longitude": "-51.1354561"
 }

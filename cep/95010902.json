@@ -1,9 +1,11 @@
 {
   "cep": "95010902",
   "logradouro": "Rua Desembargador Armando Azambuja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio Branco",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "latitude": "-29.1727405",
+  "longitude": "-51.1925223"
 }

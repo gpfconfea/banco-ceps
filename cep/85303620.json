@@ -5,5 +5,7 @@
   "bairro": "Vila Industrial",
   "localidade": "Laranjeiras do Sul",
   "uf": "PR",
-  "ibge": "4113304"
+  "ibge": "4113304",
+  "latitude": "-25.3749587",
+  "longitude": "-52.3934138"
 }

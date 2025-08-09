@@ -5,5 +5,7 @@
   "bairro": "Vargem Grande",
   "localidade": "Pinhais",
   "uf": "PR",
-  "ibge": "4119152"
+  "ibge": "4119152",
+  "latitude": "-25.4515131",
+  "longitude": "-49.1684507"
 }

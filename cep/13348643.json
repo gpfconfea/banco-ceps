@@ -5,5 +5,7 @@
   "bairro": "João Pioli",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.1073775",
+  "longitude": "-47.2382561"
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Manoel Francisco",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5825831",
+  "longitude": "-47.3769784"
 }

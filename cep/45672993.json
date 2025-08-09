@@ -1,9 +1,11 @@
 {
   "cep": "45672993",
   "logradouro": "Praça da Bandeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "latitude": "-17.0349621",
+  "longitude": "-39.5276913"
 }

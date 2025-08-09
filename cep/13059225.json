@@ -5,5 +5,7 @@
   "bairro": "Jardim Rossin",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8673347",
+  "longitude": "-47.1402245"
 }

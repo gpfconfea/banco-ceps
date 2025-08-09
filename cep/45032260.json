@@ -5,5 +5,7 @@
   "bairro": "Universidade",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-14.8454315",
+  "longitude": "-40.890371"
 }

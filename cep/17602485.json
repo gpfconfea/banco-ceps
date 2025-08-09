@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaipu",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "latitude": "-8.83379915",
+  "longitude": "-69.2588141"
 }

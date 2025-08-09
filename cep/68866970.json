@@ -1,9 +1,11 @@
 {
   "cep": "68866970",
   "logradouro": "Vila de Jubim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jubim",
   "localidade": "Salvaterra",
   "uf": "PA",
-  "ibge": "1506302"
+  "ibge": "1506302",
+  "latitude": "-0.8324819",
+  "longitude": "-48.5504655"
 }

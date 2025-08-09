@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "latitude": "-11.9345035",
+  "longitude": "-62.0092843"
 }

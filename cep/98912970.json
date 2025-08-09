@@ -1,9 +1,11 @@
 {
   "cep": "98912970",
   "logradouro": "Avenida Manchinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Manchinha",
   "localidade": "Três de Maio",
   "uf": "RS",
-  "ibge": "4321808"
+  "ibge": "4321808",
+  "latitude": "-27.6893492",
+  "longitude": "-54.2275181"
 }

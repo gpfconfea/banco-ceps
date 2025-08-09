@@ -1,9 +1,11 @@
 {
   "cep": "78360971",
   "logradouro": "Avenida Minas Gerais Quadra 308",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim das Palmeiras",
   "localidade": "Campo Novo do Parecis",
   "uf": "MT",
-  "ibge": "5102637"
+  "ibge": "5102637",
+  "latitude": "-13.6488624",
+  "longitude": "-57.9100926"
 }

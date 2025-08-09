@@ -5,5 +5,7 @@
   "bairro": "Setor Oeste",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "latitude": "-16.6451915",
+  "longitude": "-49.4229165"
 }

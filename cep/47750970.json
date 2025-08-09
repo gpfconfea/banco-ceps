@@ -1,9 +1,11 @@
 {
   "cep": "47750970",
   "logradouro": "Rua Agnelo Diniz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Brejolândia",
   "uf": "BA",
-  "ibge": "2904407"
+  "ibge": "2904407",
+  "latitude": "-12.4856977",
+  "longitude": "-43.9610626"
 }

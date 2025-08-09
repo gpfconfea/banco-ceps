@@ -1,9 +1,11 @@
 {
   "cep": "69450959",
   "logradouro": "Rua Rio Badajós",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Codajás",
   "uf": "AM",
-  "ibge": "1301308"
+  "ibge": "1301308",
+  "latitude": "-3.8423299",
+  "longitude": "-62.0571175"
 }

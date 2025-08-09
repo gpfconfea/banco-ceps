@@ -5,5 +5,7 @@
   "bairro": "Tanque",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-21.53194",
+  "longitude": "-42.184938"
 }

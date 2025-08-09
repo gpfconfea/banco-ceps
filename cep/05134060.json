@@ -5,5 +5,7 @@
   "bairro": "Jardim Mangalot",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4902046",
+  "longitude": "-46.7457376"
 }

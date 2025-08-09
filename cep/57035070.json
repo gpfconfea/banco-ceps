@@ -5,5 +5,7 @@
   "bairro": "Ponta Verde",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.6626226",
+  "longitude": "-35.6963028"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Pioneira",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "latitude": "-3.7585043",
+  "longitude": "-49.6695785"
 }

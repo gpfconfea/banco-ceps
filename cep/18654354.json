@@ -6,5 +6,7 @@
   "bairro": "Residencial Bertozzo",
   "localidade": "São Manuel",
   "uf": "SP",
-  "ibge": "3550100"
+  "ibge": "3550100",
+  "latitude": "-22.7557795",
+  "longitude": "-48.5829673"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3512037",
+  "longitude": "-49.0641786"
 }

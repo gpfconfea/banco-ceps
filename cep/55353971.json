@@ -1,9 +1,11 @@
 {
   "cep": "55353971",
   "logradouro": "Praça José Barbosa Sobrinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Latecá",
   "localidade": "Saloá",
   "uf": "PE",
-  "ibge": "2612307"
+  "ibge": "2612307",
+  "latitude": "-9.0131592",
+  "longitude": "-36.7576817"
 }

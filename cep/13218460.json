@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Vista",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1826205",
+  "longitude": "-46.8672764"
 }

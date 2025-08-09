@@ -5,5 +5,7 @@
   "bairro": "José de Anchieta",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.1953783",
+  "longitude": "-40.27499"
 }

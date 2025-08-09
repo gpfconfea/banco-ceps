@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Rosa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.597373",
+  "longitude": "-46.5348687"
 }

@@ -6,5 +6,7 @@
   "bairro": "Santa Iria",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.2102673",
+  "longitude": "-47.8698316"
 }

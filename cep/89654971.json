@@ -1,9 +1,11 @@
 {
   "cep": "89654971",
   "logradouro": "Rodovia Margens BR-153",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Três Pinheiros",
   "localidade": "Água Doce",
   "uf": "SC",
-  "ibge": "4200408"
+  "ibge": "4200408",
+  "latitude": "-26.8766873",
+  "longitude": "-51.749914"
 }
