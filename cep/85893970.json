@@ -1,9 +1,11 @@
 {
   "cep": "85893970",
   "logradouro": "Avenida Castelo Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Celeste",
   "localidade": "Santa Helena",
   "uf": "PR",
-  "ibge": "4123501"
+  "ibge": "4123501",
+  "latitude": "-24.9644561",
+  "longitude": "-54.3895092"
 }

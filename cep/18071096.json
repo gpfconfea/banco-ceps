@@ -5,5 +5,7 @@
   "bairro": "Jardim Monterrey",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.46719",
+  "longitude": "-47.5117171"
 }

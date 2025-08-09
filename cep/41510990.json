@@ -1,9 +1,11 @@
 {
   "cep": "41510990",
   "logradouro": "Rua Oito de Dezembro - São Cristóvão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9070008",
+  "longitude": "-38.357899"
 }

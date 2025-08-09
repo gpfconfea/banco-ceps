@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5146043",
+  "longitude": "-47.3542193"
 }

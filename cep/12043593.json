@@ -5,5 +5,7 @@
   "bairro": "Granja Bela Vista",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0006542",
+  "longitude": "-45.564496"
 }

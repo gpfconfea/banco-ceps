@@ -5,5 +5,7 @@
   "bairro": "Colina Verde",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.1028731",
+  "longitude": "-48.9226138"
 }

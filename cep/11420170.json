@@ -5,5 +5,7 @@
   "bairro": "Jardim Las Palmas",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "latitude": "-24.0143082",
+  "longitude": "-46.2739409"
 }

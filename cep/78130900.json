@@ -1,9 +1,11 @@
 {
   "cep": "78130900",
   "logradouro": "Rua Pedro José Ferreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ikaray",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6777025",
+  "longitude": "-56.1295845"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Barros",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5818155",
+  "longitude": "-46.3283894"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68035990",
   "logradouro": "Travessa Aramanaí",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "latitude": "-2.439733",
+  "longitude": "-54.754733"
 }

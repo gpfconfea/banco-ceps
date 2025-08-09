@@ -1,9 +1,11 @@
 {
   "cep": "36264971",
   "logradouro": "Praça Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vitorinos",
   "localidade": "Alto Rio Doce",
   "uf": "MG",
-  "ibge": "3102100"
+  "ibge": "3102100",
+  "latitude": "-20.9867237",
+  "longitude": "-43.5383873"
 }

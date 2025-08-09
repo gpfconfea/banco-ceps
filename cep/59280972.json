@@ -1,9 +1,11 @@
 {
   "cep": "59280972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Traíras",
   "localidade": "Macaíba",
   "uf": "RN",
-  "ibge": "2407104"
+  "ibge": "2407104",
+  "latitude": "-5.9961351",
+  "longitude": "-35.5274441"
 }

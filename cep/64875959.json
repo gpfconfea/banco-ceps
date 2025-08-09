@@ -1,9 +1,11 @@
 {
   "cep": "64875959",
   "logradouro": "Rua Bernardo Freitas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Manoel Emídio",
   "uf": "PI",
-  "ibge": "2205904"
+  "ibge": "2205904",
+  "latitude": "-8.0097679",
+  "longitude": "-43.8738643"
 }

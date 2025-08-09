@@ -1,9 +1,11 @@
 {
   "cep": "42823990",
   "logradouro": "Rua da Mangueira - Areias (Abrantes)",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.8049853",
+  "longitude": "-38.2306249"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78601903",
   "logradouro": "Rua 1º de Maio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Cidade Velha",
   "localidade": "Barra do Garças",
   "uf": "MT",
-  "ibge": "5101803"
+  "ibge": "5101803",
+  "latitude": "-15.8896736",
+  "longitude": "-52.2575408"
 }

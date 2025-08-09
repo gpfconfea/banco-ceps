@@ -1,9 +1,11 @@
 {
   "cep": "36285972",
   "logradouro": "Praça da Estação",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Carandaí",
   "uf": "MG",
-  "ibge": "3113206"
+  "ibge": "3113206",
+  "latitude": "-20.9510282",
+  "longitude": "-43.7990807"
 }

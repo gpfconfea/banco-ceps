@@ -6,5 +6,7 @@
   "bairro": "Vila Nova",
   "localidade": "Glorinha",
   "uf": "RS",
-  "ibge": "4309050"
+  "ibge": "4309050",
+  "latitude": "-29.8602644",
+  "longitude": "-50.8292931"
 }

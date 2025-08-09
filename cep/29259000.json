@@ -5,5 +5,7 @@
   "bairro": "Santa Maria de Marechal",
   "localidade": "Marechal Floriano",
   "uf": "ES",
-  "ibge": "3203346"
+  "ibge": "3203346",
+  "latitude": "-20.4415266",
+  "longitude": "-40.7800125"
 }

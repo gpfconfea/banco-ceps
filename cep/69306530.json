@@ -5,5 +5,7 @@
   "bairro": "Canarinho",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "latitude": "-11.6755298",
+  "longitude": "-51.3760718"
 }

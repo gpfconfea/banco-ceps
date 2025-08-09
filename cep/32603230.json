@@ -5,5 +5,7 @@
   "bairro": "Guarujá",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9616729",
+  "longitude": "-44.2090666"
 }

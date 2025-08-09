@@ -5,5 +5,7 @@
   "bairro": "São Mateus",
   "localidade": "Ubá",
   "uf": "MG",
-  "ibge": "3169901"
+  "ibge": "3169901",
+  "latitude": "-22.9398833",
+  "longitude": "-43.0505226"
 }

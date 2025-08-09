@@ -1,9 +1,11 @@
 {
   "cep": "28637973",
   "logradouro": "Estrada Arrozal a soledade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Soledade",
   "localidade": "Sumidouro",
   "uf": "RJ",
-  "ibge": "3305703"
+  "ibge": "3305703",
+  "latitude": "-22.6362053",
+  "longitude": "-44.0391849"
 }

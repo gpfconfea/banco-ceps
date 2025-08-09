@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim I",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-23.5345983",
+  "longitude": "-46.5073502"
 }

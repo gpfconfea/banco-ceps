@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Belém",
   "uf": "AL",
-  "ibge": "2700805"
+  "ibge": "2700805",
+  "latitude": "-9.5725087",
+  "longitude": "-36.4939165"
 }

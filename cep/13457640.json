@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasília",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "latitude": "-22.7633853",
+  "longitude": "-47.362682"
 }

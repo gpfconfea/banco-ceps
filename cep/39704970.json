@@ -1,9 +1,11 @@
 {
   "cep": "39704970",
   "logradouro": "Rua Padre José Sampaio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Geraldo do Baguari",
   "localidade": "São João Evangelista",
   "uf": "MG",
-  "ibge": "3162807"
+  "ibge": "3162807",
+  "latitude": "-18.3744979",
+  "longitude": "-42.7957354"
 }

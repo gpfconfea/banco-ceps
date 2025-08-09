@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Aguaí",
   "uf": "SP",
-  "ibge": "3500303"
+  "ibge": "3500303",
+  "latitude": "-22.0532768",
+  "longitude": "-46.982038"
 }

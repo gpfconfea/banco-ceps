@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "latitude": "-19.837821",
+  "longitude": "-44.6051284"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Antoninho",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6567453",
+  "longitude": "-46.6668158"
 }

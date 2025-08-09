@@ -5,5 +5,7 @@
   "bairro": "Jardim Rodeio",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.5041672",
+  "longitude": "-46.1903923"
 }

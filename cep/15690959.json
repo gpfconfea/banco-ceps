@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Indiaporã",
   "uf": "SP",
-  "ibge": "3520707"
+  "ibge": "3520707",
+  "latitude": "-19.9793402",
+  "longitude": "-50.2888243"
 }

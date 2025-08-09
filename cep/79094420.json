@@ -5,5 +5,7 @@
   "bairro": "Jardim Batistão",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-22.9213988",
+  "longitude": "-43.5555473"
 }

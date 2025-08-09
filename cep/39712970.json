@@ -1,9 +1,11 @@
 {
   "cep": "39712970",
   "logradouro": "Rua São Sebastião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Sebastião do Bugre",
   "localidade": "Coroaci",
   "uf": "MG",
-  "ibge": "3119203"
+  "ibge": "3119203",
+  "latitude": "-18.5902682",
+  "longitude": "-42.1389648"
 }

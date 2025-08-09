@@ -1,9 +1,11 @@
 {
   "cep": "13106901",
   "logradouro": "Rua Cataldo Bove",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Colinas do Ermitage (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8812747",
+  "longitude": "-46.9552268"
 }

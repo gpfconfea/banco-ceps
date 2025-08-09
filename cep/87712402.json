@@ -5,5 +5,7 @@
   "bairro": "Residencial Geraldo Felipe",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-23.1136757",
+  "longitude": "-52.4780121"
 }

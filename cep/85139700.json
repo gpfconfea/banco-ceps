@@ -5,5 +5,7 @@
   "bairro": "São Joaquim",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.8358914",
+  "longitude": "-52.0265517"
 }

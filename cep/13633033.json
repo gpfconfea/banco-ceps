@@ -5,5 +5,7 @@
   "bairro": "Jardim Carlos Gomes",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-23.4979753",
+  "longitude": "-46.4818217"
 }

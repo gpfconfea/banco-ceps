@@ -1,9 +1,11 @@
 {
   "cep": "76279970",
   "logradouro": "Avenida B Quadra 3 Lote 1",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Jussara",
   "uf": "GO",
-  "ibge": "5212204"
+  "ibge": "5212204",
+  "latitude": "-15.8641429",
+  "longitude": "-50.8690996"
 }

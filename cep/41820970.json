@@ -5,5 +5,7 @@
   "bairro": "Caminho das Árvores",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9824881",
+  "longitude": "-38.4549986"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Isabel",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5545064",
+  "longitude": "-51.4524773"
 }

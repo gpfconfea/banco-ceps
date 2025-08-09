@@ -1,9 +1,11 @@
 {
   "cep": "75349980",
   "logradouro": "Rua 7 Quadra C Lote 11",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Abadia de Goiás",
   "uf": "GO",
-  "ibge": "5200050"
+  "ibge": "5200050",
+  "latitude": "-16.7694635",
+  "longitude": "-49.4197574"
 }

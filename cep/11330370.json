@@ -5,5 +5,7 @@
   "bairro": "Vila Margarida",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "latitude": "-8.1679261",
+  "longitude": "-34.9224092"
 }

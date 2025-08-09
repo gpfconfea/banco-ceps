@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "latitude": "-22.5531015",
+  "longitude": "-47.9134782"
 }

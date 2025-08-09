@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Laranjais",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.1502932",
+  "longitude": "-47.1855326"
 }

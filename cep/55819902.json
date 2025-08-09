@@ -1,9 +1,11 @@
 {
   "cep": "55819902",
   "logradouro": "Praça São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José",
   "localidade": "Carpina",
   "uf": "PE",
-  "ibge": "2604007"
+  "ibge": "2604007",
+  "latitude": "-7.8439739",
+  "longitude": "-35.2561984"
 }

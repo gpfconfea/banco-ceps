@@ -6,5 +6,7 @@
   "bairro": "Residencial Reserva da Mata",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5804854",
+  "longitude": "-48.0866651"
 }

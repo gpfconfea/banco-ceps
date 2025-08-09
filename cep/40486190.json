@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9300535",
+  "longitude": "-38.487344"
 }

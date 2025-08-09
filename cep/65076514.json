@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5080751",
+  "longitude": "-44.3070709"
 }

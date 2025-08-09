@@ -5,5 +5,7 @@
   "bairro": "Central",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "latitude": "-18.9433274",
+  "longitude": "-49.3795786"
 }

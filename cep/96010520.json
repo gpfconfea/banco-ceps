@@ -5,5 +5,7 @@
   "bairro": "Porto",
   "localidade": "Pelotas",
   "uf": "RS",
-  "ibge": "4314407"
+  "ibge": "4314407",
+  "latitude": "-31.7800479",
+  "longitude": "-52.327477"
 }

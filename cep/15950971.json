@@ -1,9 +1,11 @@
 {
   "cep": "15950971",
   "logradouro": "Avenida Miguel Lazarini",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Rosa",
   "localidade": "Santa Adélia",
   "uf": "SP",
-  "ibge": "3545605"
+  "ibge": "3545605",
+  "latitude": "-21.2893182",
+  "longitude": "-48.8715558"
 }
