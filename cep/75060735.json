@@ -5,5 +5,7 @@
   "bairro": "Residencial Araujoville",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3031152",
+  "longitude": "-48.9497318"
 }

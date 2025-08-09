@@ -5,5 +5,7 @@
   "bairro": "Guarapiranga",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.9753599",
+  "longitude": "-46.5481506"
 }

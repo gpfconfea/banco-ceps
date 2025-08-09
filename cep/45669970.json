@@ -1,9 +1,11 @@
 {
   "cep": "45669970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Inema",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "latitude": "-14.8443725",
+  "longitude": "-39.0270678"
 }

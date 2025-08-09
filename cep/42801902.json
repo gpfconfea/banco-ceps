@@ -1,9 +1,11 @@
 {
   "cep": "42801902",
   "logradouro": "Rua Dourado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Nascente do Rio Capivara",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.6515224",
+  "longitude": "-38.070582"
 }

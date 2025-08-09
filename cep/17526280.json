@@ -5,5 +5,7 @@
   "bairro": "Jardim Universitário",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.233066",
+  "longitude": "-49.9795265"
 }

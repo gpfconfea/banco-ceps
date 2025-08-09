@@ -1,9 +1,11 @@
 {
   "cep": "28740990",
   "logradouro": "Estrada São Domingos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Conceição de Macabu",
   "uf": "RJ",
-  "ibge": "3301405"
+  "ibge": "3301405",
+  "latitude": "-22.1189342",
+  "longitude": "-41.865175"
 }

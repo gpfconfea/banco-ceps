@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "latitude": "-7.2239625",
+  "longitude": "-35.8911059"
 }

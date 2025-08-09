@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Itaguassu",
   "localidade": "Aparecida",
   "uf": "SP",
-  "ibge": "3502507"
+  "ibge": "3502507",
+  "latitude": "-22.867859",
+  "longitude": "-45.261796"
 }

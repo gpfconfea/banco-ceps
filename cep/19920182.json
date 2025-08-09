@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Antonio Batista",
   "localidade": "Salto Grande",
   "uf": "SP",
-  "ibge": "3545407"
+  "ibge": "3545407",
+  "latitude": "-22.8827693",
+  "longitude": "-49.972298"
 }

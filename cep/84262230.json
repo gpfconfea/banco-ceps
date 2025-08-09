@@ -5,5 +5,7 @@
   "bairro": "Bela Vista do Paraíso",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-24.3158913",
+  "longitude": "-50.6191246"
 }

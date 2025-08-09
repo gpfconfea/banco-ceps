@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Rita do Sapucaí",
   "uf": "MG",
-  "ibge": "3159605"
+  "ibge": "3159605",
+  "latitude": "-22.2494473",
+  "longitude": "-45.7034648"
 }

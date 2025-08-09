@@ -5,5 +5,7 @@
   "bairro": "Jardim Flor do Campo",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4539435",
+  "longitude": "-46.5036928"
 }

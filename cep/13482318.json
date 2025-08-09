@@ -5,5 +5,7 @@
   "bairro": "Jardim Terras de Santa Elisa",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5751669",
+  "longitude": "-47.4276309"
 }

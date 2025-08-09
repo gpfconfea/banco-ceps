@@ -5,5 +5,7 @@
   "bairro": "Medianeira",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "latitude": "-29.8028335",
+  "longitude": "-55.7898473"
 }

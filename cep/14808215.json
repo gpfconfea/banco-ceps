@@ -5,5 +5,7 @@
   "bairro": "Doutor Tancredo de Almeida Neves",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.8349287",
+  "longitude": "-48.1459641"
 }

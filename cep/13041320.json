@@ -5,5 +5,7 @@
   "bairro": "Vila Elza",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.549865",
+  "longitude": "-46.6340205"
 }

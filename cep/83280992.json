@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guaratuba",
   "uf": "PR",
-  "ibge": "4109609"
+  "ibge": "4109609",
+  "latitude": "-25.8943331",
+  "longitude": "-48.5956638"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Cantinho do Sossego",
   "localidade": "Duartina",
   "uf": "SP",
-  "ibge": "3514502"
+  "ibge": "3514502",
+  "latitude": "-22.4298643",
+  "longitude": "-49.3980982"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Olindina",
   "uf": "BA",
-  "ibge": "2923100"
+  "ibge": "2923100",
+  "latitude": "-11.3563338",
+  "longitude": "-38.3284505"
 }

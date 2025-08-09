@@ -1,9 +1,11 @@
 {
   "cep": "61688975",
   "logradouro": "Rodovia Raimundo Alfredo Nunes de Miranda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tucunduba",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.8683637",
+  "longitude": "-38.7577605"
 }

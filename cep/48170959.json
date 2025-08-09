@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Água Fria",
   "uf": "BA",
-  "ibge": "2900405"
+  "ibge": "2900405",
+  "latitude": "-11.8692964",
+  "longitude": "-38.7616719"
 }

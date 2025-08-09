@@ -5,5 +5,7 @@
   "bairro": "Jardim Arujá",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4697956",
+  "longitude": "-46.4218598"
 }

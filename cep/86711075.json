@@ -5,5 +5,7 @@
   "bairro": "Parque Monterrey",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "latitude": "-23.4375758",
+  "longitude": "-51.4761261"
 }

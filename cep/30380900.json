@@ -5,5 +5,7 @@
   "bairro": "Conjunto Santa Maria",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.950595",
+  "longitude": "-43.9611308"
 }

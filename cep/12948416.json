@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Itapetinga",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.1020556",
+  "longitude": "-46.5727502"
 }

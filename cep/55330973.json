@@ -1,9 +1,11 @@
 {
   "cep": "55330973",
   "logradouro": "Rua Logradouro dos Leões",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bom Conselho",
   "uf": "PE",
-  "ibge": "2602100"
+  "ibge": "2602100",
+  "latitude": "-9.2458643",
+  "longitude": "-36.7858457"
 }

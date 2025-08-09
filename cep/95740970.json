@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Poço das Antas",
   "uf": "RS",
-  "ibge": "4314753"
+  "ibge": "4314753",
+  "latitude": "-29.4530137",
+  "longitude": "-51.6690916"
 }

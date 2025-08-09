@@ -5,5 +5,7 @@
   "bairro": "São Paulo",
   "localidade": "Santo Antônio de Jesus",
   "uf": "BA",
-  "ibge": "2928703"
+  "ibge": "2928703",
+  "latitude": "-12.9640909",
+  "longitude": "-39.2473037"
 }

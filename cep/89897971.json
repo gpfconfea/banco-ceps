@@ -1,9 +1,11 @@
 {
   "cep": "89897971",
   "logradouro": "Rua da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito de Cristo Rei",
   "localidade": "São João do Oeste",
   "uf": "SC",
-  "ibge": "4216255"
+  "ibge": "4216255",
+  "latitude": "-27.0366705",
+  "longitude": "-53.5775491"
 }

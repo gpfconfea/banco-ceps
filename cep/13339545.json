@@ -5,5 +5,7 @@
   "bairro": "Jardim Santiago",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0973002",
+  "longitude": "-47.198587"
 }

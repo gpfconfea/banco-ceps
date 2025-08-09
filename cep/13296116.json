@@ -5,5 +5,7 @@
   "bairro": "Residencial Girassol",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.1734799",
+  "longitude": "-47.0494067"
 }

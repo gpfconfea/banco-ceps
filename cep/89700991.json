@@ -1,9 +1,11 @@
 {
   "cep": "89700991",
   "logradouro": "Rua Principal - Tamanduá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "latitude": "-27.3040689",
+  "longitude": "-51.9950655"
 }

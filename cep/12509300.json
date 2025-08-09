@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial André Broca Filho",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.7989318",
+  "longitude": "-45.219482"
 }

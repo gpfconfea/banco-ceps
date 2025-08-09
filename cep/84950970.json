@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Wenceslau Braz",
   "uf": "PR",
-  "ibge": "4128500"
+  "ibge": "4128500",
+  "latitude": "-23.8712763",
+  "longitude": "-49.8021381"
 }

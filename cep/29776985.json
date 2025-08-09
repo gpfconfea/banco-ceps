@@ -1,9 +1,11 @@
 {
   "cep": "29776985",
   "logradouro": "Rua Messias Gonçalves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Geraldo",
   "localidade": "Mantenópolis",
   "uf": "ES",
-  "ibge": "3203304"
+  "ibge": "3203304",
+  "latitude": "-18.8344388",
+  "longitude": "-41.2150216"
 }

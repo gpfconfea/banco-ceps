@@ -1,9 +1,11 @@
 {
   "cep": "58455970",
   "logradouro": "Rua Joao Queiroga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Caturité",
   "uf": "PB",
-  "ibge": "2504355"
+  "ibge": "2504355",
+  "latitude": "-7.4175726",
+  "longitude": "-36.0208242"
 }

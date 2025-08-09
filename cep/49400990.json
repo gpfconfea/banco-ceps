@@ -1,9 +1,11 @@
 {
   "cep": "49400990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Lagarto",
   "uf": "SE",
-  "ibge": "2803500"
+  "ibge": "2803500",
+  "latitude": "-10.8047744",
+  "longitude": "-38.2340474"
 }

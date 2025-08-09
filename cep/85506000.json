@@ -6,5 +6,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "latitude": "-26.2551941",
+  "longitude": "-52.6795103"
 }

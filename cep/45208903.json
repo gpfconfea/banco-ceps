@@ -1,9 +1,11 @@
 {
   "cep": "45208903",
   "logradouro": "Praça Duque de Caxias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jequiezinho",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-13.8722007",
+  "longitude": "-40.0730633"
 }

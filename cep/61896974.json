@@ -1,9 +1,11 @@
 {
   "cep": "61896974",
   "logradouro": "Rua Leiria de Andrade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Núcleo Colonial Pio XII",
   "localidade": "Guaiúba",
   "uf": "CE",
-  "ibge": "2304954"
+  "ibge": "2304954",
+  "latitude": "-4.0800079",
+  "longitude": "-38.7003393"
 }

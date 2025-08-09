@@ -1,9 +1,11 @@
 {
   "cep": "86040990",
   "logradouro": "Margem da Rodovia Major Aquiles",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3197305",
+  "longitude": "-51.1662008"
 }

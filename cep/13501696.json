@@ -5,5 +5,7 @@
   "bairro": "Jardim Porto Fino",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "latitude": "-22.4363447",
+  "longitude": "-47.5562887"
 }

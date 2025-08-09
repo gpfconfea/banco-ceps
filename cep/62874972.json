@@ -1,9 +1,11 @@
 {
   "cep": "62874972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pascoal",
   "localidade": "Pacajus",
   "uf": "CE",
-  "ibge": "2309607"
+  "ibge": "2309607",
+  "latitude": "-4.2251343",
+  "longitude": "-38.5774903"
 }

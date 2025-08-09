@@ -6,5 +6,7 @@
   "bairro": "Industrial",
   "localidade": "Três Pontas",
   "uf": "MG",
-  "ibge": "3169406"
+  "ibge": "3169406",
+  "latitude": "-21.3838806",
+  "longitude": "-45.5154785"
 }

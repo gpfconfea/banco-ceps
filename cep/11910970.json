@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sete Barras",
   "uf": "SP",
-  "ibge": "3551801"
+  "ibge": "3551801",
+  "latitude": "-24.3862352",
+  "longitude": "-47.927028"
 }

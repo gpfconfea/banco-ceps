@@ -5,5 +5,7 @@
   "bairro": "Antônio José Machado",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2263716",
+  "longitude": "-45.9393609"
 }

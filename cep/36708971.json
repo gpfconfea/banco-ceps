@@ -1,9 +1,11 @@
 {
   "cep": "36708971",
   "logradouro": "Rua Galdino César",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tebas",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-21.5796826",
+  "longitude": "-42.7367296"
 }

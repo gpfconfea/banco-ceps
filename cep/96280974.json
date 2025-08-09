@@ -1,9 +1,11 @@
 {
   "cep": "96280974",
   "logradouro": "Rodovia BR-101",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Doutor Edgardo Pereira Velho",
   "localidade": "Mostardas",
   "uf": "RS",
-  "ibge": "4312500"
+  "ibge": "4312500",
+  "latitude": "-22.7101789",
+  "longitude": "-46.6486155"
 }

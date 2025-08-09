@@ -5,5 +5,7 @@
   "bairro": "Chácaras Nogueira",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.2377137",
+  "longitude": "-46.8450313"
 }

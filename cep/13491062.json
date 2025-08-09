@@ -5,5 +5,7 @@
   "bairro": "Vila Primavera",
   "localidade": "Cordeirópolis",
   "uf": "SP",
-  "ibge": "3512407"
+  "ibge": "3512407",
+  "latitude": "-14.235004",
+  "longitude": "-51.92528"
 }

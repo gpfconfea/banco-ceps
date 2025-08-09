@@ -5,5 +5,7 @@
   "bairro": "Jardim Amazonas I",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.237267",
+  "longitude": "-45.953705"
 }

@@ -5,5 +5,7 @@
   "bairro": "Pacaembu",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "latitude": "-16.0953522",
+  "longitude": "-48.0202999"
 }

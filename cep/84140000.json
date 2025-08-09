@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Amazonas",
   "uf": "PR",
-  "ibge": "4120101"
+  "ibge": "4120101",
+  "latitude": "-25.5494226",
+  "longitude": "-49.8973805"
 }

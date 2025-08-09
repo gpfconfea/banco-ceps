@@ -5,5 +5,7 @@
   "bairro": "Vila Saul",
   "localidade": "Santa Cruz do Rio Pardo",
   "uf": "SP",
-  "ibge": "3546405"
+  "ibge": "3546405",
+  "latitude": "-22.894868",
+  "longitude": "-49.634304"
 }

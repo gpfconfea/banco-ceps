@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Américo",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.549391",
+  "longitude": "-46.9628338"
 }

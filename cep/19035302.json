@@ -5,5 +5,7 @@
   "bairro": "Residencial Itamaraty",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-21.9566976",
+  "longitude": "-51.4210614"
 }

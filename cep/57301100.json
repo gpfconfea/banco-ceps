@@ -5,5 +5,7 @@
   "bairro": "Ouro Preto",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "latitude": "-9.7599363",
+  "longitude": "-36.654667"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "14690970",
   "logradouro": "Rua Mário Caran",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jardinópolis",
   "uf": "SP",
-  "ibge": "3525102"
+  "ibge": "3525102",
+  "latitude": "-21.0650542",
+  "longitude": "-47.7452072"
 }

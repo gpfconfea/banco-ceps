@@ -5,5 +5,7 @@
   "bairro": "Planta Bosque Centenário",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.4620627",
+  "longitude": "-49.1506839"
 }

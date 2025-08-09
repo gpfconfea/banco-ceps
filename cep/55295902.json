@@ -1,9 +1,11 @@
 {
   "cep": "55295902",
   "logradouro": "Rua São Bento",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Heliópolis",
   "localidade": "Garanhuns",
   "uf": "PE",
-  "ibge": "2606002"
+  "ibge": "2606002",
+  "latitude": "-8.8848839",
+  "longitude": "-36.4951959"
 }

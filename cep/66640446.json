@@ -5,5 +5,7 @@
   "bairro": "Mangueirão",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "38.7130679",
+  "longitude": "-9.2149296"
 }

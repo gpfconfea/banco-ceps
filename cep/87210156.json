@@ -5,5 +5,7 @@
   "bairro": "Residencial Pacífico",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "-23.6562649",
+  "longitude": "-52.5812635"
 }
