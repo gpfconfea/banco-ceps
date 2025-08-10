@@ -5,5 +5,7 @@
   "bairro": "Jardim Luzitânia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5948802",
+  "longitude": "-46.6598855"
 }

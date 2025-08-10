@@ -5,5 +5,7 @@
   "bairro": "Corrupira",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1043806",
+  "longitude": "-46.9276268"
 }

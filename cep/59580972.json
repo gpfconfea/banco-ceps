@@ -1,9 +1,11 @@
 {
   "cep": "59580972",
   "logradouro": "Distrito Dom Marcolino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Dom Marcolino",
   "localidade": "Maxaranguape",
   "uf": "RN",
-  "ibge": "2407500"
+  "ibge": "2407500",
+  "latitude": "-5.4622382",
+  "longitude": "-35.3959879"
 }

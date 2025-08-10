@@ -1,9 +1,11 @@
 {
   "cep": "88780973",
   "logradouro": "Estrada Geral de Ibiraquera",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibiraquera",
   "localidade": "Imbituba",
   "uf": "SC",
-  "ibge": "4207304"
+  "ibge": "4207304",
+  "latitude": "-28.167915",
+  "longitude": "-48.716656"
 }

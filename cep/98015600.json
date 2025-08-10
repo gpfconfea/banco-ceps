@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "latitude": "-28.6222849",
+  "longitude": "-53.6324271"
 }

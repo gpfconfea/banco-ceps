@@ -5,5 +5,7 @@
   "bairro": "Residencial Campos Maia",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-23.5072982",
+  "longitude": "-46.5729184"
 }

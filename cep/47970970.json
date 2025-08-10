@@ -1,9 +1,11 @@
 {
   "cep": "47970970",
   "logradouro": "Rua Ruy Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Riachão das Neves",
   "uf": "BA",
-  "ibge": "2926202"
+  "ibge": "2926202",
+  "latitude": "-11.7491191",
+  "longitude": "-44.9118009"
 }

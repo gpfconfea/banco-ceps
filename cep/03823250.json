@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Tereza",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.2873306",
+  "longitude": "-47.6666318"
 }

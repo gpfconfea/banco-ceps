@@ -5,5 +5,7 @@
   "bairro": "Caraíba",
   "localidade": "Seara",
   "uf": "SC",
-  "ibge": "4217501"
+  "ibge": "4217501",
+  "latitude": "-27.2146726",
+  "longitude": "-52.32618"
 }

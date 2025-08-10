@@ -1,9 +1,11 @@
 {
   "cep": "65726970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Marianópolis",
   "localidade": "Pedreiras",
   "uf": "MA",
-  "ibge": "2108207"
+  "ibge": "2108207",
+  "latitude": "-4.6198263",
+  "longitude": "-44.9804359"
 }

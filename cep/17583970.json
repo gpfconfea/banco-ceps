@@ -1,9 +1,11 @@
 {
   "cep": "17583970",
   "logradouro": "Rua Antônio Rosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paulópolis",
   "localidade": "Pompéia",
   "uf": "SP",
-  "ibge": "3540002"
+  "ibge": "3540002",
+  "latitude": "-23.5322908",
+  "longitude": "-46.6850215"
 }

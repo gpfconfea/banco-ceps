@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Senador Cortes",
   "uf": "MG",
-  "ibge": "3165602"
+  "ibge": "3165602",
+  "latitude": "-21.7938446",
+  "longitude": "-42.942476"
 }

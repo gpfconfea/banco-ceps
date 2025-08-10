@@ -1,9 +1,11 @@
 {
   "cep": "89663959",
   "logradouro": "Rua Governador Jorge Lacerda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ouro",
   "uf": "SC",
-  "ibge": "4211801"
+  "ibge": "4211801",
+  "latitude": "-27.3438729",
+  "longitude": "-51.6184563"
 }

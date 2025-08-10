@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cachoeira da Prata",
   "uf": "MG",
-  "ibge": "3109600"
+  "ibge": "3109600",
+  "latitude": "-19.5269864",
+  "longitude": "-44.4559166"
 }

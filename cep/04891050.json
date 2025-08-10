@@ -5,5 +5,7 @@
   "bairro": "Vila Roschel",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.8451448",
+  "longitude": "-46.728769"
 }

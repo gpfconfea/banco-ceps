@@ -5,5 +5,7 @@
   "bairro": "Coral",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.8122014",
+  "longitude": "-50.305265"
 }

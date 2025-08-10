@@ -5,5 +5,7 @@
   "bairro": "Jardim Doraly",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4288678",
+  "longitude": "-46.5654712"
 }

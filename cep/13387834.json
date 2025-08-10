@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardins da Cidade",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-21.2172677",
+  "longitude": "-47.7810219"
 }

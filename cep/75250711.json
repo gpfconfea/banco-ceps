@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Canedo III",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.7032894",
+  "longitude": "-49.1201587"
 }

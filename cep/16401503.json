@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Ana Carolina",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-23.5505199",
+  "longitude": "-46.6333094"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "56730970",
   "logradouro": "Rua Esperidião de Siqueira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Vicente",
   "localidade": "Itapetim",
   "uf": "PE",
-  "ibge": "2607703"
+  "ibge": "2607703",
+  "latitude": "-7.4415093",
+  "longitude": "-37.091682"
 }

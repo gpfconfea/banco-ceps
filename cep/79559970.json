@@ -1,9 +1,11 @@
 {
   "cep": "79559970",
   "logradouro": "Rua Adenildo Alves da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bela Alvorada",
   "localidade": "Paraíso das Águas",
   "uf": "MS",
-  "ibge": "5006275"
+  "ibge": "5006275",
+  "latitude": "-19.372778",
+  "longitude": "-53.440556"
 }

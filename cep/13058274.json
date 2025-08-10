@@ -5,5 +5,7 @@
   "bairro": "Jardim Liliza",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9605321",
+  "longitude": "-47.189223"
 }

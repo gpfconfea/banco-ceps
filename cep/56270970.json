@@ -1,9 +1,11 @@
 {
   "cep": "56270970",
   "logradouro": "Rua do Comercio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ipubi",
   "uf": "PE",
-  "ibge": "2607307"
+  "ibge": "2607307",
+  "latitude": "-7.4725844",
+  "longitude": "-40.2791139"
 }

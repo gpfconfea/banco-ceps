@@ -5,5 +5,7 @@
   "bairro": "Socopo",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-21.6824831",
+  "longitude": "-51.0741711"
 }

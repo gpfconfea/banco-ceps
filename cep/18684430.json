@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Maestro Júlio Ferrari",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-23.6886926",
+  "longitude": "-46.7808626"
 }

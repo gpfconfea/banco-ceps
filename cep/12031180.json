@@ -5,5 +5,7 @@
   "bairro": "Jardim Marajoara",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-22.9607449",
+  "longitude": "-45.4896938"
 }

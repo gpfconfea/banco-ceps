@@ -5,5 +5,7 @@
   "bairro": "Chácara das Corujas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.505405",
+  "longitude": "-46.4138997"
 }

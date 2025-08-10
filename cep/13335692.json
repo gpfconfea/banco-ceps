@@ -5,5 +5,7 @@
   "bairro": "Jardim Doutor Carlos Augusto de Camargo Andrade",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0763542",
+  "longitude": "-47.1900857"
 }

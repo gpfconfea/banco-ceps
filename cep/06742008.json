@@ -5,5 +5,7 @@
   "bairro": "Chácara Belverde",
   "localidade": "Vargem Grande Paulista",
   "uf": "SP",
-  "ibge": "3556453"
+  "ibge": "3556453",
+  "latitude": "-23.644858",
+  "longitude": "-46.9912492"
 }

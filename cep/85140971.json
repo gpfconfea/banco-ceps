@@ -1,9 +1,11 @@
 {
   "cep": "85140971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Candói",
   "uf": "PR",
-  "ibge": "4104428"
+  "ibge": "4104428",
+  "latitude": "-25.4675864",
+  "longitude": "-51.9368545"
 }

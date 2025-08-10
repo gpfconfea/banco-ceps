@@ -5,5 +5,7 @@
   "bairro": "Jardim",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "latitude": "-22.8747703",
+  "longitude": "-42.496169"
 }

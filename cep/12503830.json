@@ -5,5 +5,7 @@
   "bairro": "Rocinha",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-23.2215051",
+  "longitude": "-45.8826668"
 }

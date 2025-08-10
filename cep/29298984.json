@@ -1,9 +1,11 @@
 {
   "cep": "29298984",
   "logradouro": "Rua Caetano Vanini",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José de Fruteiras",
   "localidade": "Vargem Alta",
   "uf": "ES",
-  "ibge": "3205036"
+  "ibge": "3205036",
+  "latitude": "-20.6048182",
+  "longitude": "-41.0288357"
 }

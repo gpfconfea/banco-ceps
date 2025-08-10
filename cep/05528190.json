@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada (Zona Oeste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5952797",
+  "longitude": "-46.7591104"
 }

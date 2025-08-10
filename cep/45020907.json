@@ -1,9 +1,11 @@
 {
   "cep": "45020907",
   "logradouro": "Rua Siqueira Campos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Recreio",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-14.8552609",
+  "longitude": "-40.8360606"
 }

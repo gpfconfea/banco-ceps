@@ -1,9 +1,11 @@
 {
   "cep": "64245959",
   "logradouro": "Avenida Manoel do Divino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São José do Divino",
   "uf": "PI",
-  "ibge": "2210052"
+  "ibge": "2210052",
+  "latitude": "-3.8108275",
+  "longitude": "-41.8272343"
 }

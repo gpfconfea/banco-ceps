@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "latitude": "-23.5456528",
+  "longitude": "-46.83022"
 }

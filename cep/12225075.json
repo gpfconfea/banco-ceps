@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Flórida",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.1790733",
+  "longitude": "-45.8106567"
 }

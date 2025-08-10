@@ -5,5 +5,7 @@
   "bairro": "Canelas",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6709761",
+  "longitude": "-56.1640418"
 }

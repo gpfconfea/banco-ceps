@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "latitude": "-22.5896719",
+  "longitude": "-44.9639809"
 }

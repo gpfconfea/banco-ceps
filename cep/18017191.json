@@ -5,5 +5,7 @@
   "bairro": "Granja Olga I",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4910146",
+  "longitude": "-47.411523"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São Benedito",
   "localidade": "Cubatão",
   "uf": "SP",
-  "ibge": "3513504"
+  "ibge": "3513504",
+  "latitude": "-23.9344121",
+  "longitude": "-46.4312549"
 }

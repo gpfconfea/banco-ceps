@@ -1,9 +1,11 @@
 {
   "cep": "67130910",
   "logradouro": "Estrada da Vila Nova",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cidade Nova",
   "localidade": "Ananindeua",
   "uf": "PA",
-  "ibge": "1500800"
+  "ibge": "1500800",
+  "latitude": "-1.3653887",
+  "longitude": "-48.410222"
 }

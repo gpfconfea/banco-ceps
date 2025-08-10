@@ -1,9 +1,11 @@
 {
   "cep": "68165971",
   "logradouro": "Vila de Divinópolis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila de Divinópolis",
   "localidade": "Rurópolis",
   "uf": "PA",
-  "ibge": "1506195"
+  "ibge": "1506195",
+  "latitude": "-4.1946211",
+  "longitude": "-55.4883694"
 }

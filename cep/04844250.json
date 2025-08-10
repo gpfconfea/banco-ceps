@@ -5,5 +5,7 @@
   "bairro": "Jardim Icaraí",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7493282",
+  "longitude": "-46.705045"
 }

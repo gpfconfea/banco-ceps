@@ -5,5 +5,7 @@
   "bairro": "Medeiros",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1900071",
+  "longitude": "-46.9974158"
 }

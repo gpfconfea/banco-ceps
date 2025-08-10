@@ -6,5 +6,7 @@
   "bairro": "Planalto",
   "localidade": "Brotas",
   "uf": "SP",
-  "ibge": "3507902"
+  "ibge": "3507902",
+  "latitude": "-22.2861808",
+  "longitude": "-48.13403"
 }

@@ -6,5 +6,7 @@
   "bairro": "Residencial Tavares",
   "localidade": "Mendonça",
   "uf": "SP",
-  "ibge": "3529500"
+  "ibge": "3529500",
+  "latitude": "-21.1916042",
+  "longitude": "-49.5769123"
 }

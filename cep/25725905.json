@@ -1,9 +1,11 @@
 {
   "cep": "25725905",
   "logradouro": "Rodovia BR-040 Quilômetro 66 BR 040",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Araras",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "latitude": "-22.4049508",
+  "longitude": "-43.1426278"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "88650971",
   "logradouro": "Rodovia SC-439",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Urubici",
   "uf": "SC",
-  "ibge": "4218905"
+  "ibge": "4218905",
+  "latitude": "-28.0339864",
+  "longitude": "-49.4924671"
 }

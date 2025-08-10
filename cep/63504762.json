@@ -5,5 +5,7 @@
   "bairro": "Novo Iguatu",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "latitude": "-6.3930441",
+  "longitude": "-39.29236"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Senhor do Bonfim",
   "localidade": "Presidente Venceslau",
   "uf": "SP",
-  "ibge": "3541505"
+  "ibge": "3541505",
+  "latitude": "-21.8836775",
+  "longitude": "-51.8406083"
 }

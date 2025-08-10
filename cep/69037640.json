@@ -5,5 +5,7 @@
   "bairro": "Lírio do Vale",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-24.3185218",
+  "longitude": "-47.6351689"
 }

@@ -5,5 +5,7 @@
   "bairro": "Terras de Santa Izabel",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-21.2175265",
+  "longitude": "-49.9313211"
 }

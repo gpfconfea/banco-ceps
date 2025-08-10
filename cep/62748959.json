@@ -1,9 +1,11 @@
 {
   "cep": "62748959",
   "logradouro": "Rua Coronel Francisco Nunes Cavalcante",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Capistrano",
   "uf": "CE",
-  "ibge": "2302909"
+  "ibge": "2302909",
+  "latitude": "-4.4686705",
+  "longitude": "-38.9007584"
 }

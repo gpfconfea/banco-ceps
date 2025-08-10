@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Tancredo Neves",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "latitude": "-12.750953",
+  "longitude": "-60.1115808"
 }

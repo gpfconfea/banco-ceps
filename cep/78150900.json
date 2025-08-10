@@ -1,9 +1,11 @@
 {
   "cep": "78150900",
   "logradouro": "Rua Cônego Guimarães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Isabel",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6387088",
+  "longitude": "-56.1340157"
 }

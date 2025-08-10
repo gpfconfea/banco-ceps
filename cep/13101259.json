@@ -5,5 +5,7 @@
   "bairro": "Jardim Tamoio",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9243222",
+  "longitude": "-47.015096"
 }

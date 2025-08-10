@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Trabiju",
   "uf": "SP",
-  "ibge": "3554755"
+  "ibge": "3554755",
+  "latitude": "-22.0406132",
+  "longitude": "-48.3363076"
 }

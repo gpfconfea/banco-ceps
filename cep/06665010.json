@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional - Setor A",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.6571008",
+  "longitude": "-46.7887383"
 }
