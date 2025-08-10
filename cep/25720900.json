@@ -1,9 +1,11 @@
 {
   "cep": "25720900",
   "logradouro": "Rua Carvalho Júnior",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Corrêas",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "latitude": "-22.4405488",
+  "longitude": "-43.1458411"
 }

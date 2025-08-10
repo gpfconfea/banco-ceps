@@ -1,9 +1,11 @@
 {
   "cep": "55658970",
   "logradouro": "Rua João Paulo Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ameixas",
   "localidade": "Cumaru",
   "uf": "PE",
-  "ibge": "2604908"
+  "ibge": "2604908",
+  "latitude": "-8.1007542",
+  "longitude": "-35.7758248"
 }

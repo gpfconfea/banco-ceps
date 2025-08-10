@@ -5,5 +5,7 @@
   "bairro": "Residencial Zanetti",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5666678",
+  "longitude": "-47.3470982"
 }

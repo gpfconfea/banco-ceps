@@ -5,5 +5,7 @@
   "bairro": "Vila Lucy",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-19.8582716",
+  "longitude": "-43.9033689"
 }

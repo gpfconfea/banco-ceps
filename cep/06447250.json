@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.54051",
+  "longitude": "-46.8801547"
 }

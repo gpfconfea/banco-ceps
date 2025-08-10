@@ -5,5 +5,7 @@
   "bairro": "Café Mineiro",
   "localidade": "Patrocínio",
   "uf": "MG",
-  "ibge": "3148103"
+  "ibge": "3148103",
+  "latitude": "-18.9275344",
+  "longitude": "-47.0000695"
 }

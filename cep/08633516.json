@@ -5,5 +5,7 @@
   "bairro": "Parque do Heroísmo",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-22.8067599",
+  "longitude": "-47.3067683"
 }

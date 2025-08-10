@@ -1,9 +1,11 @@
 {
   "cep": "63389975",
   "logradouro": "Vila Monte Alegre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Monte Alegre",
   "localidade": "Barro",
   "uf": "CE",
-  "ibge": "2302008"
+  "ibge": "2302008",
+  "latitude": "-7.0090914",
+  "longitude": "-38.75054"
 }

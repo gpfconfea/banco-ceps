@@ -6,5 +6,7 @@
   "bairro": "Vila Olívia",
   "localidade": "Potim",
   "uf": "SP",
-  "ibge": "3540754"
+  "ibge": "3540754",
+  "latitude": "-22.8340307",
+  "longitude": "-45.2468076"
 }

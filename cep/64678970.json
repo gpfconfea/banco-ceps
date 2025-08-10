@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Belém do Piauí",
   "uf": "PI",
-  "ibge": "2201572"
+  "ibge": "2201572",
+  "latitude": "-7.3777592",
+  "longitude": "-40.9717622"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Imperial",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.4581384",
+  "longitude": "-45.443701"
 }

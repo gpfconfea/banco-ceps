@@ -5,5 +5,7 @@
   "bairro": "Rio Doce",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-2.8107882",
+  "longitude": "-45.7059464"
 }

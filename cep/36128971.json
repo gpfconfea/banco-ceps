@@ -1,9 +1,11 @@
 {
   "cep": "36128971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Porto das Flores",
   "localidade": "Belmiro Braga",
   "uf": "MG",
-  "ibge": "3106101"
+  "ibge": "3106101",
+  "latitude": "-22.059964",
+  "longitude": "-43.5830361"
 }

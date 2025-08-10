@@ -1,9 +1,11 @@
 {
   "cep": "65700991",
   "logradouro": "Avenida Dom Bosco (Ponto Comercial)",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bacabal",
   "uf": "MA",
-  "ibge": "2101202"
+  "ibge": "2101202",
+  "latitude": "-4.2083123",
+  "longitude": "-44.8001427"
 }

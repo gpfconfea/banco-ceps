@@ -6,5 +6,7 @@
   "bairro": "João Viana",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-4.8761066",
+  "longitude": "-43.3439493"
 }

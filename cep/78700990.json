@@ -1,9 +1,11 @@
 {
   "cep": "78700990",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "latitude": "-16.4726627",
+  "longitude": "-54.6102773"
 }

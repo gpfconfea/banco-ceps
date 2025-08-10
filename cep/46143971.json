@@ -1,9 +1,11 @@
 {
   "cep": "46143971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itanagé",
   "localidade": "Livramento de Nossa Senhora",
   "uf": "BA",
-  "ibge": "2919504"
+  "ibge": "2919504",
+  "latitude": "-13.705976",
+  "longitude": "-42.020841"
 }

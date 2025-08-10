@@ -5,5 +5,7 @@
   "bairro": "Alto José Bonifácio",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-7.4027905",
+  "longitude": "-35.1199069"
 }

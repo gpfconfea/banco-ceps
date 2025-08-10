@@ -1,9 +1,11 @@
 {
   "cep": "28960970",
   "logradouro": "Rua Paulino Rodrigues de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Iguaba Grande",
   "uf": "RJ",
-  "ibge": "3301876"
+  "ibge": "3301876",
+  "latitude": "-22.8414875",
+  "longitude": "-42.2253477"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sena Madureira",
   "uf": "AC",
-  "ibge": "1200500"
+  "ibge": "1200500",
+  "latitude": "-9.0638816",
+  "longitude": "-68.6718301"
 }

@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Pindamonhangaba",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-22.9283955",
+  "longitude": "-45.4596019"
 }

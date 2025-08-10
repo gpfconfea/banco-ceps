@@ -5,5 +5,7 @@
   "bairro": "Jardim Itacaré",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1277709",
+  "longitude": "-51.3675268"
 }

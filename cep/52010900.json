@@ -1,9 +1,11 @@
 {
   "cep": "52010900",
   "logradouro": "Praça do Derby",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Derby",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0574798",
+  "longitude": "-34.8991282"
 }

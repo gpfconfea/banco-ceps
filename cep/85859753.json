@@ -6,5 +6,7 @@
   "bairro": "Morumbi",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.5101629",
+  "longitude": "-54.527256"
 }

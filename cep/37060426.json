@@ -5,5 +5,7 @@
   "bairro": "Minas Gerais",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-21.5762689",
+  "longitude": "-45.4143319"
 }

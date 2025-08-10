@@ -5,5 +5,7 @@
   "bairro": "Vila Vivenda",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.3844207",
+  "longitude": "-47.3534079"
 }

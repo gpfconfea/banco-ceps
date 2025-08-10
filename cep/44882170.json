@@ -5,5 +5,7 @@
   "bairro": "Vila Cruzeiro",
   "localidade": "Cafarnaum",
   "uf": "BA",
-  "ibge": "2905305"
+  "ibge": "2905305",
+  "latitude": "-11.6881526",
+  "longitude": "-41.4698277"
 }

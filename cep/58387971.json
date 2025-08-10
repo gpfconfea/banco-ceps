@@ -1,9 +1,11 @@
 {
   "cep": "58387971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Juarez Távora",
   "uf": "PB",
-  "ibge": "2507606"
+  "ibge": "2507606",
+  "latitude": "-7.1730035",
+  "longitude": "-35.590492"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Tocantínia",
   "uf": "TO",
-  "ibge": "1721109"
+  "ibge": "1721109",
+  "latitude": "-9.5666462",
+  "longitude": "-48.3727431"
 }

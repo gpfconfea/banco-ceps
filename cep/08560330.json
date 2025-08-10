@@ -5,5 +5,7 @@
   "bairro": "Vila Eureka",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-23.5339894",
+  "longitude": "-46.3384318"
 }

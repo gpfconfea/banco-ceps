@@ -5,5 +5,7 @@
   "bairro": "Vila Prestes",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5910094",
+  "longitude": "-48.0593339"
 }

@@ -5,5 +5,7 @@
   "bairro": "Funcionários",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "latitude": "-19.54586",
+  "longitude": "-42.6454362"
 }

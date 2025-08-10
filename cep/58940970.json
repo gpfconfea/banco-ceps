@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José de Piranhas",
   "uf": "PB",
-  "ibge": "2514503"
+  "ibge": "2514503",
+  "latitude": "-7.1179099",
+  "longitude": "-38.4997219"
 }

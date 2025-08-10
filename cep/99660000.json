@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campinas do Sul",
   "uf": "RS",
-  "ibge": "4303806"
+  "ibge": "4303806",
+  "latitude": "-27.7167968",
+  "longitude": "-52.6257885"
 }

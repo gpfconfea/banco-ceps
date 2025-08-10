@@ -1,9 +1,11 @@
 {
   "cep": "29795982",
   "logradouro": "Estrada Ebenezer",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ebenezer",
   "localidade": "Águia Branca",
   "uf": "ES",
-  "ibge": "3200136"
+  "ibge": "3200136",
+  "latitude": "-19.0853519",
+  "longitude": "-40.6792229"
 }

@@ -5,5 +5,7 @@
   "bairro": "Abraão",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.6101217",
+  "longitude": "-48.5907111"
 }

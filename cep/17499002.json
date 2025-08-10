@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-22.4199598",
+  "longitude": "-49.1132112"
 }

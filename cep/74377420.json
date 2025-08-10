@@ -5,5 +5,7 @@
   "bairro": "Condomínio dos Dourados",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7390277",
+  "longitude": "-49.2961013"
 }

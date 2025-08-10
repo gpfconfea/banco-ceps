@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Montividiu",
   "uf": "GO",
-  "ibge": "5213756"
+  "ibge": "5213756",
+  "latitude": "-17.4463113",
+  "longitude": "-51.176111"
 }

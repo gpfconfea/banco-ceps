@@ -1,9 +1,11 @@
 {
   "cep": "55130972",
   "logradouro": "Vila de Tapiraim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado de Tapiraim",
   "localidade": "São Caitano",
   "uf": "PE",
-  "ibge": "2613107"
+  "ibge": "2613107",
+  "latitude": "-8.4249724",
+  "longitude": "-36.1447717"
 }

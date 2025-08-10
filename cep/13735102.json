@@ -5,5 +5,7 @@
   "bairro": "Jardim da Paineira",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4681774",
+  "longitude": "-46.989921"
 }

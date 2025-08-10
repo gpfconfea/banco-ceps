@@ -5,5 +5,7 @@
   "bairro": "Parque São Joaquim",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "latitude": "-23.6404249",
+  "longitude": "-46.7956487"
 }

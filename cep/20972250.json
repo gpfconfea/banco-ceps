@@ -5,5 +5,7 @@
   "bairro": "Jacaré",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8767061",
+  "longitude": "-43.5027109"
 }

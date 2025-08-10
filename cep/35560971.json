@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio do Monte",
   "uf": "MG",
-  "ibge": "3160405"
+  "ibge": "3160405",
+  "latitude": "-20.0907086",
+  "longitude": "-45.2892266"
 }

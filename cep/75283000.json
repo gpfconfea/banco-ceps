@@ -5,5 +5,7 @@
   "bairro": "Alto Alvorada",
   "localidade": "Orizona",
   "uf": "GO",
-  "ibge": "5215306"
+  "ibge": "5215306",
+  "latitude": "-17.153863",
+  "longitude": "-48.160833"
 }

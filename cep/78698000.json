@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pontal do Araguaia",
   "uf": "MT",
-  "ibge": "5106653"
+  "ibge": "5106653",
+  "latitude": "-15.9045099",
+  "longitude": "-52.257365"
 }

@@ -5,5 +5,7 @@
   "bairro": "José Carlos",
   "localidade": "Apiacá",
   "uf": "ES",
-  "ibge": "3200508"
+  "ibge": "3200508",
+  "latitude": "-21.0707748",
+  "longitude": "-41.5549207"
 }

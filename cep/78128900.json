@@ -1,9 +1,11 @@
 {
   "cep": "78128900",
   "logradouro": "Rua Maysa Matarazzo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Costa Verde",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6710558",
+  "longitude": "-56.1227554"
 }

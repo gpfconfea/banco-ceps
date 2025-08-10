@@ -1,9 +1,11 @@
 {
   "cep": "65465959",
   "logradouro": "Avenida Nossa Senhora da Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cantanhede",
   "uf": "MA",
-  "ibge": "2102705"
+  "ibge": "2102705",
+  "latitude": "-3.6422451",
+  "longitude": "-44.38157"
 }

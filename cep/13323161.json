@@ -5,5 +5,7 @@
   "bairro": "Estação",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.2119663",
+  "longitude": "-47.2890227"
 }

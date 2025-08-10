@@ -1,9 +1,11 @@
 {
   "cep": "61870990",
   "logradouro": "Avenida José Guilherme",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pacatuba",
   "uf": "CE",
-  "ibge": "2309706"
+  "ibge": "2309706",
+  "latitude": "-3.9174933",
+  "longitude": "-38.6065869"
 }

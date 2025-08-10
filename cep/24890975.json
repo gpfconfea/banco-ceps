@@ -1,9 +1,11 @@
 {
   "cep": "24890975",
   "logradouro": "Rua Sessenta e Nove Quadra 60 Loja 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bandeirantes II",
   "localidade": "Tanguá",
   "uf": "RJ",
-  "ibge": "3305752"
+  "ibge": "3305752",
+  "latitude": "-22.7370984",
+  "longitude": "-42.7512248"
 }

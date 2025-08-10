@@ -5,5 +5,7 @@
   "bairro": "Cidade Alta",
   "localidade": "Araranguá",
   "uf": "SC",
-  "ibge": "4201406"
+  "ibge": "4201406",
+  "latitude": "-28.9397806",
+  "longitude": "-49.496948"
 }

@@ -5,5 +5,7 @@
   "bairro": "Rio Manso",
   "localidade": "Nova Brasilândia",
   "uf": "MT",
-  "ibge": "5106208"
+  "ibge": "5106208",
+  "latitude": "-21.2613077",
+  "longitude": "-52.0494703"
 }

@@ -6,5 +6,7 @@
   "bairro": "Amparo",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-8.0137196",
+  "longitude": "-34.8545355"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78237970",
   "logradouro": "Avenida Ana Maria",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Curvelândia",
   "uf": "MT",
-  "ibge": "5103437"
+  "ibge": "5103437",
+  "latitude": "-15.6103423",
+  "longitude": "-57.9213943"
 }

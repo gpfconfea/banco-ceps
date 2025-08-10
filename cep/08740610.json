@@ -5,5 +5,7 @@
   "bairro": "Jardim Universo",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.545789",
+  "longitude": "-46.2082873"
 }

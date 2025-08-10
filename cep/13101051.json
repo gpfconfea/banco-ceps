@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Caiapó",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8798499",
+  "longitude": "-47.1383736"
 }

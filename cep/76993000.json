@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Colorado do Oeste",
   "uf": "RO",
-  "ibge": "1100064"
+  "ibge": "1100064",
+  "latitude": "-13.117431",
+  "longitude": "-60.545428"
 }

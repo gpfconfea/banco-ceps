@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Amaraji",
   "uf": "PE",
-  "ibge": "2600906"
+  "ibge": "2600906",
+  "latitude": "-8.3783972",
+  "longitude": "-35.4505214"
 }

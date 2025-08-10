@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Prado Ferreira",
   "uf": "PR",
-  "ibge": "4120333"
+  "ibge": "4120333",
+  "latitude": "-23.0394278",
+  "longitude": "-51.4406476"
 }

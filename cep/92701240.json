@@ -5,5 +5,7 @@
   "bairro": "Coronel Nassuca",
   "localidade": "Guaíba",
   "uf": "RS",
-  "ibge": "4309308"
+  "ibge": "4309308",
+  "latitude": "-30.1171133",
+  "longitude": "-51.3309084"
 }

@@ -5,5 +5,7 @@
   "bairro": "Mocambo",
   "localidade": "Baldim",
   "uf": "MG",
-  "ibge": "3105004"
+  "ibge": "3105004",
+  "latitude": "-19.3044614",
+  "longitude": "-43.904903"
 }

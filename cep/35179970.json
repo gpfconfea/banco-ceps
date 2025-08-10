@@ -1,9 +1,11 @@
 {
   "cep": "35179970",
   "logradouro": "Avenida Um",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Industrial",
   "localidade": "Santana do Paraíso",
   "uf": "MG",
-  "ibge": "3158953"
+  "ibge": "3158953",
+  "latitude": "-0.0291097",
+  "longitude": "-51.1702387"
 }

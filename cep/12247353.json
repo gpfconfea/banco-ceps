@@ -5,5 +5,7 @@
   "bairro": "Residencial Ribeira",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.1448116",
+  "longitude": "-45.7790935"
 }

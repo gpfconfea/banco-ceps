@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-22.0113946",
+  "longitude": "-47.4194662"
 }
