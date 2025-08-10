@@ -5,5 +5,7 @@
   "bairro": "Vila Prudente",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.1006282",
+  "longitude": "-51.3943819"
 }

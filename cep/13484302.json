@@ -5,5 +5,7 @@
   "bairro": "Vila Anita",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5569868",
+  "longitude": "-47.4126858"
 }

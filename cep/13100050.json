@@ -5,5 +5,7 @@
   "bairro": "Parque Nova Campinas",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0393707",
+  "longitude": "-47.1249457"
 }

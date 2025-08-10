@@ -5,5 +5,7 @@
   "bairro": "Residencial Canecão",
   "localidade": "Catiguá",
   "uf": "SP",
-  "ibge": "3511201"
+  "ibge": "3511201",
+  "latitude": "-21.0647935",
+  "longitude": "-49.0653341"
 }

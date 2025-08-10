@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Saltinho",
   "uf": "SC",
-  "ibge": "4215356"
+  "ibge": "4215356",
+  "latitude": "-26.604932",
+  "longitude": "-53.057763"
 }

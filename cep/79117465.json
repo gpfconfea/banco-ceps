@@ -5,5 +5,7 @@
   "bairro": "Vila Nasser",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-29.6240436",
+  "longitude": "-50.8950301"
 }

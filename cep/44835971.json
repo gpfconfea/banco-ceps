@@ -1,9 +1,11 @@
 {
   "cep": "44835971",
   "logradouro": "Rua Sete de Setembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Largo",
   "localidade": "Piritiba",
   "uf": "BA",
-  "ibge": "2924801"
+  "ibge": "2924801",
+  "latitude": "-11.7328869",
+  "longitude": "-40.5528605"
 }

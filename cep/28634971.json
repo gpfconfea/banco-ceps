@@ -1,9 +1,11 @@
 {
   "cep": "28634971",
   "logradouro": "Praça Nossa Senhora do Rosário",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Riograndina",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "latitude": "-22.1996294",
+  "longitude": "-42.5130102"
 }

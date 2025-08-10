@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial I",
   "localidade": "Lucianópolis",
   "uf": "SP",
-  "ibge": "3527504"
+  "ibge": "3527504",
+  "latitude": "-22.4323432",
+  "longitude": "-49.5204403"
 }

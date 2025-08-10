@@ -6,5 +6,7 @@
   "bairro": "Leonina",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9520962",
+  "longitude": "-43.9620956"
 }

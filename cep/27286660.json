@@ -5,5 +5,7 @@
   "bairro": "Vila Rica Ouro Verde",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.4913077",
+  "longitude": "-44.1070998"
 }

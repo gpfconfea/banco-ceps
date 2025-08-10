@@ -1,9 +1,11 @@
 {
   "cep": "29848990",
   "logradouro": "Rua Presidente Costa e Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Boa Esperança",
   "uf": "ES",
-  "ibge": "3201001"
+  "ibge": "3201001",
+  "latitude": "-18.5168297",
+  "longitude": "-40.3532961"
 }

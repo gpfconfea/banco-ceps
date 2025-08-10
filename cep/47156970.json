@@ -1,9 +1,11 @@
 {
   "cep": "47156970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Malhada Grande",
   "localidade": "Santa Rita de Cássia",
   "uf": "BA",
-  "ibge": "2928406"
+  "ibge": "2928406",
+  "latitude": "-10.7663392",
+  "longitude": "-44.3488804"
 }

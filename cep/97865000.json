@@ -5,5 +5,7 @@
   "bairro": "Esquina Piratini",
   "localidade": "Bossoroca",
   "uf": "RS",
-  "ibge": "4302501"
+  "ibge": "4302501",
+  "latitude": "-28.5283569",
+  "longitude": "-55.1723196"
 }

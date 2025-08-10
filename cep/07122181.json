@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Clima",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-27.1614401",
+  "longitude": "-52.8796632"
 }

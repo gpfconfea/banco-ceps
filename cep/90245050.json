@@ -5,5 +5,7 @@
   "bairro": "Humaitá",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-29.9880943",
+  "longitude": "-51.1928265"
 }

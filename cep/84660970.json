@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "General Carneiro",
   "uf": "PR",
-  "ibge": "4108502"
+  "ibge": "4108502",
+  "latitude": "-26.4199666",
+  "longitude": "-51.314683"
 }

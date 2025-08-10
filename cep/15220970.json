@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mendonça",
   "uf": "SP",
-  "ibge": "3529500"
+  "ibge": "3529500",
+  "latitude": "-21.183879",
+  "longitude": "-49.5807039"
 }

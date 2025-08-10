@@ -1,9 +1,11 @@
 {
   "cep": "59575992",
   "logradouro": "Rua Principal - Estivas - Fundação João de Rosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Extremoz",
   "uf": "RN",
-  "ibge": "2403608"
+  "ibge": "2403608",
+  "latitude": "-5.665156",
+  "longitude": "-35.2516499"
 }

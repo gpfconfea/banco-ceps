@@ -5,5 +5,7 @@
   "bairro": "Parque das Figueiras",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.5759089",
+  "longitude": "-46.1928304"
 }

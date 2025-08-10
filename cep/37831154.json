@@ -5,5 +5,7 @@
   "bairro": "Residencial Aroeira II",
   "localidade": "Guaxupé",
   "uf": "MG",
-  "ibge": "3128709"
+  "ibge": "3128709",
+  "latitude": "-21.319063",
+  "longitude": "-46.7089923"
 }

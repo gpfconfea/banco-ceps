@@ -5,5 +5,7 @@
   "bairro": "Vila Morumbi",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-22.0410217",
+  "longitude": "-47.8860183"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "88590971",
   "logradouro": "Rodovia SC 390",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa da Estiva",
   "localidade": "Anita Garibaldi",
   "uf": "SC",
-  "ibge": "4201000"
+  "ibge": "4201000",
+  "latitude": "-27.7476915",
+  "longitude": "-51.0264448"
 }

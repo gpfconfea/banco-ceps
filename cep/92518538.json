@@ -5,5 +5,7 @@
   "bairro": "SENAI",
   "localidade": "Montenegro",
   "uf": "RS",
-  "ibge": "4312401"
+  "ibge": "4312401",
+  "latitude": "-29.6972851",
+  "longitude": "-51.4884931"
 }

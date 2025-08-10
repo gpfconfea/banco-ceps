@@ -5,5 +5,7 @@
   "bairro": "Palmeiras",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "38.4689529",
+  "longitude": "-9.1136063"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Afonsos",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.430776",
+  "longitude": "-46.5248692"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58900971",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cajazeiras",
   "uf": "PB",
-  "ibge": "2503704"
+  "ibge": "2503704",
+  "latitude": "-6.5177981",
+  "longitude": "-38.1793422"
 }

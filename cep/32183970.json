@@ -5,5 +5,7 @@
   "bairro": "Pedra Azul",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.8575727",
+  "longitude": "-44.0364987"
 }

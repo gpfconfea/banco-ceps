@@ -6,5 +6,7 @@
   "bairro": "Cinquentenário",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9531446",
+  "longitude": "-43.9850217"
 }

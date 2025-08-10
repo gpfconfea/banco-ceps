@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Silvio Gobbo",
   "localidade": "Coronel Macedo",
   "uf": "SP",
-  "ibge": "3512605"
+  "ibge": "3512605",
+  "latitude": "-23.6433418",
+  "longitude": "-49.2881125"
 }

@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Arcoverde",
   "uf": "PE",
-  "ibge": "2601201"
+  "ibge": "2601201",
+  "latitude": "-8.1089412",
+  "longitude": "-34.9844804"
 }

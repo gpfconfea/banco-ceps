@@ -5,5 +5,7 @@
   "bairro": "Residencial 1º de Maio",
   "localidade": "Cosmópolis",
   "uf": "SP",
-  "ibge": "3512803"
+  "ibge": "3512803",
+  "latitude": "-22.6255383",
+  "longitude": "-47.1933684"
 }

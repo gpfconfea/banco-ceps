@@ -1,9 +1,11 @@
 {
   "cep": "83608900",
   "logradouro": "Rodovia BR-277 Curitiba Ponta Grossa Quilômetro 103,7",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rondinha",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4495677",
+  "longitude": "-49.6140938"
 }

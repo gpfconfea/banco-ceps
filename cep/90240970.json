@@ -5,5 +5,7 @@
   "bairro": "Navegantes",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-29.9946374",
+  "longitude": "-51.1962156"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "76393971",
   "logradouro": "Rodovia BR 414",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dois Irmãos",
   "localidade": "Vila Propício",
   "uf": "GO",
-  "ibge": "5222302"
+  "ibge": "5222302",
+  "latitude": "-15.3313879",
+  "longitude": "-49.0679846"
 }

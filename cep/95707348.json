@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.149485",
+  "longitude": "-51.5385228"
 }

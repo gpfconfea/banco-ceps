@@ -1,9 +1,11 @@
 {
   "cep": "62535973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Poço da Onça",
   "localidade": "Miraíma",
   "uf": "CE",
-  "ibge": "2308377"
+  "ibge": "2308377",
+  "latitude": "-3.5692506",
+  "longitude": "-39.7639608"
 }

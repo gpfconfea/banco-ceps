@@ -5,5 +5,7 @@
   "bairro": "Jardim Colina",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1292854",
+  "longitude": "-51.413362"
 }

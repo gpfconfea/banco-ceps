@@ -5,5 +5,7 @@
   "bairro": "Santa Marta",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-30.8376259",
+  "longitude": "-51.8193594"
 }

@@ -5,5 +5,7 @@
   "bairro": "São João do Vacaria",
   "localidade": "Virgem da Lapa",
   "uf": "MG",
-  "ibge": "3171600"
+  "ibge": "3171600",
+  "latitude": "-16.567",
+  "longitude": "-42.36975"
 }

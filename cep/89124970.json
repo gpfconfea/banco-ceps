@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Benedito Novo",
   "uf": "SC",
-  "ibge": "4202206"
+  "ibge": "4202206",
+  "latitude": "-26.7823956",
+  "longitude": "-49.3610083"
 }

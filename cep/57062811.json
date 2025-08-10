@@ -5,5 +5,7 @@
   "bairro": "Santo Amaro",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.6059372",
+  "longitude": "-35.7427148"
 }

@@ -5,5 +5,7 @@
   "bairro": "São José dos Campos Borges",
   "localidade": "Campos Borges",
   "uf": "RS",
-  "ibge": "4304101"
+  "ibge": "4304101",
+  "latitude": "-28.8548485",
+  "longitude": "-53.048621"
 }

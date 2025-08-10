@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itamogi",
   "uf": "MG",
-  "ibge": "3132909"
+  "ibge": "3132909",
+  "latitude": "-21.0781313",
+  "longitude": "-47.047351"
 }

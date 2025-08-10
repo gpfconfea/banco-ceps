@@ -1,9 +1,11 @@
 {
   "cep": "68500990",
   "logradouro": "Vila Capistrano de Abreu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Marabá",
   "uf": "PA",
-  "ibge": "1504208"
+  "ibge": "1504208",
+  "latitude": "-5.3521246",
+  "longitude": "-50.2758282"
 }

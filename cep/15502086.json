@@ -5,5 +5,7 @@
   "bairro": "Jardim Villa Lobos",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.406732",
+  "longitude": "-49.987771"
 }

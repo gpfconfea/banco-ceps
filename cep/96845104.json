@@ -5,5 +5,7 @@
   "bairro": "Senai",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "latitude": "-29.731726",
+  "longitude": "-52.4394372"
 }

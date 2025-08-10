@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "latitude": "-20.0164211",
+  "longitude": "-44.1217153"
 }

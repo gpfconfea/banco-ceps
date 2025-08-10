@@ -5,5 +5,7 @@
   "bairro": "Estrela da Barra",
   "localidade": "Carneirinho",
   "uf": "MG",
-  "ibge": "3114550"
+  "ibge": "3114550",
+  "latitude": "-19.8587984",
+  "longitude": "-50.7461515"
 }

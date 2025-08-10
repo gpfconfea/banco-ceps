@@ -1,9 +1,11 @@
 {
   "cep": "29190973",
   "logradouro": "Estrada Santa Rosa-Santa Cruz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Cruz",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-19.934136",
+  "longitude": "-40.2847576"
 }

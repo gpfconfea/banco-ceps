@@ -1,9 +1,11 @@
 {
   "cep": "99262970",
   "logradouro": "Rua José de Alencar",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Evangelista",
   "localidade": "Casca",
   "uf": "RS",
-  "ibge": "4304903"
+  "ibge": "4304903",
+  "latitude": "-28.6369241",
+  "longitude": "-51.9397998"
 }

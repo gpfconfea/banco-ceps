@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-29.2380419",
+  "longitude": "-51.3603363"
 }

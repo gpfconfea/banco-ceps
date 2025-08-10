@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-20.9056694",
+  "longitude": "-51.3799413"
 }

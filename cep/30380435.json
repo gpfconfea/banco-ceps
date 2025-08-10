@@ -5,5 +5,7 @@
   "bairro": "Luxemburgo",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9419699",
+  "longitude": "-43.954025"
 }

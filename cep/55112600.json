@@ -5,5 +5,7 @@
   "bairro": "Palmatória",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.3095568",
+  "longitude": "-36.0333638"
 }

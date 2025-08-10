@@ -5,5 +5,7 @@
   "bairro": "Ponte Grande",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.8052651",
+  "longitude": "-50.2968894"
 }

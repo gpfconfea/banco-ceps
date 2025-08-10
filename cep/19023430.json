@@ -5,5 +5,7 @@
   "bairro": "Jardim Duque de Caxias",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-21.8056796",
+  "longitude": "-50.8707471"
 }

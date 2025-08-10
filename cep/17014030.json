@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Clara",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3367072",
+  "longitude": "-49.0801261"
 }
