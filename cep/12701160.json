@@ -5,5 +5,7 @@
   "bairro": "Vila Paulista",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "latitude": "-22.5839787",
+  "longitude": "-44.9625661"
 }

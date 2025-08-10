@@ -1,9 +1,11 @@
 {
   "cep": "29105959",
   "logradouro": "Rua Trinta e Quatro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Mônica Popular",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3678636",
+  "longitude": "-40.310506"
 }

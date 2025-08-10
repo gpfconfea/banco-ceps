@@ -1,9 +1,11 @@
 {
   "cep": "13504990",
   "logradouro": "Avenida 42º - Santa Elisa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "latitude": "-22.3988651",
+  "longitude": "-47.5897095"
 }

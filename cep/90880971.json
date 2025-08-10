@@ -5,5 +5,7 @@
   "bairro": "Azenha",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0588757",
+  "longitude": "-51.2128467"
 }

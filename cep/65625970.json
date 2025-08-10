@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Duque Bacelar",
   "uf": "MA",
-  "ibge": "2103901"
+  "ibge": "2103901",
+  "latitude": "-4.1555543",
+  "longitude": "-42.9443348"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65890970",
   "logradouro": "Praça Três Poderes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Félix de Balsas",
   "uf": "MA",
-  "ibge": "2110807"
+  "ibge": "2110807",
+  "latitude": "-7.083521",
+  "longitude": "-44.8114073"
 }

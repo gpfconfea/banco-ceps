@@ -5,5 +5,7 @@
   "bairro": "Jardim das Laranjeiras",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.7890124",
+  "longitude": "-49.4250439"
 }

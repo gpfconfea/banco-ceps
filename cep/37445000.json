@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cruzília",
   "uf": "MG",
-  "ibge": "3120805"
+  "ibge": "3120805",
+  "latitude": "-21.838333",
+  "longitude": "-44.808056"
 }

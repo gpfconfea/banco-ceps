@@ -1,9 +1,11 @@
 {
   "cep": "62683975",
   "logradouro": "Rua Cipriano Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Poço Doce",
   "localidade": "Paracuru",
   "uf": "CE",
-  "ibge": "2310209"
+  "ibge": "2310209",
+  "latitude": "-3.4410919",
+  "longitude": "-39.1081063"
 }

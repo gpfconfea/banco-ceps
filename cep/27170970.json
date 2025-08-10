@@ -1,9 +1,11 @@
 {
   "cep": "27170970",
   "logradouro": "Avenida das Trovas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ipiabas",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "latitude": "-22.461271",
+  "longitude": "-43.8188169"
 }

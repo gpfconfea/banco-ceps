@@ -5,5 +5,7 @@
   "bairro": "Parque Realeza",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.602292",
+  "longitude": "-46.869934"
 }

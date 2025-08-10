@@ -5,5 +5,7 @@
   "bairro": "Varginha",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "latitude": "-22.4262016",
+  "longitude": "-45.4475965"
 }

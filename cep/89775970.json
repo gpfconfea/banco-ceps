@@ -1,9 +1,11 @@
 {
   "cep": "89775970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Teutônia",
   "localidade": "Seara",
   "uf": "SC",
-  "ibge": "4217501"
+  "ibge": "4217501",
+  "latitude": "-3.8245043",
+  "longitude": "-38.5152199"
 }

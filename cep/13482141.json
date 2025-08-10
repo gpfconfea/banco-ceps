@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Roseira",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-20.1311442",
+  "longitude": "-44.9183326"
 }

@@ -5,5 +5,7 @@
   "bairro": "Palmas",
   "localidade": "Arroio do Meio",
   "uf": "RS",
-  "ibge": "4301008"
+  "ibge": "4301008",
+  "latitude": "-29.3216",
+  "longitude": "-51.9208"
 }

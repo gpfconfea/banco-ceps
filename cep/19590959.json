@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taciba",
   "uf": "SP",
-  "ibge": "3552908"
+  "ibge": "3552908",
+  "latitude": "-22.3908247",
+  "longitude": "-51.2863252"
 }

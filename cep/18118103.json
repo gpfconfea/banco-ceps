@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Villágio Di Capri",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5477718",
+  "longitude": "-47.4865811"
 }

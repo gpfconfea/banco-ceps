@@ -1,9 +1,11 @@
 {
   "cep": "62502990",
   "logradouro": "Rua Élbia Barroso",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "latitude": "-3.4987364",
+  "longitude": "-39.5796382"
 }

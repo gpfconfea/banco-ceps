@@ -5,5 +5,7 @@
   "bairro": "Residencial Estação Velha",
   "localidade": "Garça",
   "uf": "SP",
-  "ibge": "3516705"
+  "ibge": "3516705",
+  "latitude": "-22.2186413",
+  "longitude": "-49.6496137"
 }

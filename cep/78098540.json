@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6320309",
+  "longitude": "-55.9633662"
 }

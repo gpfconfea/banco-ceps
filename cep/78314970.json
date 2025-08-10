@@ -1,9 +1,11 @@
 {
   "cep": "78314970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Alvorada",
   "localidade": "Comodoro",
   "uf": "MT",
-  "ibge": "5103304"
+  "ibge": "5103304",
+  "latitude": "-13.6508159",
+  "longitude": "-59.9114014"
 }

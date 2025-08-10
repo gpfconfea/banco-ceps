@@ -5,5 +5,7 @@
   "bairro": "Moinho Velho",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.6095298",
+  "longitude": "-46.8703711"
 }

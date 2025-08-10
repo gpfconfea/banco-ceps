@@ -1,9 +1,11 @@
 {
   "cep": "21050970",
   "logradouro": "Rua Nossa Senhora dos Navegantes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Manguinhos",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.877874",
+  "longitude": "-43.2523677"
 }

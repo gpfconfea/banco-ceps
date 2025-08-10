@@ -5,5 +5,7 @@
   "bairro": "Monte Castelo",
   "localidade": "Pantano Grande",
   "uf": "RS",
-  "ibge": "4313953"
+  "ibge": "4313953",
+  "latitude": "-30.3145527",
+  "longitude": "-52.4268527"
 }

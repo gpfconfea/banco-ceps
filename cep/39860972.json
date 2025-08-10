@@ -1,9 +1,11 @@
 {
   "cep": "39860972",
   "logradouro": "Praça da Liberdade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Nanuque",
   "uf": "MG",
-  "ibge": "3144300"
+  "ibge": "3144300",
+  "latitude": "-19.9319973",
+  "longitude": "-43.9380035"
 }

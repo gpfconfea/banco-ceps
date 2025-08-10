@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ribeira do Piauí",
   "uf": "PI",
-  "ibge": "2208874"
+  "ibge": "2208874",
+  "latitude": "-7.9307305",
+  "longitude": "-42.6417107"
 }

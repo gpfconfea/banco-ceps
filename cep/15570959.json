@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cardoso",
   "uf": "SP",
-  "ibge": "3510708"
+  "ibge": "3510708",
+  "latitude": "-22.9388903",
+  "longitude": "-45.4719268"
 }

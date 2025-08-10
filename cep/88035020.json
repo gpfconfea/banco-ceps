@@ -5,5 +5,7 @@
   "bairro": "Santa Mônica",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.590112",
+  "longitude": "-48.5144532"
 }

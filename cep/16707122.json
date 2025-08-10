@@ -6,5 +6,7 @@
   "bairro": "Residencial Governador Mário Covas",
   "localidade": "Guararapes",
   "uf": "SP",
-  "ibge": "3518206"
+  "ibge": "3518206",
+  "latitude": "-21.2623774",
+  "longitude": "-50.6572619"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Tupã Mirim I",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "latitude": "-21.9419152",
+  "longitude": "-50.506835"
 }

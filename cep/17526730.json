@@ -5,5 +5,7 @@
   "bairro": "Vereador Eduardo Andrade Reis",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2349708",
+  "longitude": "-49.9818458"
 }

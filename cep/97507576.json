@@ -5,5 +5,7 @@
   "bairro": "Vila Júlia",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "latitude": "-29.7829277",
+  "longitude": "-55.7837002"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Senador Albino Boaventura",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6367981",
+  "longitude": "-49.3148601"
 }

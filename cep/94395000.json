@@ -6,5 +6,7 @@
   "bairro": "Maracanã",
   "localidade": "Glorinha",
   "uf": "RS",
-  "ibge": "4309050"
+  "ibge": "4309050",
+  "latitude": "-29.7856739",
+  "longitude": "-50.7584367"
 }

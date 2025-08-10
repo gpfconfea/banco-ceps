@@ -5,5 +5,7 @@
   "bairro": "Vila Mathilde Vieira",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.132228",
+  "longitude": "-51.403614"
 }

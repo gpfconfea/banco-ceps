@@ -1,9 +1,11 @@
 {
   "cep": "68402970",
   "logradouro": "Vila Juabá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Juabá",
   "localidade": "Cametá",
   "uf": "PA",
-  "ibge": "1502103"
+  "ibge": "1502103",
+  "latitude": "-2.3959078",
+  "longitude": "-49.5488759"
 }

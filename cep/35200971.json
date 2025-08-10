@@ -1,9 +1,11 @@
 {
   "cep": "35200971",
   "logradouro": "Rua Tupi",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio do Rio Doce",
   "localidade": "Aimorés",
   "uf": "MG",
-  "ibge": "3101102"
+  "ibge": "3101102",
+  "latitude": "-19.5022545",
+  "longitude": "-41.0149104"
 }

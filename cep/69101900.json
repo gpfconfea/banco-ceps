@@ -1,9 +1,11 @@
 {
   "cep": "69101900",
   "logradouro": "Avenida Parque",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pedreiras",
   "localidade": "Itacoatiara",
   "uf": "AM",
-  "ibge": "1301902"
+  "ibge": "1301902",
+  "latitude": "-3.1412",
+  "longitude": "-58.4464349"
 }

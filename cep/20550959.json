@@ -1,9 +1,11 @@
 {
   "cep": "20550959",
   "logradouro": "Avenida Heitor Beltrão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tijuca",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9214787",
+  "longitude": "-43.2278977"
 }

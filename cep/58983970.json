@@ -1,9 +1,11 @@
 {
   "cep": "58983970",
   "logradouro": "Vila Cachoeirinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cachoeirinha",
   "localidade": "Ibiara",
   "uf": "PB",
-  "ibge": "2506608"
+  "ibge": "2506608",
+  "latitude": "-7.5132791",
+  "longitude": "-38.3463621"
 }

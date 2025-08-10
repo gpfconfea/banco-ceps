@@ -5,5 +5,7 @@
   "bairro": "Residencial Mais Parque Mococa",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4764708",
+  "longitude": "-46.9891712"
 }

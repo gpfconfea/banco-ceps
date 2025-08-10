@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra Bonita",
   "uf": "SC",
-  "ibge": "4202099"
+  "ibge": "4202099",
+  "latitude": "-26.6526364",
+  "longitude": "-53.4419581"
 }

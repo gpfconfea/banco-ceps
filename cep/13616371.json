@@ -5,5 +5,7 @@
   "bairro": "Jardim Dibi",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "latitude": "-22.175206",
+  "longitude": "-47.3785404"
 }

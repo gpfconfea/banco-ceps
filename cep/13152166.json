@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Cosmópolis",
   "uf": "SP",
-  "ibge": "3512803"
+  "ibge": "3512803",
+  "latitude": "-22.643295",
+  "longitude": "-47.1810137"
 }

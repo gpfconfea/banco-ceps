@@ -5,5 +5,7 @@
   "bairro": "Residencial dos Lagos",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.1701232",
+  "longitude": "-47.0663999"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "04098901",
   "logradouro": "Avenida Pedro Álvares Cabral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Ibirapuera",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5837833",
+  "longitude": "-46.6541459"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vista Alegre",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-23.2304882",
+  "longitude": "-46.7879032"
 }

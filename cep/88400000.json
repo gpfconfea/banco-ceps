@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ituporanga",
   "uf": "SC",
-  "ibge": "4208500"
+  "ibge": "4208500",
+  "latitude": "-27.4096219",
+  "longitude": "-49.6014812"
 }
