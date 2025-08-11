@@ -5,5 +5,7 @@
   "bairro": "Vila Municipal",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "latitude": "-23.5248408",
+  "longitude": "-46.823046"
 }

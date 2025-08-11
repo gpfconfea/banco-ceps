@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Antônio",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.8165383",
+  "longitude": "-49.3932931"
 }

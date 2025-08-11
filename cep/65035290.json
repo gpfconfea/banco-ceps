@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.530884",
+  "longitude": "-44.28537"
 }

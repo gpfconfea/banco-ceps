@@ -5,5 +5,7 @@
   "bairro": "Solar Boa Vista",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.1861779",
+  "longitude": "-47.8421363"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Gino de Biasi",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4642214",
+  "longitude": "-49.2305758"
 }

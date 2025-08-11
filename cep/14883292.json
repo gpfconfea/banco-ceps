@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Tereza",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "latitude": "-21.246036",
+  "longitude": "-48.3104018"
 }

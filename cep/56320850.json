@@ -5,5 +5,7 @@
   "bairro": "Dona Alexandrina",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-9.370897",
+  "longitude": "-40.4888708"
 }

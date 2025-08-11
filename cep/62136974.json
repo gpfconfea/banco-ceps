@@ -1,9 +1,11 @@
 {
   "cep": "62136974",
   "logradouro": "Rua 4",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Francisco",
   "localidade": "Meruoca",
   "uf": "CE",
-  "ibge": "2308203"
+  "ibge": "2308203",
+  "latitude": "-3.5345478",
+  "longitude": "-40.4995056"
 }

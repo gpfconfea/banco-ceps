@@ -5,5 +5,7 @@
   "bairro": "Progresso",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "latitude": "-29.7982543",
+  "longitude": "-55.8167403"
 }

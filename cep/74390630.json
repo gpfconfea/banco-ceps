@@ -5,5 +5,7 @@
   "bairro": "Vila Rizzo",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.3300276",
+  "longitude": "-48.9473032"
 }

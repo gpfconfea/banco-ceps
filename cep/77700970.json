@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Guaraí",
   "uf": "TO",
-  "ibge": "1709302"
+  "ibge": "1709302",
+  "latitude": "-8.8446258",
+  "longitude": "-48.5105204"
 }

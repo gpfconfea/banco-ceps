@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Horizonte do Oeste",
   "uf": "RO",
-  "ibge": "1100502"
+  "ibge": "1100502",
+  "latitude": "-11.7026474",
+  "longitude": "-61.9989579"
 }

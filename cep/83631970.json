@@ -1,9 +1,11 @@
 {
   "cep": "83631970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Colônia Antônio Rebouças",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4583391",
+  "longitude": "-49.5337149"
 }

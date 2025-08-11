@@ -5,5 +5,7 @@
   "bairro": "Residencial Toscana",
   "localidade": "Guarantã",
   "uf": "SP",
-  "ibge": "3518107"
+  "ibge": "3518107",
+  "latitude": "-9.960815",
+  "longitude": "-54.9073478"
 }

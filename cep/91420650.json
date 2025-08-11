@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0478387",
+  "longitude": "-51.1638372"
 }

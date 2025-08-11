@@ -1,9 +1,11 @@
 {
   "cep": "45876970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pimenta",
   "localidade": "Mascote",
   "uf": "BA",
-  "ibge": "2920908"
+  "ibge": "2920908",
+  "latitude": "-15.4859296",
+  "longitude": "-39.4072649"
 }

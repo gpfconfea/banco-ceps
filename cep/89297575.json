@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Rio Negrinho",
   "uf": "SC",
-  "ibge": "4215000"
+  "ibge": "4215000",
+  "latitude": "-26.248806",
+  "longitude": "-49.5243695"
 }

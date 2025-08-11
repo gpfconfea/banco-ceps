@@ -5,5 +5,7 @@
   "bairro": "Saco da Ribeira",
   "localidade": "Ubatuba",
   "uf": "SP",
-  "ibge": "3555406"
+  "ibge": "3555406",
+  "latitude": "-23.5048226",
+  "longitude": "-45.1284462"
 }

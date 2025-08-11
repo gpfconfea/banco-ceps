@@ -1,9 +1,11 @@
 {
   "cep": "68580973",
   "logradouro": "Vila Castelo Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Castelo Branco",
   "localidade": "Itupiranga",
   "uf": "PA",
-  "ibge": "1503705"
+  "ibge": "1503705",
+  "latitude": "-5.149171",
+  "longitude": "-49.385815"
 }

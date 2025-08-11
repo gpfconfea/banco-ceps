@@ -1,9 +1,11 @@
 {
   "cep": "39111972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Inhaí",
   "localidade": "Diamantina",
   "uf": "MG",
-  "ibge": "3121605"
+  "ibge": "3121605",
+  "latitude": "-18.2875222",
+  "longitude": "-43.9818997"
 }

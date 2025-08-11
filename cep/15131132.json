@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Mirassol",
   "uf": "SP",
-  "ibge": "3530300"
+  "ibge": "3530300",
+  "latitude": "-20.809688",
+  "longitude": "-49.5316304"
 }

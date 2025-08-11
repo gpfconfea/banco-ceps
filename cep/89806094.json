@@ -5,5 +5,7 @@
   "bairro": "Bom Pastor",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.1010341",
+  "longitude": "-52.5890312"
 }

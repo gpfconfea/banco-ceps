@@ -1,9 +1,11 @@
 {
   "cep": "59575974",
   "logradouro": "Avenida Litorânea",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Praia de Santa Rita",
   "localidade": "Extremoz",
   "uf": "RN",
-  "ibge": "2403608"
+  "ibge": "2403608",
+  "latitude": "-5.7293707",
+  "longitude": "-35.20424"
 }

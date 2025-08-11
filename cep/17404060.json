@@ -5,5 +5,7 @@
   "bairro": "Nova Garça",
   "localidade": "Garça",
   "uf": "SP",
-  "ibge": "3516705"
+  "ibge": "3516705",
+  "latitude": "-22.2139703",
+  "longitude": "-49.6713975"
 }

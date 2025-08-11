@@ -1,9 +1,11 @@
 {
   "cep": "48930959",
   "logradouro": "Rua Salvador Pereira Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Curaçá",
   "uf": "BA",
-  "ibge": "2909901"
+  "ibge": "2909901",
+  "latitude": "-8.990199",
+  "longitude": "-39.9084366"
 }

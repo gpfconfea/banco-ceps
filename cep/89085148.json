@@ -5,5 +5,7 @@
   "bairro": "Encano do Norte",
   "localidade": "Indaial",
   "uf": "SC",
-  "ibge": "4207502"
+  "ibge": "4207502",
+  "latitude": "-26.8687086",
+  "longitude": "-49.2198244"
 }

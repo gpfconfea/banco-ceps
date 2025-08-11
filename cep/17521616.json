@@ -5,5 +5,7 @@
   "bairro": "Jardim Florença",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2320157",
+  "longitude": "-49.9027301"
 }

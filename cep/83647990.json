@@ -1,9 +1,11 @@
 {
   "cep": "83647990",
   "logradouro": "Rua Cassemiro Carmo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itambezinho",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.3244461",
+  "longitude": "-49.6856269"
 }

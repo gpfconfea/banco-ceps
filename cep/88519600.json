@@ -5,5 +5,7 @@
   "bairro": "Restinga Seca",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.7745386",
+  "longitude": "-50.314529"
 }

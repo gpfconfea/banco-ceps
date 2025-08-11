@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ourizona",
   "uf": "PR",
-  "ibge": "4117404"
+  "ibge": "4117404",
+  "latitude": "-23.406622",
+  "longitude": "-52.1995623"
 }

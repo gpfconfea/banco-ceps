@@ -5,5 +5,7 @@
   "bairro": "Jardim Curitiba",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.4769299",
+  "longitude": "-49.1314443"
 }

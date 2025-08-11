@@ -5,5 +5,7 @@
   "bairro": "Candelária",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8100791",
+  "longitude": "-43.9761515"
 }

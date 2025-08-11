@@ -5,5 +5,7 @@
   "bairro": "Piloândia",
   "localidade": "Israelândia",
   "uf": "GO",
-  "ibge": "5210307"
+  "ibge": "5210307",
+  "latitude": "-16.3664633",
+  "longitude": "-50.769433"
 }

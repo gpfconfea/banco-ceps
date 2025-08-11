@@ -5,5 +5,7 @@
   "bairro": "Residencial Serra Verde",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.7608563",
+  "longitude": "-47.6207826"
 }

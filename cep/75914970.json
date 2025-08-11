@@ -1,9 +1,11 @@
 {
   "cep": "75914970",
   "logradouro": "Avenida Presidente Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Riverlândia",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-18.0713353",
+  "longitude": "-50.506303"
 }

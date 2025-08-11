@@ -1,9 +1,11 @@
 {
   "cep": "77918970",
   "logradouro": "Rua João Batalha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Maurilândia do Tocantins",
   "uf": "TO",
-  "ibge": "1712801"
+  "ibge": "1712801",
+  "latitude": "-5.9524094",
+  "longitude": "-47.5085927"
 }

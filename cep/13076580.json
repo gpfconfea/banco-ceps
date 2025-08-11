@@ -5,5 +5,7 @@
   "bairro": "Jardim Belo Horizonte",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8830054",
+  "longitude": "-47.0477181"
 }

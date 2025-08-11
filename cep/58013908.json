@@ -1,9 +1,11 @@
 {
   "cep": "58013908",
   "logradouro": "Avenida Dom Pedro II",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.1263211",
+  "longitude": "-34.8724119"
 }

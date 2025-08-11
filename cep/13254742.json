@@ -5,5 +5,7 @@
   "bairro": "Bairro dos Pintos",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.0146077",
+  "longitude": "-46.807193"
 }

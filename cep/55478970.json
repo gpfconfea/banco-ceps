@@ -1,9 +1,11 @@
 {
   "cep": "55478970",
   "logradouro": "Rua Padre Cícero",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Lázaro",
   "localidade": "Panelas",
   "uf": "PE",
-  "ibge": "2610202"
+  "ibge": "2610202",
+  "latitude": "-8.717511",
+  "longitude": "-36.0645051"
 }

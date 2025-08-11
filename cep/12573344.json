@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Aparecida",
   "uf": "SP",
-  "ibge": "3502507"
+  "ibge": "3502507",
+  "latitude": "-22.832987",
+  "longitude": "-45.2250804"
 }

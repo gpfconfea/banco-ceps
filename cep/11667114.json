@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.60975",
+  "longitude": "-45.3528515"
 }

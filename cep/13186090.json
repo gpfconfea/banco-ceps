@@ -5,5 +5,7 @@
   "bairro": "Jardim Campos Verdes",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "latitude": "-22.8844403",
+  "longitude": "-47.2076709"
 }

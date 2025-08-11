@@ -5,5 +5,7 @@
   "bairro": "Vila Bernardino",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.47547",
+  "longitude": "-46.3922345"
 }
