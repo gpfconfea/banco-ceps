@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "latitude": "-18.8453229",
+  "longitude": "-41.9282624"
 }

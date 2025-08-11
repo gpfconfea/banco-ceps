@@ -5,5 +5,7 @@
   "bairro": "Coqueiral",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-19.8244299",
+  "longitude": "-40.2670486"
 }

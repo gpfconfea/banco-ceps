@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Village",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5777122",
+  "longitude": "-47.456362"
 }

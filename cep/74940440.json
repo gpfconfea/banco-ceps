@@ -5,5 +5,7 @@
   "bairro": "Itapoã",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7746053",
+  "longitude": "-49.306069"
 }

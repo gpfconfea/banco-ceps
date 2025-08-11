@@ -5,5 +5,7 @@
   "bairro": "Parque das Ilhas",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.491246",
+  "longitude": "-44.0842189"
 }

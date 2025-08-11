@@ -5,5 +5,7 @@
   "bairro": "Jardim República",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7147498",
+  "longitude": "-46.6872804"
 }

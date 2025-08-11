@@ -5,5 +5,7 @@
   "bairro": "João Mota",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.2802589",
+  "longitude": "-35.9903443"
 }

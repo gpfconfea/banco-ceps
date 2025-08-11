@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Joaquim Guilherme de Oliveira",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3422268",
+  "longitude": "-49.1114161"
 }

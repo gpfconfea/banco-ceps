@@ -5,5 +5,7 @@
   "bairro": "Jardim Ebenezer",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "latitude": "-23.5473414",
+  "longitude": "-46.6368037"
 }

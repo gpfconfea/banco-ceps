@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Beatriz",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4492547",
+  "longitude": "-46.976972"
 }

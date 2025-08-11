@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Cáceres",
   "uf": "MT",
-  "ibge": "5102504"
+  "ibge": "5102504",
+  "latitude": "-16.1082307",
+  "longitude": "-57.6757143"
 }

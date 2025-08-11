@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Uraí",
   "uf": "PR",
-  "ibge": "4128401"
+  "ibge": "4128401",
+  "latitude": "-23.2008856",
+  "longitude": "-50.7943122"
 }

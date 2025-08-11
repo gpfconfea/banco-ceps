@@ -1,9 +1,11 @@
 {
   "cep": "46900971",
   "logradouro": "Avenida Indianápolis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa da Boa Vista",
   "localidade": "Seabra",
   "uf": "BA",
-  "ibge": "2929909"
+  "ibge": "2929909",
+  "latitude": "-12.4175067",
+  "longitude": "-41.7692236"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "latitude": "-22.5003296",
+  "longitude": "-48.5449098"
 }

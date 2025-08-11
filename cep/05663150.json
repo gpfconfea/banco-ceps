@@ -5,5 +5,7 @@
   "bairro": "Paraisópolis",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.9362557",
+  "longitude": "-46.1811029"
 }

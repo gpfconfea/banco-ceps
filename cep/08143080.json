@@ -5,5 +5,7 @@
   "bairro": "Jardim Eva",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.0499754",
+  "longitude": "-49.6334446"
 }

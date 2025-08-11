@@ -1,9 +1,11 @@
 {
   "cep": "78507971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nona Agrovila",
   "localidade": "Terra Nova do Norte",
   "uf": "MT",
-  "ibge": "5108055"
+  "ibge": "5108055",
+  "latitude": "-3.0187316",
+  "longitude": "-60.0252779"
 }

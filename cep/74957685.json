@@ -5,5 +5,7 @@
   "bairro": "Jardim Florença",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.8163267",
+  "longitude": "-49.3102433"
 }

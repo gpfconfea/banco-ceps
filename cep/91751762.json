@@ -5,5 +5,7 @@
   "bairro": "Campo Novo",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.1449548",
+  "longitude": "-51.2058052"
 }

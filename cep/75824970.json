@@ -1,9 +1,11 @@
 {
   "cep": "75824970",
   "logradouro": "Rua Joaquim Mariano Maciel Quadra 3 Lote 1",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Planalto",
   "localidade": "Perolândia",
   "uf": "GO",
-  "ibge": "5216452"
+  "ibge": "5216452",
+  "latitude": "-17.526285",
+  "longitude": "-52.0654583"
 }

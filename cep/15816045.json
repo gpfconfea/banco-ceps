@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Prefeito Pedro Nechar",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "latitude": "-21.1178169",
+  "longitude": "-48.9368079"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Aroeira",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "latitude": "-21.2385555",
+  "longitude": "-48.3102339"
 }

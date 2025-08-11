@@ -1,9 +1,11 @@
 {
   "cep": "58535970",
   "logradouro": "Avenida Vicente Nogueira Batista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Congo",
   "uf": "PB",
-  "ibge": "2504702"
+  "ibge": "2504702",
+  "latitude": "-7.7959175",
+  "longitude": "-36.6603357"
 }

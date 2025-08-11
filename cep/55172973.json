@@ -1,9 +1,11 @@
 {
   "cep": "55172973",
   "logradouro": "Acesso Povoado de Caldeirão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caldeirão",
   "localidade": "Brejo da Madre de Deus",
   "uf": "PE",
-  "ibge": "2602605"
+  "ibge": "2602605",
+  "latitude": "-8.1405443",
+  "longitude": "-36.371496"
 }

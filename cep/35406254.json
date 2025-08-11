@@ -6,5 +6,7 @@
   "bairro": "Piedade",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.3866464",
+  "longitude": "-43.4876124"
 }

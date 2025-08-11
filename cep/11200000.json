@@ -5,5 +5,7 @@
   "bairro": "Caruara",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-23.8855781",
+  "longitude": "-46.1902379"
 }

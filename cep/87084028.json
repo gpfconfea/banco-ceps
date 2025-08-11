@@ -5,5 +5,7 @@
   "bairro": "Jardim Munique",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3735738",
+  "longitude": "-51.9668387"
 }

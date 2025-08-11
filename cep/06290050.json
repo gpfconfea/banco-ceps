@@ -5,5 +5,7 @@
   "bairro": "Ayrosa",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.5179158",
+  "longitude": "-46.7700413"
 }

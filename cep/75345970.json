@@ -1,9 +1,11 @@
 {
   "cep": "75345970",
   "logradouro": "Avenida Comercial Quadra 1 Lote 9",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Santa Bárbara",
   "localidade": "Abadia de Goiás",
   "uf": "GO",
-  "ibge": "5200050"
+  "ibge": "5200050",
+  "latitude": "-16.7565574",
+  "longitude": "-49.4395144"
 }

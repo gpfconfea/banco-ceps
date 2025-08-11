@@ -5,5 +5,7 @@
   "bairro": "Barra Nova",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "latitude": "-22.911445",
+  "longitude": "-42.5989935"
 }

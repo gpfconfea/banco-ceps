@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Bom Sucesso de Itararé",
   "uf": "SP",
-  "ibge": "3507159"
+  "ibge": "3507159",
+  "latitude": "-24.3185235",
+  "longitude": "-49.1420056"
 }

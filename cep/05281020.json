@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Morada do Sol",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.2758046",
+  "longitude": "-51.5066249"
 }

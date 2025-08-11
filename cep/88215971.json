@@ -1,9 +1,11 @@
 {
   "cep": "88215971",
   "logradouro": "Rua Jequitibá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito de Canto Grande",
   "localidade": "Bombinhas",
   "uf": "SC",
-  "ibge": "4202453"
+  "ibge": "4202453",
+  "latitude": "-27.2001098",
+  "longitude": "-48.4974384"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55588970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibiratinga",
   "localidade": "Sirinhaém",
   "uf": "PE",
-  "ibge": "2614204"
+  "ibge": "2614204",
+  "latitude": "-8.5238063",
+  "longitude": "-35.2575817"
 }

@@ -5,5 +5,7 @@
   "bairro": "Joaquim Cordeiro",
   "localidade": "Paracatu",
   "uf": "MG",
-  "ibge": "3147006"
+  "ibge": "3147006",
+  "latitude": "-17.2188998",
+  "longitude": "-46.8833986"
 }

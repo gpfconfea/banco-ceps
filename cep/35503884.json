@@ -5,5 +5,7 @@
   "bairro": "Alto São Vicente",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-19.8403363",
+  "longitude": "-45.4164643"
 }

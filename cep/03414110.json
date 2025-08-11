@@ -5,5 +5,7 @@
   "bairro": "Vila Mafra",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5611254",
+  "longitude": "-46.5461806"
 }

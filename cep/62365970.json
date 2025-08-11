@@ -1,9 +1,11 @@
 {
   "cep": "62365970",
   "logradouro": "Rua Manoel Matias Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Graça",
   "uf": "CE",
-  "ibge": "2304657"
+  "ibge": "2304657",
+  "latitude": "-4.0452734",
+  "longitude": "-40.7518033"
 }

@@ -5,5 +5,7 @@
   "bairro": "Campo Dourado",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4241625",
+  "longitude": "-54.5994186"
 }

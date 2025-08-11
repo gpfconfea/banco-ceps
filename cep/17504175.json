@@ -5,5 +5,7 @@
   "bairro": "Cavalieri II",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.210464",
+  "longitude": "-49.9648453"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78636970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jaragua",
   "localidade": "Água Boa",
   "uf": "MT",
-  "ibge": "5100201"
+  "ibge": "5100201",
+  "latitude": "-18.0998448",
+  "longitude": "-42.2160163"
 }

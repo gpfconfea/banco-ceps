@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cabixi",
   "uf": "RO",
-  "ibge": "1100031"
+  "ibge": "1100031",
+  "latitude": "-13.4922432",
+  "longitude": "-60.5425328"
 }

@@ -5,5 +5,7 @@
   "bairro": "Monte Bonito",
   "localidade": "Pelotas",
   "uf": "RS",
-  "ibge": "4314407"
+  "ibge": "4314407",
+  "latitude": "-31.627303",
+  "longitude": "-52.42688"
 }

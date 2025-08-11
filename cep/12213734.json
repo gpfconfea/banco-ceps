@@ -5,5 +5,7 @@
   "bairro": "Buquirinha",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.0996085",
+  "longitude": "-45.9182092"
 }

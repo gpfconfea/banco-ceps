@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Caçador",
   "uf": "SC",
-  "ibge": "4203006"
+  "ibge": "4203006",
+  "latitude": "-26.783222",
+  "longitude": "-50.9634889"
 }

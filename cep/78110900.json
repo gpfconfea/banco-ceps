@@ -1,9 +1,11 @@
 {
   "cep": "78110900",
   "logradouro": "Avenida Governador João Ponce de Arruda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro-Norte",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6512291",
+  "longitude": "-56.1218621"
 }

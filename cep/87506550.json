@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Carlo",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.7887246",
+  "longitude": "-53.3177004"
 }

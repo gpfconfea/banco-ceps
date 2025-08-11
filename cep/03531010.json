@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Savoia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.54205",
+  "longitude": "-46.5198847"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Liana",
   "localidade": "Fernandópolis",
   "uf": "SP",
-  "ibge": "3515509"
+  "ibge": "3515509",
+  "latitude": "-20.2830275",
+  "longitude": "-50.265599"
 }

@@ -5,5 +5,7 @@
   "bairro": "Morro Pacheco",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-10.9321367",
+  "longitude": "-37.6549349"
 }

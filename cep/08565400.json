@@ -5,5 +5,7 @@
   "bairro": "Vila Cleto",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-23.5424323",
+  "longitude": "-46.344249"
 }

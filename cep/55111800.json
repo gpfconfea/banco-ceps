@@ -5,5 +5,7 @@
   "bairro": "Laje",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.0728566",
+  "longitude": "-36.0432653"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Campos Novos",
   "uf": "SC",
-  "ibge": "4203600"
+  "ibge": "4203600",
+  "latitude": "-27.2643728",
+  "longitude": "-51.3023679"
 }

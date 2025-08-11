@@ -5,5 +5,7 @@
   "bairro": "Progresso",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "40.8704276",
+  "longitude": "-8.6232951"
 }

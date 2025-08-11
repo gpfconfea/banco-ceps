@@ -1,9 +1,11 @@
 {
   "cep": "46600970",
   "logradouro": "Praça Luís Eduardo Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tanhaçu",
   "uf": "BA",
-  "ibge": "2931004"
+  "ibge": "2931004",
+  "latitude": "-14.0223491",
+  "longitude": "-41.2450632"
 }
