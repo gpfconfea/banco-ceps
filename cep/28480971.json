@@ -1,9 +1,11 @@
 {
   "cep": "28480971",
   "logradouro": "Rodovia Odílio Denis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Cruz",
   "localidade": "Santo Antônio de Pádua",
   "uf": "RJ",
-  "ibge": "3304706"
+  "ibge": "3304706",
+  "latitude": "-21.5464928",
+  "longitude": "-42.1889535"
 }

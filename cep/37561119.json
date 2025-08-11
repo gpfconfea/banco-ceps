@@ -5,5 +5,7 @@
   "bairro": "Loteamento Paraty",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2879523",
+  "longitude": "-45.9128113"
 }

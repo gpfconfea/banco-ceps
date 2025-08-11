@@ -5,5 +5,7 @@
   "bairro": "Residencial São Paulo II",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5239207",
+  "longitude": "-47.4454577"
 }

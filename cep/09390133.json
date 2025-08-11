@@ -5,5 +5,7 @@
   "bairro": "Vila Magini",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.666558",
+  "longitude": "-46.4599145"
 }

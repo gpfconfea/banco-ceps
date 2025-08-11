@@ -5,5 +5,7 @@
   "bairro": "Vila Caju",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5161521",
+  "longitude": "-46.4927991"
 }

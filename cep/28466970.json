@@ -1,9 +1,11 @@
 {
   "cep": "28466970",
   "logradouro": "Rua Coronel Pedro Bastos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Venda das Flores",
   "localidade": "Miracema",
   "uf": "RJ",
-  "ibge": "3303005"
+  "ibge": "3303005",
+  "latitude": "-21.3342053",
+  "longitude": "-42.1370069"
 }

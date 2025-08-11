@@ -5,5 +5,7 @@
   "bairro": "Jardim Guanabara",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-4.2653831",
+  "longitude": "-38.6855435"
 }

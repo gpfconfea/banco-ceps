@@ -5,5 +5,7 @@
   "bairro": "Ponte Preta",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.7179816",
+  "longitude": "-43.5741894"
 }

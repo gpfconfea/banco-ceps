@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio do Palmital",
   "localidade": "Rio Bom",
   "uf": "PR",
-  "ibge": "4122107"
+  "ibge": "4122107",
+  "latitude": "-23.8250494",
+  "longitude": "-51.4247561"
 }

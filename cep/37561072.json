@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Doutor Custódio Ribeiro de Miranda II",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2863921",
+  "longitude": "-45.9169869"
 }

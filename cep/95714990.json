@@ -1,9 +1,11 @@
 {
   "cep": "95714990",
   "logradouro": "Estrada São Miguelº Bairro Linha São Miguel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Pedro",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.1755586",
+  "longitude": "-51.4336752"
 }

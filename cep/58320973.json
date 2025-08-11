@@ -1,9 +1,11 @@
 {
   "cep": "58320973",
   "logradouro": "Rua Projetada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Alhandra",
   "uf": "PB",
-  "ibge": "2500601"
+  "ibge": "2500601",
+  "latitude": "-7.4319675",
+  "longitude": "-34.9150158"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Radialista",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.5385591",
+  "longitude": "-54.6291705"
 }

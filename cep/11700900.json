@@ -1,9 +1,11 @@
 {
   "cep": "11700900",
   "logradouro": "Avenida Marechal Mallet",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canto do Forte",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-24.0158718",
+  "longitude": "-46.3986601"
 }

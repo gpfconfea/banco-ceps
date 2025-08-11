@@ -5,5 +5,7 @@
   "bairro": "Monte Verde",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.6824375",
+  "longitude": "-47.3836256"
 }

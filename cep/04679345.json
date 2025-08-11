@@ -5,5 +5,7 @@
   "bairro": "Vila Romano",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-21.6641335",
+  "longitude": "-49.756423"
 }

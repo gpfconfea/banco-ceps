@@ -1,9 +1,11 @@
 {
   "cep": "65870959",
   "logradouro": "Avenida Domingos Sertão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José",
   "localidade": "Pastos Bons",
   "uf": "MA",
-  "ibge": "2108009"
+  "ibge": "2108009",
+  "latitude": "-6.6064143",
+  "longitude": "-44.0937974"
 }

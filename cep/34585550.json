@@ -5,5 +5,7 @@
   "bairro": "Valparaíso",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "latitude": "-19.8991021",
+  "longitude": "-43.8045706"
 }

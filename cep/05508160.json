@@ -5,5 +5,7 @@
   "bairro": "Butantã",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.8817873",
+  "longitude": "-46.9531931"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Sueli",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4268034",
+  "longitude": "-46.4996825"
 }

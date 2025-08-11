@@ -1,9 +1,11 @@
 {
   "cep": "37927970",
   "logradouro": "Rua Antenor Alves Vilela",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José do Barreiro",
   "localidade": "São Roque de Minas",
   "uf": "MG",
-  "ibge": "3164308"
+  "ibge": "3164308",
+  "latitude": "-20.3423093",
+  "longitude": "-46.4825391"
 }

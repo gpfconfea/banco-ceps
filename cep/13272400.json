@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9536892",
+  "longitude": "-46.997852"
 }

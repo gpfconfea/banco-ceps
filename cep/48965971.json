@@ -1,9 +1,11 @@
 {
   "cep": "48965971",
   "logradouro": "Avenida Juazeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Juacema",
   "localidade": "Jaguarari",
   "uf": "BA",
-  "ibge": "2917706"
+  "ibge": "2917706",
+  "latitude": "-10.2572291",
+  "longitude": "-40.1934592"
 }

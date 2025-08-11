@@ -6,5 +6,7 @@
   "bairro": "Primavera",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.4019937",
+  "longitude": "-42.9046811"
 }

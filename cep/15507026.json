@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Ferrarez",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4161469",
+  "longitude": "-50.0063742"
 }

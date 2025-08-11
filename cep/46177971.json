@@ -1,9 +1,11 @@
 {
   "cep": "46177971",
   "logradouro": "Rua Bahia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Arapiranga",
   "localidade": "Rio de Contas",
   "uf": "BA",
-  "ibge": "2926707"
+  "ibge": "2926707",
+  "latitude": "-13.48509",
+  "longitude": "-41.767122"
 }

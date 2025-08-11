@@ -5,5 +5,7 @@
   "bairro": "Serra Branca",
   "localidade": "Ipubi",
   "uf": "PE",
-  "ibge": "2607307"
+  "ibge": "2607307",
+  "latitude": "-7.5713387",
+  "longitude": "-40.1967402"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapoan",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6345948",
+  "longitude": "-46.4891798"
 }

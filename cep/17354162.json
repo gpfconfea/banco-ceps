@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Igaraçu I",
   "localidade": "Igaraçu do Tietê",
   "uf": "SP",
-  "ibge": "3520004"
+  "ibge": "3520004",
+  "latitude": "-22.5251284",
+  "longitude": "-48.5685349"
 }

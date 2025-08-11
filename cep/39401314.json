@@ -5,5 +5,7 @@
   "bairro": "Ibituruna",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7206666",
+  "longitude": "-43.8931818"
 }

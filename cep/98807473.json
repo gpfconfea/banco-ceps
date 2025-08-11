@@ -5,5 +5,7 @@
   "bairro": "Aguiar",
   "localidade": "Santo Ângelo",
   "uf": "RS",
-  "ibge": "4317509"
+  "ibge": "4317509",
+  "latitude": "-28.2911716",
+  "longitude": "-54.2330687"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "47630979",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Agrovila 10",
   "localidade": "Serra do Ramalho",
   "uf": "BA",
-  "ibge": "2930154"
+  "ibge": "2930154",
+  "latitude": "-13.7640802",
+  "longitude": "-43.6007979"
 }

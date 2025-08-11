@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.0811838",
+  "longitude": "-52.5988628"
 }

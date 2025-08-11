@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Palmópolis",
   "uf": "MG",
-  "ibge": "3146750"
+  "ibge": "3146750",
+  "latitude": "-16.7356469",
+  "longitude": "-40.4205565"
 }

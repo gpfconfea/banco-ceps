@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-29.9666157",
+  "longitude": "-51.2017865"
 }

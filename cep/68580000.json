@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itupiranga",
   "uf": "PA",
-  "ibge": "1503705"
+  "ibge": "1503705",
+  "latitude": "-5.1337224",
+  "longitude": "-49.3321988"
 }

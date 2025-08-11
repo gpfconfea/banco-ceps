@@ -6,5 +6,7 @@
   "bairro": "Residencial Emídio de Paula",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.3715876",
+  "longitude": "-48.2247059"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Antonieta",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-22.5052562",
+  "longitude": "-47.7787086"
 }

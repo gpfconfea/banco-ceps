@@ -5,5 +5,7 @@
   "bairro": "Vila Marte",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.634867",
+  "longitude": "-46.519642"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "latitude": "27.9094665",
+  "longitude": "-82.7873244"
 }

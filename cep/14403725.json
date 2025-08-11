@@ -5,5 +5,7 @@
   "bairro": "Parque Fremont",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5379484",
+  "longitude": "-47.3791368"
 }

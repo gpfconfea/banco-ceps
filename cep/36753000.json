@@ -5,5 +5,7 @@
   "bairro": "Cisneiros",
   "localidade": "Palma",
   "uf": "MG",
-  "ibge": "3146701"
+  "ibge": "3146701",
+  "latitude": "-21.4444906",
+  "longitude": "-42.3244517"
 }

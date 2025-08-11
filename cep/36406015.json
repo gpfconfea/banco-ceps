@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Conselheiro Lafaiete",
   "uf": "MG",
-  "ibge": "3118304"
+  "ibge": "3118304",
+  "latitude": "-20.6605695",
+  "longitude": "-43.799349"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Edwirges",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4103324",
+  "longitude": "-46.4906629"
 }

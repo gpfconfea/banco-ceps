@@ -1,9 +1,11 @@
 {
   "cep": "13846902",
   "logradouro": "Rodovia SP-342",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Ipê I",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "latitude": "-22.3396446",
+  "longitude": "-46.9423873"
 }

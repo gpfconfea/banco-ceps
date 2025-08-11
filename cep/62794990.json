@@ -1,9 +1,11 @@
 {
   "cep": "62794990",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Redenção",
   "uf": "CE",
-  "ibge": "2311603"
+  "ibge": "2311603",
+  "latitude": "-4.3733821",
+  "longitude": "-38.8046556"
 }

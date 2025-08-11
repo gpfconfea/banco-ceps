@@ -5,5 +5,7 @@
   "bairro": "Jardim Cidade Jardim",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0645035",
+  "longitude": "-47.2202531"
 }

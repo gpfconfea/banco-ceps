@@ -5,5 +5,7 @@
   "bairro": "Costa Nova",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5928321",
+  "longitude": "-45.343823"
 }

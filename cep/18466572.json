@@ -5,5 +5,7 @@
   "bairro": "Residencial Alto dos Pinheiros",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-23.5664811",
+  "longitude": "-47.2626289"
 }

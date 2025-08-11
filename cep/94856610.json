@@ -5,5 +5,7 @@
   "bairro": "Stella Maris",
   "localidade": "Alvorada",
   "uf": "RS",
-  "ibge": "4300604"
+  "ibge": "4300604",
+  "latitude": "-22.8431224",
+  "longitude": "-47.219919"
 }

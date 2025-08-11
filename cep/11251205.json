@@ -5,5 +5,7 @@
   "bairro": "Maitinga",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-23.832396",
+  "longitude": "-46.1256024"
 }

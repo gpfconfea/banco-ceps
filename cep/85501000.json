@@ -6,5 +6,7 @@
   "bairro": "Vila Isabel",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "latitude": "-26.2701343",
+  "longitude": "-52.6848701"
 }

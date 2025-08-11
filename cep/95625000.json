@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Imbé",
   "uf": "RS",
-  "ibge": "4310330"
+  "ibge": "4310330",
+  "latitude": "-29.975269",
+  "longitude": "-50.128068"
 }
