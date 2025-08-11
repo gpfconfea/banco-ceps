@@ -1,9 +1,11 @@
 {
   "cep": "37472973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dos Campos",
   "localidade": "Carmo de Minas",
   "uf": "MG",
-  "ibge": "3114105"
+  "ibge": "3114105",
+  "latitude": "-19.9538884",
+  "longitude": "-43.9442544"
 }

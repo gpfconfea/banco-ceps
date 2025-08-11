@@ -5,5 +5,7 @@
   "bairro": "Jardim Redentor",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5005011",
+  "longitude": "-47.3988322"
 }

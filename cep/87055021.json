@@ -5,5 +5,7 @@
   "bairro": "Jardim Pro-lar",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4552676",
+  "longitude": "-51.911884"
 }

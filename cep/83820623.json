@@ -5,5 +5,7 @@
   "bairro": "Eucaliptos",
   "localidade": "Fazenda Rio Grande",
   "uf": "PR",
-  "ibge": "4107652"
+  "ibge": "4107652",
+  "latitude": "-25.6539362",
+  "longitude": "-49.2958282"
 }

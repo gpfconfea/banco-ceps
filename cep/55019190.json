@@ -5,5 +5,7 @@
   "bairro": "São João da Escócia",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.2683588",
+  "longitude": "-35.952674"
 }

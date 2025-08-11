@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto Real",
   "uf": "RJ",
-  "ibge": "3304110"
+  "ibge": "3304110",
+  "latitude": "-22.4203719",
+  "longitude": "-44.3017395"
 }

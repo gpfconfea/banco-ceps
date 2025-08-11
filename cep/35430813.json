@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "41.3765752",
+  "longitude": "-8.4862997"
 }

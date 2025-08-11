@@ -5,5 +5,7 @@
   "bairro": "Residencial Lluminar",
   "localidade": "Catanduva",
   "uf": "SP",
-  "ibge": "3511102"
+  "ibge": "3511102",
+  "latitude": "-21.1617276",
+  "longitude": "-48.9931059"
 }

@@ -5,5 +5,7 @@
   "bairro": "Rio XV de Baixo",
   "localidade": "Pitanga",
   "uf": "PR",
-  "ibge": "4119608"
+  "ibge": "4119608",
+  "latitude": "-24.643183",
+  "longitude": "-51.8739235"
 }

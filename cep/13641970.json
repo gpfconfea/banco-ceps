@@ -1,9 +1,11 @@
 {
   "cep": "13641970",
   "logradouro": "Rodovia Prefeito Euberto Nemésio Pereira de Godoy",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Cachoeira",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.968658",
+  "longitude": "-47.4023485"
 }

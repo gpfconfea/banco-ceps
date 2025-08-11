@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Caxambu do Sul",
   "uf": "SC",
-  "ibge": "4204103"
+  "ibge": "4204103",
+  "latitude": "-27.1615046",
+  "longitude": "-52.8796675"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44800971",
   "logradouro": "Rua Povoado de Jequitibá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jequitibá",
   "localidade": "Mundo Novo",
   "uf": "BA",
-  "ibge": "2922102"
+  "ibge": "2922102",
+  "latitude": "-11.8578582",
+  "longitude": "-40.4719639"
 }

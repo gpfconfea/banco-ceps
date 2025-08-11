@@ -1,9 +1,11 @@
 {
   "cep": "62560959",
   "logradouro": "Rua Rios",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Marco",
   "uf": "CE",
-  "ibge": "2307809"
+  "ibge": "2307809",
+  "latitude": "-3.121357",
+  "longitude": "-40.150807"
 }

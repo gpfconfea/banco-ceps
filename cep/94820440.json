@@ -5,5 +5,7 @@
   "bairro": "Sumaré",
   "localidade": "Alvorada",
   "uf": "RS",
-  "ibge": "4300604"
+  "ibge": "4300604",
+  "latitude": "-29.9972421",
+  "longitude": "-51.0777229"
 }

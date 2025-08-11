@@ -5,5 +5,7 @@
   "bairro": "Setor 01",
   "localidade": "Jaru",
   "uf": "RO",
-  "ibge": "1100114"
+  "ibge": "1100114",
+  "latitude": "-10.4358064",
+  "longitude": "-62.4736396"
 }

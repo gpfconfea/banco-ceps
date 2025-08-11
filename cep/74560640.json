@@ -6,5 +6,7 @@
   "bairro": "Setor Centro Oeste",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6770858",
+  "longitude": "-49.2882678"
 }

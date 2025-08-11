@@ -5,5 +5,7 @@
   "bairro": "Rabello",
   "localidade": "Tio Hugo",
   "uf": "RS",
-  "ibge": "4321469"
+  "ibge": "4321469",
+  "latitude": "-28.5738206",
+  "longitude": "-52.5970509"
 }

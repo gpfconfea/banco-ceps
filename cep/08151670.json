@@ -5,5 +5,7 @@
   "bairro": "Jardim Campos",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5102181",
+  "longitude": "-46.4039966"
 }

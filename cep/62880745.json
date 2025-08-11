@@ -5,5 +5,7 @@
   "bairro": "Mal Cozinhado",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "latitude": "-21.3630602",
+  "longitude": "-45.5271192"
 }

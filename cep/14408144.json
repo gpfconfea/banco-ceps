@@ -5,5 +5,7 @@
   "bairro": "Jardim João Liporoni",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5118196",
+  "longitude": "-47.4311387"
 }

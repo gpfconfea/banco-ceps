@@ -5,5 +5,7 @@
   "bairro": "Pio X",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-29.2334562",
+  "longitude": "-51.3401479"
 }

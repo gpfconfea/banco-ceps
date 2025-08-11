@@ -1,9 +1,11 @@
 {
   "cep": "58458971",
   "logradouro": "Rua Conselheiro José Bráz do Rêgo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Barra de Santana",
   "uf": "PB",
-  "ibge": "2501575"
+  "ibge": "2501575",
+  "latitude": "-7.5234105",
+  "longitude": "-35.9986537"
 }

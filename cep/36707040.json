@@ -5,5 +5,7 @@
   "bairro": "Pedro Brito Neto",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-21.5354313",
+  "longitude": "-42.6548503"
 }

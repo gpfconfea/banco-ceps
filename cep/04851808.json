@@ -5,5 +5,7 @@
   "bairro": "Vila Narciso",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-24.2214027",
+  "longitude": "-48.7610759"
 }

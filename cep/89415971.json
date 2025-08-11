@@ -1,9 +1,11 @@
 {
   "cep": "89415971",
   "logradouro": "Rodovia SC 302",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Miguel da Serra",
   "localidade": "Porto União",
   "uf": "SC",
-  "ibge": "4213609"
+  "ibge": "4213609",
+  "latitude": "-26.3277045",
+  "longitude": "-51.0342841"
 }

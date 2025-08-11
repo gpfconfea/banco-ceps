@@ -5,5 +5,7 @@
   "bairro": "Jardim Vista Alegre",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.930705",
+  "longitude": "-46.5655511"
 }

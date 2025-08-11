@@ -1,9 +1,11 @@
 {
   "cep": "59840970",
   "logradouro": "Rua José Tertuliano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Taboleiro Grande",
   "uf": "RN",
-  "ibge": "2413805"
+  "ibge": "2413805",
+  "latitude": "-5.9314985",
+  "longitude": "-38.0444597"
 }

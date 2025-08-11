@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus do Rio Negro",
   "localidade": "Rio Negro",
   "uf": "PR",
-  "ibge": "4122305"
+  "ibge": "4122305",
+  "latitude": "-26.0875587",
+  "longitude": "-49.781385"
 }

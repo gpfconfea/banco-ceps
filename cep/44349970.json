@@ -1,9 +1,11 @@
 {
   "cep": "44349970",
   "logradouro": "Rua José Ribeiro Machado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Geolândia",
   "localidade": "Cabaceiras do Paraguaçu",
   "uf": "BA",
-  "ibge": "2904852"
+  "ibge": "2904852",
+  "latitude": "-12.5324436",
+  "longitude": "-39.1014269"
 }

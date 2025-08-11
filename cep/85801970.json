@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "latitude": "-24.9714656",
+  "longitude": "-53.4548429"
 }

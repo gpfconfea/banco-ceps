@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Flórida",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.2946234",
+  "longitude": "-49.062491"
 }

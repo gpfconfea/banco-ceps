@@ -5,5 +5,7 @@
   "bairro": "Vila Operária",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.1308951",
+  "longitude": "-48.9322818"
 }

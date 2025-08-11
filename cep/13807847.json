@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial dos Jequitibás",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4336886",
+  "longitude": "-46.9607418"
 }

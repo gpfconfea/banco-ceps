@@ -5,5 +5,7 @@
   "bairro": "Jardim Vânia Maria",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3124148",
+  "longitude": "-49.0927403"
 }

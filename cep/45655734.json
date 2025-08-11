@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Vitória",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "latitude": "-13.0103448",
+  "longitude": "-38.4907348"
 }

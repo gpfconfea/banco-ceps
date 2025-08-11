@@ -5,5 +5,7 @@
   "bairro": "Jardim do Corrego",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.541163",
+  "longitude": "-54.5775696"
 }

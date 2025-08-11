@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mira Estrela",
   "uf": "SP",
-  "ibge": "3530003"
+  "ibge": "3530003",
+  "latitude": "-19.9806298",
+  "longitude": "-50.136873"
 }

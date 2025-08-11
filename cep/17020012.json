@@ -5,5 +5,7 @@
   "bairro": "Parque Vista Alegre",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3069241",
+  "longitude": "-49.0656766"
 }

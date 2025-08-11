@@ -5,5 +5,7 @@
   "bairro": "Jacintinho",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.631904",
+  "longitude": "-35.7178387"
 }

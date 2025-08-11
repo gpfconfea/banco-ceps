@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Imperial",
   "localidade": "Mirassol",
   "uf": "SP",
-  "ibge": "3530300"
+  "ibge": "3530300",
+  "latitude": "-20.7964509",
+  "longitude": "-49.4991883"
 }

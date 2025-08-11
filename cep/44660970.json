@@ -1,9 +1,11 @@
 {
   "cep": "44660970",
   "logradouro": "Avenida do Contorno",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Serra Preta",
   "uf": "BA",
-  "ibge": "2930402"
+  "ibge": "2930402",
+  "latitude": "-12.1595231",
+  "longitude": "-39.3334141"
 }

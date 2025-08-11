@@ -5,5 +5,7 @@
   "bairro": "Boa Morada",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.4844122",
+  "longitude": "-44.1771866"
 }

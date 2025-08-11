@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Barra do Rio Azul",
   "uf": "RS",
-  "ibge": "4301925"
+  "ibge": "4301925",
+  "latitude": "-27.4086573",
+  "longitude": "-52.41305"
 }

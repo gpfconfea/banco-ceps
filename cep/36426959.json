@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cristiano Otoni",
   "uf": "MG",
-  "ibge": "3120409"
+  "ibge": "3120409",
+  "latitude": "-20.8300362",
+  "longitude": "-43.8064619"
 }
