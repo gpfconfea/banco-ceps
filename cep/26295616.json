@@ -5,5 +5,7 @@
   "bairro": "Marapicu",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.8265072",
+  "longitude": "-43.5965702"
 }

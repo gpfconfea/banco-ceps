@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barra Velha",
   "uf": "SC",
-  "ibge": "4202107"
+  "ibge": "4202107",
+  "latitude": "-26.6350391",
+  "longitude": "-48.6927833"
 }

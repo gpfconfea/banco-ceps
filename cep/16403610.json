@@ -5,5 +5,7 @@
   "bairro": "Residencial Bom Recreio",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.2922457",
+  "longitude": "-50.3428431"
 }

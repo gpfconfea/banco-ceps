@@ -1,9 +1,11 @@
 {
   "cep": "38142970",
   "logradouro": "Praça Novo Horizonte",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardinésia",
   "localidade": "Prata",
   "uf": "MG",
-  "ibge": "3152808"
+  "ibge": "3152808",
+  "latitude": "-12.5576631",
+  "longitude": "-55.7096058"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68565972",
   "logradouro": "Vila São João Batista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João Batista",
   "localidade": "Santa Maria das Barreiras",
   "uf": "PA",
-  "ibge": "1506583"
+  "ibge": "1506583",
+  "latitude": "-8.5473026",
+  "longitude": "-50.0581059"
 }

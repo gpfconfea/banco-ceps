@@ -5,5 +5,7 @@
   "bairro": "Vila Haddad",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-23.6530769",
+  "longitude": "-47.5709206"
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácara Iracema",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.7506956",
+  "longitude": "-46.7925285"
 }

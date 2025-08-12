@@ -1,9 +1,11 @@
 {
   "cep": "88870973",
   "logradouro": "Estrada Rio Pinheiros Baixo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio Pinheiros",
   "localidade": "Orleans",
   "uf": "SC",
-  "ibge": "4211702"
+  "ibge": "4211702",
+  "latitude": "-28.3172931",
+  "longitude": "-49.2362943"
 }

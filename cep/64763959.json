@@ -1,9 +1,11 @@
 {
   "cep": "64763959",
   "logradouro": "Avenida Antonio Mendes de Sousa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Capitão Gervásio Oliveira",
   "uf": "PI",
-  "ibge": "2202455"
+  "ibge": "2202455",
+  "latitude": "-8.4958934",
+  "longitude": "-41.81725"
 }

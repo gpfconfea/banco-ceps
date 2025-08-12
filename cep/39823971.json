@@ -1,9 +1,11 @@
 {
   "cep": "39823971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Queixada",
   "localidade": "Novo Cruzeiro",
   "uf": "MG",
-  "ibge": "3145307"
+  "ibge": "3145307",
+  "latitude": "-17.4721431",
+  "longitude": "-42.0214468"
 }

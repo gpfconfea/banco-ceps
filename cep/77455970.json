@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Aliança do Tocantins",
   "uf": "TO",
-  "ibge": "1700350"
+  "ibge": "1700350",
+  "latitude": "-11.3601669",
+  "longitude": "-48.9365104"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Trento",
   "uf": "SC",
-  "ibge": "4211504"
+  "ibge": "4211504",
+  "latitude": "-27.2862616",
+  "longitude": "-48.9302652"
 }

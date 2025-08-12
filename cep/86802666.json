@@ -5,5 +5,7 @@
   "bairro": "Residencial Rosa Cazarin",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5495439",
+  "longitude": "-51.4616741"
 }

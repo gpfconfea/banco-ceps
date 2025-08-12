@@ -1,9 +1,11 @@
 {
   "cep": "55770974",
   "logradouro": "Rua Almirante Barroso",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado de Livramento",
   "localidade": "Vertentes",
   "uf": "PE",
-  "ibge": "2616209"
+  "ibge": "2616209",
+  "latitude": "-23.5743687",
+  "longitude": "-46.0365335"
 }

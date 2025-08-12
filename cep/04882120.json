@@ -5,5 +5,7 @@
   "bairro": "Parque Florestal",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.8789141",
+  "longitude": "-46.659591"
 }

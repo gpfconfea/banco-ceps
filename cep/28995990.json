@@ -1,9 +1,11 @@
 {
   "cep": "28995990",
   "logradouro": "Estrada Velha Palmital",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "latitude": "-22.8652147",
+  "longitude": "-42.4698768"
 }

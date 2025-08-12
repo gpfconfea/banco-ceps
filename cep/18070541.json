@@ -5,5 +5,7 @@
   "bairro": "Residencial Bosque Ipanema",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4552348",
+  "longitude": "-47.5121919"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.5144757",
+  "longitude": "-44.0883368"
 }

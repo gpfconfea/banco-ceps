@@ -5,5 +5,7 @@
   "bairro": "Residencial Ilha de Bali",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5735913",
+  "longitude": "-47.3711779"
 }

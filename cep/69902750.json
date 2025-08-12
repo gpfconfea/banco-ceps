@@ -5,5 +5,7 @@
   "bairro": "Placas",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-29.7749999",
+  "longitude": "-51.133797"
 }

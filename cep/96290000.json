@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tavares",
   "uf": "RS",
-  "ibge": "4321352"
+  "ibge": "4321352",
+  "latitude": "-31.287471",
+  "longitude": "-51.0897986"
 }

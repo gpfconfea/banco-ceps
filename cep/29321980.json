@@ -1,9 +1,11 @@
 {
   "cep": "29321980",
   "logradouro": "Praça José Nunes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vargem Grande do Soturno",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "latitude": "-19.849448",
+  "longitude": "-40.8822415"
 }

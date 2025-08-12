@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Berizal",
   "uf": "MG",
-  "ibge": "3106655"
+  "ibge": "3106655",
+  "latitude": "-15.6129369",
+  "longitude": "-41.7443742"
 }

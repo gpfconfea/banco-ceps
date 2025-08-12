@@ -1,9 +1,11 @@
 {
   "cep": "46780970",
   "logradouro": "Rua Olegário Ferreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Marcionílio Souza",
   "uf": "BA",
-  "ibge": "2920809"
+  "ibge": "2920809",
+  "latitude": "-13.0005521",
+  "longitude": "-40.534696"
 }

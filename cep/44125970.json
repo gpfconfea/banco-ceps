@@ -1,9 +1,11 @@
 {
   "cep": "44125970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jaguara",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.2050396",
+  "longitude": "-38.8675396"
 }

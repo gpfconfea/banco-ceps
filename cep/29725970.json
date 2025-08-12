@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marilândia",
   "uf": "ES",
-  "ibge": "3203353"
+  "ibge": "3203353",
+  "latitude": "-19.4143482",
+  "longitude": "-40.5444265"
 }

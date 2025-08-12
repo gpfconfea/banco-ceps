@@ -6,5 +6,7 @@
   "bairro": "Residencial Morumbi",
   "localidade": "Presidente Venceslau",
   "uf": "SP",
-  "ibge": "3541505"
+  "ibge": "3541505",
+  "latitude": "-21.8638727",
+  "longitude": "-51.8459432"
 }

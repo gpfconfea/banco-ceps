@@ -1,9 +1,11 @@
 {
   "cep": "99535970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tesouras",
   "localidade": "Chapada",
   "uf": "RS",
-  "ibge": "4305306"
+  "ibge": "4305306",
+  "latitude": "-3.0958521",
+  "longitude": "-60.0297054"
 }

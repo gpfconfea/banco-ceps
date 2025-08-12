@@ -6,5 +6,7 @@
   "bairro": "Retiro",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9555926",
+  "longitude": "-38.4743412"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Santa Cruz de Goiás",
   "uf": "GO",
-  "ibge": "5219209"
+  "ibge": "5219209",
+  "latitude": "-17.3180956",
+  "longitude": "-48.481672"
 }

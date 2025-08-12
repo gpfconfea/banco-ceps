@@ -1,9 +1,11 @@
 {
   "cep": "87385970",
   "logradouro": "Rua Dois",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Arapuan",
   "localidade": "Janiópolis",
   "uf": "PR",
-  "ibge": "4112207"
+  "ibge": "4112207",
+  "latitude": "-24.2564335",
+  "longitude": "-52.853863"
 }

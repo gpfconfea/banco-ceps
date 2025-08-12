@@ -5,5 +5,7 @@
   "bairro": "Ipiranga",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.603138",
+  "longitude": "-46.6080611"
 }

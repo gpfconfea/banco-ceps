@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Gutierrez",
   "localidade": "Irati",
   "uf": "PR",
-  "ibge": "4110706"
+  "ibge": "4110706",
+  "latitude": "-25.4832069",
+  "longitude": "-50.6603394"
 }

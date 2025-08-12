@@ -5,5 +5,7 @@
   "bairro": "Jardim Cidade Monções",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4452554",
+  "longitude": "-51.9417062"
 }

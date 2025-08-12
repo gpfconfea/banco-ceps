@@ -1,9 +1,11 @@
 {
   "cep": "44520970",
   "logradouro": "Largo da Liberdade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Rafael Jambeiro",
   "uf": "BA",
-  "ibge": "2925956"
+  "ibge": "2925956",
+  "latitude": "-12.4055005",
+  "longitude": "-39.5036334"
 }

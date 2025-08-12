@@ -5,5 +5,7 @@
   "bairro": "Jardim Integração",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5226315",
+  "longitude": "-47.4150002"
 }

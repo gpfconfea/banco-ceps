@@ -5,5 +5,7 @@
   "bairro": "Parque Reboucas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6242855",
+  "longitude": "-46.7450287"
 }

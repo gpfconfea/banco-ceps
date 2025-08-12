@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto II",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.4369417",
+  "longitude": "-45.9390619"
 }

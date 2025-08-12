@@ -1,9 +1,11 @@
 {
   "cep": "62505990",
   "logradouro": "Rua Francisco Braga Vera ",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "latitude": "-3.5865815",
+  "longitude": "-39.6627134"
 }

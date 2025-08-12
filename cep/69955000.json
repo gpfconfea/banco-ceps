@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santa Rosa do Purus",
   "uf": "AC",
-  "ibge": "1200435"
+  "ibge": "1200435",
+  "latitude": "-9.4354872",
+  "longitude": "-70.4926109"
 }

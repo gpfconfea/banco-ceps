@@ -5,5 +5,7 @@
   "bairro": "Braz Caino",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "latitude": "-28.6548888",
+  "longitude": "-53.6007337"
 }

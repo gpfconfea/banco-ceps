@@ -5,5 +5,7 @@
   "bairro": "Chácara Guanabara",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.3625476",
+  "longitude": "-46.1689199"
 }

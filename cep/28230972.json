@@ -1,9 +1,11 @@
 {
   "cep": "28230972",
   "logradouro": "Praça Aníbal Viana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Buena",
   "localidade": "São Francisco de Itabapoana",
   "uf": "RJ",
-  "ibge": "3304755"
+  "ibge": "3304755",
+  "latitude": "-21.4100505",
+  "longitude": "-41.0144958"
 }

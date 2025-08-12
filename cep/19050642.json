@@ -5,5 +5,7 @@
   "bairro": "Jardim Caiçara",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1307503",
+  "longitude": "-51.404263"
 }

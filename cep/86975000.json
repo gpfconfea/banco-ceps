@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mandaguari",
   "uf": "PR",
-  "ibge": "4114203"
+  "ibge": "4114203",
+  "latitude": "-23.5224849",
+  "longitude": "-51.6787511"
 }

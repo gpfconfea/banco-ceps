@@ -1,9 +1,11 @@
 {
   "cep": "85465970",
   "logradouro": "Avenida Brasília",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Espigão Alto do Iguaçu",
   "uf": "PR",
-  "ibge": "4107546"
+  "ibge": "4107546",
+  "latitude": "-25.4236532",
+  "longitude": "-52.8363405"
 }

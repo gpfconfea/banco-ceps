@@ -1,9 +1,11 @@
 {
   "cep": "17535970",
   "logradouro": "Rua José Belmiro da Rocha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Rosália)",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-21.9973363",
+  "longitude": "-49.9767375"
 }

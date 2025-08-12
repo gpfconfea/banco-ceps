@@ -1,9 +1,11 @@
 {
   "cep": "78889972",
   "logradouro": "Avenida Ferrucio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Água Limpa",
   "localidade": "Nova Ubiratã",
   "uf": "MT",
-  "ibge": "5106240"
+  "ibge": "5106240",
+  "latitude": "-13.4052699",
+  "longitude": "-54.7543121"
 }

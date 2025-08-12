@@ -5,5 +5,7 @@
   "bairro": "Vila Principal",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "latitude": "-22.5648978",
+  "longitude": "-44.1390974"
 }

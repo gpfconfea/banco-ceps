@@ -5,5 +5,7 @@
   "bairro": "Nova Betânia",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "latitude": "-5.787146",
+  "longitude": "-37.959012"
 }

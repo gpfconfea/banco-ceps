@@ -5,5 +5,7 @@
   "bairro": "Vila Franca",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.5349572",
+  "longitude": "-47.3629204"
 }

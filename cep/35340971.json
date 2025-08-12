@@ -1,9 +1,11 @@
 {
   "cep": "35340971",
   "logradouro": "Rua Manoel dos Santos Martins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Iguaçu",
   "localidade": "Bom Jesus do Galho",
   "uf": "MG",
-  "ibge": "3107802"
+  "ibge": "3107802",
+  "latitude": "-19.7621949",
+  "longitude": "-42.34978"
 }

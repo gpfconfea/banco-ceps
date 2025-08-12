@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Colina Verde",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.2893452",
+  "longitude": "-49.0729524"
 }

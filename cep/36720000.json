@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Volta Grande",
   "uf": "MG",
-  "ibge": "3172103"
+  "ibge": "3172103",
+  "latitude": "-21.770834",
+  "longitude": "-42.539166"
 }

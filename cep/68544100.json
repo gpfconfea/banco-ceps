@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Floresta do Araguaia",
   "uf": "PA",
-  "ibge": "1503044"
+  "ibge": "1503044",
+  "latitude": "-7.488494",
+  "longitude": "-49.386652"
 }

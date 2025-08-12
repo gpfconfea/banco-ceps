@@ -5,5 +5,7 @@
   "bairro": "Rio das Furnas",
   "localidade": "Orleans",
   "uf": "SC",
-  "ibge": "4211702"
+  "ibge": "4211702",
+  "latitude": "-28.2786931",
+  "longitude": "-49.2323174"
 }

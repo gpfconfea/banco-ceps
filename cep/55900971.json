@@ -1,9 +1,11 @@
 {
   "cep": "55900971",
   "logradouro": "Rua da Telpe",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Goiana",
   "uf": "PE",
-  "ibge": "2606200"
+  "ibge": "2606200",
+  "latitude": "-7.5630149",
+  "longitude": "-35.0131428"
 }

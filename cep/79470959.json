@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Negro",
   "uf": "MS",
-  "ibge": "5007307"
+  "ibge": "5007307",
+  "latitude": "-19.4462396",
+  "longitude": "-54.9901961"
 }

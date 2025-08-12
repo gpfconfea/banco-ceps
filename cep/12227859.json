@@ -5,5 +5,7 @@
   "bairro": "Residencial São Francisco",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.2146388",
+  "longitude": "-45.8429893"
 }

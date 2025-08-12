@@ -5,5 +5,7 @@
   "bairro": "Parque Solar do Agreste A",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-17.8089544",
+  "longitude": "-50.9356701"
 }
