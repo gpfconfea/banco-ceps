@@ -1,9 +1,11 @@
 {
   "cep": "61905990",
   "logradouro": "Avenida Faustino Albuquerque",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "latitude": "-3.8836135",
+  "longitude": "-38.6398675"
 }

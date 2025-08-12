@@ -5,5 +5,7 @@
   "bairro": "Bosque I",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.9225283",
+  "longitude": "-48.44026"
 }

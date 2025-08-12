@@ -1,9 +1,11 @@
 {
   "cep": "44640970",
   "logradouro": "Rua Marechal Castelo Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Riachão do Jacuípe",
   "uf": "BA",
-  "ibge": "2926301"
+  "ibge": "2926301",
+  "latitude": "-11.808269",
+  "longitude": "-39.3827263"
 }

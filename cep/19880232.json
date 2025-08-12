@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Terezinha",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.7477754",
+  "longitude": "-50.3980817"
 }

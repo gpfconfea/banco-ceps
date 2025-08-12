@@ -5,5 +5,7 @@
   "bairro": "Vila Leis",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.278826",
+  "longitude": "-47.2884811"
 }

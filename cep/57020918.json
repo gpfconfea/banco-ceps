@@ -1,9 +1,11 @@
 {
   "cep": "57020918",
   "logradouro": "Praça Visconde de Sinimbú",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.6680354",
+  "longitude": "-35.7336843"
 }

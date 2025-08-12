@@ -5,5 +5,7 @@
   "bairro": "Paloma",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "latitude": "-25.3539878",
+  "longitude": "-49.1596621"
 }

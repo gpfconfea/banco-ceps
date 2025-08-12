@@ -1,9 +1,11 @@
 {
   "cep": "68506971",
   "logradouro": "Rodovia PA-150",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cidade Nova",
   "localidade": "Marabá",
   "uf": "PA",
-  "ibge": "1504208"
+  "ibge": "1504208",
+  "latitude": "-5.3667419",
+  "longitude": "-49.1271473"
 }

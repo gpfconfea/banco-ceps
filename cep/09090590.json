@@ -5,5 +5,7 @@
   "bairro": "Vila Alpina",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6567644",
+  "longitude": "-46.543165"
 }

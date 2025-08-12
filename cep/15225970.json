@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ubarana",
   "uf": "SP",
-  "ibge": "3555356"
+  "ibge": "3555356",
+  "latitude": "-21.1649288",
+  "longitude": "-49.7178825"
 }

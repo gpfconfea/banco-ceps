@@ -5,5 +5,7 @@
   "bairro": "Novo Assis",
   "localidade": "Parambu",
   "uf": "CE",
-  "ibge": "2310308"
+  "ibge": "2310308",
+  "latitude": "-6.0269626",
+  "longitude": "-40.5762766"
 }

@@ -5,5 +5,7 @@
   "bairro": "Pinheiro",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9759197",
+  "longitude": "-46.971165"
 }

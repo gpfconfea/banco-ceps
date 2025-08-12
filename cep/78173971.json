@@ -1,9 +1,11 @@
 {
   "cep": "78173971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ribeirão dos Cocais",
   "localidade": "Nossa Senhora do Livramento",
   "uf": "MT",
-  "ibge": "5106109"
+  "ibge": "5106109",
+  "latitude": "-15.7948975",
+  "longitude": "-56.221424"
 }

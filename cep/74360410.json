@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Boa",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7316166",
+  "longitude": "-49.3212724"
 }

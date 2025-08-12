@@ -5,5 +5,7 @@
   "bairro": "Residencial Ilha de Capri",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3570804",
+  "longitude": "-49.0710785"
 }

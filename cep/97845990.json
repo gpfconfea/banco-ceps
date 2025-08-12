@@ -1,9 +1,11 @@
 {
   "cep": "97845990",
   "logradouro": "Av Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Dezesseis de Novembro",
   "uf": "RS",
-  "ibge": "4306353"
+  "ibge": "4306353",
+  "latitude": "-28.2059508",
+  "longitude": "-55.0713904"
 }

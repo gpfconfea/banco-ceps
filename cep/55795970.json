@@ -1,9 +1,11 @@
 {
   "cep": "55795970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gravatá do Ibiapina",
   "localidade": "Taquaritinga do Norte",
   "uf": "PE",
-  "ibge": "2615003"
+  "ibge": "2615003",
+  "latitude": "-7.8624438",
+  "longitude": "-36.0979235"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "37508972",
   "logradouro": "Rua Joaquim Evaristo Mota",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Piranguinho",
   "uf": "MG",
-  "ibge": "3151008"
+  "ibge": "3151008",
+  "latitude": "-22.362977",
+  "longitude": "-45.5565273"
 }

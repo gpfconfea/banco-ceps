@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Senador La Rocque",
   "uf": "MA",
-  "ibge": "2111763"
+  "ibge": "2111763",
+  "latitude": "-5.4589401",
+  "longitude": "-47.2824175"
 }

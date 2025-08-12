@@ -5,5 +5,7 @@
   "bairro": "Cohama",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-22.5739531",
+  "longitude": "-47.3812823"
 }

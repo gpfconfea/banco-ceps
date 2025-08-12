@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cândido Sales",
   "uf": "BA",
-  "ibge": "2906709"
+  "ibge": "2906709",
+  "latitude": "-15.5053282",
+  "longitude": "-41.23805"
 }

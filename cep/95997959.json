@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapuca",
   "uf": "RS",
-  "ibge": "4310579"
+  "ibge": "4310579",
+  "latitude": "-28.7794375",
+  "longitude": "-52.1716055"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-22.7862985",
+  "longitude": "-43.3053106"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "66613990",
   "logradouro": "Avenida Júlio César",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-1.4089358",
+  "longitude": "-48.4643818"
 }

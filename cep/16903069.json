@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "latitude": "-20.8949297",
+  "longitude": "-51.4005212"
 }

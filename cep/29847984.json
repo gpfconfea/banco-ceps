@@ -1,9 +1,11 @@
 {
   "cep": "29847984",
   "logradouro": "Rua São Miguel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José do Sobradinho",
   "localidade": "Boa Esperança",
   "uf": "ES",
-  "ibge": "3201001"
+  "ibge": "3201001",
+  "latitude": "-18.4319484",
+  "longitude": "-40.3878704"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bairro do Cambará",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5201638",
+  "longitude": "-47.1192711"
 }

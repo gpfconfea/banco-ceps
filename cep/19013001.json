@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Daria",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1346552",
+  "longitude": "-51.3892641"
 }

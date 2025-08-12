@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Octávio Cilurzo",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5537062",
+  "longitude": "-47.3619236"
 }

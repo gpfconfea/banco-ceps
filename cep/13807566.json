@@ -5,5 +5,7 @@
   "bairro": "Jardim Copacabana",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.3986253",
+  "longitude": "-46.972126"
 }

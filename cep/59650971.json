@@ -1,9 +1,11 @@
 {
   "cep": "59650971",
   "logradouro": "Sítio Nova Esperança",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sítio Nova Esperança",
   "localidade": "Açu",
   "uf": "RN",
-  "ibge": "2400208"
+  "ibge": "2400208",
+  "latitude": "-5.2706592",
+  "longitude": "-36.3575826"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58920971",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Triunfo",
   "uf": "PB",
-  "ibge": "2516805"
+  "ibge": "2516805",
+  "latitude": "-10.6302047",
+  "longitude": "-51.5911439"
 }

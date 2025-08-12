@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Felisburgo",
   "uf": "MG",
-  "ibge": "3125606"
+  "ibge": "3125606",
+  "latitude": "-16.6418607",
+  "longitude": "-40.7603642"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Izabel",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.4446309",
+  "longitude": "-49.0566014"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Pompéia",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.140005",
+  "longitude": "-47.8184039"
 }

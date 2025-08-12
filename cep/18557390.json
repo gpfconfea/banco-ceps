@@ -5,5 +5,7 @@
   "bairro": "Residencial Vitiello",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2757178",
+  "longitude": "-47.6828441"
 }

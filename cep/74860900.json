@@ -1,9 +1,11 @@
 {
   "cep": "74860900",
   "logradouro": "Avenida Professor Alfredo de Castro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Acalanto",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7294067",
+  "longitude": "-49.2290091"
 }

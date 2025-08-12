@@ -5,5 +5,7 @@
   "bairro": "Curitibanos",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-23.0906859",
+  "longitude": "-46.642185"
 }

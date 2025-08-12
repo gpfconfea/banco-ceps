@@ -1,9 +1,11 @@
 {
   "cep": "68210970",
   "logradouro": "Rua Quinze de Agosto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Curuá",
   "uf": "PA",
-  "ibge": "1502855"
+  "ibge": "1502855",
+  "latitude": "-1.8943087",
+  "longitude": "-55.1138643"
 }

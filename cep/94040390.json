@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.9527153",
+  "longitude": "-51.0175421"
 }

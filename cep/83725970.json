@@ -1,9 +1,11 @@
 {
   "cep": "83725970",
   "logradouro": "Rua Manoel Gonçalves Ferreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guajuvira",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "latitude": "-25.5996537",
+  "longitude": "-49.5087019"
 }

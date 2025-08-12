@@ -1,9 +1,11 @@
 {
   "cep": "85865991",
   "logradouro": "Rua Sílvio Romero",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.5035214",
+  "longitude": "-54.5923597"
 }

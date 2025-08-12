@@ -5,5 +5,7 @@
   "bairro": "Setor Universitário",
   "localidade": "Goianésia",
   "uf": "GO",
-  "ibge": "5208608"
+  "ibge": "5208608",
+  "latitude": "-15.3115041",
+  "longitude": "-49.6229159"
 }

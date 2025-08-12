@@ -5,5 +5,7 @@
   "bairro": "Vila do Caic",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.5648028",
+  "longitude": "-48.561145"
 }

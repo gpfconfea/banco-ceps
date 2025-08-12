@@ -5,5 +5,7 @@
   "bairro": "Vila Teixeira",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.4441303",
+  "longitude": "-45.9526728"
 }

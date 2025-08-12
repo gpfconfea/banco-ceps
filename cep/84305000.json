@@ -5,5 +5,7 @@
   "bairro": "Alto do Amparo",
   "localidade": "Tibagi",
   "uf": "PR",
-  "ibge": "4127502"
+  "ibge": "4127502",
+  "latitude": "-24.7416689",
+  "longitude": "-50.5404834"
 }

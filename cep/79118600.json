@@ -5,5 +5,7 @@
   "bairro": "Bairro Seminário",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-22.8913933",
+  "longitude": "-43.5757424"
 }

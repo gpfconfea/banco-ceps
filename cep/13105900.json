@@ -1,9 +1,11 @@
 {
   "cep": "13105900",
   "logradouro": "Rua Engenheiro Heitor de Castro Aguiar",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Loteamento Parque das Hortências (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8912133",
+  "longitude": "-46.9745749"
 }

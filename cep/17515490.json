@@ -5,5 +5,7 @@
   "bairro": "Residencial de Recreio Maria Izabel",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2134855",
+  "longitude": "-49.9195174"
 }

@@ -5,5 +5,7 @@
   "bairro": "Marcianópolis",
   "localidade": "Goiatuba",
   "uf": "GO",
-  "ibge": "5209101"
+  "ibge": "5209101",
+  "latitude": "-17.9643995",
+  "longitude": "-50.0066213"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Colatina",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-19.5760206",
+  "longitude": "-40.1865417"
 }

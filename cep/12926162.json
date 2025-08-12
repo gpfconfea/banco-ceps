@@ -5,5 +5,7 @@
   "bairro": "Vila São Caetano",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.9243764",
+  "longitude": "-46.5412816"
 }

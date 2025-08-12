@@ -1,9 +1,11 @@
 {
   "cep": "42709900",
   "logradouro": "Rua Ana C B Dias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Buraquinho",
   "localidade": "Lauro de Freitas",
   "uf": "BA",
-  "ibge": "2919207"
+  "ibge": "2919207",
+  "latitude": "-12.8784929",
+  "longitude": "-38.2892448"
 }

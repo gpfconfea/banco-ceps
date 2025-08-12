@@ -1,9 +1,11 @@
 {
   "cep": "55655959",
   "logradouro": "Rua João de Moura Borba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cumaru",
   "uf": "PE",
-  "ibge": "2604908"
+  "ibge": "2604908",
+  "latitude": "-8.007482",
+  "longitude": "-35.7001196"
 }
