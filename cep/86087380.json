@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Alicante",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2815041",
+  "longitude": "-51.1492134"
 }

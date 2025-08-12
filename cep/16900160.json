@@ -5,5 +5,7 @@
   "bairro": "Parque Morumbi",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "latitude": "-22.1525858",
+  "longitude": "-53.7668403"
 }

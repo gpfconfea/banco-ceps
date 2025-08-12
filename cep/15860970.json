@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibirá",
   "uf": "SP",
-  "ibge": "3519402"
+  "ibge": "3519402",
+  "latitude": "-22.3247808",
+  "longitude": "-49.0922906"
 }

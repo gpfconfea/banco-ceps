@@ -5,5 +5,7 @@
   "bairro": "Residencial Portal de Piza",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3556893",
+  "longitude": "-51.1299236"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "69445959",
   "logradouro": "Rua Alvaro Maia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Anamã",
   "uf": "AM",
-  "ibge": "1300086"
+  "ibge": "1300086",
+  "latitude": "-3.576338",
+  "longitude": "-61.4061267"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.7540324",
+  "longitude": "-50.3918142"
 }

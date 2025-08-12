@@ -1,9 +1,11 @@
 {
   "cep": "62102974",
   "logradouro": "Rua Napoleão Pontes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bonfim",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "latitude": "-3.7729873",
+  "longitude": "-40.3981519"
 }

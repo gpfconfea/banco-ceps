@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Flora Rica",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.9019903",
+  "longitude": "-48.4343119"
 }

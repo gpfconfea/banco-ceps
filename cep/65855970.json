@@ -1,9 +1,11 @@
 {
   "cep": "65855970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibipira",
   "localidade": "Mirador",
   "uf": "MA",
-  "ibge": "2106706"
+  "ibge": "2106706",
+  "latitude": "18.8868366",
+  "longitude": "-96.969803"
 }

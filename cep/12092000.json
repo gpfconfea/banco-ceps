@@ -5,5 +5,7 @@
   "bairro": "São Gonçalo",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0506518",
+  "longitude": "-45.579463"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Barueri",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5081178",
+  "longitude": "-46.8924157"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "46766971",
   "logradouro": "Avenida Ipiranga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Inúbia",
   "localidade": "Piatã",
   "uf": "BA",
-  "ibge": "2924306"
+  "ibge": "2924306",
+  "latitude": "-13.1060447",
+  "longitude": "-42.0103142"
 }

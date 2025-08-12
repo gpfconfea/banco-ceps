@@ -6,5 +6,7 @@
   "bairro": "Parque Industrial",
   "localidade": "Piracanjuba",
   "uf": "GO",
-  "ibge": "5217104"
+  "ibge": "5217104",
+  "latitude": "-17.2098845",
+  "longitude": "-48.8498833"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Fátima",
   "localidade": "Bela Vista",
   "uf": "MS",
-  "ibge": "5002100"
+  "ibge": "5002100",
+  "latitude": "-22.0851624",
+  "longitude": "-56.5738596"
 }

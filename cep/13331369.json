@@ -5,5 +5,7 @@
   "bairro": "Jardim Maison Du Parc",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0730076",
+  "longitude": "-47.2168757"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29720971",
   "logradouro": "Rodovia Dario Salvador",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Córrego Moacir",
   "localidade": "Governador Lindenberg",
   "uf": "ES",
-  "ibge": "3202256"
+  "ibge": "3202256",
+  "latitude": "-19.2263173",
+  "longitude": "-40.5469766"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65630908",
   "logradouro": "Avenida Paulo Ramos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "latitude": "-5.0979051",
+  "longitude": "-42.8246509"
 }

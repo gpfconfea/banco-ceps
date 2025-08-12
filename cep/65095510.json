@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5376372",
+  "longitude": "-44.3257263"
 }

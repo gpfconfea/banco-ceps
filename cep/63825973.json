@@ -1,9 +1,11 @@
 {
   "cep": "63825973",
   "logradouro": "Vila São Miguel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Miguel",
   "localidade": "Quixeramobim",
   "uf": "CE",
-  "ibge": "2311405"
+  "ibge": "2311405",
+  "latitude": "-5.342763",
+  "longitude": "-39.5216404"
 }

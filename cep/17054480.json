@@ -5,5 +5,7 @@
   "bairro": "Vila Razuk",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3404515",
+  "longitude": "-49.0913576"
 }

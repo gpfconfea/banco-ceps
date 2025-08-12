@@ -1,9 +1,11 @@
 {
   "cep": "29916970",
   "logradouro": "Avenida Natalino Pandolfi",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Desengano",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.3194243",
+  "longitude": "-40.0657468"
 }

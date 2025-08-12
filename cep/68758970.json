@@ -1,9 +1,11 @@
 {
   "cep": "68758970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ponta de Ramos",
   "localidade": "Curuçá",
   "uf": "PA",
-  "ibge": "1502905"
+  "ibge": "1502905",
+  "latitude": "-0.7481313",
+  "longitude": "-47.8133345"
 }

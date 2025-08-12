@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-15.6861137",
+  "longitude": "-43.0965844"
 }

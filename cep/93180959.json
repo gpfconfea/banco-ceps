@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Portão",
   "uf": "RS",
-  "ibge": "4314803"
+  "ibge": "4314803",
+  "latitude": "-29.6909384",
+  "longitude": "-51.2339823"
 }

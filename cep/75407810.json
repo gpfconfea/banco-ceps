@@ -5,5 +5,7 @@
   "bairro": "Setor Amélio Alves",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.3729423",
+  "longitude": "-49.4791053"
 }

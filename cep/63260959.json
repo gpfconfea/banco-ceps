@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brejo Santo",
   "uf": "CE",
-  "ibge": "2302503"
+  "ibge": "2302503",
+  "latitude": "-7.4931337",
+  "longitude": "-38.9812759"
 }

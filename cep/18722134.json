@@ -6,5 +6,7 @@
   "bairro": "CDHU Paranapanema A",
   "localidade": "Paranapanema",
   "uf": "SP",
-  "ibge": "3535804"
+  "ibge": "3535804",
+  "latitude": "-23.3736154",
+  "longitude": "-48.7262678"
 }

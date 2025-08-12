@@ -5,5 +5,7 @@
   "bairro": "São Gonçalo",
   "localidade": "Pelotas",
   "uf": "RS",
-  "ibge": "4314407"
+  "ibge": "4314407",
+  "latitude": "-31.7703995",
+  "longitude": "-52.319327"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bananal",
   "uf": "SP",
-  "ibge": "3504909"
+  "ibge": "3504909",
+  "latitude": "-22.6779206",
+  "longitude": "-44.316154"
 }

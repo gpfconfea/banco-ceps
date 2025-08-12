@@ -5,5 +5,7 @@
   "bairro": "Chácara Meyer",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7114819",
+  "longitude": "-46.7082275"
 }

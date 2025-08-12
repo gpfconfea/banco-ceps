@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marilac",
   "uf": "MG",
-  "ibge": "3140100"
+  "ibge": "3140100",
+  "latitude": "-18.5075",
+  "longitude": "-42.080278"
 }

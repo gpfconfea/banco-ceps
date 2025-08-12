@@ -5,5 +5,7 @@
   "bairro": "Residencial Eco Village",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "latitude": "-20.8598411",
+  "longitude": "-49.4095291"
 }

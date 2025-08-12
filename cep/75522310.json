@@ -5,5 +5,7 @@
   "bairro": "Nova Aurora",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "latitude": "-17.7402028",
+  "longitude": "-48.636947"
 }

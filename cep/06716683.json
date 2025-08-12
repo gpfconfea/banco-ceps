@@ -5,5 +5,7 @@
   "bairro": "Jardim Lina",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.604474",
+  "longitude": "-46.9071246"
 }

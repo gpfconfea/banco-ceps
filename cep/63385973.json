@@ -1,9 +1,11 @@
 {
   "cep": "63385973",
   "logradouro": "Vila Santo Antônio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio",
   "localidade": "Barro",
   "uf": "CE",
-  "ibge": "2302008"
+  "ibge": "2302008",
+  "latitude": "-25.4711377",
+  "longitude": "-48.8304127"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Helena",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.6695125",
+  "longitude": "-47.6893039"
 }

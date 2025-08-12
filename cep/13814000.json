@@ -5,5 +5,7 @@
   "bairro": "Sobradinho",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.472723",
+  "longitude": "-47.151971"
 }

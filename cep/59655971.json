@@ -1,9 +1,11 @@
 {
   "cep": "59655971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Cristovão",
   "localidade": "Areia Branca",
   "uf": "RN",
-  "ibge": "2401107"
+  "ibge": "2401107",
+  "latitude": "-10.7862582",
+  "longitude": "-37.377568"
 }

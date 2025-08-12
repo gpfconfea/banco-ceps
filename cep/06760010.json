@@ -5,5 +5,7 @@
   "bairro": "Jardim Pedro Gonçalves",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "latitude": "-23.6118012",
+  "longitude": "-46.7744775"
 }

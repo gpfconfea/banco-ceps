@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulicéia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9199729",
+  "longitude": "-47.1040662"
 }

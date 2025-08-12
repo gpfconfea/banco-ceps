@@ -5,5 +5,7 @@
   "bairro": "Jardim Aurélia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0145366",
+  "longitude": "-46.9784968"
 }

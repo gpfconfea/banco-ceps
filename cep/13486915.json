@@ -1,9 +1,11 @@
 {
   "cep": "13486915",
   "logradouro": "Rodovia Anhanguera Quilômetro 147",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bairro dos Pires",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.6117284",
+  "longitude": "-47.354855"
 }

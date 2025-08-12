@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Consolação",
   "uf": "MG",
-  "ibge": "3118502"
+  "ibge": "3118502",
+  "latitude": "-22.552367",
+  "longitude": "-45.921898"
 }

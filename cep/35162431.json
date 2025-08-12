@@ -5,5 +5,7 @@
   "bairro": "Córrego Novo",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "latitude": "-19.453841",
+  "longitude": "-42.5796708"
 }

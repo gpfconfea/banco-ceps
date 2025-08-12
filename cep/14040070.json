@@ -5,5 +5,7 @@
   "bairro": "Jardim Recreio",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.4475971",
+  "longitude": "-46.9922431"
 }

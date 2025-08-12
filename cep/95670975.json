@@ -1,9 +1,11 @@
 {
   "cep": "95670975",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serra Grande Italiana",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "latitude": "-15.6352963",
+  "longitude": "-56.0575446"
 }

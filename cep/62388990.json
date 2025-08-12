@@ -1,9 +1,11 @@
 {
   "cep": "62388990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Guaraciaba do Norte",
   "uf": "CE",
-  "ibge": "2305001"
+  "ibge": "2305001",
+  "latitude": "-4.3057867",
+  "longitude": "-40.8202202"
 }

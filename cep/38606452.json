@@ -5,5 +5,7 @@
   "bairro": "Vila Alvorada",
   "localidade": "Paracatu",
   "uf": "MG",
-  "ibge": "3147006"
+  "ibge": "3147006",
+  "latitude": "-17.2386087",
+  "longitude": "-46.8453493"
 }

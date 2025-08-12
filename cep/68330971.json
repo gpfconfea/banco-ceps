@@ -1,9 +1,11 @@
 {
   "cep": "68330971",
   "logradouro": "Rua Primeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Porto de Moz",
   "uf": "PA",
-  "ibge": "1505908"
+  "ibge": "1505908",
+  "latitude": "-1.7493335",
+  "longitude": "-52.2344342"
 }

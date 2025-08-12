@@ -5,5 +5,7 @@
   "bairro": "Pampulha",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-30.0336323",
+  "longitude": "-51.2279329"
 }

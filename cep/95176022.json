@@ -5,5 +5,7 @@
   "bairro": "São Roque",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-30.124086",
+  "longitude": "-51.088903"
 }
