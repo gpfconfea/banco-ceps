@@ -1,9 +1,11 @@
 {
   "cep": "64683970",
   "logradouro": "Rua Francisca Maria de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Francisco Macedo",
   "uf": "PI",
-  "ibge": "2204154"
+  "ibge": "2204154",
+  "latitude": "-7.3290879",
+  "longitude": "-40.7919657"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-20.325872",
+  "longitude": "-48.3182018"
 }

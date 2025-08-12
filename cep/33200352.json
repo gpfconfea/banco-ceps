@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vespasiano",
   "uf": "MG",
-  "ibge": "3171204"
+  "ibge": "3171204",
+  "latitude": "-19.6951947",
+  "longitude": "-43.919208"
 }

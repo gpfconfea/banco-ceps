@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial I",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-22.570743",
+  "longitude": "-48.818181"
 }

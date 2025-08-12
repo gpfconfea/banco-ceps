@@ -5,5 +5,7 @@
   "bairro": "São Braz",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "latitude": "-25.0362689",
+  "longitude": "-53.3677634"
 }

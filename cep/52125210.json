@@ -5,5 +5,7 @@
   "bairro": "Peixinhos",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-3.844415",
+  "longitude": "-32.4124655"
 }

@@ -5,5 +5,7 @@
   "bairro": "Luiza Queiroz",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-29.2079513",
+  "longitude": "-51.1901309"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "06950990",
   "logradouro": "Estrada das Laranjeiras, km 18 (Arm. Xavier) - Laranjeiras",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Juquitiba",
   "uf": "SP",
-  "ibge": "3526209"
+  "ibge": "3526209",
+  "latitude": "-23.8521372",
+  "longitude": "-47.0273635"
 }

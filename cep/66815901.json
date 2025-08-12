@@ -1,9 +1,11 @@
 {
   "cep": "66815901",
   "logradouro": "Estrada do Outeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Maracacuera (Icoaraci)",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-1.2947283",
+  "longitude": "-48.4544659"
 }

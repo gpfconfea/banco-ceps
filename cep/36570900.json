@@ -1,9 +1,11 @@
 {
   "cep": "36570900",
   "logradouro": "Avenida Peter Henry Rolfs",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campus Universitário",
   "localidade": "Viçosa",
   "uf": "MG",
-  "ibge": "3171303"
+  "ibge": "3171303",
+  "latitude": "-20.7699996",
+  "longitude": "-42.8580417"
 }

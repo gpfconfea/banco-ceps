@@ -5,5 +5,7 @@
   "bairro": "Bello",
   "localidade": "Caçador",
   "uf": "SC",
-  "ibge": "4203006"
+  "ibge": "4203006",
+  "latitude": "-26.7794942",
+  "longitude": "-51.0039113"
 }

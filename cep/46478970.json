@@ -1,9 +1,11 @@
 {
   "cep": "46478970",
   "logradouro": "Praça do Mercado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Riacho de Santana",
   "uf": "BA",
-  "ibge": "2926400"
+  "ibge": "2926400",
+  "latitude": "-13.6076484",
+  "longitude": "-42.9366195"
 }

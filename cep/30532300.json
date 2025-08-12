@@ -5,5 +5,7 @@
   "bairro": "Jardinópolis",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9424018",
+  "longitude": "-44.0038097"
 }

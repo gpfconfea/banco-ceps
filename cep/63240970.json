@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Abaiara",
   "uf": "CE",
-  "ibge": "2300101"
+  "ibge": "2300101",
+  "latitude": "-7.3617385",
+  "longitude": "-39.0493046"
 }

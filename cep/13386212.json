@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim dos Ipês",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.8136592",
+  "longitude": "-47.3051686"
 }

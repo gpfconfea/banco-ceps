@@ -5,5 +5,7 @@
   "bairro": "Figueira do Oeste",
   "localidade": "Engenheiro Beltrão",
   "uf": "PR",
-  "ibge": "4107504"
+  "ibge": "4107504",
+  "latitude": "-23.7783848",
+  "longitude": "-52.3509872"
 }

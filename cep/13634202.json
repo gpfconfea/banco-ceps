@@ -5,5 +5,7 @@
   "bairro": "Vila Guilhermina",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-22.0023543",
+  "longitude": "-47.439784"
 }

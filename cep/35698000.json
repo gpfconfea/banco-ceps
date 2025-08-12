@@ -5,5 +5,7 @@
   "bairro": "Antunes",
   "localidade": "Igaratinga",
   "uf": "MG",
-  "ibge": "3130200"
+  "ibge": "3130200",
+  "latitude": "-19.9046549",
+  "longitude": "-44.7015454"
 }

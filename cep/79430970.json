@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bandeirantes",
   "uf": "MS",
-  "ibge": "5001508"
+  "ibge": "5001508",
+  "latitude": "-20.4388172",
+  "longitude": "-54.5986695"
 }

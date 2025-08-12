@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.932726",
+  "longitude": "-44.0142145"
 }

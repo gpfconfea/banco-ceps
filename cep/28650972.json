@@ -1,9 +1,11 @@
 {
   "cep": "28650972",
   "logradouro": "Rodovia RJ-148 Quilômetro 19",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vargem Grande",
   "localidade": "Duas Barras",
   "uf": "RJ",
-  "ibge": "3301603"
+  "ibge": "3301603",
+  "latitude": "-22.1051733",
+  "longitude": "-42.600747"
 }

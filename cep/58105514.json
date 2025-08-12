@@ -5,5 +5,7 @@
   "bairro": "Jacaré",
   "localidade": "Cabedelo",
   "uf": "PB",
-  "ibge": "2503209"
+  "ibge": "2503209",
+  "latitude": "-7.0270855",
+  "longitude": "-34.847411"
 }

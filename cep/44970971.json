@@ -1,9 +1,11 @@
 {
   "cep": "44970971",
   "logradouro": "Rua da Vereda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mirorós",
   "localidade": "Ibipeba",
   "uf": "BA",
-  "ibge": "2912400"
+  "ibge": "2912400",
+  "latitude": "-11.4364785",
+  "longitude": "-42.3138873"
 }

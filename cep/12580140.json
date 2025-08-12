@@ -6,5 +6,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Roseira",
   "uf": "SP",
-  "ibge": "3544301"
+  "ibge": "3544301",
+  "latitude": "-22.9046382",
+  "longitude": "-45.3165279"
 }

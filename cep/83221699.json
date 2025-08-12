@@ -5,5 +5,7 @@
   "bairro": "Vila Rute",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.5087473",
+  "longitude": "-48.5245007"
 }

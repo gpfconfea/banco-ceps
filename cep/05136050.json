@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Elias",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5061024",
+  "longitude": "-46.7477946"
 }

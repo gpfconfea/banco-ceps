@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Antônio da Patrulha",
   "uf": "RS",
-  "ibge": "4317608"
+  "ibge": "4317608",
+  "latitude": "-29.8327625",
+  "longitude": "-50.5179877"
 }

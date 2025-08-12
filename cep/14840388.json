@@ -6,5 +6,7 @@
   "bairro": "Residencial Nova Rocca",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.3500325",
+  "longitude": "-48.2183424"
 }

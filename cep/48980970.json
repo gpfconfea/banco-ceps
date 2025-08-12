@@ -1,9 +1,11 @@
 {
   "cep": "48980970",
   "logradouro": "Praça da Feira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tijuaçú",
   "localidade": "Senhor do Bonfim",
   "uf": "BA",
-  "ibge": "2930105"
+  "ibge": "2930105",
+  "latitude": "-10.0965753",
+  "longitude": "-39.868495"
 }

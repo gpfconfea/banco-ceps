@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Sapiranga",
   "uf": "RS",
-  "ibge": "4319901"
+  "ibge": "4319901",
+  "latitude": "-29.650539",
+  "longitude": "-51.0061301"
 }

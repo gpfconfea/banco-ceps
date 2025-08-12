@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Jesus",
   "uf": "SC",
-  "ibge": "4202537"
+  "ibge": "4202537",
+  "latitude": "-26.7369377",
+  "longitude": "-52.3970377"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Flórida",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7768548",
+  "longitude": "-47.2895439"
 }

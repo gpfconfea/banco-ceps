@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Vitória Brasil",
   "uf": "SP",
-  "ibge": "3556958"
+  "ibge": "3556958",
+  "latitude": "-22.8072585",
+  "longitude": "-47.220756"
 }

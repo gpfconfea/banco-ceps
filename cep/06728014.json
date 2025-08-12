@@ -5,5 +5,7 @@
   "bairro": "Projeto Jardim",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.6978071",
+  "longitude": "-47.005426"
 }

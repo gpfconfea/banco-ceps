@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Areia",
   "uf": "PB",
-  "ibge": "2501104"
+  "ibge": "2501104",
+  "latitude": "-6.9677221",
+  "longitude": "-35.7061391"
 }

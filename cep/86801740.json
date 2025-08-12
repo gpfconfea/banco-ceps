@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Franca",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5537799",
+  "longitude": "-51.4814168"
 }

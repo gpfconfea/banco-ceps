@@ -1,9 +1,11 @@
 {
   "cep": "12332900",
   "logradouro": "Rodovia Dom Pedro I",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Chácaras Reunidas Igarapés",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.308761",
+  "longitude": "-46.0448516"
 }

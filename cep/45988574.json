@@ -5,5 +5,7 @@
   "bairro": "Caminho do Mar",
   "localidade": "Teixeira de Freitas",
   "uf": "BA",
-  "ibge": "2931350"
+  "ibge": "2931350",
+  "latitude": "-17.525325",
+  "longitude": "-39.6989502"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "77744980",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Tupiratins",
   "uf": "TO",
-  "ibge": "1721307"
+  "ibge": "1721307",
+  "latitude": "-8.3997525",
+  "longitude": "-48.1291444"
 }

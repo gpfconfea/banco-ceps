@@ -5,5 +5,7 @@
   "bairro": "Ilha da Figueira",
   "localidade": "Jaraguá do Sul",
   "uf": "SC",
-  "ibge": "4208906"
+  "ibge": "4208906",
+  "latitude": "-26.4903966",
+  "longitude": "-49.065274"
 }

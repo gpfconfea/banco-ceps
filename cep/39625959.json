@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaobim",
   "uf": "MG",
-  "ibge": "3133303"
+  "ibge": "3133303",
+  "latitude": "-16.563006",
+  "longitude": "-41.4990632"
 }

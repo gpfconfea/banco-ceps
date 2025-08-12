@@ -1,9 +1,11 @@
 {
   "cep": "74420900",
   "logradouro": "Avenida Macambira Quadra 23",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cidade Jardim",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7208117",
+  "longitude": "-49.3249288"
 }

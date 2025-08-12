@@ -5,5 +5,7 @@
   "bairro": "Vila Selinger",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6761248",
+  "longitude": "-49.2689265"
 }

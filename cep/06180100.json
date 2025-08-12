@@ -5,5 +5,7 @@
   "bairro": "Pestana",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.5405076",
+  "longitude": "-46.802698"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65725959",
   "logradouro": "Praça Saturnino Belo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pedreiras",
   "uf": "MA",
-  "ibge": "2108207"
+  "ibge": "2108207",
+  "latitude": "-4.569729",
+  "longitude": "-44.6021676"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "95040990",
   "logradouro": "Rua Luiz Covolan",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "latitude": "-29.160406",
+  "longitude": "-51.2231203"
 }

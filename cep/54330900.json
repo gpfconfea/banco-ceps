@@ -1,9 +1,11 @@
 {
   "cep": "54330900",
   "logradouro": "Avenida Barreto de Menezes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Prazeres",
   "localidade": "Jaboatão dos Guararapes",
   "uf": "PE",
-  "ibge": "2607901"
+  "ibge": "2607901",
+  "latitude": "-8.1606981",
+  "longitude": "-34.9273591"
 }

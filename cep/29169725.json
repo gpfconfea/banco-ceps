@@ -5,5 +5,7 @@
   "bairro": "Cidade Pomar",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-22.5531041",
+  "longitude": "-43.1842731"
 }

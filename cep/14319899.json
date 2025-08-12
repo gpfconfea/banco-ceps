@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Batatais",
   "localidade": "Batatais",
   "uf": "SP",
-  "ibge": "3505906"
+  "ibge": "3505906",
+  "latitude": "-20.7497208",
+  "longitude": "-47.5704402"
 }

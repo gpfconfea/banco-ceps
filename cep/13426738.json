@@ -5,5 +5,7 @@
   "bairro": "Irmãos Camolesi",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.7555732",
+  "longitude": "-47.618492"
 }

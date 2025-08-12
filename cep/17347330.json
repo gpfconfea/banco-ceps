@@ -6,5 +6,7 @@
   "bairro": "Vila Boca Rica",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.4886794",
+  "longitude": "-48.5693234"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jequitaí",
   "uf": "MG",
-  "ibge": "3135605"
+  "ibge": "3135605",
+  "latitude": "-17.2347681",
+  "longitude": "-44.4383602"
 }

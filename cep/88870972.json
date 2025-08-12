@@ -1,9 +1,11 @@
 {
   "cep": "88870972",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barracão",
   "localidade": "Orleans",
   "uf": "SC",
-  "ibge": "4211702"
+  "ibge": "4211702",
+  "latitude": "-28.3854624",
+  "longitude": "-49.196847"
 }

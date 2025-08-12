@@ -5,5 +5,7 @@
   "bairro": "Parque Botujuru",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "latitude": "-23.5351395",
+  "longitude": "-46.6526686"
 }

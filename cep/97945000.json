@@ -5,5 +5,7 @@
   "bairro": "Santa Catarina",
   "localidade": "Salvador das Missões",
   "uf": "RS",
-  "ibge": "4316477"
+  "ibge": "4316477",
+  "latitude": "-28.0555808",
+  "longitude": "-54.8372248"
 }

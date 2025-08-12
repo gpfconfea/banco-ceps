@@ -1,9 +1,11 @@
 {
   "cep": "44235970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Inhata",
   "localidade": "Amélia Rodrigues",
   "uf": "BA",
-  "ibge": "2901106"
+  "ibge": "2901106",
+  "latitude": "-12.4016641",
+  "longitude": "-38.6991333"
 }

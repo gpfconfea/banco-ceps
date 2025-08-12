@@ -5,5 +5,7 @@
   "bairro": "Loteamento Alto da Boa Vista",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3971044",
+  "longitude": "-51.9543671"
 }

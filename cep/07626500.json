@@ -5,5 +5,7 @@
   "bairro": "Luiz Fagundes",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.3422994",
+  "longitude": "-46.563478"
 }

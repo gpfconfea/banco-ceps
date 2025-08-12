@@ -1,9 +1,11 @@
 {
   "cep": "69350970",
   "logradouro": "Avenida 1 de Julho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Alto Alegre",
   "uf": "RR",
-  "ibge": "1400050"
+  "ibge": "1400050",
+  "latitude": "-3.4976723",
+  "longitude": "-39.5783682"
 }
