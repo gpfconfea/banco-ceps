@@ -5,5 +5,7 @@
   "bairro": "Santa Rita de Cássia",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.7412785",
+  "longitude": "-43.3437238"
 }

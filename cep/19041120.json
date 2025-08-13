@@ -5,5 +5,7 @@
   "bairro": "Jardim Itatiaia",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1402479",
+  "longitude": "-51.3770215"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Cambará",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4433414",
+  "longitude": "-47.3711549"
 }

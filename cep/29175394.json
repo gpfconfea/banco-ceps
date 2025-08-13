@@ -5,5 +5,7 @@
   "bairro": "Residencial Jacaraípe",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-7.9805067",
+  "longitude": "-38.3074537"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Cruzeiro do Sul",
   "localidade": "Pongaí",
   "uf": "SP",
-  "ibge": "3540101"
+  "ibge": "3540101",
+  "latitude": "-21.7435333",
+  "longitude": "-49.3585973"
 }

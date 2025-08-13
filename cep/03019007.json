@@ -5,5 +5,7 @@
   "bairro": "Brás",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.5941053",
+  "longitude": "-47.8879586"
 }

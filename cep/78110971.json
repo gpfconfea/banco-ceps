@@ -1,9 +1,11 @@
 {
   "cep": "78110971",
   "logradouro": "Rua Miguel Leite",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro-Sul",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6496127",
+  "longitude": "-56.1385868"
 }

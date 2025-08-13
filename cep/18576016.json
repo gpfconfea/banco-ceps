@@ -6,5 +6,7 @@
   "bairro": "Vila Pastina",
   "localidade": "Conchas",
   "uf": "SP",
-  "ibge": "3512308"
+  "ibge": "3512308",
+  "latitude": "-23.0152863",
+  "longitude": "-48.0144993"
 }

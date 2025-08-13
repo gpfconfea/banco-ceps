@@ -5,5 +5,7 @@
   "bairro": "Nova Altamira",
   "localidade": "Faxinal",
   "uf": "PR",
-  "ibge": "4107603"
+  "ibge": "4107603",
+  "latitude": "-23.8916889",
+  "longitude": "-51.3573953"
 }

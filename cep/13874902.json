@@ -1,9 +1,11 @@
 {
   "cep": "13874902",
   "logradouro": "Avenida Doutor Oscar Pirajá Martins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Santa Edwirges",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "latitude": "-21.9756904",
+  "longitude": "-46.7817955"
 }

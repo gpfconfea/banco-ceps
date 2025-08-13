@@ -5,5 +5,7 @@
   "bairro": "Jardim Progresso",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.3616636",
+  "longitude": "-48.2202453"
 }

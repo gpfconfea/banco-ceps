@@ -6,5 +6,7 @@
   "bairro": "Santa Maria",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "latitude": "-28.2652075",
+  "longitude": "-52.3816542"
 }

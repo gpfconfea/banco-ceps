@@ -5,5 +5,7 @@
   "bairro": "Vila do Café",
   "localidade": "Encruzilhada",
   "uf": "BA",
-  "ibge": "2910404"
+  "ibge": "2910404",
+  "latitude": "-15.6277899",
+  "longitude": "-40.7155917"
 }

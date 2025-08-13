@@ -5,5 +5,7 @@
   "bairro": "Nova Conquista",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-29.456922",
+  "longitude": "-50.5847533"
 }

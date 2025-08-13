@@ -5,5 +5,7 @@
   "bairro": "Praia do Jardim",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "latitude": "-23.0025038",
+  "longitude": "-44.3005596"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "53010904",
   "logradouro": "Avenida Sigismundo Gonçalves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Varadouro",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-8.0199219",
+  "longitude": "-34.8505839"
 }

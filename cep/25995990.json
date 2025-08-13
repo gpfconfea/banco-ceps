@@ -1,9 +1,11 @@
 {
   "cep": "25995990",
   "logradouro": "Estrada Teresópolis-Friburgo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "latitude": "-22.1952333",
+  "longitude": "-42.727452"
 }

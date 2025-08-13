@@ -5,5 +5,7 @@
   "bairro": "Jardim São Jorge",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2767683",
+  "longitude": "-47.2794748"
 }

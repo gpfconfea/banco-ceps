@@ -1,9 +1,11 @@
 {
   "cep": "78233972",
   "logradouro": "Rodovia BR-070",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Cáceres",
   "localidade": "Cáceres",
   "uf": "MT",
-  "ibge": "5102504"
+  "ibge": "5102504",
+  "latitude": "-16.0791892",
+  "longitude": "-57.7003988"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78140990",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6784814",
+  "longitude": "-56.0979457"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Aguiar",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5330851",
+  "longitude": "-47.128278"
 }

@@ -5,5 +5,7 @@
   "bairro": "dos Mendes",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5457743",
+  "longitude": "-47.1034472"
 }

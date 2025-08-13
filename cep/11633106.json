@@ -5,5 +5,7 @@
   "bairro": "Perequê",
   "localidade": "Ilhabela",
   "uf": "SP",
-  "ibge": "3520400"
+  "ibge": "3520400",
+  "latitude": "-23.8114473",
+  "longitude": "-45.3615566"
 }

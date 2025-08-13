@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Rosa",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9721304",
+  "longitude": "-47.0007934"
 }

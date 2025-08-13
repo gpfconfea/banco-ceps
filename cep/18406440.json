@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-23.9948351",
+  "longitude": "-48.8912614"
 }

@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Nossa Senhora Aparecida",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.986225",
+  "longitude": "-47.1331473"
 }

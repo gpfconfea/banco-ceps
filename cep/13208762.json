@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Maria",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1900864",
+  "longitude": "-46.8989477"
 }

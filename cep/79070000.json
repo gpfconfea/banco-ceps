@@ -5,5 +5,7 @@
   "bairro": "Jardim Colonial",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.5538917",
+  "longitude": "-54.5913125"
 }

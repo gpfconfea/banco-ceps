@@ -5,5 +5,7 @@
   "bairro": "Vila Terezinha",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "latitude": "-23.5187731",
+  "longitude": "-46.8518785"
 }

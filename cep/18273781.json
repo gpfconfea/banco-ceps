@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial São Marcos",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3780247",
+  "longitude": "-47.7901377"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bálsamo",
   "uf": "SP",
-  "ibge": "3504800"
+  "ibge": "3504800",
+  "latitude": "-20.7354818",
+  "longitude": "-49.5829568"
 }

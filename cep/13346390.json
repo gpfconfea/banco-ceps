@@ -5,5 +5,7 @@
   "bairro": "Vila Pires da Cunha",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.1176966",
+  "longitude": "-47.230332"
 }

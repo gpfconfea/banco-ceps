@@ -5,5 +5,7 @@
   "bairro": "Jardim Esperança",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "latitude": "-22.5177096",
+  "longitude": "-41.9284476"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Geraldo",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "latitude": "-19.585488",
+  "longitude": "-46.951699"
 }

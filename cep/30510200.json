@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Gameleira II",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9399781",
+  "longitude": "-43.9918795"
 }

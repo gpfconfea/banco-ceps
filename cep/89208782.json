@@ -5,5 +5,7 @@
   "bairro": "Petrópolis",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-26.3479911",
+  "longitude": "-48.8278285"
 }

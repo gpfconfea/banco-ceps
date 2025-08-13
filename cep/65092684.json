@@ -5,5 +5,7 @@
   "bairro": "Pedrinhas",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-23.7006167",
+  "longitude": "-46.7469406"
 }

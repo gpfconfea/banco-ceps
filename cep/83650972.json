@@ -5,5 +5,7 @@
   "bairro": "Jardim Serrinha",
   "localidade": "Balsa Nova",
   "uf": "PR",
-  "ibge": "4102307"
+  "ibge": "4102307",
+  "latitude": "-25.4527294",
+  "longitude": "-49.6058881"
 }

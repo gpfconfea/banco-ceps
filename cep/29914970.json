@@ -1,9 +1,11 @@
 {
   "cep": "29914970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Regência",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "41.3618318",
+  "longitude": "-7.6545367"
 }

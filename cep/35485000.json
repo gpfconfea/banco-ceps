@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Manso",
   "uf": "MG",
-  "ibge": "3155306"
+  "ibge": "3155306",
+  "latitude": "-20.265079",
+  "longitude": "-44.3090284"
 }

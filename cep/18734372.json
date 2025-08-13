@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Valdomiro Gabriel de Freitas",
   "localidade": "Itaí",
   "uf": "SP",
-  "ibge": "3521804"
+  "ibge": "3521804",
+  "latitude": "-23.4048024",
+  "longitude": "-49.1011271"
 }

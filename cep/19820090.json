@@ -6,5 +6,7 @@
   "bairro": "Vila dos Estados",
   "localidade": "Tarumã",
   "uf": "SP",
-  "ibge": "3553955"
+  "ibge": "3553955",
+  "latitude": "-23.1707872",
+  "longitude": "-46.865941"
 }

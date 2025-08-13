@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5553706",
+  "longitude": "-46.9457993"
 }

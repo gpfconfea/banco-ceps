@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Colina",
   "localidade": "Saltinho",
   "uf": "SP",
-  "ibge": "3545159"
+  "ibge": "3545159",
+  "latitude": "-22.8414128",
+  "longitude": "-47.6742865"
 }

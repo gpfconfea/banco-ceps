@@ -5,5 +5,7 @@
   "bairro": "Ecoville",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.508223",
+  "longitude": "-55.7398108"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Alves",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-23.3275036",
+  "longitude": "-46.7230546"
 }

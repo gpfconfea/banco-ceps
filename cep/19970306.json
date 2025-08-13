@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Holmo",
   "localidade": "Palmital",
   "uf": "SP",
-  "ibge": "3535309"
+  "ibge": "3535309",
+  "latitude": "-22.779213",
+  "longitude": "-50.2226775"
 }

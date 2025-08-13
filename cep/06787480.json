@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Isabela",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "latitude": "-23.6205354",
+  "longitude": "-46.79489"
 }

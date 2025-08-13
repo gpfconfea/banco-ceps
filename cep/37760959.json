@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carvalhópolis",
   "uf": "MG",
-  "ibge": "3114709"
+  "ibge": "3114709",
+  "latitude": "-21.7776315",
+  "longitude": "-45.8432235"
 }

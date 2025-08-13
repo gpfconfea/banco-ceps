@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Pomba",
   "uf": "MG",
-  "ibge": "3155801"
+  "ibge": "3155801",
+  "latitude": "-21.273199",
+  "longitude": "-43.179393"
 }

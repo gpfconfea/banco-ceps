@@ -1,9 +1,11 @@
 {
   "cep": "83670990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Balsa Nova",
   "uf": "PR",
-  "ibge": "4102307"
+  "ibge": "4102307",
+  "latitude": "-25.5831969",
+  "longitude": "-49.6324409"
 }

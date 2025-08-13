@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.5143869",
+  "longitude": "-46.4156163"
 }

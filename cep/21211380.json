@@ -5,5 +5,7 @@
   "bairro": "Penha Circular",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.502773",
+  "longitude": "-44.1133617"
 }
