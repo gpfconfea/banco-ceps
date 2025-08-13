@@ -5,5 +5,7 @@
   "bairro": "Campo Alegre",
   "localidade": "Santa Rosa da Serra",
   "uf": "MG",
-  "ibge": "3159704"
+  "ibge": "3159704",
+  "latitude": "-19.6176098",
+  "longitude": "-45.9921348"
 }

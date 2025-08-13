@@ -5,5 +5,7 @@
   "bairro": "Jardim Ibituruna",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-23.556143",
+  "longitude": "-46.4747989"
 }

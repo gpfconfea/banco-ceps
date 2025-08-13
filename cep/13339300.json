@@ -5,5 +5,7 @@
   "bairro": "Vila Furlan",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0928349",
+  "longitude": "-47.2032446"
 }

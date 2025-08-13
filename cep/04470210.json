@@ -5,5 +5,7 @@
   "bairro": "Jardim Apurá",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7106589",
+  "longitude": "-46.657375"
 }

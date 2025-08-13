@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.9450554",
+  "longitude": "-47.3635016"
 }

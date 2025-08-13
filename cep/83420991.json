@@ -1,9 +1,11 @@
 {
   "cep": "83420991",
   "logradouro": "Rua Nossa Senhora da Luz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Quatro Barras",
   "uf": "PR",
-  "ibge": "4120804"
+  "ibge": "4120804",
+  "latitude": "-25.3107887",
+  "longitude": "-49.0005058"
 }

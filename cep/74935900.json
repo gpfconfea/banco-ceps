@@ -1,9 +1,11 @@
 {
   "cep": "74935900",
   "logradouro": "Avenida Rio Verde",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cidade Vera Cruz",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7373241",
+  "longitude": "-49.267861"
 }

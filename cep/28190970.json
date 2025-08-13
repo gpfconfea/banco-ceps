@@ -1,9 +1,11 @@
 {
   "cep": "28190970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Outeiro",
   "localidade": "Cardoso Moreira",
   "uf": "RJ",
-  "ibge": "3301157"
+  "ibge": "3301157",
+  "latitude": "-21.4885812",
+  "longitude": "-41.6154747"
 }

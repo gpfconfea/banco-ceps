@@ -1,9 +1,11 @@
 {
   "cep": "39623971",
   "logradouro": "Rua da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tuparecê",
   "localidade": "Medina",
   "uf": "MG",
-  "ibge": "3141405"
+  "ibge": "3141405",
+  "latitude": "-16.4259811",
+  "longitude": "-41.6221648"
 }

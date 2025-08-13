@@ -1,9 +1,11 @@
 {
   "cep": "18053900",
   "logradouro": "Alameda dos Mallards",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vivendas do Lago",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4831034",
+  "longitude": "-47.5420349"
 }

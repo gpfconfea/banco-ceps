@@ -5,5 +5,7 @@
   "bairro": "Mestre Caetano",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "latitude": "-19.8649715",
+  "longitude": "-43.7545785"
 }

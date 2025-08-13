@@ -5,5 +5,7 @@
   "bairro": "Jardim Centro",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "latitude": "-18.588369",
+  "longitude": "-46.5049474"
 }

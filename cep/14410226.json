@@ -5,5 +5,7 @@
   "bairro": "Vale Belo",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.4808498",
+  "longitude": "-47.3585944"
 }

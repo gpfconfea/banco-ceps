@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial João Ometto",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5761338",
+  "longitude": "-47.3704016"
 }

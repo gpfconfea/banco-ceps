@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Iporá",
   "uf": "GO",
-  "ibge": "5210208"
+  "ibge": "5210208",
+  "latitude": "-16.439104",
+  "longitude": "-51.1184605"
 }

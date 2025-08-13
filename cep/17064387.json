@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Moradas do Buriti",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3001967",
+  "longitude": "-49.0929676"
 }

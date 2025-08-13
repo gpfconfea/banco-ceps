@@ -1,9 +1,11 @@
 {
   "cep": "58327970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cupissura",
   "localidade": "Caaporã",
   "uf": "PB",
-  "ibge": "2503001"
+  "ibge": "2503001",
+  "latitude": "-7.4640563",
+  "longitude": "-34.920704"
 }

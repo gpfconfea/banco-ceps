@@ -5,5 +5,7 @@
   "bairro": "Ipê Amarelo",
   "localidade": "Frutal",
   "uf": "MG",
-  "ibge": "3127107"
+  "ibge": "3127107",
+  "latitude": "-19.7535742",
+  "longitude": "-47.9827586"
 }

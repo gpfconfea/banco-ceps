@@ -1,9 +1,11 @@
 {
   "cep": "62233990",
   "logradouro": "Rua Doutor Brandão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "latitude": "-4.5987169",
+  "longitude": "-40.6334884"
 }

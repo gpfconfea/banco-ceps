@@ -1,9 +1,11 @@
 {
   "cep": "58033909",
   "logradouro": "Rua Desembargador Flodoaldo da Silveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Brisamar",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.1093732",
+  "longitude": "-34.8425758"
 }

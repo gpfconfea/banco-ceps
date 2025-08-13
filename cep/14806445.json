@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Maggiore",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.7566006",
+  "longitude": "-48.1548192"
 }

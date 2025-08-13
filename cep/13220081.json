@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Terezinha",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "latitude": "-23.2128339",
+  "longitude": "-46.8491142"
 }

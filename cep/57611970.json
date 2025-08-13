@@ -1,9 +1,11 @@
 {
   "cep": "57611970",
   "logradouro": "Distrito Lagoa do Caldeirão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa do Caldeirão",
   "localidade": "Palmeira dos Índios",
   "uf": "AL",
-  "ibge": "2706307"
+  "ibge": "2706307",
+  "latitude": "-9.5081899",
+  "longitude": "-36.5520098"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "85265990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Manoel Ribas",
   "uf": "PR",
-  "ibge": "4114500"
+  "ibge": "4114500",
+  "latitude": "-24.5183962",
+  "longitude": "-51.6642987"
 }

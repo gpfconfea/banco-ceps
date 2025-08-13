@@ -1,9 +1,11 @@
 {
   "cep": "47165970",
   "logradouro": "Rua Santo Antônio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aroeiras",
   "localidade": "Mansidão",
   "uf": "BA",
-  "ibge": "2920452"
+  "ibge": "2920452",
+  "latitude": "-10.6451131",
+  "longitude": "-44.0875051"
 }

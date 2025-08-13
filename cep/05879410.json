@@ -5,5 +5,7 @@
   "bairro": "Chácara Santa Maria",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.687837",
+  "longitude": "-46.7944354"
 }

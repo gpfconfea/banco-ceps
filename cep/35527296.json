@@ -5,5 +5,7 @@
   "bairro": "Santa Teresa",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8826709",
+  "longitude": "-44.9949134"
 }

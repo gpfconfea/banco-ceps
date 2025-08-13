@@ -5,5 +5,7 @@
   "bairro": "Residencial Green Valley",
   "localidade": "Cerquilho",
   "uf": "SP",
-  "ibge": "3511508"
+  "ibge": "3511508",
+  "latitude": "-23.160616",
+  "longitude": "-47.7489481"
 }

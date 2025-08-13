@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-22.6616661",
+  "longitude": "-50.4079881"
 }

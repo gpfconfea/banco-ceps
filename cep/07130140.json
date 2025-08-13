@@ -5,5 +5,7 @@
   "bairro": "Vila Maricy",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.436764",
+  "longitude": "-46.5173176"
 }

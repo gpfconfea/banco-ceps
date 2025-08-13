@@ -1,9 +1,11 @@
 {
   "cep": "63153975",
   "logradouro": "Rua José Antônio de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barão de Aquiraz",
   "localidade": "Campos Sales",
   "uf": "CE",
-  "ibge": "2302701"
+  "ibge": "2302701",
+  "latitude": "-7.0720896",
+  "longitude": "-40.3818312"
 }

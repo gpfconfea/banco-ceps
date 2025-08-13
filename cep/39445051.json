@@ -5,5 +5,7 @@
   "bairro": "São Gonçalo",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-15.8130676",
+  "longitude": "-43.3049576"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Noemy",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.332395",
+  "longitude": "-49.0702833"
 }

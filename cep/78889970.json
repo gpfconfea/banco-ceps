@@ -1,9 +1,11 @@
 {
   "cep": "78889970",
   "logradouro": "Rua das Acácias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Entre Rios",
   "localidade": "Nova Ubiratã",
   "uf": "MT",
-  "ibge": "5106240"
+  "ibge": "5106240",
+  "latitude": "-12.4584302",
+  "longitude": "-54.3486342"
 }

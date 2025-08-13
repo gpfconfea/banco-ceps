@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Coronel Vivida",
   "uf": "PR",
-  "ibge": "4106506"
+  "ibge": "4106506",
+  "latitude": "-26.0082601",
+  "longitude": "-52.5689046"
 }

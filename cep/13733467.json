@@ -5,5 +5,7 @@
   "bairro": "Portal da Cidade",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4553765",
+  "longitude": "-46.9953581"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "88474970",
   "logradouro": "Praça Teófilo Schutz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Taquaras",
   "localidade": "Rancho Queimado",
   "uf": "SC",
-  "ibge": "4214300"
+  "ibge": "4214300",
+  "latitude": "-27.6410563",
+  "longitude": "-49.1092736"
 }

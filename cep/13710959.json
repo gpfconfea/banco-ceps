@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tambaú",
   "uf": "SP",
-  "ibge": "3553302"
+  "ibge": "3553302",
+  "latitude": "-21.7046612",
+  "longitude": "-47.2754116"
 }

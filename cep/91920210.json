@@ -5,5 +5,7 @@
   "bairro": "Cavalhada",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-17.4139766",
+  "longitude": "-66.1653224"
 }

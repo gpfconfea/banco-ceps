@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pauini",
   "uf": "AM",
-  "ibge": "1303502"
+  "ibge": "1303502",
+  "latitude": "-7.7128156",
+  "longitude": "-66.9942598"
 }

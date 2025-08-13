@@ -5,5 +5,7 @@
   "bairro": "Central",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0336461",
+  "longitude": "-51.0512581"
 }

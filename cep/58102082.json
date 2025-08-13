@@ -5,5 +5,7 @@
   "bairro": "Intermares",
   "localidade": "Cabedelo",
   "uf": "PB",
-  "ibge": "2503209"
+  "ibge": "2503209",
+  "latitude": "40.6400629",
+  "longitude": "22.9444191"
 }

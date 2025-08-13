@@ -1,9 +1,11 @@
 {
   "cep": "68020991",
   "logradouro": "Rodovia Doutor Everaldo de Sousa Martins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "latitude": "-2.4724216",
+  "longitude": "-54.7179047"
 }

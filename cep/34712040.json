@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "latitude": "-19.8895958",
+  "longitude": "-43.889251"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "12970971",
   "logradouro": "Rua Acre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Batatuba",
   "localidade": "Piracaia",
   "uf": "SP",
-  "ibge": "3538600"
+  "ibge": "3538600",
+  "latitude": "-23.0917366",
+  "longitude": "-46.4152952"
 }

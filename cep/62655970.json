@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tururu",
   "uf": "CE",
-  "ibge": "2313559"
+  "ibge": "2313559",
+  "latitude": "-3.5989068",
+  "longitude": "-39.436481"
 }
