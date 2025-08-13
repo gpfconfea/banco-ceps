@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Imbituba",
   "uf": "SC",
-  "ibge": "4207304"
+  "ibge": "4207304",
+  "latitude": "-28.241827",
+  "longitude": "-48.6643444"
 }

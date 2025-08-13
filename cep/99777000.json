@@ -5,5 +5,7 @@
   "bairro": "Pio X",
   "localidade": "Aratiba",
   "uf": "RS",
-  "ibge": "4300901"
+  "ibge": "4300901",
+  "latitude": "-27.3779244",
+  "longitude": "-52.358806"
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto José do Pinho",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0232181",
+  "longitude": "-34.9094569"
 }

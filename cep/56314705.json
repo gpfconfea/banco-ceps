@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-9.3611689",
+  "longitude": "-40.5361746"
 }

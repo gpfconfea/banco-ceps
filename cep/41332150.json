@@ -5,5 +5,7 @@
   "bairro": "Cajazeiras II",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.8873086",
+  "longitude": "-38.4225355"
 }

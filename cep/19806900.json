@@ -1,9 +1,11 @@
 {
   "cep": "19806900",
   "logradouro": "Avenida Dom Antônio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Universitário",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-22.6467036",
+  "longitude": "-50.4383534"
 }

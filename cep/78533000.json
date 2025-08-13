@@ -5,5 +5,7 @@
   "bairro": "União do Norte",
   "localidade": "Peixoto de Azevedo",
   "uf": "MT",
-  "ibge": "5106422"
+  "ibge": "5106422",
+  "latitude": "-10.4285062",
+  "longitude": "-54.4498927"
 }

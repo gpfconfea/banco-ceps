@@ -5,5 +5,7 @@
   "bairro": "José Maria Dourado",
   "localidade": "Garanhuns",
   "uf": "PE",
-  "ibge": "2606002"
+  "ibge": "2606002",
+  "latitude": "-8.875781",
+  "longitude": "-36.4764189"
 }

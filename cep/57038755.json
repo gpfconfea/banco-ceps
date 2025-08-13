@@ -5,5 +5,7 @@
   "bairro": "Guaxuma",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.5886756",
+  "longitude": "-35.66921"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaóca",
   "uf": "SP",
-  "ibge": "3522158"
+  "ibge": "3522158",
+  "latitude": "-23.435152",
+  "longitude": "-46.7199091"
 }

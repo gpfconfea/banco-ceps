@@ -1,9 +1,11 @@
 {
   "cep": "63930975",
   "logradouro": "Rua Colégio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Daniel de Queirós",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.9870233",
+  "longitude": "-39.1729714"
 }

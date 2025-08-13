@@ -5,5 +5,7 @@
   "bairro": "Pedro Garcia",
   "localidade": "Braga",
   "uf": "RS",
-  "ibge": "4302600"
+  "ibge": "4302600",
+  "latitude": "-27.6020587",
+  "longitude": "-53.6971799"
 }

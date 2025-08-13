@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-26.2189725",
+  "longitude": "-48.8215563"
 }

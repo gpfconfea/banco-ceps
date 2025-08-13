@@ -5,5 +5,7 @@
   "bairro": "Vila Oriental",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1249071",
+  "longitude": "-51.3955719"
 }

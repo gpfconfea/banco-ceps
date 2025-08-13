@@ -5,5 +5,7 @@
   "bairro": "Residencial Vitória",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.3825421",
+  "longitude": "-49.484069"
 }

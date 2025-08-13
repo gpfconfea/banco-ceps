@@ -5,5 +5,7 @@
   "bairro": "Cruz",
   "localidade": "Lorena",
   "uf": "SP",
-  "ibge": "3527207"
+  "ibge": "3527207",
+  "latitude": "-23.5137994",
+  "longitude": "-51.6770297"
 }

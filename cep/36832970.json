@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caiana",
   "uf": "MG",
-  "ibge": "3110103"
+  "ibge": "3110103",
+  "latitude": "-20.6967154",
+  "longitude": "-41.9271775"
 }

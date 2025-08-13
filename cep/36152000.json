@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Goianá",
   "uf": "MG",
-  "ibge": "3127388"
+  "ibge": "3127388",
+  "latitude": "-21.5375",
+  "longitude": "-43.2014"
 }

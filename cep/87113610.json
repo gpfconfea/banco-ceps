@@ -5,5 +5,7 @@
   "bairro": "Parque Alvamar II",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4236449",
+  "longitude": "-51.8745897"
 }

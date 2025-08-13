@@ -5,5 +5,7 @@
   "bairro": "Jardim Tamandaré",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3169363",
+  "longitude": "-51.1106596"
 }

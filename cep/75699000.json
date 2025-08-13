@@ -5,5 +5,7 @@
   "bairro": "Sapé",
   "localidade": "Caldas Novas",
   "uf": "GO",
-  "ibge": "5204508"
+  "ibge": "5204508",
+  "latitude": "-17.580389",
+  "longitude": "-48.586162"
 }

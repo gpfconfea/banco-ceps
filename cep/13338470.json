@@ -5,5 +5,7 @@
   "bairro": "Alto da Colina",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0895057",
+  "longitude": "-47.1909621"
 }

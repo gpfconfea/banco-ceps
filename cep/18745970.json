@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coronel Macedo",
   "uf": "SP",
-  "ibge": "3512605"
+  "ibge": "3512605",
+  "latitude": "-23.6318401",
+  "longitude": "-49.3129986"
 }

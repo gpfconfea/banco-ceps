@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novorizonte",
   "uf": "MG",
-  "ibge": "3145372"
+  "ibge": "3145372",
+  "latitude": "-16.011871",
+  "longitude": "-42.4073768"
 }

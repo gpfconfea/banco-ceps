@@ -5,5 +5,7 @@
   "bairro": "Esquina Bom Sucesso",
   "localidade": "Catuípe",
   "uf": "RS",
-  "ibge": "4305009"
+  "ibge": "4305009",
+  "latitude": "-28.1445631",
+  "longitude": "-53.9398568"
 }

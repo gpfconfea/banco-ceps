@@ -6,5 +6,7 @@
   "bairro": "Vila Chica Luisa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4489179",
+  "longitude": "-46.7554985"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Botuporã",
   "uf": "BA",
-  "ibge": "2904209"
+  "ibge": "2904209",
+  "latitude": "-13.3808237",
+  "longitude": "-42.5231259"
 }

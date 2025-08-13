@@ -5,5 +5,7 @@
   "bairro": "Condomínio Reserva dos Colíbris",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-22.9910326",
+  "longitude": "-47.4933"
 }

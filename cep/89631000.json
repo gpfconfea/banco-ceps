@@ -5,5 +5,7 @@
   "bairro": "Ibicuí",
   "localidade": "Campos Novos",
   "uf": "SC",
-  "ibge": "4203600"
+  "ibge": "4203600",
+  "latitude": "-27.5439973",
+  "longitude": "-51.1749035"
 }

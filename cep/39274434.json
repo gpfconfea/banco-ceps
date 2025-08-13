@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Pirapora",
   "uf": "MG",
-  "ibge": "3151206"
+  "ibge": "3151206",
+  "latitude": "-17.3398283",
+  "longitude": "-44.9030686"
 }

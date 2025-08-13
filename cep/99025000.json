@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "latitude": "-28.2640358",
+  "longitude": "-52.4135038"
 }

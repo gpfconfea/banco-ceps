@@ -5,5 +5,7 @@
   "bairro": "Vila Flávia",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "latitude": "-22.7900858",
+  "longitude": "-43.316179"
 }

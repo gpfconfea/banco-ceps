@@ -5,5 +5,7 @@
   "bairro": "Jardim D'Itália II",
   "localidade": "Santa Gertrudes",
   "uf": "SP",
-  "ibge": "3546702"
+  "ibge": "3546702",
+  "latitude": "-22.4608888",
+  "longitude": "-47.5241525"
 }

@@ -6,5 +6,7 @@
   "bairro": "Rio das Pedras",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.1350726",
+  "longitude": "-47.077719"
 }

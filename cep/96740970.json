@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arroio dos Ratos",
   "uf": "RS",
-  "ibge": "4301107"
+  "ibge": "4301107",
+  "latitude": "-30.0917068",
+  "longitude": "-51.7322243"
 }

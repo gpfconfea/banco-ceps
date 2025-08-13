@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro",
   "localidade": "Campo Mourão",
   "uf": "PR",
-  "ibge": "4104303"
+  "ibge": "4104303",
+  "latitude": "-24.0392957",
+  "longitude": "-52.3780341"
 }

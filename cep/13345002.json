@@ -5,5 +5,7 @@
   "bairro": "Bairro Pau Preto",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0931368",
+  "longitude": "-47.2178908"
 }

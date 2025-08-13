@@ -1,9 +1,11 @@
 {
   "cep": "68827971",
   "logradouro": "Praça Cecilia Teixeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Miguel de Pracuuba",
   "localidade": "Muaná",
   "uf": "PA",
-  "ibge": "1504901"
+  "ibge": "1504901",
+  "latitude": "-1.480209",
+  "longitude": "-49.4059435"
 }

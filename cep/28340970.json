@@ -1,9 +1,11 @@
 {
   "cep": "28340970",
   "logradouro": "Avenida Senador Tinoco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Ventura",
   "localidade": "Itaperuna",
   "uf": "RJ",
-  "ibge": "3302205"
+  "ibge": "3302205",
+  "latitude": "-21.2098797",
+  "longitude": "-41.8666828"
 }

@@ -5,5 +5,7 @@
   "bairro": "Prados Verdes",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.8482487",
+  "longitude": "-43.6051857"
 }

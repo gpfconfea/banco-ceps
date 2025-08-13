@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Campos Novos Paulista",
   "uf": "SP",
-  "ibge": "3509809"
+  "ibge": "3509809",
+  "latitude": "-22.6031002",
+  "longitude": "-49.9990238"
 }

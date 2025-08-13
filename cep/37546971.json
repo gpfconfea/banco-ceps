@@ -1,9 +1,11 @@
 {
   "cep": "37546971",
   "logradouro": "Rua Garcia Borges",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itaim",
   "localidade": "Cachoeira de Minas",
   "uf": "MG",
-  "ibge": "3109709"
+  "ibge": "3109709",
+  "latitude": "-22.38743",
+  "longitude": "-45.8886823"
 }

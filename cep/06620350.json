@@ -5,5 +5,7 @@
   "bairro": "Bosque de Jandira",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5517624",
+  "longitude": "-46.8913045"
 }

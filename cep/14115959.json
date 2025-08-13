@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guatapará",
   "uf": "SP",
-  "ibge": "3518859"
+  "ibge": "3518859",
+  "latitude": "-21.4964355",
+  "longitude": "-48.03751"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Tupinambá",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4803156",
+  "longitude": "-47.49806"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Campinas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.769334",
+  "longitude": "-46.7082013"
 }
