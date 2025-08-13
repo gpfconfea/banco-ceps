@@ -5,5 +5,7 @@
   "bairro": "Dom Bosco",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9579406",
+  "longitude": "-44.1553748"
 }

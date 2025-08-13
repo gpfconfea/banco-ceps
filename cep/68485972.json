@@ -1,9 +1,11 @@
 {
   "cep": "68485972",
   "logradouro": "Vila Nazaré",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nazaré",
   "localidade": "Pacajá",
   "uf": "PA",
-  "ibge": "1505486"
+  "ibge": "1505486",
+  "latitude": "-3.5595437",
+  "longitude": "-51.0914985"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63869974",
   "logradouro": "Rua Inocêncio Correia Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "União",
   "localidade": "Madalena",
   "uf": "CE",
-  "ibge": "2307635"
+  "ibge": "2307635",
+  "latitude": "-4.7749585",
+  "longitude": "-39.4337998"
 }

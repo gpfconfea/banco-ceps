@@ -5,5 +5,7 @@
   "bairro": "Santana do Capivari",
   "localidade": "Pouso Alto",
   "uf": "MG",
-  "ibge": "3152600"
+  "ibge": "3152600",
+  "latitude": "-22.2476958",
+  "longitude": "-44.9341824"
 }

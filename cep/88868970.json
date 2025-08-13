@@ -1,9 +1,11 @@
 {
   "cep": "88868970",
   "logradouro": "Rua Frei Domingos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nossa Senhora de Caravaggio",
   "localidade": "Nova Veneza",
   "uf": "SC",
-  "ibge": "4211603"
+  "ibge": "4211603",
+  "latitude": "-28.6630274",
+  "longitude": "-49.4699286"
 }

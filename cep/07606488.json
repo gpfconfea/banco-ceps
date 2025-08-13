@@ -5,5 +5,7 @@
   "bairro": "Rancho Grande",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.3285108",
+  "longitude": "-46.6007433"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cruzinha",
   "localidade": "Minas Novas",
   "uf": "MG",
-  "ibge": "3141801"
+  "ibge": "3141801",
+  "latitude": "-17.2777771",
+  "longitude": "-42.3794875"
 }

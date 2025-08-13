@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Valparaíso",
   "uf": "SP",
-  "ibge": "3556305"
+  "ibge": "3556305",
+  "latitude": "-21.2230369",
+  "longitude": "-50.8666375"
 }

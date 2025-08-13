@@ -5,5 +5,7 @@
   "bairro": "Peixinhos",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-23.3129181",
+  "longitude": "-46.7246763"
 }

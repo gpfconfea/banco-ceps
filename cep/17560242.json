@@ -5,5 +5,7 @@
   "bairro": "CECAP",
   "localidade": "Vera Cruz",
   "uf": "SP",
-  "ibge": "3556602"
+  "ibge": "3556602",
+  "latitude": "-22.22798",
+  "longitude": "-49.8152199"
 }

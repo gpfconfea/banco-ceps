@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "Cubatão",
   "uf": "SP",
-  "ibge": "3513504"
+  "ibge": "3513504",
+  "latitude": "-23.9047971",
+  "longitude": "-46.459154"
 }

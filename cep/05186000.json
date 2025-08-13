@@ -5,5 +5,7 @@
   "bairro": "Vila Aurora",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-25.0044563",
+  "longitude": "-47.9262755"
 }

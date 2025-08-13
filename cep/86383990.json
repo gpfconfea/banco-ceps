@@ -1,9 +1,11 @@
 {
   "cep": "86383990",
   "logradouro": "Rua Antônio Badesso",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nossa Senhora Aparecida",
   "localidade": "Andirá",
   "uf": "PR",
-  "ibge": "4101101"
+  "ibge": "4101101",
+  "latitude": "-22.9659667",
+  "longitude": "-50.2700593"
 }

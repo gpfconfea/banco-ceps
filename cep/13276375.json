@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9795052",
+  "longitude": "-46.9908442"
 }

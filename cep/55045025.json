@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.2964768",
+  "longitude": "-36.0154688"
 }

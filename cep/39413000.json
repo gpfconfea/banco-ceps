@@ -5,5 +5,7 @@
   "bairro": "São João da Vereda",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7339364",
+  "longitude": "-44.0696968"
 }

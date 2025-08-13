@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto Jequitibá",
   "uf": "MG",
-  "ibge": "3153509"
+  "ibge": "3153509",
+  "latitude": "-20.4236673",
+  "longitude": "-41.9660938"
 }

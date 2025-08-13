@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Taquari",
   "uf": "RS",
-  "ibge": "4321303"
+  "ibge": "4321303",
+  "latitude": "-29.7942136",
+  "longitude": "-51.8647988"
 }

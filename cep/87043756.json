@@ -5,5 +5,7 @@
   "bairro": "Jardim Colina Verde",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3890104",
+  "longitude": "-51.8939754"
 }

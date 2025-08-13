@@ -1,9 +1,11 @@
 {
   "cep": "24916970",
   "logradouro": "Avenida Maysa Quadra 34 Lote 20",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guaratiba (Ponta Negra)",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "latitude": "-22.9508679",
+  "longitude": "-42.8858888"
 }

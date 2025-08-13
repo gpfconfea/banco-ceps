@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Pedro da Serra",
   "uf": "RS",
-  "ibge": "4319356"
+  "ibge": "4319356",
+  "latitude": "-29.4195585",
+  "longitude": "-51.5142114"
 }

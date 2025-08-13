@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Mart Ville",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.097063",
+  "longitude": "-51.4322828"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial São Victor",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "latitude": "-23.190882",
+  "longitude": "-46.8272201"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio I",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.4022267",
+  "longitude": "-42.8939542"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nordeste",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-5.5376371",
+  "longitude": "-35.823142"
 }

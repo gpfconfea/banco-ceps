@@ -1,9 +1,11 @@
 {
   "cep": "36104971",
   "logradouro": "Rua Sarandira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sarandira",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.8304593",
+  "longitude": "-43.1899812"
 }

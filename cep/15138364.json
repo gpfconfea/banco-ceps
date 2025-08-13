@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Mirassol",
   "uf": "SP",
-  "ibge": "3530300"
+  "ibge": "3530300",
+  "latitude": "-21.2151864",
+  "longitude": "-50.3960475"
 }

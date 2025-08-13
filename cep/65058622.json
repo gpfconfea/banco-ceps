@@ -5,5 +5,7 @@
   "bairro": "Santa Clara",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5996753",
+  "longitude": "-44.1909998"
 }

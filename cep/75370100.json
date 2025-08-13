@@ -5,5 +5,7 @@
   "bairro": "Residencial Triunfo",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.5712272",
+  "longitude": "-49.3918049"
 }

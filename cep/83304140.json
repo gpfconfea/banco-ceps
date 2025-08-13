@@ -5,5 +5,7 @@
   "bairro": "Vila Susi",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.4271717",
+  "longitude": "-49.0565967"
 }

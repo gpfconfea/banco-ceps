@@ -1,9 +1,11 @@
 {
   "cep": "88860990",
   "logradouro": "Rua Bela Vista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Siderópolis",
   "uf": "SC",
-  "ibge": "4217600"
+  "ibge": "4217600",
+  "latitude": "-28.6311987",
+  "longitude": "-49.4076261"
 }

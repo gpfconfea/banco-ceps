@@ -5,5 +5,7 @@
   "bairro": "Vila Bandeirantes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4961615",
+  "longitude": "-46.6632909"
 }

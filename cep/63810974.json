@@ -1,9 +1,11 @@
 {
   "cep": "63810974",
   "logradouro": "Vila Encantado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Encantado",
   "localidade": "Quixeramobim",
   "uf": "CE",
-  "ibge": "2311405"
+  "ibge": "2311405",
+  "latitude": "-5.5033715",
+  "longitude": "-39.3088152"
 }

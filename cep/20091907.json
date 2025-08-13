@@ -1,9 +1,11 @@
 {
   "cep": "20091907",
   "logradouro": "Praça Barão de Ladário",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8988414",
+  "longitude": "-43.1769368"
 }

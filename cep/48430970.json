@@ -1,9 +1,11 @@
 {
   "cep": "48430970",
   "logradouro": "Rua Paulo Dias Nascimento",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Paripiranga",
   "uf": "BA",
-  "ibge": "2923803"
+  "ibge": "2923803",
+  "latitude": "-10.6792489",
+  "longitude": "-37.8623263"
 }

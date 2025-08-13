@@ -5,5 +5,7 @@
   "bairro": "Piriquitos",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "latitude": "-25.0486141",
+  "longitude": "-50.2470243"
 }

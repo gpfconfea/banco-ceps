@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "latitude": "-23.3488825",
+  "longitude": "-47.6908719"
 }

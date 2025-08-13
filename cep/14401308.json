@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.4883861",
+  "longitude": "-47.4058666"
 }

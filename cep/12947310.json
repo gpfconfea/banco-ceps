@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.137035",
+  "longitude": "-46.5578145"
 }

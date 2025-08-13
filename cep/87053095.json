@@ -5,5 +5,7 @@
   "bairro": "Alto das Grevíleas",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.0957352",
+  "longitude": "-52.7803995"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65225970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São João Batista",
   "uf": "MA",
-  "ibge": "2111003"
+  "ibge": "2111003",
+  "latitude": "-2.9598789",
+  "longitude": "-44.7957285"
 }

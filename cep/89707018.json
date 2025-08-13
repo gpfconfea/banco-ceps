@@ -5,5 +5,7 @@
   "bairro": "Nazaré",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "latitude": "-27.2357567",
+  "longitude": "-52.0367102"
 }

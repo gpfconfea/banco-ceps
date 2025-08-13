@@ -1,9 +1,11 @@
 {
   "cep": "36307902",
   "logradouro": "Rua Ministro Gabriel Passos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São João Del Rei",
   "uf": "MG",
-  "ibge": "3162500"
+  "ibge": "3162500",
+  "latitude": "-21.136331",
+  "longitude": "-44.2593891"
 }

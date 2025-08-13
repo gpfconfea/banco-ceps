@@ -1,9 +1,11 @@
 {
   "cep": "68770970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Inhangapi",
   "uf": "PA",
-  "ibge": "1503408"
+  "ibge": "1503408",
+  "latitude": "-1.4302288",
+  "longitude": "-47.9175189"
 }

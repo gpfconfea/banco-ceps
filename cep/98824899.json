@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Santo Ângelo",
   "localidade": "Santo Ângelo",
   "uf": "RS",
-  "ibge": "4317509"
+  "ibge": "4317509",
+  "latitude": "-28.3006117",
+  "longitude": "-54.2673083"
 }

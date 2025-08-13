@@ -1,9 +1,11 @@
 {
   "cep": "63891974",
   "logradouro": "Rua Guilherme",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boqueirão",
   "localidade": "Boa Viagem",
   "uf": "CE",
-  "ibge": "2302404"
+  "ibge": "2302404",
+  "latitude": "-8.1251299",
+  "longitude": "-34.904611"
 }

@@ -5,5 +5,7 @@
   "bairro": "Recanto Estrela da Manhã",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-7.5529099",
+  "longitude": "-46.0599062"
 }

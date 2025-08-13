@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Borda da Mata",
   "uf": "MG",
-  "ibge": "3108305"
+  "ibge": "3108305",
+  "latitude": "-22.2792032",
+  "longitude": "-46.1657647"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Gabriel",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8590167",
+  "longitude": "-43.922341"
 }

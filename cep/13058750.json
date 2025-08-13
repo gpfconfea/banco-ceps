@@ -5,5 +5,7 @@
   "bairro": "Chácaras Cruzeiro do Sul",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.929426",
+  "longitude": "-47.1791693"
 }

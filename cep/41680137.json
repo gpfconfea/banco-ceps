@@ -5,5 +5,7 @@
   "bairro": "Patamares",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9490001",
+  "longitude": "-38.395757"
 }

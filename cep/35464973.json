@@ -1,9 +1,11 @@
 {
   "cep": "35464973",
   "logradouro": "Praça São Sebastião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Piedade do Paraopeba",
   "localidade": "Brumadinho",
   "uf": "MG",
-  "ibge": "3109006"
+  "ibge": "3109006",
+  "latitude": "-20.1419339",
+  "longitude": "-44.2009285"
 }

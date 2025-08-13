@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "latitude": "-29.6922222",
+  "longitude": "-52.4426406"
 }
