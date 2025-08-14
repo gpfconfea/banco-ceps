@@ -1,9 +1,11 @@
 {
   "cep": "65071959",
   "logradouro": "Avenida dos Holandeses",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Calhau",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.4935485",
+  "longitude": "-44.278429"
 }

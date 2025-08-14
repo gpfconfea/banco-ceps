@@ -1,9 +1,11 @@
 {
   "cep": "35420974",
   "logradouro": "Rua São Luiz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Águas Claras",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "latitude": "-20.2528121",
+  "longitude": "-43.2250163"
 }

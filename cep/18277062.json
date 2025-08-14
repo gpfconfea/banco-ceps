@@ -5,5 +5,7 @@
   "bairro": "Sena Ville",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3542232",
+  "longitude": "-47.8753308"
 }

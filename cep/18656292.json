@@ -6,5 +6,7 @@
   "bairro": "Residencial Nova Conquista III",
   "localidade": "São Manuel",
   "uf": "SP",
-  "ibge": "3550100"
+  "ibge": "3550100",
+  "latitude": "-22.7162335",
+  "longitude": "-48.5875305"
 }

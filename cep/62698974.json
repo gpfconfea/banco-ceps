@@ -1,9 +1,11 @@
 {
   "cep": "62698974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Munguba",
   "localidade": "Trairi",
   "uf": "CE",
-  "ibge": "2313500"
+  "ibge": "2313500",
+  "latitude": "-3.2382296",
+  "longitude": "-39.2362582"
 }

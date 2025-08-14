@@ -5,5 +5,7 @@
   "bairro": "Cambaquara",
   "localidade": "Ilhabela",
   "uf": "SP",
-  "ibge": "3520400"
+  "ibge": "3520400",
+  "latitude": "-23.8316772",
+  "longitude": "-45.3892274"
 }

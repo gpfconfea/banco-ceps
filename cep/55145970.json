@@ -1,9 +1,11 @@
 {
   "cep": "55145970",
   "logradouro": "Vila Riacho Fechado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tacaimbó",
   "uf": "PE",
-  "ibge": "2614709"
+  "ibge": "2614709",
+  "latitude": "-8.3664594",
+  "longitude": "-36.2198807"
 }

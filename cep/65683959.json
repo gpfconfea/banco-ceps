@@ -1,9 +1,11 @@
 {
   "cep": "65683959",
   "logradouro": "Rua Pau Brasil",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Lagoa do Mato",
   "uf": "MA",
-  "ibge": "2105922"
+  "ibge": "2105922",
+  "latitude": "-6.0479726",
+  "longitude": "-43.5267907"
 }

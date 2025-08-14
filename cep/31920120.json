@@ -5,5 +5,7 @@
   "bairro": "Dom Joaquim",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8766066",
+  "longitude": "-43.916921"
 }

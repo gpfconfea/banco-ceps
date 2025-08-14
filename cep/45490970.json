@@ -1,9 +1,11 @@
 {
   "cep": "45490970",
   "logradouro": "Praça Raimundo J. Almeida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Laje",
   "uf": "BA",
-  "ibge": "2918803"
+  "ibge": "2918803",
+  "latitude": "-13.1677757",
+  "longitude": "-39.4216245"
 }

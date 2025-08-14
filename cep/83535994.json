@@ -1,9 +1,11 @@
 {
   "cep": "83535994",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Campo Magro",
   "uf": "PR",
-  "ibge": "4104253"
+  "ibge": "4104253",
+  "latitude": "-25.2838911",
+  "longitude": "-49.4401094"
 }

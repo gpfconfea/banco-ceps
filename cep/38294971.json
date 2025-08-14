@@ -1,9 +1,11 @@
 {
   "cep": "38294971",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Estrela da Barra",
   "localidade": "Carneirinho",
   "uf": "MG",
-  "ibge": "3114550"
+  "ibge": "3114550",
+  "latitude": "-19.9255628",
+  "longitude": "-50.9007317"
 }

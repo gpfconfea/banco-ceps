@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Penaforte",
   "uf": "CE",
-  "ibge": "2310605"
+  "ibge": "2310605",
+  "latitude": "-7.830183",
+  "longitude": "-39.071608"
 }

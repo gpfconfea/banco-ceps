@@ -5,5 +5,7 @@
   "bairro": "Vila São Jorge",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.2834371",
+  "longitude": "-46.7406042"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Jacuí",
   "uf": "MG",
-  "ibge": "3134806"
+  "ibge": "3134806",
+  "latitude": "-21.0169567",
+  "longitude": "-46.7458301"
 }

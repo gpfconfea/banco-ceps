@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Areial",
   "uf": "PB",
-  "ibge": "2501203"
+  "ibge": "2501203",
+  "latitude": "-7.050986",
+  "longitude": "-35.9292803"
 }

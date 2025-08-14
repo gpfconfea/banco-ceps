@@ -5,5 +5,7 @@
   "bairro": "Anhanguera",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-24.0201015",
+  "longitude": "-46.4921255"
 }

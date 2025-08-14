@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Estados",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "latitude": "-24.1946444",
+  "longitude": "-46.8313176"
 }

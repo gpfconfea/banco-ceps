@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João de Meriti",
   "uf": "RJ",
-  "ibge": "3305109"
+  "ibge": "3305109",
+  "latitude": "-22.8008853",
+  "longitude": "-43.3623352"
 }

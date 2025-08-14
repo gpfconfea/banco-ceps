@@ -1,9 +1,11 @@
 {
   "cep": "68465971",
   "logradouro": "Vila São Joaquim do Ituquara",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Baião",
   "uf": "PA",
-  "ibge": "1501204"
+  "ibge": "1501204",
+  "latitude": "-3.0300955",
+  "longitude": "-49.6407292"
 }

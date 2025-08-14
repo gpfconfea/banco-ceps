@@ -5,5 +5,7 @@
   "bairro": "Residencial Villaverde",
   "localidade": "Ponta Porã",
   "uf": "MS",
-  "ibge": "5006606"
+  "ibge": "5006606",
+  "latitude": "-22.5288124",
+  "longitude": "-55.7260841"
 }

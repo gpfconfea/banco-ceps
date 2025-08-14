@@ -6,5 +6,7 @@
   "bairro": "Alto",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.3665338",
+  "longitude": "-48.25149"
 }

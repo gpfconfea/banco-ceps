@@ -5,5 +5,7 @@
   "bairro": "Sítio São Francisco",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4580377",
+  "longitude": "-46.3954967"
 }

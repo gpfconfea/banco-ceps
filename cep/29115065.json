@@ -5,5 +5,7 @@
   "bairro": "Paul",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-16.2640513",
+  "longitude": "-56.6284985"
 }

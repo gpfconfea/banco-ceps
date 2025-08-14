@@ -5,5 +5,7 @@
   "bairro": "Jardim Gabriela",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5388931",
+  "longitude": "-46.8651535"
 }

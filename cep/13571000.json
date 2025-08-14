@@ -5,5 +5,7 @@
   "bairro": "Jardim Dona Francisca",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-22.0305874",
+  "longitude": "-47.865975"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "95160970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pinhal Alto",
   "localidade": "Nova Petrópolis",
   "uf": "RS",
-  "ibge": "4313201"
+  "ibge": "4313201",
+  "latitude": "-21.8989045",
+  "longitude": "-41.8028866"
 }

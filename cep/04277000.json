@@ -5,5 +5,7 @@
   "bairro": "Vila Dom Pedro I",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.600283",
+  "longitude": "-46.6115418"
 }

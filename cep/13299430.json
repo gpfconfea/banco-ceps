@@ -5,5 +5,7 @@
   "bairro": "Residencial Ibi Aram II - Fase II",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.1521858",
+  "longitude": "-47.0750113"
 }

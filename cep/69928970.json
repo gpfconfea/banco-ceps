@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Plácido de Castro",
   "uf": "AC",
-  "ibge": "1200385"
+  "ibge": "1200385",
+  "latitude": "-10.3278026",
+  "longitude": "-67.1870669"
 }

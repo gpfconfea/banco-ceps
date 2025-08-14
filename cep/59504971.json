@@ -1,9 +1,11 @@
 {
   "cep": "59504971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mulungu",
   "localidade": "Pendências",
   "uf": "RN",
-  "ibge": "2409902"
+  "ibge": "2409902",
+  "latitude": "-5.257192",
+  "longitude": "-36.7184786"
 }

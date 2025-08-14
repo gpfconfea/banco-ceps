@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.7281663",
+  "longitude": "-47.6491596"
 }

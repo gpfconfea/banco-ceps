@@ -1,9 +1,11 @@
 {
   "cep": "65320970",
   "logradouro": "Rua da Paz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Vitorino Freire",
   "uf": "MA",
-  "ibge": "2113009"
+  "ibge": "2113009",
+  "latitude": "-4.2921492",
+  "longitude": "-45.2439902"
 }

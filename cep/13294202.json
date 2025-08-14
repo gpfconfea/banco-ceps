@@ -5,5 +5,7 @@
   "bairro": "Parque Brasil",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-23.0962697",
+  "longitude": "-46.9774362"
 }

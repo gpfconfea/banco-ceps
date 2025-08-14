@@ -5,5 +5,7 @@
   "bairro": "Residencial Mais Parque Mirassol",
   "localidade": "Mirassol",
   "uf": "SP",
-  "ibge": "3530300"
+  "ibge": "3530300",
+  "latitude": "-20.8047691",
+  "longitude": "-49.4778762"
 }

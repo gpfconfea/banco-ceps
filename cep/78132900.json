@@ -1,9 +1,11 @@
 {
   "cep": "78132900",
   "logradouro": "Rua Colômbia Quadra 34",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Primavera",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.7022117",
+  "longitude": "-56.1317791"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Léo Lince II",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-23.552804",
+  "longitude": "-46.47335"
 }

@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "latitude": "-19.884927",
+  "longitude": "-43.8452642"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Paschoal Salzano",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.8419472",
+  "longitude": "-47.4665254"
 }

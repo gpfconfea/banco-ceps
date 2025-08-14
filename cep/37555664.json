@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2182309",
+  "longitude": "-45.9079342"
 }

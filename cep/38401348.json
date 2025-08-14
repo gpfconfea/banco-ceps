@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasília",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-23.2415988",
+  "longitude": "-45.8934713"
 }

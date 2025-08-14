@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Assis Brasil",
   "uf": "AC",
-  "ibge": "1200054"
+  "ibge": "1200054",
+  "latitude": "-10.9407242",
+  "longitude": "-69.566716"
 }

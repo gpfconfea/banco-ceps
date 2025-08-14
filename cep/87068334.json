@@ -5,5 +5,7 @@
   "bairro": "Florais de Maringá",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4635267",
+  "longitude": "-51.9871364"
 }

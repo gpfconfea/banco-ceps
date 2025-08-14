@@ -1,9 +1,11 @@
 {
   "cep": "65190970",
   "logradouro": "Avenida 16 de Outubro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Primeira Cruz",
   "uf": "MA",
-  "ibge": "2109403"
+  "ibge": "2109403",
+  "latitude": "-2.5088112",
+  "longitude": "-43.4421765"
 }

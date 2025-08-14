@@ -5,5 +5,7 @@
   "bairro": "Vila Fachini",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.1494335",
+  "longitude": "-51.3552252"
 }

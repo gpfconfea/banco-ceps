@@ -5,5 +5,7 @@
   "bairro": "Ouro Preto",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.6073547",
+  "longitude": "-35.729495"
 }

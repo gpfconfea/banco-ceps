@@ -5,5 +5,7 @@
   "bairro": "Monte Castelo",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-20.9196603",
+  "longitude": "-44.2384859"
 }

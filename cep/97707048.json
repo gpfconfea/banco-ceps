@@ -5,5 +5,7 @@
   "bairro": "Lulu Genro",
   "localidade": "Santiago",
   "uf": "RS",
-  "ibge": "4317400"
+  "ibge": "4317400",
+  "latitude": "-29.189885",
+  "longitude": "-54.854945"
 }

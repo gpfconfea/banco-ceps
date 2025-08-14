@@ -1,9 +1,11 @@
 {
   "cep": "75819970",
   "logradouro": "Rua Doralice Ferraz da Costa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Lagoa Santa",
   "uf": "GO",
-  "ibge": "5212253"
+  "ibge": "5212253",
+  "latitude": "-19.1853751",
+  "longitude": "-51.4002441"
 }
