@@ -5,5 +5,7 @@
   "bairro": "Jardim Verão",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4532275",
+  "longitude": "-51.863132"
 }

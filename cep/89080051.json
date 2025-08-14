@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Indaial",
   "uf": "SC",
-  "ibge": "4207502"
+  "ibge": "4207502",
+  "latitude": "-26.8952874",
+  "longitude": "-49.2350726"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guidoval",
   "uf": "MG",
-  "ibge": "3128808"
+  "ibge": "3128808",
+  "latitude": "-21.1503733",
+  "longitude": "-42.7990658"
 }

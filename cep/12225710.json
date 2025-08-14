@@ -5,5 +5,7 @@
   "bairro": "Parque Novo Horizonte",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.1964032",
+  "longitude": "-45.7848955"
 }

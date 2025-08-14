@@ -5,5 +5,7 @@
   "bairro": "Residencial do Bosque",
   "localidade": "Cosmópolis",
   "uf": "SP",
-  "ibge": "3512803"
+  "ibge": "3512803",
+  "latitude": "-22.6310709",
+  "longitude": "-47.1782019"
 }

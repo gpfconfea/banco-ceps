@@ -5,5 +5,7 @@
   "bairro": "Vila Piracicaba",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.432095",
+  "longitude": "-46.5828093"
 }

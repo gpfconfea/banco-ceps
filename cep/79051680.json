@@ -5,5 +5,7 @@
   "bairro": "Jardim Auxiliadora",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4900413",
+  "longitude": "-54.586447"
 }

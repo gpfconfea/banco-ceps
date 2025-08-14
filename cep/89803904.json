@@ -1,9 +1,11 @@
 {
   "cep": "89803904",
   "logradouro": "Rua Ferdinando Ricieri Tussetti",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Cristóvão",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.0933569",
+  "longitude": "-52.6373277"
 }

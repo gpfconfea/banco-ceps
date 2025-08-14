@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "latitude": "-3.0173785",
+  "longitude": "-47.3510111"
 }

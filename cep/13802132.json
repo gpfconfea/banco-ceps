@@ -5,5 +5,7 @@
   "bairro": "Residencial João Bordignon",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4394028",
+  "longitude": "-46.944981"
 }

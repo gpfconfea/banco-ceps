@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "São Francisco",
   "uf": "SP",
-  "ibge": "3549003"
+  "ibge": "3549003",
+  "latitude": "-20.3566424",
+  "longitude": "-50.6961875"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "latitude": "-28.6274241",
+  "longitude": "-53.5822033"
 }

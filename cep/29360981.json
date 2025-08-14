@@ -1,9 +1,11 @@
 {
   "cep": "29360981",
   "logradouro": "Estrada Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Patrimônio do Ouro",
   "localidade": "Castelo",
   "uf": "ES",
-  "ibge": "3201407"
+  "ibge": "3201407",
+  "latitude": "39.7919331",
+  "longitude": "-8.0324243"
 }

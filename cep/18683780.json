@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Terezinha II",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-22.6089372",
+  "longitude": "-48.7831283"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58698971",
   "logradouro": "Rua São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cacimbas",
   "uf": "PB",
-  "ibge": "2503555"
+  "ibge": "2503555",
+  "latitude": "-7.2119974",
+  "longitude": "-37.058993"
 }

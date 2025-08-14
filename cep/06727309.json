@@ -5,5 +5,7 @@
   "bairro": "Residencial Pastoreiro",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.6766738",
+  "longitude": "-47.0208131"
 }

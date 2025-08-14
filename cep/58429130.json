@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "latitude": "-7.2080127",
+  "longitude": "-35.9070923"
 }

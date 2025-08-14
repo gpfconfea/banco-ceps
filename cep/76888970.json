@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Negro",
   "uf": "RO",
-  "ibge": "1101401"
+  "ibge": "1101401",
+  "latitude": "-10.2606285",
+  "longitude": "-63.2965362"
 }

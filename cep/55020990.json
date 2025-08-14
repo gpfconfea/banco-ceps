@@ -1,9 +1,11 @@
 {
   "cep": "55020990",
   "logradouro": "Rua Professor Sérgio Coelho - Cedro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.2846782",
+  "longitude": "-35.9551318"
 }

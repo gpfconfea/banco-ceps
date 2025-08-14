@@ -5,5 +5,7 @@
   "bairro": "Maringá",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.2897788",
+  "longitude": "-45.5537533"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29735980",
   "logradouro": "Rua Floriano Stein",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Quilômetro 14 do Mutum",
   "localidade": "Baixo Guandu",
   "uf": "ES",
-  "ibge": "3200805"
+  "ibge": "3200805",
+  "latitude": "-19.3968894",
+  "longitude": "-40.9050174"
 }

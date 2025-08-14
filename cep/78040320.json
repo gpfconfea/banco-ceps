@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-36.8937167",
+  "longitude": "-60.3233499"
 }

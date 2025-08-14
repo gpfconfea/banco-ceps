@@ -1,9 +1,11 @@
 {
   "cep": "88524900",
   "logradouro": "Rodovia BR-282",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guarujá",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.7899097",
+  "longitude": "-50.2733526"
 }

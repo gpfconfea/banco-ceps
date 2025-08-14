@@ -5,5 +5,7 @@
   "bairro": "Carvalho",
   "localidade": "Cachoeira do Sul",
   "uf": "RS",
-  "ibge": "4303004"
+  "ibge": "4303004",
+  "latitude": "-30.0517769",
+  "longitude": "-52.8812774"
 }

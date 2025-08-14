@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.092267",
+  "longitude": "-47.2113894"
 }

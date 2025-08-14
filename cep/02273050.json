@@ -5,5 +5,7 @@
   "bairro": "Guapira",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4670633",
+  "longitude": "-46.5882162"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Descoberto",
   "uf": "MG",
-  "ibge": "3121308"
+  "ibge": "3121308",
+  "latitude": "-21.459444",
+  "longitude": "-42.967223"
 }

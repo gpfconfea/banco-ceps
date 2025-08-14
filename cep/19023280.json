@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Tereza",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1125438",
+  "longitude": "-51.3974275"
 }

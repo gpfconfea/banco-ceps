@@ -5,5 +5,7 @@
   "bairro": "Tributo",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.8477706",
+  "longitude": "-50.3557441"
 }

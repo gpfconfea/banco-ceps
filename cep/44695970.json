@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Capim Grosso",
   "uf": "BA",
-  "ibge": "2906873"
+  "ibge": "2906873",
+  "latitude": "-11.3801768",
+  "longitude": "-40.0068953"
 }

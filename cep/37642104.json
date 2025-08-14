@@ -6,5 +6,7 @@
   "bairro": "Jardim Beira Rio",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.8667426",
+  "longitude": "-46.370808"
 }

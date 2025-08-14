@@ -5,5 +5,7 @@
   "bairro": "São Jorge",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-23.9501539",
+  "longitude": "-46.3669174"
 }

@@ -5,5 +5,7 @@
   "bairro": "Mocambinho",
   "localidade": "Porteirinha",
   "uf": "MG",
-  "ibge": "3152204"
+  "ibge": "3152204",
+  "latitude": "-15.6387448",
+  "longitude": "-42.952874"
 }

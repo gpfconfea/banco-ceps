@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ouro",
   "uf": "SC",
-  "ibge": "4211801"
+  "ibge": "4211801",
+  "latitude": "-27.3389051",
+  "longitude": "-51.6137785"
 }

@@ -5,5 +5,7 @@
   "bairro": "Tanque Novo",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.326535",
+  "longitude": "-47.873463"
 }

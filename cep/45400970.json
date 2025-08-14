@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Valença",
   "uf": "BA",
-  "ibge": "2932903"
+  "ibge": "2932903",
+  "latitude": "-13.3726259",
+  "longitude": "-39.0715093"
 }

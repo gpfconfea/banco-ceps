@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7071056",
+  "longitude": "-46.5787977"
 }

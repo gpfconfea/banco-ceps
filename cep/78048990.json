@@ -1,9 +1,11 @@
 {
   "cep": "78048990",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5653503",
+  "longitude": "-56.1158025"
 }

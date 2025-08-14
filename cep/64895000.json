@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Brejo do Piauí",
   "uf": "PI",
-  "ibge": "2201988"
+  "ibge": "2201988",
+  "latitude": "-8.3650248",
+  "longitude": "-42.7588283"
 }

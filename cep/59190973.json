@@ -1,9 +1,11 @@
 {
   "cep": "59190973",
   "logradouro": "Distrito Areia Branca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Areia Branca",
   "localidade": "Canguaretama",
   "uf": "RN",
-  "ibge": "2402204"
+  "ibge": "2402204",
+  "latitude": "-6.3657438",
+  "longitude": "-35.1557531"
 }

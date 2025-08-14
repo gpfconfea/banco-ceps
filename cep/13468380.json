@@ -5,5 +5,7 @@
   "bairro": "Residencial Horto Florestal Jacyra I",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-22.7603884",
+  "longitude": "-47.3540345"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "45200904",
   "logradouro": "Praça Coronel João Borges",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-15.1190086",
+  "longitude": "-40.070746"
 }

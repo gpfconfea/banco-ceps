@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maçambará",
   "uf": "RS",
-  "ibge": "4311718"
+  "ibge": "4311718",
+  "latitude": "-29.1471571",
+  "longitude": "-56.0649046"
 }

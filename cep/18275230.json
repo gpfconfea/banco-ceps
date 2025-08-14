@@ -5,5 +5,7 @@
   "bairro": "Boqueirão",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3544579",
+  "longitude": "-47.850981"
 }

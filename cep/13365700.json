@@ -6,5 +6,7 @@
   "bairro": "São João Batista",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-22.9750238",
+  "longitude": "-47.4773157"
 }

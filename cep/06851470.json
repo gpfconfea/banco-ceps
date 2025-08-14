@@ -5,5 +5,7 @@
   "bairro": "Jardim Sampaio",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.4886685",
+  "longitude": "-46.5888051"
 }

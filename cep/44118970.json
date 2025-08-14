@@ -1,9 +1,11 @@
 {
   "cep": "44118970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Matinha",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.2590161",
+  "longitude": "-38.9879997"
 }

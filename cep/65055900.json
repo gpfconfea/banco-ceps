@@ -1,9 +1,11 @@
 {
   "cep": "65055900",
   "logradouro": "Estrada Parque Independência",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tirirical",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5900361",
+  "longitude": "-44.2158699"
 }

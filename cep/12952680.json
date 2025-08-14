@@ -5,5 +5,7 @@
   "bairro": "Recreio São Vicente",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.1407128",
+  "longitude": "-46.5600495"
 }

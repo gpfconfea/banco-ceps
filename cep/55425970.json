@@ -1,9 +1,11 @@
 {
   "cep": "55425970",
   "logradouro": "Rua Carlos Eugênio Muniz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paquevira",
   "localidade": "Canhotinho",
   "uf": "PE",
-  "ibge": "2603702"
+  "ibge": "2603702",
+  "latitude": "-8.8920214",
+  "longitude": "-36.1017684"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Repouso",
   "uf": "MG",
-  "ibge": "3107901"
+  "ibge": "3107901",
+  "latitude": "-22.4683257",
+  "longitude": "-46.1496512"
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Terras de Santa Anna",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-22.9785675",
+  "longitude": "-47.4892526"
 }

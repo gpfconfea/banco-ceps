@@ -1,9 +1,11 @@
 {
   "cep": "62165973",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Araquém",
   "localidade": "Coreaú",
   "uf": "CE",
-  "ibge": "2304004"
+  "ibge": "2304004",
+  "latitude": "-3.5989679",
+  "longitude": "-40.8118752"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78254971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Conquista D'Oeste",
   "uf": "MT",
-  "ibge": "5103361"
+  "ibge": "5103361",
+  "latitude": "-14.5415833",
+  "longitude": "-59.542251"
 }

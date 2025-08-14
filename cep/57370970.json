@@ -1,9 +1,11 @@
 {
   "cep": "57370970",
   "logradouro": "Rua Senador Serapião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Traipu",
   "uf": "AL",
-  "ibge": "2709202"
+  "ibge": "2709202",
+  "latitude": "-9.9712113",
+  "longitude": "-37.0033323"
 }

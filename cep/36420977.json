@@ -1,9 +1,11 @@
 {
   "cep": "36420977",
   "logradouro": "Rua Santo Antônio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itatiaia",
   "localidade": "Ouro Branco",
   "uf": "MG",
-  "ibge": "3145901"
+  "ibge": "3145901",
+  "latitude": "-20.4913448",
+  "longitude": "-43.6020064"
 }

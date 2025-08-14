@@ -1,9 +1,11 @@
 {
   "cep": "34585959",
   "logradouro": "Rua Carvalho de Brito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Eugênio Rossi",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "latitude": "-19.8860915",
+  "longitude": "-43.8606333"
 }

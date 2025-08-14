@@ -1,9 +1,11 @@
 {
   "cep": "95614970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio da Ilha",
   "localidade": "Taquara",
   "uf": "RS",
-  "ibge": "4321204"
+  "ibge": "4321204",
+  "latitude": "-17.9145413",
+  "longitude": "-41.498082"
 }

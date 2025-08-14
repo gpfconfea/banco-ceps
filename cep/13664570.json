@@ -5,5 +5,7 @@
   "bairro": "Estância Porto Alegre",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.8478397",
+  "longitude": "-47.4547292"
 }

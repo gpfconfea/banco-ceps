@@ -5,5 +5,7 @@
   "bairro": "Jardim Olímpico",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7426675",
+  "longitude": "-49.2190629"
 }

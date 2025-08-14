@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Araretama",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-22.9479583",
+  "longitude": "-45.5000705"
 }
