@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaverava",
   "uf": "MG",
-  "ibge": "3133907"
+  "ibge": "3133907",
+  "latitude": "-20.6762482",
+  "longitude": "-43.6089553"
 }

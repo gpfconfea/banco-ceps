@@ -5,5 +5,7 @@
   "bairro": "Chácara Belvedere",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0618637",
+  "longitude": "-47.2259976"
 }

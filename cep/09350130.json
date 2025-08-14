@@ -5,5 +5,7 @@
   "bairro": "Vila Independência",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.5926902",
+  "longitude": "-46.6012111"
 }

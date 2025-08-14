@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Prestes Maia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5694209",
+  "longitude": "-46.4085484"
 }

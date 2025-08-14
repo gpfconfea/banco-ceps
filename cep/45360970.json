@@ -1,9 +1,11 @@
 {
   "cep": "45360970",
   "logradouro": "Praça da Bandeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Maracás",
   "uf": "BA",
-  "ibge": "2920502"
+  "ibge": "2920502",
+  "latitude": "-20.3112817",
+  "longitude": "-40.3558949"
 }

@@ -5,5 +5,7 @@
   "bairro": "Águas Compridas",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-23.7063064",
+  "longitude": "-46.5954313"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44211970",
   "logradouro": "Rua F",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Candolândia",
   "localidade": "Santo Amaro",
   "uf": "BA",
-  "ibge": "2928604"
+  "ibge": "2928604",
+  "latitude": "-16.7676528",
+  "longitude": "-43.8764404"
 }

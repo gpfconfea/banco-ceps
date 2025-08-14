@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Joaquim Celestino Ferreira",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4746211",
+  "longitude": "-49.518149"
 }

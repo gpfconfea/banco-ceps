@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cruz do Espírito Santo",
   "uf": "PB",
-  "ibge": "2504900"
+  "ibge": "2504900",
+  "latitude": "-7.1406526",
+  "longitude": "-35.089172"
 }

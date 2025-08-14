@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Palmeira D'Oeste",
   "uf": "SP",
-  "ibge": "3535200"
+  "ibge": "3535200",
+  "latitude": "-20.4097591",
+  "longitude": "-50.7651784"
 }

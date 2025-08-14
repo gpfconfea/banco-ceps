@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Castilho",
   "uf": "SP",
-  "ibge": "3511003"
+  "ibge": "3511003",
+  "latitude": "-20.8718154",
+  "longitude": "-51.4902387"
 }

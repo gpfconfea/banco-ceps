@@ -1,9 +1,11 @@
 {
   "cep": "55030902",
   "logradouro": "Avenida Cícero José Dutra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Petrópolis",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.2995979",
+  "longitude": "-35.9735023"
 }

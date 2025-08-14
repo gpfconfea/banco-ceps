@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeirópolis",
   "uf": "SE",
-  "ibge": "2806008"
+  "ibge": "2806008",
+  "latitude": "-10.5330403",
+  "longitude": "-37.4380141"
 }

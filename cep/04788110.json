@@ -5,5 +5,7 @@
   "bairro": "Interlagos",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7011117",
+  "longitude": "-46.7099238"
 }

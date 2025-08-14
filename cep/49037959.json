@@ -1,9 +1,11 @@
 {
   "cep": "49037959",
   "logradouro": "Avenida Senador Júlio Leite",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aeroporto",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "latitude": "-10.9861652",
+  "longitude": "-37.0658907"
 }

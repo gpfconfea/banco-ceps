@@ -1,9 +1,11 @@
 {
   "cep": "63135975",
   "logradouro": "Rua José Justino Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Rosa",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "latitude": "-7.2299572",
+  "longitude": "-39.4122984"
 }

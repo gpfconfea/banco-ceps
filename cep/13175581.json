@@ -5,5 +5,7 @@
   "bairro": "Chácara Monte Alegre",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "latitude": "-14.8453086",
+  "longitude": "-40.8442042"
 }

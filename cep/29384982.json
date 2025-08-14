@@ -1,9 +1,11 @@
 {
   "cep": "29384982",
   "logradouro": "Rua Francelino Goulart",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Menino Jesus",
   "localidade": "Muniz Freire",
   "uf": "ES",
-  "ibge": "3203700"
+  "ibge": "3203700",
+  "latitude": "-20.4008446",
+  "longitude": "-41.4272054"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Álvares Machado",
   "uf": "SP",
-  "ibge": "3501301"
+  "ibge": "3501301",
+  "latitude": "-22.0799635",
+  "longitude": "-51.4697039"
 }

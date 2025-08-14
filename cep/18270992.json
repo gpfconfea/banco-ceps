@@ -1,9 +1,11 @@
 {
   "cep": "18270992",
   "logradouro": "Estrada Bairro Enxovia de Baixoº - Bairro Enxovia de Baixo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3826817",
+  "longitude": "-47.9328629"
 }

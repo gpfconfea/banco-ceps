@@ -1,9 +1,11 @@
 {
   "cep": "49540970",
   "logradouro": "Praça Pedro Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Nossa Senhora Aparecida",
   "uf": "SE",
-  "ibge": "2804458"
+  "ibge": "2804458",
+  "latitude": "-21.2271654",
+  "longitude": "-43.7737418"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alumínio",
   "uf": "SP",
-  "ibge": "3501152"
+  "ibge": "3501152",
+  "latitude": "-23.5132804",
+  "longitude": "-47.3273617"
 }

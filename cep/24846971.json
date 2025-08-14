@@ -1,9 +1,11 @@
 {
   "cep": "24846971",
   "logradouro": "Rodovia RJ-114",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Pachecos)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "latitude": "-22.7698123",
+  "longitude": "-42.8356256"
 }

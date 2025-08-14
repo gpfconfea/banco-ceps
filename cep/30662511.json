@@ -5,5 +5,7 @@
   "bairro": "Itaipu (Barreiro)",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-20.4074171",
+  "longitude": "-49.9906074"
 }

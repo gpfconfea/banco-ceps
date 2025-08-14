@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Serra Negra",
   "uf": "SP",
-  "ibge": "3551603"
+  "ibge": "3551603",
+  "latitude": "-22.6126459",
+  "longitude": "-46.699986"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Estados",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.6855852",
+  "longitude": "-46.9919488"
 }

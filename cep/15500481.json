@@ -5,5 +5,7 @@
   "bairro": "Café",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4196778",
+  "longitude": "-49.9697822"
 }

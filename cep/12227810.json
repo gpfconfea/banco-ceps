@@ -5,5 +5,7 @@
   "bairro": "Parque Santos Dumont",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.2335243",
+  "longitude": "-45.8518895"
 }

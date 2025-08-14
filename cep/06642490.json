@@ -5,5 +5,7 @@
   "bairro": "Jardim do Golf I",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5607846",
+  "longitude": "-46.8859506"
 }

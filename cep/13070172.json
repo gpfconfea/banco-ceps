@@ -5,5 +5,7 @@
   "bairro": "Jardim Chapadão",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8936479",
+  "longitude": "-47.0891664"
 }

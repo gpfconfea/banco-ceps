@@ -5,5 +5,7 @@
   "bairro": "Castanheira",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.802756",
+  "longitude": "-63.871243"
 }

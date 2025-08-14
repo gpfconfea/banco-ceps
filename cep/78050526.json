@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-14.597699",
+  "longitude": "-57.5112282"
 }

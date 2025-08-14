@@ -1,9 +1,11 @@
 {
   "cep": "68637970",
   "logradouro": "Rua José Bonifácio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ipixuna do Pará",
   "uf": "PA",
-  "ibge": "1503457"
+  "ibge": "1503457",
+  "latitude": "-2.5594979",
+  "longitude": "-47.4982918"
 }

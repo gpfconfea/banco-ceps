@@ -5,5 +5,7 @@
   "bairro": "Vila Jussara",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3377921",
+  "longitude": "-48.9547522"
 }

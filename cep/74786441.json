@@ -5,5 +5,7 @@
   "bairro": "Residencial Paulo Estrela",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.64478",
+  "longitude": "-49.1781398"
 }

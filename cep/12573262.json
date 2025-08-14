@@ -6,5 +6,7 @@
   "bairro": "São Roque",
   "localidade": "Aparecida",
   "uf": "SP",
-  "ibge": "3502507"
+  "ibge": "3502507",
+  "latitude": "-23.9738058",
+  "longitude": "-46.3106778"
 }

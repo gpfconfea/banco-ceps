@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa do Piauí",
   "uf": "PI",
-  "ibge": "2205581"
+  "ibge": "2205581",
+  "latitude": "-5.4087103",
+  "longitude": "-42.6475345"
 }

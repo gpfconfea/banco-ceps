@@ -1,9 +1,11 @@
 {
   "cep": "85890972",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Missal",
   "uf": "PR",
-  "ibge": "4116059"
+  "ibge": "4116059",
+  "latitude": "-25.0914713",
+  "longitude": "-54.2474972"
 }

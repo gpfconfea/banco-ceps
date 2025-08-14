@@ -5,5 +5,7 @@
   "bairro": "Fazenda da Ilha",
   "localidade": "Embu-Guaçu",
   "uf": "SP",
-  "ibge": "3515103"
+  "ibge": "3515103",
+  "latitude": "-23.826338",
+  "longitude": "-46.7991958"
 }

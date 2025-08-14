@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque das Colinas",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.3230219",
+  "longitude": "-46.7278157"
 }

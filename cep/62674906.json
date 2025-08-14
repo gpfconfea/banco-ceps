@@ -1,9 +1,11 @@
 {
   "cep": "62674906",
   "logradouro": "Esplanada do Pecém",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pecém",
   "localidade": "São Gonçalo do Amarante",
   "uf": "CE",
-  "ibge": "2312403"
+  "ibge": "2312403",
+  "latitude": "-3.607473",
+  "longitude": "-38.9581176"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68473971",
   "logradouro": "Vila de Maracajá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Uirapuru",
   "localidade": "Novo Repartimento",
   "uf": "PA",
-  "ibge": "1505064"
+  "ibge": "1505064",
+  "latitude": "-4.5238367",
+  "longitude": "-50.70044"
 }

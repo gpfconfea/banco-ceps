@@ -6,5 +6,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Arcos",
   "uf": "MG",
-  "ibge": "3104205"
+  "ibge": "3104205",
+  "latitude": "-20.2846465",
+  "longitude": "-45.5454514"
 }

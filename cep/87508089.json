@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Vinte e Seis de Junho",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-24.0658608",
+  "longitude": "-53.8361206"
 }

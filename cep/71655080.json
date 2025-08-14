@@ -5,5 +5,7 @@
   "bairro": "Setor de Habitações Individuais Sul",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.864727",
+  "longitude": "-47.8634179"
 }

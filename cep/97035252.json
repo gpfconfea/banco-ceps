@@ -5,5 +5,7 @@
   "bairro": "Juscelino Kubitschek",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "latitude": "-23.7695994",
+  "longitude": "-46.5936464"
 }

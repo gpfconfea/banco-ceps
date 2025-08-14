@@ -5,5 +5,7 @@
   "bairro": "Princesa",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-25.7700106",
+  "longitude": "-48.5299396"
 }

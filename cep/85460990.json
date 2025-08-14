@@ -1,9 +1,11 @@
 {
   "cep": "85460990",
   "logradouro": "Rua Indaiá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Quedas do Iguaçu",
   "uf": "PR",
-  "ibge": "4120903"
+  "ibge": "4120903",
+  "latitude": "-25.4385859",
+  "longitude": "-52.8671764"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "59178972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Piau",
   "localidade": "Tibau do Sul",
   "uf": "RN",
-  "ibge": "2414209"
+  "ibge": "2414209",
+  "latitude": "-6.1868146",
+  "longitude": "-35.0918639"
 }

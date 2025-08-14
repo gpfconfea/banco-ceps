@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Garibaldi",
   "uf": "RS",
-  "ibge": "4308607"
+  "ibge": "4308607",
+  "latitude": "-29.2552679",
+  "longitude": "-51.5276622"
 }

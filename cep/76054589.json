@@ -6,5 +6,7 @@
   "bairro": "Residencial Paraíso",
   "localidade": "São Luís de Montes Belos",
   "uf": "GO",
-  "ibge": "5220108"
+  "ibge": "5220108",
+  "latitude": "-16.5188921",
+  "longitude": "-50.382465"
 }

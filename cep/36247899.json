@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Santos Dumont",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "latitude": "-21.4544529",
+  "longitude": "-43.5522988"
 }

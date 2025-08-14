@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4231514",
+  "longitude": "-51.8877229"
 }

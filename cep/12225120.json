@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso do Sol",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.1826853",
+  "longitude": "-45.794505"
 }

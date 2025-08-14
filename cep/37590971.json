@@ -1,9 +1,11 @@
 {
   "cep": "37590971",
   "logradouro": "Rua Cinco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jacutinga",
   "uf": "MG",
-  "ibge": "3134905"
+  "ibge": "3134905",
+  "latitude": "-23.4484129",
+  "longitude": "-47.5195792"
 }

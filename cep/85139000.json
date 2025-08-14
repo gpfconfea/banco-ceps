@@ -5,5 +5,7 @@
   "bairro": "Colônia Socorro",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.3950986",
+  "longitude": "-51.4622016"
 }

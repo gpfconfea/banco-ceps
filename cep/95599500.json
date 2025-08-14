@@ -5,5 +5,7 @@
   "bairro": "Magistério",
   "localidade": "Balneário Pinhal",
   "uf": "RS",
-  "ibge": "4301636"
+  "ibge": "4301636",
+  "latitude": "-30.282843",
+  "longitude": "-50.255767"
 }

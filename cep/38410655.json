@@ -5,5 +5,7 @@
   "bairro": "Granada",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.9520728",
+  "longitude": "-48.2463354"
 }

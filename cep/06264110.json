@@ -5,5 +5,7 @@
   "bairro": "Portal D'Oeste",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-9.0279387",
+  "longitude": "-35.2277312"
 }

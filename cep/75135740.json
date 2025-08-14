@@ -5,5 +5,7 @@
   "bairro": "Víviam Parque",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3785753",
+  "longitude": "-48.9822559"
 }

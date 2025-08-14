@@ -5,5 +5,7 @@
   "bairro": "Jardim Cura D'Ars",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9361793",
+  "longitude": "-47.0338096"
 }

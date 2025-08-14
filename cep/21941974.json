@@ -1,9 +1,11 @@
 {
   "cep": "21941974",
   "logradouro": "Ponta do Galeão 2º Andar",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Galeão",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8364558",
+  "longitude": "-43.2421226"
 }

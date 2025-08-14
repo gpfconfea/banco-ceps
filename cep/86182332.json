@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Clara",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "latitude": "-23.2705028",
+  "longitude": "-51.2822841"
 }
