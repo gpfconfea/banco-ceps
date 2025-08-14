@@ -1,9 +1,11 @@
 {
   "cep": "84916970",
   "logradouro": "Rua Ibaiti",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vassoural",
   "localidade": "Ibaiti",
   "uf": "PR",
-  "ibge": "4109708"
+  "ibge": "4109708",
+  "latitude": "-23.6056115",
+  "longitude": "-50.3370002"
 }

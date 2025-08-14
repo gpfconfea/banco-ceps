@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Guaporé",
   "uf": "RS",
-  "ibge": "4309407"
+  "ibge": "4309407",
+  "latitude": "-28.7875603",
+  "longitude": "-51.9040795"
 }

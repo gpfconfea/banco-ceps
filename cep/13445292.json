@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro",
   "localidade": "Engenheiro Coelho",
   "uf": "SP",
-  "ibge": "3515152"
+  "ibge": "3515152",
+  "latitude": "-22.4846996",
+  "longitude": "-47.2112101"
 }

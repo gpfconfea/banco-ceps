@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Balneário Gaivota",
   "uf": "SC",
-  "ibge": "4202073"
+  "ibge": "4202073",
+  "latitude": "-29.1563348",
+  "longitude": "-49.580569"
 }

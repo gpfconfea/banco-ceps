@@ -5,5 +5,7 @@
   "bairro": "Vila Belo Horizonte",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4784191",
+  "longitude": "-54.6471487"
 }

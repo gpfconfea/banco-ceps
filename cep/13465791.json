@@ -5,5 +5,7 @@
   "bairro": "Vila Frezzarim",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-22.7477026",
+  "longitude": "-47.34572"
 }

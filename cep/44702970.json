@@ -1,9 +1,11 @@
 {
   "cep": "44702970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itaítu",
   "localidade": "Jacobina",
   "uf": "BA",
-  "ibge": "2917508"
+  "ibge": "2917508",
+  "latitude": "-11.3400039",
+  "longitude": "-40.4862867"
 }

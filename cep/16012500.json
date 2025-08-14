@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Hilda Mandarino",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-21.2127882",
+  "longitude": "-50.399084"
 }

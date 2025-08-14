@@ -5,5 +5,7 @@
   "bairro": "Jardim Avelino",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5942408",
+  "longitude": "-46.5640479"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Pinheiros II",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4053324",
+  "longitude": "-51.9031403"
 }

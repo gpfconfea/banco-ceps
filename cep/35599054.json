@@ -5,5 +5,7 @@
   "bairro": "Bom Retiro",
   "localidade": "Arcos",
   "uf": "MG",
-  "ibge": "3104205"
+  "ibge": "3104205",
+  "latitude": "-20.2928216",
+  "longitude": "-45.5353619"
 }

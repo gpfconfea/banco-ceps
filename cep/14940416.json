@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.7537646",
+  "longitude": "-48.8385694"
 }

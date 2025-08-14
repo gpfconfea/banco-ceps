@@ -5,5 +5,7 @@
   "bairro": "Vila Carvalho",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.4742213",
+  "longitude": "-46.9888775"
 }

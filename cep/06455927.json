@@ -5,5 +5,7 @@
   "bairro": "Alphaville Empresarial",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5015651",
+  "longitude": "-46.8570948"
 }

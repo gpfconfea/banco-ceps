@@ -5,5 +5,7 @@
   "bairro": "Padre Miguel",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "latitude": "-8.6757667",
+  "longitude": "-35.58097"
 }

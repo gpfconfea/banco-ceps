@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rubinéia",
   "uf": "SP",
-  "ibge": "3544509"
+  "ibge": "3544509",
+  "latitude": "-20.1714211",
+  "longitude": "-51.000133"
 }

@@ -5,5 +5,7 @@
   "bairro": "Areia Branca dos Assis",
   "localidade": "Mandirituba",
   "uf": "PR",
-  "ibge": "4114302"
+  "ibge": "4114302",
+  "latitude": "-25.8652375",
+  "longitude": "-49.366975"
 }

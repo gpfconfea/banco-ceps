@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Moacir Cerqueira",
   "localidade": "Tabapuã",
   "uf": "SP",
-  "ibge": "3552601"
+  "ibge": "3552601",
+  "latitude": "-20.9660592",
+  "longitude": "-49.0257515"
 }

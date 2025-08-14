@@ -5,5 +5,7 @@
   "bairro": "Guarapiranga",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.4016298",
+  "longitude": "-42.8898774"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "18218971",
   "logradouro": "Rua Onório Sales",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Varginha",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.7309552",
+  "longitude": "-48.1999516"
 }

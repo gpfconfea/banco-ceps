@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-20.6151048",
+  "longitude": "-46.0535358"
 }

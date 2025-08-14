@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-12.9722089",
+  "longitude": "-38.5084353"
 }

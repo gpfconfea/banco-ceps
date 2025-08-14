@@ -1,9 +1,11 @@
 {
   "cep": "96203900",
   "logradouro": "Avenida Itália Quilômetro 8",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Carreiros",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-32.0805199",
+  "longitude": "-52.1549276"
 }

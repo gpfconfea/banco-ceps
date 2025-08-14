@@ -5,5 +5,7 @@
   "bairro": "Parque São José",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.2417535",
+  "longitude": "-45.901575"
 }

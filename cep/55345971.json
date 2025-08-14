@@ -1,9 +1,11 @@
 {
   "cep": "55345971",
   "logradouro": "Avenida Águas Belas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Iati",
   "uf": "PE",
-  "ibge": "2606507"
+  "ibge": "2606507",
+  "latitude": "-9.0079459",
+  "longitude": "-36.8658789"
 }

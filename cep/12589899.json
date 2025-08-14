@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Roseira",
   "localidade": "Roseira",
   "uf": "SP",
-  "ibge": "3544301"
+  "ibge": "3544301",
+  "latitude": "-22.9007572",
+  "longitude": "-45.3090077"
 }

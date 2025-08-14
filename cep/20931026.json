@@ -5,5 +5,7 @@
   "bairro": "Caju",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8794896",
+  "longitude": "-43.222281"
 }

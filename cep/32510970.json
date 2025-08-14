@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Igarapé",
   "uf": "MG",
-  "ibge": "3130101"
+  "ibge": "3130101",
+  "latitude": "-20.0731021",
+  "longitude": "-44.3040929"
 }

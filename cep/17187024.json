@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Iacanga",
   "uf": "SP",
-  "ibge": "3519105"
+  "ibge": "3519105",
+  "latitude": "-21.8823157",
+  "longitude": "-49.0132773"
 }

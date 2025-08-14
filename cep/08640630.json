@@ -5,5 +5,7 @@
   "bairro": "Parque Cerejeiras",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.6409698",
+  "longitude": "-46.3410729"
 }

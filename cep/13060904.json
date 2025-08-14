@@ -1,9 +1,11 @@
 {
   "cep": "13060904",
   "logradouro": "Avenida John Boyd Dunlop",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Ipaussurama",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9227465",
+  "longitude": "-47.1206642"
 }

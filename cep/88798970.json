@@ -1,9 +1,11 @@
 {
   "cep": "88798970",
   "logradouro": "Rodovia SC-437 Quilômetro 08",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pescaria Brava",
   "localidade": "Pescaria Brava",
   "uf": "SC",
-  "ibge": "4212650"
+  "ibge": "4212650",
+  "latitude": "-28.3365743",
+  "longitude": "-48.823109"
 }

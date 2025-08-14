@@ -5,5 +5,7 @@
   "bairro": "Residencial São José",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9663249",
+  "longitude": "-47.1622057"
 }

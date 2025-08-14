@@ -5,5 +5,7 @@
   "bairro": "San Diego",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-18.7003602",
+  "longitude": "-40.4030268"
 }

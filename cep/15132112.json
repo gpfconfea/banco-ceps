@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial",
   "localidade": "Mirassol",
   "uf": "SP",
-  "ibge": "3530300"
+  "ibge": "3530300",
+  "latitude": "-20.8063884",
+  "longitude": "-49.5185643"
 }

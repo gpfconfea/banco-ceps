@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ventania",
   "uf": "PR",
-  "ibge": "4128534"
+  "ibge": "4128534",
+  "latitude": "-24.2479282",
+  "longitude": "-50.2457167"
 }

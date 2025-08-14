@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera III",
   "localidade": "Taguaí",
   "uf": "SP",
-  "ibge": "3553005"
+  "ibge": "3553005",
+  "latitude": "-23.4586318",
+  "longitude": "-49.3979487"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "13900915",
   "logradouro": "Rua General Osório",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-22.704871",
+  "longitude": "-46.7635145"
 }

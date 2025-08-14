@@ -1,9 +1,11 @@
 {
   "cep": "15385990",
   "logradouro": "Alameda das Hortencias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ilha Solteira",
   "uf": "SP",
-  "ibge": "3520442"
+  "ibge": "3520442",
+  "latitude": "-20.4514858",
+  "longitude": "-51.3159781"
 }

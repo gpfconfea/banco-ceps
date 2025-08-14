@@ -5,5 +5,7 @@
   "bairro": "Conforto",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.5182348",
+  "longitude": "-44.1335502"
 }

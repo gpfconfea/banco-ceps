@@ -1,9 +1,11 @@
 {
   "cep": "29778982",
   "logradouro": "Rua Sebastião Nunes Rosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José de Mantenópolis",
   "localidade": "Mantenópolis",
   "uf": "ES",
-  "ibge": "3203304"
+  "ibge": "3203304",
+  "latitude": "-18.8916546",
+  "longitude": "-41.0807254"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque do Horto",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.4872262",
+  "longitude": "-47.4065385"
 }

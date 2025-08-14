@@ -5,5 +5,7 @@
   "bairro": "Residencial Costa Verde",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.6135847",
+  "longitude": "-47.429217"
 }

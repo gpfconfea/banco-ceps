@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíba",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.3004768",
+  "longitude": "-45.9773758"
 }

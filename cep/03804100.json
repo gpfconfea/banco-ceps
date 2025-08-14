@@ -5,5 +5,7 @@
   "bairro": "Parque Boturussu",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.49798",
+  "longitude": "-46.485251"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Floresta",
   "uf": "PR",
-  "ibge": "4107900"
+  "ibge": "4107900",
+  "latitude": "-23.6144046",
+  "longitude": "-52.0819003"
 }

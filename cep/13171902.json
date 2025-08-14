@@ -1,9 +1,11 @@
 {
   "cep": "13171902",
   "logradouro": "Avenida Saudade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Planalto do Sol",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "latitude": "-22.8347296",
+  "longitude": "-47.2665035"
 }

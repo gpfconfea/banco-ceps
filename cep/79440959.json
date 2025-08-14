@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaraguari",
   "uf": "MS",
-  "ibge": "5004908"
+  "ibge": "5004908",
+  "latitude": "-20.0977132",
+  "longitude": "-54.4374679"
 }

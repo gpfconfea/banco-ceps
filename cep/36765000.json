@@ -5,5 +5,7 @@
   "bairro": "São João da Sapucaia",
   "localidade": "Laranjal",
   "uf": "MG",
-  "ibge": "3138005"
+  "ibge": "3138005",
+  "latitude": "-21.2900333",
+  "longitude": "-42.4259144"
 }

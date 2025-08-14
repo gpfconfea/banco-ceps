@@ -5,5 +5,7 @@
   "bairro": "Estação",
   "localidade": "Araucária",
   "uf": "PR",
-  "ibge": "4101804"
+  "ibge": "4101804",
+  "latitude": "-25.5753816",
+  "longitude": "-49.391974"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Renascença",
   "uf": "PR",
-  "ibge": "4121604"
+  "ibge": "4121604",
+  "latitude": "-26.1576069",
+  "longitude": "-52.9731036"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.2044096",
+  "longitude": "-46.8641742"
 }

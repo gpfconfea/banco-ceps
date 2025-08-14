@@ -1,9 +1,11 @@
 {
   "cep": "48460970",
   "logradouro": "Rua Ademar Fontes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Nova Soure",
   "uf": "BA",
-  "ibge": "2922904"
+  "ibge": "2922904",
+  "latitude": "-11.2357547",
+  "longitude": "-38.4831743"
 }

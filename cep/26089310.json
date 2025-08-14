@@ -5,5 +5,7 @@
   "bairro": "Carlos Sampaio",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.7053045",
+  "longitude": "-43.5186396"
 }

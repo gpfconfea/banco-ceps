@@ -5,5 +5,7 @@
   "bairro": "Vila Braga",
   "localidade": "Aguaí",
   "uf": "SP",
-  "ibge": "3500303"
+  "ibge": "3500303",
+  "latitude": "-22.0548765",
+  "longitude": "-46.9722853"
 }

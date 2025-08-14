@@ -5,5 +5,7 @@
   "bairro": "Novo Aleixo",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-21.0815917",
+  "longitude": "-49.2391364"
 }

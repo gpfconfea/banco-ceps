@@ -1,9 +1,11 @@
 {
   "cep": "98315970",
   "logradouro": "Estrada Linha Santa Rosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Rosa",
   "localidade": "Santa Rosa",
   "uf": "RS",
-  "ibge": "4317202"
+  "ibge": "4317202",
+  "latitude": "-27.8669682",
+  "longitude": "-54.5834051"
 }

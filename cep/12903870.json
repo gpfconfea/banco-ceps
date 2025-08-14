@@ -5,5 +5,7 @@
   "bairro": "Green Park",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.9238272",
+  "longitude": "-46.5377109"
 }

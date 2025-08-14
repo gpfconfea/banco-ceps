@@ -1,9 +1,11 @@
 {
   "cep": "42816901",
   "logradouro": "Rodovia BA-530 - Via Cetrel - Via Atlântica",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pólo Industrial de Camaçari",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.8086596",
+  "longitude": "-38.233632"
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Sato",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5910326",
+  "longitude": "-45.3429846"
 }

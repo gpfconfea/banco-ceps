@@ -1,9 +1,11 @@
 {
   "cep": "35321970",
   "logradouro": "Rua Doutor José Augusto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio do Manhuaçu",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "latitude": "-19.7675572",
+  "longitude": "-42.2278593"
 }

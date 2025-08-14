@@ -1,9 +1,11 @@
 {
   "cep": "99125971",
   "logradouro": "Rua São Roque",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Roque",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "latitude": "-28.3052078",
+  "longitude": "-52.3964926"
 }

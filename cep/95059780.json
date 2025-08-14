@@ -5,5 +5,7 @@
   "bairro": "Serrano",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "latitude": "-4.7474946",
+  "longitude": "-37.9618088"
 }

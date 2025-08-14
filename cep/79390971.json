@@ -1,9 +1,11 @@
 {
   "cep": "79390971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bodoquena",
   "uf": "MS",
-  "ibge": "5002159"
+  "ibge": "5002159",
+  "latitude": "-20.5357765",
+  "longitude": "-56.897951"
 }

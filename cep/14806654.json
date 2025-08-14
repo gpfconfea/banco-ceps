@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.7454154",
+  "longitude": "-48.1563649"
 }

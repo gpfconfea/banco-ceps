@@ -5,5 +5,7 @@
   "bairro": "Poço Um",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6434861",
+  "longitude": "-49.4340512"
 }

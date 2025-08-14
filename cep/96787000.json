@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-30.8459892",
+  "longitude": "-51.7785104"
 }

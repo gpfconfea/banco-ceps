@@ -5,5 +5,7 @@
   "bairro": "Vila Bocaina",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-29.9620922",
+  "longitude": "-51.1044246"
 }

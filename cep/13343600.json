@@ -5,5 +5,7 @@
   "bairro": "Jardim do Sol",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0988801",
+  "longitude": "-47.2048841"
 }

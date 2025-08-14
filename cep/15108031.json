@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Ipiguá",
   "uf": "SP",
-  "ibge": "3521150"
+  "ibge": "3521150",
+  "latitude": "-20.6589076",
+  "longitude": "-49.3868893"
 }

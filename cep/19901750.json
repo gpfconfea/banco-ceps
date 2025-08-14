@@ -5,5 +5,7 @@
   "bairro": "Residencial Matioli",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-23.0005413",
+  "longitude": "-49.872096"
 }

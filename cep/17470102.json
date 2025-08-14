@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Santa Luzia",
   "localidade": "Duartina",
   "uf": "SP",
-  "ibge": "3514502"
+  "ibge": "3514502",
+  "latitude": "-22.4136724",
+  "longitude": "-49.4060363"
 }

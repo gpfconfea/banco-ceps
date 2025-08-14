@@ -5,5 +5,7 @@
   "bairro": "Jardim do Trevo",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.3511481",
+  "longitude": "-47.3909902"
 }

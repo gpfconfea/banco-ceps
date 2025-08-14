@@ -5,5 +5,7 @@
   "bairro": "Vila do Americano",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "latitude": "-23.5458792",
+  "longitude": "-46.3809458"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "latitude": "-22.3325065",
+  "longitude": "-47.1636998"
 }

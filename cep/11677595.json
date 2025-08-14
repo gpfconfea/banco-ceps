@@ -5,5 +5,7 @@
   "bairro": "Jardim do Sol",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5825979",
+  "longitude": "-45.3423373"
 }

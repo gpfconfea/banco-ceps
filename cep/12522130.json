@@ -5,5 +5,7 @@
   "bairro": "Vila Guará",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.800091",
+  "longitude": "-45.1721543"
 }

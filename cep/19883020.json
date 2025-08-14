@@ -5,5 +5,7 @@
   "bairro": "Vila Assunta",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.7486642",
+  "longitude": "-50.3789271"
 }
