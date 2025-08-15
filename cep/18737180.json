@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Recanto dos Pássaros",
   "localidade": "Itaí",
   "uf": "SP",
-  "ibge": "3521804"
+  "ibge": "3521804",
+  "latitude": "-23.4035959",
+  "longitude": "-49.099385"
 }

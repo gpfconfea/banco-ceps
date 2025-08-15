@@ -1,9 +1,11 @@
 {
   "cep": "84190970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Socavão",
   "localidade": "Castro",
   "uf": "PR",
-  "ibge": "4104907"
+  "ibge": "4104907",
+  "latitude": "-10.4825287",
+  "longitude": "-38.5007986"
 }

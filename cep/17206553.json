@@ -5,5 +5,7 @@
   "bairro": "Residencial Morada do Sol",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-22.2207797",
+  "longitude": "-48.5252663"
 }

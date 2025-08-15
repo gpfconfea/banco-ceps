@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Lagoa da Prata",
   "uf": "MG",
-  "ibge": "3137205"
+  "ibge": "3137205",
+  "latitude": "-20.0350926",
+  "longitude": "-45.5479654"
 }

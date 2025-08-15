@@ -5,5 +5,7 @@
   "bairro": "Gleba Ribeirão Maringá",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3727167",
+  "longitude": "-51.9714083"
 }

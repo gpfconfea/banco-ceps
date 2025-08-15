@@ -1,9 +1,11 @@
 {
   "cep": "83647970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itambezinho",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4489246",
+  "longitude": "-49.5502267"
 }

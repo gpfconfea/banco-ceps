@@ -5,5 +5,7 @@
   "bairro": "Rancho Alegre III",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.5123587",
+  "longitude": "-54.676428"
 }

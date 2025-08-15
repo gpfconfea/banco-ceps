@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Pirapora",
   "uf": "MG",
-  "ibge": "3151206"
+  "ibge": "3151206",
+  "latitude": "-17.3238585",
+  "longitude": "-44.9058235"
 }

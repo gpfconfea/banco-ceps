@@ -5,5 +5,7 @@
   "bairro": "Jardim Hanashiro",
   "localidade": "Caldas Novas",
   "uf": "GO",
-  "ibge": "5204508"
+  "ibge": "5204508",
+  "latitude": "-17.721846",
+  "longitude": "-49.1048373"
 }

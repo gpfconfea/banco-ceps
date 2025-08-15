@@ -1,9 +1,11 @@
 {
   "cep": "36418970",
   "logradouro": "Rua Adelino Rabelo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Quitéria",
   "localidade": "Congonhas",
   "uf": "MG",
-  "ibge": "3118007"
+  "ibge": "3118007",
+  "latitude": "-20.53922",
+  "longitude": "-43.9145562"
 }

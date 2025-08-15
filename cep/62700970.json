@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Canindé",
   "uf": "CE",
-  "ibge": "2302800"
+  "ibge": "2302800",
+  "latitude": "-4.3571116",
+  "longitude": "-39.316525"
 }

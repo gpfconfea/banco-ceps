@@ -5,5 +5,7 @@
   "bairro": "Jardim Bandeirante",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "latitude": "-15.4324624",
+  "longitude": "-47.6108426"
 }

@@ -5,5 +5,7 @@
   "bairro": "Miramontes",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.4901072",
+  "longitude": "-47.3991326"
 }

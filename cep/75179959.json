@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Terezópolis de Goiás",
   "uf": "GO",
-  "ibge": "5221197"
+  "ibge": "5221197",
+  "latitude": "-16.4999502",
+  "longitude": "-49.0688242"
 }

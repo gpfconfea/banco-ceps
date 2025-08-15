@@ -5,5 +5,7 @@
   "bairro": "Prado",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9279649",
+  "longitude": "-43.9587928"
 }

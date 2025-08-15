@@ -5,5 +5,7 @@
   "bairro": "Dos Funcionários",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "latitude": "-28.6349321",
+  "longitude": "-53.5754027"
 }

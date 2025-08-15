@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Santana do Riacho",
   "uf": "MG",
-  "ibge": "3159001"
+  "ibge": "3159001",
+  "latitude": "-19.168611",
+  "longitude": "-43.714444"
 }

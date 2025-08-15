@@ -5,5 +5,7 @@
   "bairro": "Novo Mundo",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6490754",
+  "longitude": "-56.2004454"
 }

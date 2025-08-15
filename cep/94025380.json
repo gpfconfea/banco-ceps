@@ -5,5 +5,7 @@
   "bairro": "União",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.9281445",
+  "longitude": "-51.0042727"
 }

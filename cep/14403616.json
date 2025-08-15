@@ -5,5 +5,7 @@
   "bairro": "Jardim Ângela Rosa",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-22.022483",
+  "longitude": "-47.895799"
 }

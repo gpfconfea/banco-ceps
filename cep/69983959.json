@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marechal Thaumaturgo",
   "uf": "AC",
-  "ibge": "1200351"
+  "ibge": "1200351",
+  "latitude": "-8.9482968",
+  "longitude": "-72.7856263"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "87030900",
   "logradouro": "Rua Deputado Ardinal Ribas Bloco 28",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Zona 07",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4109152",
+  "longitude": "-51.9361952"
 }

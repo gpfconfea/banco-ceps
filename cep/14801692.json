@@ -5,5 +5,7 @@
   "bairro": "Residencial Ravena",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.9642551",
+  "longitude": "-47.9297494"
 }

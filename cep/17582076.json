@@ -6,5 +6,7 @@
   "bairro": "Parque Residencial Primavera",
   "localidade": "Pompéia",
   "uf": "SP",
-  "ibge": "3540002"
+  "ibge": "3540002",
+  "latitude": "-22.0963291",
+  "longitude": "-50.1833577"
 }

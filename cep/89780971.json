@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Xavantina",
   "uf": "SC",
-  "ibge": "4219606"
+  "ibge": "4219606",
+  "latitude": "-27.0683181",
+  "longitude": "-52.3415999"
 }

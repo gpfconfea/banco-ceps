@@ -5,5 +5,7 @@
   "bairro": "Campos Elíseos",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-21.3683076",
+  "longitude": "-45.526765"
 }

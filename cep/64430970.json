@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Pedro do Piauí",
   "uf": "PI",
-  "ibge": "2210508"
+  "ibge": "2210508",
+  "latitude": "-5.9256683",
+  "longitude": "-42.7200597"
 }

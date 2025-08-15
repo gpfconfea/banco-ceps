@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Planalto",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "-15.539096",
+  "longitude": "-47.2906508"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Primavera",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-22.3820845",
+  "longitude": "-49.125782"
 }

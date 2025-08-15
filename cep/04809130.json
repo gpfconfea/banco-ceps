@@ -5,5 +5,7 @@
   "bairro": "Terceira Divisão de Interlagos",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7185765",
+  "longitude": "-46.694438"
 }

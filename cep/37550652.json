@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Adélia",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2435422",
+  "longitude": "-45.9641926"
 }

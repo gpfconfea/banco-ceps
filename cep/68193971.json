@@ -1,9 +1,11 @@
 {
   "cep": "68193971",
   "logradouro": "Rua Quinze de Novembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Novo Progresso",
   "uf": "PA",
-  "ibge": "1505031"
+  "ibge": "1505031",
+  "latitude": "-7.0407268",
+  "longitude": "-55.4123912"
 }

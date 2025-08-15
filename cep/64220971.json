@@ -1,9 +1,11 @@
 {
   "cep": "64220971",
   "logradouro": "Avenida Senador Joaquim Pires",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Luís Correia",
   "uf": "PI",
-  "ibge": "2205706"
+  "ibge": "2205706",
+  "latitude": "-2.8811858",
+  "longitude": "-41.6635119"
 }

@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Santa Cruz da Conceição",
   "uf": "SP",
-  "ibge": "3546207"
+  "ibge": "3546207",
+  "latitude": "-22.1321076",
+  "longitude": "-47.4514982"
 }

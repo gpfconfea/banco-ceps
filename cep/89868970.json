@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Saudades",
   "uf": "SC",
-  "ibge": "4217303"
+  "ibge": "4217303",
+  "latitude": "-26.9273119",
+  "longitude": "-52.9958598"
 }

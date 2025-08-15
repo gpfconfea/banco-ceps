@@ -1,9 +1,11 @@
 {
   "cep": "83255996",
   "logradouro": "Rua Alba de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pontal do Paraná",
   "uf": "PR",
-  "ibge": "4119954"
+  "ibge": "4119954",
+  "latitude": "-25.6520433",
+  "longitude": "-48.4430632"
 }

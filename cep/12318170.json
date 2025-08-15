@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Amélia",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.3180488",
+  "longitude": "-45.9595549"
 }

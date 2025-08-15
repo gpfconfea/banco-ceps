@@ -5,5 +5,7 @@
   "bairro": "Jardim do Bosque",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "latitude": "-20.7775508",
+  "longitude": "-49.366439"
 }

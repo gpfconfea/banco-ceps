@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Fortuna",
   "uf": "SC",
-  "ibge": "4214904"
+  "ibge": "4214904",
+  "latitude": "-28.1404347",
+  "longitude": "-49.1158859"
 }

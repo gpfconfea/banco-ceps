@@ -5,5 +5,7 @@
   "bairro": "Espírito Santo",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-13.5224953",
+  "longitude": "-39.9749659"
 }

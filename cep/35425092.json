@@ -5,5 +5,7 @@
   "bairro": "Fazendinha",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "latitude": "-23.9536619",
+  "longitude": "-46.4587199"
 }

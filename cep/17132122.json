@@ -5,5 +5,7 @@
   "bairro": "Vale dos Pinheiros",
   "localidade": "Agudos",
   "uf": "SP",
-  "ibge": "3500709"
+  "ibge": "3500709",
+  "latitude": "-22.4735612",
+  "longitude": "-48.9743893"
 }

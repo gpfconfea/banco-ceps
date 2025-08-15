@@ -1,9 +1,11 @@
 {
   "cep": "49220971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Arauá",
   "uf": "SE",
-  "ibge": "2800407"
+  "ibge": "2800407",
+  "latitude": "-11.2643612",
+  "longitude": "-37.6179801"
 }

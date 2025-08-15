@@ -1,9 +1,11 @@
 {
   "cep": "63613975",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Catolé",
   "localidade": "Mombaça",
   "uf": "CE",
-  "ibge": "2308500"
+  "ibge": "2308500",
+  "latitude": "-22.9340756",
+  "longitude": "-45.4739037"
 }

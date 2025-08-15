@@ -5,5 +5,7 @@
   "bairro": "Residencial Atlântico III",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "-23.6482225",
+  "longitude": "-52.623874"
 }

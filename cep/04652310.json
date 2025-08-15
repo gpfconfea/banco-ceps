@@ -5,5 +5,7 @@
   "bairro": "Jardim Cupecê",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.1380811",
+  "longitude": "-46.9321015"
 }

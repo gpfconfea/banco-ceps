@@ -5,5 +5,7 @@
   "bairro": "V Distrito Industrial Alcides Alves da Silva",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4348326",
+  "longitude": "-50.0019785"
 }
