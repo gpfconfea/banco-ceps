@@ -5,5 +5,7 @@
   "bairro": "Vila Independência",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-21.2744867",
+  "longitude": "-48.6861102"
 }

@@ -5,5 +5,7 @@
   "bairro": "Rosa Linda",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-10.0164575",
+  "longitude": "-67.775077"
 }

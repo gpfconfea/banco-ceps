@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Villa Olympia",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4818238",
+  "longitude": "-47.4050442"
 }

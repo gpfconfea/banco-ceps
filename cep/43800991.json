@@ -1,9 +1,11 @@
 {
   "cep": "43800991",
   "logradouro": "Rua Rio do Cunha - Passé",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Candeias",
   "uf": "BA",
-  "ibge": "2906501"
+  "ibge": "2906501",
+  "latitude": "-22.9068467",
+  "longitude": "-43.1728965"
 }

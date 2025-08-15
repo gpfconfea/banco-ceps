@@ -5,5 +5,7 @@
   "bairro": "Residencial Sol Nascente",
   "localidade": "Santa Inês",
   "uf": "MA",
-  "ibge": "2109908"
+  "ibge": "2109908",
+  "latitude": "-14.7655088",
+  "longitude": "-39.2577215"
 }

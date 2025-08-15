@@ -5,5 +5,7 @@
   "bairro": "BNH",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "latitude": "-12.733169",
+  "longitude": "-60.1206176"
 }

@@ -5,5 +5,7 @@
   "bairro": "Campo Seco",
   "localidade": "Rosário do Sul",
   "uf": "RS",
-  "ibge": "4316402"
+  "ibge": "4316402",
+  "latitude": "-30.4995444",
+  "longitude": "-54.85871"
 }

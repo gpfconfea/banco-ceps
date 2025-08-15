@@ -5,5 +5,7 @@
   "bairro": "Jardim Industrial Mariosa",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2624472",
+  "longitude": "-45.9279207"
 }

@@ -5,5 +5,7 @@
   "bairro": "Promorar Vila Maria",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5229002",
+  "longitude": "-46.5712841"
 }

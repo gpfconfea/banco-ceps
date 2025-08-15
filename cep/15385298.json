@@ -6,5 +6,7 @@
   "bairro": "Bela Vista",
   "localidade": "Ilha Solteira",
   "uf": "SP",
-  "ibge": "3520442"
+  "ibge": "3520442",
+  "latitude": "-20.4190727",
+  "longitude": "-51.3376216"
 }

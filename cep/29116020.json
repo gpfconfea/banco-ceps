@@ -5,5 +5,7 @@
   "bairro": "Vila Batista",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3364816",
+  "longitude": "-40.3356879"
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Caldense",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "latitude": "-21.9213948",
+  "longitude": "-46.3928583"
 }

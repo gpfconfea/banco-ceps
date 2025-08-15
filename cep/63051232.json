@@ -5,5 +5,7 @@
   "bairro": "João Cabral",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "latitude": "-7.2305236",
+  "longitude": "-39.3209923"
 }

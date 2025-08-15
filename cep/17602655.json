@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional José Maria Gonçalves Gameiro",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "latitude": "-21.928326",
+  "longitude": "-50.494927"
 }

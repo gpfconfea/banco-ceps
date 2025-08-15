@@ -5,5 +5,7 @@
   "bairro": "Residencial Julio Silva",
   "localidade": "Chavantes",
   "uf": "SP",
-  "ibge": "3557204"
+  "ibge": "3557204",
+  "latitude": "-23.0380664",
+  "longitude": "-49.712346"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "27985971",
   "logradouro": "Rua Lauro Gonçalves Pacheco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Glicério",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "latitude": "-22.2374435",
+  "longitude": "-42.0552203"
 }

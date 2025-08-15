@@ -5,5 +5,7 @@
   "bairro": "Nova Milano",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-29.2733183",
+  "longitude": "-51.339703"
 }

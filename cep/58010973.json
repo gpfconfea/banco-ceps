@@ -1,9 +1,11 @@
 {
   "cep": "58010973",
   "logradouro": "Rua Francisco Londres Terminal de Passageiros Rodoviário",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Varadouro",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.1186529",
+  "longitude": "-34.891124"
 }

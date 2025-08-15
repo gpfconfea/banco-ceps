@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Artur Nogueira",
   "uf": "SP",
-  "ibge": "3503802"
+  "ibge": "3503802",
+  "latitude": "-22.582005",
+  "longitude": "-47.1703354"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "96172970",
   "logradouro": "Estrada da Harmonia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Harmonia",
   "localidade": "Harmonia",
   "uf": "RS",
-  "ibge": "4309555"
+  "ibge": "4309555",
+  "latitude": "-31.361547",
+  "longitude": "-52.2745632"
 }

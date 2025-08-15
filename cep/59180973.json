@@ -1,9 +1,11 @@
 {
   "cep": "59180973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Retiro",
   "localidade": "Espírito Santo",
   "uf": "RN",
-  "ibge": "2403509"
+  "ibge": "2403509",
+  "latitude": "-20.5227406",
+  "longitude": "-40.3779112"
 }

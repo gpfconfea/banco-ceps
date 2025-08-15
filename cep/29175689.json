@@ -5,5 +5,7 @@
   "bairro": "das Laranjeiras",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-19.9322117",
+  "longitude": "-44.405571"
 }

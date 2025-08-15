@@ -1,9 +1,11 @@
 {
   "cep": "63927975",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Várzea da Onça",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.9402608",
+  "longitude": "-38.855053"
 }

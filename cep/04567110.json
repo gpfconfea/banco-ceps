@@ -5,5 +5,7 @@
   "bairro": "Cidade Monções",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.610752",
+  "longitude": "-46.6928156"
 }

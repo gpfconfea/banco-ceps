@@ -1,9 +1,11 @@
 {
   "cep": "45104970",
   "logradouro": "Rua Tercílio Rodrigues do Prado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pradoso",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-14.8539211",
+  "longitude": "-40.8359157"
 }

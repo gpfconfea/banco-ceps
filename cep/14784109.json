@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Barretos II",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-20.5799368",
+  "longitude": "-48.5400742"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "28396970",
   "logradouro": "Rua Geraldino Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Purilândia",
   "localidade": "Porciúncula",
   "uf": "RJ",
-  "ibge": "3304102"
+  "ibge": "3304102",
+  "latitude": "-20.9303116",
+  "longitude": "-41.9576714"
 }

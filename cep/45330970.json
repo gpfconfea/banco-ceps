@@ -1,9 +1,11 @@
 {
   "cep": "45330970",
   "logradouro": "Praça Lomanto Júnior",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cravolândia",
   "uf": "BA",
-  "ibge": "2909505"
+  "ibge": "2909505",
+  "latitude": "-13.3608267",
+  "longitude": "-39.8135852"
 }

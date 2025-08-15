@@ -1,9 +1,11 @@
 {
   "cep": "89700996",
   "logradouro": "Rua Principal - Três de Outubro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "latitude": "-27.2331134",
+  "longitude": "-52.0275531"
 }

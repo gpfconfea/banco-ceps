@@ -6,5 +6,7 @@
   "bairro": "Vila Brasília",
   "localidade": "Iporá",
   "uf": "GO",
-  "ibge": "5210208"
+  "ibge": "5210208",
+  "latitude": "-16.4371073",
+  "longitude": "-51.0937036"
 }

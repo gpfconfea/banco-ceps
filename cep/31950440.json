@@ -5,5 +5,7 @@
   "bairro": "Goiânia",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8679532",
+  "longitude": "-43.8982979"
 }

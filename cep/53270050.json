@@ -5,5 +5,7 @@
   "bairro": "Aguazinha",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-8.002369",
+  "longitude": "-34.880575"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Palhoça",
   "uf": "SC",
-  "ibge": "4211900"
+  "ibge": "4211900",
+  "latitude": "-27.5852524",
+  "longitude": "-48.670546"
 }

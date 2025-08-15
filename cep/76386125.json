@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque das Palmeiras",
   "localidade": "Goianésia",
   "uf": "GO",
-  "ibge": "5208608"
+  "ibge": "5208608",
+  "latitude": "-15.1609295",
+  "longitude": "-49.8032623"
 }

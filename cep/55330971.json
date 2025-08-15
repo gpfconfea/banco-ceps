@@ -1,9 +1,11 @@
 {
   "cep": "55330971",
   "logradouro": "Rua Cachoeira do Pinto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bom Conselho",
   "uf": "PE",
-  "ibge": "2602100"
+  "ibge": "2602100",
+  "latitude": "-9.1984517",
+  "longitude": "-36.5432287"
 }

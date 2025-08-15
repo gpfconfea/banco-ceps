@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ervália",
   "uf": "MG",
-  "ibge": "3124005"
+  "ibge": "3124005",
+  "latitude": "-20.8382878",
+  "longitude": "-42.6555961"
 }

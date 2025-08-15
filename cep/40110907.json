@@ -1,9 +1,11 @@
 {
   "cep": "40110907",
   "logradouro": "Rua Basílio da Gama",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canela",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9949732",
+  "longitude": "-38.5222147"
 }

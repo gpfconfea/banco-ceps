@@ -5,5 +5,7 @@
   "bairro": "Vila Pilar",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.480608",
+  "longitude": "-46.3949445"
 }

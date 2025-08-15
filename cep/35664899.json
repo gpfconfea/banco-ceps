@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Pará de Minas",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "latitude": "-19.8602389",
+  "longitude": "-44.606817"
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio San Marco",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.1988683",
+  "longitude": "-46.8720332"
 }

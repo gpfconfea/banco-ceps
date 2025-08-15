@@ -1,9 +1,11 @@
 {
   "cep": "57740970",
   "logradouro": "Rua João Cassiano Costa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Paulo Jacinto",
   "uf": "AL",
-  "ibge": "2706604"
+  "ibge": "2706604",
+  "latitude": "-9.3703067",
+  "longitude": "-36.3717706"
 }

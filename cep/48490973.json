@@ -1,9 +1,11 @@
 {
   "cep": "48490973",
   "logradouro": "Travessa Primeiro de Maio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Baixa Grande",
   "localidade": "Inhambupe",
   "uf": "BA",
-  "ibge": "2913705"
+  "ibge": "2913705",
+  "latitude": "-11.7868374",
+  "longitude": "-38.3525212"
 }

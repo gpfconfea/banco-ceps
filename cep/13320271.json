@@ -5,5 +5,7 @@
   "bairro": "Vila Teixeira",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.2014935",
+  "longitude": "-47.2942359"
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácara Fernão Dias",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-23.0234244",
+  "longitude": "-46.5385607"
 }

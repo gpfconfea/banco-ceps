@@ -5,5 +5,7 @@
   "bairro": "Residencial Nestor Ville",
   "localidade": "Goianésia",
   "uf": "GO",
-  "ibge": "5208608"
+  "ibge": "5208608",
+  "latitude": "-15.3084271",
+  "longitude": "-49.1320409"
 }

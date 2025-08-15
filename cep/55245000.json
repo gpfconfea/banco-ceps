@@ -5,5 +5,7 @@
   "bairro": "Pão de Açúcar do Poção",
   "localidade": "Poção",
   "uf": "PE",
-  "ibge": "2611200"
+  "ibge": "2611200",
+  "latitude": "-8.2623921",
+  "longitude": "-36.6866581"
 }

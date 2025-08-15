@@ -1,9 +1,11 @@
 {
   "cep": "48918900",
   "logradouro": "Rodovia BA-210",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Juazeiro",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-9.4346413",
+  "longitude": "-40.5234053"
 }

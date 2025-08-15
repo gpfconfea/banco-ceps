@@ -5,5 +5,7 @@
   "bairro": "Jardim Morada do Sol",
   "localidade": "Presidente Venceslau",
   "uf": "SP",
-  "ibge": "3541505"
+  "ibge": "3541505",
+  "latitude": "-21.8591251",
+  "longitude": "-51.8589423"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29293983",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Princesa",
   "localidade": "Rio Novo do Sul",
   "uf": "ES",
-  "ibge": "3204401"
+  "ibge": "3204401",
+  "latitude": "-29.769174",
+  "longitude": "-51.1667183"
 }

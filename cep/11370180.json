@@ -5,5 +5,7 @@
   "bairro": "Vila Cascatinha",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "latitude": "-20.4625675",
+  "longitude": "-41.4149291"
 }

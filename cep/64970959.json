@@ -1,9 +1,11 @@
 {
   "cep": "64970959",
   "logradouro": "Avenida Davi Mascarenhas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Parnaguá",
   "uf": "PI",
-  "ibge": "2207603"
+  "ibge": "2207603",
+  "latitude": "-10.2243695",
+  "longitude": "-44.6373472"
 }

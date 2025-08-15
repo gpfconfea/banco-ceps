@@ -1,9 +1,11 @@
 {
   "cep": "45795970",
   "logradouro": "Praça Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gurupá Mirim",
   "localidade": "Potiraguá",
   "uf": "BA",
-  "ibge": "2925402"
+  "ibge": "2925402",
+  "latitude": "-15.6981664",
+  "longitude": "-39.6253356"
 }

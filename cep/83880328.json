@@ -5,5 +5,7 @@
   "bairro": "Vila Paraíso",
   "localidade": "Rio Negro",
   "uf": "PR",
-  "ibge": "4122305"
+  "ibge": "4122305",
+  "latitude": "-26.1117169",
+  "longitude": "-49.7927016"
 }

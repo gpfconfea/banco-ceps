@@ -5,5 +5,7 @@
   "bairro": "Brasília",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "latitude": "-24.9287206",
+  "longitude": "-53.4290915"
 }

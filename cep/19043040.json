@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1611744",
+  "longitude": "-51.3753489"
 }

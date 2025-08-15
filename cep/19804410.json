@@ -5,5 +5,7 @@
   "bairro": "Vila Silvestre",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-22.6656821",
+  "longitude": "-50.4355619"
 }

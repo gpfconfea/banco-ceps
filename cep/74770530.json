@@ -5,5 +5,7 @@
   "bairro": "Jardim das Aroeiras",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7745171",
+  "longitude": "-49.2755459"
 }

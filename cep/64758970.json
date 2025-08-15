@@ -1,9 +1,11 @@
 {
   "cep": "64758970",
   "logradouro": "Avenida Senhorinha Raqueline Setor 1.2 Quadra 8 Lotes 11 e 12",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Queimada Nova",
   "uf": "PI",
-  "ibge": "2208650"
+  "ibge": "2208650",
+  "latitude": "-8.5809551",
+  "longitude": "-41.4184862"
 }

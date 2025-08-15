@@ -1,9 +1,11 @@
 {
   "cep": "46105970",
   "logradouro": "Praça Santo Antônio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ubiracaba",
   "localidade": "Brumado",
   "uf": "BA",
-  "ibge": "2904605"
+  "ibge": "2904605",
+  "latitude": "-13.4416694",
+  "longitude": "-42.2391414"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Cleto",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.267062",
+  "longitude": "-47.3034755"
 }

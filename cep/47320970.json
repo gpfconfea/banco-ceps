@@ -1,9 +1,11 @@
 {
   "cep": "47320970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pau a Pique",
   "localidade": "Casa Nova",
   "uf": "BA",
-  "ibge": "2907202"
+  "ibge": "2907202",
+  "latitude": "-16.4102323",
+  "longitude": "-39.0806198"
 }
