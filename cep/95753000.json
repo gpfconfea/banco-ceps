@@ -5,5 +5,7 @@
   "bairro": "Linha São João",
   "localidade": "Salvador do Sul",
   "uf": "RS",
-  "ibge": "4316501"
+  "ibge": "4316501",
+  "latitude": "-29.4238869",
+  "longitude": "-51.6080218"
 }

@@ -6,5 +6,7 @@
   "bairro": "Chácaras Bela Vista",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-23.0174703",
+  "longitude": "-47.4955554"
 }

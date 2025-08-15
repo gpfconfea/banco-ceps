@@ -1,9 +1,11 @@
 {
   "cep": "62664972",
   "logradouro": "Rua Sales Mendonça",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caxitoré",
   "localidade": "Umirim",
   "uf": "CE",
-  "ibge": "2313757"
+  "ibge": "2313757",
+  "latitude": "-3.7323164",
+  "longitude": "-39.3675782"
 }

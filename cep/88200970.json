@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tijucas",
   "uf": "SC",
-  "ibge": "4218004"
+  "ibge": "4218004",
+  "latitude": "-27.240063",
+  "longitude": "-48.6336183"
 }

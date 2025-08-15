@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraty",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5553317",
+  "longitude": "-47.3639141"
 }

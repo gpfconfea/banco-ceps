@@ -1,9 +1,11 @@
 {
   "cep": "89270990",
   "logradouro": "Rua Marcionilo dos Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Guaramirim",
   "uf": "SC",
-  "ibge": "4206504"
+  "ibge": "4206504",
+  "latitude": "-26.4597726",
+  "longitude": "-48.9123187"
 }

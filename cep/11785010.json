@@ -5,5 +5,7 @@
   "bairro": "Quinta do Guaraú",
   "localidade": "Peruíbe",
   "uf": "SP",
-  "ibge": "3537602"
+  "ibge": "3537602",
+  "latitude": "-24.3615251",
+  "longitude": "-47.0171157"
 }

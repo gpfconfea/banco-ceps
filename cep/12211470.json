@@ -5,5 +5,7 @@
   "bairro": "Jardim Ouro Preto",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.155841",
+  "longitude": "-45.8917957"
 }

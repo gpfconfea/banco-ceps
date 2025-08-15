@@ -5,5 +5,7 @@
   "bairro": "Jardim Camila",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5493816",
+  "longitude": "-46.903315"
 }

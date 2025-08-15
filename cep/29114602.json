@@ -5,5 +5,7 @@
   "bairro": "Chácara do Conde",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3294771",
+  "longitude": "-40.344729"
 }

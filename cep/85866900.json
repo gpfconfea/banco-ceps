@@ -1,9 +1,11 @@
 {
   "cep": "85866900",
   "logradouro": "Avenida Sílvio Américo Sasdelli",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itaipu A",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.4947925",
+  "longitude": "-54.5705401"
 }

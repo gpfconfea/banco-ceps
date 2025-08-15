@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Aparecida",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4285558",
+  "longitude": "-46.5152098"
 }

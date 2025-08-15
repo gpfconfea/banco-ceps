@@ -1,9 +1,11 @@
 {
   "cep": "65010910",
   "logradouro": "Avenida Pedro II",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5276199",
+  "longitude": "-44.305363"
 }

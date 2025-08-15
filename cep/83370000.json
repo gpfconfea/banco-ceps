@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Antonina",
   "uf": "PR",
-  "ibge": "4101200"
+  "ibge": "4101200",
+  "latitude": "-25.4298854",
+  "longitude": "-48.7125431"
 }

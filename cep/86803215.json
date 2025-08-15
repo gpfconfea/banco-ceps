@@ -5,5 +5,7 @@
   "bairro": "Parque Bela Vista",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5344553",
+  "longitude": "-51.4580163"
 }

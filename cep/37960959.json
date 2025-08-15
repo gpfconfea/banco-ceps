@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Tomás de Aquino",
   "uf": "MG",
-  "ibge": "3165107"
+  "ibge": "3165107",
+  "latitude": "-20.7826207",
+  "longitude": "-47.095582"
 }

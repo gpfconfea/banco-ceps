@@ -5,5 +5,7 @@
   "bairro": "Jardim Dona Elvira",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5354438",
+  "longitude": "-46.9338481"
 }

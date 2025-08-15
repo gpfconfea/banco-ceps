@@ -1,9 +1,11 @@
 {
   "cep": "78240970",
   "logradouro": "Avenida Januário Santana do Carmo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque das Américas",
   "localidade": "Porto Esperidião",
   "uf": "MT",
-  "ibge": "5106828"
+  "ibge": "5106828",
+  "latitude": "-15.853368",
+  "longitude": "-58.4691944"
 }

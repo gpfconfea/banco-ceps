@@ -1,9 +1,11 @@
 {
   "cep": "55590971",
   "logradouro": "Loteamento Santo Cristo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.398109",
+  "longitude": "-35.0609851"
 }

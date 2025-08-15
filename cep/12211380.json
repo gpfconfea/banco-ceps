@@ -5,5 +5,7 @@
   "bairro": "Vila Jaci",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.1600162",
+  "longitude": "-45.8944082"
 }

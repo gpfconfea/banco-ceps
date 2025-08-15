@@ -5,5 +5,7 @@
   "bairro": "Jardim Pires de Mello",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5268727",
+  "longitude": "-47.4714289"
 }

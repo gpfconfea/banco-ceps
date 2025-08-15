@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Luzia",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4154889",
+  "longitude": "-54.6398603"
 }

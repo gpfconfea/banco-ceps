@@ -5,5 +5,7 @@
   "bairro": "Jardim Caiçara",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-21.5481647",
+  "longitude": "-42.66445"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Lisboa",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9744429",
+  "longitude": "-47.1044395"
 }

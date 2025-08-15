@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Croatá",
   "uf": "CE",
-  "ibge": "2304236"
+  "ibge": "2304236",
+  "latitude": "-4.4675542",
+  "longitude": "-40.8857563"
 }

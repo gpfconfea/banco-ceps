@@ -1,9 +1,11 @@
 {
   "cep": "48790959",
   "logradouro": "Avenida Antônio Carlos Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tucano",
   "uf": "BA",
-  "ibge": "2931905"
+  "ibge": "2931905",
+  "latitude": "-10.9710389",
+  "longitude": "-38.7907745"
 }

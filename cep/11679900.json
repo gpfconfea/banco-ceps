@@ -1,9 +1,11 @@
 {
   "cep": "11679900",
   "logradouro": "Rodovia Rio-Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tabatinga",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.7698319",
+  "longitude": "-45.688794"
 }

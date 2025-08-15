@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "latitude": "-19.620802",
+  "longitude": "-43.2191575"
 }

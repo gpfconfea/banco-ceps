@@ -1,9 +1,11 @@
 {
   "cep": "39463970",
   "logradouro": "Rua Joaquim José da Luz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nhandutiba",
   "localidade": "Manga",
   "uf": "MG",
-  "ibge": "3139300"
+  "ibge": "3139300",
+  "latitude": "-14.6300262",
+  "longitude": "-44.2011587"
 }

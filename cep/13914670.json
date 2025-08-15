@@ -5,5 +5,7 @@
   "bairro": "Guedes",
   "localidade": "Jaguariúna",
   "uf": "SP",
-  "ibge": "3524709"
+  "ibge": "3524709",
+  "latitude": "-23.0983327",
+  "longitude": "-47.7021122"
 }

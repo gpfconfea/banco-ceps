@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rosa",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "latitude": "-22.3681349",
+  "longitude": "-46.939812"
 }

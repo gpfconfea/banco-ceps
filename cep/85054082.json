@@ -6,5 +6,7 @@
   "bairro": "Industrial",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.342659",
+  "longitude": "-51.4986298"
 }

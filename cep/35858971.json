@@ -1,9 +1,11 @@
 {
   "cep": "35858971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Brejaúba",
   "localidade": "Conceição do Mato Dentro",
   "uf": "MG",
-  "ibge": "3117504"
+  "ibge": "3117504",
+  "latitude": "-19.2055612",
+  "longitude": "-43.1483832"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Jurumirim",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.200095",
+  "longitude": "-49.3719628"
 }

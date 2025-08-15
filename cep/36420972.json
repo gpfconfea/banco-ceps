@@ -1,9 +1,11 @@
 {
   "cep": "36420972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Água Limpa",
   "localidade": "Ouro Branco",
   "uf": "MG",
-  "ibge": "3145901"
+  "ibge": "3145901",
+  "latitude": "-19.9279877",
+  "longitude": "-43.3694121"
 }

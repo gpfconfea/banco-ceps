@@ -1,9 +1,11 @@
 {
   "cep": "78048907",
   "logradouro": "Avenida dos Florais",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ribeirão do Lipa",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5386515",
+  "longitude": "-56.0973588"
 }

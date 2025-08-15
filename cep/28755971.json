@@ -1,9 +1,11 @@
 {
   "cep": "28755971",
   "logradouro": "Rua João de Moraes Martins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Visconde de Imbé",
   "localidade": "Trajano de Moraes",
   "uf": "RJ",
-  "ibge": "3305901"
+  "ibge": "3305901",
+  "latitude": "-22.0680867",
+  "longitude": "-42.1592671"
 }

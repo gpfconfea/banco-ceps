@@ -1,9 +1,11 @@
 {
   "cep": "55950971",
   "logradouro": "Rua do Comercio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Chá de Sapé",
   "localidade": "Itaquitinga",
   "uf": "PE",
-  "ibge": "2607802"
+  "ibge": "2607802",
+  "latitude": "-7.687889",
+  "longitude": "-35.0463624"
 }

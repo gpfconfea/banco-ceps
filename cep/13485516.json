@@ -5,5 +5,7 @@
   "bairro": "Residenciais Fazenda Itapema",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5293814",
+  "longitude": "-47.3915109"
 }

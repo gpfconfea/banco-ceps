@@ -5,5 +5,7 @@
   "bairro": "Vila Costa e Silva",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.103802",
+  "longitude": "-47.2117296"
 }

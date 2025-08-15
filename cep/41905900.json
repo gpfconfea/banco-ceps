@@ -1,9 +1,11 @@
 {
   "cep": "41905900",
   "logradouro": "Rua Alto da Alegria",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nordeste",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-13.0075362",
+  "longitude": "-38.4699604"
 }

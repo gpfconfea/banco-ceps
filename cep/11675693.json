@@ -5,5 +5,7 @@
   "bairro": "Jardim Bandeirantes",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.6111733",
+  "longitude": "-45.4233606"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Atílio Silvano",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4570652",
+  "longitude": "-47.4752919"
 }

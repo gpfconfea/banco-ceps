@@ -1,9 +1,11 @@
 {
   "cep": "61758974",
   "logradouro": "Rua José Carlos Gadelha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tapera",
   "localidade": "Aquiraz",
   "uf": "CE",
-  "ibge": "2301000"
+  "ibge": "2301000",
+  "latitude": "-3.9513999",
+  "longitude": "-38.3492895"
 }

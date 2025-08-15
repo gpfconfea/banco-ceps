@@ -5,5 +5,7 @@
   "bairro": "Residencial Doutor Manoel Lopes",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3384823",
+  "longitude": "-49.1007952"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Pedro do Suaçuí",
   "uf": "MG",
-  "ibge": "3164100"
+  "ibge": "3164100",
+  "latitude": "-18.365556",
+  "longitude": "-42.602778"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bosque do Embu",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "latitude": "-23.647785",
+  "longitude": "-46.8590246"
 }

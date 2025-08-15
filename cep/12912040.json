@@ -5,5 +5,7 @@
   "bairro": "Vila Municipal",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-23.12108",
+  "longitude": "-46.4528844"
 }
