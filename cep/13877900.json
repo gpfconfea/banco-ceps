@@ -1,9 +1,11 @@
 {
   "cep": "13877900",
   "logradouro": "Rodovia SP-344",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Industrial",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "latitude": "-21.9955347",
+  "longitude": "-46.8078241"
 }

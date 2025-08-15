@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Lagos",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.3863639",
+  "longitude": "-48.7220328"
 }

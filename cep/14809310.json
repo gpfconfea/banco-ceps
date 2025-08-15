@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Jardim do Valle",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.7217048",
+  "longitude": "-48.1650722"
 }

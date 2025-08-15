@@ -1,9 +1,11 @@
 {
   "cep": "68747971",
   "logradouro": "Vila de Apeú",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Apeú",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "latitude": "-1.2988912",
+  "longitude": "-47.9923591"
 }

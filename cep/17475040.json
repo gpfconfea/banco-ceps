@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Angelo Sabadin",
   "localidade": "Lucianópolis",
   "uf": "SP",
-  "ibge": "3527504"
+  "ibge": "3527504",
+  "latitude": "-23.4442458",
+  "longitude": "-46.7328965"
 }

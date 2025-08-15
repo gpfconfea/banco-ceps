@@ -5,5 +5,7 @@
   "bairro": "União",
   "localidade": "Estância Velha",
   "uf": "RS",
-  "ibge": "4307609"
+  "ibge": "4307609",
+  "latitude": "-29.6621604",
+  "longitude": "-51.164007"
 }

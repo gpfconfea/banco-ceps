@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-23.0183771",
+  "longitude": "-45.5721621"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial São Domingos",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.4808183",
+  "longitude": "-47.4197807"
 }

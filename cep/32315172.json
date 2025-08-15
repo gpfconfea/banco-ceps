@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim Eldorado",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.9415724",
+  "longitude": "-44.0416566"
 }

@@ -5,5 +5,7 @@
   "bairro": "Petrópolis",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.8085829",
+  "longitude": "-50.3457819"
 }

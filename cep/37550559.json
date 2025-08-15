@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-21.8063264",
+  "longitude": "-46.5544935"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim das Palmeiras",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.677987",
+  "longitude": "-46.7751954"
 }

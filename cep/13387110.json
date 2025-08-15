@@ -5,5 +5,7 @@
   "bairro": "Jardim Fadel",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7725306",
+  "longitude": "-47.2919245"
 }

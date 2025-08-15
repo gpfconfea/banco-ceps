@@ -5,5 +5,7 @@
   "bairro": "Residencial Mar Del Plata",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.663913",
+  "longitude": "-49.1778845"
 }

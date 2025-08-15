@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Cerqueira César",
   "localidade": "Cerqueira César",
   "uf": "SP",
-  "ibge": "3511409"
+  "ibge": "3511409",
+  "latitude": "-23.0350557",
+  "longitude": "-49.1648607"
 }

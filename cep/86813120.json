@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Adriano Correia",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5759868",
+  "longitude": "-51.4283616"
 }

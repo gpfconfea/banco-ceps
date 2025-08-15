@@ -1,9 +1,11 @@
 {
   "cep": "65413959",
   "logradouro": "Avenida Rodoviária",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Alto Alegre do Maranhão",
   "uf": "MA",
-  "ibge": "2100436"
+  "ibge": "2100436",
+  "latitude": "-4.2094655",
+  "longitude": "-44.4515652"
 }

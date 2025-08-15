@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bugre",
   "uf": "MG",
-  "ibge": "3109253"
+  "ibge": "3109253",
+  "latitude": "-19.4210118",
+  "longitude": "-42.2617112"
 }

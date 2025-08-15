@@ -1,9 +1,11 @@
 {
   "cep": "37542992",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Estiva",
   "uf": "MG",
-  "ibge": "3124500"
+  "ibge": "3124500",
+  "latitude": "-13.6256198",
+  "longitude": "-41.3264741"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "73865970",
   "logradouro": "Avenida Manoel Dias Quadra 9 Lote 8",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Alvorada",
   "localidade": "Divinópolis de Goiás",
   "uf": "GO",
-  "ibge": "5208301"
+  "ibge": "5208301",
+  "latitude": "-13.2899706",
+  "longitude": "-46.4009801"
 }

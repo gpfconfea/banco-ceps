@@ -1,9 +1,11 @@
 {
   "cep": "35993973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cônego João Pio",
   "localidade": "São Domingos do Prata",
   "uf": "MG",
-  "ibge": "3161007"
+  "ibge": "3161007",
+  "latitude": "-19.9641093",
+  "longitude": "-42.9722183"
 }

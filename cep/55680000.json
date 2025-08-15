@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bonito",
   "uf": "PE",
-  "ibge": "2602308"
+  "ibge": "2602308",
+  "latitude": "-8.4721161",
+  "longitude": "-35.7314591"
 }

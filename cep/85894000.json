@@ -5,5 +5,7 @@
   "bairro": "São Clemente",
   "localidade": "Santa Helena",
   "uf": "PR",
-  "ibge": "4123501"
+  "ibge": "4123501",
+  "latitude": "-24.7806975",
+  "longitude": "-54.2357935"
 }

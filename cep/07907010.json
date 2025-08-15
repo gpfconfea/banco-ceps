@@ -5,5 +5,7 @@
   "bairro": "Jardim Liliane",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.2988222",
+  "longitude": "-46.7488701"
 }

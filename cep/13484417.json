@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5580328",
+  "longitude": "-47.4265218"
 }

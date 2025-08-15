@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Verde",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.313694",
+  "longitude": "-49.2775441"
 }

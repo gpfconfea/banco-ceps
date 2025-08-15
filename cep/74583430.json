@@ -5,5 +5,7 @@
   "bairro": "Recreio Panorama",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.628951",
+  "longitude": "-49.310353"
 }

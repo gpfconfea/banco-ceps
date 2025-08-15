@@ -5,5 +5,7 @@
   "bairro": "Pantanal",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0722274",
+  "longitude": "-51.0476423"
 }

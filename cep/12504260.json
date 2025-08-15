@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.8291674",
+  "longitude": "-45.2129609"
 }

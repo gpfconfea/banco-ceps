@@ -5,5 +5,7 @@
   "bairro": "Vila Rosana",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5454326",
+  "longitude": "-47.4022789"
 }

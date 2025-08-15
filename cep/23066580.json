@@ -5,5 +5,7 @@
   "bairro": "Cosmos",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8876237",
+  "longitude": "-43.6158586"
 }

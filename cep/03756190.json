@@ -5,5 +5,7 @@
   "bairro": "Jardim Gonzaga",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.0153504",
+  "longitude": "-45.5459845"
 }

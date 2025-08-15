@@ -1,9 +1,11 @@
 {
   "cep": "76836970",
   "logradouro": "Rua Paulista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nazaré",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.1594159",
+  "longitude": "-63.3209658"
 }

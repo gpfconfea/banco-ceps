@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Aguaí",
   "uf": "SP",
-  "ibge": "3500303"
+  "ibge": "3500303",
+  "latitude": "-22.0471426",
+  "longitude": "-46.9757479"
 }

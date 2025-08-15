@@ -1,9 +1,11 @@
 {
   "cep": "42807907",
   "logradouro": "Rua das Conchinhas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Maria",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.7154944",
+  "longitude": "-38.345741"
 }

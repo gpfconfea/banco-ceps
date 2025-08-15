@@ -5,5 +5,7 @@
   "bairro": "Centro Histórico",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0263643",
+  "longitude": "-51.2222525"
 }

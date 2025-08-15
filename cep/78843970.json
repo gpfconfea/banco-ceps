@@ -1,9 +1,11 @@
 {
   "cep": "78843970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Coronel Ponce",
   "localidade": "Campo Verde",
   "uf": "MT",
-  "ibge": "5102678"
+  "ibge": "5102678",
+  "latitude": "-7.2635659",
+  "longitude": "-35.1137393"
 }

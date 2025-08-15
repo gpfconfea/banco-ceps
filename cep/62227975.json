@@ -1,9 +1,11 @@
 {
   "cep": "62227975",
   "logradouro": "Rua da Mangueira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Buritizal",
   "localidade": "Poranga",
   "uf": "CE",
-  "ibge": "2311009"
+  "ibge": "2311009",
+  "latitude": "-4.8395668",
+  "longitude": "-40.9327928"
 }

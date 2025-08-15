@@ -1,9 +1,11 @@
 {
   "cep": "68665959",
   "logradouro": "Avenida Sete de Setembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Garrafão do Norte",
   "uf": "PA",
-  "ibge": "1503077"
+  "ibge": "1503077",
+  "latitude": "-1.9565867",
+  "longitude": "-47.0430145"
 }

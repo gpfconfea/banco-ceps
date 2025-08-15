@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Analândia",
   "uf": "SP",
-  "ibge": "3502002"
+  "ibge": "3502002",
+  "latitude": "-22.128917",
+  "longitude": "-47.661939"
 }

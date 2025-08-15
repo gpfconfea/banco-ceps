@@ -5,5 +5,7 @@
   "bairro": "Vila Heliópolis",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.620954",
+  "longitude": "-46.5908181"
 }

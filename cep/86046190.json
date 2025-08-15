@@ -5,5 +5,7 @@
   "bairro": "Jerumenha",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3458141",
+  "longitude": "-51.1463701"
 }

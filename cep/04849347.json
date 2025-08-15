@@ -5,5 +5,7 @@
   "bairro": "Chácara Gaivotas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.6344138",
+  "longitude": "-47.2799107"
 }

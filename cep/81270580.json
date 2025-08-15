@@ -5,5 +5,7 @@
   "bairro": "Campo Comprido",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "latitude": "-25.4484571",
+  "longitude": "-49.3430486"
 }

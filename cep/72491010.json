@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova (Gama)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-23.3126643",
+  "longitude": "-51.1419425"
 }

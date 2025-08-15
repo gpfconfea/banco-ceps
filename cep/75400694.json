@@ -5,5 +5,7 @@
   "bairro": "Vila Marise II",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.354589",
+  "longitude": "-49.5013985"
 }

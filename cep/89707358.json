@@ -5,5 +5,7 @@
   "bairro": "Sintrial",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "latitude": "-27.2347629",
+  "longitude": "-52.069858"
 }

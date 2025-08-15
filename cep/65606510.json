@@ -5,5 +5,7 @@
   "bairro": "Volta Redonda",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-4.8850141",
+  "longitude": "-43.3514996"
 }

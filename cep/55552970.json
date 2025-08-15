@@ -1,9 +1,11 @@
 {
   "cep": "55552970",
   "logradouro": "Rua da Praça",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Santa Terezinha",
   "localidade": "Água Preta",
   "uf": "PE",
-  "ibge": "2600401"
+  "ibge": "2600401",
+  "latitude": "-8.829297",
+  "longitude": "-35.5632684"
 }
