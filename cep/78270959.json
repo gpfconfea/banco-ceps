@@ -1,9 +1,11 @@
 {
   "cep": "78270959",
   "logradouro": "Avenida Mato Grosso",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Salto do Céu",
   "uf": "MT",
-  "ibge": "5107750"
+  "ibge": "5107750",
+  "latitude": "-15.1318794",
+  "longitude": "-58.1286919"
 }

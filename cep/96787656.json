@@ -5,5 +5,7 @@
   "bairro": "São Carlos",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-30.824296",
+  "longitude": "-51.7187628"
 }

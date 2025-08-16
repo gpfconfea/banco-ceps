@@ -5,5 +5,7 @@
   "bairro": "Condomínio Morada do Lago",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4512617",
+  "longitude": "-51.9140923"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Bauman",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4649748",
+  "longitude": "-49.2246518"
 }

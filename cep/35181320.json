@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "latitude": "-19.531131",
+  "longitude": "-42.6191978"
 }

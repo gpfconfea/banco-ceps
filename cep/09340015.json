@@ -5,5 +5,7 @@
   "bairro": "Jardim São João",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.666494",
+  "longitude": "-46.4320419"
 }

@@ -5,5 +5,7 @@
   "bairro": "Mário Cega",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4164759",
+  "longitude": "-46.8412813"
 }

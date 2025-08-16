@@ -5,5 +5,7 @@
   "bairro": "Jardim Soares",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "latitude": "-22.3605788",
+  "longitude": "-46.939843"
 }

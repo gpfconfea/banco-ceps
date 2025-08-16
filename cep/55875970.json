@@ -1,9 +1,11 @@
 {
   "cep": "55875970",
   "logradouro": "Rua Coronel Antônio Vicente",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cruangi",
   "localidade": "Timbaúba",
   "uf": "PE",
-  "ibge": "2615300"
+  "ibge": "2615300",
+  "latitude": "-7.5100616",
+  "longitude": "-35.3197006"
 }

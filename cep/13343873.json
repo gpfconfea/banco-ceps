@@ -5,5 +5,7 @@
   "bairro": "Vila Mariana",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.103452",
+  "longitude": "-47.2024238"
 }

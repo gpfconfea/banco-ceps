@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ichu",
   "uf": "BA",
-  "ibge": "2913309"
+  "ibge": "2913309",
+  "latitude": "-11.7489752",
+  "longitude": "-39.1922745"
 }

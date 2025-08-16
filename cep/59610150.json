@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "latitude": "-6.2681446",
+  "longitude": "-38.0405428"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "77460970",
   "logradouro": "Avenida 4 Quadra 20 Lote 1",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Peixe",
   "uf": "TO",
-  "ibge": "1716604"
+  "ibge": "1716604",
+  "latitude": "-12.0221247",
+  "longitude": "-48.5405295"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "61690992",
   "logradouro": "Rua Joaquim Mota",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.7307675",
+  "longitude": "-38.6603349"
 }

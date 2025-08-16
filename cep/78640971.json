@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Canarana",
   "uf": "MT",
-  "ibge": "5102702"
+  "ibge": "5102702",
+  "latitude": "-13.5575827",
+  "longitude": "-52.269031"
 }

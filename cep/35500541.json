@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-20.1627025",
+  "longitude": "-44.8529165"
 }

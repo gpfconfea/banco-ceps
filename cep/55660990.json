@@ -1,9 +1,11 @@
 {
   "cep": "55660990",
   "logradouro": "Rua Antônio M. Castanho - Povoado de Encruzilhada de São João",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bezerros",
   "uf": "PE",
-  "ibge": "2601904"
+  "ibge": "2601904",
+  "latitude": "-8.3003962",
+  "longitude": "-35.8464487"
 }

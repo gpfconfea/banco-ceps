@@ -5,5 +5,7 @@
   "bairro": "Jardim Chácara dos Pinheiros",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.8568968",
+  "longitude": "-48.4515222"
 }

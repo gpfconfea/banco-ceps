@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.2302547",
+  "longitude": "-43.7366551"
 }

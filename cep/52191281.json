@@ -5,5 +5,7 @@
   "bairro": "Nova Descoberta",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-7.9972354",
+  "longitude": "-34.929827"
 }

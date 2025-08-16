@@ -5,5 +5,7 @@
   "bairro": "Jardim Minas Gerais",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.1529611",
+  "longitude": "-45.9148299"
 }

@@ -5,5 +5,7 @@
   "bairro": "Palmeiras",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.7626888",
+  "longitude": "-43.4577524"
 }

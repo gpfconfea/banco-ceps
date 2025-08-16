@@ -5,5 +5,7 @@
   "bairro": "Parque Brasil",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7364797",
+  "longitude": "-46.6957388"
 }

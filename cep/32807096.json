@@ -5,5 +5,7 @@
   "bairro": "Retiro",
   "localidade": "Esmeraldas",
   "uf": "MG",
-  "ibge": "3124104"
+  "ibge": "3124104",
+  "latitude": "-19.6600943",
+  "longitude": "-44.2192406"
 }

@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Azuma Futigami",
   "localidade": "Presidente Venceslau",
   "uf": "SP",
-  "ibge": "3541505"
+  "ibge": "3541505",
+  "latitude": "-21.8812746",
+  "longitude": "-51.859372"
 }

@@ -5,5 +5,7 @@
   "bairro": "Laranjeiras",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.953857",
+  "longitude": "-48.2366766"
 }

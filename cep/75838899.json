@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Mineiros",
   "localidade": "Mineiros",
   "uf": "GO",
-  "ibge": "5213103"
+  "ibge": "5213103",
+  "latitude": "-17.5624415",
+  "longitude": "-52.5489206"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Cidade Alta",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5339546",
+  "longitude": "-51.4614728"
 }

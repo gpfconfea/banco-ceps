@@ -5,5 +5,7 @@
   "bairro": "Vila Castelo Branco",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0887208",
+  "longitude": "-47.1969753"
 }

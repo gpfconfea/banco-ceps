@@ -1,9 +1,11 @@
 {
   "cep": "24744989",
-  "logradouro": "Rua Capitão Juvenal Figueiredo 1401 Térreo Locker Correios",
+  "logradouro": "Rua Capitão Juvenal Figueiredo 1401 Térreo",
   "complemento": "",
   "bairro": "Colubande",
   "localidade": "São Gonçalo",
   "uf": "RJ",
-  "ibge": "3304904"
+  "ibge": "3304904",
+  "latitude": "-22.837745",
+  "longitude": "-43.0086334"
 }

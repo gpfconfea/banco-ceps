@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu",
   "localidade": "São João Del Rei",
   "uf": "MG",
-  "ibge": "3162500"
+  "ibge": "3162500",
+  "latitude": "-23.3358524",
+  "longitude": "-46.8401443"
 }

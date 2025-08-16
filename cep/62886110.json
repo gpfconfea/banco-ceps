@@ -5,5 +5,7 @@
   "bairro": "Buenos Aires",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "latitude": "-18.7181256",
+  "longitude": "-39.8799471"
 }

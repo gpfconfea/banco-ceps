@@ -1,9 +1,11 @@
 {
   "cep": "55819904",
   "logradouro": "Avenida Conselheiro João Alfredo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bairro Novo",
   "localidade": "Carpina",
   "uf": "PE",
-  "ibge": "2604007"
+  "ibge": "2604007",
+  "latitude": "-7.8474063",
+  "longitude": "-35.2487608"
 }

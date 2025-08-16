@@ -1,9 +1,11 @@
 {
   "cep": "13250902",
   "logradouro": "Praça Paulo Pires da Silveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.0070331",
+  "longitude": "-46.8348937"
 }

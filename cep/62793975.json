@@ -1,9 +1,11 @@
 {
   "cep": "62793975",
   "logradouro": "Rua da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Faísca",
   "localidade": "Redenção",
   "uf": "CE",
-  "ibge": "2311603"
+  "ibge": "2311603",
+  "latitude": "-4.3036543",
+  "longitude": "-38.9941473"
 }

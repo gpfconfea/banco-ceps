@@ -1,9 +1,11 @@
 {
   "cep": "95870971",
   "logradouro": "Rodovia RS-129",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Beira do Rio",
   "localidade": "Bom Retiro do Sul",
   "uf": "RS",
-  "ibge": "4302402"
+  "ibge": "4302402",
+  "latitude": "-29.6880334",
+  "longitude": "-51.9666241"
 }

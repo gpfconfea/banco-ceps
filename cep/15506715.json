@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Figueira",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4426426",
+  "longitude": "-49.9772253"
 }

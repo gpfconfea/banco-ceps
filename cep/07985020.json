@@ -5,5 +5,7 @@
   "bairro": "Jardim Alegria",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.2851302",
+  "longitude": "-46.7087451"
 }

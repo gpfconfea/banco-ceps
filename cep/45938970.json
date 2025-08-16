@@ -1,9 +1,11 @@
 {
   "cep": "45938970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibiranhém",
   "localidade": "Mucuri",
   "uf": "BA",
-  "ibge": "2922003"
+  "ibge": "2922003",
+  "latitude": "-17.7844152",
+  "longitude": "-40.160966"
 }

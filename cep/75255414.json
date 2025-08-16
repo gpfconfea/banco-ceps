@@ -5,5 +5,7 @@
   "bairro": "Jardins Porto",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.7110287",
+  "longitude": "-49.0795809"
 }

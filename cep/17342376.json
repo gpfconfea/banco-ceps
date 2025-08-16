@@ -6,5 +6,7 @@
   "bairro": "Residencial e Comercial Jardim Santa Helena",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.482576",
+  "longitude": "-48.5558321"
 }

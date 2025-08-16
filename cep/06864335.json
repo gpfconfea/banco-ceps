@@ -5,5 +5,7 @@
   "bairro": "Parque Santo Antônio",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.7477063",
+  "longitude": "-46.800326"
 }

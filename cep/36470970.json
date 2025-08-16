@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Senhora de Oliveira",
   "uf": "MG",
-  "ibge": "3166006"
+  "ibge": "3166006",
+  "latitude": "-20.6968888",
+  "longitude": "-44.8277512"
 }

@@ -5,5 +5,7 @@
   "bairro": "Limoeiro",
   "localidade": "Guapimirim",
   "uf": "RJ",
-  "ibge": "3301850"
+  "ibge": "3301850",
+  "latitude": "-22.5122609",
+  "longitude": "-42.9656889"
 }

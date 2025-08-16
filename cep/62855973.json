@@ -1,9 +1,11 @@
 {
   "cep": "62855973",
   "logradouro": "Vila Jacarecoara",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jacarecoara",
   "localidade": "Cascavel",
   "uf": "CE",
-  "ibge": "2303501"
+  "ibge": "2303501",
+  "latitude": "-4.1111931",
+  "longitude": "-38.1778506"
 }

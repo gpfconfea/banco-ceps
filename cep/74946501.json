@@ -5,5 +5,7 @@
   "bairro": "Jardim Tropical",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.780086",
+  "longitude": "-49.3400806"
 }

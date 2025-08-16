@@ -5,5 +5,7 @@
   "bairro": "Jardim Elza",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5089223",
+  "longitude": "-46.3839195"
 }

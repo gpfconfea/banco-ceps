@@ -5,5 +5,7 @@
   "bairro": "Jardim Park Real",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0963025",
+  "longitude": "-47.246707"
 }

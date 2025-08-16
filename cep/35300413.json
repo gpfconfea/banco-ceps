@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "latitude": "-19.8010677",
+  "longitude": "-42.1403081"
 }

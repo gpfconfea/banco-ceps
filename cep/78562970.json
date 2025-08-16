@@ -1,9 +1,11 @@
 {
   "cep": "78562970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Novo Paraná",
   "localidade": "Porto dos Gaúchos",
   "uf": "MT",
-  "ibge": "5106802"
+  "ibge": "5106802",
+  "latitude": "-11.6181804",
+  "longitude": "-57.2343481"
 }

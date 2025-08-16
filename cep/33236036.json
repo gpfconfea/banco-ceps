@@ -5,5 +5,7 @@
   "bairro": "Vila Militar",
   "localidade": "Lagoa Santa",
   "uf": "MG",
-  "ibge": "3137601"
+  "ibge": "3137601",
+  "latitude": "-19.6456863",
+  "longitude": "-43.8934859"
 }

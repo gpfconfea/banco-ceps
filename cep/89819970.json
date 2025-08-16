@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cordilheira Alta",
   "uf": "SC",
-  "ibge": "4204350"
+  "ibge": "4204350",
+  "latitude": "-26.9848392",
+  "longitude": "-52.6036431"
 }

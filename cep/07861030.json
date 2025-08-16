@@ -5,5 +5,7 @@
   "bairro": "Vila Rosa",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-23.3136476",
+  "longitude": "-46.7177076"
 }

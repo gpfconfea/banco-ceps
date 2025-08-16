@@ -5,5 +5,7 @@
   "bairro": "Coaçu",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-22.2637551",
+  "longitude": "-45.6948697"
 }

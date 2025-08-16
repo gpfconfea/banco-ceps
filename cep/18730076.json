@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Itaí",
   "uf": "SP",
-  "ibge": "3521804"
+  "ibge": "3521804",
+  "latitude": "-23.4229576",
+  "longitude": "-49.0862969"
 }

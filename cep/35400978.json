@@ -1,9 +1,11 @@
 {
   "cep": "35400978",
   "logradouro": "Rua Topázio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Samarco",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.4066835",
+  "longitude": "-43.4992078"
 }

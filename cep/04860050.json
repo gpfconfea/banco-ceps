@@ -5,5 +5,7 @@
   "bairro": "Jardim São Rafael",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7605571",
+  "longitude": "-46.7174434"
 }

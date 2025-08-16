@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaporema",
   "uf": "PR",
-  "ibge": "4109104"
+  "ibge": "4109104",
+  "latitude": "-23.3372703",
+  "longitude": "-52.7760541"
 }

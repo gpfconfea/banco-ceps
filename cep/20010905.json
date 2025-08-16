@@ -1,9 +1,11 @@
 {
   "cep": "20010905",
   "logradouro": "Rua Dom Manuel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9052232",
+  "longitude": "-43.172331"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Tortelli",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4779569",
+  "longitude": "-47.477505"
 }
