@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Rio das Pedras",
   "uf": "SP",
-  "ibge": "3544004"
+  "ibge": "3544004",
+  "latitude": "-22.8442618",
+  "longitude": "-47.6186688"
 }

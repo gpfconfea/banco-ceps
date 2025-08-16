@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santo Expedito do Sul",
   "uf": "RS",
-  "ibge": "4317954"
+  "ibge": "4317954",
+  "latitude": "-27.9087283",
+  "longitude": "-51.642526"
 }

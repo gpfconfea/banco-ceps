@@ -1,9 +1,11 @@
 {
   "cep": "59665971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Entroncamento",
   "localidade": "Carnaubais",
   "uf": "RN",
-  "ibge": "2402501"
+  "ibge": "2402501",
+  "latitude": "-5.3398292",
+  "longitude": "-36.8323604"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Maringá",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.2374834",
+  "longitude": "-54.825144"
 }

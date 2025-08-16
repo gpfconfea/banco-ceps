@@ -1,9 +1,11 @@
 {
   "cep": "57072900",
   "logradouro": "Avenida Lourival Melo Mota",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tabuleiro do Martins",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.5597957",
+  "longitude": "-35.780253"
 }

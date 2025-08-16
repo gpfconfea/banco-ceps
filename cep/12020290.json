@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0290635",
+  "longitude": "-45.5626392"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "45159970",
   "logradouro": "Rua Clemente Silva Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Quaraçu",
   "localidade": "Cândido Sales",
   "uf": "BA",
-  "ibge": "2906709"
+  "ibge": "2906709",
+  "latitude": "-15.1697755",
+  "longitude": "-41.3494446"
 }

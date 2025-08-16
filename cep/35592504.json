@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Lagoa da Prata",
   "uf": "MG",
-  "ibge": "3137205"
+  "ibge": "3137205",
+  "latitude": "-19.4406205",
+  "longitude": "-42.4637233"
 }

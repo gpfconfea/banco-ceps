@@ -5,5 +5,7 @@
   "bairro": "Cerrado Grande",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "latitude": "-25.1371368",
+  "longitude": "-49.879234"
 }

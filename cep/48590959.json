@@ -1,9 +1,11 @@
 {
   "cep": "48590959",
   "logradouro": "Rua Abdias Rodrigues de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Coronel João Sá",
   "uf": "BA",
-  "ibge": "2909208"
+  "ibge": "2909208",
+  "latitude": "-10.2876165",
+  "longitude": "-37.9259673"
 }

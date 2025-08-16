@@ -5,5 +5,7 @@
   "bairro": "Loteamento Água Doce 1B",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1409777",
+  "longitude": "-46.94972"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Gomes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.2841017",
+  "longitude": "-50.2467342"
 }

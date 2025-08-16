@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Antônia Prado",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4596456",
+  "longitude": "-47.476074"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Pompéia",
   "uf": "SP",
-  "ibge": "3540002"
+  "ibge": "3540002",
+  "latitude": "-22.0972301",
+  "longitude": "-50.1928411"
 }

@@ -5,5 +5,7 @@
   "bairro": "Maraponga",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.7933121",
+  "longitude": "-38.5731441"
 }

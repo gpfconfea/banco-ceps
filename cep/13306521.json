@@ -5,5 +5,7 @@
   "bairro": "Condomínio Terras de São José",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "37.7652065",
+  "longitude": "-122.2416355"
 }

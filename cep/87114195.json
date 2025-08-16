@@ -5,5 +5,7 @@
   "bairro": "Jardim Ouro Verde III",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4366148",
+  "longitude": "-51.8452962"
 }

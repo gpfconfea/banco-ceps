@@ -1,9 +1,11 @@
 {
   "cep": "87620970",
   "logradouro": "Avenida Tibiriçá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ivaitinga",
   "localidade": "Nova Esperança",
   "uf": "PR",
-  "ibge": "4116901"
+  "ibge": "4116901",
+  "latitude": "-23.2234494",
+  "longitude": "-52.3510692"
 }

@@ -5,5 +5,7 @@
   "bairro": "COHAB",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-7.567631",
+  "longitude": "-35.0264177"
 }

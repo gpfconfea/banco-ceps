@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Córrego Danta",
   "uf": "MG",
-  "ibge": "3119807"
+  "ibge": "3119807",
+  "latitude": "-19.8242058",
+  "longitude": "-45.9100299"
 }

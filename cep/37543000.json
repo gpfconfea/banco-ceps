@@ -5,5 +5,7 @@
   "bairro": "Pântano",
   "localidade": "Estiva",
   "uf": "MG",
-  "ibge": "3124500"
+  "ibge": "3124500",
+  "latitude": "-22.3840322",
+  "longitude": "-46.0294625"
 }

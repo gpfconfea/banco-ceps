@@ -5,5 +5,7 @@
   "bairro": "Jardim Viana",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4635987",
+  "longitude": "-46.3506745"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Santos",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.0970243",
+  "longitude": "-45.7049204"
 }

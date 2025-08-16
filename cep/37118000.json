@@ -5,5 +5,7 @@
   "bairro": "Usina Monte Alegre",
   "localidade": "Monte Belo",
   "uf": "MG",
-  "ibge": "3143005"
+  "ibge": "3143005",
+  "latitude": "-21.3225052",
+  "longitude": "-46.3649768"
 }

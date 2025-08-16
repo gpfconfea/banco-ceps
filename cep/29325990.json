@@ -1,9 +1,11 @@
 {
   "cep": "29325990",
   "logradouro": "Rua Ermenegildo de Sá Centro Itaóca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "latitude": "-20.7375185",
+  "longitude": "-40.9960752"
 }

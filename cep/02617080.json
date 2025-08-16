@@ -5,5 +5,7 @@
   "bairro": "Vila Bela Vista (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-21.2895875",
+  "longitude": "-50.3415799"
 }

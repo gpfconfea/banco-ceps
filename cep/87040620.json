@@ -5,5 +5,7 @@
   "bairro": "Jardim Dourados",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4082927",
+  "longitude": "-51.9028441"
 }

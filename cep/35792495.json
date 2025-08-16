@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Curvelo",
   "uf": "MG",
-  "ibge": "3120904"
+  "ibge": "3120904",
+  "latitude": "-19.1859649",
+  "longitude": "-44.4944469"
 }

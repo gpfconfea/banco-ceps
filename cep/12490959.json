@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Bento do Sapucaí",
   "uf": "SP",
-  "ibge": "3548609"
+  "ibge": "3548609",
+  "latitude": "-22.6873434",
+  "longitude": "-45.7325835"
 }

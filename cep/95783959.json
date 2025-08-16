@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pareci Novo",
   "uf": "RS",
-  "ibge": "4314035"
+  "ibge": "4314035",
+  "latitude": "-29.6377127",
+  "longitude": "-51.4004718"
 }

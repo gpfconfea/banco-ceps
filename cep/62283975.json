@@ -1,9 +1,11 @@
 {
   "cep": "62283975",
   "logradouro": "Rua Delfino Pinto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Trapiá",
   "localidade": "Santa Quitéria",
   "uf": "CE",
-  "ibge": "2312205"
+  "ibge": "2312205",
+  "latitude": "-4.1909312",
+  "longitude": "-40.3221474"
 }

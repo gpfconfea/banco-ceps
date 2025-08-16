@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Apiúna",
   "uf": "SC",
-  "ibge": "4201257"
+  "ibge": "4201257",
+  "latitude": "-27.0342167",
+  "longitude": "-49.3879904"
 }

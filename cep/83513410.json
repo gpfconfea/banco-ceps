@@ -5,5 +5,7 @@
   "bairro": "Jardim Tatiana",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.3114794",
+  "longitude": "-49.3127896"
 }

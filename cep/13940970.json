@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Águas de Lindóia",
   "uf": "SP",
-  "ibge": "3500501"
+  "ibge": "3500501",
+  "latitude": "-22.4780884",
+  "longitude": "-46.6348196"
 }

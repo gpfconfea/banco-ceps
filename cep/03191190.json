@@ -5,5 +5,7 @@
   "bairro": "Vila Leme",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.570373",
+  "longitude": "-46.5723714"
 }

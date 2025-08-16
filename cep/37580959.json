@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Sião",
   "uf": "MG",
-  "ibge": "3143401"
+  "ibge": "3143401",
+  "latitude": "-22.4280009",
+  "longitude": "-46.570771"
 }

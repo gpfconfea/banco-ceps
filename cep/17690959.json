@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bastos",
   "uf": "SP",
-  "ibge": "3505807"
+  "ibge": "3505807",
+  "latitude": "-21.9290064",
+  "longitude": "-50.7342958"
 }

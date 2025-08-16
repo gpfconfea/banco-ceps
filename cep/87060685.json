@@ -5,5 +5,7 @@
   "bairro": "Jardim São Conrado",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4506363",
+  "longitude": "-51.9413528"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "47160959",
   "logradouro": "Praça JK",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Mansidão",
   "uf": "BA",
-  "ibge": "2920452"
+  "ibge": "2920452",
+  "latitude": "-10.7178843",
+  "longitude": "-44.0364758"
 }

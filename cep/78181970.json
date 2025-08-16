@@ -1,9 +1,11 @@
 {
   "cep": "78181970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Palmeiras",
   "localidade": "Santo Antônio do Leverger",
   "uf": "MT",
-  "ibge": "5107800"
+  "ibge": "5107800",
+  "latitude": "-15.8637741",
+  "longitude": "-56.0793735"
 }

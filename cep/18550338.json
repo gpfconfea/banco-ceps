@@ -5,5 +5,7 @@
   "bairro": "Residencial de Lorenzi",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2937384",
+  "longitude": "-47.6643045"
 }

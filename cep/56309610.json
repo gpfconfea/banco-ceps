@@ -5,5 +5,7 @@
   "bairro": "COHAB VI",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-16.1101882",
+  "longitude": "-49.3329933"
 }

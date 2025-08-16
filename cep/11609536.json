@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "latitude": "-23.8076654",
+  "longitude": "-45.4061307"
 }

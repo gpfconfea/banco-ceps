@@ -5,5 +5,7 @@
   "bairro": "Vila Aviação B",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3668933",
+  "longitude": "-49.0353056"
 }

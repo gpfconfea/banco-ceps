@@ -5,5 +5,7 @@
   "bairro": "Vila Tupã",
   "localidade": "Alvorada",
   "uf": "RS",
-  "ibge": "4300604"
+  "ibge": "4300604",
+  "latitude": "-29.9858518",
+  "longitude": "-51.0658092"
 }
