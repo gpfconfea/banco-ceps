@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lupércio",
   "uf": "SP",
-  "ibge": "3527801"
+  "ibge": "3527801",
+  "latitude": "-22.4154505",
+  "longitude": "-49.8178414"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "31275959",
   "logradouro": "Avenida Antônio Abrahão Caram",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8592465",
+  "longitude": "-43.9597389"
 }

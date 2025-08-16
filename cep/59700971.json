@@ -1,9 +1,11 @@
 {
   "cep": "59700971",
   "logradouro": "Rua São João Batista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Soledade",
   "localidade": "Apodi",
   "uf": "RN",
-  "ibge": "2401008"
+  "ibge": "2401008",
+  "latitude": "-5.663646",
+  "longitude": "-37.7985577"
 }

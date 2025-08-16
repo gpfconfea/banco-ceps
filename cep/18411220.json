@@ -5,5 +5,7 @@
   "bairro": "Jardim Virgínia",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-23.9705685",
+  "longitude": "-48.8831158"
 }

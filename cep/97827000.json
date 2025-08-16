@@ -5,5 +5,7 @@
   "bairro": "Capela São Paulo",
   "localidade": "São Luiz Gonzaga",
   "uf": "RS",
-  "ibge": "4318903"
+  "ibge": "4318903",
+  "latitude": "-28.3785021",
+  "longitude": "-54.7758868"
 }

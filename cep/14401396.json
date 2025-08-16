@@ -5,5 +5,7 @@
   "bairro": "Jardim Seminário",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5298049",
+  "longitude": "-47.3783061"
 }

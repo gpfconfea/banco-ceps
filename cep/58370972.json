@@ -1,9 +1,11 @@
 {
   "cep": "58370972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Salgado de São Félix",
   "uf": "PB",
-  "ibge": "2513109"
+  "ibge": "2513109",
+  "latitude": "-7.3555209",
+  "longitude": "-35.4401442"
 }

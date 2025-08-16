@@ -1,9 +1,11 @@
 {
   "cep": "58382970",
   "logradouro": "Rua São Sebastião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Riachão do Bacamarte",
   "uf": "PB",
-  "ibge": "2512754"
+  "ibge": "2512754",
+  "latitude": "-7.1505186",
+  "longitude": "-35.266122"
 }

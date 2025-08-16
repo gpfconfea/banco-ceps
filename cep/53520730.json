@@ -6,5 +6,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Abreu e Lima",
   "uf": "PE",
-  "ibge": "2600054"
+  "ibge": "2600054",
+  "latitude": "-7.9287674",
+  "longitude": "-34.9216836"
 }

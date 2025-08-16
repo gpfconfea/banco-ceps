@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Sena Madureira",
   "uf": "AC",
-  "ibge": "1200500"
+  "ibge": "1200500",
+  "latitude": "-9.0659556",
+  "longitude": "-68.6571058"
 }

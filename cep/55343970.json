@@ -1,9 +1,11 @@
 {
   "cep": "55343970",
   "logradouro": "Praça São Sebastiao",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Curral Novo",
   "localidade": "Águas Belas",
   "uf": "PE",
-  "ibge": "2600500"
+  "ibge": "2600500",
+  "latitude": "-9.0240265",
+  "longitude": "-37.0532031"
 }

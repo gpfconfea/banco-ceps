@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João da Mata",
   "uf": "MG",
-  "ibge": "3162302"
+  "ibge": "3162302",
+  "latitude": "-21.9324477",
+  "longitude": "-45.9278833"
 }

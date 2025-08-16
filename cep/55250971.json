@@ -1,9 +1,11 @@
 {
   "cep": "55250971",
   "logradouro": "Rua Maria Pacífica",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Esplendor",
   "localidade": "Sanharó",
   "uf": "PE",
-  "ibge": "2612406"
+  "ibge": "2612406",
+  "latitude": "-8.3557012",
+  "longitude": "-36.5617444"
 }

@@ -5,5 +5,7 @@
   "bairro": "Campeche",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "latitude": "-27.0109034",
+  "longitude": "-48.8578738"
 }

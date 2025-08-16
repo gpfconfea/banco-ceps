@@ -5,5 +5,7 @@
   "bairro": "Chácara São João",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.4246018",
+  "longitude": "-51.3486225"
 }

@@ -5,5 +5,7 @@
   "bairro": "Rio Abaixo",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.6902242",
+  "longitude": "-46.884317"
 }

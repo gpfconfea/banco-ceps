@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio Grande da Serra",
   "uf": "SP",
-  "ibge": "3544103"
+  "ibge": "3544103",
+  "latitude": "-23.7441905",
+  "longitude": "-46.3924746"
 }

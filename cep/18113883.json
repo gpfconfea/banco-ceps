@@ -5,5 +5,7 @@
   "bairro": "Residencial Votorantim Park I",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5345728",
+  "longitude": "-47.4251333"
 }

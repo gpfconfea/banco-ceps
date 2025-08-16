@@ -1,9 +1,11 @@
 {
   "cep": "41510959",
   "logradouro": "Praça Gago Coutinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Cristóvão",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9139801",
+  "longitude": "-38.3365962"
 }

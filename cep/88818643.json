@@ -5,5 +5,7 @@
   "bairro": "Estaçãozinha",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6556733",
+  "longitude": "-49.422242"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "-25.5340197",
+  "longitude": "-49.2082537"
 }

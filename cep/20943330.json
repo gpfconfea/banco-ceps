@@ -5,5 +5,7 @@
   "bairro": "Mangueira",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9322192",
+  "longitude": "-43.2563532"
 }

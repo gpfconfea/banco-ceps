@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Santiago",
   "localidade": "Santiago",
   "uf": "RS",
-  "ibge": "4317400"
+  "ibge": "4317400",
+  "latitude": "-29.1772764",
+  "longitude": "-54.8788745"
 }

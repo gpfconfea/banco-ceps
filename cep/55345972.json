@@ -1,9 +1,11 @@
 {
   "cep": "55345972",
   "logradouro": "Rua da Cacimbinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Iati",
   "uf": "PE",
-  "ibge": "2606507"
+  "ibge": "2606507",
+  "latitude": "-9.4018884",
+  "longitude": "-36.9913009"
 }

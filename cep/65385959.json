@@ -1,9 +1,11 @@
 {
   "cep": "65385959",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São João do Carú",
   "uf": "MA",
-  "ibge": "2111029"
+  "ibge": "2111029",
+  "latitude": "-3.556231",
+  "longitude": "-46.2580707"
 }

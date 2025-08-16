@@ -5,5 +5,7 @@
   "bairro": "Alto Bonito",
   "localidade": "Caçador",
   "uf": "SC",
-  "ibge": "4203006"
+  "ibge": "4203006",
+  "latitude": "-26.7851946",
+  "longitude": "-50.9944032"
 }

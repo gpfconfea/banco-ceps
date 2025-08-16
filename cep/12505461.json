@@ -5,5 +5,7 @@
   "bairro": "Chácara Selles",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.8064984",
+  "longitude": "-45.208232"
 }

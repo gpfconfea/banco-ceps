@@ -1,9 +1,11 @@
 {
   "cep": "49517970",
   "logradouro": "Travessa Municipal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pinhão",
   "uf": "SE",
-  "ibge": "2805208"
+  "ibge": "2805208",
+  "latitude": "-10.5686812",
+  "longitude": "-37.7234661"
 }

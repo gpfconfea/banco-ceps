@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Bonópolis",
   "uf": "GO",
-  "ibge": "5203575"
+  "ibge": "5203575",
+  "latitude": "-13.6499455",
+  "longitude": "-49.8330928"
 }

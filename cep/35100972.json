@@ -1,9 +1,11 @@
 {
   "cep": "35100972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Córrego dos Bernardes",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "latitude": "-18.767255",
+  "longitude": "-42.1753564"
 }

@@ -6,5 +6,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "Campos do Jordão",
   "uf": "SP",
-  "ibge": "3509700"
+  "ibge": "3509700",
+  "latitude": "-22.7401483",
+  "longitude": "-45.5950085"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vicente Pinzon",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.699174",
+  "longitude": "-38.5821649"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-14.7635408",
+  "longitude": "-43.9395319"
 }

@@ -6,5 +6,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Peruíbe",
   "uf": "SP",
-  "ibge": "3537602"
+  "ibge": "3537602",
+  "latitude": "-24.3122949",
+  "longitude": "-47.0116245"
 }

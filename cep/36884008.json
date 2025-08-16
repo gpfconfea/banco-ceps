@@ -5,5 +5,7 @@
   "bairro": "Barra",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "latitude": "-21.1286623",
+  "longitude": "-42.3728399"
 }

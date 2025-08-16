@@ -5,5 +5,7 @@
   "bairro": "Castrioto",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "latitude": "-22.5063147",
+  "longitude": "-43.2156256"
 }

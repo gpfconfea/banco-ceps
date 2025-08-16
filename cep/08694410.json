@@ -5,5 +5,7 @@
   "bairro": "Vila Célia",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5048984",
+  "longitude": "-46.2991085"
 }

@@ -5,5 +5,7 @@
   "bairro": "Pedro do Rio",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "latitude": "-9.3850183",
+  "longitude": "-40.553497"
 }

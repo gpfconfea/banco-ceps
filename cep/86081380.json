@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Londres",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.262077",
+  "longitude": "-51.1849005"
 }

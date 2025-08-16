@@ -1,9 +1,11 @@
 {
   "cep": "78575971",
   "logradouro": "Praça dos Trabalhadores",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paranorte",
   "localidade": "Juara",
   "uf": "MT",
-  "ibge": "5105101"
+  "ibge": "5105101",
+  "latitude": "-11.2541018",
+  "longitude": "-57.5081429"
 }

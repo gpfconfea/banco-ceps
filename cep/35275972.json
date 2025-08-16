@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Félix de Minas",
   "uf": "MG",
-  "ibge": "3161056"
+  "ibge": "3161056",
+  "latitude": "-18.5960986",
+  "longitude": "-41.4889002"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Gertrudes",
   "uf": "SP",
-  "ibge": "3546702"
+  "ibge": "3546702",
+  "latitude": "-22.4564737",
+  "longitude": "-47.523628"
 }

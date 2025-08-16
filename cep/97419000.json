@@ -5,5 +5,7 @@
   "bairro": "Linha Bonita",
   "localidade": "Toropi",
   "uf": "RS",
-  "ibge": "4321493"
+  "ibge": "4321493",
+  "latitude": "-29.4792677",
+  "longitude": "-54.3569025"
 }

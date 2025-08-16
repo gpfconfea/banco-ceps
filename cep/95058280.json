@@ -5,5 +5,7 @@
   "bairro": "São Cristóvão",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "latitude": "-29.124162",
+  "longitude": "-51.119826"
 }

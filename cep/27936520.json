@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Macaé",
   "uf": "RJ",
-  "ibge": "3302403"
+  "ibge": "3302403",
+  "latitude": "-22.3818861",
+  "longitude": "-41.7885538"
 }

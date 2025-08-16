@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-20.8355001",
+  "longitude": "-42.6498153"
 }

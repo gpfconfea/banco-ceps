@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bandeira do Sul",
   "uf": "MG",
-  "ibge": "3105301"
+  "ibge": "3105301",
+  "latitude": "-21.728056",
+  "longitude": "-46.385555"
 }

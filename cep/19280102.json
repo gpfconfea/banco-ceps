@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Ulisses Guimarães",
   "localidade": "Teodoro Sampaio",
   "uf": "SP",
-  "ibge": "3554300"
+  "ibge": "3554300",
+  "latitude": "-22.3176447",
+  "longitude": "-52.2432145"
 }

@@ -5,5 +5,7 @@
   "bairro": "Guarujá",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "latitude": "-24.9873865",
+  "longitude": "-53.4942392"
 }

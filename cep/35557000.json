@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Carmo do Cajuru",
   "uf": "MG",
-  "ibge": "3114204"
+  "ibge": "3114204",
+  "latitude": "-20.184444",
+  "longitude": "-44.770834"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Primavera",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.2835035",
+  "longitude": "-46.7594476"
 }

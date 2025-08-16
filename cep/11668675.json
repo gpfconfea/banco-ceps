@@ -5,5 +5,7 @@
   "bairro": "Jardim Manari",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.4824052",
+  "longitude": "-45.1499934"
 }
