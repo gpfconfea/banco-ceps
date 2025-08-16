@@ -5,5 +5,7 @@
   "bairro": "Residencial Colina Verde",
   "localidade": "Itaí",
   "uf": "SP",
-  "ibge": "3521804"
+  "ibge": "3521804",
+  "latitude": "-23.4276135",
+  "longitude": "-49.1001043"
 }

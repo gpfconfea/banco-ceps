@@ -6,5 +6,7 @@
   "bairro": "Eldorado",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "latitude": "-11.4374694",
+  "longitude": "-61.4346828"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Garcia",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4665334",
+  "longitude": "-49.2385755"
 }

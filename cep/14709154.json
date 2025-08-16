@@ -5,5 +5,7 @@
   "bairro": "Residencial Parati III",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "latitude": "-20.9251091",
+  "longitude": "-48.4887348"
 }

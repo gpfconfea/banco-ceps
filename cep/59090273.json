@@ -5,5 +5,7 @@
   "bairro": "Ponta Negra",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-5.5357086",
+  "longitude": "-35.8119825"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "28057970",
   "logradouro": "Avenida Presidente Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Cruz",
   "localidade": "Campos dos Goytacazes",
   "uf": "RJ",
-  "ibge": "3301009"
+  "ibge": "3301009",
+  "latitude": "-21.7418068",
+  "longitude": "-41.3468392"
 }

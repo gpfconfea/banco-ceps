@@ -5,5 +5,7 @@
   "bairro": "Jardim Odete",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.1683023",
+  "longitude": "-46.5717167"
 }

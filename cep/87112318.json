@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperial",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.459608",
+  "longitude": "-51.8666325"
 }

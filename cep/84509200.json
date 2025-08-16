@@ -5,5 +5,7 @@
   "bairro": "Itapara",
   "localidade": "Irati",
   "uf": "PR",
-  "ibge": "4110706"
+  "ibge": "4110706",
+  "latitude": "-25.472203",
+  "longitude": "-51.037085"
 }

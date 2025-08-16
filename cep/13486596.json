@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5772272",
+  "longitude": "-47.377812"
 }

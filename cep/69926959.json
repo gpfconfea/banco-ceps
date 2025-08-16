@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bujari",
   "uf": "AC",
-  "ibge": "1200138"
+  "ibge": "1200138",
+  "latitude": "-9.8221119",
+  "longitude": "-67.9512427"
 }

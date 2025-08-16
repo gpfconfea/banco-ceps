@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Doutor Aldo Monteiro Paes Leme",
   "localidade": "Paraguaçu Paulista",
   "uf": "SP",
-  "ibge": "3535507"
+  "ibge": "3535507",
+  "latitude": "-22.4350475",
+  "longitude": "-50.576635"
 }

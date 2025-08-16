@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Witmarsum",
   "uf": "SC",
-  "ibge": "4219408"
+  "ibge": "4219408",
+  "latitude": "-26.9265737",
+  "longitude": "-49.8025625"
 }

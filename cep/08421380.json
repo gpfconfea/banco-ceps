@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Fazenda do Carmo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5673118",
+  "longitude": "-46.4182845"
 }

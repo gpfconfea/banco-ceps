@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tarumã",
   "uf": "SP",
-  "ibge": "3553955"
+  "ibge": "3553955",
+  "latitude": "-22.3422619",
+  "longitude": "-47.3848643"
 }

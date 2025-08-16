@@ -5,5 +5,7 @@
   "bairro": "Novo Cruzeiro",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-22.9954927",
+  "longitude": "-46.8569565"
 }

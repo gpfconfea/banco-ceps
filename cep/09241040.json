@@ -5,5 +5,7 @@
   "bairro": "Vila Francisco Matarazzo",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6332358",
+  "longitude": "-46.5203396"
 }

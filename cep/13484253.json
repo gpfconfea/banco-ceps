@@ -5,5 +5,7 @@
   "bairro": "Residencial Vermont",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-23.5013395",
+  "longitude": "-46.598392"
 }

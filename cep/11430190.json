@@ -5,5 +5,7 @@
   "bairro": "Vila Ligya",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "latitude": "-23.9946171",
+  "longitude": "-46.2867556"
 }

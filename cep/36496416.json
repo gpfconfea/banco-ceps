@@ -5,5 +5,7 @@
   "bairro": "Vale do Engenho",
   "localidade": "Ouro Branco",
   "uf": "MG",
-  "ibge": "3145901"
+  "ibge": "3145901",
+  "latitude": "-20.523549",
+  "longitude": "-43.691394"
 }

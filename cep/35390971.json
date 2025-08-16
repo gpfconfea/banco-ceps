@@ -1,9 +1,11 @@
 {
   "cep": "35390971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pouso Alegre da Mata",
   "localidade": "Jequeri",
   "uf": "MG",
-  "ibge": "3135506"
+  "ibge": "3135506",
+  "latitude": "-20.4544642",
+  "longitude": "-42.6655174"
 }

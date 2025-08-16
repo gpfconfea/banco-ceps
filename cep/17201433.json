@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-22.299066",
+  "longitude": "-48.5595759"
 }

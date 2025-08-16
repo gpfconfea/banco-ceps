@@ -5,5 +5,7 @@
   "bairro": "Distrito Vila Rica",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.8003305",
+  "longitude": "-49.365624"
 }

@@ -5,5 +5,7 @@
   "bairro": "Instituto de Previdência",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5773628",
+  "longitude": "-46.71512"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Isabel",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-23.9682639",
+  "longitude": "-48.8894088"
 }

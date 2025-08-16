@@ -5,5 +5,7 @@
   "bairro": "Residencial Villa Lobos",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-23.9551542",
+  "longitude": "-46.3325647"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Visconde",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6552921",
+  "longitude": "-49.4384936"
 }

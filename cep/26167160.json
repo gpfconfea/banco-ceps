@@ -5,5 +5,7 @@
   "bairro": "São Bernardo",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "latitude": "-22.7301925",
+  "longitude": "-43.3853414"
 }

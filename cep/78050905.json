@@ -1,9 +1,11 @@
 {
   "cep": "78050905",
   "logradouro": "Avenida Governador Dante Martins de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Carumbé",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5885487",
+  "longitude": "-56.059583"
 }

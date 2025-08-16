@@ -5,5 +5,7 @@
   "bairro": "COHAB",
   "localidade": "Santa Inês",
   "uf": "MA",
-  "ibge": "2109908"
+  "ibge": "2109908",
+  "latitude": "-20.3445545",
+  "longitude": "-40.3146505"
 }

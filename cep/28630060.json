@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "latitude": "-22.9957918",
+  "longitude": "-43.614307"
 }

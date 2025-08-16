@@ -1,9 +1,11 @@
 {
   "cep": "63100991",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "latitude": "-7.2299572",
+  "longitude": "-39.4122984"
 }

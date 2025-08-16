@@ -5,5 +5,7 @@
   "bairro": "Tubalina",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "59.3782074",
+  "longitude": "17.4887955"
 }

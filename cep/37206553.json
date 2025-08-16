@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro do Sul",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.252612",
+  "longitude": "-45.004191"
 }

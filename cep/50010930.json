@@ -1,9 +1,11 @@
 {
   "cep": "50010930",
   "logradouro": "Rua Doutor Moacir Baracho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0620807",
+  "longitude": "-34.8767723"
 }

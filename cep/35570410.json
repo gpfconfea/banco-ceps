@@ -5,5 +5,7 @@
   "bairro": "Vila Padre João da Mata Rodarte",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.466021",
+  "longitude": "-45.417871"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "48288970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Açu da Torre",
   "localidade": "Mata de São João",
   "uf": "BA",
-  "ibge": "2921005"
+  "ibge": "2921005",
+  "latitude": "-12.495422",
+  "longitude": "-38.2333561"
 }

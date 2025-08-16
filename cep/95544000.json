@@ -6,5 +6,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Capivari do Sul",
   "uf": "RS",
-  "ibge": "4304671"
+  "ibge": "4304671",
+  "latitude": "-30.1855491",
+  "longitude": "-50.4766317"
 }

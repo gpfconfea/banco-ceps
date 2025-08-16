@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Ilha",
   "localidade": "Ilha Solteira",
   "uf": "SP",
-  "ibge": "3520442"
+  "ibge": "3520442",
+  "latitude": "-20.4338225",
+  "longitude": "-51.330037"
 }

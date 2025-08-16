@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fundão",
   "uf": "ES",
-  "ibge": "3202207"
+  "ibge": "3202207",
+  "latitude": "-19.9339668",
+  "longitude": "-40.4043194"
 }

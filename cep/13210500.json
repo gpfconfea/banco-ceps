@@ -5,5 +5,7 @@
   "bairro": "Condominio Santo Antonio II",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.2530035",
+  "longitude": "-46.891074"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Planalto da Serra",
   "uf": "MT",
-  "ibge": "5106455"
+  "ibge": "5106455",
+  "latitude": "-14.6604772",
+  "longitude": "-54.7795744"
 }

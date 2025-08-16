@@ -1,9 +1,11 @@
 {
   "cep": "35579972",
   "logradouro": "Rua do Alto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Albertos",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "41.4667771",
+  "longitude": "-8.5427241"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Amélia",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-20.3989261",
+  "longitude": "-43.5101299"
 }

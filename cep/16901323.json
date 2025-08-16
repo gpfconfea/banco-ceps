@@ -5,5 +5,7 @@
   "bairro": "Vila Mineira",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "latitude": "-20.8874958",
+  "longitude": "-51.3696236"
 }

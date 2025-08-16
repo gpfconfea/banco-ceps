@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coxim",
   "uf": "MS",
-  "ibge": "5003306"
+  "ibge": "5003306",
+  "latitude": "-18.5083493",
+  "longitude": "-54.7574859"
 }

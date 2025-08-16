@@ -5,5 +5,7 @@
   "bairro": "Marmelo",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.3346176",
+  "longitude": "-46.4502993"
 }

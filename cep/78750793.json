@@ -5,5 +5,7 @@
   "bairro": "Setor Rodoviária",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "latitude": "42.733883",
+  "longitude": "25.48583"
 }

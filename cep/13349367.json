@@ -5,5 +5,7 @@
   "bairro": "Parque Barnabé",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0875877",
+  "longitude": "-47.2826382"
 }

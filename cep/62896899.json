@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Horizonte",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "latitude": "-23.4920256",
+  "longitude": "-48.3981144"
 }

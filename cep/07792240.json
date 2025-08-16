@@ -5,5 +5,7 @@
   "bairro": "Aldeia do Sol (Polvilho)",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "latitude": "-23.4166221",
+  "longitude": "-46.858429"
 }
