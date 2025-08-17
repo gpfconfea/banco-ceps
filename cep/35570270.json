@@ -5,5 +5,7 @@
   "bairro": "Vila Ferreira",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.4696348",
+  "longitude": "-45.424541"
 }

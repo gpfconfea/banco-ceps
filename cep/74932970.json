@@ -1,9 +1,11 @@
 {
   "cep": "74932970",
   "logradouro": "Avenida dos Democratas Quadra 71 Lote 16",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Garavelo Residencial Park",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7675321",
+  "longitude": "-49.3312476"
 }

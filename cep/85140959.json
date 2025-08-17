@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Candói",
   "uf": "PR",
-  "ibge": "4104428"
+  "ibge": "4104428",
+  "latitude": "-25.5714648",
+  "longitude": "-52.0506485"
 }

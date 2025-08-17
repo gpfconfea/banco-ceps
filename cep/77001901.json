@@ -1,9 +1,11 @@
 {
   "cep": "77001901",
   "logradouro": "Quadra AANO 20 Avenida Joaquim Teotônio Segurado Cj 1 Lote 5 / 6",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Plano Diretor Norte",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "latitude": "-10.2369894",
+  "longitude": "-48.3334832"
 }

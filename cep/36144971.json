@@ -1,9 +1,11 @@
 {
   "cep": "36144971",
   "logradouro": "Rua Pedra Aflorada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Conceição da Ibitipoca",
   "localidade": "Lima Duarte",
   "uf": "MG",
-  "ibge": "3138609"
+  "ibge": "3138609",
+  "latitude": "-21.7213724",
+  "longitude": "-43.9296725"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78049928",
   "logradouro": "Avenida Desembargador Milton Figueiredo Ferreira Mendes Setor D",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro Político Administrativo",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5635966",
+  "longitude": "-56.0713066"
 }

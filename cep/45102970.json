@@ -1,9 +1,11 @@
 {
   "cep": "45102970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Sebastião",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-14.7256322",
+  "longitude": "-40.7273616"
 }

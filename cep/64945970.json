@@ -1,9 +1,11 @@
 {
   "cep": "64945970",
   "logradouro": "Rua Ângelo de Castro Rocha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Filomena",
   "uf": "PI",
-  "ibge": "2209203"
+  "ibge": "2209203",
+  "latitude": "-9.1243586",
+  "longitude": "-45.9209554"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Cidade Nova",
   "localidade": "Iracemápolis",
   "uf": "SP",
-  "ibge": "3521408"
+  "ibge": "3521408",
+  "latitude": "-22.5849634",
+  "longitude": "-47.5147747"
 }

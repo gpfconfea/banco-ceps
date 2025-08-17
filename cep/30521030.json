@@ -5,5 +5,7 @@
   "bairro": "Virgínia",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9738664",
+  "longitude": "-43.9694992"
 }

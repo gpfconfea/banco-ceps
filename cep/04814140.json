@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Rita",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7191863",
+  "longitude": "-46.678795"
 }

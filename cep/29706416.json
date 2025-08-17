@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-22.8469023",
+  "longitude": "-45.2316652"
 }

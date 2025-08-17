@@ -1,9 +1,11 @@
 {
   "cep": "13211900",
   "logradouro": "Avenida Marginal Esquerda da Via Anhaguera",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Retiro",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.2092978",
+  "longitude": "-46.7693973"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipanema",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "latitude": "-16.6282403",
+  "longitude": "-49.3973596"
 }

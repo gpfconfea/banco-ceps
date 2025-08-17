@@ -1,9 +1,11 @@
 {
   "cep": "36417973",
   "logradouro": "Rua Antônio Faria da Costa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Bela",
   "localidade": "Congonhas",
   "uf": "MG",
-  "ibge": "3118007"
+  "ibge": "3118007",
+  "latitude": "-20.5026936",
+  "longitude": "-43.8597346"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "79874970",
   "logradouro": "Rua Nina Gomes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guaçu",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.1376602",
+  "longitude": "-54.4821706"
 }

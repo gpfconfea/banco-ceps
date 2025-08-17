@@ -1,9 +1,11 @@
 {
   "cep": "36227971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio do Porto",
   "localidade": "Piedade do Rio Grande",
   "uf": "MG",
-  "ibge": "3150307"
+  "ibge": "3150307",
+  "latitude": "-21.4684781",
+  "longitude": "-44.1964469"
 }

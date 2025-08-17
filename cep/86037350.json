@@ -5,5 +5,7 @@
   "bairro": "Armindo Guazzi",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3230593",
+  "longitude": "-51.112353"
 }

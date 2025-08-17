@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pontalinda",
   "uf": "SP",
-  "ibge": "3540259"
+  "ibge": "3540259",
+  "latitude": "-20.4401556",
+  "longitude": "-50.5236821"
 }

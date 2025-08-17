@@ -5,5 +5,7 @@
   "bairro": "Jardim Celeste",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.1904654",
+  "longitude": "-49.4031665"
 }

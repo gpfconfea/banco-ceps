@@ -5,5 +5,7 @@
   "bairro": "Jardim Pouso Alegre",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7326108",
+  "longitude": "-46.7162307"
 }

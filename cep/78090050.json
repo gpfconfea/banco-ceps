@@ -5,5 +5,7 @@
   "bairro": "Jardim Presidente",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.644218",
+  "longitude": "-56.0241144"
 }

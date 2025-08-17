@@ -5,5 +5,7 @@
   "bairro": "Vila Santana",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3284214",
+  "longitude": "-48.947751"
 }

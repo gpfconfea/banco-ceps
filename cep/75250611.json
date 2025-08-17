@@ -6,5 +6,7 @@
   "bairro": "Residencial Morada do Bosque",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.6975366",
+  "longitude": "-49.122116"
 }

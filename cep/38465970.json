@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araporã",
   "uf": "MG",
-  "ibge": "3103751"
+  "ibge": "3103751",
+  "latitude": "-18.4340435",
+  "longitude": "-49.1884141"
 }

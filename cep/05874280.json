@@ -5,5 +5,7 @@
   "bairro": "Parque Novo Santo Amaro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-24.2266004",
+  "longitude": "-48.850422"
 }

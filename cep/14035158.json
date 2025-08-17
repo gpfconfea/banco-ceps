@@ -5,5 +5,7 @@
   "bairro": "Jardim San Marco",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-23.642431",
+  "longitude": "-46.431546"
 }

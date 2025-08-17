@@ -1,9 +1,11 @@
 {
   "cep": "46680970",
   "logradouro": "Rua Tiradentes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caraguataí",
   "localidade": "Jussiape",
   "uf": "BA",
-  "ibge": "2918605"
+  "ibge": "2918605",
+  "latitude": "-13.3992317",
+  "longitude": "-41.6426935"
 }

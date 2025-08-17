@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Lucrécia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.449241",
+  "longitude": "-46.7489314"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "latitude": "-22.428049",
+  "longitude": "-42.9672617"
 }

@@ -5,5 +5,7 @@
   "bairro": "Passo Novo",
   "localidade": "Alegrete",
   "uf": "RS",
-  "ibge": "4300406"
+  "ibge": "4300406",
+  "latitude": "-29.8247102",
+  "longitude": "-55.3182721"
 }

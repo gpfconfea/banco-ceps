@@ -5,5 +5,7 @@
   "bairro": "Chácara Engenho da Serra",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.7580585",
+  "longitude": "-46.453993"
 }

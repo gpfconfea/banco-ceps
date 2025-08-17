@@ -5,5 +5,7 @@
   "bairro": "Residencial Fazenda Serrinha",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.0184567",
+  "longitude": "-46.814485"
 }

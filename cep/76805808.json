@@ -5,5 +5,7 @@
   "bairro": "Triângulo",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.7742796",
+  "longitude": "-63.909828"
 }
