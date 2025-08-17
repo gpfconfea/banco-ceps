@@ -1,9 +1,11 @@
 {
   "cep": "68710970",
   "logradouro": "Rua Ernesto Gomes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Maracanã",
   "uf": "PA",
-  "ibge": "1504307"
+  "ibge": "1504307",
+  "latitude": "-0.7659445",
+  "longitude": "-47.456145"
 }

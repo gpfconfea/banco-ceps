@@ -5,5 +5,7 @@
   "bairro": "Jardim Esmeralda",
   "localidade": "Cerqueira César",
   "uf": "SP",
-  "ibge": "3511409"
+  "ibge": "3511409",
+  "latitude": "-23.0293813",
+  "longitude": "-49.1687894"
 }

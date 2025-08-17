@@ -5,5 +5,7 @@
   "bairro": "Jardim Leonel",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5839135",
+  "longitude": "-48.0792442"
 }

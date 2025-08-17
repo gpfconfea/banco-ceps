@@ -5,5 +5,7 @@
   "bairro": "Tupy",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5471548",
+  "longitude": "-48.2377296"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Monte Belo",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.18617",
+  "longitude": "-49.3923702"
 }

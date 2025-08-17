@@ -5,5 +5,7 @@
   "bairro": "Vila Daniel",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.8598855",
+  "longitude": "-47.4862204"
 }

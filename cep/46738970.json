@@ -1,9 +1,11 @@
 {
   "cep": "46738970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Remédios",
   "localidade": "Novo Horizonte",
   "uf": "BA",
-  "ibge": "2923035"
+  "ibge": "2923035",
+  "latitude": "-12.7936261",
+  "longitude": "-42.2138485"
 }

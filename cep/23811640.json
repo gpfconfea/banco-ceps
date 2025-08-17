@@ -5,5 +5,7 @@
   "bairro": "São Salvador",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "latitude": "-13.8590592",
+  "longitude": "-40.0837763"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "66077901",
   "logradouro": "Avenida Perimetral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Terra Firme",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-1.4592364",
+  "longitude": "-48.4445594"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Aviação",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1094551",
+  "longitude": "-51.3813325"
 }

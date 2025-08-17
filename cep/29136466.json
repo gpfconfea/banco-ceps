@@ -6,5 +6,7 @@
   "bairro": "Soteco",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "latitude": "-20.3645328",
+  "longitude": "-40.4264275"
 }

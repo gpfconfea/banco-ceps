@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaipé",
   "uf": "MG",
-  "ibge": "3132305"
+  "ibge": "3132305",
+  "latitude": "-17.4021001",
+  "longitude": "-41.6700746"
 }

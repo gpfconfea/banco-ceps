@@ -5,5 +5,7 @@
   "bairro": "Alphaville",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3690381",
+  "longitude": "-49.0484802"
 }

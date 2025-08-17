@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibaiti",
   "uf": "PR",
-  "ibge": "4109708"
+  "ibge": "4109708",
+  "latitude": "-23.8509939",
+  "longitude": "-50.1935068"
 }

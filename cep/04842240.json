@@ -5,5 +5,7 @@
   "bairro": "Parque Grajaú",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7448794",
+  "longitude": "-46.6871962"
 }

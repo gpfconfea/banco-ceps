@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pérola",
   "uf": "PR",
-  "ibge": "4118907"
+  "ibge": "4118907",
+  "latitude": "-23.804115",
+  "longitude": "-53.6791848"
 }

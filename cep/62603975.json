@@ -1,9 +1,11 @@
 {
   "cep": "62603975",
   "logradouro": "Rua José Praxedes Bastos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cruz",
   "localidade": "Cruz",
   "uf": "CE",
-  "ibge": "2304251"
+  "ibge": "2304251",
+  "latitude": "-3.6694584",
+  "longitude": "-39.5190426"
 }

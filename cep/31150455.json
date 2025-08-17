@@ -5,5 +5,7 @@
   "bairro": "Vila Inestan",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-18.2089722",
+  "longitude": "-42.3340021"
 }

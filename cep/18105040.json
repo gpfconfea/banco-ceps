@@ -5,5 +5,7 @@
   "bairro": "Cajuru do Sul",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4051872",
+  "longitude": "-47.3833003"
 }

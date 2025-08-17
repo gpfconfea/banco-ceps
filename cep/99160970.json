@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gentil",
   "uf": "RS",
-  "ibge": "4308854"
+  "ibge": "4308854",
+  "latitude": "-28.4332199",
+  "longitude": "-52.0347063"
 }

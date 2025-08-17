@@ -5,5 +5,7 @@
   "bairro": "Fazenda Malabar",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.0160119",
+  "longitude": "-46.8785892"
 }

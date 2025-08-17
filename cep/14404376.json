@@ -5,5 +5,7 @@
   "bairro": "Residencial Atlanta Park",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5963174",
+  "longitude": "-47.3805943"
 }

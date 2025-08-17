@@ -5,5 +5,7 @@
   "bairro": "Nova Cerejeira",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.1317795",
+  "longitude": "-46.5932059"
 }

@@ -6,5 +6,7 @@
   "bairro": "São Geraldo",
   "localidade": "Aparecida",
   "uf": "SP",
-  "ibge": "3502507"
+  "ibge": "3502507",
+  "latitude": "-22.8595046",
+  "longitude": "-45.2524885"
 }

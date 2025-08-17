@@ -6,5 +6,7 @@
   "bairro": "Residencial Maria Júlia",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "latitude": "-20.7987312",
+  "longitude": "-49.320107"
 }

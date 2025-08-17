@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ilha das Flores",
   "uf": "SE",
-  "ibge": "2802700"
+  "ibge": "2802700",
+  "latitude": "-10.4339186",
+  "longitude": "-36.5374075"
 }

@@ -5,5 +5,7 @@
   "bairro": "Quiririm",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0264329",
+  "longitude": "-45.6233671"
 }

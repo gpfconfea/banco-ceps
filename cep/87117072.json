@@ -5,5 +5,7 @@
   "bairro": "Residencial Governador Jose Richa",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4718467",
+  "longitude": "-51.8824237"
 }

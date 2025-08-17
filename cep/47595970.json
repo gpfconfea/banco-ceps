@@ -1,9 +1,11 @@
 {
   "cep": "47595970",
   "logradouro": "Rua da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibipetum",
   "localidade": "Ipupiara",
   "uf": "BA",
-  "ibge": "2914109"
+  "ibge": "2914109",
+  "latitude": "-11.7974118",
+  "longitude": "-42.6409071"
 }

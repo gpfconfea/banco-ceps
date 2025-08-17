@@ -6,5 +6,7 @@
   "bairro": "José Nereu Marquez",
   "localidade": "Itaju",
   "uf": "SP",
-  "ibge": "3522000"
+  "ibge": "3522000",
+  "latitude": "-21.9819864",
+  "longitude": "-48.8087026"
 }

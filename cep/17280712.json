@@ -5,5 +5,7 @@
   "bairro": "Jardim Pacaembu",
   "localidade": "Pederneiras",
   "uf": "SP",
-  "ibge": "3536703"
+  "ibge": "3536703",
+  "latitude": "-22.348307",
+  "longitude": "-48.798051"
 }

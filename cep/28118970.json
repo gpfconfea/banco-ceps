@@ -1,9 +1,11 @@
 {
   "cep": "28118970",
   "logradouro": "Rodovia BR 101",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serrinha",
   "localidade": "Campos dos Goytacazes",
   "uf": "RJ",
-  "ibge": "3301009"
+  "ibge": "3301009",
+  "latitude": "-22.0145627",
+  "longitude": "-41.6772282"
 }

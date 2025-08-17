@@ -5,5 +5,7 @@
   "bairro": "Jardim Soares",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-10.0005006",
+  "longitude": "-42.4797231"
 }

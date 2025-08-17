@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Afonso Alves de Camargo",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5276544",
+  "longitude": "-51.4531635"
 }

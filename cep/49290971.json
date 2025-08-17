@@ -1,9 +1,11 @@
 {
   "cep": "49290971",
   "logradouro": "Praça do Mercado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itabaianinha",
   "uf": "SE",
-  "ibge": "2803005"
+  "ibge": "2803005",
+  "latitude": "-11.2750411",
+  "longitude": "-37.7879303"
 }

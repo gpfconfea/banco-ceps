@@ -1,9 +1,11 @@
 {
   "cep": "76343980",
   "logradouro": "Praça Félix Machado Pereira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "São Patrício",
   "uf": "GO",
-  "ibge": "5220280"
+  "ibge": "5220280",
+  "latitude": "-15.3498497",
+  "longitude": "-49.8159751"
 }

@@ -5,5 +5,7 @@
   "bairro": "Damasco",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-21.5840496",
+  "longitude": "-45.4222943"
 }

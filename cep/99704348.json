@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "latitude": "-27.6379769",
+  "longitude": "-52.24327"
 }

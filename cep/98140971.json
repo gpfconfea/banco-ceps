@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quevedos",
   "uf": "RS",
-  "ibge": "4315321"
+  "ibge": "4315321",
+  "latitude": "-29.3537381",
+  "longitude": "-54.0730825"
 }

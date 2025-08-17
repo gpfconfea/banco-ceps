@@ -5,5 +5,7 @@
   "bairro": "Jardim São Ricardo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4956575",
+  "longitude": "-46.7215738"
 }

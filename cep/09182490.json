@@ -5,5 +5,7 @@
   "bairro": "Jardim Las Vegas",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.7009278",
+  "longitude": "-46.5279684"
 }

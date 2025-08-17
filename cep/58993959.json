@@ -1,9 +1,11 @@
 {
   "cep": "58993959",
   "logradouro": "Rua Pedro Arruda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Boa Ventura",
   "uf": "PB",
-  "ibge": "2502102"
+  "ibge": "2502102",
+  "latitude": "-7.4197456",
+  "longitude": "-38.2177413"
 }

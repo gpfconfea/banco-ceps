@@ -5,5 +5,7 @@
   "bairro": "Loteamento Balneário Camburi",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.627808",
+  "longitude": "-45.3904167"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Novo Mundo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5020457",
+  "longitude": "-46.5707844"
 }

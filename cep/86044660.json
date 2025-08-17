@@ -5,5 +5,7 @@
   "bairro": "Chácara Bela Vista",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.391927",
+  "longitude": "-51.1177296"
 }

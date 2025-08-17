@@ -1,9 +1,11 @@
 {
   "cep": "88798972",
   "logradouro": "Rodovia SC-437",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barreiros",
   "localidade": "Pescaria Brava",
   "uf": "SC",
-  "ibge": "4212650"
+  "ibge": "4212650",
+  "latitude": "-28.3883291",
+  "longitude": "-48.8719432"
 }

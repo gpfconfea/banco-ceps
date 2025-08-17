@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "latitude": "-19.0038984",
+  "longitude": "-57.6387959"
 }

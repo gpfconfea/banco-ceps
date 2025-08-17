@@ -5,5 +5,7 @@
   "bairro": "Parque das Primaveras",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.146216",
+  "longitude": "-49.9574614"
 }

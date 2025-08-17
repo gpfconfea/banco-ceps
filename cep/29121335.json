@@ -5,5 +5,7 @@
   "bairro": "Cavalieri",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3390629",
+  "longitude": "-40.32382"
 }

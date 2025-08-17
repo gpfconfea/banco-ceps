@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Conchas",
   "uf": "SP",
-  "ibge": "3512308"
+  "ibge": "3512308",
+  "latitude": "-23.0124257",
+  "longitude": "-48.0079043"
 }
