@@ -5,5 +5,7 @@
   "bairro": "Jardim Ivone",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.2873547",
+  "longitude": "-49.0618463"
 }

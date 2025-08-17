@@ -5,5 +5,7 @@
   "bairro": "Vila Espírito Santo",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5217255",
+  "longitude": "-47.4922152"
 }

@@ -5,5 +5,7 @@
   "bairro": "São João do Tauape",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.752461",
+  "longitude": "-38.4951531"
 }

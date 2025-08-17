@@ -5,5 +5,7 @@
   "bairro": "Chácara Montagna",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.8676891",
+  "longitude": "-48.4448146"
 }

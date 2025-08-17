@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Santinon",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4545887",
+  "longitude": "-47.4971821"
 }

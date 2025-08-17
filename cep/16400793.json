@@ -5,5 +5,7 @@
   "bairro": "Vila Pacini",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.8949476",
+  "longitude": "-49.587731"
 }

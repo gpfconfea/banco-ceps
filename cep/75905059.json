@@ -5,5 +5,7 @@
   "bairro": "Setor Empresarial",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-20.776214",
+  "longitude": "-49.3664436"
 }

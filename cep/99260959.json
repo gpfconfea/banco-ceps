@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Casca",
   "uf": "RS",
-  "ibge": "4304903"
+  "ibge": "4304903",
+  "latitude": "-28.5638117",
+  "longitude": "-51.9743445"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santos Dumont II",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0335987",
+  "longitude": "-47.1402251"
 }

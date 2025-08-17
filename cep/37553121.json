@@ -5,5 +5,7 @@
   "bairro": "Cascalho",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.215071",
+  "longitude": "-45.9576964"
 }

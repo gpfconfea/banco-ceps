@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caseiros",
   "uf": "RS",
-  "ibge": "4304952"
+  "ibge": "4304952",
+  "latitude": "-28.271206",
+  "longitude": "-51.6874519"
 }

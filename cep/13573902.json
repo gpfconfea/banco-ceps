@@ -1,9 +1,11 @@
 {
   "cep": "13573902",
   "logradouro": "Rodovia Luiz Augusto de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Técnológico",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-22.0627298",
+  "longitude": "-47.9466104"
 }

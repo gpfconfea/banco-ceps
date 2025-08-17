@@ -5,5 +5,7 @@
   "bairro": "Residencial Pienza",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "latitude": "-11.8254828",
+  "longitude": "-55.4746003"
 }

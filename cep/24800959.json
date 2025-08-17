@@ -1,9 +1,11 @@
 {
   "cep": "24800959",
   "logradouro": "Praça Marechal Floriano Peixoto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "latitude": "-22.7453201",
+  "longitude": "-42.8589634"
 }

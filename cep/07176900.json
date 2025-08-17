@@ -1,9 +1,11 @@
 {
   "cep": "07176900",
   "logradouro": "Avenida Chiyo Yamamoto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Sadokim",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4102078",
+  "longitude": "-46.3815119"
 }

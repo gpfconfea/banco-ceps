@@ -5,5 +5,7 @@
   "bairro": "São José do Pântano",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.329922",
+  "longitude": "-46.0051676"
 }

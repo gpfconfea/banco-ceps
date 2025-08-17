@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itanhaém",
   "uf": "SP",
-  "ibge": "3522109"
+  "ibge": "3522109",
+  "latitude": "-24.183734",
+  "longitude": "-46.7879883"
 }

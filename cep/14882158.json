@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Ventura",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "latitude": "-21.2427284",
+  "longitude": "-48.3215278"
 }

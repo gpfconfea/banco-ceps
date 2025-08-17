@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Luiza II",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7770086",
+  "longitude": "-47.2788156"
 }

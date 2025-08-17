@@ -1,9 +1,11 @@
 {
   "cep": "64745970",
   "logradouro": "Avenida Professor Vicente Gualberto Ribeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Francisco de Assis do Piauí",
   "uf": "PI",
-  "ibge": "2209658"
+  "ibge": "2209658",
+  "latitude": "-8.23456",
+  "longitude": "-41.6851338"
 }

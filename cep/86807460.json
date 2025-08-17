@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíso",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.547314",
+  "longitude": "-51.431402"
 }

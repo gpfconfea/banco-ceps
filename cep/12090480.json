@@ -5,5 +5,7 @@
   "bairro": "Granjas Panorama",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0465329",
+  "longitude": "-45.5443247"
 }

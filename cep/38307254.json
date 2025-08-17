@@ -5,5 +5,7 @@
   "bairro": "Lagoa Azul",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "latitude": "-18.9770844",
+  "longitude": "-49.488193"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque das Palmeiras",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-22.9228987",
+  "longitude": "-45.4288083"
 }

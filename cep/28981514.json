@@ -6,5 +6,7 @@
   "bairro": "Parque Hotel",
   "localidade": "Araruama",
   "uf": "RJ",
-  "ibge": "3300209"
+  "ibge": "3300209",
+  "latitude": "-22.8680575",
+  "longitude": "-42.3256489"
 }
