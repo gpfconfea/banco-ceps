@@ -5,5 +5,7 @@
   "bairro": "Anita Garibaldi",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-26.3219307",
+  "longitude": "-48.866972"
 }

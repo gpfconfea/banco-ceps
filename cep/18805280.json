@@ -5,5 +5,7 @@
   "bairro": "Vila Ferreira",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.2027662",
+  "longitude": "-49.3840782"
 }

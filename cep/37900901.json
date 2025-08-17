@@ -1,9 +1,11 @@
 {
   "cep": "37900901",
   "logradouro": "Praça Geraldo da Silva Maia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Passos",
   "uf": "MG",
-  "ibge": "3147907"
+  "ibge": "3147907",
+  "latitude": "-20.7214764",
+  "longitude": "-46.6093436"
 }

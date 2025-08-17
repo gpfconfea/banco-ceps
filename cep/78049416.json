@@ -5,5 +5,7 @@
   "bairro": "Condomínio Florais Cuiabá Residencial",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5393337",
+  "longitude": "-56.0948332"
 }

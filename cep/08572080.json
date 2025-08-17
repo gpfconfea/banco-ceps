@@ -5,5 +5,7 @@
   "bairro": "Vila Vermont",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4903499",
+  "longitude": "-46.3379725"
 }

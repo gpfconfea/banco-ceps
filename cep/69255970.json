@@ -1,9 +1,11 @@
 {
   "cep": "69255970",
   "logradouro": "Alameda das Acássias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Careiro da Várzea",
   "uf": "AM",
-  "ibge": "1301159"
+  "ibge": "1301159",
+  "latitude": "-3.1974418",
+  "longitude": "-59.8256028"
 }

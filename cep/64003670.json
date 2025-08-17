@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.0633317",
+  "longitude": "-42.810446"
 }

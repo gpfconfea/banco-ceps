@@ -5,5 +5,7 @@
   "bairro": "Vila Palmeiras I",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0325708",
+  "longitude": "-47.1039895"
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito",
   "localidade": "Tibagi",
   "uf": "PR",
-  "ibge": "4127502"
+  "ibge": "4127502",
+  "latitude": "-24.744613",
+  "longitude": "-50.5412477"
 }

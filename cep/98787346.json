@@ -5,5 +5,7 @@
   "bairro": "Central",
   "localidade": "Santa Rosa",
   "uf": "RS",
-  "ibge": "4317202"
+  "ibge": "4317202",
+  "latitude": "-18.8863281",
+  "longitude": "-48.2800288"
 }

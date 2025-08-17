@@ -5,5 +5,7 @@
   "bairro": "Residencial Luiz Massud Coury",
   "localidade": "Rio das Pedras",
   "uf": "SP",
-  "ibge": "3544004"
+  "ibge": "3544004",
+  "latitude": "-22.8600675",
+  "longitude": "-47.6170943"
 }

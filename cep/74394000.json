@@ -5,5 +5,7 @@
   "bairro": "Jardim Alphaville",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7299027",
+  "longitude": "-49.377636"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "87267970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Irapuan",
   "localidade": "Quinta do Sol",
   "uf": "PR",
-  "ibge": "4121109"
+  "ibge": "4121109",
+  "latitude": "-23.7607488",
+  "longitude": "-52.0851258"
 }

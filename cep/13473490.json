@@ -5,5 +5,7 @@
   "bairro": "Vila Bertini",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-22.7217093",
+  "longitude": "-47.2958274"
 }

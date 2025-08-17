@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Segredo",
   "uf": "RS",
-  "ibge": "4320263"
+  "ibge": "4320263",
+  "latitude": "-29.2540681",
+  "longitude": "-52.9168166"
 }

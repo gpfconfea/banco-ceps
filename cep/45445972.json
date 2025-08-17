@@ -1,9 +1,11 @@
 {
   "cep": "45445972",
   "logradouro": "Rua Manoel Benício",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Travessão",
   "localidade": "Camamu",
   "uf": "BA",
-  "ibge": "2905800"
+  "ibge": "2905800",
+  "latitude": "-13.944341",
+  "longitude": "-39.104571"
 }

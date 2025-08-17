@@ -5,5 +5,7 @@
   "bairro": "Serra do Egito",
   "localidade": "João Monlevade",
   "uf": "MG",
-  "ibge": "3136207"
+  "ibge": "3136207",
+  "latitude": "-19.8556001",
+  "longitude": "-43.1045875"
 }

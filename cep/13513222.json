@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Iporanga",
   "localidade": "Santa Gertrudes",
   "uf": "SP",
-  "ibge": "3546702"
+  "ibge": "3546702",
+  "latitude": "-22.4547144",
+  "longitude": "-47.535917"
 }

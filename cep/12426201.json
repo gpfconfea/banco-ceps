@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Esperança",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-22.9467625",
+  "longitude": "-45.4972422"
 }

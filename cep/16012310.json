@@ -5,5 +5,7 @@
   "bairro": "Pinheiros",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-21.203092",
+  "longitude": "-50.4069304"
 }

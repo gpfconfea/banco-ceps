@@ -5,5 +5,7 @@
   "bairro": "Pasqualini",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "latitude": "-29.834565",
+  "longitude": "-51.132469"
 }

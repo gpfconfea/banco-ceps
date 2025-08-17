@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gararu",
   "uf": "SE",
-  "ibge": "2802403"
+  "ibge": "2802403",
+  "latitude": "-10.0116699",
+  "longitude": "-36.9592921"
 }

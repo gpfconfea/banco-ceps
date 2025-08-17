@@ -5,5 +5,7 @@
   "bairro": "Jardim Aimoré",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.496819",
+  "longitude": "-46.3994895"
 }

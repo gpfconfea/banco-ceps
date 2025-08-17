@@ -6,5 +6,7 @@
   "bairro": "Santa Rosa",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "latitude": "-20.7516008",
+  "longitude": "-49.3824551"
 }

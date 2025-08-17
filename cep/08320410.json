@@ -5,5 +5,7 @@
   "bairro": "Parque São Rafael",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.621388",
+  "longitude": "-46.4739191"
 }

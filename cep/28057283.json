@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Campos dos Goytacazes",
   "uf": "RJ",
-  "ibge": "3301009"
+  "ibge": "3301009",
+  "latitude": "-21.5695739",
+  "longitude": "-41.8705638"
 }

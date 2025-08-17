@@ -6,5 +6,7 @@
   "bairro": "Residencial Dourados",
   "localidade": "Tarumã",
   "uf": "SP",
-  "ibge": "3553955"
+  "ibge": "3553955",
+  "latitude": "-22.7416443",
+  "longitude": "-50.578397"
 }

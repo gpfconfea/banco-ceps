@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Laura Molina",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.7223919",
+  "longitude": "-48.1584904"
 }

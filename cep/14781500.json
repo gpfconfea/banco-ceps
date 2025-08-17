@@ -5,5 +5,7 @@
   "bairro": "Residencial Ide Daher",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-20.5486094",
+  "longitude": "-48.5556523"
 }

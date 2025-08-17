@@ -5,5 +5,7 @@
   "bairro": "Jardim Tatiana",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5403386",
+  "longitude": "-47.491423"
 }

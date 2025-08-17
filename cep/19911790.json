@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-22.971912",
+  "longitude": "-49.8662838"
 }

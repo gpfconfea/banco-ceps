@@ -1,9 +1,11 @@
 {
   "cep": "94340990",
   "logradouro": "Estrada do Vadeco - Bairro Marrocos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barro Vermelho",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.9419439",
+  "longitude": "-51.0234108"
 }

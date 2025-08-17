@@ -5,5 +5,7 @@
   "bairro": "Residencial das Palmeiras",
   "localidade": "Cruzeiro",
   "uf": "SP",
-  "ibge": "3513405"
+  "ibge": "3513405",
+  "latitude": "-22.5661884",
+  "longitude": "-44.9423288"
 }

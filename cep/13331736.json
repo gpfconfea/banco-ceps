@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Dona Maria José",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0873017",
+  "longitude": "-47.2354302"
 }

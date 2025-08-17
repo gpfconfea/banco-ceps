@@ -1,9 +1,11 @@
 {
   "cep": "86224970",
   "logradouro": "Avenida João Batista Ramos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pau d'Alho do Sul",
   "localidade": "Assaí",
   "uf": "PR",
-  "ibge": "4101903"
+  "ibge": "4101903",
+  "latitude": "-23.49996",
+  "longitude": "-50.89204"
 }

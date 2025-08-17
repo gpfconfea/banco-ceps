@@ -5,5 +5,7 @@
   "bairro": "Setor dos Dourados",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-15.6513131",
+  "longitude": "-49.9800993"
 }

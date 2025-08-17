@@ -6,5 +6,7 @@
   "bairro": "Residencial Módena",
   "localidade": "Cerquilho",
   "uf": "SP",
-  "ibge": "3511508"
+  "ibge": "3511508",
+  "latitude": "-23.1782735",
+  "longitude": "-47.742023"
 }

@@ -5,5 +5,7 @@
   "bairro": "Serra Nova",
   "localidade": "Rio Pardo de Minas",
   "uf": "MG",
-  "ibge": "3155603"
+  "ibge": "3155603",
+  "latitude": "-15.7735101",
+  "longitude": "-42.7143286"
 }

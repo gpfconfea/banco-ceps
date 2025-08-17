@@ -1,9 +1,11 @@
 {
   "cep": "35864970",
   "logradouro": "Rua Cônego Antônio Madureira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Córregos",
   "localidade": "Conceição do Mato Dentro",
   "uf": "MG",
-  "ibge": "3117504"
+  "ibge": "3117504",
+  "latitude": "-18.8860489",
+  "longitude": "-43.5006838"
 }

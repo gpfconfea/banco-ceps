@@ -5,5 +5,7 @@
   "bairro": "Belém Velho",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.1162871",
+  "longitude": "-51.154504"
 }

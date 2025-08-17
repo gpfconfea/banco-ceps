@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.7526315",
+  "longitude": "-47.960054"
 }

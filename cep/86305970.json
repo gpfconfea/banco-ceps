@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cornélio Procópio",
   "uf": "PR",
-  "ibge": "4106407"
+  "ibge": "4106407",
+  "latitude": "-23.1759591",
+  "longitude": "-50.6478834"
 }
