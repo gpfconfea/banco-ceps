@@ -5,5 +5,7 @@
   "bairro": "Cidade Industrial Norte",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "latitude": "-5.0871951",
+  "longitude": "-42.8366262"
 }

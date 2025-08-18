@@ -5,5 +5,7 @@
   "bairro": "Estrela Tovy",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.2306351",
+  "longitude": "-54.8408685"
 }

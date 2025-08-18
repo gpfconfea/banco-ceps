@@ -5,5 +5,7 @@
   "bairro": "Vila Operária",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1046306",
+  "longitude": "-51.3843276"
 }

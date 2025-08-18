@@ -5,5 +5,7 @@
   "bairro": "Residencial Ipanema",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.7863386",
+  "longitude": "-47.9119718"
 }

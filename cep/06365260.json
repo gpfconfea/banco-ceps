@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Beatriz",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "latitude": "-23.5540133",
+  "longitude": "-46.8467965"
 }

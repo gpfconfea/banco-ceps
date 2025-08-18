@@ -5,5 +5,7 @@
   "bairro": "Matriz",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "latitude": "-4.5740151",
+  "longitude": "-40.8154129"
 }

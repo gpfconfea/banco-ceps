@@ -6,5 +6,7 @@
   "bairro": "Vila Matutina",
   "localidade": "Pirenópolis",
   "uf": "GO",
-  "ibge": "5217302"
+  "ibge": "5217302",
+  "latitude": "-15.8505047",
+  "longitude": "-48.965231"
 }

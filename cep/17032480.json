@@ -5,5 +5,7 @@
   "bairro": "Jardim Dona Lili",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3208571",
+  "longitude": "-49.0290286"
 }

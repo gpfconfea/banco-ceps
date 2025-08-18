@@ -1,9 +1,11 @@
 {
   "cep": "49830972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Gararu",
   "uf": "SE",
-  "ibge": "2802403"
+  "ibge": "2802403",
+  "latitude": "-9.9695359",
+  "longitude": "-37.0826107"
 }

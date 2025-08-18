@@ -6,5 +6,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Iguaba Grande",
   "uf": "RJ",
-  "ibge": "3301876"
+  "ibge": "3301876",
+  "latitude": "-22.8367011",
+  "longitude": "-42.205801"
 }

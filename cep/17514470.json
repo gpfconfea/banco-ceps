@@ -5,5 +5,7 @@
   "bairro": "Parque Cecap Aeroporto",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.1874594",
+  "longitude": "-49.9287124"
 }

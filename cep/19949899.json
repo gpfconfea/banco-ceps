@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Ibirarema",
   "localidade": "Ibirarema",
   "uf": "SP",
-  "ibge": "3519501"
+  "ibge": "3519501",
+  "latitude": "-22.8154827",
+  "longitude": "-50.0744203"
 }

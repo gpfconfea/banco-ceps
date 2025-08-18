@@ -5,5 +5,7 @@
   "bairro": "Buenos Aires",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-4.1822925",
+  "longitude": "-42.8918747"
 }

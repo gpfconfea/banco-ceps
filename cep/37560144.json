@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional João Batista Pereira Beraldo",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2795484",
+  "longitude": "-45.9197369"
 }

@@ -5,5 +5,7 @@
   "bairro": "João XXIII",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "latitude": "-21.1392303",
+  "longitude": "-42.3722572"
 }

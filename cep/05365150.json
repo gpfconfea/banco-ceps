@@ -5,5 +5,7 @@
   "bairro": "Jardim São Gilberto",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5781599",
+  "longitude": "-46.7463229"
 }

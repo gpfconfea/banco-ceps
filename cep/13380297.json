@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Harmonia",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.3488114",
+  "longitude": "-46.9411862"
 }

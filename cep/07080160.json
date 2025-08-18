@@ -5,5 +5,7 @@
   "bairro": "Jardim Ema",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4469832",
+  "longitude": "-46.5495033"
 }

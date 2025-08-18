@@ -5,5 +5,7 @@
   "bairro": "Residencial Claúdio Marchetti",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-11.8658076",
+  "longitude": "-58.2443198"
 }

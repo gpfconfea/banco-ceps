@@ -5,5 +5,7 @@
   "bairro": "Fazenda São José - Residencial Celeste",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.727741",
+  "longitude": "-49.3421063"
 }

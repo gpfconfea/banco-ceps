@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-21.8463699",
+  "longitude": "-46.6784139"
 }

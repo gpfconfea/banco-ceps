@@ -5,5 +5,7 @@
   "bairro": "Jardim São Salvador",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "latitude": "-23.5982471",
+  "longitude": "-46.7573775"
 }

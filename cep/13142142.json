@@ -5,5 +5,7 @@
   "bairro": "Parque Bom Retiro",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "latitude": "-22.7846926",
+  "longitude": "-47.192944"
 }

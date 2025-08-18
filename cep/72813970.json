@@ -1,9 +1,11 @@
 {
   "cep": "72813970",
   "logradouro": "Avenida Alfredo Nasser Quadra 20 Lotes 9 e A Lojas 1 e 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Juracy",
   "localidade": "Luziânia",
   "uf": "GO",
-  "ibge": "5212501"
+  "ibge": "5212501",
+  "latitude": "-16.2476798",
+  "longitude": "-47.9156825"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-32.0361108",
+  "longitude": "-52.1102004"
 }

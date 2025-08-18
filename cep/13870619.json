@@ -5,5 +5,7 @@
   "bairro": "Vila Loyola",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "latitude": "-21.9804058",
+  "longitude": "-46.7896519"
 }

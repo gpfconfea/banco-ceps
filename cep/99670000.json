@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Ronda Alta",
   "uf": "RS",
-  "ibge": "4316105"
+  "ibge": "4316105",
+  "latitude": "-27.782064",
+  "longitude": "-52.8078036"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pedrinhas Paulista",
   "uf": "SP",
-  "ibge": "3537156"
+  "ibge": "3537156",
+  "latitude": "-22.815725",
+  "longitude": "-50.792359"
 }

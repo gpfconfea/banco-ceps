@@ -5,5 +5,7 @@
   "bairro": "Vila Anchieta",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.6575576",
+  "longitude": "-49.7698821"
 }
