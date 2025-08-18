@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Paranaíba",
   "uf": "MG",
-  "ibge": "3155504"
+  "ibge": "3155504",
+  "latitude": "-19.1959508",
+  "longitude": "-46.241767"
 }

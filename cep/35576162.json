@@ -5,5 +5,7 @@
   "bairro": "Beira Rio",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.469662",
+  "longitude": "-45.4253936"
 }

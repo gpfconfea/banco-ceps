@@ -5,5 +5,7 @@
   "bairro": "Barra Velha",
   "localidade": "Ilhabela",
   "uf": "SP",
-  "ibge": "3520400"
+  "ibge": "3520400",
+  "latitude": "-23.8244407",
+  "longitude": "-45.3797078"
 }

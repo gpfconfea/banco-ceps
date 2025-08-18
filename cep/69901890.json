@@ -5,5 +5,7 @@
   "bairro": "Vitória",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-22.0799892",
+  "longitude": "-51.3743543"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Jardim",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.028634",
+  "longitude": "-51.147357"
 }

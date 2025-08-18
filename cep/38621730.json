@@ -5,5 +5,7 @@
   "bairro": "Santa Clara",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-16.2928272",
+  "longitude": "-46.9012966"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Zelinda",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5312857",
+  "longitude": "-47.4590336"
 }

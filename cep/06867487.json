@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Júlia",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.7604048",
+  "longitude": "-46.8086996"
 }

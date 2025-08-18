@@ -6,5 +6,7 @@
   "bairro": "Condomínio do Lago 3ª Etapa",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6643122",
+  "longitude": "-49.378269"
 }

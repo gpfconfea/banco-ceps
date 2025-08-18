@@ -5,5 +5,7 @@
   "bairro": "Residencial Antônio Barbosa",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.5900663",
+  "longitude": "-49.2704867"
 }

@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Ponta Grossa",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "latitude": "-25.153909",
+  "longitude": "-49.984853"
 }

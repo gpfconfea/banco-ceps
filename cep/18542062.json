@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.2026249",
+  "longitude": "-47.5310582"
 }

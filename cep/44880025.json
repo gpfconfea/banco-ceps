@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Cafarnaum",
   "uf": "BA",
-  "ibge": "2905305"
+  "ibge": "2905305",
+  "latitude": "-11.6946106",
+  "longitude": "-41.4719161"
 }

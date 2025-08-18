@@ -5,5 +5,7 @@
   "bairro": "Vila Nancy",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.2435678",
+  "longitude": "-45.8999664"
 }

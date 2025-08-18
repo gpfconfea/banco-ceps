@@ -5,5 +5,7 @@
   "bairro": "Vila Discola",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.2004668",
+  "longitude": "-46.7469807"
 }

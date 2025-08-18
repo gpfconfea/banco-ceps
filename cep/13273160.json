@@ -5,5 +5,7 @@
   "bairro": "Vila Capuava",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9339187",
+  "longitude": "-46.9840879"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santana de Caldas",
   "localidade": "Caldas",
   "uf": "MG",
-  "ibge": "3110301"
+  "ibge": "3110301",
+  "latitude": "-21.8176467",
+  "longitude": "-46.402721"
 }

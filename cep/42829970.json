@@ -1,9 +1,11 @@
 {
   "cep": "42829970",
   "logradouro": "Rua Manoel Coelho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Arembepe (Abrantes)",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.7740135",
+  "longitude": "-38.1777056"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.2836641",
+  "longitude": "-45.9506421"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5542601",
+  "longitude": "-47.4354309"
 }

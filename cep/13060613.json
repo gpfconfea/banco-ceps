@@ -5,5 +5,7 @@
   "bairro": "Jardim Márcia",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9470512",
+  "longitude": "-47.1134355"
 }

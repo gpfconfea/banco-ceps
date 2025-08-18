@@ -5,5 +5,7 @@
   "bairro": "Vila Eliete",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5314623",
+  "longitude": "-46.4451018"
 }

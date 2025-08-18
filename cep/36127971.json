@@ -1,9 +1,11 @@
 {
   "cep": "36127971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Três Ilhas",
   "localidade": "Belmiro Braga",
   "uf": "MG",
-  "ibge": "3106101"
+  "ibge": "3106101",
+  "latitude": "-21.9198164",
+  "longitude": "-43.3671636"
 }

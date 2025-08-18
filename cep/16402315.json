@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Maria",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.6763118",
+  "longitude": "-49.7346705"
 }

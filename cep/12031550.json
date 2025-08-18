@@ -5,5 +5,7 @@
   "bairro": "Jardim Independência",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.3765834",
+  "longitude": "-45.4448619"
 }

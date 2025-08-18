@@ -5,5 +5,7 @@
   "bairro": "Minas Talco",
   "localidade": "Ouro Branco",
   "uf": "MG",
-  "ibge": "3145901"
+  "ibge": "3145901",
+  "latitude": "-20.5143535",
+  "longitude": "-43.7083341"
 }

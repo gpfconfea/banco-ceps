@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Mundo",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.3889089",
+  "longitude": "-48.961673"
 }

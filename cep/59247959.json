@@ -1,9 +1,11 @@
 {
   "cep": "59247959",
   "logradouro": "Rua Luiz Francisco de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Lagoa Salgada",
   "uf": "RN",
-  "ibge": "2406601"
+  "ibge": "2406601",
+  "latitude": "-6.1217113",
+  "longitude": "-35.476534"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Odete",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3452081",
+  "longitude": "-49.0395281"
 }

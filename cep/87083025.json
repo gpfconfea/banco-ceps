@@ -5,5 +5,7 @@
   "bairro": "Jardim Real",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3951154",
+  "longitude": "-51.9555226"
 }

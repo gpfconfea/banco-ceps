@@ -1,9 +1,11 @@
 {
   "cep": "11020900",
   "logradouro": "Avenida Engenheiro Eduardo Magalhães Gama",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Estuário",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-23.9759551",
+  "longitude": "-46.2930759"
 }

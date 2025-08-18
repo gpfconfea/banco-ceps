@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Ubatuba",
   "uf": "SP",
-  "ibge": "3555406"
+  "ibge": "3555406",
+  "latitude": "-23.6025143",
+  "longitude": "-45.3972558"
 }

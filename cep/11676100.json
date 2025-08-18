@@ -5,5 +5,7 @@
   "bairro": "Mirante da Orla",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5995833",
+  "longitude": "-45.3617489"
 }

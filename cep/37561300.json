@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2526736",
+  "longitude": "-45.7103184"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Martina",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.966764",
+  "longitude": "-47.001892"
 }

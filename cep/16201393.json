@@ -5,5 +5,7 @@
   "bairro": "Residencial Atenas",
   "localidade": "Birigüi",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "latitude": "-21.1855469",
+  "longitude": "-50.2639916"
 }

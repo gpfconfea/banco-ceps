@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Santa Lúcia",
   "uf": "SP",
-  "ibge": "3546900"
+  "ibge": "3546900",
+  "latitude": "-27.0990859",
+  "longitude": "-53.2088608"
 }

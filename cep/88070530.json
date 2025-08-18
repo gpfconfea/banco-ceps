@@ -5,5 +5,7 @@
   "bairro": "Capoeiras",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.5963649",
+  "longitude": "-48.5893353"
 }

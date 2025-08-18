@@ -5,5 +5,7 @@
   "bairro": "Jardim Elite",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.437841",
+  "longitude": "-46.9469172"
 }

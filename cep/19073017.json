@@ -5,5 +5,7 @@
   "bairro": "Royal Park",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-21.7742078",
+  "longitude": "-52.1489429"
 }

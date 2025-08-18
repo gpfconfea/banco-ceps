@@ -6,5 +6,7 @@
   "bairro": "Lagoa",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-15.6746222",
+  "longitude": "-56.1486453"
 }

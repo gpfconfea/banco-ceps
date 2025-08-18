@@ -5,5 +5,7 @@
   "bairro": "Residencial Greville",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5810551",
+  "longitude": "-47.430428"
 }

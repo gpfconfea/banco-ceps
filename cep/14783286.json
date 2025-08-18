@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-20.5715541",
+  "longitude": "-48.5565637"
 }
