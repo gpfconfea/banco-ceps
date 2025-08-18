@@ -5,5 +5,7 @@
   "bairro": "Vila Minerva",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5410177",
+  "longitude": "-46.4145123"
 }

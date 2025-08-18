@@ -1,9 +1,11 @@
 {
   "cep": "37993970",
   "logradouro": "Rua Evaristo Teodoro de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Capetinga",
   "uf": "MG",
-  "ibge": "3112406"
+  "ibge": "3112406",
+  "latitude": "-20.6198191",
+  "longitude": "-47.0598133"
 }

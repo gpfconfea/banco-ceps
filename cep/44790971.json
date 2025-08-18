@@ -1,9 +1,11 @@
 {
   "cep": "44790971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Araras",
   "localidade": "Campo Formoso",
   "uf": "BA",
-  "ibge": "2906006"
+  "ibge": "2906006",
+  "latitude": "-5.365906",
+  "longitude": "-46.6365523"
 }

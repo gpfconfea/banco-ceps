@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Clara",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3861149",
+  "longitude": "-51.9079419"
 }

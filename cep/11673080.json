@@ -5,5 +5,7 @@
   "bairro": "Jardim Samambaia",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.6368975",
+  "longitude": "-45.4320031"
 }

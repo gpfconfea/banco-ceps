@@ -5,5 +5,7 @@
   "bairro": "Pilar",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-20.0013989",
+  "longitude": "-43.9703305"
 }

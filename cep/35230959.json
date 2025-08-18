@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Resplendor",
   "uf": "MG",
-  "ibge": "3154309"
+  "ibge": "3154309",
+  "latitude": "-19.3256661",
+  "longitude": "-41.2558004"
 }

@@ -5,5 +5,7 @@
   "bairro": "Polo Industrial Abilio Nogueira",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5442132",
+  "longitude": "-47.4402459"
 }

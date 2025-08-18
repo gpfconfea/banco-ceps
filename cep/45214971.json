@@ -1,9 +1,11 @@
 {
   "cep": "45214971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Monte Branco",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-13.8636155",
+  "longitude": "-40.0545428"
 }

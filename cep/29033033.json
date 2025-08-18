@@ -5,5 +5,7 @@
   "bairro": "Conquista",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "latitude": "-33.5186057",
+  "longitude": "-53.3745371"
 }

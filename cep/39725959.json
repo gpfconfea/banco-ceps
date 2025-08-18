@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Efigênia de Minas",
   "uf": "MG",
-  "ibge": "3157500"
+  "ibge": "3157500",
+  "latitude": "-18.8283289",
+  "longitude": "-42.4394707"
 }

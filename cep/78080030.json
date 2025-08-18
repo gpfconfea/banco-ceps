@@ -5,5 +5,7 @@
   "bairro": "Chácara dos Pinheiros",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6225286",
+  "longitude": "-56.0532876"
 }

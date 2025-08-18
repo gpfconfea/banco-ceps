@@ -1,9 +1,11 @@
 {
   "cep": "76835970",
   "logradouro": "Rua Padre Chiquinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Carlos",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.4411043",
+  "longitude": "-63.5027243"
 }

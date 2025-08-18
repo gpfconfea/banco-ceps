@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Quinta da Lagoa",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "latitude": "-20.793893",
+  "longitude": "-51.6998655"
 }

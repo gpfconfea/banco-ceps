@@ -5,5 +5,7 @@
   "bairro": "Jardim Flores do Campo",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2615685",
+  "longitude": "-51.1249034"
 }

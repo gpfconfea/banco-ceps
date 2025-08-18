@@ -1,9 +1,11 @@
 {
   "cep": "29100901",
   "logradouro": "Praça Frei Pedro Palácios",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro de Vila Velha",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3294232",
+  "longitude": "-40.2905329"
 }

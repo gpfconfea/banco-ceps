@@ -5,5 +5,7 @@
   "bairro": "Chácara Monte Alegre",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6474365",
+  "longitude": "-46.6794855"
 }

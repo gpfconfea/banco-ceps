@@ -5,5 +5,7 @@
   "bairro": "Vila Marilena",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5461012",
+  "longitude": "-46.4109474"
 }

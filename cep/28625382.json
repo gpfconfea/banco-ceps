@@ -5,5 +5,7 @@
   "bairro": "Vale dos Pinheiros",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "latitude": "-22.290605",
+  "longitude": "-42.5539615"
 }

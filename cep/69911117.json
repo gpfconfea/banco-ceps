@@ -6,5 +6,7 @@
   "bairro": "Glória",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-15.6707824",
+  "longitude": "-56.1495809"
 }

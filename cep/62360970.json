@@ -1,9 +1,11 @@
 {
   "cep": "62360970",
   "logradouro": "Rua João Sabino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ibiapina",
   "uf": "CE",
-  "ibge": "2305308"
+  "ibge": "2305308",
+  "latitude": "-3.9221865",
+  "longitude": "-40.887346"
 }

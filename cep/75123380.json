@@ -5,5 +5,7 @@
   "bairro": "Batista",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.340298",
+  "longitude": "-48.9526721"
 }

@@ -5,5 +5,7 @@
   "bairro": "São José do Apuí",
   "localidade": "Alta Floresta",
   "uf": "MT",
-  "ibge": "5100250"
+  "ibge": "5100250",
+  "latitude": "-9.7745293",
+  "longitude": "-57.1278709"
 }

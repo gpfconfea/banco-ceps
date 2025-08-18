@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Itamaraty",
   "localidade": "Leme",
   "uf": "SP",
-  "ibge": "3526704"
+  "ibge": "3526704",
+  "latitude": "-22.185566",
+  "longitude": "-47.3685423"
 }

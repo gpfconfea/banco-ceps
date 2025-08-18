@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9484425",
+  "longitude": "-47.1058632"
 }

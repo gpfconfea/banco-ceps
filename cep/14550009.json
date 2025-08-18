@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Aramina",
   "uf": "SP",
-  "ibge": "3503000"
+  "ibge": "3503000",
+  "latitude": "-20.0879068",
+  "longitude": "-47.7870529"
 }

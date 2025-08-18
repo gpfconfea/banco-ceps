@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pirapora",
   "uf": "MG",
-  "ibge": "3151206"
+  "ibge": "3151206",
+  "latitude": "-17.3539798",
+  "longitude": "-44.947464"
 }

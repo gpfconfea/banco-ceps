@@ -5,5 +5,7 @@
   "bairro": "Santa Catarina",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.6659528",
+  "longitude": "-43.3003464"
 }

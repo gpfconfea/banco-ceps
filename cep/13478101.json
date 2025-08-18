@@ -5,5 +5,7 @@
   "bairro": "Vila Sant'Angelo",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-22.7226293",
+  "longitude": "-47.3284259"
 }

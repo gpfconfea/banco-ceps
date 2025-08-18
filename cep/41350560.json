@@ -5,5 +5,7 @@
   "bairro": "Nova Brasília",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9264394",
+  "longitude": "-38.4126547"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Costa Melo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-24.0997393",
+  "longitude": "-48.3710463"
 }

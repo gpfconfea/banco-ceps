@@ -1,9 +1,11 @@
 {
   "cep": "39482970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Brejo do Amparo",
   "localidade": "Januária",
   "uf": "MG",
-  "ibge": "3135209"
+  "ibge": "3135209",
+  "latitude": "-15.4424985",
+  "longitude": "-44.3981775"
 }

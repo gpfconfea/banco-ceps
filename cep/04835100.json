@@ -5,5 +5,7 @@
   "bairro": "Jardim Angelina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7362689",
+  "longitude": "-46.7035822"
 }

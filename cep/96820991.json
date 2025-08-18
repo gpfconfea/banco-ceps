@@ -1,9 +1,11 @@
 {
   "cep": "96820991",
   "logradouro": "Estrada Linha João Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "latitude": "-29.7319586",
+  "longitude": "-52.3771912"
 }

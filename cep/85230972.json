@@ -1,9 +1,11 @@
 {
   "cep": "85230972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio do Tigre",
   "localidade": "Santa Maria do Oeste",
   "uf": "PR",
-  "ibge": "4123857"
+  "ibge": "4123857",
+  "latitude": "-24.9325271",
+  "longitude": "-51.8945505"
 }

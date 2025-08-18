@@ -1,9 +1,11 @@
 {
   "cep": "45203901",
   "logradouro": "Rua 15 de Novembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campo do América",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-14.0169281",
+  "longitude": "-39.8870491"
 }

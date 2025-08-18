@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "latitude": "-21.5983355",
+  "longitude": "-48.3772656"
 }

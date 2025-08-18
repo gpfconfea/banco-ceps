@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-30.8415191",
+  "longitude": "-51.8214846"
 }

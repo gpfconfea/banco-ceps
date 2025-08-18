@@ -5,5 +5,7 @@
   "bairro": "Pedro Melenchon",
   "localidade": "Iaras",
   "uf": "SP",
-  "ibge": "3519253"
+  "ibge": "3519253",
+  "latitude": "-22.8744904",
+  "longitude": "-49.1485946"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Figueira",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0444618",
+  "longitude": "-47.1634966"
 }

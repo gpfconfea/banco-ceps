@@ -5,5 +5,7 @@
   "bairro": "Valverde",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.7745012",
+  "longitude": "-43.5279852"
 }

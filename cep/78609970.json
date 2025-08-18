@@ -1,9 +1,11 @@
 {
   "cep": "78609970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Toricueyje",
   "localidade": "Barra do Garças",
   "uf": "MT",
-  "ibge": "5101803"
+  "ibge": "5101803",
+  "latitude": "-10.6563876",
+  "longitude": "-51.5748686"
 }

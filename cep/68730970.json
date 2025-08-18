@@ -1,9 +1,11 @@
 {
   "cep": "68730970",
   "logradouro": "Avenida Barão do Rio Branco Piso Térreo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Nova Timboteua",
   "uf": "PA",
-  "ibge": "1505007"
+  "ibge": "1505007",
+  "latitude": "-1.2057469",
+  "longitude": "-47.3880585"
 }
