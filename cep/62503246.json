@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "latitude": "-3.4864911",
+  "longitude": "-39.5748235"
 }

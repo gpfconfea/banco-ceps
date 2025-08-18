@@ -1,9 +1,11 @@
 {
   "cep": "41230900",
   "logradouro": "Rua da Indonésia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Granjas Rurais Presidente Vargas",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9241416",
+  "longitude": "-38.4627808"
 }

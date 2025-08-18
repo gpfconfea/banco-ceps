@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.527883",
+  "longitude": "-44.1305423"
 }

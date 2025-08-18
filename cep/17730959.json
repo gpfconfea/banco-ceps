@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Parapuã",
   "uf": "SP",
-  "ibge": "3536000"
+  "ibge": "3536000",
+  "latitude": "-21.778918",
+  "longitude": "-50.7929092"
 }

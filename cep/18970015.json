@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chavantes",
   "uf": "SP",
-  "ibge": "3557204"
+  "ibge": "3557204",
+  "latitude": "-23.0389025",
+  "longitude": "-49.7111788"
 }

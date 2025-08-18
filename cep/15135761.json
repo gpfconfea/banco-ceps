@@ -5,5 +5,7 @@
   "bairro": "Terra Vista Residence Club",
   "localidade": "Mirassol",
   "uf": "SP",
-  "ibge": "3530300"
+  "ibge": "3530300",
+  "latitude": "-20.8347167",
+  "longitude": "-49.4862348"
 }

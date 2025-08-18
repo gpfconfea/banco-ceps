@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2209097",
+  "longitude": "-49.978815"
 }

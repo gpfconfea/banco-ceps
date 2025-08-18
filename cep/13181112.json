@@ -5,5 +5,7 @@
   "bairro": "Residencial Ypiranga (Nova Veneza)",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "latitude": "-21.1524056",
+  "longitude": "-47.9909613"
 }

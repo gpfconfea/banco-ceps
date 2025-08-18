@@ -5,5 +5,7 @@
   "bairro": "Guarani",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "latitude": "-22.9025999",
+  "longitude": "-42.4627736"
 }

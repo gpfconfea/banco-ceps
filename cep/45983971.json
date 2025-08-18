@@ -1,9 +1,11 @@
 {
   "cep": "45983971",
   "logradouro": "Avenida Treze de Maio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cumuruxatiba",
   "localidade": "Prado",
   "uf": "BA",
-  "ibge": "2925501"
+  "ibge": "2925501",
+  "latitude": "-17.1150685",
+  "longitude": "-39.1852394"
 }

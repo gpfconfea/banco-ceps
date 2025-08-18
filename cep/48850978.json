@@ -1,9 +1,11 @@
 {
   "cep": "48850978",
   "logradouro": "Rua da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itiúba",
   "uf": "BA",
-  "ibge": "2917003"
+  "ibge": "2917003",
+  "latitude": "-10.6902297",
+  "longitude": "-39.8556824"
 }

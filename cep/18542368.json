@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Agostinho Alcalá",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.1920858",
+  "longitude": "-47.5261154"
 }

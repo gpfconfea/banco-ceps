@@ -5,5 +5,7 @@
   "bairro": "Vila Vitória",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-6.3381915",
+  "longitude": "-47.4055139"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55400970",
   "logradouro": "Rua Ismael Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Catende",
   "uf": "PE",
-  "ibge": "2604205"
+  "ibge": "2604205",
+  "latitude": "-8.6694445",
+  "longitude": "-35.7198792"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65580959",
   "logradouro": "Rua de Nazaré",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tutóia",
   "uf": "MA",
-  "ibge": "2112506"
+  "ibge": "2112506",
+  "latitude": "-2.7220723",
+  "longitude": "-42.5349906"
 }

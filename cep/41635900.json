@@ -1,9 +1,11 @@
 {
   "cep": "41635900",
   "logradouro": "Rua General Severino Filho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itapuã",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9505546",
+  "longitude": "-38.3481206"
 }

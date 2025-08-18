@@ -5,5 +5,7 @@
   "bairro": "Alto do Cardoso",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-22.9428882",
+  "longitude": "-45.4657712"
 }

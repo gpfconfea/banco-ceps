@@ -1,9 +1,11 @@
 {
   "cep": "84507970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gonçalves Júnior",
   "localidade": "Irati",
   "uf": "PR",
-  "ibge": "4110706"
+  "ibge": "4110706",
+  "latitude": "-25.463532",
+  "longitude": "-50.7714345"
 }

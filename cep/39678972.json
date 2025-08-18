@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aricanduva",
   "uf": "MG",
-  "ibge": "3104452"
+  "ibge": "3104452",
+  "latitude": "-17.8685767",
+  "longitude": "-42.5552868"
 }

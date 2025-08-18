@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Orizânia",
   "uf": "MG",
-  "ibge": "3145877"
+  "ibge": "3145877",
+  "latitude": "-20.5060688",
+  "longitude": "-42.2089683"
 }

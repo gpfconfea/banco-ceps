@@ -5,5 +5,7 @@
   "bairro": "Bandeirante",
   "localidade": "Curvelo",
   "uf": "MG",
-  "ibge": "3120904"
+  "ibge": "3120904",
+  "latitude": "-18.7354681",
+  "longitude": "-44.4268089"
 }

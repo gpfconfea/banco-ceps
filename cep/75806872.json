@@ -5,5 +5,7 @@
   "bairro": "Residencial Terras de Toscana",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "latitude": "-17.8488741",
+  "longitude": "-51.7136623"
 }

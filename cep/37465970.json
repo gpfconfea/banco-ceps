@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Virgínia",
   "uf": "MG",
-  "ibge": "3171709"
+  "ibge": "3171709",
+  "latitude": "-22.3344418",
+  "longitude": "-45.0941538"
 }

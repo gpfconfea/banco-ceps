@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Canaã",
   "localidade": "Fernandópolis",
   "uf": "SP",
-  "ibge": "3515509"
+  "ibge": "3515509",
+  "latitude": "-20.2906838",
+  "longitude": "-50.23936"
 }

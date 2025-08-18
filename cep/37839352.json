@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Andradas",
   "uf": "MG",
-  "ibge": "3102605"
+  "ibge": "3102605",
+  "latitude": "-22.0592114",
+  "longitude": "-46.5682501"
 }

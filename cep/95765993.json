@@ -1,9 +1,11 @@
 {
   "cep": "95765993",
   "logradouro": "Rua São Luís - Bela Vista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bom Princípio",
   "uf": "RS",
-  "ibge": "4302352"
+  "ibge": "4302352",
+  "latitude": "-29.5152304",
+  "longitude": "-51.3589055"
 }

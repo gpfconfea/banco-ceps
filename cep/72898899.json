@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Cidade Ocidental",
   "localidade": "Cidade Ocidental",
   "uf": "GO",
-  "ibge": "5205497"
+  "ibge": "5205497",
+  "latitude": "-16.147895",
+  "longitude": "-47.816519"
 }

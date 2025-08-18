@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Corinto",
   "uf": "MG",
-  "ibge": "3119104"
+  "ibge": "3119104",
+  "latitude": "-18.363056",
+  "longitude": "-44.456111"
 }

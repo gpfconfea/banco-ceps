@@ -5,5 +5,7 @@
   "bairro": "Aparecida",
   "localidade": "Alvorada",
   "uf": "RS",
-  "ibge": "4300604"
+  "ibge": "4300604",
+  "latitude": "-19.6339295",
+  "longitude": "-43.2251385"
 }

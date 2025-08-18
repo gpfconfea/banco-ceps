@@ -1,9 +1,11 @@
 {
   "cep": "76329970",
   "logradouro": "Avenida Antônio F. Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Santa Isabel",
   "uf": "GO",
-  "ibge": "5219357"
+  "ibge": "5219357",
+  "latitude": "-20.7831809",
+  "longitude": "-49.3805107"
 }

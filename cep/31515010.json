@@ -5,5 +5,7 @@
   "bairro": "Venda Nova",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-20.8952672",
+  "longitude": "-45.2766345"
 }

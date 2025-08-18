@@ -5,5 +5,7 @@
   "bairro": "Vila Giovanetti",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "latitude": "-21.9243679",
+  "longitude": "-50.5112014"
 }

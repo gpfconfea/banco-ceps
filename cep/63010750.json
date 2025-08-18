@@ -5,5 +5,7 @@
   "bairro": "Socorro",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "latitude": "-8.1475219",
+  "longitude": "-35.4053008"
 }

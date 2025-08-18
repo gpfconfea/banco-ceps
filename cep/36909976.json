@@ -1,9 +1,11 @@
 {
   "cep": "36909976",
   "logradouro": "Praça Euzébio Gonçalves Dutra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Pedro do Avaí",
   "localidade": "Manhuaçu",
   "uf": "MG",
-  "ibge": "3139409"
+  "ibge": "3139409",
+  "latitude": "-20.1985914",
+  "longitude": "-42.1852791"
 }

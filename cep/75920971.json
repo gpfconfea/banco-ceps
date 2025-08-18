@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Santa Helena de Goiás",
   "uf": "GO",
-  "ibge": "5219308"
+  "ibge": "5219308",
+  "latitude": "-17.8170313",
+  "longitude": "-50.5907409"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Carlos de Campos",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5305137",
+  "longitude": "-46.5377874"
 }

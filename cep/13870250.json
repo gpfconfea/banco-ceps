@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João da Boa Vista",
   "uf": "SP",
-  "ibge": "3549102"
+  "ibge": "3549102",
+  "latitude": "-20.8028781",
+  "longitude": "-49.3752194"
 }

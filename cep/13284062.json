@@ -5,5 +5,7 @@
   "bairro": "Nova Vinhedo",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-23.0251567",
+  "longitude": "-46.9880087"
 }

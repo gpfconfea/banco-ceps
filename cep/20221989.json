@@ -1,9 +1,11 @@
 {
   "cep": "20221989",
-  "logradouro": "Praça Cristiano Otoni Térreo Locker Correios",
-  "complemento": "s/n",
+  "logradouro": "Praça Cristiano Otoni Térreo",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9037604",
+  "longitude": "-43.1905497"
 }

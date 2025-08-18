@@ -5,5 +5,7 @@
   "bairro": "Parque Itália",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7980448",
+  "longitude": "-49.2692585"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "13092901",
   "logradouro": "Avenida Mackenzie",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Brandina",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8895961",
+  "longitude": "-47.0181292"
 }

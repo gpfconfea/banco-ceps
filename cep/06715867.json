@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial San José",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.6023753",
+  "longitude": "-46.9084823"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "87263970",
   "logradouro": "Rua Belo Horizonte",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Vicente",
   "localidade": "Araruna",
   "uf": "PR",
-  "ibge": "4101705"
+  "ibge": "4101705",
+  "latitude": "-24.0403517",
+  "longitude": "-52.6132134"
 }
