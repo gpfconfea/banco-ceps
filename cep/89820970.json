@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Xanxerê",
   "uf": "SC",
-  "ibge": "4219507"
+  "ibge": "4219507",
+  "latitude": "-26.8781096",
+  "longitude": "-52.4027141"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "14590970",
   "logradouro": "Rua Generoso Dias Borges",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pioneiros",
   "localidade": "Guará",
   "uf": "SP",
-  "ibge": "3517703"
+  "ibge": "3517703",
+  "latitude": "-20.5092488",
+  "longitude": "-47.8331722"
 }

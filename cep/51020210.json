@@ -5,5 +5,7 @@
   "bairro": "Boa Viagem",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.1147283",
+  "longitude": "-34.8933075"
 }

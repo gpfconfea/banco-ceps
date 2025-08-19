@@ -1,9 +1,11 @@
 {
   "cep": "85340973",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campo do Bugre",
   "localidade": "Rio Bonito do Iguaçu",
   "uf": "PR",
-  "ibge": "4122156"
+  "ibge": "4122156",
+  "latitude": "-25.4911245",
+  "longitude": "-52.5261369"
 }

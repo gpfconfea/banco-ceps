@@ -5,5 +5,7 @@
   "bairro": "Recreio São Jorge",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4003372",
+  "longitude": "-46.512145"
 }

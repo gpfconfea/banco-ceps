@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Congonhas",
   "uf": "MG",
-  "ibge": "3118007"
+  "ibge": "3118007",
+  "latitude": "-20.5101624",
+  "longitude": "-43.8497955"
 }

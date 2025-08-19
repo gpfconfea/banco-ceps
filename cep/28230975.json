@@ -1,9 +1,11 @@
 {
   "cep": "28230975",
   "logradouro": "Estrada Morro Alegre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Luzia",
   "localidade": "São Francisco de Itabapoana",
   "uf": "RJ",
-  "ibge": "3304755"
+  "ibge": "3304755",
+  "latitude": "-21.4332969",
+  "longitude": "-41.1856161"
 }

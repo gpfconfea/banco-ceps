@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nuporanga",
   "uf": "SP",
-  "ibge": "3533601"
+  "ibge": "3533601",
+  "latitude": "-20.7296541",
+  "longitude": "-47.751865"
 }

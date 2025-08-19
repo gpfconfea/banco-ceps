@@ -5,5 +5,7 @@
   "bairro": "Oriente",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "latitude": "-22.4209048",
+  "longitude": "-45.4475349"
 }

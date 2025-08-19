@@ -5,5 +5,7 @@
   "bairro": "Barra do Ceará",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-21.2922457",
+  "longitude": "-50.3428431"
 }

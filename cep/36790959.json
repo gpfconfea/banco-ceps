@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Miraí",
   "uf": "MG",
-  "ibge": "3142205"
+  "ibge": "3142205",
+  "latitude": "-21.1944805",
+  "longitude": "-42.6122079"
 }

@@ -5,5 +5,7 @@
   "bairro": "Casa Verde Alta",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.491338",
+  "longitude": "-46.6687195"
 }

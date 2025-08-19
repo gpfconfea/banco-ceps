@@ -1,9 +1,11 @@
 {
   "cep": "78653970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Veranópolis",
   "localidade": "Confresa",
   "uf": "MT",
-  "ibge": "5103353"
+  "ibge": "5103353",
+  "latitude": "-10.7833777",
+  "longitude": "-51.9924374"
 }

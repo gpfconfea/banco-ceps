@@ -5,5 +5,7 @@
   "bairro": "Jardim Altos de Pinheiros I e II",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.7786727",
+  "longitude": "-48.124185"
 }

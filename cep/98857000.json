@@ -5,5 +5,7 @@
   "bairro": "Esquina Gaúcha",
   "localidade": "Entre-Ijuís",
   "uf": "RS",
-  "ibge": "4306932"
+  "ibge": "4306932",
+  "latitude": "-28.361628",
+  "longitude": "-54.2670019"
 }

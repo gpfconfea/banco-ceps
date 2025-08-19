@@ -5,5 +5,7 @@
   "bairro": "Primavera II",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "latitude": "-17.910964",
+  "longitude": "-51.721159"
 }

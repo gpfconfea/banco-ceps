@@ -5,5 +5,7 @@
   "bairro": "Parque Ibiti Reserva",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4416829",
+  "longitude": "-47.4480808"
 }

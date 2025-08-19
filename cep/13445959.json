@@ -5,5 +5,7 @@
   "bairro": "Jardim Amália",
   "localidade": "Engenheiro Coelho",
   "uf": "SP",
-  "ibge": "3515152"
+  "ibge": "3515152",
+  "latitude": "-22.4885371",
+  "longitude": "-47.2117139"
 }

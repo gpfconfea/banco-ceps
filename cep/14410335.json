@@ -5,5 +5,7 @@
   "bairro": "Vila Monte Verde",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-23.5557714",
+  "longitude": "-46.6395571"
 }

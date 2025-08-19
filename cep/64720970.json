@@ -1,9 +1,11 @@
 {
   "cep": "64720970",
   "logradouro": "Avenida Petronio Portela",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Socorro do Piauí",
   "uf": "PI",
-  "ibge": "2210904"
+  "ibge": "2210904",
+  "latitude": "-7.8681414",
+  "longitude": "-42.5052193"
 }

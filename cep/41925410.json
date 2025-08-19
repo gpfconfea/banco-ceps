@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-13.0023677",
+  "longitude": "-38.4771524"
 }

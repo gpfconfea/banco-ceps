@@ -5,5 +5,7 @@
   "bairro": "Setor Campinas",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-14.0884011",
+  "longitude": "-50.3425352"
 }

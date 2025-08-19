@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Fé",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.1435211",
+  "longitude": "-40.3020789"
 }

@@ -5,5 +5,7 @@
   "bairro": "Corvo",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.0643377",
+  "longitude": "-51.1126991"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55578959",
   "logradouro": "Avenida José Bezerra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tamandaré",
   "uf": "PE",
-  "ibge": "2614857"
+  "ibge": "2614857",
+  "latitude": "-8.7270878",
+  "longitude": "-35.0909046"
 }

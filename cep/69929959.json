@@ -1,9 +1,11 @@
 {
   "cep": "69929959",
   "logradouro": "Rua Kaxinawás",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campinas",
   "localidade": "Plácido de Castro",
   "uf": "AC",
-  "ibge": "1200385"
+  "ibge": "1200385",
+  "latitude": "-10.0641117",
+  "longitude": "-67.2987213"
 }

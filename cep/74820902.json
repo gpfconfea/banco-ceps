@@ -1,9 +1,11 @@
 {
   "cep": "74820902",
   "logradouro": "Avenida Primeira Radial Quadra F Lote 3-A",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Pedro Ludovico",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7079379",
+  "longitude": "-49.2543725"
 }

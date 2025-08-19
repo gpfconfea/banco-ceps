@@ -1,9 +1,11 @@
 {
   "cep": "13970906",
   "logradouro": "Praça Coronel Souza Ferreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4369845",
+  "longitude": "-46.8261781"
 }

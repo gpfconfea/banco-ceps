@@ -5,5 +5,7 @@
   "bairro": "Boqueirão",
   "localidade": "Lapa",
   "uf": "PR",
-  "ibge": "4113205"
+  "ibge": "4113205",
+  "latitude": "-25.7549072",
+  "longitude": "-49.7305093"
 }

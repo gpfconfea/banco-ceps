@@ -5,5 +5,7 @@
   "bairro": "Comercial Nova Alvorada",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.429757",
+  "longitude": "-49.9370952"
 }

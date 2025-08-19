@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto da Boa Vista",
   "localidade": "Rolândia",
   "uf": "PR",
-  "ibge": "4122404"
+  "ibge": "4122404",
+  "latitude": "-23.3120547",
+  "longitude": "-51.3546008"
 }

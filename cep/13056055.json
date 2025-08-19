@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Planalto",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.7507991",
+  "longitude": "-47.680144"
 }

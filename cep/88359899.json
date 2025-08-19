@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Brusque",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "latitude": "-27.0989969",
+  "longitude": "-48.9170691"
 }

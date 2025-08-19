@@ -1,9 +1,11 @@
 {
   "cep": "55620970",
   "logradouro": "Praça Barão do Rio Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Glória do Goitá",
   "uf": "PE",
-  "ibge": "2606101"
+  "ibge": "2606101",
+  "latitude": "-8.0014338",
+  "longitude": "-35.2936811"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança II",
   "localidade": "Fartura",
   "uf": "SP",
-  "ibge": "3515400"
+  "ibge": "3515400",
+  "latitude": "-23.3975938",
+  "longitude": "-49.5143094"
 }

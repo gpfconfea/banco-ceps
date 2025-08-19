@@ -5,5 +5,7 @@
   "bairro": "Vila Assis Brasil",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.6820656",
+  "longitude": "-46.4633803"
 }

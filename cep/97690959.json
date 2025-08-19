@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Garruchos",
   "uf": "RS",
-  "ibge": "4308656"
+  "ibge": "4308656",
+  "latitude": "-28.1864785",
+  "longitude": "-55.6386625"
 }

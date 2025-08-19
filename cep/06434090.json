@@ -5,5 +5,7 @@
   "bairro": "Jardim Silveira",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.527876",
+  "longitude": "-46.8907178"
 }
