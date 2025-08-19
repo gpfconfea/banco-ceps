@@ -1,9 +1,11 @@
 {
   "cep": "69530970",
   "logradouro": "Avenida Brasil",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Uarini",
   "uf": "AM",
-  "ibge": "1304260"
+  "ibge": "1304260",
+  "latitude": "-2.9858907",
+  "longitude": "-65.157025"
 }

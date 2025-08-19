@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional José Gomes de Castro",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9816818",
+  "longitude": "-44.1532257"
 }

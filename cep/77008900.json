@@ -1,9 +1,11 @@
 {
   "cep": "77008900",
   "logradouro": "Avenida NS 10",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Loteamento Água Fria",
   "localidade": "Palmas",
   "uf": "TO",
-  "ibge": "1721000"
+  "ibge": "1721000",
+  "latitude": "-10.2207173",
+  "longitude": "-48.3183185"
 }

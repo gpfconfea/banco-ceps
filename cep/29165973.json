@@ -1,9 +1,11 @@
 {
   "cep": "29165973",
   "logradouro": "Rua Coelho Neto Loja 11",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Residencial Laranjeiras",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.1977371",
+  "longitude": "-40.2545784"
 }

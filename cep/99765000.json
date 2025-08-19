@@ -5,5 +5,7 @@
   "bairro": "Saltinho",
   "localidade": "Itatiba do Sul",
   "uf": "RS",
-  "ibge": "4310702"
+  "ibge": "4310702",
+  "latitude": "-27.265435",
+  "longitude": "-52.4585849"
 }

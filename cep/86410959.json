@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeirão Claro",
   "uf": "PR",
-  "ibge": "4121802"
+  "ibge": "4121802",
+  "latitude": "-23.2000422",
+  "longitude": "-49.7560455"
 }

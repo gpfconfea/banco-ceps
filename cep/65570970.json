@@ -1,9 +1,11 @@
 {
   "cep": "65570970",
   "logradouro": "Avenida Doutor Paulo Ramos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Conceição",
   "localidade": "Araioses",
   "uf": "MA",
-  "ibge": "2100907"
+  "ibge": "2100907",
+  "latitude": "-2.8794424",
+  "longitude": "-41.9069982"
 }

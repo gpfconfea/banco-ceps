@@ -5,5 +5,7 @@
   "bairro": "Jardim Mase",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5400202",
+  "longitude": "-46.9009207"
 }

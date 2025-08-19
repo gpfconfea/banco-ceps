@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0320171",
+  "longitude": "-47.833736"
 }

@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9702273",
+  "longitude": "-44.1678576"
 }

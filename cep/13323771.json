@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Imperial",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.4339238",
+  "longitude": "-46.7763695"
 }

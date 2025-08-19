@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.518522",
+  "longitude": "-47.4708271"
 }

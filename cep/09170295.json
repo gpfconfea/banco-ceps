@@ -5,5 +5,7 @@
   "bairro": "Vila João Ramalho",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.7130089",
+  "longitude": "-46.5101111"
 }

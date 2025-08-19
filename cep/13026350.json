@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulistano",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.918361",
+  "longitude": "-47.0475653"
 }

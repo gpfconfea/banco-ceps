@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Conde",
   "uf": "PB",
-  "ibge": "2504603"
+  "ibge": "2504603",
+  "latitude": "-7.2154842",
+  "longitude": "-34.912115"
 }

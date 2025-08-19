@@ -5,5 +5,7 @@
   "bairro": "Jardim Bandeirantes",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-20.8565582",
+  "longitude": "-46.3939611"
 }

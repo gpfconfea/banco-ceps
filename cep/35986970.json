@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José do Goiabal",
   "uf": "MG",
-  "ibge": "3163409"
+  "ibge": "3163409",
+  "latitude": "-19.9252082",
+  "longitude": "-42.7074514"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Chico Júlio",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5242894",
+  "longitude": "-47.4090484"
 }

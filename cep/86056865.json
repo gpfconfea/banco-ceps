@@ -5,5 +5,7 @@
   "bairro": "Jardim Maracanã",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3266287",
+  "longitude": "-51.2227845"
 }

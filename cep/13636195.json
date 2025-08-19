@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial San Martinho",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.9887329",
+  "longitude": "-47.4088845"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Inês",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3484037",
+  "longitude": "-40.3126868"
 }

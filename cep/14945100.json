@@ -5,5 +5,7 @@
   "bairro": "Paulo de Biazi",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.7696316",
+  "longitude": "-48.8245758"
 }

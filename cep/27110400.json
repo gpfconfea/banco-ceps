@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "latitude": "-22.4688441",
+  "longitude": "-43.8275331"
 }

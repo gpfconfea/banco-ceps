@@ -6,5 +6,7 @@
   "bairro": "Parque Oratório",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6328327",
+  "longitude": "-46.5105693"
 }

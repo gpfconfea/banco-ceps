@@ -1,9 +1,11 @@
 {
   "cep": "74670970",
   "logradouro": "Avenida São Francisco Quadra 41 Lote 92",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Genoveva",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.632551",
+  "longitude": "-49.2359601"
 }

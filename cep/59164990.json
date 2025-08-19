@@ -1,9 +1,11 @@
 {
   "cep": "59164990",
   "logradouro": "Rua do Comércio - Pirangi do Sul",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Nísia Floresta",
   "uf": "RN",
-  "ibge": "2408201"
+  "ibge": "2408201",
+  "latitude": "-5.9912073",
+  "longitude": "-35.1169541"
 }

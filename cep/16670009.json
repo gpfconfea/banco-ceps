@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Presidente Alves",
   "uf": "SP",
-  "ibge": "3541109"
+  "ibge": "3541109",
+  "latitude": "-22.1030701",
+  "longitude": "-49.4409869"
 }

@@ -5,5 +5,7 @@
   "bairro": "Souto Neto",
   "localidade": "Ponte Preta",
   "uf": "RS",
-  "ibge": "4314787"
+  "ibge": "4314787",
+  "latitude": "-27.6427654",
+  "longitude": "-52.5384039"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Carlo",
   "uf": "SC",
-  "ibge": "4211058"
+  "ibge": "4211058",
+  "latitude": "-27.2221137",
+  "longitude": "-50.9779241"
 }

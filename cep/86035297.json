@@ -5,5 +5,7 @@
   "bairro": "Jardim São Rafael",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3090953",
+  "longitude": "-51.1418093"
 }

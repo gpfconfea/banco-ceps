@@ -5,5 +5,7 @@
   "bairro": "Belmonte",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.5062993",
+  "longitude": "-44.0735776"
 }

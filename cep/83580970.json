@@ -1,9 +1,11 @@
 {
   "cep": "83580970",
   "logradouro": "Estrada de São Sebastião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Sebastião",
   "localidade": "Cerro Azul",
   "uf": "PR",
-  "ibge": "4105201"
+  "ibge": "4105201",
+  "latitude": "-24.8107296",
+  "longitude": "-49.3447441"
 }

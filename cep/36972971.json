@@ -1,9 +1,11 @@
 {
   "cep": "36972971",
   "logradouro": "Rua João Batista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Martins Soares",
   "uf": "MG",
-  "ibge": "3140530"
+  "ibge": "3140530",
+  "latitude": "-20.2591502",
+  "longitude": "-41.8781865"
 }

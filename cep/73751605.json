@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Planaltina",
   "uf": "GO",
-  "ibge": "5217609"
+  "ibge": "5217609",
+  "latitude": "-15.6208868",
+  "longitude": "-47.6779806"
 }

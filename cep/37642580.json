@@ -5,5 +5,7 @@
   "bairro": "Pires",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-9.7759357",
+  "longitude": "-66.3553681"
 }

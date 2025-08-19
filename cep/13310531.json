@@ -5,5 +5,7 @@
   "bairro": "Parque das Rosas",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2824692",
+  "longitude": "-47.302212"
 }

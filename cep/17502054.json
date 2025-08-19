@@ -5,5 +5,7 @@
   "bairro": "Alto Cafezal",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2110139",
+  "longitude": "-49.9591955"
 }

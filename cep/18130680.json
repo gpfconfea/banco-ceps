@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rita",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5304669",
+  "longitude": "-47.1268282"
 }

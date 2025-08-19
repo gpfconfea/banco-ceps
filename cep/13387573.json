@@ -5,5 +5,7 @@
   "bairro": "Zona de Produção Industrial Quatro (ZPI-04)",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7782925",
+  "longitude": "-47.284745"
 }
