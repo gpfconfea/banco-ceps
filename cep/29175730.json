@@ -5,5 +5,7 @@
   "bairro": "Nova Zelândia",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.2350892",
+  "longitude": "-40.2192972"
 }

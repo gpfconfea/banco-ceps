@@ -1,9 +1,11 @@
 {
   "cep": "99904970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio Toldo",
   "localidade": "Getúlio Vargas",
   "uf": "RS",
-  "ibge": "4308904"
+  "ibge": "4308904",
+  "latitude": "-27.7492092",
+  "longitude": "-52.1684727"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "15783970",
   "logradouro": "Rua Bráulio Pereira de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aparecida do Bonito",
   "localidade": "Santa Rita D'Oeste",
   "uf": "SP",
-  "ibge": "3547403"
+  "ibge": "3547403",
+  "latitude": "-20.0980564",
+  "longitude": "-50.7651122"
 }

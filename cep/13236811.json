@@ -5,5 +5,7 @@
   "bairro": "Chácara São João",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-23.1801627",
+  "longitude": "-46.7286847"
 }

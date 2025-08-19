@@ -5,5 +5,7 @@
   "bairro": "Loteamento Jardim Ipanema",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.2325243",
+  "longitude": "-46.8862029"
 }

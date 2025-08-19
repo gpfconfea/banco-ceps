@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6786424",
+  "longitude": "-49.369592"
 }

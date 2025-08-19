@@ -5,5 +5,7 @@
   "bairro": "Cidade Satélite Íris",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9315627",
+  "longitude": "-47.1519631"
 }

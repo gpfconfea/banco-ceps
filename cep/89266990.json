@@ -1,9 +1,11 @@
 {
   "cep": "89266990",
   "logradouro": "Rua Domingos Anacleto Garcia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Jaraguá do Sul",
   "uf": "SC",
-  "ibge": "4208906"
+  "ibge": "4208906",
+  "latitude": "-26.4411283",
+  "longitude": "-49.1454297"
 }

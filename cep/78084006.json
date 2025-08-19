@@ -5,5 +5,7 @@
   "bairro": "Condomínio Jardim Botânico",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-14.3160166",
+  "longitude": "-57.9670826"
 }

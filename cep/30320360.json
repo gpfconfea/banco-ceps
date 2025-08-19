@@ -5,5 +5,7 @@
   "bairro": "Belvedere",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9676286",
+  "longitude": "-43.9415126"
 }

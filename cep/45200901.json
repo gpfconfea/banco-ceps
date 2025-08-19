@@ -1,9 +1,11 @@
 {
   "cep": "45200901",
   "logradouro": "Praça Artur Pereira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-13.8626708",
+  "longitude": "-40.0781883"
 }

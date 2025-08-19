@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Barroso",
   "uf": "MG",
-  "ibge": "3105905"
+  "ibge": "3105905",
+  "latitude": "-21.1865727",
+  "longitude": "-43.9730244"
 }

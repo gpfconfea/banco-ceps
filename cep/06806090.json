@@ -5,5 +5,7 @@
   "bairro": "Jardim de Lourdes",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "latitude": "-23.638591",
+  "longitude": "-46.839319"
 }

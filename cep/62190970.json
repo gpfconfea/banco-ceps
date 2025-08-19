@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Groairas",
   "uf": "CE",
-  "ibge": "2304905"
+  "ibge": "2304905",
+  "latitude": "-3.9149595",
+  "longitude": "-40.3816843"
 }

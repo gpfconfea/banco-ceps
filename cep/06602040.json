@@ -5,5 +5,7 @@
   "bairro": "Núcleo Micro Industrial Presidente Wilson",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5292365",
+  "longitude": "-46.896716"
 }

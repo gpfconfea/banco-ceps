@@ -1,9 +1,11 @@
 {
   "cep": "78452970",
   "logradouro": "Rua Porto Alegre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ranchão",
   "localidade": "Nova Mutum",
   "uf": "MT",
-  "ibge": "5106224"
+  "ibge": "5106224",
+  "latitude": "-30.0346471",
+  "longitude": "-51.2176584"
 }

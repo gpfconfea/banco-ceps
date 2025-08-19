@@ -5,5 +5,7 @@
   "bairro": "Residencial Green Park",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.615788",
+  "longitude": "-49.3573501"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "39100974",
   "logradouro": "Praça Nossa Senhora Auxiliadora",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Maria Nunes",
   "localidade": "Diamantina",
   "uf": "MG",
-  "ibge": "3121605"
+  "ibge": "3121605",
+  "latitude": "-18.0057327",
+  "longitude": "-43.5523346"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bom Retiro",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-22.5155184",
+  "longitude": "-47.7875025"
 }

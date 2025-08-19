@@ -5,5 +5,7 @@
   "bairro": "Mondubim",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-4.3512749",
+  "longitude": "-39.3243777"
 }

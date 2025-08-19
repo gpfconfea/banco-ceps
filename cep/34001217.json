@@ -5,5 +5,7 @@
   "bairro": "Vila Lacerda",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "latitude": "-19.9927371",
+  "longitude": "-43.8484738"
 }

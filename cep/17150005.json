@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paulistânia",
   "uf": "SP",
-  "ibge": "3536570"
+  "ibge": "3536570",
+  "latitude": "-16.3779617",
+  "longitude": "-40.5400897"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "74884902",
   "logradouro": "Avenida Deputado Jamel Cecílio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Residencial Alphaville Flamboyant",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7043475",
+  "longitude": "-49.2411255"
 }

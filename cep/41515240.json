@@ -5,5 +5,7 @@
   "bairro": "Bairro da Paz",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.8616054",
+  "longitude": "-38.4657546"
 }

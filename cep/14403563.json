@@ -5,5 +5,7 @@
   "bairro": "Jardim Centenário",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5379596",
+  "longitude": "-47.3670183"
 }

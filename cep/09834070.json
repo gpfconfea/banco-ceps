@@ -5,5 +5,7 @@
   "bairro": "Alto da Serra",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "latitude": "-23.8401723",
+  "longitude": "-46.4476892"
 }

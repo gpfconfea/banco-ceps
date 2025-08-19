@@ -1,9 +1,11 @@
 {
   "cep": "69425970",
   "logradouro": "Rua Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Caapiranga",
   "uf": "AM",
-  "ibge": "1300839"
+  "ibge": "1300839",
+  "latitude": "-3.3287354",
+  "longitude": "-61.2112105"
 }

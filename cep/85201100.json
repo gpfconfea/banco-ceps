@@ -5,5 +5,7 @@
   "bairro": "Planalto",
   "localidade": "Pitanga",
   "uf": "PR",
-  "ibge": "4119608"
+  "ibge": "4119608",
+  "latitude": "-24.7447898",
+  "longitude": "-51.7461626"
 }

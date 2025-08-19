@@ -5,5 +5,7 @@
   "bairro": "Residencial Artur Ulian",
   "localidade": "Tabapuã",
   "uf": "SP",
-  "ibge": "3552601"
+  "ibge": "3552601",
+  "latitude": "-20.959745",
+  "longitude": "-49.041279"
 }

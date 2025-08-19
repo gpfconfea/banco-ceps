@@ -5,5 +5,7 @@
   "bairro": "Residencial Manhattan",
   "localidade": "Artur Nogueira",
   "uf": "SP",
-  "ibge": "3503802"
+  "ibge": "3503802",
+  "latitude": "-22.5851143",
+  "longitude": "-47.1631094"
 }

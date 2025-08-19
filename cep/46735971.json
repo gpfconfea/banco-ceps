@@ -1,9 +1,11 @@
 {
   "cep": "46735971",
   "logradouro": "Rua São Luís",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Olhos D'Água do Serafim",
   "localidade": "Novo Horizonte",
   "uf": "BA",
-  "ibge": "2923035"
+  "ibge": "2923035",
+  "latitude": "-12.940237",
+  "longitude": "-38.4467364"
 }

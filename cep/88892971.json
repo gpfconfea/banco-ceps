@@ -1,9 +1,11 @@
 {
   "cep": "88892971",
   "logradouro": "Estrada Geral de Aiure",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aiurê",
   "localidade": "Grão Pará",
   "uf": "SC",
-  "ibge": "4206108"
+  "ibge": "4206108",
+  "latitude": "-28.1093331",
+  "longitude": "-49.2954924"
 }

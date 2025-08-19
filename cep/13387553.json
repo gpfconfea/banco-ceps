@@ -5,5 +5,7 @@
   "bairro": "Parque Fortaleza",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7969182",
+  "longitude": "-47.3140983"
 }

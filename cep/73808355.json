@@ -5,5 +5,7 @@
   "bairro": "Parque Vila Verde",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "-15.5408679",
+  "longitude": "-47.3122029"
 }

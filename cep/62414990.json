@@ -1,9 +1,11 @@
 {
   "cep": "62414990",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Barroquinha",
   "uf": "CE",
-  "ibge": "2302057"
+  "ibge": "2302057",
+  "latitude": "-2.8942129",
+  "longitude": "-41.2734687"
 }

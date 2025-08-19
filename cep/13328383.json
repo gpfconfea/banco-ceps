@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.1393471",
+  "longitude": "-47.3281955"
 }

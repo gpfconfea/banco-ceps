@@ -5,5 +5,7 @@
   "bairro": "Petrópolis",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0391271",
+  "longitude": "-51.176149"
 }

@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Itabirito",
   "uf": "MG",
-  "ibge": "3131901"
+  "ibge": "3131901",
+  "latitude": "-20.2587548",
+  "longitude": "-43.8092765"
 }

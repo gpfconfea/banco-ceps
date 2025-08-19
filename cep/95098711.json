@@ -5,5 +5,7 @@
   "bairro": "Kayser",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "latitude": "-28.5930783",
+  "longitude": "-49.4295039"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "latitude": "-29.4902694",
+  "longitude": "-51.9890994"
 }

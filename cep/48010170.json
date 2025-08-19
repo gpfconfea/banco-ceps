@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "latitude": "-10.2124155",
+  "longitude": "-37.4012309"
 }

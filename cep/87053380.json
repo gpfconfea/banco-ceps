@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Cidade Alta",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4661229",
+  "longitude": "-51.9059716"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial da Lapa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5100174",
+  "longitude": "-46.6992206"
 }

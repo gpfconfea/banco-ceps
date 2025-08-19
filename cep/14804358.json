@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Elvio Lupo",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.7779283",
+  "longitude": "-48.2049741"
 }

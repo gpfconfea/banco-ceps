@@ -5,5 +5,7 @@
   "bairro": "Pedro Lustosa",
   "localidade": "Reserva do Iguaçu",
   "uf": "PR",
-  "ibge": "4121752"
+  "ibge": "4121752",
+  "latitude": "-25.808642",
+  "longitude": "-51.849888"
 }

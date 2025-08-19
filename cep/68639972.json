@@ -1,9 +1,11 @@
 {
   "cep": "68639972",
   "logradouro": "Vila Janari",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Janari",
   "localidade": "Goianésia do Pará",
   "uf": "PA",
-  "ibge": "1503093"
+  "ibge": "1503093",
+  "latitude": "-4.13551",
+  "longitude": "-49.41737"
 }

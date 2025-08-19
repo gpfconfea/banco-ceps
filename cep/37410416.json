@@ -5,5 +5,7 @@
   "bairro": "Vila Mariana",
   "localidade": "Três Corações",
   "uf": "MG",
-  "ibge": "3169307"
+  "ibge": "3169307",
+  "latitude": "-21.690322",
+  "longitude": "-45.254409"
 }

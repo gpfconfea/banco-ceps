@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vereda",
   "uf": "BA",
-  "ibge": "2933257"
+  "ibge": "2933257",
+  "latitude": "-17.2206176",
+  "longitude": "-40.0834354"
 }
