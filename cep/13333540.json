@@ -5,5 +5,7 @@
   "bairro": "Residencial Duas Marias",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0680418",
+  "longitude": "-47.2189055"
 }

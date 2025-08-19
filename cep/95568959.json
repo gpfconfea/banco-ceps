@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dom Pedro de Alcântara",
   "uf": "RS",
-  "ibge": "4306551"
+  "ibge": "4306551",
+  "latitude": "-29.3697877",
+  "longitude": "-49.8488096"
 }

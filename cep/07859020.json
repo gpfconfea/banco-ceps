@@ -5,5 +5,7 @@
   "bairro": "Pouso Alegre",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-23.327666",
+  "longitude": "-46.712386"
 }

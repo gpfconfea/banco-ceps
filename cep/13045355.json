@@ -5,5 +5,7 @@
   "bairro": "Jardim do Vale",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0363463",
+  "longitude": "-47.1176004"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque das Laranjeiras",
   "localidade": "Cosmópolis",
   "uf": "SP",
-  "ibge": "3512803"
+  "ibge": "3512803",
+  "latitude": "-22.6313742",
+  "longitude": "-47.1714581"
 }

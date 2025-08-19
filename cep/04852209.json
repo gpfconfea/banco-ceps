@@ -5,5 +5,7 @@
   "bairro": "Jardim Lucélia",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7589971",
+  "longitude": "-46.6737873"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ouricuri",
   "uf": "PE",
-  "ibge": "2609907"
+  "ibge": "2609907",
+  "latitude": "-7.8863795",
+  "longitude": "-40.0817411"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Imperial",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.7587137",
+  "longitude": "-43.3678935"
 }

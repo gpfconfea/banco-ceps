@@ -5,5 +5,7 @@
   "bairro": "Condomínio Jardim Alvorada",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-22.2786588",
+  "longitude": "-48.5154343"
 }

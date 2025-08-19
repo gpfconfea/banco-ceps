@@ -5,5 +5,7 @@
   "bairro": "Rosário",
   "localidade": "Conselheiro Lafaiete",
   "uf": "MG",
-  "ibge": "3118304"
+  "ibge": "3118304",
+  "latitude": "-20.6608303",
+  "longitude": "-43.793138"
 }

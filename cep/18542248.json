@@ -5,5 +5,7 @@
   "bairro": "Vila Martelli",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.1970683",
+  "longitude": "-47.5277092"
 }

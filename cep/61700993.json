@@ -1,9 +1,11 @@
 {
   "cep": "61700993",
   "logradouro": "Vila Machuca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Aquiraz",
   "uf": "CE",
-  "ibge": "2301000"
+  "ibge": "2301000",
+  "latitude": "-3.9355099",
+  "longitude": "-38.3911896"
 }

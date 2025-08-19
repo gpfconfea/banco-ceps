@@ -5,5 +5,7 @@
   "bairro": "Costa Carvalho",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.7626666",
+  "longitude": "-43.331848"
 }

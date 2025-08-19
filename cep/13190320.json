@@ -5,5 +5,7 @@
   "bairro": "Central Park Monte Mor",
   "localidade": "Monte Mor",
   "uf": "SP",
-  "ibge": "3531803"
+  "ibge": "3531803",
+  "latitude": "-22.0782812",
+  "longitude": "-51.4645277"
 }

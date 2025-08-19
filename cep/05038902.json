@@ -1,9 +1,11 @@
 {
   "cep": "05038902",
   "logradouro": "Rua Corcovado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lapa de Baixo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.516522",
+  "longitude": "-46.6974468"
 }

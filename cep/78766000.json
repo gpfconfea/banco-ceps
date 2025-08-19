@@ -5,5 +5,7 @@
   "bairro": "Vale Rico",
   "localidade": "Guiratinga",
   "uf": "MT",
-  "ibge": "5104203"
+  "ibge": "5104203",
+  "latitude": "-16.393255",
+  "longitude": "-54.15845"
 }

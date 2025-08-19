@@ -1,9 +1,11 @@
 {
   "cep": "47650970",
   "logradouro": "Rua da Chácara",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Correntina",
   "uf": "BA",
-  "ibge": "2909307"
+  "ibge": "2909307",
+  "latitude": "-13.3425645",
+  "longitude": "-44.6295562"
 }

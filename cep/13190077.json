@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Mor",
   "uf": "SP",
-  "ibge": "3531803"
+  "ibge": "3531803",
+  "latitude": "-22.946239",
+  "longitude": "-47.3146052"
 }

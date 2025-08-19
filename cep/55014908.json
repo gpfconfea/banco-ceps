@@ -1,9 +1,11 @@
 {
   "cep": "55014908",
   "logradouro": "Avenida Projetada 01",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Caruaru",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.2572045",
+  "longitude": "-35.9823154"
 }

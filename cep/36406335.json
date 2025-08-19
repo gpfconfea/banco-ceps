@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Conselheiro Lafaiete",
   "uf": "MG",
-  "ibge": "3118304"
+  "ibge": "3118304",
+  "latitude": "-20.5303112",
+  "longitude": "-43.7233911"
 }

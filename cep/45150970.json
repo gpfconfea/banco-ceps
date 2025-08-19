@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Encruzilhada",
   "uf": "BA",
-  "ibge": "2910404"
+  "ibge": "2910404",
+  "latitude": "-15.5324825",
+  "longitude": "-40.9088572"
 }

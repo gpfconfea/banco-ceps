@@ -5,5 +5,7 @@
   "bairro": "Sabaúna",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.4803732",
+  "longitude": "-46.0890087"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Januário",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "39.0807932",
+  "longitude": "17.1271102"
 }

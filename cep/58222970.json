@@ -1,9 +1,11 @@
 {
   "cep": "58222970",
   "logradouro": "Vila Maia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Maia",
   "localidade": "Bananeiras",
   "uf": "PB",
-  "ibge": "2501500"
+  "ibge": "2501500",
+  "latitude": "-6.7798207",
+  "longitude": "-35.5820249"
 }

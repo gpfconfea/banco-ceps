@@ -1,9 +1,11 @@
 {
   "cep": "49280970",
   "logradouro": "Praça Pedro Silva Costa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tomar do Geru",
   "uf": "SE",
-  "ibge": "2807501"
+  "ibge": "2807501",
+  "latitude": "-11.3694382",
+  "longitude": "-37.8428174"
 }

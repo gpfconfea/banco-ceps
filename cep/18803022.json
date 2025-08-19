@@ -5,5 +5,7 @@
   "bairro": "Cecap",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.2006778",
+  "longitude": "-49.3833255"
 }

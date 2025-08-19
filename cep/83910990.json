@@ -1,9 +1,11 @@
 {
   "cep": "83910990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São Mateus do Sul",
   "uf": "PR",
-  "ibge": "4125605"
+  "ibge": "4125605",
+  "latitude": "-18.9488839",
+  "longitude": "-39.7450522"
 }

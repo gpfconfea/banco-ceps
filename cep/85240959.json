@@ -1,9 +1,11 @@
 {
   "cep": "85240959",
   "logradouro": "Avenida das Araucárias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Mato Rico",
   "uf": "PR",
-  "ibge": "4115739"
+  "ibge": "4115739",
+  "latitude": "-24.7059336",
+  "longitude": "-52.1456875"
 }

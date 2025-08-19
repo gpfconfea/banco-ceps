@@ -1,9 +1,11 @@
 {
   "cep": "68908910",
   "logradouro": "Rodovia Norte Sul",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Infraero",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0642892",
+  "longitude": "-51.0809996"
 }

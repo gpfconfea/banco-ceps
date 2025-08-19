@@ -6,5 +6,7 @@
   "bairro": "Nova Constituinte",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.862934",
+  "longitude": "-38.4702518"
 }

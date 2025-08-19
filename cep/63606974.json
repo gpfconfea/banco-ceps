@@ -1,9 +1,11 @@
 {
   "cep": "63606974",
   "logradouro": "Rua São Sebastião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mulungu",
   "localidade": "Mulungu",
   "uf": "CE",
-  "ibge": "2309102"
+  "ibge": "2309102",
+  "latitude": "-11.9631055",
+  "longitude": "-41.6416892"
 }

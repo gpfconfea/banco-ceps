@@ -6,5 +6,7 @@
   "bairro": "Jardim do Ribeirão I",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.1611355",
+  "longitude": "-47.1068333"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Santo Expedito",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.7603978",
+  "longitude": "-48.8023758"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "latitude": "-20.284134",
+  "longitude": "-45.5344659"
 }

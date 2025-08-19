@@ -5,5 +5,7 @@
   "bairro": "Residencial Central Parque",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-20.8718154",
+  "longitude": "-51.4902387"
 }

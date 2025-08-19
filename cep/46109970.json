@@ -1,9 +1,11 @@
 {
   "cep": "46109970",
   "logradouro": "Rua Povoado do Presidente Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Brumado",
   "uf": "BA",
-  "ibge": "2904605"
+  "ibge": "2904605",
+  "latitude": "-14.2487328",
+  "longitude": "-41.7330113"
 }

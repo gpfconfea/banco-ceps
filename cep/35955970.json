@@ -1,9 +1,11 @@
 {
   "cep": "35955970",
   "logradouro": "Praça Santana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Fonseca",
   "localidade": "Alvinópolis",
   "uf": "MG",
-  "ibge": "3102308"
+  "ibge": "3102308",
+  "latitude": "-20.1597816",
+  "longitude": "-43.2996859"
 }
