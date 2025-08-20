@@ -5,5 +5,7 @@
   "bairro": "Chácaras Santa Luzia",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.8381788",
+  "longitude": "-49.258049"
 }

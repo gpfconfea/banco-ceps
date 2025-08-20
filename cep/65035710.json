@@ -5,5 +5,7 @@
   "bairro": "Monte Castelo",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-9.0188707",
+  "longitude": "-35.2261842"
 }

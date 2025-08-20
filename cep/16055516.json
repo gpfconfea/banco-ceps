@@ -5,5 +5,7 @@
   "bairro": "Aviação",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-23.44089",
+  "longitude": "-46.5780013"
 }

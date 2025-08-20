@@ -1,9 +1,11 @@
 {
   "cep": "39130976",
   "logradouro": "Rua São Gonçalo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tombadouro",
   "localidade": "Datas",
   "uf": "MG",
-  "ibge": "3121001"
+  "ibge": "3121001",
+  "latitude": "-18.6398755",
+  "longitude": "-43.7166972"
 }

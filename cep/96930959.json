@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Candelária",
   "uf": "RS",
-  "ibge": "4304200"
+  "ibge": "4304200",
+  "latitude": "-29.6694546",
+  "longitude": "-52.7894916"
 }

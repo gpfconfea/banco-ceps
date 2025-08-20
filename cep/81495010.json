@@ -5,5 +5,7 @@
   "bairro": "Caximba",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "latitude": "-25.6171177",
+  "longitude": "-49.3521364"
 }

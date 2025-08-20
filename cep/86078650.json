@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Milton Gavetti",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2797466",
+  "longitude": "-51.1492984"
 }

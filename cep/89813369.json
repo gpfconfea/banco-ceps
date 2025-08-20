@@ -5,5 +5,7 @@
   "bairro": "Progresso",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.1396569",
+  "longitude": "-52.592806"
 }

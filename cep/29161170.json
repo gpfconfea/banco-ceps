@@ -5,5 +5,7 @@
   "bairro": "Rosário de Fátima",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.2309061",
+  "longitude": "-40.272371"
 }

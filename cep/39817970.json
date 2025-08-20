@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Oriente de Minas",
   "uf": "MG",
-  "ibge": "3145356"
+  "ibge": "3145356",
+  "latitude": "-17.4217482",
+  "longitude": "-41.2199545"
 }

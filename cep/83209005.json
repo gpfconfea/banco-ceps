@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-22.8752353",
+  "longitude": "-43.0961305"
 }

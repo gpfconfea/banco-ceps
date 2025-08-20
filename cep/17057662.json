@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Cândida",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3266909",
+  "longitude": "-49.1377488"
 }

@@ -5,5 +5,7 @@
   "bairro": "São João Batista",
   "localidade": "Pirapora",
   "uf": "MG",
-  "ibge": "3151206"
+  "ibge": "3151206",
+  "latitude": "-17.3479035",
+  "longitude": "-44.9206372"
 }

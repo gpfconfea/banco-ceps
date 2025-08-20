@@ -5,5 +5,7 @@
   "bairro": "Vila Redenção",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-22.0258482",
+  "longitude": "-47.4278282"
 }

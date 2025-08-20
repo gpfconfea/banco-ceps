@@ -5,5 +5,7 @@
   "bairro": "Rancharia",
   "localidade": "Araripina",
   "uf": "PE",
-  "ibge": "2601102"
+  "ibge": "2601102",
+  "latitude": "-7.7071342",
+  "longitude": "-40.5603482"
 }

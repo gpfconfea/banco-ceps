@@ -1,9 +1,11 @@
 {
   "cep": "84016902",
   "logradouro": "Rua Governador Bento Munhoz da Rocha Neto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Carvalho",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "latitude": "-25.0764709",
+  "longitude": "-50.1458978"
 }

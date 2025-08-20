@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Mazzei",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4578888",
+  "longitude": "-46.5929275"
 }

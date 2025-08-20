@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial II",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "latitude": "-19.8776114",
+  "longitude": "-44.1432516"
 }

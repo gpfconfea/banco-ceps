@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4617558",
+  "longitude": "-49.2222451"
 }

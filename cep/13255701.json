@@ -5,5 +5,7 @@
   "bairro": "Loteamento Itatiba Park",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.0301304",
+  "longitude": "-46.8530273"
 }

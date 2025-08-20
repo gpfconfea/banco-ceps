@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lago da Pedra",
   "uf": "MA",
-  "ibge": "2105708"
+  "ibge": "2105708",
+  "latitude": "-4.5677481",
+  "longitude": "-45.1274233"
 }

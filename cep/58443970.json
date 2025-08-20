@@ -1,9 +1,11 @@
 {
   "cep": "58443970",
   "logradouro": "Rua São Geraldo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Lagoa de Dentro",
   "uf": "PB",
-  "ibge": "2508208"
+  "ibge": "2508208",
+  "latitude": "-7.2002086",
+  "longitude": "-35.9529009"
 }

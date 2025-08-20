@@ -1,9 +1,11 @@
 {
   "cep": "29919972",
   "logradouro": "Rua Juriti",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pontal do Ipiranga",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.1979159",
+  "longitude": "-39.7125969"
 }

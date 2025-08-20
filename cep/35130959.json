@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Engenheiro Caldas",
   "uf": "MG",
-  "ibge": "3123700"
+  "ibge": "3123700",
+  "latitude": "-19.1981975",
+  "longitude": "-42.045904"
 }

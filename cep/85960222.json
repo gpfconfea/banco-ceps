@@ -6,5 +6,7 @@
   "bairro": "Lago",
   "localidade": "Marechal Cândido Rondon",
   "uf": "PR",
-  "ibge": "4114609"
+  "ibge": "4114609",
+  "latitude": "-24.5169464",
+  "longitude": "-54.2169523"
 }

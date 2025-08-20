@@ -5,5 +5,7 @@
   "bairro": "Engomadeira",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9511538",
+  "longitude": "-38.457455"
 }

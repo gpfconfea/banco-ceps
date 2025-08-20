@@ -5,5 +5,7 @@
   "bairro": "Vila Gomes",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4452325",
+  "longitude": "-54.6030908"
 }

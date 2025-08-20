@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cerro Largo",
   "uf": "RS",
-  "ibge": "4305207"
+  "ibge": "4305207",
+  "latitude": "-28.1479257",
+  "longitude": "-54.7407694"
 }

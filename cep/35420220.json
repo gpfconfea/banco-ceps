@@ -5,5 +5,7 @@
   "bairro": "Dom Oscar",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "latitude": "-20.3860193",
+  "longitude": "-43.4175358"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "latitude": "-11.4210219",
+  "longitude": "-61.4581772"
 }

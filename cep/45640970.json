@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Almadina",
   "uf": "BA",
-  "ibge": "2900900"
+  "ibge": "2900900",
+  "latitude": "-14.7034227",
+  "longitude": "-39.6365117"
 }

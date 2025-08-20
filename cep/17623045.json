@@ -5,5 +5,7 @@
   "bairro": "Centro(Universo)",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "latitude": "-22.081313",
+  "longitude": "-50.5370966"
 }

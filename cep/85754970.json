@@ -1,9 +1,11 @@
 {
   "cep": "85754970",
   "logradouro": "Rua Acácio Pereira de Melo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro Novo",
   "localidade": "Planalto",
   "uf": "PR",
-  "ibge": "4119806"
+  "ibge": "4119806",
+  "latitude": "-25.7798815",
+  "longitude": "-53.79514"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63510974",
   "logradouro": "Rua Professor João Leite",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Suassurana",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "latitude": "-6.3738942",
+  "longitude": "-39.3030529"
 }

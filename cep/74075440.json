@@ -5,5 +5,7 @@
   "bairro": "Setor Aeroporto",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6743416",
+  "longitude": "-49.2739852"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Alfredo Abrahão",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3515533",
+  "longitude": "-48.9062761"
 }

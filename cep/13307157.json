@@ -5,5 +5,7 @@
   "bairro": "Chácaras Monte Verde",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.3703133",
+  "longitude": "-47.2683361"
 }

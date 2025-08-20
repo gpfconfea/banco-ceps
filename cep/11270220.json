@@ -5,5 +5,7 @@
   "bairro": "Morada da Praia",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-23.7239778",
+  "longitude": "-45.8692318"
 }

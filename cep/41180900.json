@@ -1,9 +1,11 @@
 {
   "cep": "41180900",
   "logradouro": "Estrada Saboeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Saboeiro",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9635538",
+  "longitude": "-38.4440656"
 }

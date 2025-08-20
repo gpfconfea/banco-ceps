@@ -6,5 +6,7 @@
   "bairro": "Morro Alto",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.3835496",
+  "longitude": "-51.4466775"
 }

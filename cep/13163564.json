@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Itamaraty",
   "localidade": "Artur Nogueira",
   "uf": "SP",
-  "ibge": "3503802"
+  "ibge": "3503802",
+  "latitude": "-23.4285558",
+  "longitude": "-46.5125935"
 }

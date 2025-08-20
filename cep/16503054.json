@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Cafelândia",
   "uf": "SP",
-  "ibge": "3508801"
+  "ibge": "3508801",
+  "latitude": "-21.8032137",
+  "longitude": "-49.6211362"
 }

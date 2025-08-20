@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Soledade",
   "uf": "PB",
-  "ibge": "2516102"
+  "ibge": "2516102",
+  "latitude": "-7.0575233",
+  "longitude": "-36.3607995"
 }

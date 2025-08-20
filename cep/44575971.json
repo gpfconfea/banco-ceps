@@ -1,9 +1,11 @@
 {
   "cep": "44575971",
   "logradouro": "Rua São Sebastião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Muniz Ferreira",
   "uf": "BA",
-  "ibge": "2922201"
+  "ibge": "2922201",
+  "latitude": "-13.011739",
+  "longitude": "-39.0643051"
 }

@@ -5,5 +5,7 @@
   "bairro": "Dihel",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "latitude": "-29.8235935",
+  "longitude": "-51.1653704"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Juruena",
   "uf": "MT",
-  "ibge": "5105176"
+  "ibge": "5105176",
+  "latitude": "-10.3289811",
+  "longitude": "-58.4960832"
 }

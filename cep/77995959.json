@@ -1,9 +1,11 @@
 {
   "cep": "77995959",
   "logradouro": "Rua Novo Horizonte",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Buriti do Tocantins",
   "uf": "TO",
-  "ibge": "1703800"
+  "ibge": "1703800",
+  "latitude": "-5.3204114",
+  "longitude": "-48.2267534"
 }

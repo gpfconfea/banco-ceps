@@ -5,5 +5,7 @@
   "bairro": "John Kennedy",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "latitude": "-19.5568077",
+  "longitude": "-42.6421034"
 }

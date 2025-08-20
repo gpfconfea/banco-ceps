@@ -5,5 +5,7 @@
   "bairro": "Zona IV",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.7454157",
+  "longitude": "-53.297643"
 }

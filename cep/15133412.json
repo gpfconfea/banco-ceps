@@ -5,5 +5,7 @@
   "bairro": "Residencial Regissol II",
   "localidade": "Mirassol",
   "uf": "SP",
-  "ibge": "3530300"
+  "ibge": "3530300",
+  "latitude": "-20.804008",
+  "longitude": "-49.4982657"
 }

@@ -5,5 +5,7 @@
   "bairro": "Fátima",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-26.3294334",
+  "longitude": "-48.8141354"
 }

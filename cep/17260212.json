@@ -5,5 +5,7 @@
   "bairro": "Jardim Altos da Boa Vista",
   "localidade": "Itaju",
   "uf": "SP",
-  "ibge": "3522000"
+  "ibge": "3522000",
+  "latitude": "-21.9877263",
+  "longitude": "-48.8052028"
 }

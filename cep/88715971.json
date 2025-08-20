@@ -1,9 +1,11 @@
 {
   "cep": "88715971",
   "logradouro": "Rua Amapá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Camacho",
   "localidade": "Jaguaruna",
   "uf": "SC",
-  "ibge": "4208807"
+  "ibge": "4208807",
+  "latitude": "-28.6126891",
+  "longitude": "-48.8641422"
 }

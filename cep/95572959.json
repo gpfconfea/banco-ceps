@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mampituba",
   "uf": "RS",
-  "ibge": "4311734"
+  "ibge": "4311734",
+  "latitude": "-29.2139614",
+  "longitude": "-49.9362575"
 }

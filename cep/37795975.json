@@ -1,9 +1,11 @@
 {
   "cep": "37795975",
   "logradouro": "Rua dos Barros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dos Garibaldi",
   "localidade": "Andradas",
   "uf": "MG",
-  "ibge": "3102605"
+  "ibge": "3102605",
+  "latitude": "-22.0729125",
+  "longitude": "-46.5850466"
 }

@@ -5,5 +5,7 @@
   "bairro": "Ilha Amarela",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-24.2410749",
+  "longitude": "-64.8659335"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "13785970",
   "logradouro": "Rua São Paulo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campestrinho",
   "localidade": "Divinolândia",
   "uf": "SP",
-  "ibge": "3513900"
+  "ibge": "3513900",
+  "latitude": "-21.7238918",
+  "longitude": "-46.6493575"
 }

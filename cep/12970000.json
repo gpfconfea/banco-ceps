@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Piracaia",
   "uf": "SP",
-  "ibge": "3538600"
+  "ibge": "3538600",
+  "latitude": "-23.052545",
+  "longitude": "-46.359374"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila San Pietro",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-22.7497266",
+  "longitude": "-47.3508945"
 }
