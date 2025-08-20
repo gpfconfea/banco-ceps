@@ -1,9 +1,11 @@
 {
   "cep": "68145972",
   "logradouro": "Vila de Jarbas Passarinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila de Jarbas Passarinho",
   "localidade": "Medicilândia",
   "uf": "PA",
-  "ibge": "1504455"
+  "ibge": "1504455",
+  "latitude": "-3.4449038",
+  "longitude": "-52.8901821"
 }

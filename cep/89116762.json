@@ -6,5 +6,7 @@
   "bairro": "Margem Esquerda",
   "localidade": "Gaspar",
   "uf": "SC",
-  "ibge": "4205902"
+  "ibge": "4205902",
+  "latitude": "-26.8999986",
+  "longitude": "-48.9846639"
 }

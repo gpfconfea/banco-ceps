@@ -5,5 +5,7 @@
   "bairro": "Engenheiro Maia",
   "localidade": "Itaberá",
   "uf": "SP",
-  "ibge": "3521705"
+  "ibge": "3521705",
+  "latitude": "-24.0405164",
+  "longitude": "-49.1264921"
 }

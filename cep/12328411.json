@@ -5,5 +5,7 @@
   "bairro": "Parque Brasil",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.2884833",
+  "longitude": "-45.9613632"
 }

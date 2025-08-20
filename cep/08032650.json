@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Curuçá",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5228826",
+  "longitude": "-46.420968"
 }

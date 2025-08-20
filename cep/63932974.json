@@ -1,9 +1,11 @@
 {
   "cep": "63932974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Bernardo",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.9647989",
+  "longitude": "-39.0364134"
 }

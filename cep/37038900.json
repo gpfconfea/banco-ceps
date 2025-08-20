@@ -1,9 +1,11 @@
 {
   "cep": "37038900",
   "logradouro": "Avenida Homero Mendes Frota",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagamar",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-21.5394555",
+  "longitude": "-45.4590523"
 }

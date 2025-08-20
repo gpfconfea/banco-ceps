@@ -6,5 +6,7 @@
   "bairro": "Setor Aeroporto Sul",
   "localidade": "Iporá",
   "uf": "GO",
-  "ibge": "5210208"
+  "ibge": "5210208",
+  "latitude": "-16.4514403",
+  "longitude": "-51.114416"
 }

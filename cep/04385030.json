@@ -5,5 +5,7 @@
   "bairro": "Jardim Itacolomi",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.5425309",
+  "longitude": "-47.4526167"
 }

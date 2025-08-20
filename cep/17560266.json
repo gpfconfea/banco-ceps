@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro do Sul",
   "localidade": "Vera Cruz",
   "uf": "SP",
-  "ibge": "3556602"
+  "ibge": "3556602",
+  "latitude": "-22.2272431",
+  "longitude": "-49.8152056"
 }

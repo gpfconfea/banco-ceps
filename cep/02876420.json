@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraná",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-24.5266667",
+  "longitude": "-48.1891667"
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Itajuíbe",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "latitude": "-23.51755",
+  "longitude": "-46.378999"
 }

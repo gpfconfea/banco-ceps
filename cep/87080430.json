@@ -5,5 +5,7 @@
   "bairro": "Jardim Lucianópolis",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4081858",
+  "longitude": "-51.9603814"
 }

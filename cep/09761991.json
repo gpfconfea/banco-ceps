@@ -1,9 +1,11 @@
 {
   "cep": "09761991",
   "logradouro": "Rua Minas Gerais - Parque São Bernardo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "latitude": "-23.7251775",
+  "longitude": "-46.5448031"
 }

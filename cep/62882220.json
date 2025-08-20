@@ -5,5 +5,7 @@
   "bairro": "Zumbi",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "latitude": "-22.876106",
+  "longitude": "-43.2418481"
 }

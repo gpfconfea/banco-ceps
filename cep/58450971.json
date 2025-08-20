@@ -1,9 +1,11 @@
 {
   "cep": "58450971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado",
   "localidade": "Boqueirão",
   "uf": "PB",
-  "ibge": "2502508"
+  "ibge": "2502508",
+  "latitude": "-9.8114545",
+  "longitude": "-45.4177751"
 }

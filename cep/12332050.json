@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.3200316",
+  "longitude": "-45.9672482"
 }

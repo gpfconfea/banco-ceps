@@ -5,5 +5,7 @@
   "bairro": "Vila Ischia",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-23.5499223",
+  "longitude": "-46.3982889"
 }

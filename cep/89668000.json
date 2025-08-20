@@ -5,5 +5,7 @@
   "bairro": "Uruguai",
   "localidade": "Piratuba",
   "uf": "SC",
-  "ibge": "4213104"
+  "ibge": "4213104",
+  "latitude": "-27.4457665",
+  "longitude": "-51.8593321"
 }

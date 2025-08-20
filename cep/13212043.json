@@ -5,5 +5,7 @@
   "bairro": "Jardim Tannus",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1850485",
+  "longitude": "-46.9581337"
 }

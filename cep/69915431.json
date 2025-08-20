@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-19.8211141",
+  "longitude": "-43.9883576"
 }

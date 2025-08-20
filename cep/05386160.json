@@ -5,5 +5,7 @@
   "bairro": "Rio Pequeno",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5685673",
+  "longitude": "-46.7569673"
 }

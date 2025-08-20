@@ -5,5 +5,7 @@
   "bairro": "Boticão",
   "localidade": "Aguanil",
   "uf": "MG",
-  "ibge": "3100807"
+  "ibge": "3100807",
+  "latitude": "-20.9607889",
+  "longitude": "-45.4777011"
 }

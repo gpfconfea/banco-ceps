@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pomerode",
   "uf": "SC",
-  "ibge": "4213203"
+  "ibge": "4213203",
+  "latitude": "-26.7320737",
+  "longitude": "-49.1773567"
 }

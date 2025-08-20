@@ -1,9 +1,11 @@
 {
   "cep": "58463970",
   "logradouro": "Avenida Santa da Cecília",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Cecília",
   "uf": "PB",
-  "ibge": "2513158"
+  "ibge": "2513158",
+  "latitude": "4.6666813",
+  "longitude": "-74.1114932"
 }

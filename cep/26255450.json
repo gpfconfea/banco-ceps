@@ -5,5 +5,7 @@
   "bairro": "Jardim São João",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.7632963",
+  "longitude": "-43.4600237"
 }

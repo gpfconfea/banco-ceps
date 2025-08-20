@@ -5,5 +5,7 @@
   "bairro": "Morro do Cruzeiro",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.3960731",
+  "longitude": "-43.5146665"
 }

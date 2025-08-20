@@ -1,9 +1,11 @@
 {
   "cep": "04185902",
   "logradouro": "Rua Projetada Bloco B",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Liviero",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4472681",
+  "longitude": "-46.6867869"
 }

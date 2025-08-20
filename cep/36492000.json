@@ -5,5 +5,7 @@
   "bairro": "Campo Novo",
   "localidade": "Ouro Branco",
   "uf": "MG",
-  "ibge": "3145901"
+  "ibge": "3145901",
+  "latitude": "-20.5171981",
+  "longitude": "-43.6947847"
 }

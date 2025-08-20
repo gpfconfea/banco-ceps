@@ -5,5 +5,7 @@
   "bairro": "Metalúrgicos",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.5629859",
+  "longitude": "-46.8151111"
 }

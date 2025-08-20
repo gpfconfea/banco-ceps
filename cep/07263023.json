@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria de Lourdes",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4811337",
+  "longitude": "-46.557741"
 }

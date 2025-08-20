@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Corumbataí",
   "uf": "SP",
-  "ibge": "3512704"
+  "ibge": "3512704",
+  "latitude": "-22.221218",
+  "longitude": "-47.6263024"
 }

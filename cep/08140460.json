@@ -5,5 +5,7 @@
   "bairro": "Jardim Benfica",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.511573",
+  "longitude": "-46.3972737"
 }

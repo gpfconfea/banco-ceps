@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Campos do Conde",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4146373",
+  "longitude": "-47.3997875"
 }

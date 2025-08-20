@@ -5,5 +5,7 @@
   "bairro": "Vila Salto Grande",
   "localidade": "Salto Grande",
   "uf": "SP",
-  "ibge": "3545407"
+  "ibge": "3545407",
+  "latitude": "-22.876342",
+  "longitude": "-49.9759797"
 }

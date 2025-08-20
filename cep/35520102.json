@@ -5,5 +5,7 @@
   "bairro": "Vila Olaria",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8781866",
+  "longitude": "-44.9837875"
 }

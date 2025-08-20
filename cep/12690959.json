@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Silveiras",
   "uf": "SP",
-  "ibge": "3552007"
+  "ibge": "3552007",
+  "latitude": "-22.6650928",
+  "longitude": "-44.8522349"
 }

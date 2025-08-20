@@ -5,5 +5,7 @@
   "bairro": "Vila Talarico",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.4226624",
+  "longitude": "-49.4027839"
 }

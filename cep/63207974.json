@@ -1,9 +1,11 @@
 {
   "cep": "63207974",
   "logradouro": "Rua Padre Rodrigues",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jamacaru",
   "localidade": "Missão Velha",
   "uf": "CE",
-  "ibge": "2308401"
+  "ibge": "2308401",
+  "latitude": "-7.4081594",
+  "longitude": "-39.1276367"
 }

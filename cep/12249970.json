@@ -1,9 +1,11 @@
 {
   "cep": "12249970",
   "logradouro": "Praça Cônego Manzi",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Francisco Xavier",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-22.9125495",
+  "longitude": "-45.9599618"
 }

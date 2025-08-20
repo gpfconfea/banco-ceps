@@ -1,9 +1,11 @@
 {
   "cep": "55672970",
   "logradouro": "Vila Barra do Riachão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra do Riachão",
   "localidade": "São Joaquim do Monte",
   "uf": "PE",
-  "ibge": "2613305"
+  "ibge": "2613305",
+  "latitude": "-8.5082688",
+  "longitude": "-35.8917448"
 }

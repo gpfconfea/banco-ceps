@@ -1,9 +1,11 @@
 {
   "cep": "44755970",
   "logradouro": "Praça Leonidas Freire",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ponto Novo",
   "uf": "BA",
-  "ibge": "2925253"
+  "ibge": "2925253",
+  "latitude": "-10.8647078",
+  "longitude": "-40.1336851"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Carlos",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5284814",
+  "longitude": "-47.483741"
 }

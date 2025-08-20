@@ -6,5 +6,7 @@
   "bairro": "Setor Inicial",
   "localidade": "São Luís de Montes Belos",
   "uf": "GO",
-  "ibge": "5220108"
+  "ibge": "5220108",
+  "latitude": "-16.522087",
+  "longitude": "-50.3701989"
 }
