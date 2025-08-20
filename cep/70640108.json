@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro Velho",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.782914",
+  "longitude": "-47.93673"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "36730971",
   "logradouro": "Avenida José Dias Ferreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Valão Quente",
   "localidade": "Pirapetinga",
   "uf": "MG",
-  "ibge": "3151107"
+  "ibge": "3151107",
+  "latitude": "-21.7308582",
+  "longitude": "-42.4150994"
 }

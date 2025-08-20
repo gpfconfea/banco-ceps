@@ -1,9 +1,11 @@
 {
   "cep": "58304973",
   "logradouro": "Rua Napoleão José dos Anjos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bebelândia",
   "localidade": "Santa Rita",
   "uf": "PB",
-  "ibge": "2513703"
+  "ibge": "2513703",
+  "latitude": "-7.07814",
+  "longitude": "-34.9609978"
 }

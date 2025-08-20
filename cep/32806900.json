@@ -1,9 +1,11 @@
 {
   "cep": "32806900",
   "logradouro": "Rodovia MG-432",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Recanto da Serra",
   "localidade": "Esmeraldas",
   "uf": "MG",
-  "ibge": "3124104"
+  "ibge": "3124104",
+  "latitude": "-19.7905681",
+  "longitude": "-44.2104738"
 }

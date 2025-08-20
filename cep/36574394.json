@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Viçosa",
   "uf": "MG",
-  "ibge": "3171303"
+  "ibge": "3171303",
+  "latitude": "-20.7322929",
+  "longitude": "-42.883349"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Guaramirim",
   "uf": "SC",
-  "ibge": "4206504"
+  "ibge": "4206504",
+  "latitude": "-26.4744805",
+  "longitude": "-48.9981151"
 }

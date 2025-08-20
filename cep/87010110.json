@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Horizonte",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4450459",
+  "longitude": "-51.9351574"
 }

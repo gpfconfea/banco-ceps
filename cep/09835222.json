@@ -5,5 +5,7 @@
   "bairro": "Curucutu",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "latitude": "-23.8782476",
+  "longitude": "-46.6043285"
 }

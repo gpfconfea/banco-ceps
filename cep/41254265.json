@@ -5,5 +5,7 @@
   "bairro": "São Rafael",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.6503582",
+  "longitude": "-38.0713261"
 }

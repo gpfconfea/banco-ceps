@@ -1,9 +1,11 @@
 {
   "cep": "85760971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Capanema",
   "uf": "PR",
-  "ibge": "4104501"
+  "ibge": "4104501",
+  "latitude": "-1.1998261",
+  "longitude": "-47.3824864"
 }

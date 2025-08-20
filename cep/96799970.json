@@ -1,9 +1,11 @@
 {
   "cep": "96799970",
   "logradouro": "Estrada de Bonito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bonito",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-30.960524",
+  "longitude": "-52.2647774"
 }

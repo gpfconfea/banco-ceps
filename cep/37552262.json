@@ -5,5 +5,7 @@
   "bairro": "Jardim Filomena",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2195312",
+  "longitude": "-45.9439883"
 }

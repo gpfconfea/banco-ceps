@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Novo Planalto",
   "uf": "GO",
-  "ibge": "5215256"
+  "ibge": "5215256",
+  "latitude": "-13.2427904",
+  "longitude": "-49.5023354"
 }

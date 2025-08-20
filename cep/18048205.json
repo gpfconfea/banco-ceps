@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Tivoli Park",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5421112",
+  "longitude": "-47.4733684"
 }

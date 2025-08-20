@@ -1,9 +1,11 @@
 {
   "cep": "69390971",
   "logradouro": "Avenida Amazonas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cantá",
   "uf": "RR",
-  "ibge": "1400175"
+  "ibge": "1400175",
+  "latitude": "2.6101143",
+  "longitude": "-60.6010943"
 }

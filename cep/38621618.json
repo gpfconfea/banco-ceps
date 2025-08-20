@@ -5,5 +5,7 @@
   "bairro": "Mamoeiro",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-16.3004222",
+  "longitude": "-46.9049375"
 }

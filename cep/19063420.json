@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Real",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-29.1391521",
+  "longitude": "-51.1912221"
 }

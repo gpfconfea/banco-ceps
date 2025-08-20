@@ -1,9 +1,11 @@
 {
   "cep": "54510994",
   "logradouro": "Rua José Conrado - Zona Rural",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "latitude": "-8.2794398",
+  "longitude": "-35.0304219"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "88780977",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto Arroio",
   "localidade": "Imbituba",
   "uf": "SC",
-  "ibge": "4207304"
+  "ibge": "4207304",
+  "latitude": "-28.1607547",
+  "longitude": "-48.7131184"
 }

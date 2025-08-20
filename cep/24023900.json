@@ -1,9 +1,11 @@
 {
   "cep": "24023900",
   "logradouro": "Avenida Ernani do Amaral Peixoto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "latitude": "-22.8936564",
+  "longitude": "-43.1189861"
 }

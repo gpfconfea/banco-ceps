@@ -6,5 +6,7 @@
   "bairro": "Cecília",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "latitude": "-30.083909",
+  "longitude": "-51.095748"
 }

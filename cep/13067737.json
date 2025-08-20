@@ -5,5 +5,7 @@
   "bairro": "Rosália",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8735789",
+  "longitude": "-47.1397011"
 }

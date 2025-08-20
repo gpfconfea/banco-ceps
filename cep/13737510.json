@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Luiz Fernandes Dias",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4960449",
+  "longitude": "-47.006611"
 }

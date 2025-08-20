@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5143501",
+  "longitude": "-47.1334484"
 }

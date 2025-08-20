@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova Louzada",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4322622",
+  "longitude": "-46.2967592"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José dos Cordeiros",
   "uf": "PB",
-  "ibge": "2514800"
+  "ibge": "2514800",
+  "latitude": "-7.3913249",
+  "longitude": "-36.8085783"
 }

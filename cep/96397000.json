@@ -5,5 +5,7 @@
   "bairro": "Vila Freire",
   "localidade": "Cerrito",
   "uf": "RS",
-  "ibge": "4305124"
+  "ibge": "4305124",
+  "latitude": "-31.6680898",
+  "longitude": "-52.8038562"
 }

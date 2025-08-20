@@ -5,5 +5,7 @@
   "bairro": "Ibirapuera",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "41.0635417",
+  "longitude": "-8.5000342"
 }

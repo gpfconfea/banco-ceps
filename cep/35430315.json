@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.4167355",
+  "longitude": "-42.8845842"
 }

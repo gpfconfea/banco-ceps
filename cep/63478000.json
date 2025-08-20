@@ -5,5 +5,7 @@
   "bairro": "Nova Floresta",
   "localidade": "Jaguaribe",
   "uf": "CE",
-  "ibge": "2306900"
+  "ibge": "2306900",
+  "latitude": "-5.9489383",
+  "longitude": "-38.9043255"
 }

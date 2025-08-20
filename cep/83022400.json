@@ -5,5 +5,7 @@
   "bairro": "Cachoeira",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "-25.6091372",
+  "longitude": "-49.2389253"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "49514971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Frei Paulo",
   "uf": "SE",
-  "ibge": "2802304"
+  "ibge": "2802304",
+  "latitude": "-10.5285804",
+  "longitude": "-37.5036933"
 }

@@ -5,5 +5,7 @@
   "bairro": "Área Industrial Vale do Piracangaguá",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0405915",
+  "longitude": "-45.6202627"
 }

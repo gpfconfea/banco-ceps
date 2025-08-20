@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Galan",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5281899",
+  "longitude": "-51.4345733"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "06345900",
   "logradouro": "Rua Ouro Preto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Chácara de La Rocca",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "latitude": "-23.5716311",
+  "longitude": "-46.8435584"
 }

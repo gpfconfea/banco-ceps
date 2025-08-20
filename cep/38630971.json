@@ -1,9 +1,11 @@
 {
   "cep": "38630971",
   "logradouro": "Avenida Arinos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Uruana de Minas",
   "uf": "MG",
-  "ibge": "3170479"
+  "ibge": "3170479",
+  "latitude": "-16.0583734",
+  "longitude": "-46.2539451"
 }

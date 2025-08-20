@@ -5,5 +5,7 @@
   "bairro": "Gama",
   "localidade": "Açucena",
   "uf": "MG",
-  "ibge": "3100500"
+  "ibge": "3100500",
+  "latitude": "-19.1344545",
+  "longitude": "-42.3817885"
 }

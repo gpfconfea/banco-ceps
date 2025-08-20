@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Clara",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.3931748",
+  "longitude": "-46.4322337"
 }

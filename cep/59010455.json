@@ -5,5 +5,7 @@
   "bairro": "Santos Reis",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "14.058324",
+  "longitude": "108.277199"
 }

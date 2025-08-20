@@ -1,9 +1,11 @@
 {
   "cep": "63082974",
   "logradouro": "Rodovia Antônio Cruz Macêdo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Padre Cícero",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "latitude": "-7.1377792",
+  "longitude": "-39.3123172"
 }

@@ -5,5 +5,7 @@
   "bairro": "Ilha Grande",
   "localidade": "Aparecida do Taboado",
   "uf": "MS",
-  "ibge": "5001003"
+  "ibge": "5001003",
+  "latitude": "-20.0840304",
+  "longitude": "-51.1013943"
 }

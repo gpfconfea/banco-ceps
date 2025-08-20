@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.1970823",
+  "longitude": "-47.2933245"
 }

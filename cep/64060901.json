@@ -5,5 +5,7 @@
   "bairro": "Porto do Centro",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.3280488",
+  "longitude": "-41.5424093"
 }

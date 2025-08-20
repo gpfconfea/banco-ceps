@@ -5,5 +5,7 @@
   "bairro": "Santa Bárbara",
   "localidade": "Ivaiporã",
   "uf": "PR",
-  "ibge": "4111506"
+  "ibge": "4111506",
+  "latitude": "-24.310369",
+  "longitude": "-51.5753861"
 }

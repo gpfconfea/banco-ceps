@@ -5,5 +5,7 @@
   "bairro": "Carmari",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.7243443",
+  "longitude": "-43.4473444"
 }

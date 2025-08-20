@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Abaeté",
   "uf": "MG",
-  "ibge": "3100203"
+  "ibge": "3100203",
+  "latitude": "-19.1432873",
+  "longitude": "-45.4341608"
 }
