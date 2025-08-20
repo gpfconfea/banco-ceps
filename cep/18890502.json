@@ -6,5 +6,7 @@
   "bairro": "Vila São Caetano",
   "localidade": "Taguaí",
   "uf": "SP",
-  "ibge": "3553005"
+  "ibge": "3553005",
+  "latitude": "-23.4568215",
+  "longitude": "-49.4043822"
 }

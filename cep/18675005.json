@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Borebi",
   "uf": "SP",
-  "ibge": "3507456"
+  "ibge": "3507456",
+  "latitude": "-22.5690009",
+  "longitude": "-48.9719991"
 }

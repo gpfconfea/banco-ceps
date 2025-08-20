@@ -5,5 +5,7 @@
   "bairro": "Terras Alpha Residencial 2",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.7528841",
+  "longitude": "-49.0828152"
 }

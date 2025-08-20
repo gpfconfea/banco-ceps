@@ -5,5 +5,7 @@
   "bairro": "Estreito",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-28.1271873",
+  "longitude": "-48.6475136"
 }

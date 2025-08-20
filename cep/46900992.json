@@ -1,9 +1,11 @@
 {
   "cep": "46900992",
   "logradouro": "Travessa do Colégio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Seabra",
   "uf": "BA",
-  "ibge": "2929909"
+  "ibge": "2929909",
+  "latitude": "-12.4149198",
+  "longitude": "-41.760755"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio de Contas",
   "uf": "BA",
-  "ibge": "2926707"
+  "ibge": "2926707",
+  "latitude": "-13.5794296",
+  "longitude": "-41.8116777"
 }

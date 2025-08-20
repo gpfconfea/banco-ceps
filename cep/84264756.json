@@ -5,5 +5,7 @@
   "bairro": "Moradias Rio Alegre",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-24.343299",
+  "longitude": "-50.6026648"
 }

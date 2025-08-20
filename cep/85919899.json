@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Toledo",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "latitude": "-24.7227347",
+  "longitude": "-53.7408257"
 }

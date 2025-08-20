@@ -5,5 +5,7 @@
   "bairro": "Vale Verde",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8777714",
+  "longitude": "-44.9856483"
 }

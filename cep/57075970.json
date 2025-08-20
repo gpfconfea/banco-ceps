@@ -1,9 +1,11 @@
 {
   "cep": "57075970",
   "logradouro": "Avenida Lourival Melo Mota Quadra A Lote 8",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santos Dumont",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.5551943",
+  "longitude": "-35.7731413"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Flamboyant",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "latitude": "-17.8692185",
+  "longitude": "-51.738287"
 }

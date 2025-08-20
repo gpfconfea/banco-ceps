@@ -1,9 +1,11 @@
 {
   "cep": "99795970",
   "logradouro": "Rua das Azaléias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Barra do Rio Azul",
   "uf": "RS",
-  "ibge": "4301925"
+  "ibge": "4301925",
+  "latitude": "-27.4112116",
+  "longitude": "-52.4110062"
 }

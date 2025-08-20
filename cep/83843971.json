@@ -1,9 +1,11 @@
 {
   "cep": "83843971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Doce Fino",
   "localidade": "Quitandinha",
   "uf": "PR",
-  "ibge": "4121208"
+  "ibge": "4121208",
+  "latitude": "-25.9232088",
+  "longitude": "-49.5630074"
 }

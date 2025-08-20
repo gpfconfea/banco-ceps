@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guará",
   "uf": "SP",
-  "ibge": "3517703"
+  "ibge": "3517703",
+  "latitude": "-20.4358489",
+  "longitude": "-47.8323533"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Paulistania",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5042626",
+  "longitude": "-46.5298579"
 }

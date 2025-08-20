@@ -5,5 +5,7 @@
   "bairro": "Condominio Residencial Vereda América",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.9555206",
+  "longitude": "-46.5525204"
 }

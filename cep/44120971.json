@@ -1,9 +1,11 @@
 {
   "cep": "44120971",
   "logradouro": "Praça Francisco Rodrigues da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bonfim da Feira",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.2684189",
+  "longitude": "-39.2036786"
 }

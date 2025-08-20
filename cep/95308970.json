@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Capão Bonito do Sul",
   "uf": "RS",
-  "ibge": "4304622"
+  "ibge": "4304622",
+  "latitude": "-28.1284447",
+  "longitude": "-51.3950768"
 }

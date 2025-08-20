@@ -5,5 +5,7 @@
   "bairro": "Presidente Kennedy",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "latitude": "-27.2483118",
+  "longitude": "-52.1186013"
 }

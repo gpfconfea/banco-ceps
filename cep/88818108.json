@@ -5,5 +5,7 @@
   "bairro": "Catarinense",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6589895",
+  "longitude": "-49.4338241"
 }

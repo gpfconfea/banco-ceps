@@ -1,9 +1,11 @@
 {
   "cep": "57430970",
   "logradouro": "Rua Monsenhor Freitas Machado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jacaré dos Homens",
   "uf": "AL",
-  "ibge": "2703403"
+  "ibge": "2703403",
+  "latitude": "-9.6354825",
+  "longitude": "-37.204755"
 }

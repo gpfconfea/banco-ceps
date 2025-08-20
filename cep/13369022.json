@@ -5,5 +5,7 @@
   "bairro": "Vila Santa",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-23.0049636",
+  "longitude": "-47.506668"
 }

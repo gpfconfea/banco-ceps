@@ -1,9 +1,11 @@
 {
   "cep": "37570973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ouro Fino",
   "uf": "MG",
-  "ibge": "3146008"
+  "ibge": "3146008",
+  "latitude": "-22.2837918",
+  "longitude": "-46.3792662"
 }

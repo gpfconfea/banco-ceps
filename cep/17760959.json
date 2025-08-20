@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Inúbia Paulista",
   "uf": "SP",
-  "ibge": "3520806"
+  "ibge": "3520806",
+  "latitude": "-21.7672074",
+  "longitude": "-50.9636676"
 }

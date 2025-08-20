@@ -5,5 +5,7 @@
   "bairro": "São Paulo",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-20.1892275",
+  "longitude": "-44.9223597"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "57995959",
   "logradouro": "Rua Coronel Alcântara",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Flexeiras",
   "uf": "AL",
-  "ibge": "2702801"
+  "ibge": "2702801",
+  "latitude": "-9.276388",
+  "longitude": "-35.7240687"
 }

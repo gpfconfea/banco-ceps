@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lima Campos",
   "uf": "MA",
-  "ibge": "2106003"
+  "ibge": "2106003",
+  "latitude": "-4.5179809",
+  "longitude": "-44.4671291"
 }

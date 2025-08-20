@@ -5,5 +5,7 @@
   "bairro": "Perequê Mirim",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.7173761",
+  "longitude": "-45.4423536"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Independência",
   "uf": "CE",
-  "ibge": "2305605"
+  "ibge": "2305605",
+  "latitude": "-5.3976432",
+  "longitude": "-40.3102224"
 }

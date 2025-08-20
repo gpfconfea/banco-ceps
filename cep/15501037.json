@@ -5,5 +5,7 @@
   "bairro": "Jardim Portal dos Lagos",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4345946",
+  "longitude": "-49.961979"
 }

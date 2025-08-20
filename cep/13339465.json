@@ -5,5 +5,7 @@
   "bairro": "Jardim Cristina",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0944869",
+  "longitude": "-47.1979909"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Marim",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4287202",
+  "longitude": "-49.9593422"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68200971",
   "logradouro": "Vila Mamia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila de Mamia",
   "localidade": "Alenquer",
   "uf": "PA",
-  "ibge": "1500404"
+  "ibge": "1500404",
+  "latitude": "-1.5488141",
+  "longitude": "-55.1540281"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "36513970",
   "logradouro": "Rua São Cristovão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Dores do Turvo",
   "uf": "MG",
-  "ibge": "3123304"
+  "ibge": "3123304",
+  "latitude": "-20.9744177",
+  "longitude": "-43.1916933"
 }

@@ -5,5 +5,7 @@
   "bairro": "Sete de Setembro",
   "localidade": "Erval Grande",
   "uf": "RS",
-  "ibge": "4307203"
+  "ibge": "4307203",
+  "latitude": "-27.452637",
+  "longitude": "-52.5674785"
 }

@@ -5,5 +5,7 @@
   "bairro": "Beija Flor",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8785849",
+  "longitude": "-44.9752805"
 }

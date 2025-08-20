@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Passo do Sobrado",
   "uf": "RS",
-  "ibge": "4314076"
+  "ibge": "4314076",
+  "latitude": "-29.7477243",
+  "longitude": "-52.2734293"
 }

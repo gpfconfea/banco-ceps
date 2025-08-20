@@ -1,9 +1,11 @@
 {
   "cep": "13482904",
   "logradouro": "Rodovia Deputado Laércio Corte",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Graminha",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5646699",
+  "longitude": "-47.4296562"
 }

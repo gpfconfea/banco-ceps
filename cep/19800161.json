@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-22.6603227",
+  "longitude": "-50.4148036"
 }

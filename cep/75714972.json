@@ -1,9 +1,11 @@
 {
   "cep": "75714972",
   "logradouro": "Rua José de Amorim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio do Rio Verde",
   "localidade": "Catalão",
   "uf": "GO",
-  "ibge": "5205109"
+  "ibge": "5205109",
+  "latitude": "-17.9468005",
+  "longitude": "-47.4645912"
 }

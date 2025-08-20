@@ -5,5 +5,7 @@
   "bairro": "Três Barras",
   "localidade": "Aratiba",
   "uf": "RS",
-  "ibge": "4300901"
+  "ibge": "4300901",
+  "latitude": "-27.3429948",
+  "longitude": "-52.2471206"
 }

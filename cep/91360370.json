@@ -5,5 +5,7 @@
   "bairro": "Passo da Areia",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0205163",
+  "longitude": "-51.1633768"
 }

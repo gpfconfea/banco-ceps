@@ -5,5 +5,7 @@
   "bairro": "Jardim das Estações",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4451833",
+  "longitude": "-51.9813813"
 }

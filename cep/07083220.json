@@ -5,5 +5,7 @@
   "bairro": "Jardim Moreira",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.437132",
+  "longitude": "-46.5480091"
 }

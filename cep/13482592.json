@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Graminha II",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5937682",
+  "longitude": "-47.428326"
 }

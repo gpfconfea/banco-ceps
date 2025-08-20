@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Colinas do Paratehy",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.1853441",
+  "longitude": "-45.9507868"
 }

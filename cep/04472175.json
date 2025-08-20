@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Pantanal",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-21.1609677",
+  "longitude": "-47.8101815"
 }

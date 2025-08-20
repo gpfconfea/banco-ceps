@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Belmiro Jorge Amaro",
   "localidade": "Lucianópolis",
   "uf": "SP",
-  "ibge": "3527504"
+  "ibge": "3527504",
+  "latitude": "-22.4317528",
+  "longitude": "-49.5179703"
 }

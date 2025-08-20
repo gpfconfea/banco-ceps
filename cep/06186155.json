@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.5343777",
+  "longitude": "-46.8126373"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65279970",
   "logradouro": "Avenida Santa Teresa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Presidente Médici",
   "uf": "MA",
-  "ibge": "2109239"
+  "ibge": "2109239",
+  "latitude": "-2.3810284",
+  "longitude": "-45.8192785"
 }

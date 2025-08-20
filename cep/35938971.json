@@ -1,9 +1,11 @@
 {
   "cep": "35938971",
   "logradouro": "Rua Maristela Braga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bela Vista de Minas",
   "uf": "MG",
-  "ibge": "3106002"
+  "ibge": "3106002",
+  "latitude": "-19.8206076",
+  "longitude": "-43.068494"
 }

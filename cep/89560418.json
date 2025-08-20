@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Videira",
   "uf": "SC",
-  "ibge": "4219309"
+  "ibge": "4219309",
+  "latitude": "-27.0009906",
+  "longitude": "-51.1426893"
 }

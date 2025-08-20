@@ -5,5 +5,7 @@
   "bairro": "Parque Empresarial das Mangueiras",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4595531",
+  "longitude": "-47.453398"
 }

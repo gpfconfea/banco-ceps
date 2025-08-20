@@ -5,5 +5,7 @@
   "bairro": "Vila São Pedro",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-22.0035592",
+  "longitude": "-47.4136441"
 }

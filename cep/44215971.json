@@ -1,9 +1,11 @@
 {
   "cep": "44215971",
   "logradouro": "Rua Sebastião Dias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campinhos",
   "localidade": "Santo Amaro",
   "uf": "BA",
-  "ibge": "2928604"
+  "ibge": "2928604",
+  "latitude": "-12.4249388",
+  "longitude": "-38.7941837"
 }

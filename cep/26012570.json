@@ -5,5 +5,7 @@
   "bairro": "Vila São Luis",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.7353709",
+  "longitude": "-43.4385344"
 }
