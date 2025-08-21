@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Itapoá",
   "uf": "SC",
-  "ibge": "4208450"
+  "ibge": "4208450",
+  "latitude": "-26.1156848",
+  "longitude": "-48.6057827"
 }

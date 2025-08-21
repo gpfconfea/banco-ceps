@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.4524488",
+  "longitude": "-45.4344571"
 }

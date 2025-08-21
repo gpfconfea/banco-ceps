@@ -1,9 +1,11 @@
 {
   "cep": "39605970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itira",
   "localidade": "Araçuaí",
   "uf": "MG",
-  "ibge": "3103405"
+  "ibge": "3103405",
+  "latitude": "-16.8638389",
+  "longitude": "-42.058483"
 }

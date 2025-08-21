@@ -1,9 +1,11 @@
 {
   "cep": "35588974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Calciolândia",
   "localidade": "Arcos",
   "uf": "MG",
-  "ibge": "3104205"
+  "ibge": "3104205",
+  "latitude": "40.4465553",
+  "longitude": "-8.4714508"
 }

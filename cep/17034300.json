@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Domingos Biancardi",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3106761",
+  "longitude": "-49.030071"
 }

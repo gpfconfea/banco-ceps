@@ -1,9 +1,11 @@
 {
   "cep": "29340984",
   "logradouro": "Rua Projetada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio Muqui",
   "localidade": "Itapemirim",
   "uf": "ES",
-  "ibge": "3202801"
+  "ibge": "3202801",
+  "latitude": "-20.998358",
+  "longitude": "-40.9444642"
 }

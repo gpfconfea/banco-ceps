@@ -5,5 +5,7 @@
   "bairro": "Vila Ideal",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.7819676",
+  "longitude": "-43.3302151"
 }

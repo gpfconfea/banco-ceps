@@ -1,9 +1,11 @@
 {
   "cep": "64125970",
   "logradouro": "Rodovia PI-130 Km 10",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Novo Nilo",
   "localidade": "União",
   "uf": "PI",
-  "ibge": "2211100"
+  "ibge": "2211100",
+  "latitude": "-4.399898",
+  "longitude": "-42.889365"
 }

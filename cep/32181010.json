@@ -5,5 +5,7 @@
   "bairro": "Vila Francisco Mariano",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.8354845",
+  "longitude": "-44.1495804"
 }

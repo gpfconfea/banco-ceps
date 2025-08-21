@@ -5,5 +5,7 @@
   "bairro": "Sete de Setembro",
   "localidade": "Santa Rosa",
   "uf": "RS",
-  "ibge": "4317202"
+  "ibge": "4317202",
+  "latitude": "-27.9101148",
+  "longitude": "-54.6044587"
 }

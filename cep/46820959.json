@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bonito",
   "uf": "BA",
-  "ibge": "2904050"
+  "ibge": "2904050",
+  "latitude": "-11.968982",
+  "longitude": "-41.2683374"
 }

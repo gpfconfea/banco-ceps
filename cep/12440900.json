@@ -1,9 +1,11 @@
 {
   "cep": "12440900",
   "logradouro": "Rua Doutor Gonzaga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Moreira César",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-22.9154398",
+  "longitude": "-45.3549924"
 }

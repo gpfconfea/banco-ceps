@@ -5,5 +5,7 @@
   "bairro": "Povo Novo",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-25.6975903",
+  "longitude": "-49.1445791"
 }

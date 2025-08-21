@@ -1,9 +1,11 @@
 {
   "cep": "62948990",
   "logradouro": "Travessa Luiz Vieira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Morada Nova",
   "uf": "CE",
-  "ibge": "2308708"
+  "ibge": "2308708",
+  "latitude": "-5.2406719",
+  "longitude": "-38.4894536"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Simões",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.7592775",
+  "longitude": "-48.8161111"
 }

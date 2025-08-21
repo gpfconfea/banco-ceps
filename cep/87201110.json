@@ -5,5 +5,7 @@
   "bairro": "Residencial Alpha Club",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "-23.6448171",
+  "longitude": "-52.6195894"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vera Cruz",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.8315496",
+  "longitude": "-49.2488349"
 }

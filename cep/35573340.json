@@ -5,5 +5,7 @@
   "bairro": "Tino Pereira",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.5025286",
+  "longitude": "-45.4297804"
 }

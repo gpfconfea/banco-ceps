@@ -1,9 +1,11 @@
 {
   "cep": "55220970",
   "logradouro": "Rua Nova",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Salobro",
   "localidade": "Pesqueira",
   "uf": "PE",
-  "ibge": "2610905"
+  "ibge": "2610905",
+  "latitude": "-8.608797",
+  "longitude": "-36.6900256"
 }

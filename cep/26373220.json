@@ -5,5 +5,7 @@
   "bairro": "Santo Expedito",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.7370623",
+  "longitude": "-43.5835181"
 }

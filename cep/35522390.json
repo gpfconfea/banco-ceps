@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8911217",
+  "longitude": "-44.998627"
 }

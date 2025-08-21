@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Alberto",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6318007",
+  "longitude": "-46.4943678"
 }

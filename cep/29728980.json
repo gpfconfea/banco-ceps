@@ -1,9 +1,11 @@
 {
   "cep": "29728980",
   "logradouro": "Estrada Sapucaia-Marilândia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sapucaia",
   "localidade": "Marilândia",
   "uf": "ES",
-  "ibge": "3203353"
+  "ibge": "3203353",
+  "latitude": "-19.415645",
+  "longitude": "-40.5810549"
 }

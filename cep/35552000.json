@@ -5,5 +5,7 @@
   "bairro": "Neolândia",
   "localidade": "Itapecerica",
   "uf": "MG",
-  "ibge": "3133501"
+  "ibge": "3133501",
+  "latitude": "-20.3775",
+  "longitude": "-45.1692813"
 }

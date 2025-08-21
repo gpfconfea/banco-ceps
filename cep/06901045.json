@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Embu-Guaçu",
   "uf": "SP",
-  "ibge": "3515103"
+  "ibge": "3515103",
+  "latitude": "-23.8347881",
+  "longitude": "-46.8235811"
 }

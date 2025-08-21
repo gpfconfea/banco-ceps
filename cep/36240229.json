@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "latitude": "-21.4612741",
+  "longitude": "-43.5570463"
 }

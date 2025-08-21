@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Clara",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.7642485",
+  "longitude": "-53.2865204"
 }

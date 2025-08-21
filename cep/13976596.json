@@ -5,5 +5,7 @@
   "bairro": "Residencial Alonso Carmona Ortiz",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4178652",
+  "longitude": "-46.8357303"
 }

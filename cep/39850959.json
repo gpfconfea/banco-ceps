@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ataléia",
   "uf": "MG",
-  "ibge": "3104700"
+  "ibge": "3104700",
+  "latitude": "-18.0413691",
+  "longitude": "-41.111"
 }

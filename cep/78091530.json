@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Ilhéus",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6190927",
+  "longitude": "-55.9799482"
 }

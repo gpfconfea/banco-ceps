@@ -5,5 +5,7 @@
   "bairro": "Residencial Aricá",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6250602",
+  "longitude": "-55.9876318"
 }

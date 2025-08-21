@@ -5,5 +5,7 @@
   "bairro": "Roma",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9384923",
+  "longitude": "-38.5026077"
 }

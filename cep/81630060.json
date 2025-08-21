@@ -5,5 +5,7 @@
   "bairro": "Hauer",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "latitude": "-25.4754254",
+  "longitude": "-49.2571391"
 }

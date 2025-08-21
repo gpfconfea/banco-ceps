@@ -5,5 +5,7 @@
   "bairro": "Solemar",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-24.0742963",
+  "longitude": "-46.5789666"
 }

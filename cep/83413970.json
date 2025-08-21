@@ -1,9 +1,11 @@
 {
   "cep": "83413970",
   "logradouro": "Rodovia BR-116",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Atuba",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "latitude": "-25.3891879",
+  "longitude": "-49.1929413"
 }

@@ -5,5 +5,7 @@
   "bairro": "Granjas Santa Terezinha",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0524449",
+  "longitude": "-45.5676198"
 }

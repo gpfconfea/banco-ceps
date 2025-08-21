@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Paulo Pacheco",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.5876699",
+  "longitude": "-49.3228019"
 }

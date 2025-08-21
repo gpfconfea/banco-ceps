@@ -1,9 +1,11 @@
 {
   "cep": "29260971",
   "logradouro": "Avenida Presidente Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Domingos Martins",
   "uf": "ES",
-  "ibge": "3201902"
+  "ibge": "3201902",
+  "latitude": "-20.3599766",
+  "longitude": "-40.6616475"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68904970",
   "logradouro": "Rua Claudomiro de Moraes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Novo Buritizal",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0168256",
+  "longitude": "-51.0805395"
 }

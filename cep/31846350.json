@@ -5,5 +5,7 @@
   "bairro": "Lajedo",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8279689",
+  "longitude": "-43.9097155"
 }

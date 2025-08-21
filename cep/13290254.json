@@ -5,5 +5,7 @@
   "bairro": "Via Castelli",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-23.0857047",
+  "longitude": "-46.9540666"
 }

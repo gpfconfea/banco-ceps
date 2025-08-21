@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Florestal",
   "uf": "MG",
-  "ibge": "3126000"
+  "ibge": "3126000",
+  "latitude": "-19.8867518",
+  "longitude": "-44.4335553"
 }

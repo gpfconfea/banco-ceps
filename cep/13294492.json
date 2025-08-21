@@ -5,5 +5,7 @@
   "bairro": "Jardim Diamante",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-23.084686",
+  "longitude": "-46.9816772"
 }

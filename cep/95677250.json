@@ -6,5 +6,7 @@
   "bairro": "Várzea Grande Avenida do Trabalhador",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "latitude": "-29.4114701",
+  "longitude": "-50.8651842"
 }

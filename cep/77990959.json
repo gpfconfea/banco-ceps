@@ -1,9 +1,11 @@
 {
   "cep": "77990959",
   "logradouro": "Avenida Imperatriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "São Sebastião do Tocantins",
   "uf": "TO",
-  "ibge": "1720309"
+  "ibge": "1720309",
+  "latitude": "-5.2578177",
+  "longitude": "-48.2009704"
 }

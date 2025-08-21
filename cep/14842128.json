@@ -6,5 +6,7 @@
   "bairro": "Residencial Laurentiz",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.359172",
+  "longitude": "-48.2161188"
 }

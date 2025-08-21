@@ -5,5 +5,7 @@
   "bairro": "Vila Paulista",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "latitude": "-22.4172344",
+  "longitude": "-47.5516236"
 }

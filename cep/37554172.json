@@ -5,5 +5,7 @@
   "bairro": "Bairro de Fátima",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2268215",
+  "longitude": "-45.9228676"
 }

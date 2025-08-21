@@ -5,5 +5,7 @@
   "bairro": "Jardim Guanabara",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-23.9680679",
+  "longitude": "-48.8821197"
 }
