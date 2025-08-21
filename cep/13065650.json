@@ -5,5 +5,7 @@
   "bairro": "Parque Via Norte",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.891468",
+  "longitude": "-47.1194974"
 }

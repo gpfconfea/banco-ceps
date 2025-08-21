@@ -5,5 +5,7 @@
   "bairro": "Vila Campos",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.2140101",
+  "longitude": "-49.379171"
 }

@@ -5,5 +5,7 @@
   "bairro": "Siderurgia",
   "localidade": "Ouro Branco",
   "uf": "MG",
-  "ibge": "3145901"
+  "ibge": "3145901",
+  "latitude": "-20.5121505",
+  "longitude": "-43.7027325"
 }

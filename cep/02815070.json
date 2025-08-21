@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Brigadeiro Eduardo Gomes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4444994",
+  "longitude": "-46.714926"
 }

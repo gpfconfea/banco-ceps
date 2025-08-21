@@ -5,5 +5,7 @@
   "bairro": "Jardim Rio de Janeiro",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4226041",
+  "longitude": "-51.8700316"
 }

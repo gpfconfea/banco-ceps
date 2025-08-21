@@ -6,5 +6,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Pindorama",
   "uf": "SP",
-  "ibge": "3538105"
+  "ibge": "3538105",
+  "latitude": "-21.1833568",
+  "longitude": "-48.915806"
 }

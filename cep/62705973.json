@@ -1,9 +1,11 @@
 {
   "cep": "62705973",
   "logradouro": "Rua Ricardo Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bonito",
   "localidade": "Canindé",
   "uf": "CE",
-  "ibge": "2302800"
+  "ibge": "2302800",
+  "latitude": "-4.4040498",
+  "longitude": "-39.4573601"
 }

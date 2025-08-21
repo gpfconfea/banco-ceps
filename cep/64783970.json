@@ -1,9 +1,11 @@
 {
   "cep": "64783970",
   "logradouro": "Praça José Gregório da Costa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Braz do Piauí",
   "uf": "PI",
-  "ibge": "2209559"
+  "ibge": "2209559",
+  "latitude": "-9.0655824",
+  "longitude": "-42.9990067"
 }

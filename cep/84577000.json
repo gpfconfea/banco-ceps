@@ -5,5 +5,7 @@
   "bairro": "Rio Claro do Sul",
   "localidade": "Mallet",
   "uf": "PR",
-  "ibge": "4113908"
+  "ibge": "4113908",
+  "latitude": "-25.9512642",
+  "longitude": "-50.6798278"
 }

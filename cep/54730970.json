@@ -1,9 +1,11 @@
 {
   "cep": "54730970",
   "logradouro": "Avenida Manoel Quintão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pixete",
   "localidade": "São Lourenço da Mata",
   "uf": "PE",
-  "ibge": "2613701"
+  "ibge": "2613701",
+  "latitude": "-7.9955667",
+  "longitude": "-35.0447552"
 }

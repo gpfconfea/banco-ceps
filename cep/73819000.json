@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "-15.085866",
+  "longitude": "-47.187777"
 }

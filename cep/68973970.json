@@ -1,9 +1,11 @@
 {
   "cep": "68973970",
   "logradouro": "Rua Manoel Raimundo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cutias",
   "uf": "AP",
-  "ibge": "1600212"
+  "ibge": "1600212",
+  "latitude": "0.9731171",
+  "longitude": "-50.8033741"
 }

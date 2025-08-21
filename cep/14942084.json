@@ -5,5 +5,7 @@
   "bairro": "Jardim Dona Idalina",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.750582",
+  "longitude": "-48.8394028"
 }

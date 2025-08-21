@@ -5,5 +5,7 @@
   "bairro": "Jardim Oriental",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3685936",
+  "longitude": "-51.9407497"
 }

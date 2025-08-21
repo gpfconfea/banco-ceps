@@ -5,5 +5,7 @@
   "bairro": "Vila Yara",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.5468237",
+  "longitude": "-46.7647659"
 }

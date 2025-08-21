@@ -1,9 +1,11 @@
 {
   "cep": "07190972",
   "logradouro": "Rodovia Hélio Smidt Terminal de Passageiros 2 Asa Oeste Mezanino .",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aeroporto",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4484836",
+  "longitude": "-46.4926585"
 }

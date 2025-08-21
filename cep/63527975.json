@@ -1,9 +1,11 @@
 {
   "cep": "63527975",
   "logradouro": "Rua Imaculada Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guassussê",
   "localidade": "Orós",
   "uf": "CE",
-  "ibge": "2309508"
+  "ibge": "2309508",
+  "latitude": "-6.3395817",
+  "longitude": "-38.9823323"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Aparecida",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5260496",
+  "longitude": "-47.3894961"
 }

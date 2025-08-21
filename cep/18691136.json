@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Governador Mário Covas",
   "localidade": "Itatinga",
   "uf": "SP",
-  "ibge": "3523503"
+  "ibge": "3523503",
+  "latitude": "-23.1123449",
+  "longitude": "-48.6064508"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Kusumoto",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4481996",
+  "longitude": "-51.8875196"
 }

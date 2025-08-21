@@ -5,5 +5,7 @@
   "bairro": "Saltinho do Oeste",
   "localidade": "Alto Piquiri",
   "uf": "PR",
-  "ibge": "4100707"
+  "ibge": "4100707",
+  "latitude": "-23.937735",
+  "longitude": "-53.416268"
 }

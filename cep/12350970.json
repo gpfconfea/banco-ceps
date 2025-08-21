@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Igaratá",
   "uf": "SP",
-  "ibge": "3520202"
+  "ibge": "3520202",
+  "latitude": "-23.2061266",
+  "longitude": "-46.1538701"
 }

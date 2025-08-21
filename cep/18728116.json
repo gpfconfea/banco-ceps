@@ -6,5 +6,7 @@
   "bairro": "Residencial Holambra II (Campos de Holambra)",
   "localidade": "Paranapanema",
   "uf": "SP",
-  "ibge": "3535804"
+  "ibge": "3535804",
+  "latitude": "-23.4461453",
+  "longitude": "-48.88497"
 }

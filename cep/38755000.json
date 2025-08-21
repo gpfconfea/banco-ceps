@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Lagoa Grande",
   "uf": "MG",
-  "ibge": "3137536"
+  "ibge": "3137536",
+  "latitude": "-17.836111",
+  "longitude": "-46.517223"
 }

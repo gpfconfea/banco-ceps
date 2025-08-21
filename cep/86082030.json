@@ -5,5 +5,7 @@
   "bairro": "Conjunto Vivi Xavier",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2582481",
+  "longitude": "-51.1657538"
 }

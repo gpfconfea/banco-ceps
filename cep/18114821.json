@@ -5,5 +5,7 @@
   "bairro": "Residencial Monte Verde",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5487076",
+  "longitude": "-47.4196865"
 }

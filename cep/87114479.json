@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo II",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4410123",
+  "longitude": "-51.8561426"
 }

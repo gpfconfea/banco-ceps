@@ -1,9 +1,11 @@
 {
   "cep": "86695970",
   "logradouro": "Rua Primeiro de Maio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto Alegre",
   "localidade": "Colorado",
   "uf": "PR",
-  "ibge": "4105904"
+  "ibge": "4105904",
+  "latitude": "-22.8981118",
+  "longitude": "-51.8868316"
 }

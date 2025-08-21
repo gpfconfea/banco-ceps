@@ -1,9 +1,11 @@
 {
   "cep": "62710974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ubiraçu",
   "localidade": "Canindé",
   "uf": "CE",
-  "ibge": "2302800"
+  "ibge": "2302800",
+  "latitude": "-9.6841019",
+  "longitude": "-37.7850388"
 }

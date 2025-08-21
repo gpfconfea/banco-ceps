@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Grão Mogol",
   "uf": "MG",
-  "ibge": "3127800"
+  "ibge": "3127800",
+  "latitude": "-16.5607895",
+  "longitude": "-42.8909332"
 }

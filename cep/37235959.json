@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coqueiral",
   "uf": "MG",
-  "ibge": "3118700"
+  "ibge": "3118700",
+  "latitude": "-21.1895916",
+  "longitude": "-45.4411808"
 }

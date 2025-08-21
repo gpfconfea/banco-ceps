@@ -6,5 +6,7 @@
   "bairro": "São Francisco",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.3795421",
+  "longitude": "-43.5089619"
 }

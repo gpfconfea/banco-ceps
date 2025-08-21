@@ -5,5 +5,7 @@
   "bairro": "Jardim do Carmo",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4045206",
+  "longitude": "-51.9691949"
 }

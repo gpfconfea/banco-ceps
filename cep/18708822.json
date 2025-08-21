@@ -6,5 +6,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.0929132",
+  "longitude": "-48.9158891"
 }

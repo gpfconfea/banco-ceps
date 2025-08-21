@@ -5,5 +5,7 @@
   "bairro": "Vista Linda",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-23.8042989",
+  "longitude": "-46.0836143"
 }

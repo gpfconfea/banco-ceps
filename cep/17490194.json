@@ -5,5 +5,7 @@
   "bairro": "Vila Soares",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-22.4068539",
+  "longitude": "-49.128746"
 }

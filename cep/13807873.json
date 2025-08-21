@@ -5,5 +5,7 @@
   "bairro": "Condomínio Morro Vermelho II",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4071586",
+  "longitude": "-46.9405971"
 }

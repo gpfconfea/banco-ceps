@@ -5,5 +5,7 @@
   "bairro": "Center Martini",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "latitude": "-22.3620642",
+  "longitude": "-47.3628273"
 }

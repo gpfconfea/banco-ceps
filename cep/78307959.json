@@ -1,9 +1,11 @@
 {
   "cep": "78307959",
   "logradouro": "Rua Santa Catarina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Campos de Júlio",
   "uf": "MT",
-  "ibge": "5102686"
+  "ibge": "5102686",
+  "latitude": "-13.7218341",
+  "longitude": "-59.2630306"
 }

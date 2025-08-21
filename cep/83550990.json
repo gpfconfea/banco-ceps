@@ -1,9 +1,11 @@
 {
   "cep": "83550990",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Rio Branco do Sul",
   "uf": "PR",
-  "ibge": "4122206"
+  "ibge": "4122206",
+  "latitude": "-25.1825898",
+  "longitude": "-49.3746456"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Jesusalém",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.5528724",
+  "longitude": "-37.7672304"
 }

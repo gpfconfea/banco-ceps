@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bandeirantes",
   "uf": "PR",
-  "ibge": "4102406"
+  "ibge": "4102406",
+  "latitude": "-23.1087262",
+  "longitude": "-50.3675124"
 }

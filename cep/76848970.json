@@ -1,9 +1,11 @@
 {
   "cep": "76848970",
   "logradouro": "Rua Santa Leocádia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Califórnia",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-11.5057341",
+  "longitude": "-63.580611"
 }

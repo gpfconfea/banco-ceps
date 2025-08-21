@@ -5,5 +5,7 @@
   "bairro": "São Marcos",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "-25.6145622",
+  "longitude": "-49.1752623"
 }

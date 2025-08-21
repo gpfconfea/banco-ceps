@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa Dourada",
   "uf": "MG",
-  "ibge": "3137403"
+  "ibge": "3137403",
+  "latitude": "-20.7548101",
+  "longitude": "-42.8789767"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cyro Fernandes",
   "localidade": "Ubá",
   "uf": "MG",
-  "ibge": "3169901"
+  "ibge": "3169901",
+  "latitude": "-18.166667",
+  "longitude": "-42.75"
 }

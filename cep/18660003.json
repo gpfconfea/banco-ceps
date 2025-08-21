@@ -5,5 +5,7 @@
   "bairro": "Nova Prata",
   "localidade": "Pratânia",
   "uf": "SP",
-  "ibge": "3541059"
+  "ibge": "3541059",
+  "latitude": "-23.5124929",
+  "longitude": "-46.5394811"
 }

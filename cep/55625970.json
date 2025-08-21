@@ -1,9 +1,11 @@
 {
   "cep": "55625970",
   "logradouro": "Rua Olavo Bilac",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Apoti",
   "localidade": "Glória do Goitá",
   "uf": "PE",
-  "ibge": "2606101"
+  "ibge": "2606101",
+  "latitude": "-8.0557778",
+  "longitude": "-35.3908241"
 }

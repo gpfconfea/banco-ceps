@@ -5,5 +5,7 @@
   "bairro": "Vila Mutton",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.003068",
+  "longitude": "-46.835087"
 }

@@ -6,5 +6,7 @@
   "bairro": "Vargem Grande do Soturno",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "latitude": "-20.765088",
+  "longitude": "-41.0604474"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.7374531",
+  "longitude": "-53.3167973"
 }

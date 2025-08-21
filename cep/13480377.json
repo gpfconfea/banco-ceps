@@ -5,5 +5,7 @@
   "bairro": "Vila São Luiz",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5755255",
+  "longitude": "-47.3947326"
 }

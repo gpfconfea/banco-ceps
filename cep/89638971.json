@@ -1,9 +1,11 @@
 {
   "cep": "89638971",
   "logradouro": "Rua Rafael Marcante",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Vargem",
   "uf": "SC",
-  "ibge": "4219150"
+  "ibge": "4219150",
+  "latitude": "-27.4922724",
+  "longitude": "-50.9789087"
 }

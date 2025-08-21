@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cuité de Mamanguape",
   "uf": "PB",
-  "ibge": "2505238"
+  "ibge": "2505238",
+  "latitude": "-6.9139273",
+  "longitude": "-35.2499847"
 }

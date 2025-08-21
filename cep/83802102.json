@@ -6,5 +6,7 @@
   "bairro": "Vila São João",
   "localidade": "Mandirituba",
   "uf": "PR",
-  "ibge": "4114302"
+  "ibge": "4114302",
+  "latitude": "-25.7750632",
+  "longitude": "-49.315745"
 }

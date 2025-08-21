@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaramiranga",
   "uf": "CE",
-  "ibge": "2305100"
+  "ibge": "2305100",
+  "latitude": "-4.261237",
+  "longitude": "-38.9354513"
 }

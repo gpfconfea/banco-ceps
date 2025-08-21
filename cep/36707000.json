@@ -6,5 +6,7 @@
   "bairro": "Ribeiro Junqueira",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-21.4484135",
+  "longitude": "-42.5150841"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "28348970",
   "logradouro": "Rua Maria Augusta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Comendador Venâncio",
   "localidade": "Itaperuna",
   "uf": "RJ",
-  "ibge": "3302205"
+  "ibge": "3302205",
+  "latitude": "-21.1806526",
+  "longitude": "-42.1034865"
 }

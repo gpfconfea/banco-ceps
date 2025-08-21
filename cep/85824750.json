@@ -5,5 +5,7 @@
   "bairro": "Arquimedes",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "latitude": "-26.2385061",
+  "longitude": "-52.6960687"
 }

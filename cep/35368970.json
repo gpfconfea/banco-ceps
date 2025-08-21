@@ -1,9 +1,11 @@
 {
   "cep": "35368970",
   "logradouro": "Praça Padre Artur Ramos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Sericita",
   "uf": "MG",
-  "ibge": "3166303"
+  "ibge": "3166303",
+  "latitude": "-20.4714788",
+  "longitude": "-42.4830959"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Machado",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "latitude": "-22.8813545",
+  "longitude": "-42.0137012"
 }

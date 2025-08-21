@@ -5,5 +5,7 @@
   "bairro": "Ribeiro",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4356981",
+  "longitude": "-46.2772977"
 }

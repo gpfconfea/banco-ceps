@@ -5,5 +5,7 @@
   "bairro": "João XXIII",
   "localidade": "Parnaíba",
   "uf": "PI",
-  "ibge": "2207702"
+  "ibge": "2207702",
+  "latitude": "-23.9556495",
+  "longitude": "-47.1435227"
 }

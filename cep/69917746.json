@@ -5,5 +5,7 @@
   "bairro": "Conjunto Universitário",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-5.8211791",
+  "longitude": "-35.1989564"
 }

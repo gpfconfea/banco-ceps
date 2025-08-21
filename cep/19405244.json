@@ -5,5 +5,7 @@
   "bairro": "Residencial Roberto Máximo",
   "localidade": "Presidente Venceslau",
   "uf": "SP",
-  "ibge": "3541505"
+  "ibge": "3541505",
+  "latitude": "-21.8807873",
+  "longitude": "-51.8306651"
 }
