@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Agudos",
   "uf": "SP",
-  "ibge": "3500709"
+  "ibge": "3500709",
+  "latitude": "-22.4699608",
+  "longitude": "-48.9861654"
 }

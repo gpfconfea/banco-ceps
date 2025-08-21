@@ -1,9 +1,11 @@
 {
   "cep": "11995970",
   "logradouro": "Rua Washington Luís",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ariri",
   "localidade": "Cananéia",
   "uf": "SP",
-  "ibge": "3509908"
+  "ibge": "3509908",
+  "latitude": "-24.9980365",
+  "longitude": "-47.9407995"
 }

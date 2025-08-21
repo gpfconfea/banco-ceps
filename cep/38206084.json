@@ -5,5 +5,7 @@
   "bairro": "Nova Frutal",
   "localidade": "Frutal",
   "uf": "MG",
-  "ibge": "3127107"
+  "ibge": "3127107",
+  "latitude": "-20.0407262",
+  "longitude": "-48.9272879"
 }

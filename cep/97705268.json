@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Santiago",
   "uf": "RS",
-  "ibge": "4317400"
+  "ibge": "4317400",
+  "latitude": "-16.5009675",
+  "longitude": "-49.421921"
 }

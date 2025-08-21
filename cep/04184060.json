@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Emília",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.646122",
+  "longitude": "-46.5991741"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.5528642",
+  "longitude": "-46.7839202"
 }

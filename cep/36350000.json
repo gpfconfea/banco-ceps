@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Tiago",
   "uf": "MG",
-  "ibge": "3165008"
+  "ibge": "3165008",
+  "latitude": "-20.913056",
+  "longitude": "-44.509167"
 }

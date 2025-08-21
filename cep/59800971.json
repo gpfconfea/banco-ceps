@@ -1,9 +1,11 @@
 {
   "cep": "59800971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Lagoa Nova",
   "localidade": "Martins",
   "uf": "RN",
-  "ibge": "2407401"
+  "ibge": "2407401",
+  "latitude": "-7.0872174",
+  "longitude": "-41.5014569"
 }

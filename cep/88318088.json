@@ -5,5 +5,7 @@
   "bairro": "Baia",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "latitude": "-26.9774697",
+  "longitude": "-48.742629"
 }

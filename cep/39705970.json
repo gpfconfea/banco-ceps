@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João Evangelista",
   "uf": "MG",
-  "ibge": "3162807"
+  "ibge": "3162807",
+  "latitude": "-18.5486363",
+  "longitude": "-42.7666702"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Sardenha",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-29.2123297",
+  "longitude": "-51.4369255"
 }

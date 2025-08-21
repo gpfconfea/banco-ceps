@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Cataldis",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.571421",
+  "longitude": "-46.7575232"
 }

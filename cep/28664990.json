@@ -1,9 +1,11 @@
 {
   "cep": "28664990",
   "logradouro": "Praça São Sebastião Gastaldiº - São José do Ribeirão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bom Jardim",
   "uf": "RJ",
-  "ibge": "3300506"
+  "ibge": "3300506",
+  "latitude": "-22.2055544",
+  "longitude": "-42.4003778"
 }

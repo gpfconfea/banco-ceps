@@ -5,5 +5,7 @@
   "bairro": "Monte Azul",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2077538",
+  "longitude": "-45.9058654"
 }

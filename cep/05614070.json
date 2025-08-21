@@ -5,5 +5,7 @@
   "bairro": "Jardim Leonor",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5960089",
+  "longitude": "-46.7115482"
 }

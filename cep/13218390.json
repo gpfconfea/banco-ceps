@@ -5,5 +5,7 @@
   "bairro": "Jardim Roma",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1730082",
+  "longitude": "-46.8432609"
 }

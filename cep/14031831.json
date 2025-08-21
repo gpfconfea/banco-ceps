@@ -5,5 +5,7 @@
   "bairro": "Jardim Progresso",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.2057038",
+  "longitude": "-47.8463844"
 }

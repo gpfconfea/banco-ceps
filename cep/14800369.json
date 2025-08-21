@@ -5,5 +5,7 @@
   "bairro": "Vila Higia",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.803147",
+  "longitude": "-48.1735301"
 }

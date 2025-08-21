@@ -1,9 +1,11 @@
 {
   "cep": "68038900",
   "logradouro": "Avenida Engenheiro Fernando Guilhon Lote C-01",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Elcione Barbalho",
   "localidade": "Santarém",
   "uf": "PA",
-  "ibge": "1506807"
+  "ibge": "1506807",
+  "latitude": "-2.4506274",
+  "longitude": "-54.7583236"
 }

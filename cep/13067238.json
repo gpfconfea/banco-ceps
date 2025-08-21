@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Parque Pinheiros",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.005111",
+  "longitude": "-47.1076751"
 }

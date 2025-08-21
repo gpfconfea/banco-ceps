@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piau",
   "uf": "MG",
-  "ibge": "3150109"
+  "ibge": "3150109",
+  "latitude": "-21.5080008",
+  "longitude": "-43.3193648"
 }

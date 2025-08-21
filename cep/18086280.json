@@ -5,5 +5,7 @@
   "bairro": "Jardim Ibiti do Paço",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4459675",
+  "longitude": "-47.4493549"
 }

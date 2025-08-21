@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional General Euclides Figueiredo",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4170312",
+  "longitude": "-46.817425"
 }

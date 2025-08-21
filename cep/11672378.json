@@ -5,5 +5,7 @@
   "bairro": "Pontal de Santa Marina",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.673325",
+  "longitude": "-45.4631959"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55296903",
   "logradouro": "Avenida Rui Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Heliópolis",
   "localidade": "Garanhuns",
   "uf": "PE",
-  "ibge": "2606002"
+  "ibge": "2606002",
+  "latitude": "-8.8823842",
+  "longitude": "-36.477831"
 }

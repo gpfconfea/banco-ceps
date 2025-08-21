@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Luiza II",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.768615",
+  "longitude": "-48.8207469"
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácara Santo Hubertus",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.3949183",
+  "longitude": "-46.945494"
 }

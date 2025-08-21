@@ -1,9 +1,11 @@
 {
   "cep": "68150971",
   "logradouro": "Avenida Pará",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Aveiro",
   "uf": "PA",
-  "ibge": "1501006"
+  "ibge": "1501006",
+  "latitude": "40.8896502",
+  "longitude": "-8.4914603"
 }

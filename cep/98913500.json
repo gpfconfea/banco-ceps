@@ -5,5 +5,7 @@
   "bairro": "Barrinha",
   "localidade": "Três de Maio",
   "uf": "RS",
-  "ibge": "4321808"
+  "ibge": "4321808",
+  "latitude": "-27.7805788",
+  "longitude": "-54.165737"
 }

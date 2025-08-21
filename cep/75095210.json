@@ -5,5 +5,7 @@
   "bairro": "Setor Tropical",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3508725",
+  "longitude": "-48.9225977"
 }

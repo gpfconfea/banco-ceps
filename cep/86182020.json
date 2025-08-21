@@ -5,5 +5,7 @@
   "bairro": "Vila Guarani",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "latitude": "-23.2741667",
+  "longitude": "-51.2863132"
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Hípica",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.7798975",
+  "longitude": "-45.1953522"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim David Leuder Pereira Alves",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.1620951",
+  "longitude": "-49.943511"
 }

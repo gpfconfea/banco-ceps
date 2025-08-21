@@ -5,5 +5,7 @@
   "bairro": "Areal",
   "localidade": "Pelotas",
   "uf": "RS",
-  "ibge": "4314407"
+  "ibge": "4314407",
+  "latitude": "-31.7358715",
+  "longitude": "-52.2996155"
 }

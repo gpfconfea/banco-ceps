@@ -5,5 +5,7 @@
   "bairro": "Monte Alegre",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "43.9004209",
+  "longitude": "10.9999233"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Mais Parque",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-22.8469023",
+  "longitude": "-45.2316652"
 }

@@ -5,5 +5,7 @@
   "bairro": "Estação",
   "localidade": "Montenegro",
   "uf": "RS",
-  "ibge": "4312401"
+  "ibge": "4312401",
+  "latitude": "-29.7071312",
+  "longitude": "-51.5028794"
 }

@@ -5,5 +5,7 @@
   "bairro": "Pedra Redonda",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.1302634",
+  "longitude": "-51.2385815"
 }

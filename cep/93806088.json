@@ -5,5 +5,7 @@
   "bairro": "Santa Fé",
   "localidade": "Sapiranga",
   "uf": "RS",
-  "ibge": "4319901"
+  "ibge": "4319901",
+  "latitude": "-29.6506266",
+  "longitude": "-51.0137151"
 }

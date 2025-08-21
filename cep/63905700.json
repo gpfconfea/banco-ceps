@@ -5,5 +5,7 @@
   "bairro": "Monte Alegre",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.9965965",
+  "longitude": "-39.0090405"
 }

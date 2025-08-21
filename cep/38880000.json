@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Tiros",
   "uf": "MG",
-  "ibge": "3168903"
+  "ibge": "3168903",
+  "latitude": "-19.003889",
+  "longitude": "-45.963611"
 }

@@ -5,5 +5,7 @@
   "bairro": "Guarani",
   "localidade": "Nova Laranjeiras",
   "uf": "PR",
-  "ibge": "4117057"
+  "ibge": "4117057",
+  "latitude": "-25.19311",
+  "longitude": "-52.656189"
 }

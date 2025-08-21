@@ -1,9 +1,11 @@
 {
   "cep": "04626959",
   "logradouro": "Avenida Washington Luís Mezanino Recinto Aer de Congonhas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Amaro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.6402443",
+  "longitude": "-46.6738198"
 }

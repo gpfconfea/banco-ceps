@@ -5,5 +5,7 @@
   "bairro": "Lageado",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.2057721",
+  "longitude": "-51.1449586"
 }

@@ -1,10 +1,12 @@
 {
   "cep": "28990991",
   "logradouro": "Estrada Velha Palmital",
-  "complemento": "s/n",
+  "complemento": "",
   "unidade": "CPC Associação dos Moradores - Rio de Areia",
   "bairro": "",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "latitude": "-22.8652147",
+  "longitude": "-42.4698768"
 }

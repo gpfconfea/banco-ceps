@@ -5,5 +5,7 @@
   "bairro": "Residencial Araguaia",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "latitude": "-16.649294",
+  "longitude": "-49.4152168"
 }
