@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Geraldo",
   "uf": "MG",
-  "ibge": "3161502"
+  "ibge": "3161502",
+  "latitude": "-20.9227138",
+  "longitude": "-42.8336232"
 }

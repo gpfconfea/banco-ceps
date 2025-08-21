@@ -1,9 +1,11 @@
 {
   "cep": "39875973",
   "logradouro": "Avenida Belo Horizonte",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bertópolis",
   "uf": "MG",
-  "ibge": "3106606"
+  "ibge": "3106606",
+  "latitude": "-16.9308365",
+  "longitude": "-40.5077179"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "85230971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Manoel",
   "localidade": "Santa Maria do Oeste",
   "uf": "PR",
-  "ibge": "4123857"
+  "ibge": "4123857",
+  "latitude": "-24.9400265",
+  "longitude": "-51.866018"
 }

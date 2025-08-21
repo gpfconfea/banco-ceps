@@ -5,5 +5,7 @@
   "bairro": "São Bento",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "latitude": "-22.7347621",
+  "longitude": "-43.3071427"
 }

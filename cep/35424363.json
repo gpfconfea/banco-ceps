@@ -6,5 +6,7 @@
   "bairro": "Nossa Senhora Aparecida",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "latitude": "-20.3640305",
+  "longitude": "-43.4108066"
 }

@@ -5,5 +5,7 @@
   "bairro": "Aparecida",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.42133",
+  "longitude": "-45.9578598"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65204970",
   "logradouro": "Avenida Padre Luís Risso",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Presidente Sarney",
   "uf": "MA",
-  "ibge": "2109270"
+  "ibge": "2109270",
+  "latitude": "-2.5913725",
+  "longitude": "-45.3677921"
 }

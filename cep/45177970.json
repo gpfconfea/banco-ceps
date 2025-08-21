@@ -1,9 +1,11 @@
 {
   "cep": "45177970",
   "logradouro": "Rua Beira Rio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Caraíbas",
   "uf": "BA",
-  "ibge": "2906899"
+  "ibge": "2906899",
+  "latitude": "-14.7281551",
+  "longitude": "-41.2593069"
 }

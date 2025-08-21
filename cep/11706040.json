@@ -5,5 +5,7 @@
   "bairro": "Caiçara",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-24.0439465",
+  "longitude": "-46.5164466"
 }

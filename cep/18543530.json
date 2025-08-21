@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Fortunato Fioravante Angelieri",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.1887395",
+  "longitude": "-47.5337718"
 }

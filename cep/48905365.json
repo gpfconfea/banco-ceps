@@ -5,5 +5,7 @@
   "bairro": "Monte Castelo",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-9.4320868",
+  "longitude": "-40.490525"
 }

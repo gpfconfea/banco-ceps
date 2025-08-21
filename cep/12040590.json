@@ -5,5 +5,7 @@
   "bairro": "Parque Senhor do Bonfim",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0308366",
+  "longitude": "-45.6004162"
 }

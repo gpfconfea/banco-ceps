@@ -1,9 +1,11 @@
 {
   "cep": "44150971",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Nicolau",
   "localidade": "Santa Bárbara",
   "uf": "BA",
-  "ibge": "2927507"
+  "ibge": "2927507",
+  "latitude": "-11.8356512",
+  "longitude": "-39.0643198"
 }

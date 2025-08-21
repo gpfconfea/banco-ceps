@@ -1,9 +1,11 @@
 {
   "cep": "68475970",
   "logradouro": "Praça Vinte e Nove de Dezembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bagre",
   "uf": "PA",
-  "ibge": "1501105"
+  "ibge": "1501105",
+  "latitude": "-1.8986158",
+  "longitude": "-50.2098994"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Fernandes",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.3643246",
+  "longitude": "-49.4902801"
 }

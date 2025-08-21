@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Américo de Campos",
   "uf": "SP",
-  "ibge": "3501806"
+  "ibge": "3501806",
+  "latitude": "-20.2976248",
+  "longitude": "-49.7297277"
 }

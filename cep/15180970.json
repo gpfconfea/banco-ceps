@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sebastianópolis do Sul",
   "uf": "SP",
-  "ibge": "3551306"
+  "ibge": "3551306",
+  "latitude": "-20.6557306",
+  "longitude": "-49.9208917"
 }

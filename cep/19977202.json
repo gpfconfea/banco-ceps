@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial III",
   "localidade": "Palmital",
   "uf": "SP",
-  "ibge": "3535309"
+  "ibge": "3535309",
+  "latitude": "-22.5428102",
+  "longitude": "-41.98366"
 }

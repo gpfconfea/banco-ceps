@@ -5,5 +5,7 @@
   "bairro": "Olaria",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3324009",
+  "longitude": "-40.3020396"
 }

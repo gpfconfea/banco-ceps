@@ -5,5 +5,7 @@
   "bairro": "Vila Oceania",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.4382608",
+  "longitude": "-46.9772152"
 }

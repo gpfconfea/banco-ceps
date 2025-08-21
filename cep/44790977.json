@@ -1,9 +1,11 @@
 {
   "cep": "44790977",
   "logradouro": "Praça do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tuiutiba",
   "localidade": "Campo Formoso",
   "uf": "BA",
-  "ibge": "2906006"
+  "ibge": "2906006",
+  "latitude": "-10.1833995",
+  "longitude": "-40.9613501"
 }

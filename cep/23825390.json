@@ -5,5 +5,7 @@
   "bairro": "Coroa Grande",
   "localidade": "Itaguaí",
   "uf": "RJ",
-  "ibge": "3302007"
+  "ibge": "3302007",
+  "latitude": "-22.90145",
+  "longitude": "-43.8649228"
 }

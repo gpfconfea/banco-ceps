@@ -1,9 +1,11 @@
 {
   "cep": "35100973",
   "logradouro": "Rua Élcio Gaiotti",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Córrego dos Borges",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "latitude": "-18.8547986",
+  "longitude": "-41.9589601"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "69390970",
   "logradouro": "Rua Ângelo Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bairro Novo",
   "localidade": "Cantá",
   "uf": "RR",
-  "ibge": "1400175"
+  "ibge": "1400175",
+  "latitude": "2.6101704",
+  "longitude": "-60.5990833"
 }

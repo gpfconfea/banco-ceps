@@ -5,5 +5,7 @@
   "bairro": "Residencial Copacabana",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3778375",
+  "longitude": "-48.9869171"
 }

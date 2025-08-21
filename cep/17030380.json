@@ -5,5 +5,7 @@
   "bairro": "Jardim Cruzeiro do Sul",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3218876",
+  "longitude": "-49.0432283"
 }

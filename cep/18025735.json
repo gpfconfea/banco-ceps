@@ -5,5 +5,7 @@
   "bairro": "Vila Barcelona",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5327431",
+  "longitude": "-47.4706334"
 }

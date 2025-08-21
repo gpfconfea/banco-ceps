@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "latitude": "-22.3403684",
+  "longitude": "-47.1599215"
 }

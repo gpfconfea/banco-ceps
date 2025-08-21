@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Araranguá",
   "localidade": "Araranguá",
   "uf": "SC",
-  "ibge": "4201406"
+  "ibge": "4201406",
+  "latitude": "-28.9341511",
+  "longitude": "-49.4835896"
 }

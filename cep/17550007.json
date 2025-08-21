@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Júlio Mesquita",
   "uf": "SP",
-  "ibge": "3525805"
+  "ibge": "3525805",
+  "latitude": "-22.0099679",
+  "longitude": "-49.7908228"
 }

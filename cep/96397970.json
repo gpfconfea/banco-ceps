@@ -1,9 +1,11 @@
 {
   "cep": "96397970",
   "logradouro": "Estrada de Vila Freire",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Freire",
   "localidade": "Cerrito",
   "uf": "RS",
-  "ibge": "4305124"
+  "ibge": "4305124",
+  "latitude": "-31.675086",
+  "longitude": "-52.885104"
 }

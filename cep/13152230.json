@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Rosamélia",
   "localidade": "Cosmópolis",
   "uf": "SP",
-  "ibge": "3512803"
+  "ibge": "3512803",
+  "latitude": "-22.642796",
+  "longitude": "-47.1802827"
 }

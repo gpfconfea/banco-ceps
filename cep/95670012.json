@@ -5,5 +5,7 @@
   "bairro": "Minuano",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "latitude": "-29.3764568",
+  "longitude": "-50.8784605"
 }

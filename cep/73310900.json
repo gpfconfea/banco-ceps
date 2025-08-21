@@ -5,5 +5,7 @@
   "bairro": "Setor Administrativo (Planaltina)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.6512332",
+  "longitude": "-47.7934474"
 }

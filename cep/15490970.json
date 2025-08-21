@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paulo de Faria",
   "uf": "SP",
-  "ibge": "3536604"
+  "ibge": "3536604",
+  "latitude": "-20.0352471",
+  "longitude": "-49.4006172"
 }

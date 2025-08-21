@@ -5,5 +5,7 @@
   "bairro": "Coqueiros",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.5208395",
+  "longitude": "-44.1086343"
 }

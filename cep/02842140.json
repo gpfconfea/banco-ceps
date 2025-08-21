@@ -5,5 +5,7 @@
   "bairro": "Jardim do Tiro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4767071",
+  "longitude": "-46.6872174"
 }

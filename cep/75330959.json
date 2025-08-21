@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Aragoiânia",
   "uf": "GO",
-  "ibge": "5201801"
+  "ibge": "5201801",
+  "latitude": "-16.9112168",
+  "longitude": "-49.4502164"
 }

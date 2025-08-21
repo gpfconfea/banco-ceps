@@ -5,5 +5,7 @@
   "bairro": "Santiago",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2860429",
+  "longitude": "-51.19194"
 }

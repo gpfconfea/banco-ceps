@@ -1,9 +1,11 @@
 {
   "cep": "48900900",
   "logradouro": "Rua Comissão do Vale",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Piranga",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-9.4353027",
+  "longitude": "-40.5121455"
 }
