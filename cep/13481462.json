@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Verde I",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-23.4391567",
+  "longitude": "-46.7805184"
 }

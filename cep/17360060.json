@@ -5,5 +5,7 @@
   "bairro": "Residencial Bonfim",
   "localidade": "Torrinha",
   "uf": "SP",
-  "ibge": "3554706"
+  "ibge": "3554706",
+  "latitude": "-22.4236431",
+  "longitude": "-48.1683205"
 }

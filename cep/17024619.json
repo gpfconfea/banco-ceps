@@ -5,5 +5,7 @@
   "bairro": "Jardim Araruna",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.2921601",
+  "longitude": "-49.074765"
 }

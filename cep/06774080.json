@@ -5,5 +5,7 @@
   "bairro": "Parque Jacarandá",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "latitude": "-23.642578",
+  "longitude": "-46.7993076"
 }

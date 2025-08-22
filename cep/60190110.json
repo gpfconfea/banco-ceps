@@ -5,5 +5,7 @@
   "bairro": "Cidade 2000",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.7495371",
+  "longitude": "-38.4690963"
 }

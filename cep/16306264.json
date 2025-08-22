@@ -5,5 +5,7 @@
   "bairro": "Parque CECAP",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-21.4181835",
+  "longitude": "-50.0929551"
 }

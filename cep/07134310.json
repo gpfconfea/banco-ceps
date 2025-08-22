@@ -5,5 +5,7 @@
   "bairro": "Jardim Irene",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4298894",
+  "longitude": "-46.5172915"
 }

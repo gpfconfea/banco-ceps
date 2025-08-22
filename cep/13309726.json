@@ -5,5 +5,7 @@
   "bairro": "Vila Lucinda/Romana",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2980714",
+  "longitude": "-47.30258"
 }

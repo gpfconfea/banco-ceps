@@ -5,5 +5,7 @@
   "bairro": "Canoas",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.4032674",
+  "longitude": "-35.0655393"
 }

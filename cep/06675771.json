@@ -5,5 +5,7 @@
   "bairro": "Vila Belmira",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5570123",
+  "longitude": "-46.980834"
 }

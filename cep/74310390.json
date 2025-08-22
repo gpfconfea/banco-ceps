@@ -5,5 +5,7 @@
   "bairro": "Vila Bela",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7099659",
+  "longitude": "-49.2996262"
 }

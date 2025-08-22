@@ -5,5 +5,7 @@
   "bairro": "Planalto",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.790261",
+  "longitude": "-44.0245547"
 }

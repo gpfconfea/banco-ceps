@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lajeado",
   "uf": "RS",
-  "ibge": "4311403"
+  "ibge": "4311403",
+  "latitude": "-29.4633589",
+  "longitude": "-51.966114"
 }

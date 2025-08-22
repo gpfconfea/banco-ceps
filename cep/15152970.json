@@ -1,9 +1,11 @@
 {
   "cep": "15152970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Junqueira",
   "localidade": "Monte Aprazível",
   "uf": "SP",
-  "ibge": "3531407"
+  "ibge": "3531407",
+  "latitude": "-20.820574",
+  "longitude": "-49.8672128"
 }

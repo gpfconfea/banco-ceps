@@ -5,5 +5,7 @@
   "bairro": "Dom Lara",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "latitude": "-19.7514647",
+  "longitude": "-42.2089214"
 }

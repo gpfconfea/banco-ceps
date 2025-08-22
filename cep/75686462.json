@@ -5,5 +5,7 @@
   "bairro": "Estância Jequitimar",
   "localidade": "Caldas Novas",
   "uf": "GO",
-  "ibge": "5204508"
+  "ibge": "5204508",
+  "latitude": "-17.7586378",
+  "longitude": "-48.6015185"
 }

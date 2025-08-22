@@ -5,5 +5,7 @@
   "bairro": "1° de Julho",
   "localidade": "Itapoá",
   "uf": "SC",
-  "ibge": "4208450"
+  "ibge": "4208450",
+  "latitude": "-26.112037",
+  "longitude": "-48.6325683"
 }

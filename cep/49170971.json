@@ -1,9 +1,11 @@
 {
   "cep": "49170971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Laranjeiras",
   "uf": "SE",
-  "ibge": "2803609"
+  "ibge": "2803609",
+  "latitude": "-19.7424592",
+  "longitude": "-43.937453"
 }

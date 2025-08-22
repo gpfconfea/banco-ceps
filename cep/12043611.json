@@ -5,5 +5,7 @@
   "bairro": "Residencial Ouroville",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "46.0722162",
+  "longitude": "11.1212373"
 }

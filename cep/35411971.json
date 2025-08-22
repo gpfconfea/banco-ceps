@@ -1,9 +1,11 @@
 {
   "cep": "35411971",
   "logradouro": "Rua Grande",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Antônio Pereira",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.3118091",
+  "longitude": "-43.4780631"
 }

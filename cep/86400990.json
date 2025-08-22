@@ -1,9 +1,11 @@
 {
   "cep": "86400990",
   "logradouro": "Rua Willy Davis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Jacarezinho",
   "uf": "PR",
-  "ibge": "4111803"
+  "ibge": "4111803",
+  "latitude": "-23.0068637",
+  "longitude": "-49.9152551"
 }

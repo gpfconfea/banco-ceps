@@ -1,9 +1,11 @@
 {
   "cep": "74930971",
   "logradouro": "Avenida da Igualdade Quadra 88 Lote 20",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Garavelo",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7689236",
+  "longitude": "-49.3415877"
 }

@@ -6,5 +6,7 @@
   "bairro": "Boa Vista",
   "localidade": "Saltinho",
   "uf": "SP",
-  "ibge": "3545159"
+  "ibge": "3545159",
+  "latitude": "-22.8357618",
+  "longitude": "-47.6805213"
 }

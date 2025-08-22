@@ -1,9 +1,11 @@
 {
   "cep": "89923970",
   "logradouro": "Rua Bandeirantes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ouro Verde",
   "uf": "SC",
-  "ibge": "4211850"
+  "ibge": "4211850",
+  "latitude": "-16.5689263",
+  "longitude": "-39.5623044"
 }

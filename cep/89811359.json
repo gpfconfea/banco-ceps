@@ -5,5 +5,7 @@
   "bairro": "Desbravador",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.057181",
+  "longitude": "-52.6043159"
 }

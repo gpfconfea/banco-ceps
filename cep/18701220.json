@@ -5,5 +5,7 @@
   "bairro": "Braz II",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.1103755",
+  "longitude": "-48.9001441"
 }

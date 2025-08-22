@@ -6,5 +6,7 @@
   "bairro": "Setor Norte",
   "localidade": "Piracanjuba",
   "uf": "GO",
-  "ibge": "5217104"
+  "ibge": "5217104",
+  "latitude": "-17.2986638",
+  "longitude": "-49.021132"
 }

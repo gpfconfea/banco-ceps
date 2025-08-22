@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial dos Bandeirantes",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.1923133",
+  "longitude": "-47.3159222"
 }

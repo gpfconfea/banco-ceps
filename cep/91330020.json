@@ -5,5 +5,7 @@
   "bairro": "Três Figueiras",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0289259",
+  "longitude": "-51.1677125"
 }

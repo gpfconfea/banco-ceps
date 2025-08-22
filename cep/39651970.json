@@ -1,9 +1,11 @@
 {
   "cep": "39651970",
   "logradouro": "Rua Antônio Barbosa Sobrinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ribeirão da Folha",
   "localidade": "Minas Novas",
   "uf": "MG",
-  "ibge": "3141801"
+  "ibge": "3141801",
+  "latitude": "-17.4340311",
+  "longitude": "-42.2573861"
 }

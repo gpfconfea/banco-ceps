@@ -5,5 +5,7 @@
   "bairro": "Castelo Branco",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "38.0096933",
+  "longitude": "-7.8532576"
 }

@@ -5,5 +5,7 @@
   "bairro": "Paripe",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "40.6113253",
+  "longitude": "-8.6872739"
 }

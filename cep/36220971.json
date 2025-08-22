@@ -1,9 +1,11 @@
 {
   "cep": "36220971",
   "logradouro": "Praça Lina Fagundes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Curral Novo",
   "localidade": "Antônio Carlos",
   "uf": "MG",
-  "ibge": "3102902"
+  "ibge": "3102902",
+  "latitude": "-21.3188159",
+  "longitude": "-43.7583499"
 }

@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "latitude": "-26.2203349",
+  "longitude": "-52.6964992"
 }

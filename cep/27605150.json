@@ -5,5 +5,7 @@
   "bairro": "Chica Cobra",
   "localidade": "Valença",
   "uf": "RJ",
-  "ibge": "3306107"
+  "ibge": "3306107",
+  "latitude": "-13.3472186",
+  "longitude": "-39.05566"
 }

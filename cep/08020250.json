@@ -5,5 +5,7 @@
   "bairro": "Vila Vessoni",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.3390751",
+  "longitude": "-46.9519772"
 }

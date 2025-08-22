@@ -5,5 +5,7 @@
   "bairro": "Setor Sul",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.5210485",
+  "longitude": "-49.4161047"
 }

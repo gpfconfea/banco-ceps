@@ -5,5 +5,7 @@
   "bairro": "Jardim das Laranjeiras",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.9458943",
+  "longitude": "-46.5296371"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "56912902",
   "logradouro": "Avenida Afonso Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Várzea",
   "localidade": "Serra Talhada",
   "uf": "PE",
-  "ibge": "2613909"
+  "ibge": "2613909",
+  "latitude": "-7.9835397",
+  "longitude": "-38.289991"
 }

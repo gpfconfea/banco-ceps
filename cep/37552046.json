@@ -5,5 +5,7 @@
   "bairro": "Chácara Primavera II",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.223428",
+  "longitude": "-45.9339259"
 }

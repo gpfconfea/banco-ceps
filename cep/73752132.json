@@ -5,5 +5,7 @@
   "bairro": "Setor Leste",
   "localidade": "Planaltina",
   "uf": "GO",
-  "ibge": "5217609"
+  "ibge": "5217609",
+  "latitude": "-16.6343498",
+  "longitude": "-49.3877074"
 }

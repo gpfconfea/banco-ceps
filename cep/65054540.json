@@ -5,5 +5,7 @@
   "bairro": "Cohatrac III",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5368479",
+  "longitude": "-44.2011023"
 }

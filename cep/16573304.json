@@ -5,5 +5,7 @@
   "bairro": "Residencial Solidade",
   "localidade": "Guarantã",
   "uf": "SP",
-  "ibge": "3518107"
+  "ibge": "3518107",
+  "latitude": "-21.8960775",
+  "longitude": "-49.5842739"
 }

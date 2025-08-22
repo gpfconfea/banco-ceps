@@ -5,5 +5,7 @@
   "bairro": "Condomínio Villagio Las Palmas",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "latitude": "-22.3650089",
+  "longitude": "-47.3646355"
 }

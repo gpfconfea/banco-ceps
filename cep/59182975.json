@@ -1,9 +1,11 @@
 {
   "cep": "59182975",
   "logradouro": "Rua Fontes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Monte Alegre",
   "uf": "RN",
-  "ibge": "2407807"
+  "ibge": "2407807",
+  "latitude": "-22.4226788",
+  "longitude": "-46.5780751"
 }

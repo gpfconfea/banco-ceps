@@ -1,9 +1,11 @@
 {
   "cep": "40110910",
   "logradouro": "Rua João das Botas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canela",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9912283",
+  "longitude": "-38.5204798"
 }

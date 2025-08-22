@@ -1,9 +1,11 @@
 {
   "cep": "78051902",
   "logradouro": "Rua Monte Sinai",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Residencial Santa Inês",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5867908",
+  "longitude": "-56.0540824"
 }

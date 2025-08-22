@@ -5,5 +5,7 @@
   "bairro": "Água Chata",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.432531",
+  "longitude": "-46.3942754"
 }

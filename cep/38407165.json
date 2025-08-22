@@ -5,5 +5,7 @@
   "bairro": "Morumbi",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.9230108",
+  "longitude": "-48.189096"
 }

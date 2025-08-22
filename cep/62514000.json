@@ -5,5 +5,7 @@
   "bairro": "Deserto",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "latitude": "-3.5146177",
+  "longitude": "-39.4927598"
 }
