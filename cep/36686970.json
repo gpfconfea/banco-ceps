@@ -1,9 +1,11 @@
 {
   "cep": "36686970",
   "logradouro": "Praça Teodoro de Araújo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Carlos Alves",
   "localidade": "São João Nepomuceno",
   "uf": "MG",
-  "ibge": "3162906"
+  "ibge": "3162906",
+  "latitude": "-21.6074328",
+  "longitude": "-43.1155946"
 }

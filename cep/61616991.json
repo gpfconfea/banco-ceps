@@ -1,9 +1,11 @@
 {
   "cep": "61616991",
   "logradouro": "Rua Nossa Senhora de Fátima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.752655",
+  "longitude": "-38.6224701"
 }

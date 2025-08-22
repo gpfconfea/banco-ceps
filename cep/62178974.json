@@ -1,9 +1,11 @@
 {
   "cep": "62178974",
   "logradouro": "Rua Poço Verde",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Poço Verde",
   "localidade": "Mucambo",
   "uf": "CE",
-  "ibge": "2309003"
+  "ibge": "2309003",
+  "latitude": "-3.9316769",
+  "longitude": "-40.7997986"
 }

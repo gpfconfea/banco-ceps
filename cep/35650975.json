@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pitangui",
   "uf": "MG",
-  "ibge": "3151404"
+  "ibge": "3151404",
+  "latitude": "-19.5661",
+  "longitude": "-44.8468036"
 }

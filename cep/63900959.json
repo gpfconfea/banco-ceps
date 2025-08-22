@@ -1,9 +1,11 @@
 {
   "cep": "63900959",
   "logradouro": "Rua Francisco Enéas de Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.9714445",
+  "longitude": "-39.0172491"
 }

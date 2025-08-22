@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Nelson Niero",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4555078",
+  "longitude": "-46.9935122"
 }

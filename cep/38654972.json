@@ -1,9 +1,11 @@
 {
   "cep": "38654972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Dom Bosco",
   "uf": "MG",
-  "ibge": "3122470"
+  "ibge": "3122470",
+  "latitude": "-17.2229054",
+  "longitude": "-42.591152"
 }

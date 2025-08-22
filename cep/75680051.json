@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caldas Novas",
   "uf": "GO",
-  "ibge": "5204508"
+  "ibge": "5204508",
+  "latitude": "-17.7446768",
+  "longitude": "-48.624647"
 }

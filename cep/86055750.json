@@ -5,5 +5,7 @@
   "bairro": "Vivendas do Arvoredo",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3514508",
+  "longitude": "-51.1885733"
 }

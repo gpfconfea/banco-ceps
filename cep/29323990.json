@@ -1,9 +1,11 @@
 {
   "cep": "29323990",
   "logradouro": "Rua Antero Soares Centro Pacotuba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cachoeiro de Itapemirim",
   "uf": "ES",
-  "ibge": "3201209"
+  "ibge": "3201209",
+  "latitude": "-20.6722939",
+  "longitude": "-41.2102009"
 }

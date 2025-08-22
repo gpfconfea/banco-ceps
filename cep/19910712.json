@@ -5,5 +5,7 @@
   "bairro": "Jardim Brilhante",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-22.9621476",
+  "longitude": "-49.896897"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Matipó",
   "uf": "MG",
-  "ibge": "3140902"
+  "ibge": "3140902",
+  "latitude": "-20.2867703",
+  "longitude": "-42.340461"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "latitude": "-29.8280388",
+  "longitude": "-51.1400618"
 }

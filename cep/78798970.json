@@ -1,9 +1,11 @@
 {
   "cep": "78798970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José do Planalto",
   "localidade": "Pedra Preta",
   "uf": "MT",
-  "ibge": "5106372"
+  "ibge": "5106372",
+  "latitude": "-16.3988496",
+  "longitude": "-44.1476343"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "97960990",
   "logradouro": "Av Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Sete de Setembro",
   "uf": "RS",
-  "ibge": "4320578"
+  "ibge": "4320578",
+  "latitude": "-28.1473891",
+  "longitude": "-54.4561033"
 }

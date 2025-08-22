@@ -6,5 +6,7 @@
   "bairro": "Residencial Nossa Senhora da Piedade",
   "localidade": "Roseira",
   "uf": "SP",
-  "ibge": "3544301"
+  "ibge": "3544301",
+  "latitude": "-22.8921883",
+  "longitude": "-45.2878382"
 }

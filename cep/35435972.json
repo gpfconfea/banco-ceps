@@ -1,9 +1,11 @@
 {
   "cep": "35435972",
   "logradouro": "Rua Antônio Luis Aleixo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rosário do Pontal",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.3485637",
+  "longitude": "-42.900837"
 }

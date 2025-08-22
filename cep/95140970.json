@@ -1,9 +1,11 @@
 {
   "cep": "95140970",
   "logradouro": "Praça Cordeiro de Farias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Seca",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "latitude": "-29.0676746",
+  "longitude": "-50.9752521"
 }

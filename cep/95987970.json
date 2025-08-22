@@ -1,9 +1,11 @@
 {
   "cep": "95987970",
   "logradouro": "Avenida São João",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cadorna",
   "localidade": "Nova Alvorada",
   "uf": "RS",
-  "ibge": "4312757"
+  "ibge": "4312757",
+  "latitude": "-28.6879951",
+  "longitude": "-52.1206723"
 }

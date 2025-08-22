@@ -5,5 +5,7 @@
   "bairro": "Jardim Amalia",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4134822",
+  "longitude": "-47.407484"
 }

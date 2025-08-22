@@ -1,9 +1,11 @@
 {
   "cep": "78106970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Vicente",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6177738",
+  "longitude": "-56.0043777"
 }

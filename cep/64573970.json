@@ -1,9 +1,11 @@
 {
   "cep": "64573970",
   "logradouro": "Avenida Pedro Martins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Massapê do Piauí",
   "uf": "PI",
-  "ibge": "2206050"
+  "ibge": "2206050",
+  "latitude": "-7.4695672",
+  "longitude": "-41.12335"
 }

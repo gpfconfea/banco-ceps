@@ -1,9 +1,11 @@
 {
   "cep": "78305970",
   "logradouro": "Avenida Carlos Tayano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Progresso",
   "localidade": "Tangará da Serra",
   "uf": "MT",
-  "ibge": "5107958"
+  "ibge": "5107958",
+  "latitude": "-14.6613156",
+  "longitude": "-57.3606228"
 }

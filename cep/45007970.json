@@ -1,9 +1,11 @@
 {
   "cep": "45007970",
   "logradouro": "Rua Belarmino Ribeiro Marinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa das Flores",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-14.8662224",
+  "longitude": "-40.8157332"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "74884900",
   "logradouro": "Avenida do Cerrado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Park Lozandes",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7035275",
+  "longitude": "-49.2280794"
 }

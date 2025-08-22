@@ -1,9 +1,11 @@
 {
   "cep": "49995970",
   "logradouro": "Praça Getulio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Brejo Grande",
   "uf": "SE",
-  "ibge": "2800704"
+  "ibge": "2800704",
+  "latitude": "-10.4673333",
+  "longitude": "-36.4804796"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64330959",
   "logradouro": "Rua Miguel Furtado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Miguel do Tapuio",
   "uf": "PI",
-  "ibge": "2210409"
+  "ibge": "2210409",
+  "latitude": "-5.5017203",
+  "longitude": "-41.3227838"
 }

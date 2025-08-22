@@ -5,5 +5,7 @@
   "bairro": "Villa Deifiore",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.8285545",
+  "longitude": "-49.3355899"
 }

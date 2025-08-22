@@ -5,5 +5,7 @@
   "bairro": "Brasília Paulista",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-22.4569253",
+  "longitude": "-49.2302628"
 }

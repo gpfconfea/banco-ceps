@@ -1,9 +1,11 @@
 {
   "cep": "85856970",
   "logradouro": "Avenida Tancredo Neves Bloco 2 Sala 1",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Itaipu",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.4752163",
+  "longitude": "-54.5850061"
 }

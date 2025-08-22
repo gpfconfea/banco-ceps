@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "latitude": "-3.6825288",
+  "longitude": "-40.3484803"
 }

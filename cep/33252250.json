@@ -6,5 +6,7 @@
   "bairro": "Eucaliptos",
   "localidade": "Pedro Leopoldo",
   "uf": "MG",
-  "ibge": "3149309"
+  "ibge": "3149309",
+  "latitude": "-19.5823185",
+  "longitude": "-44.0281431"
 }

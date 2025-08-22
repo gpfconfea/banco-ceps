@@ -1,9 +1,11 @@
 {
   "cep": "63643975",
   "logradouro": "Rua Monsenhor Galvão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Iapi",
   "localidade": "Independência",
   "uf": "CE",
-  "ibge": "2305605"
+  "ibge": "2305605",
+  "latitude": "-5.6935859",
+  "longitude": "-40.3483926"
 }

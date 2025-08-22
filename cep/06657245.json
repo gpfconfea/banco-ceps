@@ -5,5 +5,7 @@
   "bairro": "Jardim Jurema",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5528867",
+  "longitude": "-46.9359334"
 }

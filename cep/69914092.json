@@ -5,5 +5,7 @@
   "bairro": "Vilage Tiradentes",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-9.9722274",
+  "longitude": "-67.813989"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bacuri",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-29.1817425",
+  "longitude": "-51.1637832"
 }

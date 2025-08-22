@@ -5,5 +5,7 @@
   "bairro": "Trindade",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.5808701",
+  "longitude": "-48.5253692"
 }

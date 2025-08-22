@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3566785",
+  "longitude": "-40.3161023"
 }

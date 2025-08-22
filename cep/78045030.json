@@ -5,5 +5,7 @@
   "bairro": "Quilombo",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5831584",
+  "longitude": "-56.0949332"
 }

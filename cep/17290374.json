@@ -5,5 +5,7 @@
   "bairro": "Jardim Veneza",
   "localidade": "Macatuba",
   "uf": "SP",
-  "ibge": "3528007"
+  "ibge": "3528007",
+  "latitude": "-22.5083663",
+  "longitude": "-48.7095879"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63917975",
   "logradouro": "Rua Jacinto Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Riacho Verde",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.9689613",
+  "longitude": "-39.023982"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Rosário",
   "localidade": "Campos dos Goytacazes",
   "uf": "RJ",
-  "ibge": "3301009"
+  "ibge": "3301009",
+  "latitude": "-21.7741295",
+  "longitude": "-41.3242867"
 }

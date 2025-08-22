@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Forquilha",
   "uf": "CE",
-  "ibge": "2304350"
+  "ibge": "2304350",
+  "latitude": "-3.7977915",
+  "longitude": "-40.2594041"
 }

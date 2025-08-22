@@ -1,9 +1,11 @@
 {
   "cep": "49320973",
   "logradouro": "Rua Jackson de Figueiredo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Riachão do Dantas",
   "uf": "SE",
-  "ibge": "2805802"
+  "ibge": "2805802",
+  "latitude": "-11.1009752",
+  "longitude": "-37.8211069"
 }

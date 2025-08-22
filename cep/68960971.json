@@ -1,9 +1,11 @@
 {
   "cep": "68960971",
   "logradouro": "Vila Carnot",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Carnot",
   "localidade": "Calçoene",
   "uf": "AP",
-  "ibge": "1600204"
+  "ibge": "1600204",
+  "latitude": "2.6946056",
+  "longitude": "-51.3586964"
 }

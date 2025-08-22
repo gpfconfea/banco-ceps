@@ -5,5 +5,7 @@
   "bairro": "Jardim Sorocabana",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5408331",
+  "longitude": "-46.9577661"
 }

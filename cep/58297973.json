@@ -1,9 +1,11 @@
 {
   "cep": "58297973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Rio Tinto",
   "uf": "PB",
-  "ibge": "2512903"
+  "ibge": "2512903",
+  "latitude": "40.4871829",
+  "longitude": "-8.6478289"
 }

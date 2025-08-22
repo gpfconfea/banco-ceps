@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santana de Mangueira",
   "uf": "PB",
-  "ibge": "2513505"
+  "ibge": "2513505",
+  "latitude": "-7.5537249",
+  "longitude": "-38.3325973"
 }

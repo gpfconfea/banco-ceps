@@ -1,9 +1,11 @@
 {
   "cep": "68521959",
   "logradouro": "Avenida 13 de Maio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Vida",
   "localidade": "Brejo Grande do Araguaia",
   "uf": "PA",
-  "ibge": "1501758"
+  "ibge": "1501758",
+  "latitude": "-5.7043072",
+  "longitude": "-48.4057222"
 }

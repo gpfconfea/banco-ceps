@@ -5,5 +5,7 @@
   "bairro": "Residencial Camping do Bosque",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "latitude": "-22.5206958",
+  "longitude": "-41.95581"
 }

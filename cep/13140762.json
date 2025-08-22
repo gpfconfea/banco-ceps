@@ -5,5 +5,7 @@
   "bairro": "Morumbi",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "latitude": "-22.7722342",
+  "longitude": "-47.1396422"
 }

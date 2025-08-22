@@ -1,9 +1,11 @@
 {
   "cep": "11095906",
   "logradouro": "Rua Augusto Scaraboto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alemoa",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-23.9272032",
+  "longitude": "-46.362917"
 }

@@ -5,5 +5,7 @@
   "bairro": "João Morbidelli",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.8623816",
+  "longitude": "-46.3228593"
 }

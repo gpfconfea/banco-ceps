@@ -5,5 +5,7 @@
   "bairro": "Regina Amaral II",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8653185",
+  "longitude": "-44.9404337"
 }

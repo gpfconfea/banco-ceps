@@ -1,9 +1,11 @@
 {
   "cep": "36708970",
   "logradouro": "Rua José Furtado de Mendonça",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Piacatuba",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-21.4846938",
+  "longitude": "-42.7841755"
 }

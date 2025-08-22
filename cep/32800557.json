@@ -5,5 +5,7 @@
   "bairro": "Nova Esmeraldas",
   "localidade": "Esmeraldas",
   "uf": "MG",
-  "ibge": "3124104"
+  "ibge": "3124104",
+  "latitude": "-19.78233",
+  "longitude": "-44.3200802"
 }
