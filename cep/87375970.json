@@ -1,9 +1,11 @@
 {
   "cep": "87375970",
   "logradouro": "Avenida Padre Boleslau Sicz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paraná d'Oeste",
   "localidade": "Moreira Sales",
   "uf": "PR",
-  "ibge": "4116109"
+  "ibge": "4116109",
+  "latitude": "-24.1094259",
+  "longitude": "-52.8924181"
 }

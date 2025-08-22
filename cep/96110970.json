@@ -1,9 +1,11 @@
 {
   "cep": "96110970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Silvana",
   "localidade": "Pelotas",
   "uf": "RS",
-  "ibge": "4314407"
+  "ibge": "4314407",
+  "latitude": "-31.4226588",
+  "longitude": "-52.3081346"
 }

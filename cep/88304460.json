@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "latitude": "-26.8988749",
+  "longitude": "-48.6793743"
 }

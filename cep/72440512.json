@@ -5,5 +5,7 @@
   "bairro": "Setor Leste (Gama)",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-16.0175949",
+  "longitude": "-48.0449515"
 }

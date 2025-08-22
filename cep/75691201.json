@@ -5,5 +5,7 @@
   "bairro": "Residencial Recanto do Lago",
   "localidade": "Caldas Novas",
   "uf": "GO",
-  "ibge": "5204508"
+  "ibge": "5204508",
+  "latitude": "-17.745105",
+  "longitude": "-48.5828592"
 }

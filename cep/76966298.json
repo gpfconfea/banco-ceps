@@ -5,5 +5,7 @@
   "bairro": "Embratel",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "latitude": "-11.4319111",
+  "longitude": "-61.4548539"
 }

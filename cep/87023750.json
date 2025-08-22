@@ -5,5 +5,7 @@
   "bairro": "Jardim Copacabana",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3782376",
+  "longitude": "-51.9421775"
 }

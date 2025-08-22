@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Alto",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.3275388",
+  "longitude": "-46.9454139"
 }

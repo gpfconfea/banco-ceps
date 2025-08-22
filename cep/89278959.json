@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Corupá",
   "uf": "SC",
-  "ibge": "4204509"
+  "ibge": "4204509",
+  "latitude": "-26.4260748",
+  "longitude": "-49.2404482"
 }

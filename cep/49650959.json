@@ -1,9 +1,11 @@
 {
   "cep": "49650959",
   "logradouro": "Rua Rosário",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Divina Pastora",
   "uf": "SE",
-  "ibge": "2802007"
+  "ibge": "2802007",
+  "latitude": "-10.677746",
+  "longitude": "-37.1532476"
 }

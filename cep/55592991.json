@@ -1,9 +1,11 @@
 {
   "cep": "55592991",
   "logradouro": "Rua Projetada - Porto de Galinhas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.5071189",
+  "longitude": "-35.0102452"
 }

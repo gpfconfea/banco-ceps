@@ -5,5 +5,7 @@
   "bairro": "Vila Figueira",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5443351",
+  "longitude": "-46.306097"
 }

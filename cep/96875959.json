@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gramado Xavier",
   "uf": "RS",
-  "ibge": "4309159"
+  "ibge": "4309159",
+  "latitude": "-29.272204",
+  "longitude": "-52.5775732"
 }

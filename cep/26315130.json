@@ -5,5 +5,7 @@
   "bairro": "Belmonte",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.6986819",
+  "longitude": "-43.5637917"
 }

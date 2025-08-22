@@ -1,9 +1,11 @@
 {
   "cep": "64873959",
   "logradouro": "Rua São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Sebastião Leal",
   "uf": "PI",
-  "ibge": "2210631"
+  "ibge": "2210631",
+  "latitude": "-7.5679024",
+  "longitude": "-44.064002"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Casa de Pedra",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4506889",
+  "longitude": "-46.5990657"
 }

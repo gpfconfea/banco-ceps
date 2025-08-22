@@ -5,5 +5,7 @@
   "bairro": "Vila Souto",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.335943",
+  "longitude": "-49.1079184"
 }

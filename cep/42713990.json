@@ -1,9 +1,11 @@
 {
   "cep": "42713990",
   "logradouro": "Rua Cristovão B Pires - Portão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Lauro de Freitas",
   "uf": "BA",
-  "ibge": "2919207"
+  "ibge": "2919207",
+  "latitude": "-12.8644189",
+  "longitude": "-38.2985871"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Hamburguesa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5381589",
+  "longitude": "-46.7296071"
 }

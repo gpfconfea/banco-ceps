@@ -5,5 +5,7 @@
   "bairro": "Chácara Recanto Silvestre",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4446983",
+  "longitude": "-47.5261294"
 }

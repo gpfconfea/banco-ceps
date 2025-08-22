@@ -5,5 +5,7 @@
   "bairro": "Santa Margarida",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "latitude": "-21.7835163",
+  "longitude": "-46.6276161"
 }

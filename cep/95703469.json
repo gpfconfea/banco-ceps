@@ -5,5 +5,7 @@
   "bairro": "Eucaliptos",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-27.9086613",
+  "longitude": "-55.1384419"
 }

@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Populina",
   "uf": "SP",
-  "ibge": "3540408"
+  "ibge": "3540408",
+  "latitude": "-19.9455438",
+  "longitude": "-50.5391525"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68520959",
   "logradouro": "Travessa União",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Domingos do Araguaia",
   "uf": "PA",
-  "ibge": "1507151"
+  "ibge": "1507151",
+  "latitude": "-5.535734",
+  "longitude": "-48.7328806"
 }

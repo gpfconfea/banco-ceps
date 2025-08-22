@@ -5,5 +5,7 @@
   "bairro": "Jardim Olaria",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.4227124",
+  "longitude": "-45.1117268"
 }

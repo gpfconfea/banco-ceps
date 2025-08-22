@@ -1,9 +1,11 @@
 {
   "cep": "86842970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Altamira",
   "localidade": "Faxinal",
   "uf": "PR",
-  "ibge": "4107603"
+  "ibge": "4107603",
+  "latitude": "-24.0000319",
+  "longitude": "-51.31313"
 }

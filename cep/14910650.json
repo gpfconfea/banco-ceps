@@ -5,5 +5,7 @@
   "bairro": "Jardim Laranjeiras",
   "localidade": "Tabatinga",
   "uf": "SP",
-  "ibge": "3552700"
+  "ibge": "3552700",
+  "latitude": "-21.7375849",
+  "longitude": "-48.6839318"
 }

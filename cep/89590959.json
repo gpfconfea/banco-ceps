@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arroio Trinta",
   "uf": "SC",
-  "ibge": "4201604"
+  "ibge": "4201604",
+  "latitude": "-26.9324077",
+  "longitude": "-51.3365163"
 }

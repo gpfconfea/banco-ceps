@@ -5,5 +5,7 @@
   "bairro": "Jardim Olímpico",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4077315",
+  "longitude": "-51.9906646"
 }

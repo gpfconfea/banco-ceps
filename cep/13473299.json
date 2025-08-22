@@ -5,5 +5,7 @@
   "bairro": "Vila Margarida",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-23.5253843",
+  "longitude": "-46.6883516"
 }

@@ -5,5 +5,7 @@
   "bairro": "Alameda dos Sonhos",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5641332",
+  "longitude": "-44.234585"
 }

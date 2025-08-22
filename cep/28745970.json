@@ -1,9 +1,11 @@
 {
   "cep": "28745970",
   "logradouro": "Rua Poeta Antônio Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Macabuzinho",
   "localidade": "Conceição de Macabu",
   "uf": "RJ",
-  "ibge": "3301405"
+  "ibge": "3301405",
+  "latitude": "-22.08433",
+  "longitude": "-41.735273"
 }

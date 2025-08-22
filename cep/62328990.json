@@ -1,9 +1,11 @@
 {
   "cep": "62328990",
   "logradouro": "Rua Santa Lúzia,",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Tianguá",
   "uf": "CE",
-  "ibge": "2313401"
+  "ibge": "2313401",
+  "latitude": "-4.1547004",
+  "longitude": "-40.7673578"
 }

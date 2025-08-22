@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dona Emma",
   "uf": "SC",
-  "ibge": "4205100"
+  "ibge": "4205100",
+  "latitude": "-26.9859642",
+  "longitude": "-49.7239764"
 }

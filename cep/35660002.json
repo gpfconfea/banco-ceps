@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pará de Minas",
   "uf": "MG",
-  "ibge": "3147105"
+  "ibge": "3147105",
+  "latitude": "-19.863351",
+  "longitude": "-44.6080467"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78638970",
   "logradouro": "Rua Zélia Gattai",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Norte",
   "localidade": "Nova Nazaré",
   "uf": "MT",
-  "ibge": "5106174"
+  "ibge": "5106174",
+  "latitude": "-13.9884486",
+  "longitude": "-51.7985676"
 }

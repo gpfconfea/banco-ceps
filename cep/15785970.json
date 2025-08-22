@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Clara D'Oeste",
   "uf": "SP",
-  "ibge": "3546108"
+  "ibge": "3546108",
+  "latitude": "-20.0954363",
+  "longitude": "-50.9283331"
 }

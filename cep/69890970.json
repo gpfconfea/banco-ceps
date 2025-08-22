@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipixuna",
   "uf": "AM",
-  "ibge": "1301803"
+  "ibge": "1301803",
+  "latitude": "-7.0482812",
+  "longitude": "-71.6939881"
 }

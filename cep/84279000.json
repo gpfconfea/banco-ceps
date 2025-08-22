@@ -5,5 +5,7 @@
   "bairro": "Lagoa",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-24.2221149",
+  "longitude": "-50.5446841"
 }

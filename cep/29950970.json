@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaguaré",
   "uf": "ES",
-  "ibge": "3203056"
+  "ibge": "3203056",
+  "latitude": "-18.9098439",
+  "longitude": "-40.0757236"
 }

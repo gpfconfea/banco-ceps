@@ -1,9 +1,11 @@
 {
   "cep": "46745971",
   "logradouro": "Rua José Bruno Santana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bastião",
   "localidade": "Boninal",
   "uf": "BA",
-  "ibge": "2904001"
+  "ibge": "2904001",
+  "latitude": "-12.8191166",
+  "longitude": "-41.7208183"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "96228970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bojuru",
   "localidade": "São José do Norte",
   "uf": "RS",
-  "ibge": "4318507"
+  "ibge": "4318507",
+  "latitude": "-23.5714994",
+  "longitude": "-45.288404"
 }

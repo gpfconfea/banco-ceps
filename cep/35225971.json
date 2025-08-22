@@ -1,9 +1,11 @@
 {
   "cep": "35225971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aldeamento",
   "localidade": "Santa Rita do Itueto",
   "uf": "MG",
-  "ibge": "3159506"
+  "ibge": "3159506",
+  "latitude": "-19.3599749",
+  "longitude": "-41.3800703"
 }

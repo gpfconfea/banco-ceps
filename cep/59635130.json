@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus",
   "localidade": "Mossoró",
   "uf": "RN",
-  "ibge": "2408003"
+  "ibge": "2408003",
+  "latitude": "-15.6502725",
+  "longitude": "-56.0384501"
 }

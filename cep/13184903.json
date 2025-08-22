@@ -1,9 +1,11 @@
 {
   "cep": "13184903",
   "logradouro": "Rua Maria Pozza de Barros ",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim São Camilo",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "latitude": "-22.852913",
+  "longitude": "-47.2144961"
 }

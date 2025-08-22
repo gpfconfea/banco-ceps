@@ -6,5 +6,7 @@
   "bairro": "Nova Barroso",
   "localidade": "Barroso",
   "uf": "MG",
-  "ibge": "3105905"
+  "ibge": "3105905",
+  "latitude": "-21.1911202",
+  "longitude": "-43.9653705"
 }

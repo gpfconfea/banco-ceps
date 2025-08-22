@@ -1,9 +1,11 @@
 {
   "cep": "61752972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jacaúna",
   "localidade": "Aquiraz",
   "uf": "CE",
-  "ibge": "2301000"
+  "ibge": "2301000",
+  "latitude": "-3.9341002",
+  "longitude": "-38.3128218"
 }

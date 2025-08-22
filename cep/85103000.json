@@ -5,5 +5,7 @@
   "bairro": "Góis",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.4729486",
+  "longitude": "-51.2394478"
 }

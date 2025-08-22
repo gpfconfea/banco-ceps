@@ -6,5 +6,7 @@
   "bairro": "Dante",
   "localidade": "Canela",
   "uf": "RS",
-  "ibge": "4304408"
+  "ibge": "4304408",
+  "latitude": "-29.3764639",
+  "longitude": "-50.8389107"
 }

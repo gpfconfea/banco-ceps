@@ -5,5 +5,7 @@
   "bairro": "Registro",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.132789",
+  "longitude": "-45.3881644"
 }

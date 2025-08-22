@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Forquetinha",
   "uf": "RS",
-  "ibge": "4308433"
+  "ibge": "4308433",
+  "latitude": "-29.3829509",
+  "longitude": "-52.0954084"
 }

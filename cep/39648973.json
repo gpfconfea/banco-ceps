@@ -1,9 +1,11 @@
 {
   "cep": "39648973",
   "logradouro": "Rua do Ouro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Rita do Araçuaí",
   "localidade": "Chapada do Norte",
   "uf": "MG",
-  "ibge": "3116100"
+  "ibge": "3116100",
+  "latitude": "-17.0863391",
+  "longitude": "-42.5397896"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Rodrigo Salloum",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5141058",
+  "longitude": "-47.3757312"
 }

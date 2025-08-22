@@ -5,5 +5,7 @@
   "bairro": "Paranapiacaba",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.7727362",
+  "longitude": "-46.3652984"
 }

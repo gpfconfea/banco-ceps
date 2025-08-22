@@ -5,5 +5,7 @@
   "bairro": "Cafezal",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3708709",
+  "longitude": "-51.1610337"
 }

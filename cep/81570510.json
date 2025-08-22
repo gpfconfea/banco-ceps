@@ -5,5 +5,7 @@
   "bairro": "Uberaba",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "latitude": "-25.4863157",
+  "longitude": "-49.2245107"
 }

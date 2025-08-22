@@ -5,5 +5,7 @@
   "bairro": "Adhemar Garcia",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-26.3225669",
+  "longitude": "-48.8005333"
 }

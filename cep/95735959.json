@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Roca Sales",
   "uf": "RS",
-  "ibge": "4315800"
+  "ibge": "4315800",
+  "latitude": "-29.2838776",
+  "longitude": "-51.8694697"
 }

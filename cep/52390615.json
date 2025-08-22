@@ -5,5 +5,7 @@
   "bairro": "Passarinho",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-7.9889404",
+  "longitude": "-34.9271599"
 }

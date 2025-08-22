@@ -1,9 +1,11 @@
 {
   "cep": "62570970",
   "logradouro": "Rua Humaitá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bela Cruz",
   "uf": "CE",
-  "ibge": "2302305"
+  "ibge": "2302305",
+  "latitude": "-3.0614465",
+  "longitude": "-40.1648981"
 }

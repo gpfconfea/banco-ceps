@@ -1,9 +1,11 @@
 {
   "cep": "68639971",
   "logradouro": "Vila Nossa Senhora de Aparecida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nossa Senhora Aparecida",
   "localidade": "Goianésia do Pará",
   "uf": "PA",
-  "ibge": "1503093"
+  "ibge": "1503093",
+  "latitude": "-3.8349605",
+  "longitude": "-49.1023176"
 }
