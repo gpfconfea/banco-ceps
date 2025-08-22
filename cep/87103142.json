@@ -5,5 +5,7 @@
   "bairro": "Jardim Marajoara (Iguatemi)",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3663476",
+  "longitude": "-52.0682035"
 }

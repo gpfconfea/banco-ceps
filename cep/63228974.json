@@ -1,9 +1,11 @@
 {
   "cep": "63228974",
   "logradouro": "Rua da Glória",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Miguel Xavier",
   "localidade": "Caririaçu",
   "uf": "CE",
-  "ibge": "2303204"
+  "ibge": "2303204",
+  "latitude": "-7.1026244",
+  "longitude": "-39.1600575"
 }

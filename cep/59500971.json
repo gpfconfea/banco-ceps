@@ -1,9 +1,11 @@
 {
   "cep": "59500971",
   "logradouro": "Rua São João",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barreiras",
   "localidade": "Macau",
   "uf": "RN",
-  "ibge": "2407203"
+  "ibge": "2407203",
+  "latitude": "-5.0822368",
+  "longitude": "-36.4881995"
 }

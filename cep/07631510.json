@@ -5,5 +5,7 @@
   "bairro": "Rio Acima",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.3822033",
+  "longitude": "-46.6583814"
 }

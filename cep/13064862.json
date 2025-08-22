@@ -5,5 +5,7 @@
   "bairro": "Residencial Moradas do Valle",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.0288313",
+  "longitude": "-47.123579"
 }

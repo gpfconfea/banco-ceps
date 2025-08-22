@@ -5,5 +5,7 @@
   "bairro": "Ponta Grossa",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.1814768",
+  "longitude": "-51.1805914"
 }

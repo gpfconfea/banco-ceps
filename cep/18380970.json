@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeira",
   "uf": "SP",
-  "ibge": "3542800"
+  "ibge": "3542800",
+  "latitude": "-24.6563596",
+  "longitude": "-49.0032526"
 }

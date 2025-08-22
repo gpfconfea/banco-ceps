@@ -5,5 +5,7 @@
   "bairro": "Jardim Herculano",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.694852",
+  "longitude": "-46.756115"
 }

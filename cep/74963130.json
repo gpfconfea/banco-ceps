@@ -5,5 +5,7 @@
   "bairro": "Jardim Dom Bosco 2ª Etapa",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.8209486",
+  "longitude": "-49.354311"
 }

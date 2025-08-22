@@ -1,9 +1,11 @@
 {
   "cep": "55900974",
   "logradouro": "Rua da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Goiana",
   "uf": "PE",
-  "ibge": "2606200"
+  "ibge": "2606200",
+  "latitude": "-7.586451",
+  "longitude": "-34.8511159"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pau Brasil",
   "uf": "BA",
-  "ibge": "2923902"
+  "ibge": "2923902",
+  "latitude": "-15.4647588",
+  "longitude": "-39.6517764"
 }

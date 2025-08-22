@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tapiramutá",
   "uf": "BA",
-  "ibge": "2931301"
+  "ibge": "2931301",
+  "latitude": "-11.8464318",
+  "longitude": "-40.7946421"
 }

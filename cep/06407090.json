@@ -5,5 +5,7 @@
   "bairro": "Vila Universal",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.4996713",
+  "longitude": "-46.8892834"
 }

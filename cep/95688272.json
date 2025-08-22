@@ -5,5 +5,7 @@
   "bairro": "São Rafael",
   "localidade": "Canela",
   "uf": "RS",
-  "ibge": "4304408"
+  "ibge": "4304408",
+  "latitude": "-29.3410074",
+  "longitude": "-50.7935906"
 }

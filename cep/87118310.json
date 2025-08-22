@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Bertioga",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.4473971",
+  "longitude": "-51.8916596"
 }

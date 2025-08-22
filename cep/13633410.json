@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-22.023686",
+  "longitude": "-47.4295071"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro do Sul",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9334217",
+  "longitude": "-44.1618"
 }

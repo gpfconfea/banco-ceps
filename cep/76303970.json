@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Ceres",
   "uf": "GO",
-  "ibge": "5205406"
+  "ibge": "5205406",
+  "latitude": "-15.3067876",
+  "longitude": "-49.599333"
 }

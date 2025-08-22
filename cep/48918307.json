@@ -5,5 +5,7 @@
   "bairro": "Nova Juazeiro",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-7.2543034",
+  "longitude": "-39.3739648"
 }

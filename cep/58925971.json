@@ -1,9 +1,11 @@
 {
   "cep": "58925971",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Helena",
   "uf": "PB",
-  "ibge": "2513307"
+  "ibge": "2513307",
+  "latitude": "-23.5868319",
+  "longitude": "-46.4978991"
 }

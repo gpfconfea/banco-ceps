@@ -1,9 +1,11 @@
 {
   "cep": "37200900",
   "logradouro": "Rua Doutor Baker",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ignácio Valentin",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.2531242",
+  "longitude": "-44.9967777"
 }

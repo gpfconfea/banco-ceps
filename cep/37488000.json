@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Olímpio Noronha",
   "uf": "MG",
-  "ibge": "3145505"
+  "ibge": "3145505",
+  "latitude": "-22.067778",
+  "longitude": "-45.263889"
 }

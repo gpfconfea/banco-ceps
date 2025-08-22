@@ -1,9 +1,11 @@
 {
   "cep": "62720970",
   "logradouro": "Rua Padre José Laurindo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itatira",
   "uf": "CE",
-  "ibge": "2306603"
+  "ibge": "2306603",
+  "latitude": "-4.5307601",
+  "longitude": "-39.6239844"
 }

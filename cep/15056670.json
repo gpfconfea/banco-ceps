@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Parque da Liberdade VI",
   "localidade": "São José do Rio Preto",
   "uf": "SP",
-  "ibge": "3549805"
+  "ibge": "3549805",
+  "latitude": "-20.7756092",
+  "longitude": "-49.3385031"
 }

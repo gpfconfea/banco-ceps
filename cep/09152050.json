@@ -5,5 +5,7 @@
   "bairro": "Jardim Joaquim Eugênio de Lima",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.7481712",
+  "longitude": "-46.3478292"
 }

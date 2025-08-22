@@ -5,5 +5,7 @@
   "bairro": "Primeiro de Maio",
   "localidade": "Ouro Branco",
   "uf": "MG",
-  "ibge": "3145901"
+  "ibge": "3145901",
+  "latitude": "-20.5324258",
+  "longitude": "-43.7200551"
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial II",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-22.4972151",
+  "longitude": "-47.7782662"
 }

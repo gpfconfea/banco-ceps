@@ -1,9 +1,11 @@
 {
   "cep": "28225970",
   "logradouro": "Estrada da Água Preta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pipeiras",
   "localidade": "São João da Barra",
   "uf": "RJ",
-  "ibge": "3305000"
+  "ibge": "3305000",
+  "latitude": "-21.8746796",
+  "longitude": "-41.1025626"
 }

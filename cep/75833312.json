@@ -5,5 +5,7 @@
   "bairro": "Residencial Coqueiros",
   "localidade": "Mineiros",
   "uf": "GO",
-  "ibge": "5213103"
+  "ibge": "5213103",
+  "latitude": "-18.3863107",
+  "longitude": "-52.6842203"
 }

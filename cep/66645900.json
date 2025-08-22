@@ -1,9 +1,11 @@
 {
   "cep": "66645900",
   "logradouro": "Rodovia BR-316",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Castanheira",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-1.4005719",
+  "longitude": "-48.4344532"
 }

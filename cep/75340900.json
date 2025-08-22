@@ -1,9 +1,11 @@
 {
   "cep": "75340900",
   "logradouro": "Rodovia BR-153 Quilômetro 519,5",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Garavelo Sul II",
   "localidade": "Hidrolândia",
   "uf": "GO",
-  "ibge": "5209705"
+  "ibge": "5209705",
+  "latitude": "-16.966265",
+  "longitude": "-49.234125"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Scarpelli",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6766984",
+  "longitude": "-46.5461864"
 }

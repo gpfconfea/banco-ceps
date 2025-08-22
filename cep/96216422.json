@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial São Pedro",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-30.0681995",
+  "longitude": "-51.0674172"
 }

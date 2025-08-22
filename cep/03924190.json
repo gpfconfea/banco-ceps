@@ -5,5 +5,7 @@
   "bairro": "Parque dos Bancários",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "40.2543872",
+  "longitude": "-8.434623"
 }

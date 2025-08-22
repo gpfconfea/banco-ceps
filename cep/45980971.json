@@ -1,9 +1,11 @@
 {
   "cep": "45980971",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guarani",
   "localidade": "Prado",
   "uf": "BA",
-  "ibge": "2925501"
+  "ibge": "2925501",
+  "latitude": "-17.1072687",
+  "longitude": "-39.4469931"
 }

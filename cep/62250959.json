@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipu",
   "uf": "CE",
-  "ibge": "2305803"
+  "ibge": "2305803",
+  "latitude": "-4.3245342",
+  "longitude": "-40.7102807"
 }

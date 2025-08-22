@@ -5,5 +5,7 @@
   "bairro": "Vila Nova São Roque",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5248826",
+  "longitude": "-47.153231"
 }

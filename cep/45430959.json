@@ -1,9 +1,11 @@
 {
   "cep": "45430959",
   "logradouro": "Rua Major Antônio Bittencourt",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Taperoá",
   "uf": "BA",
-  "ibge": "2931202"
+  "ibge": "2931202",
+  "latitude": "-13.5357479",
+  "longitude": "-39.1001944"
 }

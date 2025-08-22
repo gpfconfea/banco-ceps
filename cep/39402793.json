@@ -5,5 +5,7 @@
   "bairro": "Camilo Prates",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7412102",
+  "longitude": "-43.818134"
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácaras Aeroporto",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-14.6305159",
+  "longitude": "-57.4777584"
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial II",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.1988667",
+  "longitude": "-47.3329973"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.495758",
+  "longitude": "-47.4357575"
 }

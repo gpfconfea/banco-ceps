@@ -5,5 +5,7 @@
   "bairro": "Cascalheira",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-30.1029964",
+  "longitude": "-51.1706286"
 }

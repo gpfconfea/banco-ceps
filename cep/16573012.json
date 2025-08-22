@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Nossa Senhora Aparecida",
   "localidade": "Guarantã",
   "uf": "SP",
-  "ibge": "3518107"
+  "ibge": "3518107",
+  "latitude": "-21.8884591",
+  "longitude": "-49.5882525"
 }

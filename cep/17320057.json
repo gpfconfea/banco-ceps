@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Mineiros do Tietê",
   "uf": "SP",
-  "ibge": "3529807"
+  "ibge": "3529807",
+  "latitude": "-22.4139266",
+  "longitude": "-48.4512082"
 }

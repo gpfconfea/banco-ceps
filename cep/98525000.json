@@ -5,5 +5,7 @@
   "bairro": "Capoeira Grande",
   "localidade": "Tenente Portela",
   "uf": "RS",
-  "ibge": "4321402"
+  "ibge": "4321402",
+  "latitude": "-27.371058",
+  "longitude": "-53.758484"
 }

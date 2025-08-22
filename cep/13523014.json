@@ -5,5 +5,7 @@
   "bairro": "Nova Aurora",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "latitude": "-21.208284",
+  "longitude": "-43.7526831"
 }

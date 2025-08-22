@@ -5,5 +5,7 @@
   "bairro": "Vila São Paulo",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "latitude": "-16.4715864",
+  "longitude": "-54.6315189"
 }

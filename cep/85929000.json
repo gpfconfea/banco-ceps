@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São Pedro do Iguaçu",
   "uf": "PR",
-  "ibge": "4125753"
+  "ibge": "4125753",
+  "latitude": "-24.9341766",
+  "longitude": "-53.8579529"
 }

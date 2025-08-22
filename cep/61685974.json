@@ -1,9 +1,11 @@
 {
   "cep": "61685974",
   "logradouro": "Rodovia Luís Nerys Nunes de Miranda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mirambé",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.8145097",
+  "longitude": "-38.6653391"
 }

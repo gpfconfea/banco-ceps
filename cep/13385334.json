@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Helena",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7961456",
+  "longitude": "-47.2943575"
 }

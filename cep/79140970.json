@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Alvorada do Sul",
   "uf": "MS",
-  "ibge": "5006002"
+  "ibge": "5006002",
+  "latitude": "-21.463242",
+  "longitude": "-54.3787161"
 }
