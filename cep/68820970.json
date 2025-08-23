@@ -1,9 +1,11 @@
 {
   "cep": "68820970",
   "logradouro": "Avenida das Acácias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Sebastião da Boa Vista",
   "uf": "PA",
-  "ibge": "1507706"
+  "ibge": "1507706",
+  "latitude": "-1.722763",
+  "longitude": "-49.5294209"
 }

@@ -5,5 +5,7 @@
   "bairro": "Berger",
   "localidade": "Caçador",
   "uf": "SC",
-  "ibge": "4203006"
+  "ibge": "4203006",
+  "latitude": "-26.790222",
+  "longitude": "-51.0225977"
 }

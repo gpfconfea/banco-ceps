@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araranguá",
   "uf": "SC",
-  "ibge": "4201406"
+  "ibge": "4201406",
+  "latitude": "-28.9307437",
+  "longitude": "-49.4798629"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Antônio de Pádua",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-19.8280846",
+  "longitude": "-43.9904866"
 }

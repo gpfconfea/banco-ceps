@@ -1,9 +1,11 @@
 {
   "cep": "62810990",
   "logradouro": "Rua da Praia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Icapuí",
   "uf": "CE",
-  "ibge": "2305357"
+  "ibge": "2305357",
+  "latitude": "-4.6498426",
+  "longitude": "-37.4738707"
 }

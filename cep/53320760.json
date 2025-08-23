@@ -5,5 +5,7 @@
   "bairro": "Bultrins",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-14.8448245",
+  "longitude": "-40.8506818"
 }

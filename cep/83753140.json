@@ -5,5 +5,7 @@
   "bairro": "Esplanada",
   "localidade": "Lapa",
   "uf": "PR",
-  "ibge": "4113205"
+  "ibge": "4113205",
+  "latitude": "-25.7532607",
+  "longitude": "-49.7255917"
 }

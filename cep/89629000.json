@@ -5,5 +5,7 @@
   "bairro": "Encruzilhada",
   "localidade": "Campos Novos",
   "uf": "SC",
-  "ibge": "4203600"
+  "ibge": "4203600",
+  "latitude": "-27.528947",
+  "longitude": "-51.3862384"
 }

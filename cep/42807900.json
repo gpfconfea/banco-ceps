@@ -1,9 +1,11 @@
 {
   "cep": "42807900",
   "logradouro": "Travessa das Almas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gleba C",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.7096133",
+  "longitude": "-38.3255196"
 }

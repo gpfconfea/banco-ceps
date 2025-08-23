@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-22.5244222",
+  "longitude": "-47.7634713"
 }

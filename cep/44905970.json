@@ -1,9 +1,11 @@
 {
   "cep": "44905970",
   "logradouro": "Rua Aurelino Galvão Dourado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Lapão",
   "uf": "BA",
-  "ibge": "2919157"
+  "ibge": "2919157",
+  "latitude": "-11.3835752",
+  "longitude": "-41.8324524"
 }

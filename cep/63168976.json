@@ -1,9 +1,11 @@
 {
   "cep": "63168976",
   "logradouro": "Rua São Francisco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Triunfo",
   "localidade": "Nova Olinda",
   "uf": "CE",
-  "ibge": "2309201"
+  "ibge": "2309201",
+  "latitude": "-7.0933391",
+  "longitude": "-39.735701"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "88840971",
   "logradouro": "Rua Luiz Cândido",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Rio América",
   "localidade": "Urussanga",
   "uf": "SC",
-  "ibge": "4219002"
+  "ibge": "4219002",
+  "latitude": "-28.5140238",
+  "longitude": "-49.3695077"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "56880971",
   "logradouro": "Rua Santa Madalena",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Iraguaçu",
   "localidade": "Triunfo",
   "uf": "PE",
-  "ibge": "2615706"
+  "ibge": "2615706",
+  "latitude": "-22.0229859",
+  "longitude": "-41.9445834"
 }

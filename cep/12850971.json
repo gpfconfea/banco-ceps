@@ -1,9 +1,11 @@
 {
   "cep": "12850971",
   "logradouro": "Rua Américo Carlos Nogueira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rancho Grande",
   "localidade": "Bananal",
   "uf": "SP",
-  "ibge": "3504909"
+  "ibge": "3504909",
+  "latitude": "-22.673371",
+  "longitude": "-44.1998924"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Quaresmeira II",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5468709",
+  "longitude": "-46.335077"
 }

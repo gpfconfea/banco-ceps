@@ -1,9 +1,11 @@
 {
   "cep": "45550991",
   "logradouro": "Avenida Landulfo Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ubatã",
   "uf": "BA",
-  "ibge": "2932309"
+  "ibge": "2932309",
+  "latitude": "-14.2112321",
+  "longitude": "-39.5251324"
 }

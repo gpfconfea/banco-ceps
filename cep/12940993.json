@@ -1,9 +1,11 @@
 {
   "cep": "12940993",
   "logradouro": "Estrada Luciano Rocha Peçanha - Bairro da Cachoeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.0981715",
+  "longitude": "-46.5177597"
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio Itamaraty",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.2087767",
+  "longitude": "-47.7987312"
 }

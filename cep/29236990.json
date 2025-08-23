@@ -1,9 +1,11 @@
 {
   "cep": "29236990",
   "logradouro": "Rua Damaceno Perira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Anchieta",
   "uf": "ES",
-  "ibge": "3200409"
+  "ibge": "3200409",
+  "latitude": "-20.6858597",
+  "longitude": "-40.677716"
 }

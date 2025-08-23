@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sentinela do Sul",
   "uf": "RS",
-  "ibge": "4320354"
+  "ibge": "4320354",
+  "latitude": "-30.6097867",
+  "longitude": "-51.5758896"
 }

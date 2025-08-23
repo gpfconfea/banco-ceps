@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pedro Canário",
   "uf": "ES",
-  "ibge": "3204054"
+  "ibge": "3204054",
+  "latitude": "-18.3001626",
+  "longitude": "-39.9570927"
 }

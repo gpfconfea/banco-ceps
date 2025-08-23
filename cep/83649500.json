@@ -5,5 +5,7 @@
   "bairro": "Retiro Grande",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4606022",
+  "longitude": "-49.5194931"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29345972",
   "logradouro": "Avenida Rubens Rangel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Praia Lagoa Funda",
   "localidade": "Marataízes",
   "uf": "ES",
-  "ibge": "3203320"
+  "ibge": "3203320",
+  "latitude": "-21.0344782",
+  "longitude": "-40.8183143"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Iolanda",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-26.4684092",
+  "longitude": "-52.0207862"
 }

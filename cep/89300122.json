@@ -5,5 +5,7 @@
   "bairro": "Vila Argentina",
   "localidade": "Mafra",
   "uf": "SC",
-  "ibge": "4210100"
+  "ibge": "4210100",
+  "latitude": "-26.1236907",
+  "longitude": "-49.7961397"
 }

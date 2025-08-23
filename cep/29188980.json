@@ -1,9 +1,11 @@
 {
   "cep": "29188980",
   "logradouro": "Rua Vicente Cotunda de Faria",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Timbuí",
   "localidade": "Fundão",
   "uf": "ES",
-  "ibge": "3202207"
+  "ibge": "3202207",
+  "latitude": "-20.0019345",
+  "longitude": "-40.4124245"
 }

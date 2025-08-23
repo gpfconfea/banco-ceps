@@ -5,5 +5,7 @@
   "bairro": "Jardim Club de Campo",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6689283",
+  "longitude": "-47.0743679"
 }

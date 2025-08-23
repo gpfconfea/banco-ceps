@@ -1,9 +1,11 @@
 {
   "cep": "44348970",
   "logradouro": "Praça Castro Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cabaceiras do Paraguaçu",
   "uf": "BA",
-  "ibge": "2904852"
+  "ibge": "2904852",
+  "latitude": "-12.5350955",
+  "longitude": "-39.1916329"
 }

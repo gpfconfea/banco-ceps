@@ -5,5 +5,7 @@
   "bairro": "Santa Maria Goretti",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-9.3455744",
+  "longitude": "-40.4809867"
 }

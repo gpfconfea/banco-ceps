@@ -1,9 +1,11 @@
 {
   "cep": "68445971",
   "logradouro": "Vila de Itupanema",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila dos Cabanos",
   "localidade": "Barcarena",
   "uf": "PA",
-  "ibge": "1501303"
+  "ibge": "1501303",
+  "latitude": "-1.5168434",
+  "longitude": "-48.705225"
 }

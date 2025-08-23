@@ -6,5 +6,7 @@
   "bairro": "Pinhal",
   "localidade": "Barra do Chapéu",
   "uf": "SP",
-  "ibge": "3505351"
+  "ibge": "3505351",
+  "latitude": "-24.475847",
+  "longitude": "-49.0266859"
 }

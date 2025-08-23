@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-26.928572",
+  "longitude": "-49.3653149"
 }

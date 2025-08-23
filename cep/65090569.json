@@ -5,5 +5,7 @@
   "bairro": "Nova República",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-21.551278",
+  "longitude": "-47.6976386"
 }

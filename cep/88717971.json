@@ -1,9 +1,11 @@
 {
   "cep": "88717971",
   "logradouro": "Rua São João Batista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito de Morro Grande",
   "localidade": "Sangão",
   "uf": "SC",
-  "ibge": "4215455"
+  "ibge": "4215455",
+  "latitude": "-28.6776037",
+  "longitude": "-49.1097853"
 }

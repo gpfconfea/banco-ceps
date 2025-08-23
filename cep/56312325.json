@@ -5,5 +5,7 @@
   "bairro": "São Gonçalo",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-9.3896935",
+  "longitude": "-40.5384389"
 }

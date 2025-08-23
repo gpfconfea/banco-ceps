@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional José Fiorili",
   "localidade": "Ipiguá",
   "uf": "SP",
-  "ibge": "3521150"
+  "ibge": "3521150",
+  "latitude": "-20.6586822",
+  "longitude": "-49.3851912"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São Tomaz",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7460556",
+  "longitude": "-49.2748847"
 }

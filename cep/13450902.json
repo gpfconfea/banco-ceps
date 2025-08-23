@@ -1,9 +1,11 @@
 {
   "cep": "13450902",
   "logradouro": "Praça Dona Carolina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Panambi",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "latitude": "-22.7551474",
+  "longitude": "-47.4262769"
 }

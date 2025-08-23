@@ -5,5 +5,7 @@
   "bairro": "Antônio Pereira",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.3006011",
+  "longitude": "-43.4829204"
 }

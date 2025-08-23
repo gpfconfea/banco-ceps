@@ -1,9 +1,11 @@
 {
   "cep": "28650971",
   "logradouro": "Rua José Ribeiro Serafim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Fazenda do Campo",
   "localidade": "Duas Barras",
   "uf": "RJ",
-  "ibge": "3301603"
+  "ibge": "3301603",
+  "latitude": "-22.0708122",
+  "longitude": "-42.5117238"
 }

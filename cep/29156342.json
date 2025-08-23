@@ -5,5 +5,7 @@
   "bairro": "Prolar",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-20.2532247",
+  "longitude": "-40.4286596"
 }

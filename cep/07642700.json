@@ -5,5 +5,7 @@
   "bairro": "Invernada",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.3476091",
+  "longitude": "-46.5018561"
 }

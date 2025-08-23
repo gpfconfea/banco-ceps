@@ -5,5 +5,7 @@
   "bairro": "Residencial Alto do Lago",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.6107269",
+  "longitude": "-47.4238885"
 }

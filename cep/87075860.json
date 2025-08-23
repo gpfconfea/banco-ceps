@@ -5,5 +5,7 @@
   "bairro": "Jardim Três Lagoas",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3892755",
+  "longitude": "-51.9709686"
 }

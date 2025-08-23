@@ -5,5 +5,7 @@
   "bairro": "Dutra",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "latitude": "-29.3635576",
+  "longitude": "-50.8747664"
 }
