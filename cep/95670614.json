@@ -6,5 +6,7 @@
   "bairro": "Avenida Central",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "latitude": "-29.3673862",
+  "longitude": "-50.8644976"
 }

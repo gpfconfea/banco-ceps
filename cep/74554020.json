@@ -5,5 +5,7 @@
   "bairro": "Vila Fernandes",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.2956385",
+  "longitude": "-48.9498505"
 }

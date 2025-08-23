@@ -5,5 +5,7 @@
   "bairro": "Cachoeira",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "latitude": "-23.9813109",
+  "longitude": "-46.2642383"
 }

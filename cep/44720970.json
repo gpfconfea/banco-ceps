@@ -1,9 +1,11 @@
 {
   "cep": "44720970",
   "logradouro": "Praça José Severo Costa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Miguel Calmon",
   "uf": "BA",
-  "ibge": "2921203"
+  "ibge": "2921203",
+  "latitude": "-11.4303262",
+  "longitude": "-40.6034524"
 }

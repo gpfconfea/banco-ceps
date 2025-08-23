@@ -1,9 +1,11 @@
 {
   "cep": "19470990",
   "logradouro": "Estrada Vicinal para Caiuá, Lagoinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Presidente Epitácio",
   "uf": "SP",
-  "ibge": "3541307"
+  "ibge": "3541307",
+  "latitude": "-21.8308835",
+  "longitude": "-51.9882438"
 }

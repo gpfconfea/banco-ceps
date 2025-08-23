@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piracema",
   "uf": "MG",
-  "ibge": "3150604"
+  "ibge": "3150604",
+  "latitude": "-20.5087774",
+  "longitude": "-44.4810223"
 }

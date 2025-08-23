@@ -5,5 +5,7 @@
   "bairro": "Morada Nova",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.9867577",
+  "longitude": "-48.3680898"
 }

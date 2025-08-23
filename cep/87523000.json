@@ -5,5 +5,7 @@
   "bairro": "Três Placas",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.56029",
+  "longitude": "-52.742656"
 }

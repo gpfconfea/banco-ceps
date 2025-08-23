@@ -1,9 +1,11 @@
 {
   "cep": "68383900",
   "logradouro": "Rodovia BR-230 Quilômetro 55",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Belo Monte",
   "localidade": "Vitória do Xingu",
   "uf": "PA",
-  "ibge": "1508357"
+  "ibge": "1508357",
+  "latitude": "-5.2585346",
+  "longitude": "-49.3248959"
 }

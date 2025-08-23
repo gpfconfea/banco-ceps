@@ -1,9 +1,11 @@
 {
   "cep": "23970993",
   "logradouro": "Rua Sertao do Taquari Taquari",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Paraty",
   "uf": "RJ",
-  "ibge": "3303807"
+  "ibge": "3303807",
+  "latitude": "-23.0477694",
+  "longitude": "-44.6849543"
 }

@@ -5,5 +5,7 @@
   "bairro": "Florópolis",
   "localidade": "Paranacity",
   "uf": "PR",
-  "ibge": "4118105"
+  "ibge": "4118105",
+  "latitude": "-22.7524927",
+  "longitude": "-52.136721"
 }

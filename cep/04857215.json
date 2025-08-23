@@ -5,5 +5,7 @@
   "bairro": "Jardim Marilda",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5227193",
+  "longitude": "-46.4618576"
 }

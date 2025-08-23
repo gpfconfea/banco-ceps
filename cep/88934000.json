@@ -5,5 +5,7 @@
   "bairro": "Morro Chato",
   "localidade": "Turvo",
   "uf": "SC",
-  "ibge": "4218806"
+  "ibge": "4218806",
+  "latitude": "-28.842948",
+  "longitude": "-49.7110638"
 }

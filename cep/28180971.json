@@ -1,9 +1,11 @@
 {
   "cep": "28180971",
   "logradouro": "Estrada Doutor Matos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Doutor Matos",
   "localidade": "Cardoso Moreira",
   "uf": "RJ",
-  "ibge": "3301157"
+  "ibge": "3301157",
+  "latitude": "-21.4624239",
+  "longitude": "-41.5821416"
 }

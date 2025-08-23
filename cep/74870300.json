@@ -5,5 +5,7 @@
   "bairro": "Conjunto Fabiana",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7300887",
+  "longitude": "-49.2171847"
 }

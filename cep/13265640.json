@@ -6,5 +6,7 @@
   "bairro": "Residencial Santa Luz",
   "localidade": "Morungaba",
   "uf": "SP",
-  "ibge": "3532009"
+  "ibge": "3532009",
+  "latitude": "-22.8684833",
+  "longitude": "-46.8010695"
 }

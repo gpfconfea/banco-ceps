@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Borborema",
   "uf": "SP",
-  "ibge": "3507407"
+  "ibge": "3507407",
+  "latitude": "-21.6231213",
+  "longitude": "-49.0756277"
 }

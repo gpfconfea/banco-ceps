@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Rica",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "46.141848",
+  "longitude": "-0.899707"
 }

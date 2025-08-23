@@ -5,5 +5,7 @@
   "bairro": "Condominio Residencial Bernardino Pucci",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5120505",
+  "longitude": "-47.4126363"
 }

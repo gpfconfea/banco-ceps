@@ -1,9 +1,11 @@
 {
   "cep": "54505909",
   "logradouro": "Rua Pedro Celso Uchôa Cavalcante",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "latitude": "-8.2891324",
+  "longitude": "-35.0378609"
 }

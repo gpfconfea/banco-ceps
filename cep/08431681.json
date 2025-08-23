@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Guaianazes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5388964",
+  "longitude": "-46.4173506"
 }

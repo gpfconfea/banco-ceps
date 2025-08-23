@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapoã",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "latitude": "-23.4169816",
+  "longitude": "-46.8981317"
 }

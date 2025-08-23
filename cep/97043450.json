@@ -5,5 +5,7 @@
   "bairro": "Salgado Filho",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "latitude": "-29.6712879",
+  "longitude": "-53.8249231"
 }

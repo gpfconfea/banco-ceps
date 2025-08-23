@@ -5,5 +5,7 @@
   "bairro": "Vila Rossini",
   "localidade": "Tabatinga",
   "uf": "SP",
-  "ibge": "3552700"
+  "ibge": "3552700",
+  "latitude": "-21.7401838",
+  "longitude": "-48.6849949"
 }

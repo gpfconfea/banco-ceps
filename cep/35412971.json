@@ -1,9 +1,11 @@
 {
   "cep": "35412971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Amarantina",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.2882169",
+  "longitude": "-43.7100677"
 }

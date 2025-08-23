@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.8477956",
+  "longitude": "-46.3194002"
 }

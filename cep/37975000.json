@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaú de Minas",
   "uf": "MG",
-  "ibge": "3133758"
+  "ibge": "3133758",
+  "latitude": "-20.739722",
+  "longitude": "-46.752222"
 }

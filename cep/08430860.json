@@ -5,5 +5,7 @@
   "bairro": "Jardim Moreno",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5334368",
+  "longitude": "-46.4227725"
 }

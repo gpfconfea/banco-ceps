@@ -6,5 +6,7 @@
   "bairro": "Setor dos Funcionários",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-17.8321417",
+  "longitude": "-50.929578"
 }

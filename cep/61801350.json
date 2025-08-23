@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pacatuba",
   "uf": "CE",
-  "ibge": "2309706"
+  "ibge": "2309706",
+  "latitude": "-3.9775862",
+  "longitude": "-38.6106138"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "56200971",
   "logradouro": "Avenida Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dsitrito de Barra de São Pedro",
   "localidade": "Ouricuri",
   "uf": "PE",
-  "ibge": "2609907"
+  "ibge": "2609907",
+  "latitude": "-7.8824314",
+  "longitude": "-40.0730619"
 }

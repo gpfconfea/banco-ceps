@@ -1,9 +1,11 @@
 {
   "cep": "45550959",
   "logradouro": "Rua Ministro Barros Barreto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ubatã",
   "uf": "BA",
-  "ibge": "2932309"
+  "ibge": "2932309",
+  "latitude": "-14.2131987",
+  "longitude": "-39.523475"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "28230985",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Floresta",
   "localidade": "São Francisco de Itabapoana",
   "uf": "RJ",
-  "ibge": "3304755"
+  "ibge": "3304755",
+  "latitude": "-21.5077571",
+  "longitude": "-41.074138"
 }

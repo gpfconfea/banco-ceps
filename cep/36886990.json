@@ -1,9 +1,11 @@
 {
   "cep": "36886990",
   "logradouro": "Avenida Hormindo Rodrigues, Franco Suiço",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "latitude": "-21.1324137",
+  "longitude": "-42.3646999"
 }

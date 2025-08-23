@@ -1,9 +1,11 @@
 {
   "cep": "38790972",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Gonçalo do Abaeté",
   "uf": "MG",
-  "ibge": "3161700"
+  "ibge": "3161700",
+  "latitude": "-18.3401701",
+  "longitude": "-45.8318041"
 }

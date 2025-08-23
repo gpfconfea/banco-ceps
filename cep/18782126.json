@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Antônio",
   "localidade": "Manduri",
   "uf": "SP",
-  "ibge": "3528601"
+  "ibge": "3528601",
+  "latitude": "-23.0001095",
+  "longitude": "-49.3274277"
 }

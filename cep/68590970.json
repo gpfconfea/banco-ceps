@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jacundá",
   "uf": "PA",
-  "ibge": "1503804"
+  "ibge": "1503804",
+  "latitude": "-4.4477131",
+  "longitude": "-49.1164297"
 }

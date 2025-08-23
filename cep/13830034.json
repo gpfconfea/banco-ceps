@@ -5,5 +5,7 @@
   "bairro": "Vila Bianchi",
   "localidade": "Santo Antônio de Posse",
   "uf": "SP",
-  "ibge": "3548005"
+  "ibge": "3548005",
+  "latitude": "-22.6044198",
+  "longitude": "-46.9245887"
 }

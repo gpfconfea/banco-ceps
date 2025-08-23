@@ -5,5 +5,7 @@
   "bairro": "Parque América",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7336512",
+  "longitude": "-46.69278"
 }

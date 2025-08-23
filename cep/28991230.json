@@ -5,5 +5,7 @@
   "bairro": "Porto Novo",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "latitude": "-22.927064",
+  "longitude": "-42.484594"
 }

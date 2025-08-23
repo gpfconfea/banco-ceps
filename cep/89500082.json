@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caçador",
   "uf": "SC",
-  "ibge": "4203006"
+  "ibge": "4203006",
+  "latitude": "-26.7753585",
+  "longitude": "-51.0156798"
 }

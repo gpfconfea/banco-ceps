@@ -5,5 +5,7 @@
   "bairro": "Cardoso",
   "localidade": "Urucânia",
   "uf": "MG",
-  "ibge": "3170503"
+  "ibge": "3170503",
+  "latitude": "-20.3442446",
+  "longitude": "-42.7758688"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "57968970",
   "logradouro": "Rua Epitácio Pessoa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Campestre",
   "uf": "AL",
-  "ibge": "2701357"
+  "ibge": "2701357",
+  "latitude": "-8.8495237",
+  "longitude": "-35.5667269"
 }

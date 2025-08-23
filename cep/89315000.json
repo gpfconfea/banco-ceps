@@ -5,5 +5,7 @@
   "bairro": "Rio Preto do Sul",
   "localidade": "Mafra",
   "uf": "SC",
-  "ibge": "4210100"
+  "ibge": "4210100",
+  "latitude": "-26.219764",
+  "longitude": "-49.613522"
 }

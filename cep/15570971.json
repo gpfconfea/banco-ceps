@@ -5,5 +5,7 @@
   "bairro": "Vila Alves",
   "localidade": "Cardoso",
   "uf": "SP",
-  "ibge": "3510708"
+  "ibge": "3510708",
+  "latitude": "-19.9983287",
+  "longitude": "-44.0089626"
 }

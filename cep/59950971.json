@@ -1,9 +1,11 @@
 {
   "cep": "59950971",
   "logradouro": "Avenida Luiz pinto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Caiçara",
   "localidade": "Paraná",
   "uf": "RN",
-  "ibge": "2408607"
+  "ibge": "2408607",
+  "latitude": "-6.4616269",
+  "longitude": "-38.2602321"
 }

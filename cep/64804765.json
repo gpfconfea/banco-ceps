@@ -5,5 +5,7 @@
   "bairro": "Canoas",
   "localidade": "Floriano",
   "uf": "PI",
-  "ibge": "2203909"
+  "ibge": "2203909",
+  "latitude": "-23.564751",
+  "longitude": "-47.5764817"
 }

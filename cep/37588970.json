@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipuiúna",
   "uf": "MG",
-  "ibge": "3131505"
+  "ibge": "3131505",
+  "latitude": "-22.095182",
+  "longitude": "-46.195135"
 }

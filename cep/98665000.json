@@ -5,5 +5,7 @@
   "bairro": "Vista Nova",
   "localidade": "Crissiumal",
   "uf": "RS",
-  "ibge": "4306007"
+  "ibge": "4306007",
+  "latitude": "-27.5406344",
+  "longitude": "-54.0372649"
 }

@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Carandaí",
   "uf": "MG",
-  "ibge": "3113206"
+  "ibge": "3113206",
+  "latitude": "-20.951046",
+  "longitude": "-43.7995311"
 }

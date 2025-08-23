@@ -1,9 +1,11 @@
 {
   "cep": "96172971",
   "logradouro": "Estrada Bom Jesus",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bom Jesus",
   "localidade": "Harmonia",
   "uf": "RS",
-  "ibge": "4309555"
+  "ibge": "4309555",
+  "latitude": "-31.3270245",
+  "longitude": "-52.2794456"
 }

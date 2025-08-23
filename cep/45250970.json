@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boa Nova",
   "uf": "BA",
-  "ibge": "2903706"
+  "ibge": "2903706",
+  "latitude": "-14.3652818",
+  "longitude": "-40.207972"
 }

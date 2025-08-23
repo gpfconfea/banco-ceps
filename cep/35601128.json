@@ -6,5 +6,7 @@
   "bairro": "Planalto II",
   "localidade": "Arcos",
   "uf": "MG",
-  "ibge": "3104205"
+  "ibge": "3104205",
+  "latitude": "-20.2786146",
+  "longitude": "-45.5553298"
 }

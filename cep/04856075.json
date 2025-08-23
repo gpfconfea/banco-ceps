@@ -5,5 +5,7 @@
   "bairro": "Jardim Myrna",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7817262",
+  "longitude": "-45.6273887"
 }
