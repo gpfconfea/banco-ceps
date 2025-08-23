@@ -5,5 +5,7 @@
   "bairro": "Vila Irineu",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.542138",
+  "longitude": "-47.4296491"
 }

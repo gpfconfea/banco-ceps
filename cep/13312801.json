@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Potiguara",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2597664",
+  "longitude": "-47.3576775"
 }

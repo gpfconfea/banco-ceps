@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Luzia",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-22.9415604",
+  "longitude": "-45.3888561"
 }

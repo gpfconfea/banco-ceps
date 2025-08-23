@@ -5,5 +5,7 @@
   "bairro": "Vila Militar",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5165483",
+  "longitude": "-46.8741366"
 }

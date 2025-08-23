@@ -1,9 +1,11 @@
 {
   "cep": "39813971",
   "logradouro": "Rua dos Violões",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Maranhão",
   "localidade": "Caraí",
   "uf": "MG",
-  "ibge": "3113008"
+  "ibge": "3113008",
+  "latitude": "-17.2485665",
+  "longitude": "-41.371348"
 }

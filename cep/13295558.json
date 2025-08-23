@@ -5,5 +5,7 @@
   "bairro": "Jardim Ana Luiza",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.1565727",
+  "longitude": "-47.0423344"
 }

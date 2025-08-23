@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Santa Maria",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5295385",
+  "longitude": "-47.4411212"
 }

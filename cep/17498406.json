@@ -5,5 +5,7 @@
   "bairro": "Jardim Panorama",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-22.4146572",
+  "longitude": "-49.1298016"
 }

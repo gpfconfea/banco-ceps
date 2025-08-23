@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Mundo Novo",
   "uf": "GO",
-  "ibge": "5214051"
+  "ibge": "5214051",
+  "latitude": "-19.2135676",
+  "longitude": "-49.7819794"
 }

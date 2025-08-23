@@ -1,9 +1,11 @@
 {
   "cep": "16052901",
   "logradouro": "Rodovia Olegário Ferraz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aeroporto",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-21.1441615",
+  "longitude": "-50.430132"
 }

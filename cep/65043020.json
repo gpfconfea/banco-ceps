@@ -5,5 +5,7 @@
   "bairro": "Filipinho",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5552419",
+  "longitude": "-44.2625823"
 }

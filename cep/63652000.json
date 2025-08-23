@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Quiterianópolis",
   "uf": "CE",
-  "ibge": "2311264"
+  "ibge": "2311264",
+  "latitude": "-5.715046",
+  "longitude": "-40.738346"
 }

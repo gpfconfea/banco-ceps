@@ -1,9 +1,11 @@
 {
   "cep": "68902959",
   "logradouro": "Rua Jovino Dinoá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Beirol",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0123945",
+  "longitude": "-51.0617551"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Jequitibá",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.3386803",
+  "longitude": "-46.07152"
 }

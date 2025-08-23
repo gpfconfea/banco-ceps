@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Miguel do Oeste",
   "uf": "SC",
-  "ibge": "4217204"
+  "ibge": "4217204",
+  "latitude": "-26.7357755",
+  "longitude": "-53.5169556"
 }

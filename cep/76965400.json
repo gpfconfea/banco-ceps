@@ -5,5 +5,7 @@
   "bairro": "Alpha Parque",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "latitude": "-11.4270344",
+  "longitude": "-61.4184097"
 }

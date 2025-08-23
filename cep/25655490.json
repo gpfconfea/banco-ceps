@@ -5,5 +5,7 @@
   "bairro": "Valparaíso",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "latitude": "-22.5247699",
+  "longitude": "-43.1948649"
 }

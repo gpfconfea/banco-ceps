@@ -5,5 +5,7 @@
   "bairro": "Saúde",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-21.9762869",
+  "longitude": "-45.3552558"
 }

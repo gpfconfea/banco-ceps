@@ -5,5 +5,7 @@
   "bairro": "Divino",
   "localidade": "Planalto",
   "uf": "RS",
-  "ibge": "4314704"
+  "ibge": "4314704",
+  "latitude": "-21.0336277",
+  "longitude": "-49.9284517"
 }

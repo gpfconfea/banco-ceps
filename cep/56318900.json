@@ -1,9 +1,11 @@
 {
   "cep": "56318900",
   "logradouro": "Avenida Sete de Setembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ouro Preto",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-9.3812523",
+  "longitude": "-40.5126811"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-29.2218733",
+  "longitude": "-51.3491214"
 }

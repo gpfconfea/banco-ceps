@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Pedra Alta (Sousas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.4960479",
+  "longitude": "-46.888722"
 }

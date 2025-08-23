@@ -5,5 +5,7 @@
   "bairro": "Bairro do Grama",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.1054869",
+  "longitude": "-45.684557"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68380971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila de Nereu",
   "localidade": "São Félix do Xingu",
   "uf": "PA",
-  "ibge": "1507300"
+  "ibge": "1507300",
+  "latitude": "-9.4510259",
+  "longitude": "-51.1734566"
 }

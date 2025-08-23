@@ -6,5 +6,7 @@
   "bairro": "Moradia do Sol",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.1614244",
+  "longitude": "-47.0569299"
 }

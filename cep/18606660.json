@@ -5,5 +5,7 @@
   "bairro": "Jardim Riviera",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.9207293",
+  "longitude": "-48.4695022"
 }

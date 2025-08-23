@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pocrane",
   "uf": "MG",
-  "ibge": "3151909"
+  "ibge": "3151909",
+  "latitude": "-19.619633",
+  "longitude": "-41.636898"
 }

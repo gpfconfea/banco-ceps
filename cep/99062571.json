@@ -5,5 +5,7 @@
   "bairro": "Planaltina",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "latitude": "-28.2846663",
+  "longitude": "-52.3889212"
 }

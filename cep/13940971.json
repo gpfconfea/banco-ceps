@@ -5,5 +5,7 @@
   "bairro": "Pimentéis",
   "localidade": "Águas de Lindóia",
   "uf": "SP",
-  "ibge": "3500501"
+  "ibge": "3500501",
+  "latitude": "-22.4826283",
+  "longitude": "-46.5948857"
 }

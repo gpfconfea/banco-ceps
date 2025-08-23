@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Veccon",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "latitude": "-22.8379706",
+  "longitude": "-47.259249"
 }

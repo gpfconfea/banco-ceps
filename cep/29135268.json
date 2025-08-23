@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "latitude": "-20.3518843",
+  "longitude": "-40.4232174"
 }

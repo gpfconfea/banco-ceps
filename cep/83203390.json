@@ -5,5 +5,7 @@
   "bairro": "Oceania",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.5127364",
+  "longitude": "-48.5039648"
 }

@@ -6,5 +6,7 @@
   "bairro": "Rosário",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.3849798",
+  "longitude": "-43.5098394"
 }

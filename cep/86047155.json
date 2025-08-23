@@ -5,5 +5,7 @@
   "bairro": "Tucano",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3478122",
+  "longitude": "-51.1560188"
 }

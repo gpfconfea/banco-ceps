@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Ituiutaba",
   "uf": "MG",
-  "ibge": "3134202"
+  "ibge": "3134202",
+  "latitude": "-18.695345",
+  "longitude": "-49.5768478"
 }

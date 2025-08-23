@@ -5,5 +5,7 @@
   "bairro": "Jardim São Domingos",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-23.549865",
+  "longitude": "-46.6340205"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "61616992",
   "logradouro": "BR-222 Km 19",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.7412731",
+  "longitude": "-38.6037648"
 }

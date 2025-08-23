@@ -1,9 +1,11 @@
 {
   "cep": "55182970",
   "logradouro": "Rua São Joao",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Jundia",
   "localidade": "Jataúba",
   "uf": "PE",
-  "ibge": "2608008"
+  "ibge": "2608008",
+  "latitude": "-7.9889544",
+  "longitude": "-36.5831094"
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácara Santa Etelvina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7306848",
+  "longitude": "-46.575039"
 }

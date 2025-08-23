@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeirão",
   "uf": "PE",
-  "ibge": "2611804"
+  "ibge": "2611804",
+  "latitude": "-8.5112157",
+  "longitude": "-35.375482"
 }

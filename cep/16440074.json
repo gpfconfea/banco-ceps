@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Henrique Bertin",
   "localidade": "Sabino",
   "uf": "SP",
-  "ibge": "3544608"
+  "ibge": "3544608",
+  "latitude": "-21.4621065",
+  "longitude": "-49.5736286"
 }

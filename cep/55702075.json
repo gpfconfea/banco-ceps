@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Limoeiro",
   "uf": "PE",
-  "ibge": "2608909"
+  "ibge": "2608909",
+  "latitude": "-7.8785362",
+  "longitude": "-35.4513324"
 }

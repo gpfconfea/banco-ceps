@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Teixeiras",
   "uf": "MG",
-  "ibge": "3168507"
+  "ibge": "3168507",
+  "latitude": "-20.6505731",
+  "longitude": "-42.8587694"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "74905980",
   "logradouro": "Avenida São Paulo Bloco B",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Brasília",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.732088",
+  "longitude": "-49.2613242"
 }

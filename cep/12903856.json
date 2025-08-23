@@ -5,5 +5,7 @@
   "bairro": "Loteamento Vila Romana",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-23.0865617",
+  "longitude": "-46.7127795"
 }

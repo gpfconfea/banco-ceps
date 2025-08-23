@@ -5,5 +5,7 @@
   "bairro": "Vila Condé",
   "localidade": "Congonhas",
   "uf": "MG",
-  "ibge": "3118007"
+  "ibge": "3118007",
+  "latitude": "-20.525305",
+  "longitude": "-43.826758"
 }

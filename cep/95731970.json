@@ -1,9 +1,11 @@
 {
   "cep": "95731970",
   "logradouro": "Avenida Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Francesa Alta",
   "localidade": "Barão",
   "uf": "RS",
-  "ibge": "4301651"
+  "ibge": "4301651",
+  "latitude": "-29.4037579",
+  "longitude": "-51.4256195"
 }

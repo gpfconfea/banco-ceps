@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campo Grande",
   "uf": "AL",
-  "ibge": "2701506"
+  "ibge": "2701506",
+  "latitude": "-9.955423",
+  "longitude": "-36.792608"
 }

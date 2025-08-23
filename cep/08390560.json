@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo André",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.5780866",
+  "longitude": "-44.9450949"
 }

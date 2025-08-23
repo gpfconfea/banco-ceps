@@ -5,5 +5,7 @@
   "bairro": "Planalto",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-22.0865846",
+  "longitude": "-43.8297431"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Santana",
   "localidade": "Bocaina",
   "uf": "SP",
-  "ibge": "3506805"
+  "ibge": "3506805",
+  "latitude": "-22.1315531",
+  "longitude": "-48.5206793"
 }

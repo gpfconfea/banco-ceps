@@ -1,9 +1,11 @@
 {
   "cep": "89375970",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Cultura",
   "localidade": "Papanduva",
   "uf": "SC",
-  "ibge": "4212205"
+  "ibge": "4212205",
+  "latitude": "-27.0660343",
+  "longitude": "-49.8322284"
 }
