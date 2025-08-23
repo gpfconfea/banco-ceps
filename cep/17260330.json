@@ -5,5 +5,7 @@
   "bairro": "Jardim Vista Alegre",
   "localidade": "Itaju",
   "uf": "SP",
-  "ibge": "3522000"
+  "ibge": "3522000",
+  "latitude": "-21.9801198",
+  "longitude": "-48.8076989"
 }

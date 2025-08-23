@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Aeroporto",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "latitude": "31.6903638",
+  "longitude": "-106.4245478"
 }

@@ -5,5 +5,7 @@
   "bairro": "Colorado",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.4947041",
+  "longitude": "-44.0416051"
 }

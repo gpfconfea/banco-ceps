@@ -5,5 +5,7 @@
   "bairro": "Pedro Zanivan",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.7307487",
+  "longitude": "-49.3770118"
 }

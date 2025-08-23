@@ -1,9 +1,11 @@
 {
   "cep": "28666971",
   "logradouro": "Rua José Alberto Erthal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra Alegre",
   "localidade": "Bom Jardim",
   "uf": "RJ",
-  "ibge": "3300506"
+  "ibge": "3300506",
+  "latitude": "-22.9139476",
+  "longitude": "-43.2093973"
 }

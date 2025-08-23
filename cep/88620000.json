@@ -5,5 +5,7 @@
   "bairro": "Santa Izabel",
   "localidade": "São Joaquim",
   "uf": "SC",
-  "ibge": "4216503"
+  "ibge": "4216503",
+  "latitude": "-28.1092248",
+  "longitude": "-49.9889896"
 }

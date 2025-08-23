@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.69389",
+  "longitude": "-46.5258434"
 }

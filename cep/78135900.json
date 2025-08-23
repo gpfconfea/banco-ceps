@@ -1,9 +1,11 @@
 {
   "cep": "78135900",
   "logradouro": "Rua Maranhão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro-Sul",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6576136",
+  "longitude": "-56.1415361"
 }

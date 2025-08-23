@@ -5,5 +5,7 @@
   "bairro": "Fátima",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-19.8318196",
+  "longitude": "-40.2678177"
 }

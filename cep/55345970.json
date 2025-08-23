@@ -1,9 +1,11 @@
 {
   "cep": "55345970",
   "logradouro": "Praça João Bezerra de Vasconcelos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Iati",
   "uf": "PE",
-  "ibge": "2606507"
+  "ibge": "2606507",
+  "latitude": "-9.0437992",
+  "longitude": "-36.8489115"
 }

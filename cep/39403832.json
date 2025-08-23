@@ -5,5 +5,7 @@
   "bairro": "Loteamento Reserva Real",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.766587",
+  "longitude": "-43.888587"
 }

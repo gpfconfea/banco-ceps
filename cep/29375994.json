@@ -1,9 +1,11 @@
 {
   "cep": "29375994",
   "logradouro": "Estrada Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Venda Nova do Imigrante",
   "uf": "ES",
-  "ibge": "3205069"
+  "ibge": "3205069",
+  "latitude": "-20.1897472",
+  "longitude": "-40.7593676"
 }

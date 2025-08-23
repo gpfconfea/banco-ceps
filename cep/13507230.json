@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Villagio do Conde",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "latitude": "-14.235004",
+  "longitude": "-51.92528"
 }

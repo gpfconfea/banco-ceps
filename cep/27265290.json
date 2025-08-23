@@ -5,5 +5,7 @@
   "bairro": "São Carlos",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.5282572",
+  "longitude": "-44.1266989"
 }

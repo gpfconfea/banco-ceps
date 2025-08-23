@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Echaporã",
   "uf": "SP",
-  "ibge": "3514700"
+  "ibge": "3514700",
+  "latitude": "-22.4288475",
+  "longitude": "-50.2073843"
 }

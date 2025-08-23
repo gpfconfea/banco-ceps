@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Tancredo Neves",
   "localidade": "São Manuel",
   "uf": "SP",
-  "ibge": "3550100"
+  "ibge": "3550100",
+  "latitude": "-22.3786096",
+  "longitude": "-48.3828963"
 }

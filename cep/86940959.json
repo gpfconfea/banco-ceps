@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Sucesso",
   "uf": "PR",
-  "ibge": "4103206"
+  "ibge": "4103206",
+  "latitude": "-23.7086027",
+  "longitude": "-51.7656585"
 }

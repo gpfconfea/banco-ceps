@@ -5,5 +5,7 @@
   "bairro": "Santa Rita de Cássia",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-19.4975634",
+  "longitude": "-42.6364579"
 }

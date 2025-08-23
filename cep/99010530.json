@@ -5,5 +5,7 @@
   "bairro": "Vila Luiza",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "latitude": "-28.2669496",
+  "longitude": "-52.4074679"
 }

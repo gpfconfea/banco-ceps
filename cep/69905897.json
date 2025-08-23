@@ -5,5 +5,7 @@
   "bairro": "Areal",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-9.9331243",
+  "longitude": "-67.8322771"
 }

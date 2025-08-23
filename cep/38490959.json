@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Indianópolis",
   "uf": "MG",
-  "ibge": "3130705"
+  "ibge": "3130705",
+  "latitude": "-19.0386027",
+  "longitude": "-47.9143446"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardins de Monet Residence",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.9231524",
+  "longitude": "-52.485939"
 }

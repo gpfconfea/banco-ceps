@@ -6,5 +6,7 @@
   "bairro": "Panorama",
   "localidade": "Igarapé",
   "uf": "MG",
-  "ibge": "3130101"
+  "ibge": "3130101",
+  "latitude": "-20.0588063",
+  "longitude": "-44.2966451"
 }

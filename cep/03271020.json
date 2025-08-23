@@ -5,5 +5,7 @@
   "bairro": "Jardim Regina",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.3308276",
+  "longitude": "-46.719315"
 }

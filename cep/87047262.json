@@ -5,5 +5,7 @@
   "bairro": "Jardim Liberdade II",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4178691",
+  "longitude": "-51.8905162"
 }

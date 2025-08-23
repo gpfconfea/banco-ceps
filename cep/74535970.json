@@ -1,9 +1,11 @@
 {
   "cep": "74535970",
   "logradouro": "Rua 231 Quadra 37 B Lote 34",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Coimbra",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6804413",
+  "longitude": "-49.2785916"
 }

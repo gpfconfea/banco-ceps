@@ -5,5 +5,7 @@
   "bairro": "Jardim Míriam",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5401287",
+  "longitude": "-46.2849801"
 }

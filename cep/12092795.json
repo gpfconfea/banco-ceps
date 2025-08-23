@@ -5,5 +5,7 @@
   "bairro": "Jardim Continental",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-22.7281915",
+  "longitude": "-45.5834529"
 }

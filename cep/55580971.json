@@ -1,9 +1,11 @@
 {
   "cep": "55580971",
   "logradouro": "Rua Jackes Pires",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado de Santo Amaro",
   "localidade": "Sirinhaém",
   "uf": "PE",
-  "ibge": "2614204"
+  "ibge": "2614204",
+  "latitude": "-8.6180428",
+  "longitude": "-35.1115281"
 }

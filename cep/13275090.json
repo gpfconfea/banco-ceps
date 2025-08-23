@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rosa",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9732708",
+  "longitude": "-46.9856389"
 }

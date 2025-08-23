@@ -1,9 +1,11 @@
 {
   "cep": "74835900",
   "logradouro": "Rua Tomaz Edson Quadra 7",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serrinha",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-18.1469874",
+  "longitude": "-47.9121761"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gameleiras",
   "uf": "MG",
-  "ibge": "3127339"
+  "ibge": "3127339",
+  "latitude": "-15.0813873",
+  "longitude": "-43.1208465"
 }

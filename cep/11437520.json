@@ -5,5 +5,7 @@
   "bairro": "Morro do Engenho",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "latitude": "-12.5651713",
+  "longitude": "-55.7378693"
 }

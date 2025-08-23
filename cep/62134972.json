@@ -1,9 +1,11 @@
 {
   "cep": "62134972",
   "logradouro": "Rua Raimundo Faustino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Meruoca",
   "uf": "CE",
-  "ibge": "2308203"
+  "ibge": "2308203",
+  "latitude": "-3.6134546",
+  "longitude": "-40.4466002"
 }

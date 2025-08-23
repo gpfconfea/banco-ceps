@@ -1,9 +1,11 @@
 {
   "cep": "12228900",
   "logradouro": "Rua da Granja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campus do CTA",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.6780139",
+  "longitude": "-45.4459602"
 }

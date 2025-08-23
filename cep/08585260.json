@@ -5,5 +5,7 @@
   "bairro": "Jardim Canaã",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4342085",
+  "longitude": "-46.3513591"
 }

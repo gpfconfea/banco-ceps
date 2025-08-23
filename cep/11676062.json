@@ -5,5 +5,7 @@
   "bairro": "Balneário Copacabana",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.599752",
+  "longitude": "-45.3554795"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Videira",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-23.0947161",
+  "longitude": "-52.4679466"
 }

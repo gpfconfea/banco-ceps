@@ -1,9 +1,11 @@
 {
   "cep": "84330970",
   "logradouro": "Rua Augusto Rosas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "José Lacerda",
   "localidade": "Reserva",
   "uf": "PR",
-  "ibge": "4121703"
+  "ibge": "4121703",
+  "latitude": "-24.4939489",
+  "longitude": "-50.8236713"
 }

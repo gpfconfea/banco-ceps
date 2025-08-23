@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova I",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.3905516",
+  "longitude": "-47.3387076"
 }

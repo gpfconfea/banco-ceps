@@ -5,5 +5,7 @@
   "bairro": "Vila Renascer",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.83148",
+  "longitude": "-44.1588048"
 }

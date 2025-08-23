@@ -1,9 +1,11 @@
 {
   "cep": "57948970",
   "logradouro": "Praça São Gonçalo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tatuamunha",
   "localidade": "Porto de Pedras",
   "uf": "AL",
-  "ibge": "2707404"
+  "ibge": "2707404",
+  "latitude": "-9.2070935",
+  "longitude": "-35.3575974"
 }

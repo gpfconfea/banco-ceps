@@ -5,5 +5,7 @@
   "bairro": "Residencial Alvorada",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-23.1746808",
+  "longitude": "-46.3776036"
 }

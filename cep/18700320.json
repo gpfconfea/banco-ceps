@@ -5,5 +5,7 @@
   "bairro": "Água Branca",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.1105009",
+  "longitude": "-48.926216"
 }

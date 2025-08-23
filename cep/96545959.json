@@ -1,9 +1,11 @@
 {
   "cep": "96545959",
   "logradouro": "Avenida Vinte e Oito de Dezembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Novo Cabrais",
   "uf": "RS",
-  "ibge": "4313391"
+  "ibge": "4313391",
+  "latitude": "-29.7365275",
+  "longitude": "-52.9486753"
 }

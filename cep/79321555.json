@@ -5,5 +5,7 @@
   "bairro": "Vila Guarani",
   "localidade": "Corumbá",
   "uf": "MS",
-  "ibge": "5003207"
+  "ibge": "5003207",
+  "latitude": "-19.0098902",
+  "longitude": "-57.6368137"
 }

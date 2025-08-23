@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Augusto de Lima",
   "uf": "MG",
-  "ibge": "3104809"
+  "ibge": "3104809",
+  "latitude": "-18.1093991",
+  "longitude": "-44.2652722"
 }

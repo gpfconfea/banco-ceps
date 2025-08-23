@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Pontal do Paraná",
   "uf": "PR",
-  "ibge": "4119954"
+  "ibge": "4119954",
+  "latitude": "-25.6455226",
+  "longitude": "-48.4426293"
 }

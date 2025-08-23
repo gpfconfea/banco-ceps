@@ -1,9 +1,11 @@
 {
   "cep": "63218974",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Santa Cruz",
   "localidade": "Mauriti",
   "uf": "CE",
-  "ibge": "2308104"
+  "ibge": "2308104",
+  "latitude": "-7.4699504",
+  "longitude": "-38.7712043"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Jaraguá (Itaim Paulista)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-28.5667675",
+  "longitude": "-51.9675477"
 }

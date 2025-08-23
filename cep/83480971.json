@@ -1,9 +1,11 @@
 {
   "cep": "83480971",
   "logradouro": "Estrada Principal de Ouro Fino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ouro Fino",
   "localidade": "Tunas do Paraná",
   "uf": "PR",
-  "ibge": "4127882"
+  "ibge": "4127882",
+  "latitude": "-25.5542142",
+  "longitude": "-49.1803081"
 }

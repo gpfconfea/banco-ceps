@@ -1,9 +1,11 @@
 {
   "cep": "36892974",
   "logradouro": "Rua Nossa Senhora Aparecida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Belisário",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "latitude": "-20.9260382",
+  "longitude": "-42.4598591"
 }

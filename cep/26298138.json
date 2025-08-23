@@ -5,5 +5,7 @@
   "bairro": "Jardim Guandu",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "39.8909066",
+  "longitude": "-74.9248488"
 }

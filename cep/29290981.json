@@ -1,9 +1,11 @@
 {
   "cep": "29290981",
   "logradouro": "Estrada Jaciguá x Rio Novo do Sul",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Virgínia Nova",
   "localidade": "Rio Novo do Sul",
   "uf": "ES",
-  "ibge": "3204401"
+  "ibge": "3204401",
+  "latitude": "-20.8634051",
+  "longitude": "-40.9317438"
 }

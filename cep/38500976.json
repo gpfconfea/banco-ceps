@@ -5,5 +5,7 @@
   "bairro": "Progresso",
   "localidade": "Monte Carmelo",
   "uf": "MG",
-  "ibge": "3143104"
+  "ibge": "3143104",
+  "latitude": "-18.734865",
+  "longitude": "-47.49566"
 }

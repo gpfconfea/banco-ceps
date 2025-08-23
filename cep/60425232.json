@@ -5,5 +5,7 @@
   "bairro": "Bom Futuro",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.7589113",
+  "longitude": "-38.5459777"
 }

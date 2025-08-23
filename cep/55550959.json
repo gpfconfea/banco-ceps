@@ -1,9 +1,11 @@
 {
   "cep": "55550959",
   "logradouro": "Praça Marcionilo Pedrosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Água Preta",
   "uf": "PE",
-  "ibge": "2600401"
+  "ibge": "2600401",
+  "latitude": "-8.7087339",
+  "longitude": "-35.5199938"
 }

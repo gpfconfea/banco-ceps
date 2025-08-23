@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Green Park",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.5570345",
+  "longitude": "-46.5073306"
 }

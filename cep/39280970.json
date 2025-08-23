@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Buritizeiro",
   "uf": "MG",
-  "ibge": "3109402"
+  "ibge": "3109402",
+  "latitude": "-17.3694495",
+  "longitude": "-44.9659284"
 }
