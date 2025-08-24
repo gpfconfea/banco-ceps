@@ -5,5 +5,7 @@
   "bairro": "Vila Eliza",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-23.3066869",
+  "longitude": "-46.7259162"
 }

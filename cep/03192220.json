@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5479871",
+  "longitude": "-46.6326193"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "45208900",
   "logradouro": "Rua Maria Adélia Mellen",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jequiezinho",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-13.8643571",
+  "longitude": "-40.0612827"
 }

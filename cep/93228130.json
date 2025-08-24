@@ -5,5 +5,7 @@
   "bairro": "Passo de Sapucaia",
   "localidade": "Sapucaia do Sul",
   "uf": "RS",
-  "ibge": "4320008"
+  "ibge": "4320008",
+  "latitude": "-29.8618094",
+  "longitude": "-51.113203"
 }

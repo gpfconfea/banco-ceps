@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Hartz",
   "uf": "RS",
-  "ibge": "4313060"
+  "ibge": "4313060",
+  "latitude": "-29.5837013",
+  "longitude": "-50.9035984"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nonoai",
   "uf": "RS",
-  "ibge": "4312708"
+  "ibge": "4312708",
+  "latitude": "-27.3660882",
+  "longitude": "-52.7717853"
 }

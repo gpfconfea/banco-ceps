@@ -5,5 +5,7 @@
   "bairro": "Residencial Moysés de Freitas",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "latitude": "-12.7104049",
+  "longitude": "-60.1436006"
 }

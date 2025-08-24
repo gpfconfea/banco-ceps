@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sidrolândia",
   "uf": "MS",
-  "ibge": "5007901"
+  "ibge": "5007901",
+  "latitude": "-20.9299488",
+  "longitude": "-54.963081"
 }

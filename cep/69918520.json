@@ -5,5 +5,7 @@
   "bairro": "Boa Esperança",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-9.9531172",
+  "longitude": "-67.822673"
 }

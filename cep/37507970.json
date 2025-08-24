@@ -1,9 +1,11 @@
 {
   "cep": "37507970",
   "logradouro": "Praça São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José do Rio Manso",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "latitude": "-22.2510089",
+  "longitude": "-45.4673552"
 }

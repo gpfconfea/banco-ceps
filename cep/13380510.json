@@ -5,5 +5,7 @@
   "bairro": "Residencial Imigrantes",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7853141",
+  "longitude": "-47.3007612"
 }

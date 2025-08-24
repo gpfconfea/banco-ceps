@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-19.8824881",
+  "longitude": "-44.9726507"
 }

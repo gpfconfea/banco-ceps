@@ -5,5 +5,7 @@
   "bairro": "Campo Alegre de Minas",
   "localidade": "Ibiracatu",
   "uf": "MG",
-  "ibge": "3129657"
+  "ibge": "3129657",
+  "latitude": "-15.5548209",
+  "longitude": "-44.0779484"
 }

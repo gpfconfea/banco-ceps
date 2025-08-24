@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Grão Pará",
   "uf": "SC",
-  "ibge": "4206108"
+  "ibge": "4206108",
+  "latitude": "-28.1854992",
+  "longitude": "-49.2162437"
 }

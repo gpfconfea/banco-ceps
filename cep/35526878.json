@@ -5,5 +5,7 @@
   "bairro": "Itapuã",
   "localidade": "Nova Serrana",
   "uf": "MG",
-  "ibge": "3145208"
+  "ibge": "3145208",
+  "latitude": "-21.5507722",
+  "longitude": "-45.4204867"
 }

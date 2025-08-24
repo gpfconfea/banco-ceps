@@ -6,5 +6,7 @@
   "bairro": "Vila Capixaba",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-20.3426149",
+  "longitude": "-40.4025833"
 }

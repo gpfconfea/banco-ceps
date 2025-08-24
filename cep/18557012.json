@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.285324",
+  "longitude": "-47.6831472"
 }

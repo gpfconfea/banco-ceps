@@ -1,9 +1,11 @@
 {
   "cep": "45690974",
   "logradouro": "Avenida Ilhéus",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Una",
   "uf": "BA",
-  "ibge": "2932507"
+  "ibge": "2932507",
+  "latitude": "-15.1014536",
+  "longitude": "-39.1577583"
 }

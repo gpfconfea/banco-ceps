@@ -1,9 +1,11 @@
 {
   "cep": "59219972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Remédio",
   "localidade": "Brejinho",
   "uf": "RN",
-  "ibge": "2401800"
+  "ibge": "2401800",
+  "latitude": "39.9707302",
+  "longitude": "-8.7133399"
 }

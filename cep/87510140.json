@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Itália III",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.3336252",
+  "longitude": "-51.2174389"
 }

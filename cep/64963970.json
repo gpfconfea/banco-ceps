@@ -1,9 +1,11 @@
 {
   "cep": "64963970",
   "logradouro": "Avenida Antônio Ribeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Júlio Borges",
   "uf": "PI",
-  "ibge": "2205524"
+  "ibge": "2205524",
+  "latitude": "-10.3307455",
+  "longitude": "-44.2391959"
 }

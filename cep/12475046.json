@@ -5,5 +5,7 @@
   "bairro": "Atalaia",
   "localidade": "Campos do Jordão",
   "uf": "SP",
-  "ibge": "3509700"
+  "ibge": "3509700",
+  "latitude": "-22.7182918",
+  "longitude": "-45.5831019"
 }

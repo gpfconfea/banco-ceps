@@ -1,9 +1,11 @@
 {
   "cep": "55590990",
   "logradouro": "Vila dos Pescadores ",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.5585462",
+  "longitude": "-35.0218328"
 }

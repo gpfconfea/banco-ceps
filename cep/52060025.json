@@ -5,5 +5,7 @@
   "bairro": "Parnamirim",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0364854",
+  "longitude": "-34.909305"
 }

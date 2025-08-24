@@ -5,5 +5,7 @@
   "bairro": "Parque São João",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-16.4051589",
+  "longitude": "-49.2231553"
 }

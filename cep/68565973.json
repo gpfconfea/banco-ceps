@@ -1,9 +1,11 @@
 {
   "cep": "68565973",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Maria das Barreiras",
   "uf": "PA",
-  "ibge": "1506583"
+  "ibge": "1506583",
+  "latitude": "-8.8459966",
+  "longitude": "-49.7319738"
 }

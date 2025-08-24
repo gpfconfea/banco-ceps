@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "latitude": "-18.6010307",
+  "longitude": "-46.5074461"
 }

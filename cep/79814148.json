@@ -5,5 +5,7 @@
   "bairro": "Jardim Londrina",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-20.4467375",
+  "longitude": "-54.5699179"
 }

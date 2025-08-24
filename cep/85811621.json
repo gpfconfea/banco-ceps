@@ -5,5 +5,7 @@
   "bairro": "Vista Linda",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "latitude": "-24.1627076",
+  "longitude": "-54.1024565"
 }

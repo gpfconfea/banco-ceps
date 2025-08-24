@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-20.2647674",
+  "longitude": "-42.0304052"
 }

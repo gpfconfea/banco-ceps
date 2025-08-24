@@ -1,9 +1,11 @@
 {
   "cep": "45213972",
   "logradouro": "Rua Jequié",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Baixão",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-13.7996662",
+  "longitude": "-39.8479546"
 }

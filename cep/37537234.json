@@ -6,5 +6,7 @@
   "bairro": "Monte Belo",
   "localidade": "Santa Rita do Sapucaí",
   "uf": "MG",
-  "ibge": "3159605"
+  "ibge": "3159605",
+  "latitude": "-22.259636",
+  "longitude": "-45.6937702"
 }

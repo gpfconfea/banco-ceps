@@ -5,5 +5,7 @@
   "bairro": "Jardim Palestina",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5373665",
+  "longitude": "-47.3594952"
 }

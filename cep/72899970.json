@@ -5,5 +5,7 @@
   "bairro": "Jardim ABC de Goiás",
   "localidade": "Cidade Ocidental",
   "uf": "GO",
-  "ibge": "5205497"
+  "ibge": "5205497",
+  "latitude": "-16.0634748",
+  "longitude": "-47.8228694"
 }

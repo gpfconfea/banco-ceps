@@ -1,9 +1,11 @@
 {
   "cep": "37778971",
   "logradouro": "Praça Uriel Alvim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Bento de Caldas",
   "localidade": "Santa Rita de Caldas",
   "uf": "MG",
-  "ibge": "3159209"
+  "ibge": "3159209",
+  "latitude": "-22.1313921",
+  "longitude": "-46.3107717"
 }

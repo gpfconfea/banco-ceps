@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Shamballa II",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.072204",
+  "longitude": "-46.6539212"
 }

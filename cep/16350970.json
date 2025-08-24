@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barbosa",
   "uf": "SP",
-  "ibge": "3505104"
+  "ibge": "3505104",
+  "latitude": "-21.2683062",
+  "longitude": "-49.9523919"
 }

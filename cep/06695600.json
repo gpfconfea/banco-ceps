@@ -5,5 +5,7 @@
   "bairro": "Vila Áurea",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5311641",
+  "longitude": "-46.988964"
 }

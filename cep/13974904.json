@@ -1,9 +1,11 @@
 {
   "cep": "13974904",
   "logradouro": "Rodovia Monsenhor Clodoaldo de Paiva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Salgados",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.450437",
+  "longitude": "-46.8477657"
 }

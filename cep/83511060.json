@@ -5,5 +5,7 @@
   "bairro": "Jardim Giannini",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.3505585",
+  "longitude": "-49.3025135"
 }

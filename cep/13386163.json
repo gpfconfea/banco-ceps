@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Lagos",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-23.8790993",
+  "longitude": "-46.6387921"
 }

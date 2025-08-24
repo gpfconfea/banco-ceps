@@ -5,5 +5,7 @@
   "bairro": "Bom Retiro",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.0639322",
+  "longitude": "-52.6216902"
 }

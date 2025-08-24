@@ -1,9 +1,11 @@
 {
   "cep": "56301995",
   "logradouro": "Rua Principal - Povoado de Nova Descoberta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-9.1428577",
+  "longitude": "-40.3267278"
 }

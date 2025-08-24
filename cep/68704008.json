@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Capanema",
   "uf": "PA",
-  "ibge": "1502202"
+  "ibge": "1502202",
+  "latitude": "-23.5480861",
+  "longitude": "-47.7573176"
 }

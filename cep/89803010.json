@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.09138",
+  "longitude": "-52.6197929"
 }

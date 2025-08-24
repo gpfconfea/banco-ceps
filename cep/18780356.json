@@ -5,5 +5,7 @@
   "bairro": "Residencial Clelia II",
   "localidade": "Manduri",
   "uf": "SP",
-  "ibge": "3528601"
+  "ibge": "3528601",
+  "latitude": "-23.0080332",
+  "longitude": "-49.3233365"
 }

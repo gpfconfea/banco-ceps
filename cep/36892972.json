@@ -1,9 +1,11 @@
 {
   "cep": "36892972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pirapanema",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "latitude": "-21.157446",
+  "longitude": "-42.6868083"
 }

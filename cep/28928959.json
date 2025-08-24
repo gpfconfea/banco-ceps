@@ -1,9 +1,11 @@
 {
   "cep": "28928959",
   "logradouro": "Avenida Independência",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Unamar (Tamoios)",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "latitude": "-22.6309837",
+  "longitude": "-42.0016684"
 }

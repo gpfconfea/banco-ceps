@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.3557438",
+  "longitude": "-49.4961041"
 }

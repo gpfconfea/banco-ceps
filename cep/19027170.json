@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1070845",
+  "longitude": "-51.4232118"
 }

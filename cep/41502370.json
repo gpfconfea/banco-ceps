@@ -5,5 +5,7 @@
   "bairro": "Jardim das Margaridas",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9046004",
+  "longitude": "-38.3495408"
 }

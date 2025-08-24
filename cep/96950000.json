@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Arroio do Tigre",
   "uf": "RS",
-  "ibge": "4301206"
+  "ibge": "4301206",
+  "latitude": "-29.334158",
+  "longitude": "-53.0888935"
 }

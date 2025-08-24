@@ -5,5 +5,7 @@
   "bairro": "Ilha do Príncipe",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "latitude": "-20.3223859",
+  "longitude": "-40.3501295"
 }

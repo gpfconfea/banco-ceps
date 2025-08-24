@@ -5,5 +5,7 @@
   "bairro": "Vila Natal",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7594094",
+  "longitude": "-46.7010997"
 }

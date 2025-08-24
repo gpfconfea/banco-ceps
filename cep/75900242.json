@@ -5,5 +5,7 @@
   "bairro": "Nova Vila Maria",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-17.7699102",
+  "longitude": "-50.9205507"
 }

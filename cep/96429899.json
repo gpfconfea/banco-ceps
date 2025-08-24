@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Bagé",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "latitude": "-31.3416906",
+  "longitude": "-54.0910111"
 }

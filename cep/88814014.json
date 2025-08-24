@@ -5,5 +5,7 @@
   "bairro": "São Roque",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.7575069",
+  "longitude": "-49.4246588"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "52021971",
   "logradouro": "Rua Artur Azevedo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Encruzilhada",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0380257",
+  "longitude": "-34.8911606"
 }

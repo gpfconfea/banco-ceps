@@ -5,5 +5,7 @@
   "bairro": "Petúnia",
   "localidade": "Nova Resende",
   "uf": "MG",
-  "ibge": "3145109"
+  "ibge": "3145109",
+  "latitude": "-21.0175398",
+  "longitude": "-46.4031006"
 }
