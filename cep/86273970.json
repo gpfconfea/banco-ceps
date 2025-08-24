@@ -1,9 +1,11 @@
 {
   "cep": "86273970",
   "logradouro": "Rua Manduri",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João do Pinhal",
   "localidade": "São Jerônimo da Serra",
   "uf": "PR",
-  "ibge": "4124707"
+  "ibge": "4124707",
+  "latitude": "-23.6394737",
+  "longitude": "-50.8513372"
 }

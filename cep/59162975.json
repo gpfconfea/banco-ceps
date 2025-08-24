@@ -1,9 +1,11 @@
 {
   "cep": "59162975",
   "logradouro": "Sítio Japecanga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sítio Japecanga",
   "localidade": "São José de Mipibu",
   "uf": "RN",
-  "ibge": "2412203"
+  "ibge": "2412203",
+  "latitude": "-5.9379523",
+  "longitude": "-35.3144296"
 }

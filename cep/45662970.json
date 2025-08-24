@@ -1,9 +1,11 @@
 {
   "cep": "45662970",
   "logradouro": "Rua São Pedro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Salobrinho",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "latitude": "-14.798365",
+  "longitude": "-39.1765358"
 }

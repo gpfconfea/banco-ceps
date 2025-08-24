@@ -5,5 +5,7 @@
   "bairro": "Santo Agostinho",
   "localidade": "Conselheiro Lafaiete",
   "uf": "MG",
-  "ibge": "3118304"
+  "ibge": "3118304",
+  "latitude": "-20.6481665",
+  "longitude": "-43.8002763"
 }

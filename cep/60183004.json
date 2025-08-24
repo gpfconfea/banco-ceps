@@ -5,5 +5,7 @@
   "bairro": "Praia do Futuro II",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.8445967",
+  "longitude": "-38.4726584"
 }

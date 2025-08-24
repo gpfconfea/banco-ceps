@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Campo Alegre",
   "uf": "AL",
-  "ibge": "2701407"
+  "ibge": "2701407",
+  "latitude": "-20.4789215",
+  "longitude": "-54.5970666"
 }

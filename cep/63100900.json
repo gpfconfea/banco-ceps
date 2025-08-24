@@ -1,9 +1,11 @@
 {
   "cep": "63100900",
   "logradouro": "Rua Bárbara de Alencar",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "latitude": "-7.2309229",
+  "longitude": "-39.4129928"
 }

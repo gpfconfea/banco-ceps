@@ -5,5 +5,7 @@
   "bairro": "Loteamento Quinta das Frutas",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0558222",
+  "longitude": "-45.5947864"
 }

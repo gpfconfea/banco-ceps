@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Elizabeth",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-22.5853882",
+  "longitude": "-48.7999255"
 }

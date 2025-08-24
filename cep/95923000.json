@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Marques de Souza",
   "uf": "RS",
-  "ibge": "4312054"
+  "ibge": "4312054",
+  "latitude": "-29.3275642",
+  "longitude": "-52.0961801"
 }

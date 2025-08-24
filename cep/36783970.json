@@ -1,9 +1,11 @@
 {
   "cep": "36783970",
   "logradouro": "Rua Edson Rezende",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santana do Campestre",
   "localidade": "Astolfo Dutra",
   "uf": "MG",
-  "ibge": "3104601"
+  "ibge": "3104601",
+  "latitude": "-21.2686478",
+  "longitude": "-42.9367564"
 }

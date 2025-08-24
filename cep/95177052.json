@@ -5,5 +5,7 @@
   "bairro": "Medianeira",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-29.2170964",
+  "longitude": "-51.3317424"
 }

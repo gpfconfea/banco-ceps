@@ -5,5 +5,7 @@
   "bairro": "Célia Maria",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.840103",
+  "longitude": "-49.2151233"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "97535971",
   "logradouro": "Rua D",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barragem Sanchuri",
   "localidade": "São Marcos",
   "uf": "RS",
-  "ibge": "4319000"
+  "ibge": "4319000",
+  "latitude": "41.5547402",
+  "longitude": "-8.3139387"
 }

@@ -5,5 +5,7 @@
   "bairro": "Antas",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-24.0604374",
+  "longitude": "-50.6287707"
 }

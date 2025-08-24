@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Ouro Branco",
   "uf": "MG",
-  "ibge": "3145901"
+  "ibge": "3145901",
+  "latitude": "-20.5233939",
+  "longitude": "-43.6879717"
 }

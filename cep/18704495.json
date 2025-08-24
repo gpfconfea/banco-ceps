@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Avaré G",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.1107673",
+  "longitude": "-48.9006778"
 }

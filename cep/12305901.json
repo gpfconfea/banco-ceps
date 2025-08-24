@@ -1,9 +1,11 @@
 {
   "cep": "12305901",
   "logradouro": "Avenida Getúlio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Primavera",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.2693753",
+  "longitude": "-45.9505608"
 }

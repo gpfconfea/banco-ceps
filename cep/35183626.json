@@ -5,5 +5,7 @@
   "bairro": "Petrópolis",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "latitude": "-23.1088969",
+  "longitude": "-48.8990559"
 }

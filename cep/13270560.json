@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Colina do Sol",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9424222",
+  "longitude": "-47.00408"
 }

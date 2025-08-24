@@ -1,9 +1,11 @@
 {
   "cep": "68862970",
   "logradouro": "Vila Condeixa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Condeixa",
   "localidade": "Salvaterra",
   "uf": "PA",
-  "ibge": "1506302"
+  "ibge": "1506302",
+  "latitude": "-0.8978002",
+  "longitude": "-48.5983312"
 }

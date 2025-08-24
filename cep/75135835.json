@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Esperança II",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.6526465",
+  "longitude": "-49.1742512"
 }

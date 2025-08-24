@@ -1,9 +1,11 @@
 {
   "cep": "39910971",
   "logradouro": "Rua Namir Otoni",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pedra Grande",
   "localidade": "Almenara",
   "uf": "MG",
-  "ibge": "3101706"
+  "ibge": "3101706",
+  "latitude": "-15.9791105",
+  "longitude": "-40.8879333"
 }

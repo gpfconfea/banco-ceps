@@ -5,5 +5,7 @@
   "bairro": "Vila Aparecida",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1812571",
+  "longitude": "-46.8669037"
 }

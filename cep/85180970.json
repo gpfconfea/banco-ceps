@@ -1,9 +1,11 @@
 {
   "cep": "85180970",
   "logradouro": "Rua Rio Paranapanema",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Faxinal do Céu",
   "localidade": "Pinhão",
   "uf": "PR",
-  "ibge": "4119301"
+  "ibge": "4119301",
+  "latitude": "-25.9092948",
+  "longitude": "-51.5942828"
 }

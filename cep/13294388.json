@@ -5,5 +5,7 @@
   "bairro": "Jardim Lago Azul II",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-23.0883562",
+  "longitude": "-46.9776572"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São João",
   "localidade": "Pardinho",
   "uf": "SP",
-  "ibge": "3536109"
+  "ibge": "3536109",
+  "latitude": "-23.088135",
+  "longitude": "-48.3683312"
 }

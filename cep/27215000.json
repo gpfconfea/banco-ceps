@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíba",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.5106227",
+  "longitude": "-44.0961281"
 }

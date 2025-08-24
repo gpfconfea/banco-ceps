@@ -1,9 +1,11 @@
 {
   "cep": "89700995",
   "logradouro": "Rua Principalº - Barra do Tigre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "latitude": "-27.2320582",
+  "longitude": "-51.9489152"
 }

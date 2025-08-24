@@ -5,5 +5,7 @@
   "bairro": "Morro Penha",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-3.8303275",
+  "longitude": "-38.5219735"
 }

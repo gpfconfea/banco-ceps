@@ -5,5 +5,7 @@
   "bairro": "Jardim Marambaia",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.3539728",
+  "longitude": "-49.2873366"
 }

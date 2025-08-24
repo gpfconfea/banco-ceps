@@ -1,9 +1,11 @@
 {
   "cep": "39670972",
   "logradouro": "Praça Santa Joana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itamarandiba",
   "uf": "MG",
-  "ibge": "3132503"
+  "ibge": "3132503",
+  "latitude": "-18.0252102",
+  "longitude": "-42.8516812"
 }

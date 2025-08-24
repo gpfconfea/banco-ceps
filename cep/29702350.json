@@ -5,5 +5,7 @@
   "bairro": "Vila Lenira",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-19.5506463",
+  "longitude": "-40.6348544"
 }

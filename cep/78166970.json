@@ -1,9 +1,11 @@
 {
   "cep": "78166970",
   "logradouro": "Rua Gil João da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bom Sucesso",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.739646",
+  "longitude": "-56.1141751"
 }

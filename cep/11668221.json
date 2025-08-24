@@ -5,5 +5,7 @@
   "bairro": "Jaraguá",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5727928",
+  "longitude": "-45.3231747"
 }

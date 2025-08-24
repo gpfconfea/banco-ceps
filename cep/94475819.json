@@ -5,5 +5,7 @@
   "bairro": "Santa Isabel",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "latitude": "-29.1775843",
+  "longitude": "-54.8628083"
 }

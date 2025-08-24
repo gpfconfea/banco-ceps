@@ -5,5 +5,7 @@
   "bairro": "São Bento",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.8324102",
+  "longitude": "-38.5930286"
 }

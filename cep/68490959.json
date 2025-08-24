@@ -1,9 +1,11 @@
 {
   "cep": "68490959",
   "logradouro": "Rua Trinta e Um de Março",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Melgaço",
   "uf": "PA",
-  "ibge": "1504505"
+  "ibge": "1504505",
+  "latitude": "-1.8076257",
+  "longitude": "-50.7164144"
 }

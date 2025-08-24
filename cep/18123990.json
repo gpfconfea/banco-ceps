@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Mairinque",
   "uf": "SP",
-  "ibge": "3528403"
+  "ibge": "3528403",
+  "latitude": "-23.4205607",
+  "longitude": "-47.245427"
 }

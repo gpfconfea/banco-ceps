@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Condado",
   "uf": "PE",
-  "ibge": "2604601"
+  "ibge": "2604601",
+  "latitude": "-7.587868",
+  "longitude": "-35.09994"
 }

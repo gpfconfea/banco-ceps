@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Villágio Di Roma",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5641816",
+  "longitude": "-51.4353639"
 }

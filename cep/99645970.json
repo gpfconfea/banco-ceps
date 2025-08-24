@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Entre Rios do Sul",
   "uf": "RS",
-  "ibge": "4306957"
+  "ibge": "4306957",
+  "latitude": "-27.5289591",
+  "longitude": "-52.7324085"
 }

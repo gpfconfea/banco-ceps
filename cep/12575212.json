@@ -5,5 +5,7 @@
   "bairro": "Jardim Paraíba",
   "localidade": "Aparecida",
   "uf": "SP",
-  "ibge": "3502507"
+  "ibge": "3502507",
+  "latitude": "-22.8459166",
+  "longitude": "-45.2398166"
 }

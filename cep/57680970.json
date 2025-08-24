@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boca da Mata",
   "uf": "AL",
-  "ibge": "2701001"
+  "ibge": "2701001",
+  "latitude": "-9.6424073",
+  "longitude": "-36.2144672"
 }

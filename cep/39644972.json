@@ -1,9 +1,11 @@
 {
   "cep": "39644972",
   "logradouro": "Rua Badaró Junior",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tocoios de Minas",
   "localidade": "Francisco Badaró",
   "uf": "MG",
-  "ibge": "3126505"
+  "ibge": "3126505",
+  "latitude": "-17.0579836",
+  "longitude": "-42.393579"
 }

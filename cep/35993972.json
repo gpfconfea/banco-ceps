@@ -1,9 +1,11 @@
 {
   "cep": "35993972",
   "logradouro": "Rua Inocêncio José Soares",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cônego João Pio",
   "localidade": "São Domingos do Prata",
   "uf": "MG",
-  "ibge": "3161007"
+  "ibge": "3161007",
+  "latitude": "-20.0013868",
+  "longitude": "-42.9269233"
 }

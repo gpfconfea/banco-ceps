@@ -1,9 +1,11 @@
 {
   "cep": "62320992",
   "logradouro": "Rua Santo Antônio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Tianguá",
   "uf": "CE",
-  "ibge": "2313401"
+  "ibge": "2313401",
+  "latitude": "-3.7270043",
+  "longitude": "-41.003402"
 }

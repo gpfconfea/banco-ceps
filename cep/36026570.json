@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.4593871",
+  "longitude": "-43.5490974"
 }
