@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2421524",
+  "longitude": "-45.8666931"
 }

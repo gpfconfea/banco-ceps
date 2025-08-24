@@ -1,9 +1,11 @@
 {
   "cep": "78110903",
   "logradouro": "Avenida Aleixo Ramos da Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "23 de Setembro",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6248657",
+  "longitude": "-56.1391653"
 }

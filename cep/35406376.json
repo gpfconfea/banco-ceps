@@ -6,5 +6,7 @@
   "bairro": "Morro Santana",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.5331939",
+  "longitude": "-43.552338"
 }

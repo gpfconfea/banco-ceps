@@ -5,5 +5,7 @@
   "bairro": "Vila Perus",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4159486",
+  "longitude": "-46.7549228"
 }

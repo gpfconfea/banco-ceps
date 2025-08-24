@@ -5,5 +5,7 @@
   "bairro": "Bom Retiro",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "latitude": "-25.0458904",
+  "longitude": "-53.4175552"
 }

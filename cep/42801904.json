@@ -1,9 +1,11 @@
 {
   "cep": "42801904",
   "logradouro": "Avenida Alameda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Nascente do Rio Capivara",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.7042449",
+  "longitude": "-38.2899379"
 }

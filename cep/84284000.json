@@ -5,5 +5,7 @@
   "bairro": "Alecrim",
   "localidade": "Curiúva",
   "uf": "PR",
-  "ibge": "4107009"
+  "ibge": "4107009",
+  "latitude": "-24.0413686",
+  "longitude": "-50.4014"
 }

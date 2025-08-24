@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cujubim",
   "uf": "RO",
-  "ibge": "1100940"
+  "ibge": "1100940",
+  "latitude": "-9.3729204",
+  "longitude": "-62.5809012"
 }

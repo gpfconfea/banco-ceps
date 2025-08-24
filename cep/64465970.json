@@ -1,9 +1,11 @@
 {
   "cep": "64465970",
   "logradouro": "Avenida Nenem Napoleão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Lagoinha do Piauí",
   "uf": "PI",
-  "ibge": "2205540"
+  "ibge": "2205540",
+  "latitude": "-5.8311877",
+  "longitude": "-42.6280684"
 }

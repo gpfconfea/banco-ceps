@@ -5,5 +5,7 @@
   "bairro": "Rosa Maria",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "-15.5292306",
+  "longitude": "-47.3105046"
 }

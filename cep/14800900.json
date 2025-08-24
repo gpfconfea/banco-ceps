@@ -1,9 +1,11 @@
 {
   "cep": "14800900",
   "logradouro": "Rua Professor Francisco Degni",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Quitandinha",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.8062362",
+  "longitude": "-48.1930123"
 }

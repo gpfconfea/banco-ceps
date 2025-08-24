@@ -5,5 +5,7 @@
   "bairro": "Residencial Samambaia",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-23.6673703",
+  "longitude": "-46.7689313"
 }

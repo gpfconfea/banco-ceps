@@ -5,5 +5,7 @@
   "bairro": "Residencial Fazenda Lagoa",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8633373",
+  "longitude": "-47.1412211"
 }

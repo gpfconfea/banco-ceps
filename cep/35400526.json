@@ -5,5 +5,7 @@
   "bairro": "Jardim Itacolomi",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.4056649",
+  "longitude": "-43.4997606"
 }

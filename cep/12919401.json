@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.967778",
+  "longitude": "-46.5494506"
 }

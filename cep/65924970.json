@@ -1,9 +1,11 @@
 {
   "cep": "65924970",
   "logradouro": "Avenida Rio Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Vila Nova dos Martírios",
   "uf": "MA",
-  "ibge": "2112852"
+  "ibge": "2112852",
+  "latitude": "-5.1910009",
+  "longitude": "-48.1352565"
 }

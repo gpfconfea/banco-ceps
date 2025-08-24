@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7744769",
+  "longitude": "-47.3044556"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "76868971",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Machadinho D'Oeste",
   "uf": "RO",
-  "ibge": "1100130"
+  "ibge": "1100130",
+  "latitude": "-9.4200293",
+  "longitude": "-62.0099694"
 }

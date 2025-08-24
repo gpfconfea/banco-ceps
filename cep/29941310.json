@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "São Mateus",
   "uf": "ES",
-  "ibge": "3204906"
+  "ibge": "3204906",
+  "latitude": "-2.5366283",
+  "longitude": "-44.3272641"
 }

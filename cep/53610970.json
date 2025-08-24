@@ -1,9 +1,11 @@
 {
   "cep": "53610970",
   "logradouro": "Avenida Severino Tavares Uchôa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Igarassu",
   "uf": "PE",
-  "ibge": "2606804"
+  "ibge": "2606804",
+  "latitude": "-7.8297561",
+  "longitude": "-34.9153832"
 }

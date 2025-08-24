@@ -5,5 +5,7 @@
   "bairro": "Rosário",
   "localidade": "Oliveira",
   "uf": "MG",
-  "ibge": "3145604"
+  "ibge": "3145604",
+  "latitude": "-20.6887886",
+  "longitude": "-44.831557"
 }

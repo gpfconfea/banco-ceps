@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-9.4037982",
+  "longitude": "-40.5537434"
 }

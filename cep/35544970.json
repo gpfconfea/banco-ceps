@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Gonçalo do Pará",
   "uf": "MG",
-  "ibge": "3161809"
+  "ibge": "3161809",
+  "latitude": "-19.9798654",
+  "longitude": "-44.8573326"
 }

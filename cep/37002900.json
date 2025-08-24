@@ -1,9 +1,11 @@
 {
   "cep": "37002900",
   "logradouro": "Rua Paraná",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-21.3634333",
+  "longitude": "-46.5267959"
 }

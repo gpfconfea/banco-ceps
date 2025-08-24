@@ -5,5 +5,7 @@
   "bairro": "Baldeador",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "latitude": "-20.8283228",
+  "longitude": "-40.7221997"
 }

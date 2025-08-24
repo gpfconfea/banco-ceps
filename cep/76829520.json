@@ -5,5 +5,7 @@
   "bairro": "Tancredo Neves",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.7637508",
+  "longitude": "-63.8333916"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "42733991",
   "logradouro": "Rua Jacobina - Areia Branca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Lauro de Freitas",
   "uf": "BA",
-  "ibge": "2919207"
+  "ibge": "2919207",
+  "latitude": "-12.9016545",
+  "longitude": "-38.3661102"
 }

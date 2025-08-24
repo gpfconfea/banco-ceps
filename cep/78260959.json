@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araputanga",
   "uf": "MT",
-  "ibge": "5101258"
+  "ibge": "5101258",
+  "latitude": "-15.470147",
+  "longitude": "-58.3493515"
 }

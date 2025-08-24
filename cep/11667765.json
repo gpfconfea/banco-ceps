@@ -5,5 +5,7 @@
   "bairro": "Jardim Flor do Mar",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.6964273",
+  "longitude": "-45.4358056"
 }

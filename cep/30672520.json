@@ -5,5 +5,7 @@
   "bairro": "Mineirão",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-20.0243512",
+  "longitude": "-44.0242433"
 }

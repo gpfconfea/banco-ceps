@@ -5,5 +5,7 @@
   "bairro": "Pari",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.526586",
+  "longitude": "-46.613045"
 }

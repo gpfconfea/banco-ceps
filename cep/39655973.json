@@ -1,9 +1,11 @@
 {
   "cep": "39655973",
   "logradouro": "Rua Turmalina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Leme do Prado",
   "uf": "MG",
-  "ibge": "3138351"
+  "ibge": "3138351",
+  "latitude": "-17.0436815",
+  "longitude": "-42.7887413"
 }

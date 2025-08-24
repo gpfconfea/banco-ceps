@@ -5,5 +5,7 @@
   "bairro": "Tijuca",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.924079",
+  "longitude": "-43.2303074"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim D Manoel",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-23.5308836",
+  "longitude": "-46.349806"
 }

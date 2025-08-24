@@ -1,9 +1,11 @@
 {
   "cep": "55662970",
   "logradouro": "Rua da Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boas Novas",
   "localidade": "Bezerros",
   "uf": "PE",
-  "ibge": "2601904"
+  "ibge": "2601904",
+  "latitude": "-8.3728206",
+  "longitude": "-35.8736215"
 }

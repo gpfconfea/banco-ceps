@@ -5,5 +5,7 @@
   "bairro": "Cocaia",
   "localidade": "Ilhabela",
   "uf": "SP",
-  "ibge": "3520400"
+  "ibge": "3520400",
+  "latitude": "-23.8182398",
+  "longitude": "-45.3603859"
 }

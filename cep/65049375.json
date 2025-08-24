@@ -5,5 +5,7 @@
   "bairro": "Residencial Canaã",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5603942",
+  "longitude": "-44.2362248"
 }

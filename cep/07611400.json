@@ -5,5 +5,7 @@
   "bairro": "Barreiro",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.3308636",
+  "longitude": "-46.5999341"
 }

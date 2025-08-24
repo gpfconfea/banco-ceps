@@ -1,9 +1,11 @@
 {
   "cep": "62248976",
   "logradouro": "Rua São José",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José das Lontras",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "latitude": "-7.0751778",
+  "longitude": "-41.4732338"
 }

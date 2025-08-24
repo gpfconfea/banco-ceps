@@ -5,5 +5,7 @@
   "bairro": "Jardim São João (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.8175073",
+  "longitude": "-46.6601802"
 }

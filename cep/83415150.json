@@ -5,5 +5,7 @@
   "bairro": "Capivari",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "latitude": "-25.2521682",
+  "longitude": "-49.1606425"
 }

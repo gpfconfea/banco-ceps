@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "latitude": "-29.7023854",
+  "longitude": "-53.7578595"
 }

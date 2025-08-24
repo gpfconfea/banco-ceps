@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Campo Belo",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.7921135",
+  "longitude": "-48.1910417"
 }

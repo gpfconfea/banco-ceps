@@ -5,5 +5,7 @@
   "bairro": "Alto de São João",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0332281",
+  "longitude": "-45.5528455"
 }

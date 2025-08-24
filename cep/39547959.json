@@ -1,9 +1,11 @@
 {
   "cep": "39547959",
   "logradouro": "Praça José Batista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Montezuma",
   "uf": "MG",
-  "ibge": "3143450"
+  "ibge": "3143450",
+  "latitude": "-15.1703482",
+  "longitude": "-42.4993322"
 }

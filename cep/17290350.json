@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Vila Nova",
   "localidade": "Macatuba",
   "uf": "SP",
-  "ibge": "3528007"
+  "ibge": "3528007",
+  "latitude": "-22.5043442",
+  "longitude": "-48.7077542"
 }

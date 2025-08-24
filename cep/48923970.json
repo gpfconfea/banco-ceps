@@ -1,9 +1,11 @@
 {
   "cep": "48923970",
   "logradouro": "Praça Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itamotinga",
   "localidade": "Juazeiro",
   "uf": "BA",
-  "ibge": "2918407"
+  "ibge": "2918407",
+  "latitude": "-9.5345076",
+  "longitude": "-41.0465654"
 }

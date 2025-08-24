@@ -1,9 +1,11 @@
 {
   "cep": "46830959",
   "logradouro": "Rua da Glória",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Andaraí",
   "uf": "BA",
-  "ibge": "2901304"
+  "ibge": "2901304",
+  "latitude": "-12.8093069",
+  "longitude": "-41.3316564"
 }

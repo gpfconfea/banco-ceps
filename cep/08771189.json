@@ -5,5 +5,7 @@
   "bairro": "Residencial Estância Bom Repouso",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.4800066",
+  "longitude": "-46.272105"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Rondon",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-22.5874334",
+  "longitude": "-48.8063084"
 }

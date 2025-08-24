@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvinópolis",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.1325161",
+  "longitude": "-46.5632678"
 }

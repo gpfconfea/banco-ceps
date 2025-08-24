@@ -5,5 +5,7 @@
   "bairro": "Jardim Pinheiros I",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.4926777",
+  "longitude": "-47.417994"
 }

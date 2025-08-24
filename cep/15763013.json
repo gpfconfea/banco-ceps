@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Aspásia",
   "uf": "SP",
-  "ibge": "3503950"
+  "ibge": "3503950",
+  "latitude": "-20.1590866",
+  "longitude": "-50.7281587"
 }

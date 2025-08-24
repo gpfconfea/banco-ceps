@@ -6,5 +6,7 @@
   "bairro": "Portal Ville Flamboyant",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.2418857",
+  "longitude": "-47.5290203"
 }

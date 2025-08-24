@@ -6,5 +6,7 @@
   "bairro": "Moinhos de Vento",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0266166",
+  "longitude": "-51.1975543"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Senador Guiomard",
   "uf": "AC",
-  "ibge": "1200450"
+  "ibge": "1200450",
+  "latitude": "-10.1439006",
+  "longitude": "-67.742294"
 }

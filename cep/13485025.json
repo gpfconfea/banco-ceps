@@ -5,5 +5,7 @@
   "bairro": "Vila Queiroz",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5539931",
+  "longitude": "-47.3995725"
 }

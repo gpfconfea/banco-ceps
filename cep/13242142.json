@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Trieste",
   "localidade": "Jarinu",
   "uf": "SP",
-  "ibge": "3525201"
+  "ibge": "3525201",
+  "latitude": "-23.0843675",
+  "longitude": "-46.6952349"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Ayrton Senna",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "latitude": "-19.4572301",
+  "longitude": "-42.5502101"
 }

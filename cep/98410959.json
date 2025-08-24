@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taquaruçu do Sul",
   "uf": "RS",
-  "ibge": "4321329"
+  "ibge": "4321329",
+  "latitude": "-27.3974456",
+  "longitude": "-53.4712684"
 }

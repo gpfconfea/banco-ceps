@@ -5,5 +5,7 @@
   "bairro": "Jardim do Sol",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2586466",
+  "longitude": "-51.0505294"
 }

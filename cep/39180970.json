@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Felício dos Santos",
   "uf": "MG",
-  "ibge": "3125408"
+  "ibge": "3125408",
+  "latitude": "-18.0764421",
+  "longitude": "-43.2477626"
 }

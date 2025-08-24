@@ -5,5 +5,7 @@
   "bairro": "Vila São Jorge",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5088323",
+  "longitude": "-46.87786"
 }

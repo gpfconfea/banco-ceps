@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Pevi",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-21.4139585",
+  "longitude": "-50.0540003"
 }

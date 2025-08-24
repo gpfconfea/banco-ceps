@@ -5,5 +5,7 @@
   "bairro": "Residencial Lago do Vale II",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4630499",
+  "longitude": "-49.2414682"
 }

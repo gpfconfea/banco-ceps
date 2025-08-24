@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-22.4886",
+  "longitude": "-44.0690335"
 }

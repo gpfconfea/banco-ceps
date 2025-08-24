@@ -5,5 +5,7 @@
   "bairro": "Pegorelli",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5047582",
+  "longitude": "-46.7044872"
 }

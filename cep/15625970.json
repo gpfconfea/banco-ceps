@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Meridiano",
   "uf": "SP",
-  "ibge": "3529609"
+  "ibge": "3529609",
+  "latitude": "-20.3562769",
+  "longitude": "-50.1763994"
 }
