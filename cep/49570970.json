@@ -1,9 +1,11 @@
 {
   "cep": "49570970",
   "logradouro": "Rua José Sá Barreto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Malhador",
   "uf": "SE",
-  "ibge": "2803906"
+  "ibge": "2803906",
+  "latitude": "-10.6573598",
+  "longitude": "-37.3067523"
 }

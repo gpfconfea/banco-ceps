@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Eldorado do Sul",
   "uf": "RS",
-  "ibge": "4306767"
+  "ibge": "4306767",
+  "latitude": "-29.9954599",
+  "longitude": "-51.3139659"
 }

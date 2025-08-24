@@ -5,5 +5,7 @@
   "bairro": "Quatinga",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.7087067",
+  "longitude": "-46.2482306"
 }

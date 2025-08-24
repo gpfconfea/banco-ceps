@@ -1,9 +1,11 @@
 {
   "cep": "89196959",
   "logradouro": "Rua Espírito Santo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Salete",
   "uf": "SC",
-  "ibge": "4215307"
+  "ibge": "4215307",
+  "latitude": "-26.9792321",
+  "longitude": "-50.0011843"
 }

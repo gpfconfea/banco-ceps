@@ -1,9 +1,11 @@
 {
   "cep": "78336970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guariba",
   "localidade": "Colniza",
   "uf": "MT",
-  "ibge": "5103254"
+  "ibge": "5103254",
+  "latitude": "-9.2470819",
+  "longitude": "-60.3303158"
 }

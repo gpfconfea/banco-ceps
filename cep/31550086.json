@@ -5,5 +5,7 @@
   "bairro": "Jardim Atlântico",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8459183",
+  "longitude": "-43.9876362"
 }

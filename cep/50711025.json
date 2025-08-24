@@ -5,5 +5,7 @@
   "bairro": "Zumbi",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.05022",
+  "longitude": "-34.9183648"
 }

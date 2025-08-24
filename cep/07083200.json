@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4359667",
+  "longitude": "-46.5512759"
 }

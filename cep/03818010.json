@@ -5,5 +5,7 @@
   "bairro": "Parque Císper",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-24.0059729",
+  "longitude": "-46.4215307"
 }

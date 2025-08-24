@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Doutor Hélio Silva",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-22.9709244",
+  "longitude": "-49.9039965"
 }

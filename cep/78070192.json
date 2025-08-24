@@ -5,5 +5,7 @@
   "bairro": "Jardim Shangri-Lá",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6255878",
+  "longitude": "-56.0636003"
 }

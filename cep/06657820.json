@@ -5,5 +5,7 @@
   "bairro": "Parque Wey",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5607412",
+  "longitude": "-46.9215775"
 }

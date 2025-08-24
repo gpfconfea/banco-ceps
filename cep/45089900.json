@@ -1,9 +1,11 @@
 {
   "cep": "45089900",
   "logradouro": "Rodovia BR-116",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Industrial",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-14.8217925",
+  "longitude": "-40.8095943"
 }

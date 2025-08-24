@@ -5,5 +5,7 @@
   "bairro": "Ouro Verde",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.1415445",
+  "longitude": "-51.5223248"
 }

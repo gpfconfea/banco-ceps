@@ -1,9 +1,11 @@
 {
   "cep": "68908959",
   "logradouro": "Rodovia BR-156",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Lázaro",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0630463",
+  "longitude": "-51.0570019"
 }

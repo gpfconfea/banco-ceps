@@ -5,5 +5,7 @@
   "bairro": "Vila Maria Luiza",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.294867",
+  "longitude": "-46.749255"
 }

@@ -5,5 +5,7 @@
   "bairro": "Flores",
   "localidade": "Ipu",
   "uf": "CE",
-  "ibge": "2305803"
+  "ibge": "2305803",
+  "latitude": "-4.3459975",
+  "longitude": "-40.5422843"
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Ourinhos I",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-23.7245258",
+  "longitude": "-46.7041968"
 }

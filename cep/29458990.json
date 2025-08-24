@@ -1,9 +1,11 @@
 {
   "cep": "29458990",
   "logradouro": "Rua Jacy Lopes Theodoro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Apiacá",
   "uf": "ES",
-  "ibge": "3200508"
+  "ibge": "3200508",
+  "latitude": "-20.9814584",
+  "longitude": "-41.5587702"
 }

@@ -5,5 +5,7 @@
   "bairro": "Da Lagoa",
   "localidade": "Vargem Grande Paulista",
   "uf": "SP",
-  "ibge": "3556453"
+  "ibge": "3556453",
+  "latitude": "-23.584135",
+  "longitude": "-47.0222325"
 }

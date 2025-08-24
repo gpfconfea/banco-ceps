@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Ypê",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2417778",
+  "longitude": "-45.8786151"
 }

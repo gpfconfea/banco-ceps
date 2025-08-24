@@ -5,5 +5,7 @@
   "bairro": "Nova Serrana",
   "localidade": "Ouro Branco",
   "uf": "MG",
-  "ibge": "3145901"
+  "ibge": "3145901",
+  "latitude": "-20.5215381",
+  "longitude": "-43.6815993"
 }

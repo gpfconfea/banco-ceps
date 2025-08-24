@@ -5,5 +5,7 @@
   "bairro": "Espírito Santo",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.1507051",
+  "longitude": "-51.2236403"
 }

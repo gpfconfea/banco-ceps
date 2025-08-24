@@ -1,9 +1,11 @@
 {
   "cep": "36420976",
   "logradouro": "Rua Geraldo do Carmo Vieira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Castigliano",
   "localidade": "Ouro Branco",
   "uf": "MG",
-  "ibge": "3145901"
+  "ibge": "3145901",
+  "latitude": "-20.5849188",
+  "longitude": "-43.6769824"
 }

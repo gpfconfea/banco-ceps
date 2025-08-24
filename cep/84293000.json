@@ -5,5 +5,7 @@
   "bairro": "Vida Nova",
   "localidade": "Sapopema",
   "uf": "PR",
-  "ibge": "4126207"
+  "ibge": "4126207",
+  "latitude": "-23.8326931",
+  "longitude": "-50.506199"
 }

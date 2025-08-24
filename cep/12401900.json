@@ -1,9 +1,11 @@
 {
   "cep": "12401900",
   "logradouro": "Praça Desembargador Eduardo de Campos Maia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-22.9232109",
+  "longitude": "-45.4612757"
 }

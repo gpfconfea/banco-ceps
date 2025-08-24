@@ -1,9 +1,11 @@
 {
   "cep": "83800971",
   "logradouro": "Rua Leonardo Muchau",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Espigão das Antas",
   "localidade": "Mandirituba",
   "uf": "PR",
-  "ibge": "4114302"
+  "ibge": "4114302",
+  "latitude": "-25.9008529",
+  "longitude": "-49.3510369"
 }

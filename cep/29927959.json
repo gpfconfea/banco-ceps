@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sooretama",
   "uf": "ES",
-  "ibge": "3205010"
+  "ibge": "3205010",
+  "latitude": "-19.1915564",
+  "longitude": "-40.096547"
 }

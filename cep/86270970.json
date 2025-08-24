@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Jerônimo da Serra",
   "uf": "PR",
-  "ibge": "4124707"
+  "ibge": "4124707",
+  "latitude": "-23.7199602",
+  "longitude": "-50.7393961"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "96127970",
   "logradouro": "Rua Colônia Triunfo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Triunfo",
   "localidade": "Triunfo",
   "uf": "RS",
-  "ibge": "4322004"
+  "ibge": "4322004",
+  "latitude": "-29.948573",
+  "longitude": "-51.5972502"
 }

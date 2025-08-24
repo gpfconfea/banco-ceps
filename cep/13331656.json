@@ -5,5 +5,7 @@
   "bairro": "Jardim Amstalden Residence",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.077079",
+  "longitude": "-47.2355739"
 }

@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-20.5506485",
+  "longitude": "-48.5630892"
 }

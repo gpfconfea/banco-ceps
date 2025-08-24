@@ -5,5 +5,7 @@
   "bairro": "Vila Costa e Silva",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8549735",
+  "longitude": "-47.0692692"
 }

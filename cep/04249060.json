@@ -5,5 +5,7 @@
   "bairro": "Sacomã",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.7369465",
+  "longitude": "-45.1044074"
 }

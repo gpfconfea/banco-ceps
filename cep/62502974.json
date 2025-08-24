@@ -1,9 +1,11 @@
 {
   "cep": "62502974",
   "logradouro": "Rua da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Deserto",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "latitude": "-3.5151258",
+  "longitude": "-39.4940467"
 }

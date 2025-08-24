@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bom Jardim da Serra",
   "uf": "SC",
-  "ibge": "4202503"
+  "ibge": "4202503",
+  "latitude": "-28.3384732",
+  "longitude": "-49.6243851"
 }

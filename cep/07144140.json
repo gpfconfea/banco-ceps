@@ -5,5 +5,7 @@
   "bairro": "Jardim Acácio",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.414345",
+  "longitude": "-46.5089933"
 }

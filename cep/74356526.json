@@ -5,5 +5,7 @@
   "bairro": "Residencial Campos Dourados",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7981453",
+  "longitude": "-49.3654156"
 }

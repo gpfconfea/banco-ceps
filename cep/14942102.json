@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.770709",
+  "longitude": "-48.8233324"
 }

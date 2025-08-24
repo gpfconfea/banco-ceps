@@ -5,5 +5,7 @@
   "bairro": "Jardim Universitário",
   "localidade": "Arapongas",
   "uf": "PR",
-  "ibge": "4101507"
+  "ibge": "4101507",
+  "latitude": "-23.3898961",
+  "longitude": "-51.450295"
 }

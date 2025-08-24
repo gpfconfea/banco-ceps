@@ -5,5 +5,7 @@
   "bairro": "José Ribeiro",
   "localidade": "Garça",
   "uf": "SP",
-  "ibge": "3516705"
+  "ibge": "3516705",
+  "latitude": "-22.2268802",
+  "longitude": "-49.6478916"
 }

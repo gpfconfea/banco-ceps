@@ -5,5 +5,7 @@
   "bairro": "Estrada Nova",
   "localidade": "Jaraguá do Sul",
   "uf": "SC",
-  "ibge": "4208906"
+  "ibge": "4208906",
+  "latitude": "-26.4673475",
+  "longitude": "-49.1200235"
 }

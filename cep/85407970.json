@@ -1,9 +1,11 @@
 {
   "cep": "85407970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Guaraniaçu",
   "uf": "PR",
-  "ibge": "4109302"
+  "ibge": "4109302",
+  "latitude": "-25.1000035",
+  "longitude": "-52.8679149"
 }

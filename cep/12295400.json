@@ -5,5 +5,7 @@
   "bairro": "Recanto dos Camargos",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.4169841",
+  "longitude": "-46.7530752"
 }

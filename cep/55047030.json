@@ -6,5 +6,7 @@
   "bairro": "Severino Afonso",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.2653998",
+  "longitude": "-35.9864848"
 }

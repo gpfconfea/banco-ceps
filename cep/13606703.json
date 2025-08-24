@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Verde",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "latitude": "-20.4375059",
+  "longitude": "-54.6864291"
 }

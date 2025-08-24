@@ -1,9 +1,11 @@
 {
   "cep": "44900974",
   "logradouro": "Rua da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Conquista",
   "localidade": "Irecê",
   "uf": "BA",
-  "ibge": "2914604"
+  "ibge": "2914604",
+  "latitude": "-11.9104518",
+  "longitude": "-42.6860717"
 }

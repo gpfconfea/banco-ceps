@@ -6,5 +6,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-20.6369623",
+  "longitude": "-46.5006638"
 }

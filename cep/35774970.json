@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paraopeba",
   "uf": "MG",
-  "ibge": "3147402"
+  "ibge": "3147402",
+  "latitude": "-19.2753636",
+  "longitude": "-44.4039686"
 }

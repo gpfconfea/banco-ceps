@@ -5,5 +5,7 @@
   "bairro": "Parque Tescarollo",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.0070906",
+  "longitude": "-46.824183"
 }

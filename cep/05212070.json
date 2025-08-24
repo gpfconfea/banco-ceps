@@ -5,5 +5,7 @@
   "bairro": "Jardim da Conquista (Zona Oeste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4501888",
+  "longitude": "-46.7985327"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Acauã",
   "uf": "PI",
-  "ibge": "2200053"
+  "ibge": "2200053",
+  "latitude": "-8.215195",
+  "longitude": "-41.0828164"
 }

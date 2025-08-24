@@ -1,9 +1,11 @@
 {
   "cep": "77380970",
   "logradouro": "Avenida 6",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Pindorama do Tocantins",
   "uf": "TO",
-  "ibge": "1717008"
+  "ibge": "1717008",
+  "latitude": "-11.1372156",
+  "longitude": "-47.5776176"
 }

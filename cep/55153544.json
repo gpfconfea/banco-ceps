@@ -5,5 +5,7 @@
   "bairro": "Gameleira",
   "localidade": "Belo Jardim",
   "uf": "PE",
-  "ibge": "2601706"
+  "ibge": "2601706",
+  "latitude": "-20.767155",
+  "longitude": "-49.4375327"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bossoroca",
   "uf": "RS",
-  "ibge": "4302501"
+  "ibge": "4302501",
+  "latitude": "-28.7301155",
+  "longitude": "-54.9100863"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Cecília",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "latitude": "-22.4380112",
+  "longitude": "-42.9727975"
 }

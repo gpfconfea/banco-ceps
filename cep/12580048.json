@@ -6,5 +6,7 @@
   "bairro": "Vila Prado",
   "localidade": "Roseira",
   "uf": "SP",
-  "ibge": "3544301"
+  "ibge": "3544301",
+  "latitude": "-22.9006062",
+  "longitude": "-45.3109306"
 }

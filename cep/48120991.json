@@ -1,9 +1,11 @@
 {
   "cep": "48120991",
   "logradouro": "Loteamento Jardim Los Angeles",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pojuca",
   "uf": "BA",
-  "ibge": "2925204"
+  "ibge": "2925204",
+  "latitude": "-12.4154047",
+  "longitude": "-38.3192421"
 }

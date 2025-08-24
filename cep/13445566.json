@@ -5,5 +5,7 @@
   "bairro": "Residencial João Favero",
   "localidade": "Engenheiro Coelho",
   "uf": "SP",
-  "ibge": "3515152"
+  "ibge": "3515152",
+  "latitude": "-22.4969008",
+  "longitude": "-47.204869"
 }

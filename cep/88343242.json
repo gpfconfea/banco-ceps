@@ -6,5 +6,7 @@
   "bairro": "São Francisco de Assis",
   "localidade": "Camboriú",
   "uf": "SC",
-  "ibge": "4203204"
+  "ibge": "4203204",
+  "latitude": "-27.0284647",
+  "longitude": "-48.6322465"
 }

@@ -5,5 +5,7 @@
   "bairro": "Bosque",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2275217",
+  "longitude": "-49.9455945"
 }

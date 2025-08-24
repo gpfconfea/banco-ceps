@@ -5,5 +5,7 @@
   "bairro": "Cafeeiros",
   "localidade": "Cruzeiro do Oeste",
   "uf": "PR",
-  "ibge": "4106605"
+  "ibge": "4106605",
+  "latitude": "-23.7723588",
+  "longitude": "-53.1372859"
 }
