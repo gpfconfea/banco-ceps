@@ -1,9 +1,11 @@
 {
   "cep": "68473972",
   "logradouro": "Rua São Francisco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Belo Monte",
   "localidade": "Novo Repartimento",
   "uf": "PA",
-  "ibge": "1505064"
+  "ibge": "1505064",
+  "latitude": "-4.1480607",
+  "longitude": "-50.2234385"
 }

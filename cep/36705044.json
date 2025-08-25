@@ -5,5 +5,7 @@
   "bairro": "Doutor Joaquim Furtado Pinto",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-19.4848611",
+  "longitude": "-42.5150825"
 }

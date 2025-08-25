@@ -1,9 +1,11 @@
 {
   "cep": "29755980",
   "logradouro": "Avenida Presidente Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lajinha",
   "localidade": "Pancas",
   "uf": "ES",
-  "ibge": "3204005"
+  "ibge": "3204005",
+  "latitude": "-19.1598786",
+  "longitude": "-40.7727221"
 }

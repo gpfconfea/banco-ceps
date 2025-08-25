@@ -1,9 +1,11 @@
 {
   "cep": "43800992",
   "logradouro": "Caminho 10",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Candeias",
   "uf": "BA",
-  "ibge": "2906501"
+  "ibge": "2906501",
+  "latitude": "-12.6805871",
+  "longitude": "-38.528092"
 }

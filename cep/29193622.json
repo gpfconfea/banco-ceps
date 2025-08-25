@@ -5,5 +5,7 @@
   "bairro": "Residencial Solar Bitti",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-19.8402308",
+  "longitude": "-40.2740794"
 }

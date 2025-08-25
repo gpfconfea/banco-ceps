@@ -5,5 +5,7 @@
   "bairro": "Jardim Edi",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7529956",
+  "longitude": "-46.6733104"
 }

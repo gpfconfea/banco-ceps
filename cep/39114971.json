@@ -1,9 +1,11 @@
 {
   "cep": "39114971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Planalto de Minas",
   "localidade": "Diamantina",
   "uf": "MG",
-  "ibge": "3121605"
+  "ibge": "3121605",
+  "latitude": "-17.6520124",
+  "longitude": "-43.3209979"
 }

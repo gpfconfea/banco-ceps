@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Iguaçu",
   "localidade": "Adamantina",
   "uf": "SP",
-  "ibge": "3500105"
+  "ibge": "3500105",
+  "latitude": "-21.6862904",
+  "longitude": "-51.0850215"
 }

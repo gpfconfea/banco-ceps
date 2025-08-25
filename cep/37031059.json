@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Imperador",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-21.5571841",
+  "longitude": "-45.4580778"
 }

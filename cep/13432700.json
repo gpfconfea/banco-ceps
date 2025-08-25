@@ -5,5 +5,7 @@
   "bairro": "Itaperu",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.6929147",
+  "longitude": "-47.7474201"
 }

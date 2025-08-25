@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Bernardi",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-22.2751406",
+  "longitude": "-48.527598"
 }

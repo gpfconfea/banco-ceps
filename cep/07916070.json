@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto do Belém",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.2782557",
+  "longitude": "-46.7555942"
 }

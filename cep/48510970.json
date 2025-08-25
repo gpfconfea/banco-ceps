@@ -1,9 +1,11 @@
 {
   "cep": "48510970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Massacara",
   "localidade": "Euclides da Cunha",
   "uf": "BA",
-  "ibge": "2910701"
+  "ibge": "2910701",
+  "latitude": "-10.5156232",
+  "longitude": "-38.7548968"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila São Jorge",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5589742",
+  "longitude": "-51.4788844"
 }

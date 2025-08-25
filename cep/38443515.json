@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Vila Olímpica",
   "localidade": "Araguari",
   "uf": "MG",
-  "ibge": "3103504"
+  "ibge": "3103504",
+  "latitude": "-18.6238505",
+  "longitude": "-48.2135085"
 }

@@ -5,5 +5,7 @@
   "bairro": "Sabiaguaba",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.8066489",
+  "longitude": "-38.430118"
 }

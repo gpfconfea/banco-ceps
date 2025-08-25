@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.8690485",
+  "longitude": "-36.5116432"
 }

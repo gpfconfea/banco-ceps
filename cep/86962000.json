@@ -5,5 +5,7 @@
   "bairro": "Pocinho",
   "localidade": "Barbosa Ferraz",
   "uf": "PR",
-  "ibge": "4102505"
+  "ibge": "4102505",
+  "latitude": "-24.090805",
+  "longitude": "-51.945177"
 }

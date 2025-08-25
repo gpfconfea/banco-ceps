@@ -5,5 +5,7 @@
   "bairro": "Equatorial",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "latitude": "2.8123226",
+  "longitude": "-60.7655628"
 }

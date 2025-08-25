@@ -5,5 +5,7 @@
   "bairro": "Residencial Portal da Serra",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.1758883",
+  "longitude": "-49.9139765"
 }

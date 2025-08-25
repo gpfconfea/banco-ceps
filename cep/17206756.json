@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Bela Vista",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-22.2709886",
+  "longitude": "-48.5644634"
 }

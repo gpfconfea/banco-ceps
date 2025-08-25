@@ -1,9 +1,11 @@
 {
   "cep": "42800934",
   "logradouro": "Avenida Camassarys",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Industrial",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.706727",
+  "longitude": "-38.3086059"
 }

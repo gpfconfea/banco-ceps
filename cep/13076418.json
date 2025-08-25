@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.3762853",
+  "longitude": "-46.9369811"
 }

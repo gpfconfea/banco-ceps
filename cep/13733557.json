@@ -5,5 +5,7 @@
   "bairro": "Jardim Botânico",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.438221",
+  "longitude": "-47.0065615"
 }

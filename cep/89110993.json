@@ -1,9 +1,11 @@
 {
   "cep": "89110993",
   "logradouro": "Rua Itália - Gasparinho Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Gaspar",
   "uf": "SC",
-  "ibge": "4205902"
+  "ibge": "4205902",
+  "latitude": "-26.9969292",
+  "longitude": "-48.9793605"
 }

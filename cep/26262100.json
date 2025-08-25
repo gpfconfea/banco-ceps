@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.7290058",
+  "longitude": "-43.498457"
 }

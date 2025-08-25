@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Santo Ângelo",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.5895163",
+  "longitude": "-46.2313762"
 }

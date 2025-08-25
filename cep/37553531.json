@@ -5,5 +5,7 @@
   "bairro": "Maria Franco",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2222156",
+  "longitude": "-45.9251466"
 }

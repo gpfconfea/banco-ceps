@@ -5,5 +5,7 @@
   "bairro": "Residencial Vilhena",
   "localidade": "Mineiros",
   "uf": "GO",
-  "ibge": "5213103"
+  "ibge": "5213103",
+  "latitude": "-17.5477097",
+  "longitude": "-52.5542552"
 }

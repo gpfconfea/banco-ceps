@@ -1,9 +1,11 @@
 {
   "cep": "24346990",
   "logradouro": "Estrada do Engenho do Matoº",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "latitude": "-22.9283653",
+  "longitude": "-43.0079087"
 }

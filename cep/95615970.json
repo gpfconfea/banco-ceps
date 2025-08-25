@@ -5,5 +5,7 @@
   "bairro": "Padilha",
   "localidade": "Taquara",
   "uf": "RS",
-  "ibge": "4321204"
+  "ibge": "4321204",
+  "latitude": "-29.5542818",
+  "longitude": "-50.6736473"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "52171900",
   "logradouro": "Rua Manuel de Medeiros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dois Irmãos",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0140307",
+  "longitude": "-34.9486852"
 }

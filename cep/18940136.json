@@ -5,5 +5,7 @@
   "bairro": "Bom Jesus",
   "localidade": "São Pedro do Turvo",
   "uf": "SP",
-  "ibge": "3550506"
+  "ibge": "3550506",
+  "latitude": "-22.7460062",
+  "longitude": "-49.7417185"
 }

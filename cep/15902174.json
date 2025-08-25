@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Ipiranga",
   "localidade": "Taquaritinga",
   "uf": "SP",
-  "ibge": "3553708"
+  "ibge": "3553708",
+  "latitude": "-21.4027166",
+  "longitude": "-48.4913832"
 }

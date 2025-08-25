@@ -1,9 +1,11 @@
 {
   "cep": "58775959",
   "logradouro": "Rua Salustiano Miguel de Sousa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Igaracy",
   "uf": "PB",
-  "ibge": "2502607"
+  "ibge": "2502607",
+  "latitude": "-7.1801619",
+  "longitude": "-38.1493926"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Engenheiro Beltrão",
   "uf": "PR",
-  "ibge": "4107504"
+  "ibge": "4107504",
+  "latitude": "-23.8012486",
+  "longitude": "-52.2615916"
 }

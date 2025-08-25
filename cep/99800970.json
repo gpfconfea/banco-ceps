@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marcelino Ramos",
   "uf": "RS",
-  "ibge": "4311908"
+  "ibge": "4311908",
+  "latitude": "-27.4622851",
+  "longitude": "-51.9056097"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Campituba",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9565031",
+  "longitude": "-47.2146714"
 }

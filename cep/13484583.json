@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Roland",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5383645",
+  "longitude": "-47.4253893"
 }

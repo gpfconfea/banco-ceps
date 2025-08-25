@@ -5,5 +5,7 @@
   "bairro": "Figueira do Pontal",
   "localidade": "Itapoá",
   "uf": "SC",
-  "ibge": "4208450"
+  "ibge": "4208450",
+  "latitude": "-26.1842021",
+  "longitude": "-48.6084748"
 }

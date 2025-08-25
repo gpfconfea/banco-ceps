@@ -5,5 +5,7 @@
   "bairro": "Jardim Americano",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4679005",
+  "longitude": "-46.3336229"
 }

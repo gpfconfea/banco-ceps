@@ -1,9 +1,11 @@
 {
   "cep": "88840992",
   "logradouro": "Rua Domingos Scarpato",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Urussanga",
   "uf": "SC",
-  "ibge": "4219002"
+  "ibge": "4219002",
+  "latitude": "-28.5331593",
+  "longitude": "-49.301685"
 }

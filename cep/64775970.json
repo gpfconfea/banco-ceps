@@ -1,9 +1,11 @@
 {
   "cep": "64775970",
   "logradouro": "Avenida Maria José Ribeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bonfim do Piauí",
   "uf": "PI",
-  "ibge": "2201929"
+  "ibge": "2201929",
+  "latitude": "-9.1648275",
+  "longitude": "-42.8735025"
 }

@@ -5,5 +5,7 @@
   "bairro": "Mocambo",
   "localidade": "Ibitiara",
   "uf": "BA",
-  "ibge": "2913002"
+  "ibge": "2913002",
+  "latitude": "-12.5675722",
+  "longitude": "-42.4677956"
 }

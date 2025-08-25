@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Alvorada I",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-22.5116395",
+  "longitude": "-47.7829404"
 }

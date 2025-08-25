@@ -5,5 +5,7 @@
   "bairro": "Jardim Alberto Zeppelini",
   "localidade": "Rio das Pedras",
   "uf": "SP",
-  "ibge": "3544004"
+  "ibge": "3544004",
+  "latitude": "-22.8338695",
+  "longitude": "-47.606216"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Souza",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5439006",
+  "longitude": "-46.5925642"
 }

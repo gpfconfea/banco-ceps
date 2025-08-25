@@ -5,5 +5,7 @@
   "bairro": "Jardim Pinhal",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.453957",
+  "longitude": "-46.526686"
 }

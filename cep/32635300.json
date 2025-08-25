@@ -5,5 +5,7 @@
   "bairro": "Casa Amarela",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-20.005404",
+  "longitude": "-44.2141252"
 }

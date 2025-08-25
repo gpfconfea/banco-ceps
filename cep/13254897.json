@@ -5,5 +5,7 @@
   "bairro": "Real Parque Dom Pedro I",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.6083889",
+  "longitude": "-46.5811882"
 }

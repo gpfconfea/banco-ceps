@@ -5,5 +5,7 @@
   "bairro": "Jardim Germiniani",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4800507",
+  "longitude": "-47.4590148"
 }

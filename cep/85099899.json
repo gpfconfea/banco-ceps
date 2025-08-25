@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Guarapuava",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.396786",
+  "longitude": "-51.453106"
 }

@@ -6,5 +6,7 @@
   "bairro": "Spring Valley",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.3189454",
+  "longitude": "-47.5072586"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Casalbuono",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-23.5288745",
+  "longitude": "-46.4960984"
 }

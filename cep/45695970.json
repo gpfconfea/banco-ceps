@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arataca",
   "uf": "BA",
-  "ibge": "2902252"
+  "ibge": "2902252",
+  "latitude": "-15.2599688",
+  "longitude": "-39.4133796"
 }
