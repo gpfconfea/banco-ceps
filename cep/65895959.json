@@ -1,9 +1,11 @@
 {
   "cep": "65895959",
   "logradouro": "Avenida Monsenhor Barros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Loreto",
   "uf": "MA",
-  "ibge": "2106102"
+  "ibge": "2106102",
+  "latitude": "-7.0848257",
+  "longitude": "-45.1414323"
 }

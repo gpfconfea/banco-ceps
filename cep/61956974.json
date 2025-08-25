@@ -1,9 +1,11 @@
 {
   "cep": "61956974",
   "logradouro": "Rua José da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Penedo",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "latitude": "-3.8774314",
+  "longitude": "-38.6695813"
 }

@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-28.7172776",
+  "longitude": "-49.0574889"
 }

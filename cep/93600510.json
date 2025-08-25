@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Estância Velha",
   "uf": "RS",
-  "ibge": "4307609"
+  "ibge": "4307609",
+  "latitude": "-29.6526429",
+  "longitude": "-51.1686293"
 }

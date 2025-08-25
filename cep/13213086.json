@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1581054",
+  "longitude": "-47.0375094"
 }

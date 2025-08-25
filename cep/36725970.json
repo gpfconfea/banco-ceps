@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Estrela Dalva",
   "uf": "MG",
-  "ibge": "3124609"
+  "ibge": "3124609",
+  "latitude": "-21.750841",
+  "longitude": "-42.46712"
 }

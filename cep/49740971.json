@@ -1,9 +1,11 @@
 {
   "cep": "49740971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Carmópolis",
   "uf": "SE",
-  "ibge": "2801504"
+  "ibge": "2801504",
+  "latitude": "-10.6485385",
+  "longitude": "-36.9803469"
 }

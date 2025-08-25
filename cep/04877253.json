@@ -5,5 +5,7 @@
   "bairro": "Cidade Luz",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.313074",
+  "longitude": "-49.0283832"
 }

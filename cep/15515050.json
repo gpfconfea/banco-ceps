@@ -5,5 +5,7 @@
   "bairro": "Centro Empresarial Maria dos Santos Facchini",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4468688",
+  "longitude": "-49.9034796"
 }

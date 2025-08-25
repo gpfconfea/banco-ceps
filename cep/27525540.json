@@ -5,5 +5,7 @@
   "bairro": "Vila Isabel",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "latitude": "-22.4718854",
+  "longitude": "-44.5024145"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58176970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Melo",
   "localidade": "Cuité",
   "uf": "PB",
-  "ibge": "2505105"
+  "ibge": "2505105",
+  "latitude": "-6.5843953",
+  "longitude": "-36.1091096"
 }

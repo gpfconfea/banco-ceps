@@ -5,5 +5,7 @@
   "bairro": "Jardim Mariana",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-21.1220473",
+  "longitude": "-44.1710235"
 }

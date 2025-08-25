@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-15.8020606",
+  "longitude": "-43.3067519"
 }

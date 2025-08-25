@@ -5,5 +5,7 @@
   "bairro": "Dom Pedro II",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.5169124",
+  "longitude": "-48.5290109"
 }

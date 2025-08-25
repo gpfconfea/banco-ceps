@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Ipiguá",
   "uf": "SP",
-  "ibge": "3521150"
+  "ibge": "3521150",
+  "latitude": "-20.6572618",
+  "longitude": "-49.3933818"
 }

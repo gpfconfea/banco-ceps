@@ -5,5 +5,7 @@
   "bairro": "Parque Serra Dourada",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-23.5966743",
+  "longitude": "-46.6711168"
 }

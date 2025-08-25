@@ -5,5 +5,7 @@
   "bairro": "Condomínio do Taubaté Village",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0184817",
+  "longitude": "-45.5506168"
 }

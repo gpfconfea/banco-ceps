@@ -5,5 +5,7 @@
   "bairro": "Juscelino",
   "localidade": "Mesquita",
   "uf": "RJ",
-  "ibge": "3302858"
+  "ibge": "3302858",
+  "latitude": "-22.7717118",
+  "longitude": "-43.4356935"
 }

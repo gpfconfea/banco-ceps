@@ -1,9 +1,11 @@
 {
   "cep": "38176970",
   "logradouro": "Rua José Joaquim da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Zelândia",
   "localidade": "Santa Juliana",
   "uf": "MG",
-  "ibge": "3157708"
+  "ibge": "3157708",
+  "latitude": "-19.5361423",
+  "longitude": "-47.4518216"
 }

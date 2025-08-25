@@ -1,9 +1,11 @@
 {
   "cep": "59230971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Malhada Vermelha",
   "localidade": "Campo Redondo",
   "uf": "RN",
-  "ibge": "2402105"
+  "ibge": "2402105",
+  "latitude": "-6.2421226",
+  "longitude": "-36.1829784"
 }

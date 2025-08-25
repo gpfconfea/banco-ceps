@@ -1,9 +1,11 @@
 {
   "cep": "85145971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Foz do Jordão",
   "uf": "PR",
-  "ibge": "4108452"
+  "ibge": "4108452",
+  "latitude": "-25.7391217",
+  "longitude": "-52.1212297"
 }

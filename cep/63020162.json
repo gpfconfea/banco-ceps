@@ -5,5 +5,7 @@
   "bairro": "Franciscanos",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "latitude": "-7.174034",
+  "longitude": "-39.3066008"
 }

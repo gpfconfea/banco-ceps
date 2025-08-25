@@ -6,5 +6,7 @@
   "bairro": "João Ernesto",
   "localidade": "Limoeiro",
   "uf": "PE",
-  "ibge": "2608909"
+  "ibge": "2608909",
+  "latitude": "-7.8661764",
+  "longitude": "-35.4398367"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "48850972",
   "logradouro": "Praça do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Piaus",
   "localidade": "Itiúba",
   "uf": "BA",
-  "ibge": "2917003"
+  "ibge": "2917003",
+  "latitude": "-10.6902297",
+  "longitude": "-39.8556824"
 }

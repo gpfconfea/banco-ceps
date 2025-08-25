@@ -1,9 +1,11 @@
 {
   "cep": "86817970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Pedro",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.9083319",
+  "longitude": "-51.239541"
 }

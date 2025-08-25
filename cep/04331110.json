@@ -5,5 +5,7 @@
   "bairro": "Vila Campestre",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.7392722",
+  "longitude": "-48.8968599"
 }

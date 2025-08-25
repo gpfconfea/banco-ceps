@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "latitude": "-3.5048782",
+  "longitude": "-39.5773146"
 }

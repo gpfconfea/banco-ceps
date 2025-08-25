@@ -1,9 +1,11 @@
 {
   "cep": "39874974",
   "logradouro": "Praça Euclides Silveira Tolentino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Helena de Minas",
   "uf": "MG",
-  "ibge": "3157658"
+  "ibge": "3157658",
+  "latitude": "-16.9377695",
+  "longitude": "-40.6856618"
 }

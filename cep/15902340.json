@@ -5,5 +5,7 @@
   "bairro": "Residencial Portal da Serra",
   "localidade": "Taquaritinga",
   "uf": "SP",
-  "ibge": "3553708"
+  "ibge": "3553708",
+  "latitude": "-21.3984179",
+  "longitude": "-48.4797696"
 }

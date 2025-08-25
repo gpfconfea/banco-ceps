@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Costa e Silva",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.8013118",
+  "longitude": "-45.2065853"
 }

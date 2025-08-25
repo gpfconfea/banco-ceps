@@ -5,5 +5,7 @@
   "bairro": "Residencial Palermo City",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5144874",
+  "longitude": "-47.4364687"
 }

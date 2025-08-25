@@ -5,5 +5,7 @@
   "bairro": "Parque das Jaboticabeiras",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.7284458",
+  "longitude": "-53.3118141"
 }

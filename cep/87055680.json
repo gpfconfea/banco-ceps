@@ -5,5 +5,7 @@
   "bairro": "Conjunto João de Barro Porto Seguro II",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4526706",
+  "longitude": "-51.8990573"
 }

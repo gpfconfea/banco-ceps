@@ -6,5 +6,7 @@
   "bairro": "Rasa",
   "localidade": "Armação dos Búzios",
   "uf": "RJ",
-  "ibge": "3300233"
+  "ibge": "3300233",
+  "latitude": "-22.7553281",
+  "longitude": "-41.8833455"
 }

@@ -5,5 +5,7 @@
   "bairro": "Condominio Estância dos Lagos",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.14789",
+  "longitude": "-46.6020684"
 }

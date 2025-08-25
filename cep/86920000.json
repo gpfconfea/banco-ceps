@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Kaloré",
   "uf": "PR",
-  "ibge": "4113106"
+  "ibge": "4113106",
+  "latitude": "-23.8242643",
+  "longitude": "-51.6683666"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Fernando Jorge",
   "localidade": "Cubatão",
   "uf": "SP",
-  "ibge": "3513504"
+  "ibge": "3513504",
+  "latitude": "-23.7725611",
+  "longitude": "-46.5023631"
 }

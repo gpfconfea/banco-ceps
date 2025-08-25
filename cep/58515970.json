@@ -1,9 +1,11 @@
 {
   "cep": "58515970",
   "logradouro": "Rua Quitéria Vaz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Zabelê",
   "uf": "PB",
-  "ibge": "2517407"
+  "ibge": "2517407",
+  "latitude": "-8.075654",
+  "longitude": "-37.0968309"
 }

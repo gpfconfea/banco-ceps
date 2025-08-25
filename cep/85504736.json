@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Pato Branco",
   "uf": "PR",
-  "ibge": "4118501"
+  "ibge": "4118501",
+  "latitude": "-26.2117019",
+  "longitude": "-52.664318"
 }

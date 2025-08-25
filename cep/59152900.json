@@ -1,9 +1,11 @@
 {
   "cep": "59152900",
   "logradouro": "Avenida Maria Lacerda Montenegro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Parnamirim",
   "localidade": "Parnamirim",
   "uf": "RN",
-  "ibge": "2403251"
+  "ibge": "2403251",
+  "latitude": "-5.8762524",
+  "longitude": "-35.2195675"
 }

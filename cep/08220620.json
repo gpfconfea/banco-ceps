@@ -5,5 +5,7 @@
   "bairro": "Jardim Liderança",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5315108",
+  "longitude": "-46.4500599"
 }

@@ -5,5 +5,7 @@
   "bairro": "Baruel",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.6153803",
+  "longitude": "-46.3408106"
 }

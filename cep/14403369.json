@@ -5,5 +5,7 @@
   "bairro": "Vila Industrial",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5453252",
+  "longitude": "-47.3983581"
 }

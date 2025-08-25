@@ -5,5 +5,7 @@
   "bairro": "Residencial Verana Pouso Alegre",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2387126",
+  "longitude": "-45.9693029"
 }

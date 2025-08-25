@@ -5,5 +5,7 @@
   "bairro": "Santa Marta",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2627532",
+  "longitude": "-45.9246625"
 }

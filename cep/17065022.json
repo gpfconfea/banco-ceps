@@ -5,5 +5,7 @@
   "bairro": "Jardim Prudência",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3164022",
+  "longitude": "-49.1097345"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pimenta",
   "uf": "MG",
-  "ibge": "3150505"
+  "ibge": "3150505",
+  "latitude": "-20.4807246",
+  "longitude": "-45.8008923"
 }

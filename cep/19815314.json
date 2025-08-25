@@ -5,5 +5,7 @@
   "bairro": "Vila Claudia",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-20.8289274",
+  "longitude": "-49.4877502"
 }

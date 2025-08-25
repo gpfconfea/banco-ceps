@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.2194351",
+  "longitude": "-47.5255621"
 }

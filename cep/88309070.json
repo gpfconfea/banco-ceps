@@ -5,5 +5,7 @@
   "bairro": "São Vicente",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "latitude": "-26.8953689",
+  "longitude": "-48.6846443"
 }
