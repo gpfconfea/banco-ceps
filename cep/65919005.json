@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.5046311",
+  "longitude": "-47.4871678"
 }

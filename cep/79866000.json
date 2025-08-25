@@ -5,5 +5,7 @@
   "bairro": "Picadinha",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-22.0909826",
+  "longitude": "-55.1232651"
 }

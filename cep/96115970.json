@@ -1,9 +1,11 @@
 {
   "cep": "96115970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Monte Bonito",
   "localidade": "Pelotas",
   "uf": "RS",
-  "ibge": "4314407"
+  "ibge": "4314407",
+  "latitude": "-31.6184398",
+  "longitude": "-52.436679"
 }

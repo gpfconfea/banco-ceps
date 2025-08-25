@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Três Barras",
   "uf": "SC",
-  "ibge": "4218301"
+  "ibge": "4218301",
+  "latitude": "-26.1075086",
+  "longitude": "-50.3207782"
 }

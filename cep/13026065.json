@@ -5,5 +5,7 @@
   "bairro": "Bosque",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9120397",
+  "longitude": "-47.0529762"
 }

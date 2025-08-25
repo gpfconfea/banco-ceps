@@ -1,9 +1,11 @@
 {
   "cep": "68310971",
   "logradouro": "Vila de Carrazedo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Carrazedo",
   "localidade": "Gurupá",
   "uf": "PA",
-  "ibge": "1503101"
+  "ibge": "1503101",
+  "latitude": "-1.5783943",
+  "longitude": "-51.9149719"
 }

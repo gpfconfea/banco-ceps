@@ -5,5 +5,7 @@
   "bairro": "Residencial José Reinaldo Tavares",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5904621",
+  "longitude": "-44.1748431"
 }

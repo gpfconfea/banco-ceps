@@ -1,9 +1,11 @@
 {
   "cep": "13900916",
   "logradouro": "Avenida Bernardino de Campos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-22.7091135",
+  "longitude": "-46.7739954"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sales",
   "uf": "SP",
-  "ibge": "3544806"
+  "ibge": "3544806",
+  "latitude": "-21.342962",
+  "longitude": "-49.5007354"
 }

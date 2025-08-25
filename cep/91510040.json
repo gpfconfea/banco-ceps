@@ -5,5 +5,7 @@
   "bairro": "Coronel Aparício Borges",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0678528",
+  "longitude": "-51.1831848"
 }

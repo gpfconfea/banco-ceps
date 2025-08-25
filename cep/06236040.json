@@ -5,5 +5,7 @@
   "bairro": "I.A.P.I.",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.5133211",
+  "longitude": "-46.7945448"
 }

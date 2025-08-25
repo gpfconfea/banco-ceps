@@ -5,5 +5,7 @@
   "bairro": "Floriano Peixoto",
   "localidade": "Boca do Acre",
   "uf": "AM",
-  "ibge": "1300706"
+  "ibge": "1300706",
+  "latitude": "-9.2844994",
+  "longitude": "-67.711402"
 }

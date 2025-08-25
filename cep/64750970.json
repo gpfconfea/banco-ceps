@@ -1,9 +1,11 @@
 {
   "cep": "64750970",
   "logradouro": "Avenida Marechal Deodoro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Paulistana",
   "uf": "PI",
-  "ibge": "2207801"
+  "ibge": "2207801",
+  "latitude": "-8.1316921",
+  "longitude": "-41.1393831"
 }

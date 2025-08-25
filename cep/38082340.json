@@ -5,5 +5,7 @@
   "bairro": "Jardim Belo Horizonte",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.738857",
+  "longitude": "-47.899788"
 }

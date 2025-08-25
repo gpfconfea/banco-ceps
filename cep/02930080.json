@@ -5,5 +5,7 @@
   "bairro": "Vila Picinin",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4925622",
+  "longitude": "-46.7090553"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Village",
   "localidade": "Boa Vista",
   "uf": "RR",
-  "ibge": "1400100"
+  "ibge": "1400100",
+  "latitude": "-18.720444",
+  "longitude": "-39.8764981"
 }

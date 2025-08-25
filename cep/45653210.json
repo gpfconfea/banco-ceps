@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "latitude": "-14.7981031",
+  "longitude": "-39.0327916"
 }

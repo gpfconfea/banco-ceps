@@ -5,5 +5,7 @@
   "bairro": "Jardim São Vicente",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-22.9632298",
+  "longitude": "-45.5472519"
 }

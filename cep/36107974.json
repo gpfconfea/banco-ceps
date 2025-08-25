@@ -1,9 +1,11 @@
 {
   "cep": "36107974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Torreões",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.7915144",
+  "longitude": "-43.5876798"
 }

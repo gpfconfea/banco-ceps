@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Buritis",
   "uf": "MG",
-  "ibge": "3109303"
+  "ibge": "3109303",
+  "latitude": "-15.621389",
+  "longitude": "-46.423889"
 }

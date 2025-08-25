@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Madalena",
   "uf": "CE",
-  "ibge": "2307635"
+  "ibge": "2307635",
+  "latitude": "-4.853763",
+  "longitude": "-39.5763766"
 }

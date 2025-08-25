@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.09008",
+  "longitude": "-48.9203493"
 }

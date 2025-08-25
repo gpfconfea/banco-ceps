@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto Alegre (Distrito de Iguatemi)",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-25.4307354",
+  "longitude": "-49.273813"
 }

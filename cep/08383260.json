@@ -5,5 +5,7 @@
   "bairro": "Recanto Alegre",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7697034",
+  "longitude": "-46.6887755"
 }

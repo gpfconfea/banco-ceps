@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Campina Grande do Sul",
   "uf": "PR",
-  "ibge": "4104006"
+  "ibge": "4104006",
+  "latitude": "-25.3046032",
+  "longitude": "-49.0545355"
 }

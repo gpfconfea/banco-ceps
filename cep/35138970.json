@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alpercata",
   "uf": "MG",
-  "ibge": "3101805"
+  "ibge": "3101805",
+  "latitude": "-18.9926227",
+  "longitude": "-41.9906561"
 }

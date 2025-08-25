@@ -5,5 +5,7 @@
   "bairro": "Santa Izabel",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "latitude": "-22.5266565",
+  "longitude": "-44.166175"
 }

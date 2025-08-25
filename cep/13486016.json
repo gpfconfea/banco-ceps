@@ -5,5 +5,7 @@
   "bairro": "Jardim Barão de Souza Queiroz",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5708259",
+  "longitude": "-47.3869336"
 }

@@ -5,5 +5,7 @@
   "bairro": "Pacaembu",
   "localidade": "Cascavel",
   "uf": "PR",
-  "ibge": "4104808"
+  "ibge": "4104808",
+  "latitude": "-24.9512642",
+  "longitude": "-53.4183703"
 }

@@ -5,5 +5,7 @@
   "bairro": "Planta Suburbana",
   "localidade": "Piraquara",
   "uf": "PR",
-  "ibge": "4119509"
+  "ibge": "4119509",
+  "latitude": "-25.4195093",
+  "longitude": "-49.0518743"
 }

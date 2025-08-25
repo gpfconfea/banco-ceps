@@ -5,5 +5,7 @@
   "bairro": "São João Bosco",
   "localidade": "Ciríaco",
   "uf": "RS",
-  "ibge": "4305504"
+  "ibge": "4305504",
+  "latitude": "-28.4298816",
+  "longitude": "-51.9486641"
 }

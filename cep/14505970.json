@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ituverava",
   "uf": "SP",
-  "ibge": "3524105"
+  "ibge": "3524105",
+  "latitude": "-20.2475678",
+  "longitude": "-47.8715017"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Mirante",
   "localidade": "Cabrália Paulista",
   "uf": "SP",
-  "ibge": "3508306"
+  "ibge": "3508306",
+  "latitude": "-22.4575489",
+  "longitude": "-49.3324121"
 }

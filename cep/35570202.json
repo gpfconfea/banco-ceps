@@ -5,5 +5,7 @@
   "bairro": "Quinzinho",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-19.8564988",
+  "longitude": "-43.8903508"
 }

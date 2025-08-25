@@ -5,5 +5,7 @@
   "bairro": "Bairro da Ponte",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-27.3808461",
+  "longitude": "-52.4573704"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rondon",
   "uf": "PR",
-  "ibge": "4122602"
+  "ibge": "4122602",
+  "latitude": "-23.5636049",
+  "longitude": "-52.844871"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "59182972",
   "logradouro": "Rua São Francisco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Monte Alegre",
   "uf": "RN",
-  "ibge": "2407807"
+  "ibge": "2407807",
+  "latitude": "-2.6275647",
+  "longitude": "-45.754796"
 }

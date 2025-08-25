@@ -5,5 +5,7 @@
   "bairro": "Jardim Marek",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6764114",
+  "longitude": "-46.4888952"
 }

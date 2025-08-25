@@ -5,5 +5,7 @@
   "bairro": "Jardim das Magnólias",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5101286",
+  "longitude": "-47.4836326"
 }

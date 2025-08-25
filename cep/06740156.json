@@ -5,5 +5,7 @@
   "bairro": "Parque Santo Afonso",
   "localidade": "Vargem Grande Paulista",
   "uf": "SP",
-  "ibge": "3556453"
+  "ibge": "3556453",
+  "latitude": "-23.6342007",
+  "longitude": "-46.9987969"
 }

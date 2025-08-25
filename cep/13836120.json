@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "latitude": "-22.3384292",
+  "longitude": "-47.1605368"
 }

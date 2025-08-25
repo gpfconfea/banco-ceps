@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipaussurama",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9257721",
+  "longitude": "-47.125478"
 }

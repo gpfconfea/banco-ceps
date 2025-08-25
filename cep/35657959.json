@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Leandro Ferreira",
   "uf": "MG",
-  "ibge": "3138302"
+  "ibge": "3138302",
+  "latitude": "-19.7173901",
+  "longitude": "-45.0243921"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Tulipas",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5146439",
+  "longitude": "-47.5160432"
 }

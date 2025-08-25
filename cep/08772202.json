@@ -5,5 +5,7 @@
   "bairro": "Vila Augusta",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.4993245",
+  "longitude": "-46.1803267"
 }
