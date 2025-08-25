@@ -5,5 +5,7 @@
   "bairro": "Residencial Anglo",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6354828",
+  "longitude": "-49.3317846"
 }

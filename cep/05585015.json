@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Vista (Zona Oeste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5700426",
+  "longitude": "-46.7253546"
 }

@@ -5,5 +5,7 @@
   "bairro": "Polo de Alta Tecnologia de Campinas - Polo I",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8558362",
+  "longitude": "-47.1378867"
 }

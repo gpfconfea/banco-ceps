@@ -5,5 +5,7 @@
   "bairro": "Vila Amália (Zona Norte)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.5077313",
+  "longitude": "-47.3900476"
 }

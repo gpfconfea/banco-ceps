@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Carlos",
   "uf": "SC",
-  "ibge": "4216008"
+  "ibge": "4216008",
+  "latitude": "-22.0157635",
+  "longitude": "-47.8769203"
 }

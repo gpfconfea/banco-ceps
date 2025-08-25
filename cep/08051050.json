@@ -5,5 +5,7 @@
   "bairro": "Limoeiro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5179292",
+  "longitude": "-46.4715395"
 }

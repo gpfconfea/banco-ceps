@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taparuba",
   "uf": "MG",
-  "ibge": "3168051"
+  "ibge": "3168051",
+  "latitude": "-19.7601712",
+  "longitude": "-41.6160276"
 }

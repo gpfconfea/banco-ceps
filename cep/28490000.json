@@ -5,5 +5,7 @@
   "bairro": "Monte Alegre",
   "localidade": "Santo Antônio de Pádua",
   "uf": "RJ",
-  "ibge": "3304706"
+  "ibge": "3304706",
+  "latitude": "-21.4648",
+  "longitude": "-42.0396"
 }

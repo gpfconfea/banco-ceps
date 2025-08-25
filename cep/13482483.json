@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Carlo",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5685019",
+  "longitude": "-47.4353691"
 }

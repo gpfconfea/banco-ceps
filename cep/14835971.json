@@ -1,9 +1,11 @@
 {
   "cep": "14835971",
   "logradouro": "Rodovia Francisco Mazini",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Malzone",
   "localidade": "Motuca",
   "uf": "SP",
-  "ibge": "3532058"
+  "ibge": "3532058",
+  "latitude": "-21.5076418",
+  "longitude": "-48.1521785"
 }

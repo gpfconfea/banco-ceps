@@ -1,9 +1,11 @@
 {
   "cep": "15409971",
   "logradouro": "Rua João Bataus",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Baguaçu)",
   "localidade": "Olímpia",
   "uf": "SP",
-  "ibge": "3533908"
+  "ibge": "3533908",
+  "latitude": "-20.6894125",
+  "longitude": "-49.0669604"
 }

@@ -5,5 +5,7 @@
   "bairro": "Estância Tijuco Preto",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5854064",
+  "longitude": "-46.2983632"
 }

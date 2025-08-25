@@ -1,9 +1,11 @@
 {
   "cep": "64285959",
   "logradouro": "Rua Joaquim da Mata",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Sigefredo Pacheco",
   "uf": "PI",
-  "ibge": "2210656"
+  "ibge": "2210656",
+  "latitude": "-4.915488",
+  "longitude": "-41.7329102"
 }

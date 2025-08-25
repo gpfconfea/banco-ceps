@@ -6,5 +6,7 @@
   "bairro": "Vila Primavera",
   "localidade": "Jarinu",
   "uf": "SP",
-  "ibge": "3525201"
+  "ibge": "3525201",
+  "latitude": "-23.1048437",
+  "longitude": "-46.6999453"
 }

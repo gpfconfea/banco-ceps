@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova América da Colina",
   "uf": "PR",
-  "ibge": "4116604"
+  "ibge": "4116604",
+  "latitude": "-23.3309936",
+  "longitude": "-50.7188654"
 }

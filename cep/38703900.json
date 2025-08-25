@@ -1,9 +1,11 @@
 {
   "cep": "38703900",
   "logradouro": "Avenida Marabá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bela Vista",
   "localidade": "Patos de Minas",
   "uf": "MG",
-  "ibge": "3148004"
+  "ibge": "3148004",
+  "latitude": "-18.5709572",
+  "longitude": "-46.499725"
 }

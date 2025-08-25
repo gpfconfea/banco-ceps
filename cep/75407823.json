@@ -5,5 +5,7 @@
   "bairro": "Residencial João do Couto",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.3712448",
+  "longitude": "-49.4790476"
 }

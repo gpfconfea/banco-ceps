@@ -1,9 +1,11 @@
 {
   "cep": "39300974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Francisco",
   "uf": "MG",
-  "ibge": "3161106"
+  "ibge": "3161106",
+  "latitude": "-17.2542484",
+  "longitude": "-42.2927983"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "77590970",
   "logradouro": "Avenida 6",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Ponte Alta do Tocantins",
   "uf": "TO",
-  "ibge": "1717909"
+  "ibge": "1717909",
+  "latitude": "-10.7481801",
+  "longitude": "-47.5359129"
 }

@@ -5,5 +5,7 @@
   "bairro": "Fumacê",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-23.4824898",
+  "longitude": "-46.878925"
 }

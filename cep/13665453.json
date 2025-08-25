@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Paulo Calisto",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-23.45391",
+  "longitude": "-46.5860191"
 }

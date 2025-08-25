@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Takeo Toyota",
   "localidade": "Garça",
   "uf": "SP",
-  "ibge": "3516705"
+  "ibge": "3516705",
+  "latitude": "-22.2111968",
+  "longitude": "-49.6847621"
 }

@@ -5,5 +5,7 @@
   "bairro": "Campo Velho",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6179113",
+  "longitude": "-56.081491"
 }

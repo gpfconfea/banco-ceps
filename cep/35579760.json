@@ -6,5 +6,7 @@
   "bairro": "Furnastur",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.5383777",
+  "longitude": "-45.6139394"
 }

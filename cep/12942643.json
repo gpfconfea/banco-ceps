@@ -5,5 +5,7 @@
   "bairro": "Condomínio Altos da Floresta",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.1358957",
+  "longitude": "-46.5655108"
 }

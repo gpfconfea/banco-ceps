@@ -5,5 +5,7 @@
   "bairro": "Vila Dias",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.7444837",
+  "longitude": "-50.3813684"
 }

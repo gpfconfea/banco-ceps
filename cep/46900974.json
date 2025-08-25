@@ -1,9 +1,11 @@
 {
   "cep": "46900974",
   "logradouro": "Praça Quintino Bocaiúva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Seabra",
   "uf": "BA",
-  "ibge": "2929909"
+  "ibge": "2929909",
+  "latitude": "-12.418608",
+  "longitude": "-41.7683086"
 }

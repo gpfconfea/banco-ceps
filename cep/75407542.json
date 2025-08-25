@@ -5,5 +5,7 @@
   "bairro": "Anhanguera",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.3673173",
+  "longitude": "-49.4864841"
 }

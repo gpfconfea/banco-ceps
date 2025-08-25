@@ -5,5 +5,7 @@
   "bairro": "Residencial Las Palmas",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "latitude": "-21.6192598",
+  "longitude": "-48.3424704"
 }

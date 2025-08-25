@@ -5,5 +5,7 @@
   "bairro": "Albuquerque",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "latitude": "-12.135789",
+  "longitude": "-38.4411761"
 }

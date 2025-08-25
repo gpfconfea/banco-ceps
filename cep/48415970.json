@@ -1,9 +1,11 @@
 {
   "cep": "48415970",
   "logradouro": "Rua Duque de Caxias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Fátima",
   "uf": "BA",
-  "ibge": "2910750"
+  "ibge": "2910750",
+  "latitude": "-2.9027679",
+  "longitude": "-41.7803447"
 }

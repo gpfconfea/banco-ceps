@@ -5,5 +5,7 @@
   "bairro": "Três Barras",
   "localidade": "Taparuba",
   "uf": "MG",
-  "ibge": "3168051"
+  "ibge": "3168051",
+  "latitude": "-19.7256348",
+  "longitude": "-41.5666048"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque das Cerejeiras",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.5226597",
+  "longitude": "-47.3560446"
 }

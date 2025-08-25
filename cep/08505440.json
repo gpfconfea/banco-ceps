@@ -5,5 +5,7 @@
   "bairro": "Jardim Valentim",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "latitude": "-23.551284",
+  "longitude": "-46.3707371"
 }

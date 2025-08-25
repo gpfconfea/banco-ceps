@@ -1,9 +1,11 @@
 {
   "cep": "75545980",
   "logradouro": "Avenida Baltazar Cardoso",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campo Limpo",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "latitude": "-16.2977708",
+  "longitude": "-49.0880741"
 }

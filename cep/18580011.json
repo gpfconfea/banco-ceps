@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Pereiras",
   "uf": "SP",
-  "ibge": "3537503"
+  "ibge": "3537503",
+  "latitude": "-23.0813272",
+  "longitude": "-47.97588"
 }

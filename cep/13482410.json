@@ -5,5 +5,7 @@
   "bairro": "Residencial Margarida de Holstein",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5848951",
+  "longitude": "-47.4275823"
 }

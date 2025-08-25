@@ -1,9 +1,11 @@
 {
   "cep": "87325970",
   "logradouro": "Avenida Paraná",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Farol",
   "uf": "PR",
-  "ibge": "4107553"
+  "ibge": "4107553",
+  "latitude": "-24.0903188",
+  "longitude": "-52.6199219"
 }

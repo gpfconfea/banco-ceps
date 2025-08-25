@@ -5,5 +5,7 @@
   "bairro": "Vila Centenário",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1327051",
+  "longitude": "-51.3774293"
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Nova Luzitânia",
   "uf": "SP",
-  "ibge": "3533304"
+  "ibge": "3533304",
+  "latitude": "-20.8507489",
+  "longitude": "-50.2582895"
 }

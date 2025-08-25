@@ -5,5 +5,7 @@
   "bairro": "Benfica",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.7390918",
+  "longitude": "-38.5386854"
 }

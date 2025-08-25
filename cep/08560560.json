@@ -5,5 +5,7 @@
   "bairro": "Vila Arquimedes",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-23.5349826",
+  "longitude": "-46.3384336"
 }

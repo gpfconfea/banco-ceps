@@ -1,9 +1,11 @@
 {
   "cep": "39742971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sapucaia de Guanhães",
   "localidade": "Guanhães",
   "uf": "MG",
-  "ibge": "3128006"
+  "ibge": "3128006",
+  "latitude": "-18.8852098",
+  "longitude": "-42.7966936"
 }

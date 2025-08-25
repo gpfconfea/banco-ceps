@@ -5,5 +5,7 @@
   "bairro": "Bandeira Branca",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.286345",
+  "longitude": "-45.8999643"
 }

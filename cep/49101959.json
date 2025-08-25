@@ -1,9 +1,11 @@
 {
   "cep": "49101959",
   "logradouro": "Avenida Marginal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rosa Elze",
   "localidade": "São Cristóvão",
   "uf": "SE",
-  "ibge": "2806701"
+  "ibge": "2806701",
+  "latitude": "-10.9293696",
+  "longitude": "-37.1185016"
 }

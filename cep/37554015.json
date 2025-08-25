@@ -5,5 +5,7 @@
   "bairro": "Jardim São José",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-19.7508761",
+  "longitude": "-43.9489383"
 }

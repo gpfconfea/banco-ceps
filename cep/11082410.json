@@ -5,5 +5,7 @@
   "bairro": "Morro São Bento",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-30.5503221",
+  "longitude": "-52.5194982"
 }

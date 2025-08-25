@@ -1,9 +1,11 @@
 {
   "cep": "24890974",
   "logradouro": "Rua Deputado Álvaro Vale Quadra 18 Lote 3",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bandeirantes I",
   "localidade": "Tanguá",
   "uf": "RJ",
-  "ibge": "3305752"
+  "ibge": "3305752",
+  "latitude": "-22.8827713",
+  "longitude": "-42.6326645"
 }

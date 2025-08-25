@@ -1,9 +1,11 @@
 {
   "cep": "56512972",
   "logradouro": "Avenida Osvaldo Cruz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Coronel Siqueira Campos",
   "localidade": "Arcoverde",
   "uf": "PE",
-  "ibge": "2601201"
+  "ibge": "2601201",
+  "latitude": "-8.4119158",
+  "longitude": "-37.0855606"
 }

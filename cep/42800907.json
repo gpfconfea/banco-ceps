@@ -1,9 +1,11 @@
 {
   "cep": "42800907",
   "logradouro": "Rua de Contorno do Centro Cultural",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.7056154",
+  "longitude": "-38.31879"
 }

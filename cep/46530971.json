@@ -1,9 +1,11 @@
 {
   "cep": "46530971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Brejo Grande",
   "localidade": "Boquira",
   "uf": "BA",
-  "ibge": "2904100"
+  "ibge": "2904100",
+  "latitude": "-12.8382338",
+  "longitude": "-42.719369"
 }
