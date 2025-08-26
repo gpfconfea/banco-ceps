@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rondon do Pará",
   "uf": "PA",
-  "ibge": "1506187"
+  "ibge": "1506187",
+  "latitude": "-4.7888551",
+  "longitude": "-48.0730962"
 }

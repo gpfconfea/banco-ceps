@@ -1,9 +1,11 @@
 {
   "cep": "48413970",
   "logradouro": "Rua Principal de São João da Fortaleza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João da Fortaleza",
   "localidade": "Cícero Dantas",
   "uf": "BA",
-  "ibge": "2907806"
+  "ibge": "2907806",
+  "latitude": "-10.4830496",
+  "longitude": "-38.5005723"
 }

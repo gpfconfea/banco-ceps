@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antônio",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3244855",
+  "longitude": "-49.0609461"
 }

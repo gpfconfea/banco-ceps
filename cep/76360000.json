@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itapaci",
   "uf": "GO",
-  "ibge": "5210901"
+  "ibge": "5210901",
+  "latitude": "-14.9522349",
+  "longitude": "-49.5511221"
 }

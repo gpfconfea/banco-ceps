@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Onofre Jacometi",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5422695",
+  "longitude": "-47.4645148"
 }

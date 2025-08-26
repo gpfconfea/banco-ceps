@@ -5,5 +5,7 @@
   "bairro": "Parque das Palmeiras",
   "localidade": "Neves Paulista",
   "uf": "SP",
-  "ibge": "3532504"
+  "ibge": "3532504",
+  "latitude": "-20.8523826",
+  "longitude": "-49.6343632"
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "latitude": "-19.5539488",
+  "longitude": "-42.5894561"
 }

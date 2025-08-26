@@ -5,5 +5,7 @@
   "bairro": "Vila Monte Verde",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.4915036",
+  "longitude": "-46.6830538"
 }

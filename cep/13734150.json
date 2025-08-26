@@ -5,5 +5,7 @@
   "bairro": "Mocoquinha",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4636157",
+  "longitude": "-46.9979859"
 }

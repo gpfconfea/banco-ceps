@@ -1,9 +1,11 @@
 {
   "cep": "62897974",
   "logradouro": "Avenida Canavieira dos Pinheiros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aningás",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "latitude": "-4.0947519",
+  "longitude": "-38.4190989"
 }

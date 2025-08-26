@@ -1,9 +1,11 @@
 {
   "cep": "89700994",
   "logradouro": "Rua Principal - Presidente Kennedy",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "latitude": "-27.2423392",
+  "longitude": "-50.2188556"
 }

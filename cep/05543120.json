@@ -5,5 +5,7 @@
   "bairro": "Vila Albano",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.0992789",
+  "longitude": "-47.2087841"
 }

@@ -5,5 +5,7 @@
   "bairro": "Monte Verde",
   "localidade": "Cambuci",
   "uf": "RJ",
-  "ibge": "3300902"
+  "ibge": "3300902",
+  "latitude": "-21.4697",
+  "longitude": "-41.9119"
 }

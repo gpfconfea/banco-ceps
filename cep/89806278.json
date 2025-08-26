@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Chapecó",
   "uf": "SC",
-  "ibge": "4204202"
+  "ibge": "4204202",
+  "latitude": "-27.089983",
+  "longitude": "-52.5838255"
 }

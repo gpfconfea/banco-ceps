@@ -1,9 +1,11 @@
 {
   "cep": "44810970",
   "logradouro": "Rua do Prédio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Indaí",
   "localidade": "Mundo Novo",
   "uf": "BA",
-  "ibge": "2922102"
+  "ibge": "2922102",
+  "latitude": "-9.6458604",
+  "longitude": "-39.572364"
 }

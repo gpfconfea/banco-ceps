@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Central de Minas",
   "uf": "MG",
-  "ibge": "3115706"
+  "ibge": "3115706",
+  "latitude": "-18.7612885",
+  "longitude": "-41.3071204"
 }

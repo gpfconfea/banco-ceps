@@ -5,5 +5,7 @@
   "bairro": "Martim de Sá",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.7181374",
+  "longitude": "-45.4433525"
 }

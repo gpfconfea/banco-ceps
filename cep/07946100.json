@@ -5,5 +5,7 @@
   "bairro": "Jardim Arpoador",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.2568194",
+  "longitude": "-46.7273959"
 }

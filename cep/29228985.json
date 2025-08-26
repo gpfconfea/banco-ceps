@@ -1,9 +1,11 @@
 {
   "cep": "29228985",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Todos os Santos",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "latitude": "-20.5222483",
+  "longitude": "-40.3848938"
 }

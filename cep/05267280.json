@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Paraíso",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "36.5270612",
+  "longitude": "-6.2885962"
 }

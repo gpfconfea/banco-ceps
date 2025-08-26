@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Amorim",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5457134",
+  "longitude": "-46.2887695"
 }

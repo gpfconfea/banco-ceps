@@ -6,5 +6,7 @@
   "bairro": "Vila Brasília",
   "localidade": "Bernardino de Campos",
   "uf": "SP",
-  "ibge": "3506300"
+  "ibge": "3506300",
+  "latitude": "-23.0130978",
+  "longitude": "-49.4835177"
 }

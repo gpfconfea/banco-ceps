@@ -1,9 +1,11 @@
 {
   "cep": "29230980",
   "logradouro": "Rua Diógenes Tosta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Iriri",
   "localidade": "Anchieta",
   "uf": "ES",
-  "ibge": "3200409"
+  "ibge": "3200409",
+  "latitude": "-20.8306376",
+  "longitude": "-40.6950139"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Salém",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5768607",
+  "longitude": "-48.0495573"
 }

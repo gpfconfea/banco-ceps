@@ -6,5 +6,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Turmalina",
   "uf": "SP",
-  "ibge": "3555307"
+  "ibge": "3555307",
+  "latitude": "-17.286102",
+  "longitude": "-42.7312574"
 }

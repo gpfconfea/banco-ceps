@@ -5,5 +5,7 @@
   "bairro": "Conselheiro Paulino",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "latitude": "-22.2354555",
+  "longitude": "-42.5264021"
 }

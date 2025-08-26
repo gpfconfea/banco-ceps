@@ -5,5 +5,7 @@
   "bairro": "Monte Verde",
   "localidade": "Camanducaia",
   "uf": "MG",
-  "ibge": "3110509"
+  "ibge": "3110509",
+  "latitude": "-22.8528203",
+  "longitude": "-46.0257232"
 }

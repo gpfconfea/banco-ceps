@@ -5,5 +5,7 @@
   "bairro": "Floresta",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.7825359",
+  "longitude": "-63.8746514"
 }

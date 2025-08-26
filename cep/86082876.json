@@ -5,5 +5,7 @@
   "bairro": "Residencial Horizonte",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2505197",
+  "longitude": "-51.1875701"
 }

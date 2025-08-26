@@ -5,5 +5,7 @@
   "bairro": "Autran Nunes",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-22.8403769",
+  "longitude": "-47.6158408"
 }

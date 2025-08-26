@@ -5,5 +5,7 @@
   "bairro": "Vila São Silvestre",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5612343",
+  "longitude": "-46.7536903"
 }

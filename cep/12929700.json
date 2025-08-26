@@ -5,5 +5,7 @@
   "bairro": "Guaripocaba",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.9475308",
+  "longitude": "-46.5925882"
 }

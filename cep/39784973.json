@@ -1,9 +1,11 @@
 {
   "cep": "39784973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Araras",
   "localidade": "São Pedro do Suaçuí",
   "uf": "MG",
-  "ibge": "3164100"
+  "ibge": "3164100",
+  "latitude": "-18.3423142",
+  "longitude": "-42.5521318"
 }

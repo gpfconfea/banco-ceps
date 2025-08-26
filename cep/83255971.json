@@ -1,9 +1,11 @@
 {
   "cep": "83255971",
   "logradouro": "Rua Pau Brasil",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pontal do Sul",
   "localidade": "Pontal do Paraná",
   "uf": "PR",
-  "ibge": "4119954"
+  "ibge": "4119954",
+  "latitude": "-25.576183",
+  "longitude": "-48.3586423"
 }

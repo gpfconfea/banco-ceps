@@ -5,5 +5,7 @@
   "bairro": "Biritiba",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-23.5363899",
+  "longitude": "-46.339951"
 }

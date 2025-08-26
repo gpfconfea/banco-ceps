@@ -5,5 +5,7 @@
   "bairro": "Sapinhatuba III",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "latitude": "-23.0086999",
+  "longitude": "-44.2901951"
 }

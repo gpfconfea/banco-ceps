@@ -1,9 +1,11 @@
 {
   "cep": "77675959",
   "logradouro": "Avenida Água Boa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Marianópolis do Tocantins",
   "uf": "TO",
-  "ibge": "1712504"
+  "ibge": "1712504",
+  "latitude": "-9.7963219",
+  "longitude": "-49.6552701"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Estádio",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-23.4586244",
+  "longitude": "-46.5307123"
 }

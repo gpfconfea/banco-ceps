@@ -1,9 +1,11 @@
 {
   "cep": "77570959",
   "logradouro": "Avenida Tocantins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Pium",
   "uf": "TO",
-  "ibge": "1717503"
+  "ibge": "1717503",
+  "latitude": "-10.4405482",
+  "longitude": "-49.1816797"
 }

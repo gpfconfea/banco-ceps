@@ -5,5 +5,7 @@
   "bairro": "Campo Grande",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.2620236",
+  "longitude": "-49.3532921"
 }

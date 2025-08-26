@@ -5,5 +5,7 @@
   "bairro": "Setor Industrial Norte",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "latitude": "-11.8577342",
+  "longitude": "-55.495649"
 }

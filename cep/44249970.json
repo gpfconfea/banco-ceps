@@ -1,9 +1,11 @@
 {
   "cep": "44249970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Picado",
   "localidade": "Conceição do Jacuípe",
   "uf": "BA",
-  "ibge": "2908507"
+  "ibge": "2908507",
+  "latitude": "-12.3305697",
+  "longitude": "-38.7670892"
 }

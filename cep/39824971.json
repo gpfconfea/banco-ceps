@@ -1,9 +1,11 @@
 {
   "cep": "39824971",
   "logradouro": "Rua do Posto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lufa",
   "localidade": "Novo Cruzeiro",
   "uf": "MG",
-  "ibge": "3145307"
+  "ibge": "3145307",
+  "latitude": "-17.2402452",
+  "longitude": "-41.9348675"
 }

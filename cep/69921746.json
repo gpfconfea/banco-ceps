@@ -5,5 +5,7 @@
   "bairro": "Tancredo Neves",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-10.0085318",
+  "longitude": "-67.7775007"
 }

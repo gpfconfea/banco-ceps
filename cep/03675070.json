@@ -5,5 +5,7 @@
   "bairro": "Jardim Lisboa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5178418",
+  "longitude": "-46.4981821"
 }

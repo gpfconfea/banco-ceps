@@ -1,9 +1,11 @@
 {
   "cep": "95823974",
   "logradouro": "Rua Thomas Pereira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Amaro do Sul",
   "localidade": "General Câmara",
   "uf": "RS",
-  "ibge": "4308805"
+  "ibge": "4308805",
+  "latitude": "-29.9379202",
+  "longitude": "-51.898649"
 }

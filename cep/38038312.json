@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Anatê I",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.7419441",
+  "longitude": "-48.0016345"
 }

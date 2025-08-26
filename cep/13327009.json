@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Rita",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.177641",
+  "longitude": "-47.3114863"
 }

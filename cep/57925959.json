@@ -1,9 +1,11 @@
 {
   "cep": "57925959",
   "logradouro": "Avenida Benedito Casado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Barra de Santo Antônio",
   "uf": "AL",
-  "ibge": "2700508"
+  "ibge": "2700508",
+  "latitude": "-9.4021253",
+  "longitude": "-35.5101676"
 }

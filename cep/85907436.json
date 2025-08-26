@@ -5,5 +5,7 @@
   "bairro": "Pinheirinho",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "latitude": "-24.7504749",
+  "longitude": "-53.7072816"
 }
