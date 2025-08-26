@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "latitude": "-22.3744026",
+  "longitude": "-47.3919711"
 }

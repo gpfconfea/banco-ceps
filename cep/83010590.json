@@ -5,5 +5,7 @@
   "bairro": "Águas Belas",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "-25.5339649",
+  "longitude": "-49.1867737"
 }

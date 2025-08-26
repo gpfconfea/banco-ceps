@@ -1,9 +1,11 @@
 {
   "cep": "64595970",
   "logradouro": "Avenida Boa Esperança",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Curral Novo do Piauí",
   "uf": "PI",
-  "ibge": "2203271"
+  "ibge": "2203271",
+  "latitude": "-7.8352873",
+  "longitude": "-40.9028917"
 }

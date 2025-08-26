@@ -5,5 +5,7 @@
   "bairro": "Jardim do Vale",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4742176",
+  "longitude": "-46.3056827"
 }

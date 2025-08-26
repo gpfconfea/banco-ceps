@@ -1,9 +1,11 @@
 {
   "cep": "68398959",
   "logradouro": "Avenida dos Estados",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cumaru do Norte",
   "uf": "PA",
-  "ibge": "1502764"
+  "ibge": "1502764",
+  "latitude": "-7.8133545",
+  "longitude": "-50.7640869"
 }

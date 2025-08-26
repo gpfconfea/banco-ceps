@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.7543576",
+  "longitude": "-47.6591667"
 }

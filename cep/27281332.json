@@ -5,5 +5,7 @@
   "bairro": "Retiro",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.4992746",
+  "longitude": "-44.1097785"
 }

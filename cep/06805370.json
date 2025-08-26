@@ -5,5 +5,7 @@
   "bairro": "Jardim Colibri",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "latitude": "-23.6173206",
+  "longitude": "-46.8568175"
 }

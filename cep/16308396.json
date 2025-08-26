@@ -5,5 +5,7 @@
   "bairro": "Residencial Dois Irmãos",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-21.4036569",
+  "longitude": "-50.0823924"
 }

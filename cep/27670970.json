@@ -1,9 +1,11 @@
 {
   "cep": "27670970",
   "logradouro": "Estrada RJ-135",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Abarracamento",
   "localidade": "Rio das Flores",
   "uf": "RJ",
-  "ibge": "3304508"
+  "ibge": "3304508",
+  "latitude": "-22.1852079",
+  "longitude": "-43.3964418"
 }

@@ -5,5 +5,7 @@
   "bairro": "Monsuaba",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "latitude": "-23.0129955",
+  "longitude": "-44.2196852"
 }

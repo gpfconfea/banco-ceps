@@ -1,9 +1,11 @@
 {
   "cep": "89700990",
   "logradouro": "Rua Principal - Santo Antonio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "latitude": "-27.2040882",
+  "longitude": "-51.9791849"
 }

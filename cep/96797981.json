@@ -1,9 +1,11 @@
 {
   "cep": "96797981",
   "logradouro": "Estrada Santa Auta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sant'auta",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-30.8493976",
+  "longitude": "-51.8048311"
 }

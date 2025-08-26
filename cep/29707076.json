@@ -5,5 +5,7 @@
   "bairro": "Marista",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-19.5092741",
+  "longitude": "-40.61783"
 }

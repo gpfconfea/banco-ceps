@@ -1,9 +1,11 @@
 {
   "cep": "56245970",
   "logradouro": "Rua Nossa Senhora do Perpetuo Socorro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Exu",
   "uf": "PE",
-  "ibge": "2605301"
+  "ibge": "2605301",
+  "latitude": "-7.5248199",
+  "longitude": "-39.5726265"
 }

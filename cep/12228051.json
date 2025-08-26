@@ -5,5 +5,7 @@
   "bairro": "Residencial Pinheirinho dos Palmares II",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.2728729",
+  "longitude": "-45.8882358"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sabáudia",
   "uf": "PR",
-  "ibge": "4122701"
+  "ibge": "4122701",
+  "latitude": "-23.3154276",
+  "longitude": "-51.5616683"
 }

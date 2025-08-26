@@ -5,5 +5,7 @@
   "bairro": "Santa Fé",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "latitude": "-29.1211288",
+  "longitude": "-51.182684"
 }

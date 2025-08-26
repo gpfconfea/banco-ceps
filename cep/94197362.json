@@ -5,5 +5,7 @@
   "bairro": "Parque do Itatiaia",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.9235046",
+  "longitude": "-50.9276375"
 }

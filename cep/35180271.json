@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "latitude": "-19.5474403",
+  "longitude": "-42.6350488"
 }

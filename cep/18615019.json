@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Luiza",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-23.9454057",
+  "longitude": "-46.327546"
 }

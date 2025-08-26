@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Padre Anchieta",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.869429",
+  "longitude": "-47.1543164"
 }

@@ -5,5 +5,7 @@
   "bairro": "Rosa dos Ventos",
   "localidade": "Vespasiano",
   "uf": "MG",
-  "ibge": "3171204"
+  "ibge": "3171204",
+  "latitude": "-19.7641168",
+  "longitude": "-43.9513699"
 }

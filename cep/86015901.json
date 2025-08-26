@@ -5,5 +5,7 @@
   "bairro": "Caiçaras",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.337251",
+  "longitude": "-51.1487767"
 }

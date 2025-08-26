@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperial",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9835013",
+  "longitude": "-46.9957387"
 }

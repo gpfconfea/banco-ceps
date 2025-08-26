@@ -6,5 +6,7 @@
   "bairro": "Jardim Santa Rosa",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.2020878",
+  "longitude": "-47.5244184"
 }

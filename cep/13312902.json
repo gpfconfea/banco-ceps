@@ -1,9 +1,11 @@
 {
   "cep": "13312902",
   "logradouro": "Rua Marginal Emicol",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Emicol",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.3241601",
+  "longitude": "-47.3277312"
 }

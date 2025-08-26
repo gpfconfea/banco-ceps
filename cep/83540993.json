@@ -1,9 +1,11 @@
 {
   "cep": "83540993",
   "logradouro": "Rodovia dos Minérios",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Rio Branco do Sul",
   "uf": "PR",
-  "ibge": "4122206"
+  "ibge": "4122206",
+  "latitude": "-25.196899",
+  "longitude": "-49.3105649"
 }

@@ -5,5 +5,7 @@
   "bairro": "Carolina",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "latitude": "-17.5120031",
+  "longitude": "-39.8482839"
 }

@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "latitude": "-21.9254381",
+  "longitude": "-50.5310879"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Gianetti",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4884612",
+  "longitude": "-46.6958234"
 }

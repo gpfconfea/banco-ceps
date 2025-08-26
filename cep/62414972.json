@@ -1,9 +1,11 @@
 {
   "cep": "62414972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bitupitá",
   "localidade": "Barroquinha",
   "uf": "CE",
-  "ibge": "2302057"
+  "ibge": "2302057",
+  "latitude": "-12.2570076",
+  "longitude": "-38.9865996"
 }

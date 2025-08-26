@@ -5,5 +5,7 @@
   "bairro": "Massaguaçu",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5755475",
+  "longitude": "-45.326907"
 }

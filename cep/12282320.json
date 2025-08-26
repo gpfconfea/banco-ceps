@@ -5,5 +5,7 @@
   "bairro": "Vila Resende",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.1008491",
+  "longitude": "-45.7018711"
 }

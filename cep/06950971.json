@@ -5,5 +5,7 @@
   "bairro": "Palmeiras",
   "localidade": "Juquitiba",
   "uf": "SP",
-  "ibge": "3526209"
+  "ibge": "3526209",
+  "latitude": "-23.9254162",
+  "longitude": "-46.9930077"
 }

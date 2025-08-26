@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "latitude": "-28.4889048",
+  "longitude": "-49.0062215"
 }

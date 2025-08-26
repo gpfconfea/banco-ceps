@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Bernardino de Campos",
   "uf": "SP",
-  "ibge": "3506300"
+  "ibge": "3506300",
+  "latitude": "-23.0227031",
+  "longitude": "-49.4720085"
 }

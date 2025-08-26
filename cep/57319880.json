@@ -5,5 +5,7 @@
   "bairro": "Taquara",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "latitude": "-9.3630781",
+  "longitude": "-36.3668379"
 }

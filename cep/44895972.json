@@ -1,9 +1,11 @@
 {
   "cep": "44895972",
   "logradouro": "Avenida Durval Carneiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gameleira do Barro Alto",
   "localidade": "Barro Alto",
   "uf": "BA",
-  "ibge": "2903235"
+  "ibge": "2903235",
+  "latitude": "-11.9102226",
+  "longitude": "-41.745229"
 }

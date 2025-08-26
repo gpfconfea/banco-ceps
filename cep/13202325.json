@@ -5,5 +5,7 @@
   "bairro": "Vila Isabel Eber",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.205198",
+  "longitude": "-46.8774038"
 }

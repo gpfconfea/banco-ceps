@@ -5,5 +5,7 @@
   "bairro": "Jaraguá",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.483575",
+  "longitude": "-46.7628983"
 }

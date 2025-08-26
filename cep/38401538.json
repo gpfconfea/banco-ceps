@@ -5,5 +5,7 @@
   "bairro": "Pacaembu",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.8813199",
+  "longitude": "-48.2971465"
 }

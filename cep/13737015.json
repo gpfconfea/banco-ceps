@@ -5,5 +5,7 @@
   "bairro": "Jardim Colina Verde",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.4763182",
+  "longitude": "-47.0153688"
 }

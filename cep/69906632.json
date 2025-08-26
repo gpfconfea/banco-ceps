@@ -5,5 +5,7 @@
   "bairro": "Amapá",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-10.0114496",
+  "longitude": "-67.8306507"
 }

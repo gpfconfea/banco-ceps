@@ -5,5 +5,7 @@
   "bairro": "Cidade Parque São Luiz",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.431964",
+  "longitude": "-46.4437904"
 }

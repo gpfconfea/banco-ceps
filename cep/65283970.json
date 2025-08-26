@@ -1,9 +1,11 @@
 {
   "cep": "65283970",
   "logradouro": "Avenida Governador Luiz Rocha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Maranhãozinho",
   "uf": "MA",
-  "ibge": "2106375"
+  "ibge": "2106375",
+  "latitude": "-2.2427771",
+  "longitude": "-45.8579186"
 }

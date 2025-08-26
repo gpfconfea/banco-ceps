@@ -5,5 +5,7 @@
   "bairro": "Alto do Cabrito",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-21.7425505",
+  "longitude": "-41.3462916"
 }

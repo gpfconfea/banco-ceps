@@ -1,9 +1,11 @@
 {
   "cep": "29918970",
   "logradouro": "Avenida José Tesch Sobrinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Rafael",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.3713244",
+  "longitude": "-40.4435666"
 }

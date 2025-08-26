@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Morrinhos",
   "uf": "CE",
-  "ibge": "2308906"
+  "ibge": "2308906",
+  "latitude": "-3.2264612",
+  "longitude": "-40.1275428"
 }

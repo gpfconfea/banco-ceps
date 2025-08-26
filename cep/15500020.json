@@ -5,5 +5,7 @@
   "bairro": "Loteamento Nova Boa Vista",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4095857",
+  "longitude": "-49.9785868"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78348973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Fontanilhas",
   "localidade": "Castanheira",
   "uf": "MT",
-  "ibge": "5102850"
+  "ibge": "5102850",
+  "latitude": "40.5773186",
+  "longitude": "-8.3643137"
 }
