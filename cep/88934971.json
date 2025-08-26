@@ -1,9 +1,11 @@
 {
   "cep": "88934971",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Morro Chato",
   "localidade": "Turvo",
   "uf": "SC",
-  "ibge": "4218806"
+  "ibge": "4218806",
+  "latitude": "-28.9278045",
+  "longitude": "-49.6820346"
 }

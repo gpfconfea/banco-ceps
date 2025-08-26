@@ -5,5 +5,7 @@
   "bairro": "Rio Acima",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.1139181",
+  "longitude": "-46.8934921"
 }

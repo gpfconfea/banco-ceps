@@ -1,9 +1,11 @@
 {
   "cep": "35620975",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Abaeté",
   "uf": "MG",
-  "ibge": "3100203"
+  "ibge": "3100203",
+  "latitude": "-19.157438",
+  "longitude": "-45.4447859"
 }

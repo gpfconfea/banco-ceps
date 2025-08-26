@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional José Mercadante",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5350501",
+  "longitude": "-51.4493872"
 }

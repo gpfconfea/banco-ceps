@@ -5,5 +5,7 @@
   "bairro": "Vila José Ramos",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.542376",
+  "longitude": "-47.4311487"
 }

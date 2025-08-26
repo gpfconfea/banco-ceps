@@ -5,5 +5,7 @@
   "bairro": "Infant's Garden",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5403504",
+  "longitude": "-46.9164792"
 }

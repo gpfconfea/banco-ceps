@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jutí",
   "uf": "MS",
-  "ibge": "5005152"
+  "ibge": "5005152",
+  "latitude": "-22.8598103",
+  "longitude": "-54.6052572"
 }

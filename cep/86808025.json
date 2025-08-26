@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.550347",
+  "longitude": "-51.4524796"
 }

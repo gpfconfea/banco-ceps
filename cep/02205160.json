@@ -5,5 +5,7 @@
   "bairro": "Jardim Neila",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.486537",
+  "longitude": "-46.5919111"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Brasília",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.4908249",
+  "longitude": "-44.114911"
 }

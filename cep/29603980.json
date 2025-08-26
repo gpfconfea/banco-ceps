@@ -1,9 +1,11 @@
 {
   "cep": "29603980",
   "logradouro": "Rua Mariano Evangelista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Serra Pelada",
   "localidade": "Afonso Cláudio",
   "uf": "ES",
-  "ibge": "3200102"
+  "ibge": "3200102",
+  "latitude": "-20.0034242",
+  "longitude": "-41.0294776"
 }

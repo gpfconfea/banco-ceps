@@ -5,5 +5,7 @@
   "bairro": "Mangueiral",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "latitude": "-21.5263392",
+  "longitude": "-43.0148791"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Carolina",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-21.6723124",
+  "longitude": "-49.7573757"
 }

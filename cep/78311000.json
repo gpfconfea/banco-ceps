@@ -5,5 +5,7 @@
   "bairro": "São Jorge",
   "localidade": "Comodoro",
   "uf": "MT",
-  "ibge": "5103304"
+  "ibge": "5103304",
+  "latitude": "-13.6581107",
+  "longitude": "-59.786883"
 }

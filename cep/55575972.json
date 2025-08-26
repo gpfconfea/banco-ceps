@@ -1,9 +1,11 @@
 {
   "cep": "55575972",
   "logradouro": "Rua Doutor Jobson",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Diatrito de Cocaú",
   "localidade": "Rio Formoso",
   "uf": "PE",
-  "ibge": "2611903"
+  "ibge": "2611903",
+  "latitude": "-8.6387645",
+  "longitude": "-35.2705165"
 }

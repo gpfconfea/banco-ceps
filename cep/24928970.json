@@ -1,9 +1,11 @@
 {
   "cep": "24928970",
   "logradouro": "Rua Gualberto Batista de Macedo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Espraiado (Ponta Negra)",
   "localidade": "Maricá",
   "uf": "RJ",
-  "ibge": "3302700"
+  "ibge": "3302700",
+  "latitude": "-22.8837325",
+  "longitude": "-42.7073886"
 }

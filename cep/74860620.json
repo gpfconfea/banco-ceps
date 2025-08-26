@@ -5,5 +5,7 @@
   "bairro": "Parque Flamboyant",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.737463",
+  "longitude": "-49.2179805"
 }

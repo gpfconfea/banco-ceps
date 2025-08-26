@@ -5,5 +5,7 @@
   "bairro": "Mariana",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2019181",
+  "longitude": "-49.9527523"
 }

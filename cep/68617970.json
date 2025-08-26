@@ -1,9 +1,11 @@
 {
   "cep": "68617970",
   "logradouro": "Praça Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cachoeira do Piriá",
   "uf": "PA",
-  "ibge": "1501956"
+  "ibge": "1501956",
+  "latitude": "-1.7986155",
+  "longitude": "-46.4768897"
 }

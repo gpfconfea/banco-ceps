@@ -5,5 +5,7 @@
   "bairro": "Trianon",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.3997418",
+  "longitude": "-51.4556713"
 }

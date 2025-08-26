@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Valente",
   "uf": "BA",
-  "ibge": "2933000"
+  "ibge": "2933000",
+  "latitude": "-11.4105832",
+  "longitude": "-39.4653472"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63255973",
   "logradouro": "Avenida Manoel Furtado dos Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rosário",
   "localidade": "Milagres",
   "uf": "CE",
-  "ibge": "2308302"
+  "ibge": "2308302",
+  "latitude": "-7.2995657",
+  "longitude": "-38.9822897"
 }

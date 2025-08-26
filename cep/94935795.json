@@ -5,5 +5,7 @@
   "bairro": "City",
   "localidade": "Cachoeirinha",
   "uf": "RS",
-  "ibge": "4303103"
+  "ibge": "4303103",
+  "latitude": "-29.9463056",
+  "longitude": "-51.1012447"
 }

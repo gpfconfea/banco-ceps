@@ -6,5 +6,7 @@
   "bairro": "Bela Vista",
   "localidade": "Igarapé",
   "uf": "MG",
-  "ibge": "3130101"
+  "ibge": "3130101",
+  "latitude": "-20.0708066",
+  "longitude": "-44.2973361"
 }

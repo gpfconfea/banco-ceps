@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Fartura",
   "uf": "SP",
-  "ibge": "3515400"
+  "ibge": "3515400",
+  "latitude": "-23.3888559",
+  "longitude": "-49.5205864"
 }

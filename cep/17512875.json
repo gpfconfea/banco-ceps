@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Lindomar Gomes de Carvalho",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.1620874",
+  "longitude": "-49.9522617"
 }

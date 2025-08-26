@@ -1,9 +1,11 @@
 {
   "cep": "55122970",
   "logradouro": "Vila Trapiá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Trapiá",
   "localidade": "Riacho das Almas",
   "uf": "PE",
-  "ibge": "2611705"
+  "ibge": "2611705",
+  "latitude": "-8.0127672",
+  "longitude": "-35.9080771"
 }

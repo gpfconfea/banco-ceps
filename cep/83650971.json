@@ -1,9 +1,11 @@
 {
   "cep": "83650971",
   "logradouro": "Rua Augusto Perussolo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Caetano",
   "localidade": "Balsa Nova",
   "uf": "PR",
-  "ibge": "4102307"
+  "ibge": "4102307",
+  "latitude": "-25.4650594",
+  "longitude": "-49.5870495"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-14.235004",
+  "longitude": "-51.92528"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "21050971",
   "logradouro": "Praça Américo Júnior",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Manguinhos",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8770757",
+  "longitude": "-43.2533864"
 }

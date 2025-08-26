@@ -5,5 +5,7 @@
   "bairro": "Maracanã",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9128595",
+  "longitude": "-43.2259058"
 }

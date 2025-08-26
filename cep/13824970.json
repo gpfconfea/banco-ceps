@@ -1,9 +1,11 @@
 {
   "cep": "13824970",
   "logradouro": "Rua Benedito Emilio Moreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mostardas",
   "localidade": "Monte Alegre do Sul",
   "uf": "SP",
-  "ibge": "3531209"
+  "ibge": "3531209",
+  "latitude": "-22.7248501",
+  "longitude": "-46.629676"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-22.6953446",
+  "longitude": "-49.4381658"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Betel",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4348817",
+  "longitude": "-46.5493279"
 }

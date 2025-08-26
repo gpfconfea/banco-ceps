@@ -5,5 +5,7 @@
   "bairro": "Jardim Rondinha",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4515316",
+  "longitude": "-49.4751161"
 }

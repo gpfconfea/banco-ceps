@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaquara",
   "uf": "BA",
-  "ibge": "2916708"
+  "ibge": "2916708",
+  "latitude": "-13.4532296",
+  "longitude": "-39.9410616"
 }

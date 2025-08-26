@@ -5,5 +5,7 @@
   "bairro": "Pioneiros",
   "localidade": "Fazenda Rio Grande",
   "uf": "PR",
-  "ibge": "4107652"
+  "ibge": "4107652",
+  "latitude": "-25.6361197",
+  "longitude": "-49.3149469"
 }

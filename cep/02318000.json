@@ -5,5 +5,7 @@
   "bairro": "Sítio do Piqueri",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4555824",
+  "longitude": "-46.589971"
 }

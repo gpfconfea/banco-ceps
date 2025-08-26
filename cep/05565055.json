@@ -5,5 +5,7 @@
   "bairro": "Jardim Arpoador",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.6975681",
+  "longitude": "-47.668431"
 }

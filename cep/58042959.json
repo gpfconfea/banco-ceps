@@ -1,9 +1,11 @@
 {
   "cep": "58042959",
   "logradouro": "Rua Abdias Gomes de Almeida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tambauzinho",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.12165",
+  "longitude": "-34.8430015"
 }

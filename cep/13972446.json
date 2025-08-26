@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4400948",
+  "longitude": "-46.8110996"
 }

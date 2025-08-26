@@ -5,5 +5,7 @@
   "bairro": "São Judas",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "latitude": "-26.9092183",
+  "longitude": "-48.6774517"
 }

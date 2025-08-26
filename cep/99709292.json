@@ -5,5 +5,7 @@
   "bairro": "Fátima",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "latitude": "-27.6438099",
+  "longitude": "-52.2674847"
 }

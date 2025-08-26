@@ -5,5 +5,7 @@
   "bairro": "Jardim Maranata",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.8131636",
+  "longitude": "-49.3569612"
 }

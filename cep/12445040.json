@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-22.8874262",
+  "longitude": "-45.3890555"
 }

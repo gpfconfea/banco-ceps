@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Turvolândia",
   "uf": "MG",
-  "ibge": "3169802"
+  "ibge": "3169802",
+  "latitude": "-21.8746664",
+  "longitude": "-45.7874574"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "49094959",
   "logradouro": "Avenida Presidente Tancredo Neves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Capucho",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "latitude": "-10.9115705",
+  "longitude": "-37.0902709"
 }

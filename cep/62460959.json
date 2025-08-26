@@ -1,9 +1,11 @@
 {
   "cep": "62460959",
   "logradouro": "Rua João Rodrigues",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Uruoca",
   "uf": "CE",
-  "ibge": "2313906"
+  "ibge": "2313906",
+  "latitude": "-3.3149261",
+  "longitude": "-40.5595266"
 }

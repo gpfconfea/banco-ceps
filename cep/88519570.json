@@ -5,5 +5,7 @@
   "bairro": "Jardim Celina",
   "localidade": "Lages",
   "uf": "SC",
-  "ibge": "4209300"
+  "ibge": "4209300",
+  "latitude": "-27.7770891",
+  "longitude": "-50.304903"
 }

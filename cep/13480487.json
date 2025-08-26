@@ -5,5 +5,7 @@
   "bairro": "Vila Garibaldi",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.6060128",
+  "longitude": "-47.3856425"
 }

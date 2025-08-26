@@ -1,9 +1,11 @@
 {
   "cep": "58595973",
   "logradouro": "Rua Doutor Mauro Farias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Caraúbas",
   "uf": "PB",
-  "ibge": "2504074"
+  "ibge": "2504074",
+  "latitude": "-7.7267744",
+  "longitude": "-36.4895608"
 }

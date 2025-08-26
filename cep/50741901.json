@@ -1,9 +1,11 @@
 {
   "cep": "50741901",
   "logradouro": "Rua Engenho São João da Várzea",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Várzea",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-8.0404214",
+  "longitude": "-34.9440277"
 }

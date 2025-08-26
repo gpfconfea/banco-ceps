@@ -5,5 +5,7 @@
   "bairro": "Residencial Dona Branca",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.7725174",
+  "longitude": "-48.8383346"
 }

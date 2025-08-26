@@ -5,5 +5,7 @@
   "bairro": "Vila Rio Branco",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5116803",
+  "longitude": "-46.491387"
 }

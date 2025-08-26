@@ -5,5 +5,7 @@
   "bairro": "Vila Santo Antonio - Conjunto Liberdade",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7374077",
+  "longitude": "-49.2370307"
 }

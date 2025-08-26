@@ -5,5 +5,7 @@
   "bairro": "Jardim Kanebo",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-22.0124903",
+  "longitude": "-47.4120086"
 }

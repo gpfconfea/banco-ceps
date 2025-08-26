@@ -1,9 +1,11 @@
 {
   "cep": "68455900",
   "logradouro": "Avenida Brasília",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Permanente",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "latitude": "-3.7671398",
+  "longitude": "-49.6708278"
 }

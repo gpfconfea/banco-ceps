@@ -5,5 +5,7 @@
   "bairro": "São João",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "latitude": "-29.5180229",
+  "longitude": "-51.8086917"
 }

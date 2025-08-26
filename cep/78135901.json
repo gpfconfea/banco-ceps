@@ -1,9 +1,11 @@
 {
   "cep": "78135901",
   "logradouro": "Rua Rio Grande do Norte",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro-Sul",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6481598",
+  "longitude": "-56.1388588"
 }

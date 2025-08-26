@@ -5,5 +5,7 @@
   "bairro": "Sítio Taquaral",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.7690205",
+  "longitude": "-46.4585939"
 }
