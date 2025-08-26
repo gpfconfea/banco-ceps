@@ -5,5 +5,7 @@
   "bairro": "Tatuquara",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "latitude": "-25.5498446",
+  "longitude": "-49.2987317"
 }

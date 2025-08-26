@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Curiúva",
   "uf": "PR",
-  "ibge": "4107009"
+  "ibge": "4107009",
+  "latitude": "-24.0377017",
+  "longitude": "-50.450503"
 }

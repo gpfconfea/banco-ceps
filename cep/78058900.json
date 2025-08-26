@@ -1,9 +1,11 @@
 {
   "cep": "78058900",
   "logradouro": "Avenida Gonçalo Antunes de Barros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Novo Mato Grosso",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5801406",
+  "longitude": "-56.0465529"
 }

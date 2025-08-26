@@ -5,5 +5,7 @@
   "bairro": "Andrade Pinto",
   "localidade": "Vassouras",
   "uf": "RJ",
-  "ibge": "3306206"
+  "ibge": "3306206",
+  "latitude": "-23.5461258",
+  "longitude": "-46.3084079"
 }

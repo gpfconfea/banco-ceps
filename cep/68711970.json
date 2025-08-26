@@ -1,9 +1,11 @@
 {
   "cep": "68711970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Roberto",
   "localidade": "Maracanã",
   "uf": "PA",
-  "ibge": "1504307"
+  "ibge": "1504307",
+  "latitude": "-2.6269934",
+  "longitude": "-44.2917906"
 }

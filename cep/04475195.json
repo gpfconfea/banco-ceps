@@ -5,5 +5,7 @@
   "bairro": "Jardim Célia (Zona Sul)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.446509",
+  "longitude": "-46.4314558"
 }

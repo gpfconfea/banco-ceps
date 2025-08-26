@@ -1,9 +1,11 @@
 {
   "cep": "29535980",
   "logradouro": "Rua Hugo Furtado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Araraí",
   "localidade": "Alegre",
   "uf": "ES",
-  "ibge": "3200201"
+  "ibge": "3200201",
+  "latitude": "-20.5929091",
+  "longitude": "-41.556245"
 }

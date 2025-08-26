@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Altamira do Paraná",
   "uf": "PR",
-  "ibge": "4100459"
+  "ibge": "4100459",
+  "latitude": "-24.7992808",
+  "longitude": "-52.7152386"
 }

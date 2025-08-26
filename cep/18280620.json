@@ -5,5 +5,7 @@
   "bairro": "Loteamento Empresarial Tatuí-I",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3146777",
+  "longitude": "-47.8249556"
 }

@@ -5,5 +5,7 @@
   "bairro": "Recreio",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-22.5829327",
+  "longitude": "-47.6985436"
 }

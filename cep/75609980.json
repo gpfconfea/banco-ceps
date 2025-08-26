@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Porteirão",
   "uf": "GO",
-  "ibge": "5218052"
+  "ibge": "5218052",
+  "latitude": "-17.8076945",
+  "longitude": "-50.1639375"
 }

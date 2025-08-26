@@ -1,9 +1,11 @@
 {
   "cep": "40726990",
   "logradouro": "Avenida São Jorge",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9889704",
+  "longitude": "-38.4756212"
 }

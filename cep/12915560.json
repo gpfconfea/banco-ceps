@@ -5,5 +5,7 @@
   "bairro": "Serrinha",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.9921941",
+  "longitude": "-46.4513285"
 }

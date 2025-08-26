@@ -1,9 +1,11 @@
 {
   "cep": "46790973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Colônia",
   "localidade": "Itaeté",
   "uf": "BA",
-  "ibge": "2915007"
+  "ibge": "2915007",
+  "latitude": "-13.1372444",
+  "longitude": "-41.0626379"
 }

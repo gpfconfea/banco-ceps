@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fontoura Xavier",
   "uf": "RS",
-  "ibge": "4308300"
+  "ibge": "4308300",
+  "latitude": "-28.9814118",
+  "longitude": "-52.3468975"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Oásis",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4099342",
+  "longitude": "-51.8915708"
 }

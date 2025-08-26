@@ -5,5 +5,7 @@
   "bairro": "Brasiléia",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9750585",
+  "longitude": "-44.1988861"
 }

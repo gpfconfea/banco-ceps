@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaperuna",
   "uf": "RJ",
-  "ibge": "3302205"
+  "ibge": "3302205",
+  "latitude": "-21.2053904",
+  "longitude": "-41.8895748"
 }

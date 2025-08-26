@@ -5,5 +5,7 @@
   "bairro": "Setor Marista",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7084315",
+  "longitude": "-49.2722908"
 }

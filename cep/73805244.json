@@ -5,5 +5,7 @@
   "bairro": "Jardim Oliveira",
   "localidade": "Formosa",
   "uf": "GO",
-  "ibge": "5208004"
+  "ibge": "5208004",
+  "latitude": "-15.5448454",
+  "longitude": "-47.353351"
 }

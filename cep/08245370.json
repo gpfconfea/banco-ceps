@@ -5,5 +5,7 @@
   "bairro": "Jardim Beatriz (Zona Leste)",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5217479",
+  "longitude": "-46.4318943"
 }

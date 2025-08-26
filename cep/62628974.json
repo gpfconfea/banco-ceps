@@ -1,9 +1,11 @@
 {
   "cep": "62628974",
   "logradouro": "Rua José de Sousa Braga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Juá",
   "localidade": "Irauçuba",
   "uf": "CE",
-  "ibge": "2306108"
+  "ibge": "2306108",
+  "latitude": "-3.8918318",
+  "longitude": "-39.8642156"
 }

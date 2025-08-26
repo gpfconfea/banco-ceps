@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-20.4163876",
+  "longitude": "-50.7621919"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Belmiro",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-23.949723",
+  "longitude": "-46.337556"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3044612",
+  "longitude": "-51.1873482"
 }

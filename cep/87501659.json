@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Lúcia",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-15.5480656",
+  "longitude": "-56.0241186"
 }

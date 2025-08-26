@@ -1,9 +1,11 @@
 {
   "cep": "54515990",
   "logradouro": "Rua Quatro Quadra J - Santo Inácio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "latitude": "-8.297063",
+  "longitude": "-35.0462083"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Jacó",
   "localidade": "Sapiranga",
   "uf": "RS",
-  "ibge": "4319901"
+  "ibge": "4319901",
+  "latitude": "-29.6283432",
+  "longitude": "-50.998839"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "57160959",
   "logradouro": "Rua Doutor Ladislau Neto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Marechal Deodoro",
   "uf": "AL",
-  "ibge": "2704708"
+  "ibge": "2704708",
+  "latitude": "-9.7179677",
+  "longitude": "-35.8954758"
 }

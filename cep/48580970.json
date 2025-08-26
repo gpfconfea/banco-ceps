@@ -1,9 +1,11 @@
 {
   "cep": "48580970",
   "logradouro": "Praça Coronel João Maria de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pedro Alexandre",
   "uf": "BA",
-  "ibge": "2924207"
+  "ibge": "2924207",
+  "latitude": "-10.0122879",
+  "longitude": "-37.8945917"
 }

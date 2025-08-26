@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-23.2051554",
+  "longitude": "-46.7879084"
 }

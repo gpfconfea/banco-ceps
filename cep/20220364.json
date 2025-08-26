@@ -5,5 +5,7 @@
   "bairro": "Santo Cristo",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8984467",
+  "longitude": "-43.2095664"
 }

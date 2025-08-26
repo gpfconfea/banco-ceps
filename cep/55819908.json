@@ -1,9 +1,11 @@
 {
   "cep": "55819908",
   "logradouro": "Avenida Estácio Coimbra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José",
   "localidade": "Carpina",
   "uf": "PE",
-  "ibge": "2604007"
+  "ibge": "2604007",
+  "latitude": "-7.8450025",
+  "longitude": "-35.2573959"
 }

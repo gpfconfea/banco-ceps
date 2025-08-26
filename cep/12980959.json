@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Joanópolis",
   "uf": "SP",
-  "ibge": "3525508"
+  "ibge": "3525508",
+  "latitude": "-22.929641",
+  "longitude": "-46.2751032"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto Rico do Maranhão",
   "uf": "MA",
-  "ibge": "2109056"
+  "ibge": "2109056",
+  "latitude": "-1.858623",
+  "longitude": "-44.5839113"
 }

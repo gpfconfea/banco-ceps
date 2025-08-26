@@ -5,5 +5,7 @@
   "bairro": "Residencial Mont Blanc",
   "localidade": "Cosmópolis",
   "uf": "SP",
-  "ibge": "3512803"
+  "ibge": "3512803",
+  "latitude": "-22.6709186",
+  "longitude": "-47.1476215"
 }

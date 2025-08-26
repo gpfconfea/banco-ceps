@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora da Saúde",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8676367",
+  "longitude": "-43.9125927"
 }

@@ -5,5 +5,7 @@
   "bairro": "Dom Pedro II",
   "localidade": "Lapa",
   "uf": "PR",
-  "ibge": "4113205"
+  "ibge": "4113205",
+  "latitude": "-25.7672625",
+  "longitude": "-49.7318978"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Braz",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-19.5262632",
+  "longitude": "-40.6351179"
 }

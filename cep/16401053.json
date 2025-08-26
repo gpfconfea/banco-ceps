@@ -5,5 +5,7 @@
   "bairro": "Vila Paulista",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.665422",
+  "longitude": "-49.7467312"
 }

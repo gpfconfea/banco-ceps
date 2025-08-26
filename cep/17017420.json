@@ -5,5 +5,7 @@
   "bairro": "Parque Jardim Europa",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3580577",
+  "longitude": "-49.0572368"
 }

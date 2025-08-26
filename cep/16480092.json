@@ -5,5 +5,7 @@
   "bairro": "Jardim Teodomiro Pereira",
   "localidade": "Guaimbê",
   "uf": "SP",
-  "ibge": "3517307"
+  "ibge": "3517307",
+  "latitude": "-23.6631512",
+  "longitude": "-46.6358289"
 }

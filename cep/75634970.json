@@ -1,9 +1,11 @@
 {
   "cep": "75634970",
   "logradouro": "Rua Ângelo Urzeda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Mairipotaba",
   "uf": "GO",
-  "ibge": "5212600"
+  "ibge": "5212600",
+  "latitude": "-17.29672",
+  "longitude": "-49.4930756"
 }

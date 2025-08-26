@@ -5,5 +5,7 @@
   "bairro": "Parque Ideal",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.0184641",
+  "longitude": "-42.8375831"
 }

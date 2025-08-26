@@ -6,5 +6,7 @@
   "bairro": "Bairro Bela Vista",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.8595238",
+  "longitude": "-46.3202394"
 }

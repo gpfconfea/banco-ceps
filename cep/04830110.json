@@ -5,5 +5,7 @@
   "bairro": "Jardim Presidente",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7272904",
+  "longitude": "-46.704026"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "89607970",
   "logradouro": "Rua da Liberdade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Petrópolis",
   "localidade": "Joaçaba",
   "uf": "SC",
-  "ibge": "4209003"
+  "ibge": "4209003",
+  "latitude": "-27.1095512",
+  "longitude": "-51.6015354"
 }
