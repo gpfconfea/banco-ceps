@@ -5,5 +5,7 @@
   "bairro": "Vila Guilhermina",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5144381",
+  "longitude": "-47.1288084"
 }

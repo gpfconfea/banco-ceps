@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carvalhos",
   "uf": "MG",
-  "ibge": "3114808"
+  "ibge": "3114808",
+  "latitude": "-21.9999393",
+  "longitude": "-44.4639879"
 }

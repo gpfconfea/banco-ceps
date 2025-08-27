@@ -1,9 +1,11 @@
 {
   "cep": "37566972",
   "logradouro": "Avenida JK",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Espírito Santo do Dourado",
   "uf": "MG",
-  "ibge": "3124401"
+  "ibge": "3124401",
+  "latitude": "-22.0470816",
+  "longitude": "-45.9500044"
 }

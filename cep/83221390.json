@@ -5,5 +5,7 @@
   "bairro": "Vila Guarani",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.5183747",
+  "longitude": "-48.5453441"
 }

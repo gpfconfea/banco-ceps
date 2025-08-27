@@ -5,5 +5,7 @@
   "bairro": "Vila Palestina",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-20.345408",
+  "longitude": "-40.3959619"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Macieira",
   "uf": "SC",
-  "ibge": "4210050"
+  "ibge": "4210050",
+  "latitude": "-26.8540301",
+  "longitude": "-51.3770187"
 }

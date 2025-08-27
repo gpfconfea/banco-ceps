@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "latitude": "-23.6834774",
+  "longitude": "-46.554578"
 }

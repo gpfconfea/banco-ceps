@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itaberá",
   "uf": "SP",
-  "ibge": "3521705"
+  "ibge": "3521705",
+  "latitude": "-23.8575008",
+  "longitude": "-49.1404548"
 }

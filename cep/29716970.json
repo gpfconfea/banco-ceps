@@ -1,9 +1,11 @@
 {
   "cep": "29716970",
   "logradouro": "Rua Sílvio Loss",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Graça Aranha",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-19.3168173",
+  "longitude": "-40.5965526"
 }

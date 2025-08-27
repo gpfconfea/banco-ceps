@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rio Bananal",
   "uf": "ES",
-  "ibge": "3204351"
+  "ibge": "3204351",
+  "latitude": "-19.2643184",
+  "longitude": "-40.3339823"
 }

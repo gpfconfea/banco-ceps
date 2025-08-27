@@ -5,5 +5,7 @@
   "bairro": "Bosque da Saúde",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.029199",
+  "longitude": "-45.542365"
 }

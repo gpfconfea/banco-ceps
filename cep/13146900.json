@@ -1,9 +1,11 @@
 {
   "cep": "13146900",
   "logradouro": "Avenida 1",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cascata",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "latitude": "-22.7347287",
+  "longitude": "-47.1658704"
 }

@@ -5,5 +5,7 @@
   "bairro": "Horto Florestal",
   "localidade": "Andradas",
   "uf": "MG",
-  "ibge": "3102605"
+  "ibge": "3102605",
+  "latitude": "-22.080158",
+  "longitude": "-46.579684"
 }

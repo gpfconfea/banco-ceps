@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Monica",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2320456",
+  "longitude": "-47.3019372"
 }

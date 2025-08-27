@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Senhora do Porto",
   "uf": "MG",
-  "ibge": "3166105"
+  "ibge": "3166105",
+  "latitude": "-18.8924335",
+  "longitude": "-43.0841988"
 }

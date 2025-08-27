@@ -5,5 +5,7 @@
   "bairro": "Nova York",
   "localidade": "Vespasiano",
   "uf": "MG",
-  "ibge": "3171204"
+  "ibge": "3171204",
+  "latitude": "-19.7882218",
+  "longitude": "-43.9690793"
 }

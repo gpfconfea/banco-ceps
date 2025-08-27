@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Una",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.3214715",
+  "longitude": "-47.2926778"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Satuba",
   "uf": "AL",
-  "ibge": "2708907"
+  "ibge": "2708907",
+  "latitude": "-9.5334662",
+  "longitude": "-35.7978212"
 }

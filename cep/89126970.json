@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Doutor Pedrinho",
   "uf": "SC",
-  "ibge": "4205159"
+  "ibge": "4205159",
+  "latitude": "-26.7197615",
+  "longitude": "-49.4844324"
 }

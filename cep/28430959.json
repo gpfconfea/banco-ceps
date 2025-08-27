@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cambuci",
   "uf": "RJ",
-  "ibge": "3300902"
+  "ibge": "3300902",
+  "latitude": "-21.575913",
+  "longitude": "-41.9139781"
 }

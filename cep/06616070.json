@@ -5,5 +5,7 @@
   "bairro": "Vila Ouro Verde",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5381534",
+  "longitude": "-46.6378879"
 }

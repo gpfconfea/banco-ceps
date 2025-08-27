@@ -1,9 +1,11 @@
 {
   "cep": "56680970",
   "logradouro": "Vila de São Caetano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Caetano do Navio",
   "localidade": "Betânia",
   "uf": "PE",
-  "ibge": "2601805"
+  "ibge": "2601805",
+  "latitude": "-8.3276266",
+  "longitude": "-36.137065"
 }

@@ -5,5 +5,7 @@
   "bairro": "Barroso",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-26.8803063",
+  "longitude": "-49.0661585"
 }

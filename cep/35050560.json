@@ -5,5 +5,7 @@
   "bairro": "Vila Império",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "latitude": "-18.8750074",
+  "longitude": "-41.9394037"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Residencial Chácara Ondina",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5340857",
+  "longitude": "-47.43331"
 }

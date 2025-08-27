@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tremedal",
   "uf": "BA",
-  "ibge": "2931806"
+  "ibge": "2931806",
+  "latitude": "-14.9752769",
+  "longitude": "-41.4101729"
 }

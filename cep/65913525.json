@@ -5,5 +5,7 @@
   "bairro": "Vila Parati",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.5138981",
+  "longitude": "-47.4583052"
 }

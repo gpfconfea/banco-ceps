@@ -5,5 +5,7 @@
   "bairro": "Vila Portal das Flores",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.7110033",
+  "longitude": "-45.4277593"
 }

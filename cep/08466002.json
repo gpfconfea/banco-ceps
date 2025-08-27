@@ -5,5 +5,7 @@
   "bairro": "Vila Roseira II",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.9491543",
+  "longitude": "-47.1408725"
 }

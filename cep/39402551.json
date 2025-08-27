@@ -5,5 +5,7 @@
   "bairro": "João Alves",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7515082",
+  "longitude": "-43.8514528"
 }

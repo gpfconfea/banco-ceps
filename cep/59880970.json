@@ -1,9 +1,11 @@
 {
   "cep": "59880970",
   "logradouro": "Praça Felipe Veríssimo de Sá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "João Dias",
   "uf": "RN",
-  "ibge": "2405900"
+  "ibge": "2405900",
+  "latitude": "-6.2785661",
+  "longitude": "-37.7977637"
 }

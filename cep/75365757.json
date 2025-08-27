@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque dos Girassóis",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-16.5103337",
+  "longitude": "-49.4143947"
 }

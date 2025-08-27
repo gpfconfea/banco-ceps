@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Eucaliptos",
   "localidade": "Ipaussu",
   "uf": "SP",
-  "ibge": "3520905"
+  "ibge": "3520905",
+  "latitude": "-23.0482803",
+  "longitude": "-49.6328884"
 }

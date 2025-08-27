@@ -5,5 +5,7 @@
   "bairro": "Wilson Montenegro",
   "localidade": "Lapa",
   "uf": "PR",
-  "ibge": "4113205"
+  "ibge": "4113205",
+  "latitude": "-25.7675901",
+  "longitude": "-49.7239006"
 }

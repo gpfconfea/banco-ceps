@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boqueirão do Leão",
   "uf": "RS",
-  "ibge": "4302451"
+  "ibge": "4302451",
+  "latitude": "-29.3025493",
+  "longitude": "-52.4299599"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipiranga do Piauí",
   "uf": "PI",
-  "ibge": "2204808"
+  "ibge": "2204808",
+  "latitude": "-6.827987",
+  "longitude": "-41.7404709"
 }

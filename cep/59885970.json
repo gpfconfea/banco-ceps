@@ -1,9 +1,11 @@
 {
   "cep": "59885970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rosário",
   "localidade": "João Dias",
   "uf": "RN",
-  "ibge": "2405900"
+  "ibge": "2405900",
+  "latitude": "39.5150679",
+  "longitude": "-8.6186767"
 }

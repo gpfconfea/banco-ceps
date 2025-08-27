@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aguaí",
   "uf": "SP",
-  "ibge": "3500303"
+  "ibge": "3500303",
+  "latitude": "-22.0527856",
+  "longitude": "-46.971897"
 }

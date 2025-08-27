@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Maracanã",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8792645",
+  "longitude": "-46.9647303"
 }

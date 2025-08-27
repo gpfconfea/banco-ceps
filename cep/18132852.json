@@ -5,5 +5,7 @@
   "bairro": "Dona Catarina",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.4211804",
+  "longitude": "-47.1616895"
 }

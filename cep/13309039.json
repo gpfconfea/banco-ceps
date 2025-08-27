@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.27747",
+  "longitude": "-47.2918323"
 }

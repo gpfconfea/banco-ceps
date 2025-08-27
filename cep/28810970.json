@@ -1,9 +1,11 @@
 {
   "cep": "28810970",
   "logradouro": "Praça Bernardino Lopes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Esperança",
   "localidade": "Rio Bonito",
   "uf": "RJ",
-  "ibge": "3304300"
+  "ibge": "3304300",
+  "latitude": "-22.7881137",
+  "longitude": "-42.5385926"
 }

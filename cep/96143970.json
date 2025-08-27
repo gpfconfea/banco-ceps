@@ -1,9 +1,11 @@
 {
   "cep": "96143970",
   "logradouro": "Estrada do Rincão da Cruz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rincão da Cruz",
   "localidade": "Pelotas",
   "uf": "RS",
-  "ibge": "4314407"
+  "ibge": "4314407",
+  "latitude": "-31.4212422",
+  "longitude": "-52.5209778"
 }

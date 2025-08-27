@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaguarari",
   "uf": "BA",
-  "ibge": "2917706"
+  "ibge": "2917706",
+  "latitude": "-10.2583362",
+  "longitude": "-40.1948336"
 }

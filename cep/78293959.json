@@ -1,9 +1,11 @@
 {
   "cep": "78293959",
   "logradouro": "Avenida dos Imigrantes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Glória D'Oeste",
   "uf": "MT",
-  "ibge": "5103957"
+  "ibge": "5103957",
+  "latitude": "-15.7882856",
+  "longitude": "-58.3132092"
 }

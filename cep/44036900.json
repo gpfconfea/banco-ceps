@@ -1,9 +1,11 @@
 {
   "cep": "44036900",
   "logradouro": "Avenida Transnordestina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Novo Horizonte",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.1932669",
+  "longitude": "-38.965232"
 }

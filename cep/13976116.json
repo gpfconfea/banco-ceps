@@ -5,5 +5,7 @@
   "bairro": "Loteamento João de Barros",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4285808",
+  "longitude": "-46.8293229"
 }

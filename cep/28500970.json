@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cantagalo",
   "uf": "RJ",
-  "ibge": "3301108"
+  "ibge": "3301108",
+  "latitude": "-21.9816969",
+  "longitude": "-42.3648397"
 }

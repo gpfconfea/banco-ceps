@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Garanhuns",
   "uf": "PE",
-  "ibge": "2606002"
+  "ibge": "2606002",
+  "latitude": "-8.8866324",
+  "longitude": "-36.4949233"
 }

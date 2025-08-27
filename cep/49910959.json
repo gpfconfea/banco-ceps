@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Telha",
   "uf": "SE",
-  "ibge": "2807303"
+  "ibge": "2807303",
+  "latitude": "-10.2088995",
+  "longitude": "-36.8838353"
 }

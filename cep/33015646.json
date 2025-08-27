@@ -5,5 +5,7 @@
   "bairro": "Barreiro do Amaral",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "latitude": "-20.2624927",
+  "longitude": "-42.0339268"
 }

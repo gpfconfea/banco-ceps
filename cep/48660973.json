@@ -1,9 +1,11 @@
 {
   "cep": "48660973",
   "logradouro": "Rua Coronel João Sá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caraibas",
   "localidade": "Chorrochó",
   "uf": "BA",
-  "ibge": "2907707"
+  "ibge": "2907707",
+  "latitude": "-8.9795485",
+  "longitude": "-39.0993209"
 }

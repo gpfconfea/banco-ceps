@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aldeias Altas",
   "uf": "MA",
-  "ibge": "2100303"
+  "ibge": "2100303",
+  "latitude": "-4.6264483",
+  "longitude": "-43.4648202"
 }

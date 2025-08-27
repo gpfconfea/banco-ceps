@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Registro",
   "uf": "SP",
-  "ibge": "3542602"
+  "ibge": "3542602",
+  "latitude": "-24.4914958",
+  "longitude": "-47.8414238"
 }

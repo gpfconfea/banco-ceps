@@ -5,5 +5,7 @@
   "bairro": "Residencial Floresta São Vicente",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-23.1673771",
+  "longitude": "-46.4546797"
 }

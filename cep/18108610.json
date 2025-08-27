@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Inglesa",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4757259",
+  "longitude": "-47.4065332"
 }

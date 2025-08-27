@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Patrocínio Paulista",
   "uf": "SP",
-  "ibge": "3536307"
+  "ibge": "3536307",
+  "latitude": "-20.6427935",
+  "longitude": "-47.2767446"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Carandaí",
   "uf": "MG",
-  "ibge": "3113206"
+  "ibge": "3113206",
+  "latitude": "-20.9558744",
+  "longitude": "-43.8081862"
 }

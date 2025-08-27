@@ -5,5 +5,7 @@
   "bairro": "Jardim Graciosa",
   "localidade": "Campina Grande do Sul",
   "uf": "PR",
-  "ibge": "4104006"
+  "ibge": "4104006",
+  "latitude": "-25.356056",
+  "longitude": "-49.1062817"
 }

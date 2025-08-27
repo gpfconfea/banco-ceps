@@ -5,5 +5,7 @@
   "bairro": "Jardim Museu",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.6398874",
+  "longitude": "-46.9322277"
 }

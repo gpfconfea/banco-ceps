@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.2058335",
+  "longitude": "-46.8706824"
 }

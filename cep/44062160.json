@@ -6,5 +6,7 @@
   "bairro": "Brasília",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.2764811",
+  "longitude": "-38.9512179"
 }

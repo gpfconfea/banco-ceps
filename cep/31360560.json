@@ -5,5 +5,7 @@
   "bairro": "Confisco",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8653431",
+  "longitude": "-44.0204317"
 }

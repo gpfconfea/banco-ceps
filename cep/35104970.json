@@ -1,9 +1,11 @@
 {
   "cep": "35104970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Vítor",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "latitude": "-18.8212999",
+  "longitude": "-41.6879543"
 }
