@@ -1,9 +1,11 @@
 {
   "cep": "28777990",
   "logradouro": "Rua Barão de Madalena",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Santa Maria Madalena",
   "uf": "RJ",
-  "ibge": "3304607"
+  "ibge": "3304607",
+  "latitude": "-21.9568002",
+  "longitude": "-42.0094023"
 }

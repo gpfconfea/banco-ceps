@@ -1,9 +1,11 @@
 {
   "cep": "89430970",
   "logradouro": "Rua Theodosio Paulek",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Calmon",
   "uf": "SC",
-  "ibge": "4203154"
+  "ibge": "4203154",
+  "latitude": "-26.6038373",
+  "longitude": "-51.1001046"
 }

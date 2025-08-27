@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Quinta das Laranjeiras",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.3947136",
+  "longitude": "-47.3217146"
 }

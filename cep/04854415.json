@@ -5,5 +5,7 @@
   "bairro": "Jardim Azano I",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.776012",
+  "longitude": "-46.692899"
 }

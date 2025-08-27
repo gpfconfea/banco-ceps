@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.7635689",
+  "longitude": "-63.9044232"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "18135900",
   "logradouro": "Rua Doutor Durval Villaca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vinhas João Paulo II",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.5570873",
+  "longitude": "-47.1232906"
 }

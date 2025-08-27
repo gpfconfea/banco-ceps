@@ -1,9 +1,11 @@
 {
   "cep": "62354972",
   "logradouro": "Rua Jaburuna",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jaburuna",
   "localidade": "Ubajara",
   "uf": "CE",
-  "ibge": "2313609"
+  "ibge": "2313609",
+  "latitude": "-3.8889421",
+  "longitude": "-40.9734033"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto I",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.5573759",
+  "longitude": "-46.2201338"
 }

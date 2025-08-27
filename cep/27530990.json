@@ -1,9 +1,11 @@
 {
   "cep": "27530990",
   "logradouro": "Rua do Artesão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Resende",
   "uf": "RJ",
-  "ibge": "3304201"
+  "ibge": "3304201",
+  "latitude": "-22.3935137",
+  "longitude": "-44.5439097"
 }

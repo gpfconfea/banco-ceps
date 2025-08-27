@@ -5,5 +5,7 @@
   "bairro": "Chácara Bosque do Sol",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.8304505",
+  "longitude": "-46.745185"
 }

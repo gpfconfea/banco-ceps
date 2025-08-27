@@ -5,5 +5,7 @@
   "bairro": "Jardim Alexandra",
   "localidade": "Francisco Morato",
   "uf": "SP",
-  "ibge": "3516309"
+  "ibge": "3516309",
+  "latitude": "-23.3210473",
+  "longitude": "-46.7281931"
 }

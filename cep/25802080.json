@@ -5,5 +5,7 @@
   "bairro": "Nova Niterói",
   "localidade": "Três Rios",
   "uf": "RJ",
-  "ibge": "3306008"
+  "ibge": "3306008",
+  "latitude": "-22.1249245",
+  "longitude": "-43.4149349"
 }

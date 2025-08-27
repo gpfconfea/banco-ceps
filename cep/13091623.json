@@ -5,5 +5,7 @@
   "bairro": "Residencial Vila Verde",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8692838",
+  "longitude": "-47.028656"
 }

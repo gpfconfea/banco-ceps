@@ -1,9 +1,11 @@
 {
   "cep": "70301989",
-  "logradouro": "SCS Quadra 1 Térreo Locker Correios",
+  "logradouro": "SCS Quadra 1 Térreo",
   "complemento": "",
   "bairro": "Asa Sul",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.798162",
+  "longitude": "-47.8868613"
 }

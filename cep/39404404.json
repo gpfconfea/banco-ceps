@@ -5,5 +5,7 @@
   "bairro": "Santos Dumont",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-17.3423373",
+  "longitude": "-44.9309945"
 }

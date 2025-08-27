@@ -5,5 +5,7 @@
   "bairro": "Jardim Progresso",
   "localidade": "Santo Antônio de Posse",
   "uf": "SP",
-  "ibge": "3548005"
+  "ibge": "3548005",
+  "latitude": "-22.6075875",
+  "longitude": "-46.9295282"
 }

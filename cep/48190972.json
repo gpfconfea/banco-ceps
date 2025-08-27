@@ -1,9 +1,11 @@
 {
   "cep": "48190972",
   "logradouro": "Praça Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Porto Sauípe",
   "localidade": "Entre Rios",
   "uf": "BA",
-  "ibge": "2910503"
+  "ibge": "2910503",
+  "latitude": "-12.390034",
+  "longitude": "-37.8819409"
 }

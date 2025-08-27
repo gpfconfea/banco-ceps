@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piranguçu",
   "uf": "MG",
-  "ibge": "3150901"
+  "ibge": "3150901",
+  "latitude": "-22.5266228",
+  "longitude": "-45.4978943"
 }

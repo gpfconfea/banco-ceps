@@ -5,5 +5,7 @@
   "bairro": "Praça 14 de Janeiro",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-3.0085213",
+  "longitude": "-59.9888239"
 }

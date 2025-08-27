@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Montenegro",
   "uf": "RS",
-  "ibge": "4312401"
+  "ibge": "4312401",
+  "latitude": "-29.5953836",
+  "longitude": "-51.588553"
 }

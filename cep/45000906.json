@@ -1,9 +1,11 @@
 {
   "cep": "45000906",
   "logradouro": "Rua Rotary Club",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-14.8542297",
+  "longitude": "-40.8370246"
 }

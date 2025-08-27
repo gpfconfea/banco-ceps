@@ -5,5 +5,7 @@
   "bairro": "Residencial Morada do Sol I",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "-23.6582426",
+  "longitude": "-52.5834933"
 }

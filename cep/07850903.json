@@ -1,9 +1,11 @@
 {
   "cep": "07850903",
   "logradouro": "Avenida Liberdade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-23.3318378",
+  "longitude": "-46.7256878"
 }

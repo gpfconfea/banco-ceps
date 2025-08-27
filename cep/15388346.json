@@ -5,5 +5,7 @@
   "bairro": "Morumbi",
   "localidade": "Ilha Solteira",
   "uf": "SP",
-  "ibge": "3520442"
+  "ibge": "3520442",
+  "latitude": "-20.4345607",
+  "longitude": "-51.355557"
 }

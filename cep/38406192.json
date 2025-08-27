@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipanema",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.8810437",
+  "longitude": "-48.2107769"
 }

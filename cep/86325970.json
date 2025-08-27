@@ -1,9 +1,11 @@
 {
   "cep": "86325970",
   "logradouro": "Rua Marconi",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Congonhinhas",
   "uf": "PR",
-  "ibge": "4106001"
+  "ibge": "4106001",
+  "latitude": "-23.5643958",
+  "longitude": "-50.4108066"
 }

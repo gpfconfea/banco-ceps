@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Inimutaba",
   "uf": "MG",
-  "ibge": "3131109"
+  "ibge": "3131109",
+  "latitude": "-18.728165",
+  "longitude": "-44.3619381"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Brasil",
   "localidade": "Itaí",
   "uf": "SP",
-  "ibge": "3521804"
+  "ibge": "3521804",
+  "latitude": "-23.4149494",
+  "longitude": "-49.0983661"
 }

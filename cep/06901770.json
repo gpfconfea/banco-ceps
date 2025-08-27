@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Embu-Guaçu",
   "uf": "SP",
-  "ibge": "3515103"
+  "ibge": "3515103",
+  "latitude": "-23.9342801",
+  "longitude": "-46.9068983"
 }

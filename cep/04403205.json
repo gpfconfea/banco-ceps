@@ -5,5 +5,7 @@
   "bairro": "Vila Marari",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.1301655",
+  "longitude": "-51.3752932"
 }

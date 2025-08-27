@@ -1,9 +1,11 @@
 {
   "cep": "69985959",
   "logradouro": "Avenida Presidente Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Rodrigues Alves",
   "uf": "AC",
-  "ibge": "1200427"
+  "ibge": "1200427",
+  "latitude": "-7.7337896",
+  "longitude": "-72.64819"
 }

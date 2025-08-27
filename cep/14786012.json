@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-20.5515879",
+  "longitude": "-48.594898"
 }

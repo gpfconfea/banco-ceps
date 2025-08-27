@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Itaporanga",
   "uf": "SP",
-  "ibge": "3522802"
+  "ibge": "3522802",
+  "latitude": "-23.7066252",
+  "longitude": "-49.4895934"
 }

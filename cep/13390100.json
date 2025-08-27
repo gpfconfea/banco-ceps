@@ -5,5 +5,7 @@
   "bairro": "Jardim Bom Jesus",
   "localidade": "Rio das Pedras",
   "uf": "SP",
-  "ibge": "3544004"
+  "ibge": "3544004",
+  "latitude": "-22.8412432",
+  "longitude": "-47.5998052"
 }

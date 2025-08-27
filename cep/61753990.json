@@ -1,9 +1,11 @@
 {
   "cep": "61753990",
   "logradouro": "Rua Doca Sales",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Aquiraz",
   "uf": "CE",
-  "ibge": "2301000"
+  "ibge": "2301000",
+  "latitude": "-3.9511764",
+  "longitude": "-38.4850625"
 }

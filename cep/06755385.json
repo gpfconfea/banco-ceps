@@ -5,5 +5,7 @@
   "bairro": "Parque Monte Alegre",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "latitude": "-23.6043006",
+  "longitude": "-46.7686885"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64160970",
   "logradouro": "Rua Sete de Setembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Luzilândia",
   "uf": "PI",
-  "ibge": "2205805"
+  "ibge": "2205805",
+  "latitude": "-3.4603949",
+  "longitude": "-42.3712533"
 }

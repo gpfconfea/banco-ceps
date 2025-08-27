@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Mamoré",
   "uf": "RO",
-  "ibge": "1100338"
+  "ibge": "1100338",
+  "latitude": "-10.4091571",
+  "longitude": "-65.3299527"
 }

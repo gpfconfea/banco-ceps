@@ -5,5 +5,7 @@
   "bairro": "São Lázaro",
   "localidade": "Macapá",
   "uf": "AP",
-  "ibge": "1600303"
+  "ibge": "1600303",
+  "latitude": "0.0737488",
+  "longitude": "-51.0554312"
 }

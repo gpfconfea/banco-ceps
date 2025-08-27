@@ -5,5 +5,7 @@
   "bairro": "Jardim Barcelona",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4618545",
+  "longitude": "-51.9797425"
 }

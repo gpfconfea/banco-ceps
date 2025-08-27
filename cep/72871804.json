@@ -5,5 +5,7 @@
   "bairro": "Nova Vila Guaíra",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "latitude": "-16.0743623",
+  "longitude": "-48.0051354"
 }

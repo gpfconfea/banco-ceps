@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Contenda",
   "uf": "PR",
-  "ibge": "4106209"
+  "ibge": "4106209",
+  "latitude": "-25.6769903",
+  "longitude": "-49.5335964"
 }

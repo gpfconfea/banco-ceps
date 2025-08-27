@@ -5,5 +5,7 @@
   "bairro": "Vila Paraíso",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-22.6695758",
+  "longitude": "-50.4209805"
 }

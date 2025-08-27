@@ -5,5 +5,7 @@
   "bairro": "Jardim Nova Vitória II",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5702984",
+  "longitude": "-47.4728826"
 }

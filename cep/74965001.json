@@ -5,5 +5,7 @@
   "bairro": "Jardim Rio Dourado",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.8270367",
+  "longitude": "-49.3709008"
 }

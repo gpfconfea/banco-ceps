@@ -5,5 +5,7 @@
   "bairro": "Jardim Enguaguassu (Vicente de Carvalho)",
   "localidade": "Guarujá",
   "uf": "SP",
-  "ibge": "3518701"
+  "ibge": "3518701",
+  "latitude": "-23.935157",
+  "longitude": "-46.305543"
 }

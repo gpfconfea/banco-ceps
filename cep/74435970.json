@@ -1,9 +1,11 @@
 {
   "cep": "74435970",
   "logradouro": "Rua 6 Quadra 18 Lote 07",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aeroviário",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7511081",
+  "longitude": "-49.3509213"
 }

@@ -6,5 +6,7 @@
   "bairro": "Jardim João Paulo",
   "localidade": "Mineiros do Tietê",
   "uf": "SP",
-  "ibge": "3529807"
+  "ibge": "3529807",
+  "latitude": "-22.4184121",
+  "longitude": "-48.4450311"
 }

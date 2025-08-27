@@ -5,5 +5,7 @@
   "bairro": "Parque das Palmeiras",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.7855447",
+  "longitude": "-43.3816557"
 }

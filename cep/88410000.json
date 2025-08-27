@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Atalanta",
   "uf": "SC",
-  "ibge": "4201802"
+  "ibge": "4201802",
+  "latitude": "-27.421916",
+  "longitude": "-49.778863"
 }

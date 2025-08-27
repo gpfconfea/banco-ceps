@@ -1,9 +1,11 @@
 {
   "cep": "27165970",
   "logradouro": "Rua Ulisses Dias Valente",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José do Turvo",
   "localidade": "Barra do Piraí",
   "uf": "RJ",
-  "ibge": "3300308"
+  "ibge": "3300308",
+  "latitude": "-22.3656978",
+  "longitude": "-44.016311"
 }

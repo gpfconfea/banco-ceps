@@ -5,5 +5,7 @@
   "bairro": "Jardim Nelly",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5834518",
+  "longitude": "-46.7530439"
 }

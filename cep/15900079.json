@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taquaritinga",
   "uf": "SP",
-  "ibge": "3553708"
+  "ibge": "3553708",
+  "latitude": "-23.41193",
+  "longitude": "-46.49738"
 }

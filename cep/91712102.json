@@ -5,5 +5,7 @@
   "bairro": "Cascata",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0893681",
+  "longitude": "-51.223758"
 }

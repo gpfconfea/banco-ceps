@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Luzitânia",
   "uf": "SP",
-  "ibge": "3533304"
+  "ibge": "3533304",
+  "latitude": "-20.859271",
+  "longitude": "-50.2622583"
 }

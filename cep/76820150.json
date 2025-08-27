@@ -5,5 +5,7 @@
   "bairro": "Nova Porto Velho",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-8.760419",
+  "longitude": "-63.882999"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cambezinho",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3427006",
+  "longitude": "-51.1339855"
 }

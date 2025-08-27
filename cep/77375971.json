@@ -1,9 +1,11 @@
 {
   "cep": "77375971",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Santa Rosa do Tocantins",
   "uf": "TO",
-  "ibge": "1718907"
+  "ibge": "1718907",
+  "latitude": "-11.4484075",
+  "longitude": "-48.118431"
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio Alto da Boa Vista",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.7615931",
+  "longitude": "-49.1067598"
 }

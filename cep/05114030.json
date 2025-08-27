@@ -5,5 +5,7 @@
   "bairro": "Vila Piauí",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5062376",
+  "longitude": "-46.7572787"
 }

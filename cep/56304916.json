@@ -1,9 +1,11 @@
 {
   "cep": "56304916",
   "logradouro": "Avenida Fernando Menezes de Góes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-9.3954386",
+  "longitude": "-40.4993753"
 }
