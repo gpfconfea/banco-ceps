@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5299109",
+  "longitude": "-46.902275"
 }

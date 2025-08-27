@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Bairro da Conquista/Vila Ypê",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9424508",
+  "longitude": "-47.0421357"
 }

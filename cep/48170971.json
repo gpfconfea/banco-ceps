@@ -1,9 +1,11 @@
 {
   "cep": "48170971",
   "logradouro": "Rua Oscar Santana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Água Fria",
   "localidade": "Água Fria",
   "uf": "BA",
-  "ibge": "2900405"
+  "ibge": "2900405",
+  "latitude": "-11.8883644",
+  "longitude": "-38.7682115"
 }

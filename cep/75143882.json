@@ -5,5 +5,7 @@
   "bairro": "Residencial Paris",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3118629",
+  "longitude": "-48.9014372"
 }

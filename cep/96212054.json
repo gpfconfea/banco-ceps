@@ -5,5 +5,7 @@
   "bairro": "Frederico Ernesto Buchholz",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-32.049585",
+  "longitude": "-52.1296351"
 }

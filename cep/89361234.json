@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Itapoá",
   "uf": "SC",
-  "ibge": "4208450"
+  "ibge": "4208450",
+  "latitude": "-26.0703535",
+  "longitude": "-48.622174"
 }

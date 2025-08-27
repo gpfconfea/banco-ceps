@@ -5,5 +5,7 @@
   "bairro": "Vila Dom Pedro",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-16.7698398",
+  "longitude": "-49.3676004"
 }

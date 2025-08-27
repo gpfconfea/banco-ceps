@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tabapuã",
   "uf": "SP",
-  "ibge": "3552601"
+  "ibge": "3552601",
+  "latitude": "-20.9628858",
+  "longitude": "-49.0347835"
 }

@@ -5,5 +5,7 @@
   "bairro": "Madureira",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8589672",
+  "longitude": "-43.3460325"
 }

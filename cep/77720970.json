@@ -1,9 +1,11 @@
 {
   "cep": "77720970",
   "logradouro": "Avenida Presidente Dutra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Itacajá",
   "uf": "TO",
-  "ibge": "1710508"
+  "ibge": "1710508",
+  "latitude": "-8.4026998",
+  "longitude": "-47.7749889"
 }

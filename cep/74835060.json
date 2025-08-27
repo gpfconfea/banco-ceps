@@ -5,5 +5,7 @@
   "bairro": "Serrinha",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.724299",
+  "longitude": "-49.2675219"
 }

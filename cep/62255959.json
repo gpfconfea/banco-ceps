@@ -1,9 +1,11 @@
 {
   "cep": "62255959",
   "logradouro": "Rua Frei Julian",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pires Ferreira",
   "uf": "CE",
-  "ibge": "2310951"
+  "ibge": "2310951",
+  "latitude": "-4.2444054",
+  "longitude": "-40.6467158"
 }

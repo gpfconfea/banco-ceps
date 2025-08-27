@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Maria",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-23.5557714",
+  "longitude": "-46.6395571"
 }

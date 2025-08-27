@@ -5,5 +5,7 @@
   "bairro": "Nova Vila Mendes",
   "localidade": "Taquarituba",
   "uf": "SP",
-  "ibge": "3553807"
+  "ibge": "3553807",
+  "latitude": "-23.5219195",
+  "longitude": "-49.2420361"
 }

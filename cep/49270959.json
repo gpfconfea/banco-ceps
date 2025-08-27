@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cristinápolis",
   "uf": "SE",
-  "ibge": "2801702"
+  "ibge": "2801702",
+  "latitude": "-11.4752989",
+  "longitude": "-37.7545534"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Lourenço",
   "localidade": "Cáceres",
   "uf": "MT",
-  "ibge": "5102504"
+  "ibge": "5102504",
+  "latitude": "-15.4560818",
+  "longitude": "-58.3474136"
 }

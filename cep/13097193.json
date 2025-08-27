@@ -5,5 +5,7 @@
   "bairro": "Alphaville Dom Pedro",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8578171",
+  "longitude": "-47.0167682"
 }

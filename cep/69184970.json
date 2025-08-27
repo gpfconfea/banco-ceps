@@ -1,9 +1,11 @@
 {
   "cep": "69184970",
   "logradouro": "Rua São Sebastião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Urucurituba",
   "uf": "AM",
-  "ibge": "1304401"
+  "ibge": "1304401",
+  "latitude": "-2.7692095",
+  "longitude": "-57.7601065"
 }

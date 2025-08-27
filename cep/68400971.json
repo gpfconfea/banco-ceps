@@ -1,9 +1,11 @@
 {
   "cep": "68400971",
   "logradouro": "Rua Vila Areião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Areião",
   "localidade": "Cametá",
   "uf": "PA",
-  "ibge": "1502103"
+  "ibge": "1502103",
+  "latitude": "-2.2442314",
+  "longitude": "-49.4987339"
 }

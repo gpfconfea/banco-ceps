@@ -1,9 +1,11 @@
 {
   "cep": "59088903",
   "logradouro": "Rua Minas Novas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Neópolis",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-5.875184",
+  "longitude": "-35.2061482"
 }

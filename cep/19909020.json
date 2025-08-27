@@ -5,5 +5,7 @@
   "bairro": "Vila Santos Dumont",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-22.9688248",
+  "longitude": "-49.9030347"
 }

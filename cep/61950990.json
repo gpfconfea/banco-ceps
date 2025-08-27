@@ -1,9 +1,11 @@
 {
   "cep": "61950990",
   "logradouro": "Avenida Tabatinga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Maranguape",
   "uf": "CE",
-  "ibge": "2307700"
+  "ibge": "2307700",
+  "latitude": "-3.949782",
+  "longitude": "-38.693539"
 }

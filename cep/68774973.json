@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João da Ponta",
   "uf": "PA",
-  "ibge": "1507466"
+  "ibge": "1507466",
+  "latitude": "-0.8507636",
+  "longitude": "-47.9209875"
 }

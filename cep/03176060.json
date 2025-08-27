@@ -6,5 +6,7 @@
   "bairro": "Mooca",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5523359",
+  "longitude": "-46.58992"
 }

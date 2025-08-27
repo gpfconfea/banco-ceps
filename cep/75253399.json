@@ -5,5 +5,7 @@
   "bairro": "Residencial Villa Verde",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.7972805",
+  "longitude": "-49.1354222"
 }

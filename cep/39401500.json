@@ -5,5 +5,7 @@
   "bairro": "Lourdes",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.7261907",
+  "longitude": "-43.8513427"
 }

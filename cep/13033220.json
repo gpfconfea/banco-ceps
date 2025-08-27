@@ -5,5 +5,7 @@
   "bairro": "Jardim do Vovô",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9043554",
+  "longitude": "-47.1064028"
 }

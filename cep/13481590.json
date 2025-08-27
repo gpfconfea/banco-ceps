@@ -5,5 +5,7 @@
   "bairro": "Residencial Nobreville",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.6189889",
+  "longitude": "-47.423668"
 }

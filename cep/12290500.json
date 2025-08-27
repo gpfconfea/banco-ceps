@@ -5,5 +5,7 @@
   "bairro": "Perinho",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.044018",
+  "longitude": "-45.7080483"
 }

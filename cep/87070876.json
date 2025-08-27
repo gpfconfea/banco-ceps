@@ -5,5 +5,7 @@
   "bairro": "Jardim São Miguel",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4097998",
+  "longitude": "-51.973455"
 }

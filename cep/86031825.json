@@ -5,5 +5,7 @@
   "bairro": "Residencial Vila Romana",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-22.9679584",
+  "longitude": "-51.4848378"
 }

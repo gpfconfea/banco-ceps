@@ -1,9 +1,11 @@
 {
   "cep": "58053900",
   "logradouro": "Rua Diógenes Chianca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Água Fria",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.1279515",
+  "longitude": "-34.9140145"
 }

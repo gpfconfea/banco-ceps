@@ -5,5 +5,7 @@
   "bairro": "Canto do Forte",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-20.3153977",
+  "longitude": "-40.301747"
 }

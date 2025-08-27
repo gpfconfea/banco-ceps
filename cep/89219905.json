@@ -1,9 +1,11 @@
 {
   "cep": "89219905",
   "logradouro": "Rua Alvino Wodtke",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Zona Industrial Norte",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-26.2507966",
+  "longitude": "-48.8538633"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Monteiro",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5756899",
+  "longitude": "-48.0346959"
 }

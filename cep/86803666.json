@@ -5,5 +5,7 @@
   "bairro": "Residencial Itália",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5274922",
+  "longitude": "-51.4468238"
 }

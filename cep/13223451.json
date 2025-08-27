@@ -5,5 +5,7 @@
   "bairro": "Residencial das Flores",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "latitude": "-23.2151291",
+  "longitude": "-46.8078347"
 }

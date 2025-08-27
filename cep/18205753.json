@@ -5,5 +5,7 @@
   "bairro": "Vila La Brunetti",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.6084356",
+  "longitude": "-48.0446511"
 }

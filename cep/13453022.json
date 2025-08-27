@@ -5,5 +5,7 @@
   "bairro": "Vila Oliveira",
   "localidade": "Santa Bárbara D'Oeste",
   "uf": "SP",
-  "ibge": "3545803"
+  "ibge": "3545803",
+  "latitude": "-22.7453337",
+  "longitude": "-47.4090839"
 }

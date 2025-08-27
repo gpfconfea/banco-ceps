@@ -6,5 +6,7 @@
   "bairro": "Madre Liliane",
   "localidade": "Igarapé",
   "uf": "MG",
-  "ibge": "3130101"
+  "ibge": "3130101",
+  "latitude": "-20.0795899",
+  "longitude": "-44.307667"
 }

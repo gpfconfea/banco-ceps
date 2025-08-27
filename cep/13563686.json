@@ -5,5 +5,7 @@
   "bairro": "Residencial Eldorado",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-23.4377725",
+  "longitude": "-46.7329218"
 }

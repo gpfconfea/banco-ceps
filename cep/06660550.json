@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rita",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.551511",
+  "longitude": "-46.961404"
 }

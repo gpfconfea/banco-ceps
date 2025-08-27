@@ -1,9 +1,11 @@
 {
   "cep": "84015901",
   "logradouro": "Rua Francisco Celso Baptista Rosas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Carvalho",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "latitude": "-25.074245",
+  "longitude": "-50.1566454"
 }

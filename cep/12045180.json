@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Tereza",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-22.9636756",
+  "longitude": "-45.6364942"
 }

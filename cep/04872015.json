@@ -5,5 +5,7 @@
   "bairro": "Jardim Recanto do Sol",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.7777297",
+  "longitude": "-47.6910615"
 }

@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Jardim Canaã",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4372177",
+  "longitude": "-46.7874413"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Laura",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-20.6224799",
+  "longitude": "-49.6441106"
 }

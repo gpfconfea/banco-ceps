@@ -5,5 +5,7 @@
   "bairro": "Extrema",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.2235889",
+  "longitude": "-51.0682759"
 }

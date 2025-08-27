@@ -1,9 +1,11 @@
 {
   "cep": "68632971",
   "logradouro": "Vila Arco Iris",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ulianópolis",
   "uf": "PA",
-  "ibge": "1508126"
+  "ibge": "1508126",
+  "latitude": "-3.9659031",
+  "longitude": "-47.5415968"
 }

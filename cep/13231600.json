@@ -5,5 +5,7 @@
   "bairro": "Chácara Lagoa Branca",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-23.2057629",
+  "longitude": "-46.7941315"
 }

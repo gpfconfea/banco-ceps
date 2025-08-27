@@ -5,5 +5,7 @@
   "bairro": "Residencial Alto do Jatobá",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-22.0136088",
+  "longitude": "-47.4302411"
 }

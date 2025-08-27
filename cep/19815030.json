@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-24.0606822",
+  "longitude": "-46.5532938"
 }

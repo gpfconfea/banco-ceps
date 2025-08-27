@@ -5,5 +5,7 @@
   "bairro": "Vila Gomes",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4831437",
+  "longitude": "-47.471233"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Araponga",
   "uf": "MG",
-  "ibge": "3103702"
+  "ibge": "3103702",
+  "latitude": "-20.6669498",
+  "longitude": "-42.5215758"
 }

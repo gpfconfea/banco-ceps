@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-23.56218",
+  "longitude": "-46.7678854"
 }

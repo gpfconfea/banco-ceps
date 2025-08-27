@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Alto Alegre",
   "uf": "SP",
-  "ibge": "3501103"
+  "ibge": "3501103",
+  "latitude": "-21.5820592",
+  "longitude": "-50.1661976"
 }

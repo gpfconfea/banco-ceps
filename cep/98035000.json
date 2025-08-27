@@ -5,5 +5,7 @@
   "bairro": "Pedro Bonini",
   "localidade": "Cruz Alta",
   "uf": "RS",
-  "ibge": "4306106"
+  "ibge": "4306106",
+  "latitude": "-29.9278753",
+  "longitude": "-51.0466363"
 }

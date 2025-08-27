@@ -1,9 +1,11 @@
 {
   "cep": "49920970",
   "logradouro": "Praça da Independência",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Amparo de São Francisco",
   "uf": "SE",
-  "ibge": "2800100"
+  "ibge": "2800100",
+  "latitude": "-10.1300774",
+  "longitude": "-36.9262672"
 }

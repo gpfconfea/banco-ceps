@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-6.3629059",
+  "longitude": "-41.7132984"
 }

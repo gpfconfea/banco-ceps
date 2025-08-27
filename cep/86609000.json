@@ -5,5 +5,7 @@
   "bairro": "São Martinho",
   "localidade": "Rolândia",
   "uf": "PR",
-  "ibge": "4122404"
+  "ibge": "4122404",
+  "latitude": "-23.1945651",
+  "longitude": "-51.4407828"
 }

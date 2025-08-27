@@ -5,5 +5,7 @@
   "bairro": "Nova Ajapi (Ajapi)",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "latitude": "-22.2825775",
+  "longitude": "-47.5475017"
 }
