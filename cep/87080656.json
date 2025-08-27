@@ -5,5 +5,7 @@
   "bairro": "Jardim São Jorge",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4026787",
+  "longitude": "-51.9696159"
 }

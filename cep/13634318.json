@@ -5,5 +5,7 @@
   "bairro": "Jardim Petrópolis",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.9948535",
+  "longitude": "-47.438236"
 }

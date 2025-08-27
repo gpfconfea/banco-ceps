@@ -1,9 +1,11 @@
 {
   "cep": "42800936",
   "logradouro": "Rua Lateral de Dentro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Industrial",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.7058098",
+  "longitude": "-38.3064348"
 }

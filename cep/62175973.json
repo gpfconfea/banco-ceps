@@ -1,9 +1,11 @@
 {
   "cep": "62175973",
   "logradouro": "Rua Antônio Nonato",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Carquejo",
   "localidade": "Mucambo",
   "uf": "CE",
-  "ibge": "2309003"
+  "ibge": "2309003",
+  "latitude": "-3.8410567",
+  "longitude": "-40.7303553"
 }

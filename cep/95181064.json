@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-31.4389202",
+  "longitude": "-53.0993886"
 }

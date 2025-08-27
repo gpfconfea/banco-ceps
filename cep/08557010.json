@@ -5,5 +5,7 @@
   "bairro": "Vila Acoreana",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-23.5194331",
+  "longitude": "-46.3425286"
 }

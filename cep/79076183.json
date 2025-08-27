@@ -5,5 +5,7 @@
   "bairro": "Jardim Centenário",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.5395465",
+  "longitude": "-54.6619914"
 }

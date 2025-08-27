@@ -5,5 +5,7 @@
   "bairro": "Crispim",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.6893923",
+  "longitude": "-46.8272787"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Universitário",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "latitude": "-22.3890898",
+  "longitude": "-47.5848985"
 }

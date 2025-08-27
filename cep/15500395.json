@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.4226631",
+  "longitude": "-49.9583831"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9654322",
+  "longitude": "-38.5036585"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "83560971",
   "logradouro": "Estrada de Açungui do Meio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itaperuçu",
   "uf": "PR",
-  "ibge": "4111258"
+  "ibge": "4111258",
+  "latitude": "-25.064379",
+  "longitude": "-49.5295726"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55303970",
   "logradouro": "Rua Cleto Campelo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Miracica",
   "localidade": "Garanhuns",
   "uf": "PE",
-  "ibge": "2606002"
+  "ibge": "2606002",
+  "latitude": "-8.9592411",
+  "longitude": "-36.6174377"
 }

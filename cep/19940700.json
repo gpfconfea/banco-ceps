@@ -6,5 +6,7 @@
   "bairro": "Francisco Camacho Garcia",
   "localidade": "Ibirarema",
   "uf": "SP",
-  "ibge": "3519501"
+  "ibge": "3519501",
+  "latitude": "-22.8103842",
+  "longitude": "-50.0767945"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64870959",
   "logradouro": "Rua Alfredo Lopes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bertolínia",
   "uf": "PI",
-  "ibge": "2201705"
+  "ibge": "2201705",
+  "latitude": "-7.6426495",
+  "longitude": "-43.9497977"
 }

@@ -6,5 +6,7 @@
   "bairro": "Jardim Branyl",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-22.9777105",
+  "longitude": "-47.4937459"
 }

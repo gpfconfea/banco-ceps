@@ -5,5 +5,7 @@
   "bairro": "São Vicente",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4458358",
+  "longitude": "-46.8274556"
 }

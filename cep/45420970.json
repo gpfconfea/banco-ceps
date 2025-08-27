@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cairu",
   "uf": "BA",
-  "ibge": "2905404"
+  "ibge": "2905404",
+  "latitude": "-13.4848393",
+  "longitude": "-39.0453076"
 }

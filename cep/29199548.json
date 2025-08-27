@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-20.0084874",
+  "longitude": "-40.1544793"
 }

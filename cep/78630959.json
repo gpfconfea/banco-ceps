@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campinápolis",
   "uf": "MT",
-  "ibge": "5102603"
+  "ibge": "5102603",
+  "latitude": "-14.5382909",
+  "longitude": "-52.8010985"
 }

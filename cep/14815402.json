@@ -5,5 +5,7 @@
   "bairro": "Encanto do Planalto",
   "localidade": "Ibaté",
   "uf": "SP",
-  "ibge": "3519303"
+  "ibge": "3519303",
+  "latitude": "-21.9509716",
+  "longitude": "-47.9951016"
 }

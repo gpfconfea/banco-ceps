@@ -1,9 +1,11 @@
 {
   "cep": "11085901",
   "logradouro": "Cais do Saboó",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Saboó",
   "localidade": "Santos",
   "uf": "SP",
-  "ibge": "3548500"
+  "ibge": "3548500",
+  "latitude": "-23.9288464",
+  "longitude": "-46.3362707"
 }

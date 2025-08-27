@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rodeiro",
   "uf": "MG",
-  "ibge": "3156304"
+  "ibge": "3156304",
+  "latitude": "-21.200278",
+  "longitude": "-42.865"
 }

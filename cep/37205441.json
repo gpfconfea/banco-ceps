@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.2686282",
+  "longitude": "-44.9743474"
 }

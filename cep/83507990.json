@@ -1,9 +1,11 @@
 {
   "cep": "83507990",
   "logradouro": "Estrada Principal do Juruqui",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.269208",
+  "longitude": "-49.329441"
 }

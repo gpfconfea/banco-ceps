@@ -5,5 +5,7 @@
   "bairro": "São Benedito",
   "localidade": "Ibaté",
   "uf": "SP",
-  "ibge": "3519303"
+  "ibge": "3519303",
+  "latitude": "-21.9572557",
+  "longitude": "-47.9926729"
 }

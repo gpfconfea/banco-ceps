@@ -1,9 +1,11 @@
 {
   "cep": "06830903",
   "logradouro": "Rodovia Régis Bittencourt",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Sadie",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "latitude": "-23.6271654",
+  "longitude": "-46.8180806"
 }

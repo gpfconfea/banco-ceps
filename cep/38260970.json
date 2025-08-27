@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Francisco de Sales",
   "uf": "MG",
-  "ibge": "3161304"
+  "ibge": "3161304",
+  "latitude": "-19.8614205",
+  "longitude": "-49.7709142"
 }

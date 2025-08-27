@@ -1,9 +1,11 @@
 {
   "cep": "76412970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Colinaçu",
   "localidade": "Campinorte",
   "uf": "GO",
-  "ibge": "5204706"
+  "ibge": "5204706",
+  "latitude": "-14.3332939",
+  "longitude": "-49.156116"
 }

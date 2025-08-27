@@ -1,9 +1,11 @@
 {
   "cep": "42710900",
   "logradouro": "Rua João Marques Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Buraquinho",
   "localidade": "Lauro de Freitas",
   "uf": "BA",
-  "ibge": "2919207"
+  "ibge": "2919207",
+  "latitude": "-12.8733463",
+  "longitude": "-38.2831095"
 }

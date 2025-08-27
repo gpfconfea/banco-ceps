@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "latitude": "-22.272293",
+  "longitude": "-42.5238654"
 }

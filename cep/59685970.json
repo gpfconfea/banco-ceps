@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Triunfo Potiguar",
   "uf": "RN",
-  "ibge": "2414456"
+  "ibge": "2414456",
+  "latitude": "-5.8659377",
+  "longitude": "-37.1882618"
 }

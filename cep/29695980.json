@@ -1,9 +1,11 @@
 {
   "cep": "29695980",
   "logradouro": "Rua Homero Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itaimbé",
   "localidade": "Itaguaçu",
   "uf": "ES",
-  "ibge": "3202702"
+  "ibge": "3202702",
+  "latitude": "-19.6636846",
+  "longitude": "-40.8365728"
 }

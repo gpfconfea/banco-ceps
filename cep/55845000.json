@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Buenos Aires",
   "uf": "PE",
-  "ibge": "2602704"
+  "ibge": "2602704",
+  "latitude": "-7.7218931",
+  "longitude": "-35.326587"
 }

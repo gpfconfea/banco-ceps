@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Villagio Verde",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4428711",
+  "longitude": "-46.8155021"
 }

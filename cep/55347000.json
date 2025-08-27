@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Iati",
   "uf": "PE",
-  "ibge": "2606507"
+  "ibge": "2606507",
+  "latitude": "-9.261391",
+  "longitude": "-36.936987"
 }

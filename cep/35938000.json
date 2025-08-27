@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Bela Vista de Minas",
   "uf": "MG",
-  "ibge": "3106002"
+  "ibge": "3106002",
+  "latitude": "-19.8289721",
+  "longitude": "-43.0973688"
 }

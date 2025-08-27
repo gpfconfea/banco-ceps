@@ -5,5 +5,7 @@
   "bairro": "Jardim Maringá",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0664754",
+  "longitude": "-47.2300624"
 }

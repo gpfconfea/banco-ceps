@@ -1,9 +1,11 @@
 {
   "cep": "21862989",
-  "logradouro": "Avenida Doutora Maria Estrela 250 Térreo Locker Correios",
+  "logradouro": "Avenida Doutora Maria Estrela 250 Térreo",
   "complemento": "",
   "bairro": "Bangu",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8636173",
+  "longitude": "-43.4662585"
 }

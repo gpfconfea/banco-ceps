@@ -5,5 +5,7 @@
   "bairro": "Conjunto Promorar Rio Claro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.622436",
+  "longitude": "-46.457768"
 }

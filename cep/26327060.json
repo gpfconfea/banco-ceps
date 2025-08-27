@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Catarina",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.7254665",
+  "longitude": "-43.5580658"
 }

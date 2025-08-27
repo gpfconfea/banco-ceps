@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Itajaí",
   "uf": "SC",
-  "ibge": "4208203"
+  "ibge": "4208203",
+  "latitude": "-26.9208356",
+  "longitude": "-48.6892763"
 }

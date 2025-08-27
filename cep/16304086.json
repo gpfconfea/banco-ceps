@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-21.427691",
+  "longitude": "-50.0804195"
 }

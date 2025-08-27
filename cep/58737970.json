@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maturéia",
   "uf": "PB",
-  "ibge": "2509396"
+  "ibge": "2509396",
+  "latitude": "-7.2652587",
+  "longitude": "-37.3454579"
 }

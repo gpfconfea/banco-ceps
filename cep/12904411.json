@@ -5,5 +5,7 @@
   "bairro": "Vila Garcia",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.9429198",
+  "longitude": "-46.5549609"
 }

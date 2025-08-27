@@ -5,5 +5,7 @@
   "bairro": "Jardim Iporanga",
   "localidade": "Águas de São Pedro",
   "uf": "SP",
-  "ibge": "3500600"
+  "ibge": "3500600",
+  "latitude": "-22.5985874",
+  "longitude": "-47.8696535"
 }

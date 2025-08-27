@@ -1,9 +1,11 @@
 {
   "cep": "63735974",
   "logradouro": "Rua Santana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santana",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "latitude": "-6.0001899",
+  "longitude": "-40.2821657"
 }

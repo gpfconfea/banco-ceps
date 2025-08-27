@@ -5,5 +5,7 @@
   "bairro": "Condomínio Recanto dos Guerreiros",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-19.7695791",
+  "longitude": "-47.8884263"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Paris",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2484853",
+  "longitude": "-51.169457"
 }

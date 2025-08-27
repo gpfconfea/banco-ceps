@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-23.002816",
+  "longitude": "-47.5042788"
 }
