@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora do Monte Serrat",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.2105892",
+  "longitude": "-47.2684881"
 }

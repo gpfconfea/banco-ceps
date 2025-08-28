@@ -5,5 +5,7 @@
   "bairro": "Alphaville Brasília",
   "localidade": "Cidade Ocidental",
   "uf": "GO",
-  "ibge": "5205497"
+  "ibge": "5205497",
+  "latitude": "37.7798721",
+  "longitude": "-122.2821855"
 }

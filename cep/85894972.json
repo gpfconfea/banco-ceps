@@ -1,9 +1,11 @@
 {
   "cep": "85894972",
   "logradouro": "Rua José de Alencar",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Helena",
   "uf": "PR",
-  "ibge": "4123501"
+  "ibge": "4123501",
+  "latitude": "-24.9929337",
+  "longitude": "-54.2166526"
 }

@@ -5,5 +5,7 @@
   "bairro": "Cruzeiro",
   "localidade": "Santa Rosa",
   "uf": "RS",
-  "ibge": "4317202"
+  "ibge": "4317202",
+  "latitude": "-23.1907629",
+  "longitude": "-46.8774827"
 }

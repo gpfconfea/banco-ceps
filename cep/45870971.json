@@ -1,9 +1,11 @@
 {
   "cep": "45870971",
   "logradouro": "Avenida ACM",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João do Paraíso",
   "localidade": "Mascote",
   "uf": "BA",
-  "ibge": "2920908"
+  "ibge": "2920908",
+  "latitude": "-12.9856448",
+  "longitude": "-38.4665723"
 }

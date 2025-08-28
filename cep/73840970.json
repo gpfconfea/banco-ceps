@@ -5,5 +5,7 @@
   "bairro": "Setor Aeroporto",
   "localidade": "Campos Belos",
   "uf": "GO",
-  "ibge": "5204904"
+  "ibge": "5204904",
+  "latitude": "-13.0323081",
+  "longitude": "-46.7726741"
 }

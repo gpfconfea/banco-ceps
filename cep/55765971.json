@@ -1,9 +1,11 @@
 {
   "cep": "55765971",
   "logradouro": "Rua Nossa Senhora da Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Caramuru",
   "localidade": "Santa Maria do Cambucá",
   "uf": "PE",
-  "ibge": "2612703"
+  "ibge": "2612703",
+  "latitude": "-7.8066297",
+  "longitude": "-35.9041756"
 }

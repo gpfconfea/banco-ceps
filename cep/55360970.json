@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caetés",
   "uf": "PE",
-  "ibge": "2603207"
+  "ibge": "2603207",
+  "latitude": "-8.7741316",
+  "longitude": "-36.6227008"
 }

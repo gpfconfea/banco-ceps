@@ -5,5 +5,7 @@
   "bairro": "Vila Ferrielo",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.2786308",
+  "longitude": "-47.6723643"
 }

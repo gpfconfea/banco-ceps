@@ -1,9 +1,11 @@
 {
   "cep": "44350970",
   "logradouro": "Rua Wilson Falcão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Governador Mangabeira",
   "uf": "BA",
-  "ibge": "2911600"
+  "ibge": "2911600",
+  "latitude": "-12.6003831",
+  "longitude": "-39.0436677"
 }

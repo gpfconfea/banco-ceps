@@ -6,5 +6,7 @@
   "bairro": "Alvorada",
   "localidade": "Guaíba",
   "uf": "RS",
-  "ibge": "4309308"
+  "ibge": "4309308",
+  "latitude": "-30.1205433",
+  "longitude": "-51.3136426"
 }

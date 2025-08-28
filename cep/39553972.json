@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ninheira",
   "uf": "MG",
-  "ibge": "3144656"
+  "ibge": "3144656",
+  "latitude": "-15.3192969",
+  "longitude": "-41.7529627"
 }

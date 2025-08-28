@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Brasnorte",
   "uf": "MT",
-  "ibge": "5101902"
+  "ibge": "5101902",
+  "latitude": "-12.1214207",
+  "longitude": "-58.0040855"
 }

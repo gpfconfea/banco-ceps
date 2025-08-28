@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "latitude": "-5.1060614",
+  "longitude": "-42.8587964"
 }

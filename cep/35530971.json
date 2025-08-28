@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cláudio",
   "uf": "MG",
-  "ibge": "3116605"
+  "ibge": "3116605",
+  "latitude": "-20.4016812",
+  "longitude": "-44.6864586"
 }

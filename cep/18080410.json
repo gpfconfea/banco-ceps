@@ -5,5 +5,7 @@
   "bairro": "Jardim Sorocabano",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4788534",
+  "longitude": "-47.4548846"
 }

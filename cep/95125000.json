@@ -5,5 +5,7 @@
   "bairro": "Fazenda Souza",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "latitude": "-29.1356816",
+  "longitude": "-50.9891935"
 }

@@ -5,5 +5,7 @@
   "bairro": "Retiro Velho",
   "localidade": "Chapada Gaúcha",
   "uf": "MG",
-  "ibge": "3116159"
+  "ibge": "3116159",
+  "latitude": "-15.6255656",
+  "longitude": "-45.1524141"
 }

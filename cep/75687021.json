@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Porto Seguro",
   "localidade": "Caldas Novas",
   "uf": "GO",
-  "ibge": "5204508"
+  "ibge": "5204508",
+  "latitude": "-17.7741374",
+  "longitude": "-48.5860045"
 }

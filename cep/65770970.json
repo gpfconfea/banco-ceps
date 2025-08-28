@@ -1,9 +1,11 @@
 {
   "cep": "65770970",
   "logradouro": "Avenida Manoel Paciência",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Governador Archer",
   "uf": "MA",
-  "ibge": "2104503"
+  "ibge": "2104503",
+  "latitude": "-5.0221551",
+  "longitude": "-44.2681307"
 }

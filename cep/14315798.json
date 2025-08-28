@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Batatais",
   "uf": "SP",
-  "ibge": "3505906"
+  "ibge": "3505906",
+  "latitude": "-20.8982093",
+  "longitude": "-47.6166361"
 }

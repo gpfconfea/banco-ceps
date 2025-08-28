@@ -5,5 +5,7 @@
   "bairro": "Granja Lisboa",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-8.5761055",
+  "longitude": "-36.8747234"
 }

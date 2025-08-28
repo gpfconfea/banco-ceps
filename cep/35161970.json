@@ -1,9 +1,11 @@
 {
   "cep": "35161970",
   "logradouro": "Praça Natsuo Esaki Loja 5",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cariru",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "latitude": "-19.4707569",
+  "longitude": "-42.548012"
 }

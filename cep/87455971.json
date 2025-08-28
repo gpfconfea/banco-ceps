@@ -1,9 +1,11 @@
 {
   "cep": "87455971",
   "logradouro": "Rua Tuneiras",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aparecida do Oeste",
   "localidade": "Tuneiras do Oeste",
   "uf": "PR",
-  "ibge": "4127908"
+  "ibge": "4127908",
+  "latitude": "-23.9594598",
+  "longitude": "-52.8448074"
 }

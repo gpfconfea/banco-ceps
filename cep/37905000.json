@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Fortaleza de Minas",
   "uf": "MG",
-  "ibge": "3126307"
+  "ibge": "3126307",
+  "latitude": "-20.849166",
+  "longitude": "-46.712222"
 }

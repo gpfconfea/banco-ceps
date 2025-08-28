@@ -1,9 +1,11 @@
 {
   "cep": "45500971",
   "logradouro": "Praça Tancredo Neves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itamaraty",
   "localidade": "Ibirapitanga",
   "uf": "BA",
-  "ibge": "2912707"
+  "ibge": "2912707",
+  "latitude": "-14.1653401",
+  "longitude": "-39.3791373"
 }

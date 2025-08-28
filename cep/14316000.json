@@ -5,5 +5,7 @@
   "bairro": "Alto do Cruzeiro",
   "localidade": "Batatais",
   "uf": "SP",
-  "ibge": "3505906"
+  "ibge": "3505906",
+  "latitude": "-20.8909552",
+  "longitude": "-47.5974166"
 }

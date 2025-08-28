@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piritiba",
   "uf": "BA",
-  "ibge": "2924801"
+  "ibge": "2924801",
+  "latitude": "-11.730004",
+  "longitude": "-40.5546989"
 }

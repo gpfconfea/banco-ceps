@@ -1,9 +1,11 @@
 {
   "cep": "78110901",
   "logradouro": "Avenida Castelo Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro-Norte",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6473866",
+  "longitude": "-56.1308607"
 }

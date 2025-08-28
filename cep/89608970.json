@@ -1,9 +1,11 @@
 {
   "cep": "89608970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Helena",
   "localidade": "Santa Helena",
   "uf": "SC",
-  "ibge": "4215554"
+  "ibge": "4215554",
+  "latitude": "-20.3658861",
+  "longitude": "-40.4052803"
 }

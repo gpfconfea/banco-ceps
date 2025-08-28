@@ -6,5 +6,7 @@
   "bairro": "Jardim Bonança",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.4869385",
+  "longitude": "-46.7994698"
 }

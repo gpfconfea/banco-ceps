@@ -1,9 +1,11 @@
 {
   "cep": "44700972",
   "logradouro": "Rua Morro do Chapéu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lages",
   "localidade": "Jacobina",
   "uf": "BA",
-  "ibge": "2917508"
+  "ibge": "2917508",
+  "latitude": "-11.1798961",
+  "longitude": "-40.5177351"
 }

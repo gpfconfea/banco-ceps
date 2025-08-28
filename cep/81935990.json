@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Curitiba",
   "uf": "PR",
-  "ibge": "4106902"
+  "ibge": "4106902",
+  "latitude": "-25.5631877",
+  "longitude": "-49.2535193"
 }

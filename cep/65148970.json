@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Axixá",
   "uf": "MA",
-  "ibge": "2101103"
+  "ibge": "2101103",
+  "latitude": "-2.8367245",
+  "longitude": "-44.0531584"
 }

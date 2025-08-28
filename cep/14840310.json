@@ -5,5 +5,7 @@
   "bairro": "Vila Rocca",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.3512221",
+  "longitude": "-48.2231549"
 }

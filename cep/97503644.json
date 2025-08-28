@@ -5,5 +5,7 @@
   "bairro": "Cabo Luís Quevedo",
   "localidade": "Uruguaiana",
   "uf": "RS",
-  "ibge": "4322400"
+  "ibge": "4322400",
+  "latitude": "-29.7724271",
+  "longitude": "-57.1032417"
 }

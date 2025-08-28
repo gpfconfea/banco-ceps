@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.4310914",
+  "longitude": "-45.9548496"
 }

@@ -5,5 +5,7 @@
   "bairro": "Eldorado",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-11.0021924",
+  "longitude": "-68.7524212"
 }

@@ -5,5 +5,7 @@
   "bairro": "Juscelino Kubitschek",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-20.5275406",
+  "longitude": "-45.5873106"
 }

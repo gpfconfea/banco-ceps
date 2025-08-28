@@ -5,5 +5,7 @@
   "bairro": "Jardim Itaipu",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1336799",
+  "longitude": "-51.4406752"
 }

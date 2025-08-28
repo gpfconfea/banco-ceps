@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Feliz",
   "uf": "RS",
-  "ibge": "4308102"
+  "ibge": "4308102",
+  "latitude": "-29.4531638",
+  "longitude": "-51.3028391"
 }
