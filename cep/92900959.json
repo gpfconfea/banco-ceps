@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mariana Pimentel",
   "uf": "RS",
-  "ibge": "4311981"
+  "ibge": "4311981",
+  "latitude": "-30.3551553",
+  "longitude": "-51.5853941"
 }

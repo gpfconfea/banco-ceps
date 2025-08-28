@@ -1,9 +1,11 @@
 {
   "cep": "25615990",
   "logradouro": "Estrada José Almeida Amado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "latitude": "-22.507534",
+  "longitude": "-43.1352005"
 }

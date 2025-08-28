@@ -1,9 +1,11 @@
 {
   "cep": "45545970",
   "logradouro": "Rua Álvaro Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ubaitaba",
   "uf": "BA",
-  "ibge": "2932200"
+  "ibge": "2932200",
+  "latitude": "-14.3131376",
+  "longitude": "-39.3245823"
 }

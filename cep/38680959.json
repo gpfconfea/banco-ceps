@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arinos",
   "uf": "MG",
-  "ibge": "3104502"
+  "ibge": "3104502",
+  "latitude": "-15.9151849",
+  "longitude": "-46.1065256"
 }

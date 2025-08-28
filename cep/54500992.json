@@ -1,9 +1,11 @@
 {
   "cep": "54500992",
   "logradouro": "Rua Laurentino Gomes - Gaibu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cabo de Santo Agostinho",
   "uf": "PE",
-  "ibge": "2602902"
+  "ibge": "2602902",
+  "latitude": "-8.34539",
+  "longitude": "-34.9520183"
 }

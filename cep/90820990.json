@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.0789538",
+  "longitude": "-51.2375825"
 }

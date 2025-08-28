@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Fidélis",
   "uf": "RJ",
-  "ibge": "3304805"
+  "ibge": "3304805",
+  "latitude": "-21.6476516",
+  "longitude": "-41.7516378"
 }

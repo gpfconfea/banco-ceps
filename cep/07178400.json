@@ -5,5 +5,7 @@
   "bairro": "Vila Carmela II",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.3995262",
+  "longitude": "-46.3906856"
 }

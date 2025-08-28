@@ -5,5 +5,7 @@
   "bairro": "Jardim Maravilha",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-23.0875939",
+  "longitude": "-52.4566844"
 }

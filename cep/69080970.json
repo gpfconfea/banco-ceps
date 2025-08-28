@@ -1,9 +1,11 @@
 {
   "cep": "69080970",
   "logradouro": "Avenida Rodrigo Otávio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Coroado",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-3.1009867",
+  "longitude": "-59.9829876"
 }

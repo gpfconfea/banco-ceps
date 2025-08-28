@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Pádua",
   "uf": "RS",
-  "ibge": "4313086"
+  "ibge": "4313086",
+  "latitude": "-29.0280609",
+  "longitude": "-51.3084467"
 }

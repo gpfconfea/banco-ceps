@@ -5,5 +5,7 @@
   "bairro": "Jardim Prainha",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4577418",
+  "longitude": "-46.4178162"
 }

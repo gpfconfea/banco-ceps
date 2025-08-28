@@ -5,5 +5,7 @@
   "bairro": "Residencial Monte Belo I",
   "localidade": "Duartina",
   "uf": "SP",
-  "ibge": "3514502"
+  "ibge": "3514502",
+  "latitude": "-23.5645509",
+  "longitude": "-46.5822229"
 }

@@ -5,5 +5,7 @@
   "bairro": "Alto Ibirá",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2210342",
+  "longitude": "-45.9492026"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bocaiúva do Sul",
   "uf": "PR",
-  "ibge": "4103107"
+  "ibge": "4103107",
+  "latitude": "-25.2104723",
+  "longitude": "-49.1130732"
 }

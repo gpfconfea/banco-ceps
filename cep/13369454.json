@@ -5,5 +5,7 @@
   "bairro": "Piazza Di Roma",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-23.0177086",
+  "longitude": "-47.5137795"
 }

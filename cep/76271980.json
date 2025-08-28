@@ -1,9 +1,11 @@
 {
   "cep": "76271980",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito de São Sebastião do Rio Claro",
   "localidade": "Jussara",
   "uf": "GO",
-  "ibge": "5212204"
+  "ibge": "5212204",
+  "latitude": "-15.7380055",
+  "longitude": "-51.4597307"
 }

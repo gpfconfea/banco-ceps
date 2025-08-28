@@ -5,5 +5,7 @@
   "bairro": "Presidente João Goulart",
   "localidade": "Santa Maria",
   "uf": "RS",
-  "ibge": "4316907"
+  "ibge": "4316907",
+  "latitude": "-29.6845885",
+  "longitude": "-53.7852208"
 }

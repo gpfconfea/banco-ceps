@@ -1,9 +1,11 @@
 {
   "cep": "39538959",
   "logradouro": "Rua Jovelino Pinheiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santo Antônio do Retiro",
   "uf": "MG",
-  "ibge": "3160454"
+  "ibge": "3160454",
+  "latitude": "-15.3418664",
+  "longitude": "-42.6224595"
 }

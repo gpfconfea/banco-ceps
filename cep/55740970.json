@@ -5,5 +5,7 @@
   "bairro": "Cohab",
   "localidade": "Machados",
   "uf": "PE",
-  "ibge": "2609105"
+  "ibge": "2609105",
+  "latitude": "-26.8689139",
+  "longitude": "-48.6850616"
 }

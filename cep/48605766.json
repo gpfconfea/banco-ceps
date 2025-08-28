@@ -5,5 +5,7 @@
   "bairro": "Tropical",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "latitude": "-9.3862721",
+  "longitude": "-38.2298516"
 }

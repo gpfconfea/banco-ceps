@@ -5,5 +5,7 @@
   "bairro": "Recanto da Fazenda",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.7876863",
+  "longitude": "-47.229783"
 }

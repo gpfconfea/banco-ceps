@@ -1,9 +1,11 @@
 {
   "cep": "72870971",
   "logradouro": "Rua da BR-040 Quadras 1 e 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Rio Branco",
   "localidade": "Valparaíso de Goiás",
   "uf": "GO",
-  "ibge": "5221858"
+  "ibge": "5221858",
+  "latitude": "-16.0946035",
+  "longitude": "-47.9810274"
 }

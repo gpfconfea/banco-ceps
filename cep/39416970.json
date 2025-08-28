@@ -1,9 +1,11 @@
 {
   "cep": "39416970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Nova de Minas",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-16.4328899",
+  "longitude": "-44.0905682"
 }

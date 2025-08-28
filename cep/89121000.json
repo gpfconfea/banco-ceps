@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Rio dos Cedros",
   "uf": "SC",
-  "ibge": "4214706"
+  "ibge": "4214706",
+  "latitude": "-26.739777",
+  "longitude": "-49.271828"
 }

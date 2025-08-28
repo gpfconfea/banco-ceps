@@ -5,5 +5,7 @@
   "bairro": "Mirim",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-10.9058417",
+  "longitude": "-37.0350681"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62852974",
   "logradouro": "Vila Caponga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caponga",
   "localidade": "Cascavel",
   "uf": "CE",
-  "ibge": "2303501"
+  "ibge": "2303501",
+  "latitude": "-4.04553",
+  "longitude": "-38.200979"
 }

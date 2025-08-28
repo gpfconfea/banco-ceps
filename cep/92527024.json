@@ -5,5 +5,7 @@
   "bairro": "Aeroclube",
   "localidade": "Montenegro",
   "uf": "RS",
-  "ibge": "4312401"
+  "ibge": "4312401",
+  "latitude": "-29.696008",
+  "longitude": "-51.5007376"
 }

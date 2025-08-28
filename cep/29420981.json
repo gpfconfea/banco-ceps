@@ -1,9 +1,11 @@
 {
   "cep": "29420981",
   "logradouro": "Rua Virgínio Machado Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José das Torres",
   "localidade": "Mimoso do Sul",
   "uf": "ES",
-  "ibge": "3203403"
+  "ibge": "3203403",
+  "latitude": "-21.0703369",
+  "longitude": "-41.2321136"
 }

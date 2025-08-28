@@ -1,9 +1,11 @@
 {
   "cep": "62959973",
   "logradouro": "Rua da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canindezinho",
   "localidade": "Ibicuitinga",
   "uf": "CE",
-  "ibge": "2305332"
+  "ibge": "2305332",
+  "latitude": "-4.9222938",
+  "longitude": "-38.5205396"
 }

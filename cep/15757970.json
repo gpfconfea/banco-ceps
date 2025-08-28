@@ -1,9 +1,11 @@
 {
   "cep": "15757970",
   "logradouro": "Avenida Brasil",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Fátima Paulista",
   "localidade": "Turmalina",
   "uf": "SP",
-  "ibge": "3555307"
+  "ibge": "3555307",
+  "latitude": "-18.8551685",
+  "longitude": "-41.9819197"
 }

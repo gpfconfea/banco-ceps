@@ -5,5 +5,7 @@
   "bairro": "Vila Moreninha III",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.5563042",
+  "longitude": "-54.5751534"
 }

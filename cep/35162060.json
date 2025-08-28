@@ -5,5 +5,7 @@
   "bairro": "Canaã",
   "localidade": "Ipatinga",
   "uf": "MG",
-  "ibge": "3131307"
+  "ibge": "3131307",
+  "latitude": "-19.462585",
+  "longitude": "-42.5530175"
 }

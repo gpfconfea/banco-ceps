@@ -5,5 +5,7 @@
   "bairro": "Residencial Sírius",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9522543",
+  "longitude": "-47.1654275"
 }

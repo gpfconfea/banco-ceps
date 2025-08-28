@@ -5,5 +5,7 @@
   "bairro": "Jardim Tijuca",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-23.6790432",
+  "longitude": "-46.5780774"
 }

@@ -6,5 +6,7 @@
   "bairro": "Zona Sul",
   "localidade": "Ilha Solteira",
   "uf": "SP",
-  "ibge": "3520442"
+  "ibge": "3520442",
+  "latitude": "-20.4320897",
+  "longitude": "-51.3515644"
 }

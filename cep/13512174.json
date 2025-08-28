@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Santa Gertrudes",
   "uf": "SP",
-  "ibge": "3546702"
+  "ibge": "3546702",
+  "latitude": "-22.4452642",
+  "longitude": "-47.5427087"
 }

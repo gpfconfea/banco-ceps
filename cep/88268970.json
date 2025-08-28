@@ -1,9 +1,11 @@
 {
   "cep": "88268970",
   "logradouro": "Estrada Geral de Pinheiral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pinheiral",
   "localidade": "Major Gercino",
   "uf": "SC",
-  "ibge": "4210209"
+  "ibge": "4210209",
+  "latitude": "-27.3370822",
+  "longitude": "-49.1291328"
 }

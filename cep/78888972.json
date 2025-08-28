@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Ubiratã",
   "uf": "MT",
-  "ibge": "5106240"
+  "ibge": "5106240",
+  "latitude": "-13.0297864",
+  "longitude": "-55.2566087"
 }

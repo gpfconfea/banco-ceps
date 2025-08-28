@@ -5,5 +5,7 @@
   "bairro": "Praia",
   "localidade": "Congonhas",
   "uf": "MG",
-  "ibge": "3118007"
+  "ibge": "3118007",
+  "latitude": "-20.4992519",
+  "longitude": "-43.864083"
 }

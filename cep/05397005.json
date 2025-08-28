@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5795728",
+  "longitude": "-46.7776557"
 }

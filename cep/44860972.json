@@ -1,9 +1,11 @@
 {
   "cep": "44860972",
   "logradouro": "Praça do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Coopirecê",
   "localidade": "Irecê",
   "uf": "BA",
-  "ibge": "2914604"
+  "ibge": "2914604",
+  "latitude": "-11.6853956",
+  "longitude": "-41.7709388"
 }

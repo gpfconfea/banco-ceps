@@ -1,9 +1,11 @@
 {
   "cep": "47454970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pituba",
   "localidade": "Gentio do Ouro",
   "uf": "BA",
-  "ibge": "2911303"
+  "ibge": "2911303",
+  "latitude": "-11.6754461",
+  "longitude": "-42.6181991"
 }

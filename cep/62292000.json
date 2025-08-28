@@ -5,5 +5,7 @@
   "bairro": "Logradouro",
   "localidade": "Santa Quitéria",
   "uf": "CE",
-  "ibge": "2312205"
+  "ibge": "2312205",
+  "latitude": "-4.1748849",
+  "longitude": "-40.0962679"
 }

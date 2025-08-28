@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-22.4163439",
+  "longitude": "-49.1409341"
 }

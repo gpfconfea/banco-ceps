@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3242033",
+  "longitude": "-48.9618727"
 }

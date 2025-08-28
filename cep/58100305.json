@@ -5,5 +5,7 @@
   "bairro": "Santa Catarina",
   "localidade": "Cabedelo",
   "uf": "PB",
-  "ibge": "2503209"
+  "ibge": "2503209",
+  "latitude": "-7.0741265",
+  "longitude": "-34.8574249"
 }

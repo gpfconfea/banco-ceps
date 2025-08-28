@@ -5,5 +5,7 @@
   "bairro": "Vila Militar",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-16.3767591",
+  "longitude": "-46.8839832"
 }

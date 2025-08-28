@@ -1,9 +1,11 @@
 {
   "cep": "88495971",
   "logradouro": "Rodovia SC 434",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campo D'una",
   "localidade": "Garopaba",
   "uf": "SC",
-  "ibge": "4205704"
+  "ibge": "4205704",
+  "latitude": "-28.1050105",
+  "longitude": "-48.6781143"
 }

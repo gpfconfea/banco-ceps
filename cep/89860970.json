@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marema",
   "uf": "SC",
-  "ibge": "4210555"
+  "ibge": "4210555",
+  "latitude": "-26.8026669",
+  "longitude": "-52.6279095"
 }

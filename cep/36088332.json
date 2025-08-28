@@ -5,5 +5,7 @@
   "bairro": "Santa Cruz",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.7155882",
+  "longitude": "-43.4363227"
 }

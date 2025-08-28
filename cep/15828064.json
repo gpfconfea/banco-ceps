@@ -6,5 +6,7 @@
   "bairro": "Ferraz",
   "localidade": "Palmares Paulista",
   "uf": "SP",
-  "ibge": "3535101"
+  "ibge": "3535101",
+  "latitude": "-21.08184",
+  "longitude": "-48.801073"
 }
