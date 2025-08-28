@@ -1,9 +1,11 @@
 {
   "cep": "89123970",
   "logradouro": "Estrada Geral Rio Rosina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Rio Rosinha)",
   "localidade": "Rio dos Cedros",
   "uf": "SC",
-  "ibge": "4214706"
+  "ibge": "4214706",
+  "latitude": "-26.6421939",
+  "longitude": "-49.3359597"
 }

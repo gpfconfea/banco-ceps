@@ -1,9 +1,11 @@
 {
   "cep": "68805971",
   "logradouro": "Vila de Curumu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Curumu",
   "localidade": "Breves",
   "uf": "PA",
-  "ibge": "1501808"
+  "ibge": "1501808",
+  "latitude": "-0.9992545",
+  "longitude": "-50.8328711"
 }

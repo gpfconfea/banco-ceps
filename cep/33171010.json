@@ -5,5 +5,7 @@
   "bairro": "Luxemburgo",
   "localidade": "Santa Luzia",
   "uf": "MG",
-  "ibge": "3157807"
+  "ibge": "3157807",
+  "latitude": "-20.2799118",
+  "longitude": "-40.4042273"
 }

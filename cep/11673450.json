@@ -5,5 +5,7 @@
   "bairro": "Jardim das Gaivotas",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.4862249",
+  "longitude": "-45.1556091"
 }

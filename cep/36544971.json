@@ -1,9 +1,11 @@
 {
   "cep": "36544971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Paula Cândido",
   "uf": "MG",
-  "ibge": "3148301"
+  "ibge": "3148301",
+  "latitude": "-20.8136901",
+  "longitude": "-42.9579873"
 }

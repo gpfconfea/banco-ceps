@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Chopinzinho",
   "uf": "PR",
-  "ibge": "4105409"
+  "ibge": "4105409",
+  "latitude": "-25.8554197",
+  "longitude": "-52.5359496"
 }

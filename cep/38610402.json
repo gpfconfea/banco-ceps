@@ -5,5 +5,7 @@
   "bairro": "Rio Preto",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-16.3514091",
+  "longitude": "-46.8978607"
 }

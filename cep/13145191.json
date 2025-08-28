@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Paulínia",
   "uf": "SP",
-  "ibge": "3536505"
+  "ibge": "3536505",
+  "latitude": "-23.535914",
+  "longitude": "-46.4405035"
 }

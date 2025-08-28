@@ -1,9 +1,11 @@
 {
   "cep": "45495970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Capão",
   "localidade": "Laje",
   "uf": "BA",
-  "ibge": "2918803"
+  "ibge": "2918803",
+  "latitude": "-10.5027666",
+  "longitude": "-38.9424895"
 }

@@ -6,5 +6,7 @@
   "bairro": "Residencial Canaã II",
   "localidade": "Rio Verde",
   "uf": "GO",
-  "ibge": "5218805"
+  "ibge": "5218805",
+  "latitude": "-17.7701192",
+  "longitude": "-50.9380829"
 }

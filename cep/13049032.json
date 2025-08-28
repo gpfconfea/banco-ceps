@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Cristo/Parque Oziel",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9444491",
+  "longitude": "-47.0808882"
 }

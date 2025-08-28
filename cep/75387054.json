@@ -5,5 +5,7 @@
   "bairro": "Residencial Pai Eterno",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "latitude": "-16.6422526",
+  "longitude": "-49.4940039"
 }

@@ -6,5 +6,7 @@
   "bairro": "Canguera",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.2280388",
+  "longitude": "-47.5419028"
 }

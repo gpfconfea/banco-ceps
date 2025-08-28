@@ -5,5 +5,7 @@
   "bairro": "Palmas",
   "localidade": "Bagé",
   "uf": "RS",
-  "ibge": "4301602"
+  "ibge": "4301602",
+  "latitude": "-31.083287",
+  "longitude": "-53.695984"
 }

@@ -5,5 +5,7 @@
   "bairro": "São Luiz Gonzaga",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "latitude": "-28.8271876",
+  "longitude": "-52.5079021"
 }

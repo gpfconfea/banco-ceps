@@ -5,5 +5,7 @@
   "bairro": "Jardim Margarida",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-25.3674655",
+  "longitude": "-50.4572501"
 }

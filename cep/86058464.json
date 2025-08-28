@@ -5,5 +5,7 @@
   "bairro": "Estância Santa Paula",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.5693889",
+  "longitude": "-51.449561"
 }

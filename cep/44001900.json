@@ -1,9 +1,11 @@
 {
   "cep": "44001900",
   "logradouro": "Rua Coronel Álvaro Simões",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.2495144",
+  "longitude": "-38.9608977"
 }

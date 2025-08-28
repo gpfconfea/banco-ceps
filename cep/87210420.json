@@ -5,5 +5,7 @@
   "bairro": "Residencial Recanto Verde",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "-23.6546113",
+  "longitude": "-52.5885301"
 }

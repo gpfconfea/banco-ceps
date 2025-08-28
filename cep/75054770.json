@@ -5,5 +5,7 @@
   "bairro": "Residencial Aldeia dos Sonhos",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-8.3606842",
+  "longitude": "-36.6886348"
 }

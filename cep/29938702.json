@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "São Mateus",
   "uf": "ES",
-  "ibge": "3204906"
+  "ibge": "3204906",
+  "latitude": "-12.5412161",
+  "longitude": "-55.7130926"
 }

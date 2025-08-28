@@ -5,5 +5,7 @@
   "bairro": "Monte Verde",
   "localidade": "Farroupilha",
   "uf": "RS",
-  "ibge": "4307906"
+  "ibge": "4307906",
+  "latitude": "-29.2449985",
+  "longitude": "-51.352902"
 }

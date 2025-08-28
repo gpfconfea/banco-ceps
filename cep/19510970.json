@@ -5,5 +5,7 @@
   "bairro": "Guachos",
   "localidade": "Martinópolis",
   "uf": "SP",
-  "ibge": "3529203"
+  "ibge": "3529203",
+  "latitude": "-21.9955499",
+  "longitude": "-51.0259193"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "28940990",
   "logradouro": "Estrada da Caveiraº",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São Pedro da Aldeia",
   "uf": "RJ",
-  "ibge": "3305208"
+  "ibge": "3305208",
+  "latitude": "-22.7507",
+  "longitude": "-42.07049"
 }

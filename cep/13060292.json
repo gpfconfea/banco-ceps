@@ -5,5 +5,7 @@
   "bairro": "Jardim Ibirapuera",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.5925654",
+  "longitude": "-46.5276114"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sacramento",
   "uf": "MG",
-  "ibge": "3156908"
+  "ibge": "3156908",
+  "latitude": "-19.8650709",
+  "longitude": "-47.4435819"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "15445970",
   "logradouro": "Rua José Batista das Neves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Onda Branca",
   "localidade": "Nova Granada",
   "uf": "SP",
-  "ibge": "3533007"
+  "ibge": "3533007",
+  "latitude": "-20.4628378",
+  "longitude": "-49.384942"
 }

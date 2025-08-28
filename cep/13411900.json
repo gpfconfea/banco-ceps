@@ -1,9 +1,11 @@
 {
   "cep": "13411900",
   "logradouro": "Rodovia SP-308",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Terezinha",
   "localidade": "Piracicaba",
   "uf": "SP",
-  "ibge": "3538709"
+  "ibge": "3538709",
+  "latitude": "-22.6064672",
+  "longitude": "-47.7147549"
 }

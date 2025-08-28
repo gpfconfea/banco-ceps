@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardins de Limeira",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.5425869",
+  "longitude": "-47.3911221"
 }

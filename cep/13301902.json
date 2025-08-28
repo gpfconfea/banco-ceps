@@ -1,9 +1,11 @@
 {
   "cep": "13301902",
   "logradouro": "Avenida Palmeira Real",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alto das Palmeiras",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.2505882",
+  "longitude": "-47.2938349"
 }

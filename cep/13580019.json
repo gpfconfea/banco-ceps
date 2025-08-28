@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Ribeirão Bonito",
   "uf": "SP",
-  "ibge": "3542909"
+  "ibge": "3542909",
+  "latitude": "-22.0648099",
+  "longitude": "-48.177013"
 }

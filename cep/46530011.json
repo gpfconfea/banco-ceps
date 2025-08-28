@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boquira",
   "uf": "BA",
-  "ibge": "2904100"
+  "ibge": "2904100",
+  "latitude": "-12.8200043",
+  "longitude": "-42.7299201"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vidal Ramos",
   "uf": "SC",
-  "ibge": "4219200"
+  "ibge": "4219200",
+  "latitude": "-27.3925534",
+  "longitude": "-49.3615798"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim das Palmeiras",
   "localidade": "Porto Ferreira",
   "uf": "SP",
-  "ibge": "3540705"
+  "ibge": "3540705",
+  "latitude": "-21.8407817",
+  "longitude": "-47.4825351"
 }

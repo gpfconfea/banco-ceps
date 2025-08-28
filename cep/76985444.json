@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "latitude": "-12.726056",
+  "longitude": "-60.1093143"
 }

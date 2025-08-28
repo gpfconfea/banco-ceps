@@ -5,5 +5,7 @@
   "bairro": "Morumbi",
   "localidade": "Eldorado",
   "uf": "MS",
-  "ibge": "5003751"
+  "ibge": "5003751",
+  "latitude": "-23.6887754",
+  "longitude": "-54.2071899"
 }

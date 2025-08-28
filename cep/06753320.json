@@ -5,5 +5,7 @@
   "bairro": "Jardim Frei Galvão",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "latitude": "-23.5995111",
+  "longitude": "-46.7589459"
 }

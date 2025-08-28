@@ -5,5 +5,7 @@
   "bairro": "BNH",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "latitude": "-22.6623943",
+  "longitude": "-43.04661"
 }

@@ -5,5 +5,7 @@
   "bairro": "Coloninha",
   "localidade": "Arroio do Tigre",
   "uf": "RS",
-  "ibge": "4301206"
+  "ibge": "4301206",
+  "latitude": "-29.1901951",
+  "longitude": "-52.9492954"
 }

@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.4904634",
+  "longitude": "-44.1482007"
 }

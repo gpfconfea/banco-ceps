@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Pontes Gestal",
   "uf": "SP",
-  "ibge": "3540309"
+  "ibge": "3540309",
+  "latitude": "-20.1838794",
+  "longitude": "-49.7018155"
 }

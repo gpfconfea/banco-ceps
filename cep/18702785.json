@@ -5,5 +5,7 @@
   "bairro": "Residencial Água Branca II",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.1241121",
+  "longitude": "-48.9086461"
 }

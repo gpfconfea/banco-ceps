@@ -1,9 +1,11 @@
 {
   "cep": "84043901",
   "logradouro": "Rua Freud",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Colônia Dona Luíza",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "latitude": "-25.1363322",
+  "longitude": "-50.1569363"
 }

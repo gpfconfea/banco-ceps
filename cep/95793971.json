@@ -1,9 +1,11 @@
 {
   "cep": "95793971",
   "logradouro": "Rua Padre Bernardo Rech",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Maratá",
   "uf": "RS",
-  "ibge": "4311791"
+  "ibge": "4311791",
+  "latitude": "-29.5537897",
+  "longitude": "-51.5567379"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62275973",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Conceição",
   "localidade": "Hidrolândia",
   "uf": "CE",
-  "ibge": "2305209"
+  "ibge": "2305209",
+  "latitude": "-4.4034642",
+  "longitude": "-40.3997776"
 }

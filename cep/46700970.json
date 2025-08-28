@@ -1,9 +1,11 @@
 {
   "cep": "46700970",
   "logradouro": "Praça da Bandeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ibitiara",
   "uf": "BA",
-  "ibge": "2913002"
+  "ibge": "2913002",
+  "latitude": "-12.6525202",
+  "longitude": "-42.2165494"
 }
