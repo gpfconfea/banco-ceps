@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Clara",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5799797",
+  "longitude": "-46.5566291"
 }

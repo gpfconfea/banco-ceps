@@ -5,5 +5,7 @@
   "bairro": "Mapim",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-29.4114701",
+  "longitude": "-50.8651842"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial João Paulo II",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.5837005",
+  "longitude": "-49.3730884"
 }

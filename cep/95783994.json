@@ -1,9 +1,11 @@
 {
   "cep": "95783994",
   "logradouro": "Estrada Despique",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pareci Novo",
   "uf": "RS",
-  "ibge": "4314035"
+  "ibge": "4314035",
+  "latitude": "-29.5756466",
+  "longitude": "-51.4425413"
 }

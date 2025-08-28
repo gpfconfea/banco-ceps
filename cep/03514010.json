@@ -5,5 +5,7 @@
   "bairro": "Vila Matilde",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5324494",
+  "longitude": "-46.5226387"
 }

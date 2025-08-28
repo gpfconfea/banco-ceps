@@ -1,9 +1,11 @@
 {
   "cep": "55110970",
   "logradouro": "Rua Coronel Rufino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Carapotos",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.1352201",
+  "longitude": "-36.0617687"
 }

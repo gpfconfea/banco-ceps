@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Ecopark Bourbon",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.1608506",
+  "longitude": "-45.7321688"
 }

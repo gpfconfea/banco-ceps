@@ -5,5 +5,7 @@
   "bairro": "Residencial Moacyr Trentin",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-22.1355788",
+  "longitude": "-51.3533533"
 }

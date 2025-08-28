@@ -5,5 +5,7 @@
   "bairro": "Ressaca",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.5305089",
+  "longitude": "-46.7305018"
 }

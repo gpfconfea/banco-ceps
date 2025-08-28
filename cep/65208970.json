@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Helena",
   "uf": "MA",
-  "ibge": "2109809"
+  "ibge": "2109809",
+  "latitude": "-2.2313672",
+  "longitude": "-45.3006814"
 }

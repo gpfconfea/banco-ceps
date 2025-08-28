@@ -5,5 +5,7 @@
   "bairro": "Jardim Pérola",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.9913268",
+  "longitude": "-46.5204067"
 }

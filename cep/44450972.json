@@ -1,9 +1,11 @@
 {
   "cep": "44450972",
   "logradouro": "Rua Treze de Maio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Encarnação",
   "localidade": "Salinas da Margarida",
   "uf": "BA",
-  "ibge": "2927309"
+  "ibge": "2927309",
+  "latitude": "-12.9273718",
+  "longitude": "-38.764817"
 }

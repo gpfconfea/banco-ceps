@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Anápolis",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.343986",
+  "longitude": "-48.935887"
 }

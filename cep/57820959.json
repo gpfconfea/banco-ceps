@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Murici",
   "uf": "AL",
-  "ibge": "2705507"
+  "ibge": "2705507",
+  "latitude": "-9.3114524",
+  "longitude": "-35.9458953"
 }

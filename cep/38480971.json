@@ -1,9 +1,11 @@
 {
   "cep": "38480971",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tupaciguara",
   "uf": "MG",
-  "ibge": "3169604"
+  "ibge": "3169604",
+  "latitude": "-18.5987369",
+  "longitude": "-48.6994546"
 }

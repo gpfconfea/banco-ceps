@@ -1,9 +1,11 @@
 {
   "cep": "13255900",
   "logradouro": "Rua Benedito da Silveira Franco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Santa Luzia",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.0130688",
+  "longitude": "-46.8447501"
 }

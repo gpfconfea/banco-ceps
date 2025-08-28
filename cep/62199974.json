@@ -1,9 +1,11 @@
 {
   "cep": "62199974",
   "logradouro": "Rua Lourenço Jacinto de Melo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itamaracá",
   "localidade": "Groairas",
   "uf": "CE",
-  "ibge": "2304905"
+  "ibge": "2304905",
+  "latitude": "-3.9123667",
+  "longitude": "-40.3834513"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Colombo (Distrito São Domingos)",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3911792",
+  "longitude": "-52.0264111"
 }

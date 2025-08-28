@@ -1,9 +1,11 @@
 {
   "cep": "56600972",
   "logradouro": "Rua do Comercio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado de Moderna",
   "localidade": "Sertânia",
   "uf": "PE",
-  "ibge": "2614105"
+  "ibge": "2614105",
+  "latitude": "-8.1392652",
+  "longitude": "-37.4704015"
 }

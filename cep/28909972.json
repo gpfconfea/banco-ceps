@@ -1,9 +1,11 @@
 {
   "cep": "28909972",
   "logradouro": "Estrada do Araçá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Agrisa",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "latitude": "-22.6374809",
+  "longitude": "-42.0902872"
 }

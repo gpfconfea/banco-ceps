@@ -5,5 +5,7 @@
   "bairro": "Vila Manoel Fernandes",
   "localidade": "Cerqueira César",
   "uf": "SP",
-  "ibge": "3511409"
+  "ibge": "3511409",
+  "latitude": "-23.0286063",
+  "longitude": "-49.1701278"
 }

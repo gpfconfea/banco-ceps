@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4492079",
+  "longitude": "-51.9469505"
 }

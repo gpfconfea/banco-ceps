@@ -5,5 +5,7 @@
   "bairro": "Jardim Bondança",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.3995121",
+  "longitude": "-46.4544079"
 }

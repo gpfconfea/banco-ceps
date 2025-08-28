@@ -1,9 +1,11 @@
 {
   "cep": "45880971",
   "logradouro": "Praça da Feira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Camacan",
   "uf": "BA",
-  "ibge": "2905602"
+  "ibge": "2905602",
+  "latitude": "-15.7222558",
+  "longitude": "-39.4596862"
 }

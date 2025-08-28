@@ -5,5 +5,7 @@
   "bairro": "Jardim D'Icaraí",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.1845376",
+  "longitude": "-47.3181777"
 }

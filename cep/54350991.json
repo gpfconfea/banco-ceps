@@ -1,9 +1,11 @@
 {
   "cep": "54350991",
   "logradouro": "Rua Dezessete Quadra 35 Lotes 14 e 15 - Conjunto Marcos Freire",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Jaboatão dos Guararapes",
   "uf": "PE",
-  "ibge": "2607901"
+  "ibge": "2607901",
+  "latitude": "-8.1444115",
+  "longitude": "-34.9782205"
 }

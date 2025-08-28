@@ -5,5 +5,7 @@
   "bairro": "Stella Maris",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9424741",
+  "longitude": "-38.3414906"
 }

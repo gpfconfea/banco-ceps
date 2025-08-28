@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "latitude": "-12.7429492",
+  "longitude": "-60.1616359"
 }

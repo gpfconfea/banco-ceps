@@ -1,9 +1,11 @@
 {
   "cep": "44470972",
   "logradouro": "Rua das Flores",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra do Gil",
   "localidade": "Vera Cruz",
   "uf": "BA",
-  "ibge": "2933208"
+  "ibge": "2933208",
+  "latitude": "-13.0057626",
+  "longitude": "-38.6385628"
 }

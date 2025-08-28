@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pratinha",
   "uf": "MG",
-  "ibge": "3153004"
+  "ibge": "3153004",
+  "latitude": "-19.7523269",
+  "longitude": "-46.383087"
 }

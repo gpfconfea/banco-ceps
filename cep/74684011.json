@@ -5,5 +5,7 @@
   "bairro": "Residencial Felicidade",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.6102913",
+  "longitude": "-49.2245446"
 }

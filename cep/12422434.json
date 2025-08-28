@@ -5,5 +5,7 @@
   "bairro": "Vila Rica",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-22.9415512",
+  "longitude": "-45.480053"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Videira",
   "uf": "SC",
-  "ibge": "4219309"
+  "ibge": "4219309",
+  "latitude": "-27.0048932",
+  "longitude": "-51.1438791"
 }

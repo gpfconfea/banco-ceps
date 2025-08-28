@@ -1,9 +1,11 @@
 {
   "cep": "83255993",
   "logradouro": "Avenida Beira Mar",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pontal do Paraná",
   "uf": "PR",
-  "ibge": "4119954"
+  "ibge": "4119954",
+  "latitude": "-25.5666733",
+  "longitude": "-48.3559996"
 }

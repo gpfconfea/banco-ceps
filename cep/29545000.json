@@ -5,5 +5,7 @@
   "bairro": "Santa Marta",
   "localidade": "Ibitirama",
   "uf": "ES",
-  "ibge": "3202553"
+  "ibge": "3202553",
+  "latitude": "-20.4494233",
+  "longitude": "-41.7244374"
 }

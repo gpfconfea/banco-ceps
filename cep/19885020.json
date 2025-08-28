@@ -5,5 +5,7 @@
   "bairro": "Residencial Bella Vitta",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.7463168",
+  "longitude": "-50.3693805"
 }

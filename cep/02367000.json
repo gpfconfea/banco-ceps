@@ -5,5 +5,7 @@
   "bairro": "Jardim das Pedras",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4196256",
+  "longitude": "-46.5898754"
 }

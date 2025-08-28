@@ -1,9 +1,11 @@
 {
   "cep": "68960970",
   "logradouro": "Avenida Eulálio Modesto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Calçoene",
   "uf": "AP",
-  "ibge": "1600204"
+  "ibge": "1600204",
+  "latitude": "2.4911204",
+  "longitude": "-50.947422"
 }

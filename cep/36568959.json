@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Porto Firme",
   "uf": "MG",
-  "ibge": "3152303"
+  "ibge": "3152303",
+  "latitude": "-20.6707046",
+  "longitude": "-43.0877721"
 }

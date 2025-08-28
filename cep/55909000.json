@@ -5,5 +5,7 @@
   "bairro": "Carne-de-Vaca",
   "localidade": "Goiana",
   "uf": "PE",
-  "ibge": "2606200"
+  "ibge": "2606200",
+  "latitude": "-7.57801",
+  "longitude": "-34.832999"
 }

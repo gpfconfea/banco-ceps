@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Datas",
   "uf": "MG",
-  "ibge": "3121001"
+  "ibge": "3121001",
+  "latitude": "-18.4474",
+  "longitude": "-43.6588803"
 }

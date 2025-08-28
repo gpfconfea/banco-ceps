@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9839648",
+  "longitude": "-47.0010875"
 }

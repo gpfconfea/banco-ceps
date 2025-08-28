@@ -5,5 +5,7 @@
   "bairro": "Residencial Renata Park",
   "localidade": "Trindade",
   "uf": "GO",
-  "ibge": "5221403"
+  "ibge": "5221403",
+  "latitude": "-16.6457455",
+  "longitude": "-49.4923807"
 }

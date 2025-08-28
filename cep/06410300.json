@@ -5,5 +5,7 @@
   "bairro": "Vila Barros",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5006745",
+  "longitude": "-46.8686964"
 }

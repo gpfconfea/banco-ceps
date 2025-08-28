@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Terra Nova",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.1027997",
+  "longitude": "-45.9510968"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "40110909",
   "logradouro": "Rua Doutor Augusto Viana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canela",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9924159",
+  "longitude": "-38.5208536"
 }

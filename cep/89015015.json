@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Blumenau",
   "uf": "SC",
-  "ibge": "4202404"
+  "ibge": "4202404",
+  "latitude": "-26.3010209",
+  "longitude": "-48.8439422"
 }

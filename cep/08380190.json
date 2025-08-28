@@ -5,5 +5,7 @@
   "bairro": "Jardim Iguatemi",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5996916",
+  "longitude": "-46.4409166"
 }
