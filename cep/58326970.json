@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caaporã",
   "uf": "PB",
-  "ibge": "2503001"
+  "ibge": "2503001",
+  "latitude": "-7.5159674",
+  "longitude": "-34.9148052"
 }

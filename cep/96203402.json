@@ -5,5 +5,7 @@
   "bairro": "Vila Maria",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-32.0707651",
+  "longitude": "-52.1569925"
 }

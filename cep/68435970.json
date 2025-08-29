@@ -1,9 +1,11 @@
 {
   "cep": "68435970",
   "logradouro": "Vila de Maiauatá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Maiauata",
   "localidade": "Igarapé-Miri",
   "uf": "PA",
-  "ibge": "1503309"
+  "ibge": "1503309",
+  "latitude": "-1.815285",
+  "longitude": "-49.1027083"
 }

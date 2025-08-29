@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mesópolis",
   "uf": "SP",
-  "ibge": "3529658"
+  "ibge": "3529658",
+  "latitude": "-19.9679087",
+  "longitude": "-50.6233596"
 }

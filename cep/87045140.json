@@ -5,5 +5,7 @@
   "bairro": "Vila Ipiranga",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4289572",
+  "longitude": "-51.8989039"
 }

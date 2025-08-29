@@ -1,9 +1,11 @@
 {
   "cep": "39517959",
   "logradouro": "Rua Gorutuba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pai Pedro",
   "uf": "MG",
-  "ibge": "3146552"
+  "ibge": "3146552",
+  "latitude": "-15.5340165",
+  "longitude": "-43.0681282"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "61915975",
   "logradouro": "Rodovia Raimundo Pessoa de Araújo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mucunã",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "latitude": "-3.8466697",
+  "longitude": "-38.6535068"
 }

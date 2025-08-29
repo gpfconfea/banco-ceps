@@ -1,9 +1,11 @@
 {
   "cep": "29914990",
   "logradouro": "Rua Lídio Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.6463254",
+  "longitude": "-39.8272303"
 }

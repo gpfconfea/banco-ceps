@@ -6,5 +6,7 @@
   "bairro": "Irmãos Chiquetto",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-23.084918",
+  "longitude": "-46.9797716"
 }

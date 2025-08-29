@@ -5,5 +5,7 @@
   "bairro": "Jardim Guapiúva",
   "localidade": "Carapicuíba",
   "uf": "SP",
-  "ibge": "3510609"
+  "ibge": "3510609",
+  "latitude": "-23.445552",
+  "longitude": "-46.4004662"
 }

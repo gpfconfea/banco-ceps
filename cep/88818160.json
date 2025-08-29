@@ -5,5 +5,7 @@
   "bairro": "Wosocris",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6665371",
+  "longitude": "-49.433653"
 }

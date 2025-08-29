@@ -5,5 +5,7 @@
   "bairro": "Vila Lucinda",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.629138",
+  "longitude": "-46.5142285"
 }

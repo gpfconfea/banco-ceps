@@ -1,9 +1,11 @@
 {
   "cep": "79240990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boqueirão",
   "localidade": "Jardim",
   "uf": "MS",
-  "ibge": "5005004"
+  "ibge": "5005004",
+  "latitude": "38.7438921",
+  "longitude": "-9.4354971"
 }

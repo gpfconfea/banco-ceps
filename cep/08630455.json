@@ -5,5 +5,7 @@
   "bairro": "Jardim São Luís",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.5925706",
+  "longitude": "-46.7166653"
 }

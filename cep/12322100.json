@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.3146329",
+  "longitude": "-45.9838063"
 }

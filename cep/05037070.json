@@ -5,5 +5,7 @@
   "bairro": "Água Branca",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5171337",
+  "longitude": "-46.688728"
 }

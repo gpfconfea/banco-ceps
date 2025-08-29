@@ -5,5 +5,7 @@
   "bairro": "Vila Éden",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-23.4801591",
+  "longitude": "-46.5765716"
 }

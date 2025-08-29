@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Maria",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-21.219108",
+  "longitude": "-50.437412"
 }

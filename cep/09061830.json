@@ -5,5 +5,7 @@
   "bairro": "Vila Aquilino",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.6532635",
+  "longitude": "-46.551195"
 }

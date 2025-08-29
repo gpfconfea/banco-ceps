@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Baianópolis",
   "uf": "BA",
-  "ibge": "2902500"
+  "ibge": "2902500",
+  "latitude": "-12.3106375",
+  "longitude": "-44.5397524"
 }

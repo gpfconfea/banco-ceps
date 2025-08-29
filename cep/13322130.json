@@ -5,5 +5,7 @@
   "bairro": "Jardim Municipal",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-23.1961874",
+  "longitude": "-47.2851322"
 }

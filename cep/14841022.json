@@ -5,5 +5,7 @@
   "bairro": "Distrito Empresarial Mário Covas",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.3486982",
+  "longitude": "-48.2306573"
 }

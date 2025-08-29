@@ -5,5 +5,7 @@
   "bairro": "Sepetiba",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9821764",
+  "longitude": "-43.6941469"
 }

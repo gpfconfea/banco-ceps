@@ -6,5 +6,7 @@
   "bairro": "Vila Santo André",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.1072386",
+  "longitude": "-47.7167489"
 }

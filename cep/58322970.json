@@ -1,9 +1,11 @@
 {
   "cep": "58322970",
   "logradouro": "Rua Manoel Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Conde",
   "uf": "PB",
-  "ibge": "2504603"
+  "ibge": "2504603",
+  "latitude": "-7.2595476",
+  "longitude": "-34.9071012"
 }

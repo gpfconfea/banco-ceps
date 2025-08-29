@@ -5,5 +5,7 @@
   "bairro": "Dom Silvério",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-20.3956915",
+  "longitude": "-44.4844708"
 }

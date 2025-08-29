@@ -5,5 +5,7 @@
   "bairro": "Parque Campo Bonito",
   "localidade": "Indaiatuba",
   "uf": "SP",
-  "ibge": "3520509"
+  "ibge": "3520509",
+  "latitude": "-23.0951406",
+  "longitude": "-47.2785202"
 }

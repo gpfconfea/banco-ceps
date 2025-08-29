@@ -1,9 +1,11 @@
 {
   "cep": "73858970",
   "logradouro": "Praça José Adamian",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campos Lindos",
   "localidade": "Cristalina",
   "uf": "GO",
-  "ibge": "5206206"
+  "ibge": "5206206",
+  "latitude": "-16.7631855",
+  "longitude": "-47.6083681"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "57239970",
   "logradouro": "Travessa Amazonas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bonsucesso",
   "localidade": "Coruripe",
   "uf": "AL",
-  "ibge": "2702306"
+  "ibge": "2702306",
+  "latitude": "-10.2023241",
+  "longitude": "-36.3337033"
 }

@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Fazenda Rio Grande",
   "uf": "PR",
-  "ibge": "4107652"
+  "ibge": "4107652",
+  "latitude": "-25.6684905",
+  "longitude": "-49.3366391"
 }

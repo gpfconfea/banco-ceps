@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista III",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.287668",
+  "longitude": "-47.3153424"
 }

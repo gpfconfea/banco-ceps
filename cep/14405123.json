@@ -5,5 +5,7 @@
   "bairro": "Vila Nicácio",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5274006",
+  "longitude": "-47.4075323"
 }

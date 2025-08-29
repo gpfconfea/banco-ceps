@@ -5,5 +5,7 @@
   "bairro": "Nova Trento",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-25.4602021",
+  "longitude": "-49.5512681"
 }

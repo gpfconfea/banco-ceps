@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Bicas",
   "uf": "MG",
-  "ibge": "3106903"
+  "ibge": "3106903",
+  "latitude": "-21.7161702",
+  "longitude": "-43.0651101"
 }

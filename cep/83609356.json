@@ -5,5 +5,7 @@
   "bairro": "Vila David Antônio",
   "localidade": "Campo Largo",
   "uf": "PR",
-  "ibge": "4104204"
+  "ibge": "4104204",
+  "latitude": "-23.3002131",
+  "longitude": "-51.1627946"
 }

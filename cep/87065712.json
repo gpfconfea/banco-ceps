@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Rosa dos Ventos",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.7972091",
+  "longitude": "-53.3489917"
 }

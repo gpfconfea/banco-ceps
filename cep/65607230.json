@@ -5,5 +5,7 @@
   "bairro": "Tamarineiro",
   "localidade": "Caxias",
   "uf": "MA",
-  "ibge": "2103000"
+  "ibge": "2103000",
+  "latitude": "-22.8018619",
+  "longitude": "-43.3294662"
 }

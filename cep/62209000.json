@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Nova Russas",
   "uf": "CE",
-  "ibge": "2309300"
+  "ibge": "2309300",
+  "latitude": "-4.6598088",
+  "longitude": "-40.5985363"
 }

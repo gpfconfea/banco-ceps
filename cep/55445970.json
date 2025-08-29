@@ -1,9 +1,11 @@
 {
   "cep": "55445970",
   "logradouro": "Rua José Tomé Bispo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito de Batateiras",
   "localidade": "Belém de Maria",
   "uf": "PE",
-  "ibge": "2601508"
+  "ibge": "2601508",
+  "latitude": "-8.5569686",
+  "longitude": "-35.8316948"
 }

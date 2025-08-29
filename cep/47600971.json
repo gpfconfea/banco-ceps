@@ -1,9 +1,11 @@
 {
   "cep": "47600971",
   "logradouro": "Praça A-Setor 33",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Formoso",
   "localidade": "Bom Jesus da Lapa",
   "uf": "BA",
-  "ibge": "2903904"
+  "ibge": "2903904",
+  "latitude": "-13.2583153",
+  "longitude": "-43.4218646"
 }

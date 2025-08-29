@@ -1,9 +1,11 @@
 {
   "cep": "69348970",
   "logradouro": "Rua Antonio Rosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Iracema",
   "uf": "RR",
-  "ibge": "1400282"
+  "ibge": "1400282",
+  "latitude": "2.1636657",
+  "longitude": "-61.0543181"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "77673970",
   "logradouro": "Avenida Codespar",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Monte Santo do Tocantins",
   "uf": "TO",
-  "ibge": "1713700"
+  "ibge": "1713700",
+  "latitude": "-10.0052936",
+  "longitude": "-48.9940314"
 }

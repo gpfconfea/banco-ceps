@@ -5,5 +5,7 @@
   "bairro": "Arduíno Bolívar",
   "localidade": "Viçosa",
   "uf": "MG",
-  "ibge": "3171303"
+  "ibge": "3171303",
+  "latitude": "-17.8844278",
+  "longitude": "-39.8601366"
 }

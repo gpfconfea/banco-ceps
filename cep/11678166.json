@@ -5,5 +5,7 @@
   "bairro": "Praia da Mococa",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.7137898",
+  "longitude": "-45.4381483"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9455511",
+  "longitude": "-46.9803415"
 }

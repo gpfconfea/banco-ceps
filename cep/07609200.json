@@ -5,5 +5,7 @@
   "bairro": "Vila Machado",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.3429133",
+  "longitude": "-46.6597164"
 }

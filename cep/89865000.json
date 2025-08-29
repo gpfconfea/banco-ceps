@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Nova Erechim",
   "uf": "SC",
-  "ibge": "4211405"
+  "ibge": "4211405",
+  "latitude": "-26.9027688",
+  "longitude": "-52.9071258"
 }

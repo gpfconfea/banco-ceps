@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibaretama",
   "uf": "CE",
-  "ibge": "2305266"
+  "ibge": "2305266",
+  "latitude": "-4.8202094",
+  "longitude": "-38.8222664"
 }

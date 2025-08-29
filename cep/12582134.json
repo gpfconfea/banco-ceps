@@ -6,5 +6,7 @@
   "bairro": "Roseira Velha",
   "localidade": "Roseira",
   "uf": "SP",
-  "ibge": "3544301"
+  "ibge": "3544301",
+  "latitude": "-22.8880257",
+  "longitude": "-45.2831429"
 }

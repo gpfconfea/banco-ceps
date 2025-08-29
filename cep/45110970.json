@@ -1,9 +1,11 @@
 {
   "cep": "45110970",
   "logradouro": "Avenida Durval Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Inhobim",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-15.2691391",
+  "longitude": "-40.9630263"
 }

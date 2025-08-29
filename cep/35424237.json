@@ -5,5 +5,7 @@
   "bairro": "Estrela do Sul",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "latitude": "-20.3653154",
+  "longitude": "-43.4172239"
 }

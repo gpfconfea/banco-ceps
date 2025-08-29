@@ -1,9 +1,11 @@
 {
   "cep": "83810990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Mandirituba",
   "uf": "PR",
-  "ibge": "4114302"
+  "ibge": "4114302",
+  "latitude": "-25.8628828",
+  "longitude": "-49.3991521"
 }

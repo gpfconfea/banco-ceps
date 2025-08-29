@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Maribondo",
   "uf": "AL",
-  "ibge": "2704807"
+  "ibge": "2704807",
+  "latitude": "-9.5773904",
+  "longitude": "-36.3055259"
 }

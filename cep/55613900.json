@@ -1,9 +1,11 @@
 {
   "cep": "55613900",
   "logradouro": "Rodovia PE-050",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Industrial (Prefeito José Augusto Ferrer de Morais)",
   "localidade": "Vitória de Santo Antão",
   "uf": "PE",
-  "ibge": "2616407"
+  "ibge": "2616407",
+  "latitude": "-8.0973528",
+  "longitude": "-35.260569"
 }
