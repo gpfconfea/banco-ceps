@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto de Viracopos",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.3278472",
+  "longitude": "-47.3837594"
 }

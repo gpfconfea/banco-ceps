@@ -1,9 +1,11 @@
 {
   "cep": "38890970",
   "logradouro": "Rua Valdemar Dutra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canastrão",
   "localidade": "Tiros",
   "uf": "MG",
-  "ibge": "3168903"
+  "ibge": "3168903",
+  "latitude": "-18.5622345",
+  "longitude": "-45.7391142"
 }

@@ -5,5 +5,7 @@
   "bairro": "Dom Hélder Câmara",
   "localidade": "Garanhuns",
   "uf": "PE",
-  "ibge": "2606002"
+  "ibge": "2606002",
+  "latitude": "-8.8642642",
+  "longitude": "-36.5021116"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Morumbi",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-23.7342211",
+  "longitude": "-46.53183"
 }

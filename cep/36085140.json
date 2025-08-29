@@ -5,5 +5,7 @@
   "bairro": "Barbosa Lage",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.7185368",
+  "longitude": "-43.4004961"
 }

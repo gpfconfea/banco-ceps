@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ivaí",
   "uf": "PR",
-  "ibge": "4111407"
+  "ibge": "4111407",
+  "latitude": "-25.0111402",
+  "longitude": "-50.8605586"
 }

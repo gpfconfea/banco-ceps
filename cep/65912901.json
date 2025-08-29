@@ -1,9 +1,11 @@
 {
   "cep": "65912901",
   "logradouro": "Avenida Prudente de Moraes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Santa Lúcia",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.5123416",
+  "longitude": "-47.4499482"
 }

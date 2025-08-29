@@ -5,5 +5,7 @@
   "bairro": "Conjunto Residencial Itamaraty",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4310559",
+  "longitude": "-51.968932"
 }

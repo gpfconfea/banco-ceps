@@ -1,9 +1,11 @@
 {
   "cep": "63835973",
   "logradouro": "Vila Passagem",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Passagem",
   "localidade": "Quixeramobim",
   "uf": "CE",
-  "ibge": "2311405"
+  "ibge": "2311405",
+  "latitude": "-5.1168102",
+  "longitude": "-39.5050669"
 }

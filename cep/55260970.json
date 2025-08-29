@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alagoinha",
   "uf": "PE",
-  "ibge": "2600609"
+  "ibge": "2600609",
+  "latitude": "-8.4675527",
+  "longitude": "-36.7758055"
 }

@@ -5,5 +5,7 @@
   "bairro": "Ipiranga",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.1606061",
+  "longitude": "-47.8179325"
 }

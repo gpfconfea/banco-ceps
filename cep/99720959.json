@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quatro Irmãos",
   "uf": "RS",
-  "ibge": "4315313"
+  "ibge": "4315313",
+  "latitude": "-27.8229108",
+  "longitude": "-52.4430101"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boa Vista da Aparecida",
   "uf": "PR",
-  "ibge": "4103057"
+  "ibge": "4103057",
+  "latitude": "-25.4353385",
+  "longitude": "-53.4086704"
 }

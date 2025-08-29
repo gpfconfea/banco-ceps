@@ -5,5 +5,7 @@
   "bairro": "Barragem do Itu",
   "localidade": "Manoel Viana",
   "uf": "RS",
-  "ibge": "4311759"
+  "ibge": "4311759",
+  "latitude": "-29.3442461",
+  "longitude": "-55.6301925"
 }

@@ -5,5 +5,7 @@
   "bairro": "Lagoinha",
   "localidade": "Ubatuba",
   "uf": "SP",
-  "ibge": "3555406"
+  "ibge": "3555406",
+  "latitude": "-23.5169487",
+  "longitude": "-45.2033326"
 }

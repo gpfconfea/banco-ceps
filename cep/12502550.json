@@ -5,5 +5,7 @@
   "bairro": "Santa Rita",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-23.6114586",
+  "longitude": "-46.6942475"
 }

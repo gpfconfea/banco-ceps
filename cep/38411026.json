@@ -5,5 +5,7 @@
   "bairro": "Patrimônio",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.9349801",
+  "longitude": "-48.2835043"
 }

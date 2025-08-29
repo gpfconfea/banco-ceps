@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.851928",
+  "longitude": "-43.9666948"
 }

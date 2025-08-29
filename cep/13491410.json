@@ -6,5 +6,7 @@
   "bairro": "Assentamento XX de Novembro",
   "localidade": "Cordeirópolis",
   "uf": "SP",
-  "ibge": "3512407"
+  "ibge": "3512407",
+  "latitude": "-22.4802125",
+  "longitude": "-47.4576929"
 }

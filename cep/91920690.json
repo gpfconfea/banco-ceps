@@ -5,5 +5,7 @@
   "bairro": "Vila Conceição",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.1201553",
+  "longitude": "-51.256767"
 }

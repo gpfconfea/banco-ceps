@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Bárbara",
   "uf": "BA",
-  "ibge": "2927507"
+  "ibge": "2927507",
+  "latitude": "-11.9585455",
+  "longitude": "-38.974778"
 }

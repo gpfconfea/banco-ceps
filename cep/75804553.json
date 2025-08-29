@@ -5,5 +5,7 @@
   "bairro": "Residencial Cylleneo França",
   "localidade": "Jataí",
   "uf": "GO",
-  "ibge": "5211909"
+  "ibge": "5211909",
+  "latitude": "-17.5707376",
+  "longitude": "-52.5395155"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Fé do Sul",
   "uf": "SP",
-  "ibge": "3546603"
+  "ibge": "3546603",
+  "latitude": "-20.2133205",
+  "longitude": "-50.9242408"
 }

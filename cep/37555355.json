@@ -5,5 +5,7 @@
   "bairro": "São Judas Tadeu",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-23.3256649",
+  "longitude": "-46.7097498"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "latitude": "-21.1295995",
+  "longitude": "-42.3719349"
 }

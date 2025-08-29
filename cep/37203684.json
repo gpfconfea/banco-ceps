@@ -5,5 +5,7 @@
   "bairro": "Residencial Alphaville",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.1025306",
+  "longitude": "-45.0798071"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "48975971",
   "logradouro": "Rua Antonio Gonçalves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Igará",
   "localidade": "Senhor do Bonfim",
   "uf": "BA",
-  "ibge": "2930105"
+  "ibge": "2930105",
+  "latitude": "-10.3961812",
+  "longitude": "-40.1124655"
 }

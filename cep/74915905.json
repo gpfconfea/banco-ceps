@@ -1,9 +1,11 @@
 {
   "cep": "74915905",
   "logradouro": "Rua Sacramento Quadra 141-A",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor dos Afonsos",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.8144125",
+  "longitude": "-49.2438622"
 }

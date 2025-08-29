@@ -5,5 +5,7 @@
   "bairro": "Vale dos Cristais",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "latitude": "-19.9937265",
+  "longitude": "-43.929527"
 }

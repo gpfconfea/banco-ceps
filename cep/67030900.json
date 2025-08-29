@@ -1,9 +1,11 @@
 {
   "cep": "67030900",
   "logradouro": "Avenida Ananin",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ananindeua",
   "uf": "PA",
-  "ibge": "1500800"
+  "ibge": "1500800",
+  "latitude": "-1.3716685",
+  "longitude": "-48.3872037"
 }

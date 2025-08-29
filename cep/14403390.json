@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Rita",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5475194",
+  "longitude": "-47.3915353"
 }

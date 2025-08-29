@@ -5,5 +5,7 @@
   "bairro": "Vila Porto",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.4995705",
+  "longitude": "-46.8704933"
 }

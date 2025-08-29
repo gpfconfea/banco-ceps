@@ -5,5 +5,7 @@
   "bairro": "Chapada",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "latitude": "-25.0785805",
+  "longitude": "-50.1982578"
 }

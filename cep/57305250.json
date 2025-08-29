@@ -5,5 +5,7 @@
   "bairro": "Manuel Teles",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "latitude": "-9.7575847",
+  "longitude": "-36.6721156"
 }

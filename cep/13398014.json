@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Bom Retiro",
   "localidade": "Rio das Pedras",
   "uf": "SP",
-  "ibge": "3544004"
+  "ibge": "3544004",
+  "latitude": "-22.8300703",
+  "longitude": "-47.5997875"
 }

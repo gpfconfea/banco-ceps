@@ -5,5 +5,7 @@
   "bairro": "Catu",
   "localidade": "Horizonte",
   "uf": "CE",
-  "ibge": "2305233"
+  "ibge": "2305233",
+  "latitude": "-19.9067036",
+  "longitude": "-44.0730954"
 }

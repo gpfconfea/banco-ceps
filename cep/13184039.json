@@ -6,5 +6,7 @@
   "bairro": "Residencial Jardim de Mônaco",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "latitude": "-22.8696304",
+  "longitude": "-47.2272618"
 }

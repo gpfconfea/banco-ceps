@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coluna",
   "uf": "MG",
-  "ibge": "3116803"
+  "ibge": "3116803",
+  "latitude": "-18.2324675",
+  "longitude": "-42.841122"
 }

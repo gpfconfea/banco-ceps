@@ -5,5 +5,7 @@
   "bairro": "Casa Forte",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-7.7428884",
+  "longitude": "-35.2289982"
 }

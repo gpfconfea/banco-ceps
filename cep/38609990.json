@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Paracatu",
   "uf": "MG",
-  "ibge": "3147006"
+  "ibge": "3147006",
+  "latitude": "-17.2032477",
+  "longitude": "-46.8376307"
 }

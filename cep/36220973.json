@@ -1,9 +1,11 @@
 {
   "cep": "36220973",
   "logradouro": "Praça Santana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campolide",
   "localidade": "Antônio Carlos",
   "uf": "MG",
-  "ibge": "3102902"
+  "ibge": "3102902",
+  "latitude": "-22.3596418",
+  "longitude": "-46.9453059"
 }

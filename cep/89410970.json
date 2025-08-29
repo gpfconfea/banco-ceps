@@ -1,9 +1,11 @@
 {
   "cep": "89410970",
   "logradouro": "Avenida Getulio Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Cruz do Timbó",
   "localidade": "Porto União",
   "uf": "SC",
-  "ibge": "4213609"
+  "ibge": "4213609",
+  "latitude": "-26.2403797",
+  "longitude": "-51.0866312"
 }

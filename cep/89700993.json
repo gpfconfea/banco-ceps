@@ -1,9 +1,11 @@
 {
   "cep": "89700993",
   "logradouro": "Estrada Geral - São Paulo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Concórdia",
   "uf": "SC",
-  "ibge": "4204301"
+  "ibge": "4204301",
+  "latitude": "-28.6018371",
+  "longitude": "-49.1514667"
 }

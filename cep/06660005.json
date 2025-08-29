@@ -5,5 +5,7 @@
   "bairro": "Vila Nova Esperança",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5431519",
+  "longitude": "-46.9659014"
 }

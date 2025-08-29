@@ -5,5 +5,7 @@
   "bairro": "Parque Aeroporto",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.010897",
+  "longitude": "-45.5876957"
 }

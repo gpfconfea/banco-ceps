@@ -5,5 +5,7 @@
   "bairro": "Alto Recreio",
   "localidade": "Ronda Alta",
   "uf": "RS",
-  "ibge": "4316105"
+  "ibge": "4316105",
+  "latitude": "-27.6892688",
+  "longitude": "-52.8320608"
 }

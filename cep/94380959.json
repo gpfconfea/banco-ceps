@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Glorinha",
   "uf": "RS",
-  "ibge": "4309050"
+  "ibge": "4309050",
+  "latitude": "-29.8813104",
+  "longitude": "-50.780006"
 }

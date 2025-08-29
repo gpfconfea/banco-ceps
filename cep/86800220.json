@@ -5,5 +5,7 @@
   "bairro": "Barra Funda",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.5531205",
+  "longitude": "-51.4705444"
 }

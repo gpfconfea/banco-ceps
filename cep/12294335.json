@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Helena",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.6116127",
+  "longitude": "-46.6435657"
 }

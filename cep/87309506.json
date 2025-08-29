@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Governador José Richa",
   "localidade": "Campo Mourão",
   "uf": "PR",
-  "ibge": "4104303"
+  "ibge": "4104303",
+  "latitude": "-23.9999384",
+  "longitude": "-52.3658649"
 }

@@ -5,5 +5,7 @@
   "bairro": "Diamantina",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-35.675147",
+  "longitude": "-71.542969"
 }

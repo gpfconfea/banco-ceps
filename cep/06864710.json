@@ -5,5 +5,7 @@
   "bairro": "Jardim Horacina",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-23.7419946",
+  "longitude": "-46.8084238"
 }

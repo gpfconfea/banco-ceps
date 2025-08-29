@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Ilhéus",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "latitude": "-14.792396",
+  "longitude": "-39.048519"
 }

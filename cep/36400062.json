@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Conselheiro Lafaiete",
   "uf": "MG",
-  "ibge": "3118304"
+  "ibge": "3118304",
+  "latitude": "-20.661127",
+  "longitude": "-43.7889737"
 }

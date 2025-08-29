@@ -6,5 +6,7 @@
   "bairro": "Bambu",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.2333682",
+  "longitude": "-47.5173903"
 }

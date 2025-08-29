@@ -5,5 +5,7 @@
   "bairro": "Venda Nova",
   "localidade": "Riacho dos Machados",
   "uf": "MG",
-  "ibge": "3154507"
+  "ibge": "3154507",
+  "latitude": "-16.0040945",
+  "longitude": "-43.0450159"
 }

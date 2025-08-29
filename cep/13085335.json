@@ -5,5 +5,7 @@
   "bairro": "Chácara Belvedere",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.7928522",
+  "longitude": "-47.0749925"
 }

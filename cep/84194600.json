@@ -5,5 +5,7 @@
   "bairro": "Santa Clara",
   "localidade": "Castro",
   "uf": "PR",
-  "ibge": "4104907"
+  "ibge": "4104907",
+  "latitude": "-24.7692638",
+  "longitude": "-50.0064504"
 }

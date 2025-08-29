@@ -5,5 +5,7 @@
   "bairro": "Vila São José",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5971584",
+  "longitude": "-48.0478269"
 }

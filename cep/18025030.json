@@ -5,5 +5,7 @@
   "bairro": "Vila Assis",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.5093433",
+  "longitude": "-47.448049"
 }

@@ -6,5 +6,7 @@
   "bairro": "Vila Nova",
   "localidade": "São Luís de Montes Belos",
   "uf": "GO",
-  "ibge": "5220108"
+  "ibge": "5220108",
+  "latitude": "-16.5167506",
+  "longitude": "-50.3842816"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Montalvânia",
   "uf": "MG",
-  "ibge": "3142700"
+  "ibge": "3142700",
+  "latitude": "-14.4221309",
+  "longitude": "-44.3662984"
 }

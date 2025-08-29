@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Toledo",
   "uf": "MG",
-  "ibge": "3169109"
+  "ibge": "3169109",
+  "latitude": "-22.7433969",
+  "longitude": "-46.3735044"
 }

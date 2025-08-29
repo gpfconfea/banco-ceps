@@ -5,5 +5,7 @@
   "bairro": "Santa Margarida",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-22.9701742",
+  "longitude": "-51.209769"
 }
