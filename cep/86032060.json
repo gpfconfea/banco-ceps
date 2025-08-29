@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Buena Vista",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2900033",
+  "longitude": "-51.0972159"
 }

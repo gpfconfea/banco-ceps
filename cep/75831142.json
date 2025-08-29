@@ -5,5 +5,7 @@
   "bairro": "Araújo Neto",
   "localidade": "Mineiros",
   "uf": "GO",
-  "ibge": "5213103"
+  "ibge": "5213103",
+  "latitude": "-22.4056828",
+  "longitude": "-48.4543351"
 }

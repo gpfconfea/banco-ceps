@@ -1,9 +1,11 @@
 {
   "cep": "45661900",
   "logradouro": "Rua Matinguipe",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Banco da Vitória",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "latitude": "-14.7920989",
+  "longitude": "-39.0886919"
 }

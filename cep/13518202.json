@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Horizonte",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-22.5376681",
+  "longitude": "-47.7571814"
 }

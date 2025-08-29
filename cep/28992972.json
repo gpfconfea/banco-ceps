@@ -1,9 +1,11 @@
 {
   "cep": "28992972",
   "logradouro": "Estrada de Praia Seca Quadra 11 Lote 5",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ipitangas",
   "localidade": "Saquarema",
   "uf": "RJ",
-  "ibge": "3305505"
+  "ibge": "3305505",
+  "latitude": "-22.8704418",
+  "longitude": "-42.3964977"
 }

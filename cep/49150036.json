@@ -6,5 +6,7 @@
   "bairro": "Centro Histórico",
   "localidade": "Nossa Senhora do Socorro",
   "uf": "SE",
-  "ibge": "2804805"
+  "ibge": "2804805",
+  "latitude": "-22.9454092",
+  "longitude": "-45.4696186"
 }

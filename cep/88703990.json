@@ -1,9 +1,11 @@
 {
   "cep": "88703990",
   "logradouro": "Rodovia Alfredo Anacleto da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Tubarão",
   "uf": "SC",
-  "ibge": "4218707"
+  "ibge": "4218707",
+  "latitude": "-28.4981222",
+  "longitude": "-49.0580673"
 }

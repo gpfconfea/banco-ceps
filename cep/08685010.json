@@ -5,5 +5,7 @@
   "bairro": "Vila Maluf",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.523567",
+  "longitude": "-46.3016477"
 }

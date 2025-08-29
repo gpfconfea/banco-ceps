@@ -1,9 +1,11 @@
 {
   "cep": "83800973",
   "logradouro": "Avenida Eduardo Leal da Cruz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Quatro Pinheiros",
   "localidade": "Mandirituba",
   "uf": "PR",
-  "ibge": "4114302"
+  "ibge": "4114302",
+  "latitude": "-25.776969",
+  "longitude": "-49.3273896"
 }

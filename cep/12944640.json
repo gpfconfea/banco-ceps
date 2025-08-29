@@ -5,5 +5,7 @@
   "bairro": "Parque dos Coqueiros",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.1114925",
+  "longitude": "-46.537457"
 }

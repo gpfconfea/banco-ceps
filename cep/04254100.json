@@ -5,5 +5,7 @@
   "bairro": "Vila Conde do Pinhal",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4618942",
+  "longitude": "-46.3495492"
 }

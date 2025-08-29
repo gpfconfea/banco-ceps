@@ -5,5 +5,7 @@
   "bairro": "Heliópolis",
   "localidade": "Garanhuns",
   "uf": "PE",
-  "ibge": "2606002"
+  "ibge": "2606002",
+  "latitude": "-8.8868056",
+  "longitude": "-36.4773288"
 }

@@ -5,5 +5,7 @@
   "bairro": "Angaturama",
   "localidade": "Recreio",
   "uf": "MG",
-  "ibge": "3154101"
+  "ibge": "3154101",
+  "latitude": "-21.4810792",
+  "longitude": "-42.4168287"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Santana",
   "localidade": "Cambé",
   "uf": "PR",
-  "ibge": "4103701"
+  "ibge": "4103701",
+  "latitude": "-23.285",
+  "longitude": "-51.27869"
 }

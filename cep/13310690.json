@@ -5,5 +5,7 @@
   "bairro": "Residencial Itaim II",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.3945698",
+  "longitude": "-47.3403586"
 }

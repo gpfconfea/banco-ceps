@@ -1,9 +1,11 @@
 {
   "cep": "11330900",
   "logradouro": "Praça Infante Dom Henrique",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Bitaru",
   "localidade": "São Vicente",
   "uf": "SP",
-  "ibge": "3551009"
+  "ibge": "3551009",
+  "latitude": "-23.9715419",
+  "longitude": "-46.3955316"
 }

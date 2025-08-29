@@ -5,5 +5,7 @@
   "bairro": "Santa Helena",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.1844141",
+  "longitude": "-51.5054296"
 }

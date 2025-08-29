@@ -5,5 +5,7 @@
   "bairro": "Guanabara",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-19.8047498",
+  "longitude": "-40.2791226"
 }

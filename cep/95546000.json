@@ -5,5 +5,7 @@
   "bairro": "Casa Velha",
   "localidade": "Palmares do Sul",
   "uf": "RS",
-  "ibge": "4313656"
+  "ibge": "4313656",
+  "latitude": "-30.2566693",
+  "longitude": "-50.3464739"
 }

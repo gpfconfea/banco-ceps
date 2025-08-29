@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial Augusto Scarassatti",
   "localidade": "Rio das Pedras",
   "uf": "SP",
-  "ibge": "3544004"
+  "ibge": "3544004",
+  "latitude": "-22.8715158",
+  "longitude": "-47.5334764"
 }

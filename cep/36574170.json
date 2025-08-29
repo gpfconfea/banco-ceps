@@ -5,5 +5,7 @@
   "bairro": "Nova Era",
   "localidade": "Viçosa",
   "uf": "MG",
-  "ibge": "3171303"
+  "ibge": "3171303",
+  "latitude": "-19.75563",
+  "longitude": "-43.02672"
 }

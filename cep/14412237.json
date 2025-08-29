@@ -5,5 +5,7 @@
   "bairro": "Residencial Ana Dorothéa",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-23.4073335",
+  "longitude": "-46.9024106"
 }

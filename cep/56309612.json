@@ -6,5 +6,7 @@
   "bairro": "Cohab São Francisco",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-9.4046961",
+  "longitude": "-40.542051"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "39522971",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gorutuba",
   "localidade": "Porteirinha",
   "uf": "MG",
-  "ibge": "3152204"
+  "ibge": "3152204",
+  "latitude": "-15.8358636",
+  "longitude": "-43.1850004"
 }

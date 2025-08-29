@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Santa Rosa",
   "uf": "PR",
-  "ibge": "4117222"
+  "ibge": "4117222",
+  "latitude": "-24.4635176",
+  "longitude": "-53.9521771"
 }

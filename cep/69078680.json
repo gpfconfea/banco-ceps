@@ -5,5 +5,7 @@
   "bairro": "Japiim",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-3.0986899",
+  "longitude": "-60.0131424"
 }

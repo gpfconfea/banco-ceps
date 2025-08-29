@@ -5,5 +5,7 @@
   "bairro": "Jardim Lucimar",
   "localidade": "Oriente",
   "uf": "SP",
-  "ibge": "3534104"
+  "ibge": "3534104",
+  "latitude": "-22.1596015",
+  "longitude": "-50.0878339"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fronteira dos Vales",
   "uf": "MG",
-  "ibge": "3127057"
+  "ibge": "3127057",
+  "latitude": "-16.8927083",
+  "longitude": "-40.925018"
 }

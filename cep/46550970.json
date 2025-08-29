@@ -1,9 +1,11 @@
 {
   "cep": "46550970",
   "logradouro": "Praça Manoel Marques Azevedo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Rio do Pires",
   "uf": "BA",
-  "ibge": "2926905"
+  "ibge": "2926905",
+  "latitude": "-13.1278525",
+  "longitude": "-42.2923543"
 }

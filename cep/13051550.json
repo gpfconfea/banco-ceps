@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora de Lourdes",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9745311",
+  "longitude": "-47.0873857"
 }

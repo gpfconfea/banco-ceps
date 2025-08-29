@@ -5,5 +5,7 @@
   "bairro": "Ribeirão da Ilha",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.7057551",
+  "longitude": "-48.523225"
 }

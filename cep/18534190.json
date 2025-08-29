@@ -6,5 +6,7 @@
   "bairro": "Paraíso",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.0953422",
+  "longitude": "-47.7218504"
 }

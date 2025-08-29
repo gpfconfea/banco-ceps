@@ -5,5 +5,7 @@
   "bairro": "Morada Bethânia",
   "localidade": "Viana",
   "uf": "ES",
-  "ibge": "3205101"
+  "ibge": "3205101",
+  "latitude": "-29.5478538",
+  "longitude": "-49.8875897"
 }

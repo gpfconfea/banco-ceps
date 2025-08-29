@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barra do Chapéu",
   "uf": "SP",
-  "ibge": "3505351"
+  "ibge": "3505351",
+  "latitude": "-24.4698024",
+  "longitude": "-49.0247631"
 }

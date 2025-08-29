@@ -5,5 +5,7 @@
   "bairro": "Portal do Patrimonium",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.7402048",
+  "longitude": "-46.5318996"
 }

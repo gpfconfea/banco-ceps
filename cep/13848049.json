@@ -5,5 +5,7 @@
   "bairro": "Jardim Veneza",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "latitude": "-22.3522036",
+  "longitude": "-46.9320021"
 }

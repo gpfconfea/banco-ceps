@@ -5,5 +5,7 @@
   "bairro": "Jardim Novo Horizonte II",
   "localidade": "Iporá",
   "uf": "GO",
-  "ibge": "5210208"
+  "ibge": "5210208",
+  "latitude": "-16.4280488",
+  "longitude": "-51.1147617"
 }

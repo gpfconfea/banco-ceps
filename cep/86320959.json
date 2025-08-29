@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Congonhinhas",
   "uf": "PR",
-  "ibge": "4106001"
+  "ibge": "4106001",
+  "latitude": "-23.5548526",
+  "longitude": "-50.5485415"
 }

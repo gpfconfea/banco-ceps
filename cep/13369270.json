@@ -5,5 +5,7 @@
   "bairro": "Jardim Terras de Capivari",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-23.8243368",
+  "longitude": "-46.5548429"
 }

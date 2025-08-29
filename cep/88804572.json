@@ -5,5 +5,7 @@
   "bairro": "Milanese",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6969124",
+  "longitude": "-49.3863818"
 }

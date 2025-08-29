@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Homero Gil",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.9315863",
+  "longitude": "-44.1893484"
 }

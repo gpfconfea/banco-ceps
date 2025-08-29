@@ -6,5 +6,7 @@
   "bairro": "Santa Isabel",
   "localidade": "Catiguá",
   "uf": "SP",
-  "ibge": "3511201"
+  "ibge": "3511201",
+  "latitude": "-21.0483542",
+  "longitude": "-49.0567724"
 }

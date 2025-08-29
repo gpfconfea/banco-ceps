@@ -5,5 +5,7 @@
   "bairro": "Limoeiro",
   "localidade": "Japurá",
   "uf": "AM",
-  "ibge": "1302108"
+  "ibge": "1302108",
+  "latitude": "-23.469273",
+  "longitude": "-52.55572"
 }

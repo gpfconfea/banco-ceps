@@ -5,5 +5,7 @@
   "bairro": "Vila Belmiro",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-23.8001198",
+  "longitude": "-46.7319031"
 }
