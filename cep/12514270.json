@@ -5,5 +5,7 @@
   "bairro": "Jardim Independência",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.795325",
+  "longitude": "-45.199658"
 }

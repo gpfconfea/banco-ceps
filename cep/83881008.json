@@ -5,5 +5,7 @@
   "bairro": "Estação Nova",
   "localidade": "Rio Negro",
   "uf": "PR",
-  "ibge": "4122305"
+  "ibge": "4122305",
+  "latitude": "-26.0942268",
+  "longitude": "-49.8007334"
 }

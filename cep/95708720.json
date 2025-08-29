@@ -5,5 +5,7 @@
   "bairro": "Aparecida",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.1371625",
+  "longitude": "-51.5388704"
 }

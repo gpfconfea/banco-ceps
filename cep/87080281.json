@@ -5,5 +5,7 @@
   "bairro": "Jardim Seminário",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.4142827",
+  "longitude": "-51.9624061"
 }

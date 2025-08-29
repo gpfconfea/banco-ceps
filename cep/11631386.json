@@ -5,5 +5,7 @@
   "bairro": "Reino",
   "localidade": "Ilhabela",
   "uf": "SP",
-  "ibge": "3520400"
+  "ibge": "3520400",
+  "latitude": "-23.826289",
+  "longitude": "-45.3535858"
 }

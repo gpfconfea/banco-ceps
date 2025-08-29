@@ -5,5 +5,7 @@
   "bairro": "Joapiranga",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9866286",
+  "longitude": "-47.0427279"
 }

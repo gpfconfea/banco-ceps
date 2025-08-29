@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Cabrália Paulista",
   "uf": "SP",
-  "ibge": "3508306"
+  "ibge": "3508306",
+  "latitude": "-22.4557795",
+  "longitude": "-49.3444043"
 }

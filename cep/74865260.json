@@ -5,5 +5,7 @@
   "bairro": "Jardim Vitória",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.71571",
+  "longitude": "-49.2228041"
 }

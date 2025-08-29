@@ -5,5 +5,7 @@
   "bairro": "Yara",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.2907636",
+  "longitude": "-51.1450026"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Primavera",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "latitude": "-18.3986468",
+  "longitude": "-49.203124"
 }

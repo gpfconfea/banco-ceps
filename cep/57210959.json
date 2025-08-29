@@ -1,9 +1,11 @@
 {
   "cep": "57210959",
   "logradouro": "Praça Centenário",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Piaçabuçu",
   "uf": "AL",
-  "ibge": "2706802"
+  "ibge": "2706802",
+  "latitude": "-10.4066316",
+  "longitude": "-36.4336306"
 }

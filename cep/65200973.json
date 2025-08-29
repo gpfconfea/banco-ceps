@@ -1,9 +1,11 @@
 {
   "cep": "65200973",
   "logradouro": "Rodovia MA-007",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Paraíso",
   "localidade": "Pinheiro",
   "uf": "MA",
-  "ibge": "2108603"
+  "ibge": "2108603",
+  "latitude": "-2.5268085",
+  "longitude": "-45.0706065"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Golden Park Residence II",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4442649",
+  "longitude": "-47.5082154"
 }

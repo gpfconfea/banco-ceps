@@ -5,5 +5,7 @@
   "bairro": "Nova Tijuca",
   "localidade": "Coronel Fabriciano",
   "uf": "MG",
-  "ibge": "3119401"
+  "ibge": "3119401",
+  "latitude": "-19.5118877",
+  "longitude": "-42.6194771"
 }

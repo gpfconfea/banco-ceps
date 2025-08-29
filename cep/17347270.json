@@ -6,5 +6,7 @@
   "bairro": "Vila Ricci",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.4922726",
+  "longitude": "-48.5633859"
 }

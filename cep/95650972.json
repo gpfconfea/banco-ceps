@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Igrejinha",
   "uf": "RS",
-  "ibge": "4310108"
+  "ibge": "4310108",
+  "latitude": "-29.5763137",
+  "longitude": "-50.7934349"
 }

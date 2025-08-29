@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto Verde",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "latitude": "-22.3805282",
+  "longitude": "-46.9409295"
 }

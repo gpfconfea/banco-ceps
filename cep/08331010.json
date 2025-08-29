@@ -5,5 +5,7 @@
   "bairro": "Cidade Satélite Santa Bárbara",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.0900538",
+  "longitude": "-46.8809804"
 }

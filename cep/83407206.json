@@ -5,5 +5,7 @@
   "bairro": "Santa Gema",
   "localidade": "Colombo",
   "uf": "PR",
-  "ibge": "4105805"
+  "ibge": "4105805",
+  "latitude": "-23.2308218",
+  "longitude": "-46.7678949"
 }

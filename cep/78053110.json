@@ -6,5 +6,7 @@
   "bairro": "Morada do Ouro",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5646458",
+  "longitude": "-56.0561853"
 }

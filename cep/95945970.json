@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pouso Novo",
   "uf": "RS",
-  "ibge": "4315131"
+  "ibge": "4315131",
+  "latitude": "-29.1704779",
+  "longitude": "-52.2089265"
 }

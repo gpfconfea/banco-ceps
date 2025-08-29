@@ -5,5 +5,7 @@
   "bairro": "Mata Fria",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.3595466",
+  "longitude": "-46.5412061"
 }

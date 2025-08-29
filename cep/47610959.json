@@ -1,9 +1,11 @@
 {
   "cep": "47610959",
   "logradouro": "Rua Sete de Setembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Sítio do Mato",
   "uf": "BA",
-  "ibge": "2930758"
+  "ibge": "2930758",
+  "latitude": "-12.8657776",
+  "longitude": "-43.3852126"
 }

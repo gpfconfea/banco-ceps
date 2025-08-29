@@ -5,5 +5,7 @@
   "bairro": "Jardim Social Belvedere",
   "localidade": "São Carlos",
   "uf": "SP",
-  "ibge": "3548906"
+  "ibge": "3548906",
+  "latitude": "-22.0429618",
+  "longitude": "-47.9029323"
 }

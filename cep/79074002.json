@@ -5,5 +5,7 @@
   "bairro": "Centenário",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.5271479",
+  "longitude": "-54.6253232"
 }

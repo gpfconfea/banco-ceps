@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "São José do Xingu",
   "uf": "MT",
-  "ibge": "5107354"
+  "ibge": "5107354",
+  "latitude": "-10.803888",
+  "longitude": "-52.7357819"
 }

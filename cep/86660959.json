@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Inês",
   "uf": "PR",
-  "ibge": "4123600"
+  "ibge": "4123600",
+  "latitude": "-22.6407832",
+  "longitude": "-51.9027437"
 }

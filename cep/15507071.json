@@ -5,5 +5,7 @@
   "bairro": "Belo Horizonte II",
   "localidade": "Votuporanga",
   "uf": "SP",
-  "ibge": "3557105"
+  "ibge": "3557105",
+  "latitude": "-20.425373",
+  "longitude": "-50.008619"
 }

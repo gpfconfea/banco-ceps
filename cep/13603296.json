@@ -5,5 +5,7 @@
   "bairro": "Jardim Vista Alegre",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "latitude": "-22.3506678",
+  "longitude": "-47.4155909"
 }

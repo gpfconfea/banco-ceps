@@ -1,9 +1,11 @@
 {
   "cep": "39325970",
   "logradouro": "Praça Gustavo Freire",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bentópolis de Minas",
   "localidade": "Ubaí",
   "uf": "MG",
-  "ibge": "3170008"
+  "ibge": "3170008",
+  "latitude": "-16.3761201",
+  "longitude": "-45.0160461"
 }

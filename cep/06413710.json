@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Célia Mota",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.4840046",
+  "longitude": "-46.8777685"
 }

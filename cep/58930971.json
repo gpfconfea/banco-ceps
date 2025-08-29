@@ -1,9 +1,11 @@
 {
   "cep": "58930971",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bom Jesus",
   "uf": "PB",
-  "ibge": "2502201"
+  "ibge": "2502201",
+  "latitude": "-16.6163025",
+  "longitude": "-49.2689518"
 }

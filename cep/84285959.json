@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Figueira",
   "uf": "PR",
-  "ibge": "4107751"
+  "ibge": "4107751",
+  "latitude": "-23.8503353",
+  "longitude": "-50.4047692"
 }

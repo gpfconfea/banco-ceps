@@ -5,5 +5,7 @@
   "bairro": "Jardim Francisco Mendes",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.2646644",
+  "longitude": "-46.7384812"
 }

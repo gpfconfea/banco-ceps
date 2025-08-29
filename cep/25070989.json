@@ -1,9 +1,11 @@
 {
   "cep": "25070989",
-  "logradouro": "Avenida Presidente Vargas 281 Térreo Locker Correios",
+  "logradouro": "Avenida Presidente Vargas 281 Térreo",
   "complemento": "",
   "bairro": "Centro",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "latitude": "-22.7882754",
+  "longitude": "-43.3092591"
 }

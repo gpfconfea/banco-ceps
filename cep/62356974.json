@@ -1,9 +1,11 @@
 {
   "cep": "62356974",
   "logradouro": "Rua da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Veneza",
   "localidade": "Ubajara",
   "uf": "CE",
-  "ibge": "2313609"
+  "ibge": "2313609",
+  "latitude": "-3.8513016",
+  "longitude": "-40.9151722"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Rural Fazenda Santa Cândida",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8356026",
+  "longitude": "-47.039098"
 }

@@ -5,5 +5,7 @@
   "bairro": "Aeroporto Velho",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-19.8139725",
+  "longitude": "-43.9807999"
 }

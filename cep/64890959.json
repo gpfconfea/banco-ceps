@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Canto do Buriti",
   "uf": "PI",
-  "ibge": "2202307"
+  "ibge": "2202307",
+  "latitude": "-8.1145196",
+  "longitude": "-42.9454273"
 }

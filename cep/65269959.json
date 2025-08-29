@@ -1,9 +1,11 @@
 {
   "cep": "65269959",
   "logradouro": "Avenida das Palmeiras",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Serrano do Maranhão",
   "uf": "MA",
-  "ibge": "2111789"
+  "ibge": "2111789",
+  "latitude": "-1.8527081",
+  "longitude": "-45.1172526"
 }

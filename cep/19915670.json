@@ -5,5 +5,7 @@
   "bairro": "Jardim Anchieta",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-23.0114062",
+  "longitude": "-49.893248"
 }

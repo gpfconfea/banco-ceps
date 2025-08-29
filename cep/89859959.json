@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Formosa do Sul",
   "uf": "SC",
-  "ibge": "4205431"
+  "ibge": "4205431",
+  "latitude": "-26.6470996",
+  "longitude": "-52.7929936"
 }

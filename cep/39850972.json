@@ -1,9 +1,11 @@
 {
   "cep": "39850972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ataléia",
   "uf": "MG",
-  "ibge": "3104700"
+  "ibge": "3104700",
+  "latitude": "-18.0434557",
+  "longitude": "-41.1109384"
 }

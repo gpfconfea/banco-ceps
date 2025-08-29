@@ -5,5 +5,7 @@
   "bairro": "Mogi Moderno",
   "localidade": "Mogi das Cruzes",
   "uf": "SP",
-  "ibge": "3530607"
+  "ibge": "3530607",
+  "latitude": "-23.535564",
+  "longitude": "-46.1893126"
 }

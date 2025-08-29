@@ -5,5 +5,7 @@
   "bairro": "Serra Azul",
   "localidade": "Mateus Leme",
   "uf": "MG",
-  "ibge": "3140704"
+  "ibge": "3140704",
+  "latitude": "-20.0902245",
+  "longitude": "-44.4222584"
 }

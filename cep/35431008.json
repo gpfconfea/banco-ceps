@@ -6,5 +6,7 @@
   "bairro": "Vale Suíço",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.417468",
+  "longitude": "-42.9252799"
 }

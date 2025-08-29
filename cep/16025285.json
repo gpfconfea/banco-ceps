@@ -5,5 +5,7 @@
   "bairro": "Vila Carvalho",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-20.6402237",
+  "longitude": "-51.11225"
 }

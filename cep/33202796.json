@@ -5,5 +5,7 @@
   "bairro": "Santa Clara",
   "localidade": "Vespasiano",
   "uf": "MG",
-  "ibge": "3171204"
+  "ibge": "3171204",
+  "latitude": "-19.755931",
+  "longitude": "-43.943783"
 }

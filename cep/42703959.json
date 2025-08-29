@@ -1,9 +1,11 @@
 {
   "cep": "42703959",
   "logradouro": "Avenida Brigadeiro Mário Epinghaus",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Lauro de Freitas",
   "uf": "BA",
-  "ibge": "2919207"
+  "ibge": "2919207",
+  "latitude": "-12.8980356",
+  "longitude": "-38.3228909"
 }

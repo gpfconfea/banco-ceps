@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Olímpia",
   "uf": "PR",
-  "ibge": "4117206"
+  "ibge": "4117206",
+  "latitude": "-23.471002",
+  "longitude": "-53.090158"
 }

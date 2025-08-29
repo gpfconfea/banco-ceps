@@ -1,9 +1,11 @@
 {
   "cep": "14718970",
   "logradouro": "Rua Nagib M Burjailli",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Botafogo",
   "localidade": "Bebedouro",
   "uf": "SP",
-  "ibge": "3506102"
+  "ibge": "3506102",
+  "latitude": "-20.99901",
+  "longitude": "-48.5491335"
 }

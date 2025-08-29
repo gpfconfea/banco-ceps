@@ -5,5 +5,7 @@
   "bairro": "Jardim São Jorge",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.7556768",
+  "longitude": "-48.8438588"
 }

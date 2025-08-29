@@ -1,9 +1,11 @@
 {
   "cep": "36509972",
   "logradouro": "Rua Santo Antônio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ubari",
   "localidade": "Ubá",
   "uf": "MG",
-  "ibge": "3169901"
+  "ibge": "3169901",
+  "latitude": "-21.1234647",
+  "longitude": "-42.940037"
 }

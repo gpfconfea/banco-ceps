@@ -5,5 +5,7 @@
   "bairro": "Vila Cruzeiro (Cachoeira do Campo)",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.359467",
+  "longitude": "-43.680833"
 }

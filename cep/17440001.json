@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ubirajara",
   "uf": "SP",
-  "ibge": "3555505"
+  "ibge": "3555505",
+  "latitude": "-22.5005551",
+  "longitude": "-49.6156494"
 }

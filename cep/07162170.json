@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Expedito",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4927101",
+  "longitude": "-46.4944014"
 }

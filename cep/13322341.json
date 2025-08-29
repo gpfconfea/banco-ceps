@@ -5,5 +5,7 @@
   "bairro": "Residencial Morro da Mata",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-22.4122833",
+  "longitude": "-46.9614742"
 }

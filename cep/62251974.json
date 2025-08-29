@@ -1,9 +1,11 @@
 {
   "cep": "62251974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ingazeiras",
   "localidade": "Ipu",
   "uf": "CE",
-  "ibge": "2305803"
+  "ibge": "2305803",
+  "latitude": "-4.336771",
+  "longitude": "-40.7125466"
 }

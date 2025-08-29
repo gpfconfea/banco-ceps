@@ -5,5 +5,7 @@
   "bairro": "Jardim das Palmeiras",
   "localidade": "Cândido Mota",
   "uf": "SP",
-  "ibge": "3510005"
+  "ibge": "3510005",
+  "latitude": "-22.7567307",
+  "longitude": "-50.3719899"
 }

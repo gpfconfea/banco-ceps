@@ -5,5 +5,7 @@
   "bairro": "Estância Pinhais",
   "localidade": "Pinhais",
   "uf": "PR",
-  "ibge": "4119152"
+  "ibge": "4119152",
+  "latitude": "-25.442813",
+  "longitude": "-49.1962187"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "42800901",
   "logradouro": "Rua Adelina de Sá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.6998282",
+  "longitude": "-38.3248784"
 }
