@@ -5,5 +5,7 @@
   "bairro": "Vila Fabril",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3258085",
+  "longitude": "-48.9980576"
 }

@@ -5,5 +5,7 @@
   "bairro": "Praeirinho",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6216888",
+  "longitude": "-56.0056125"
 }

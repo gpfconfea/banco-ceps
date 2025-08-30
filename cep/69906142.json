@@ -5,5 +5,7 @@
   "bairro": "Vila do DNER",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-10.1523755",
+  "longitude": "-67.7428216"
 }

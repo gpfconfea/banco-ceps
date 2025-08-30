@@ -5,5 +5,7 @@
   "bairro": "Samambaia",
   "localidade": "Praia Grande",
   "uf": "SP",
-  "ibge": "3541000"
+  "ibge": "3541000",
+  "latitude": "-29.1915202",
+  "longitude": "-49.9263301"
 }

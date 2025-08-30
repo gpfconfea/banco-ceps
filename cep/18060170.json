@@ -5,5 +5,7 @@
   "bairro": "Vila Carvalho",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4883145",
+  "longitude": "-47.4664852"
 }

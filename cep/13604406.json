@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago",
   "localidade": "Araras",
   "uf": "SP",
-  "ibge": "3503307"
+  "ibge": "3503307",
+  "latitude": "-22.3210481",
+  "longitude": "-47.355749"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "87485972",
   "logradouro": "Rua Massato Nakamura",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Formosa",
   "localidade": "Douradina",
   "uf": "PR",
-  "ibge": "4107256"
+  "ibge": "4107256",
+  "latitude": "-23.383806",
+  "longitude": "-53.2931301"
 }

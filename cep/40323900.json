@@ -1,9 +1,11 @@
 {
   "cep": "40323900",
   "logradouro": "2ª Travessa Saldanha Marinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caixa D'Água",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9575621",
+  "longitude": "-38.4968115"
 }

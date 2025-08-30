@@ -5,5 +5,7 @@
   "bairro": "São Miguel do Caparaó",
   "localidade": "Guaçuí",
   "uf": "ES",
-  "ibge": "3202306"
+  "ibge": "3202306",
+  "latitude": "-20.722853",
+  "longitude": "-41.759728"
 }

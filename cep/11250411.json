@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bertioga",
   "uf": "SP",
-  "ibge": "3506359"
+  "ibge": "3506359",
+  "latitude": "-23.8387357",
+  "longitude": "-46.136593"
 }

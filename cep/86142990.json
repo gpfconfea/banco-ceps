@@ -1,9 +1,11 @@
 {
   "cep": "86142990",
   "logradouro": "Avenida Mahatma Gandhi",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Primeiro de Maio",
   "uf": "PR",
-  "ibge": "4120507"
+  "ibge": "4120507",
+  "latitude": "-22.9355173",
+  "longitude": "-51.1309723"
 }

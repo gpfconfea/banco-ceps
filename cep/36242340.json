@@ -5,5 +5,7 @@
   "bairro": "Cabangu",
   "localidade": "Santos Dumont",
   "uf": "MG",
-  "ibge": "3160702"
+  "ibge": "3160702",
+  "latitude": "-21.4522585",
+  "longitude": "-43.5541415"
 }

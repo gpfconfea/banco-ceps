@@ -5,5 +5,7 @@
   "bairro": "Parque Ribeiro de Lima",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.4994717",
+  "longitude": "-46.899231"
 }

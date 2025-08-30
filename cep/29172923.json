@@ -1,9 +1,11 @@
 {
   "cep": "29172923",
   "logradouro": "Rua A",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Conjunto Jacaraípe",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.1612138",
+  "longitude": "-40.1894094"
 }

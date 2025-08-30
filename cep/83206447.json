@@ -5,5 +5,7 @@
   "bairro": "Estradinha",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.5684367",
+  "longitude": "-48.5651767"
 }

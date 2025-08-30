@@ -1,9 +1,11 @@
 {
   "cep": "45680970",
   "logradouro": "Rua Lomanto Júnior",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Uruçuca",
   "uf": "BA",
-  "ibge": "2932705"
+  "ibge": "2932705",
+  "latitude": "-14.5909098",
+  "longitude": "-39.2840865"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Girassol",
   "localidade": "Mirassol",
   "uf": "SP",
-  "ibge": "3530300"
+  "ibge": "3530300",
+  "latitude": "-20.8414596",
+  "longitude": "-49.483878"
 }

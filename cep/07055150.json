@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Galvão",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4673896",
+  "longitude": "-46.5592152"
 }

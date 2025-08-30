@@ -5,5 +5,7 @@
   "bairro": "Vila Ezequiel",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.3650958",
+  "longitude": "-47.8479009"
 }
