@@ -1,9 +1,11 @@
 {
   "cep": "28333970",
   "logradouro": "Avenida Coronel Balbino França",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Raposo",
   "localidade": "Itaperuna",
   "uf": "RJ",
-  "ibge": "3302205"
+  "ibge": "3302205",
+  "latitude": "-21.0992629",
+  "longitude": "-42.1113391"
 }

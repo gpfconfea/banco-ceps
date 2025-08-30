@@ -5,5 +5,7 @@
   "bairro": "Rui Barbosa",
   "localidade": "Montenegro",
   "uf": "RS",
-  "ibge": "4312401"
+  "ibge": "4312401",
+  "latitude": "-29.679164",
+  "longitude": "-51.4626725"
 }

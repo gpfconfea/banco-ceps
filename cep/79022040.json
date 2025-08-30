@@ -5,5 +5,7 @@
   "bairro": "Vila Giocondo Orsi",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4385",
+  "longitude": "-54.5847579"
 }

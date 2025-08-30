@@ -5,5 +5,7 @@
   "bairro": "Celina",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-20.5480295",
+  "longitude": "-48.572479"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Primavera",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-23.7399898",
+  "longitude": "-46.7897081"
 }

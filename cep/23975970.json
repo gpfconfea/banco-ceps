@@ -1,9 +1,11 @@
 {
   "cep": "23975970",
   "logradouro": "Avenida dos Bulhões",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tarituba",
   "localidade": "Paraty",
   "uf": "RJ",
-  "ibge": "3303807"
+  "ibge": "3303807",
+  "latitude": "-23.0439766",
+  "longitude": "-44.594822"
 }

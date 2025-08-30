@@ -5,5 +5,7 @@
   "bairro": "Parque Rodrigo Barreto",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-23.5697438",
+  "longitude": "-46.5740261"
 }

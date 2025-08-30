@@ -1,9 +1,11 @@
 {
   "cep": "28825970",
   "logradouro": "Estrada de Gaviões",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gaviões",
   "localidade": "Silva Jardim",
   "uf": "RJ",
-  "ibge": "3305604"
+  "ibge": "3305604",
+  "latitude": "-22.5654394",
+  "longitude": "-42.5303552"
 }

@@ -6,5 +6,7 @@
   "bairro": "São Miguel",
   "localidade": "Iguaba Grande",
   "uf": "RJ",
-  "ibge": "3301876"
+  "ibge": "3301876",
+  "latitude": "-22.8318125",
+  "longitude": "-42.2203676"
 }

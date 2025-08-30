@@ -1,9 +1,11 @@
 {
   "cep": "59190971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra de Cunhaú",
   "localidade": "Canguaretama",
   "uf": "RN",
-  "ibge": "2402204"
+  "ibge": "2402204",
+  "latitude": "-6.2433039",
+  "longitude": "-35.1799993"
 }

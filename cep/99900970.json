@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Getúlio Vargas",
   "uf": "RS",
-  "ibge": "4308904"
+  "ibge": "4308904",
+  "latitude": "-27.8865596",
+  "longitude": "-52.2235297"
 }

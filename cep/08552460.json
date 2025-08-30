@@ -5,5 +5,7 @@
   "bairro": "Vila Turmalina",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-23.5303615",
+  "longitude": "-46.3558571"
 }

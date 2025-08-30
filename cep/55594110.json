@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.5121623",
+  "longitude": "-35.1243631"
 }

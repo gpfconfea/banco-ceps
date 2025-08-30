@@ -5,5 +5,7 @@
   "bairro": "Jordanópolis",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-22.4767444",
+  "longitude": "-48.9661031"
 }

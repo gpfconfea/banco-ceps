@@ -1,9 +1,11 @@
 {
   "cep": "28420970",
   "logradouro": "Praça São João Batista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Colônia",
   "localidade": "São Fidélis",
   "uf": "RJ",
-  "ibge": "3304805"
+  "ibge": "3304805",
+  "latitude": "-21.6760249",
+  "longitude": "-41.889209"
 }

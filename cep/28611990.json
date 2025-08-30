@@ -1,9 +1,11 @@
 {
   "cep": "28611990",
   "logradouro": "Estrada João Heringerº - Km 26",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "latitude": "-22.2875814",
+  "longitude": "-42.5271442"
 }

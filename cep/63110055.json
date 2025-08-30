@@ -5,5 +5,7 @@
   "bairro": "Zacarias Gonçalves",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "latitude": "39.3080548",
+  "longitude": "-7.7296685"
 }

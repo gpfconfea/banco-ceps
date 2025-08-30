@@ -6,5 +6,7 @@
   "bairro": "Residencial Delfino Zachi",
   "localidade": "Novo Horizonte",
   "uf": "SP",
-  "ibge": "3533502"
+  "ibge": "3533502",
+  "latitude": "-21.4666606",
+  "longitude": "-49.2140475"
 }

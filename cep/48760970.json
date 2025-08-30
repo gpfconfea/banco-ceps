@@ -1,9 +1,11 @@
 {
   "cep": "48760970",
   "logradouro": "Praça Monsenhor Carlos Olimpio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Araci",
   "uf": "BA",
-  "ibge": "2902104"
+  "ibge": "2902104",
+  "latitude": "-11.3356154",
+  "longitude": "-38.9618334"
 }

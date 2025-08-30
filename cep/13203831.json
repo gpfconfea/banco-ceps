@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.2207713",
+  "longitude": "-46.8561593"
 }

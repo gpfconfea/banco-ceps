@@ -5,5 +5,7 @@
   "bairro": "Residencial Forner II",
   "localidade": "Engenheiro Coelho",
   "uf": "SP",
-  "ibge": "3515152"
+  "ibge": "3515152",
+  "latitude": "-22.492662",
+  "longitude": "-47.2211262"
 }

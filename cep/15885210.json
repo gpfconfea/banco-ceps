@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional José Barreira",
   "localidade": "Novais",
   "uf": "SP",
-  "ibge": "3533254"
+  "ibge": "3533254",
+  "latitude": "-20.9876078",
+  "longitude": "-48.9154954"
 }

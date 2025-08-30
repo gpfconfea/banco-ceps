@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Morros",
   "uf": "MA",
-  "ibge": "2107100"
+  "ibge": "2107100",
+  "latitude": "-2.8642927",
+  "longitude": "-44.0374952"
 }

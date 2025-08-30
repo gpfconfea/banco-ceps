@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Mario Alves Nunes",
   "localidade": "Macatuba",
   "uf": "SP",
-  "ibge": "3528007"
+  "ibge": "3528007",
+  "latitude": "-22.4988488",
+  "longitude": "-48.707514"
 }

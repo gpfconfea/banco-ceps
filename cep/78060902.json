@@ -6,5 +6,7 @@
   "bairro": "Jardim Leblon",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.6211142",
+  "longitude": "-56.0402779"
 }

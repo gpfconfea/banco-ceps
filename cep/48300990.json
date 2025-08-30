@@ -1,9 +1,11 @@
 {
   "cep": "48300990",
   "logradouro": "Rua da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Conde",
   "uf": "BA",
-  "ibge": "2908606"
+  "ibge": "2908606",
+  "latitude": "-11.8532546",
+  "longitude": "-37.5660551"
 }

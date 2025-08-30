@@ -1,9 +1,11 @@
 {
   "cep": "98911971",
   "logradouro": "Avenida Três de Maio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Progresso",
   "localidade": "Progresso",
   "uf": "RS",
-  "ibge": "4315156"
+  "ibge": "4315156",
+  "latitude": "-16.1661024",
+  "longitude": "-42.2855002"
 }

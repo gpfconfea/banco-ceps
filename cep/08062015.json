@@ -5,5 +5,7 @@
   "bairro": "Vila Monte Santo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5605617",
+  "longitude": "-47.4510448"
 }

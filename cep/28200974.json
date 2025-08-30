@@ -1,9 +1,11 @@
 {
   "cep": "28200974",
   "logradouro": "Rua Nossa Senhora Aparecida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Grussaí",
   "localidade": "São João da Barra",
   "uf": "RJ",
-  "ibge": "3305000"
+  "ibge": "3305000",
+  "latitude": "-21.718213",
+  "longitude": "-41.0286257"
 }

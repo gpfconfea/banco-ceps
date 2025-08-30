@@ -1,9 +1,11 @@
 {
   "cep": "45855970",
   "logradouro": "Rua Valfrides Santana Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itapebi",
   "uf": "BA",
-  "ibge": "2916302"
+  "ibge": "2916302",
+  "latitude": "-15.9697337",
+  "longitude": "-39.534813"
 }

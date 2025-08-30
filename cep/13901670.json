@@ -5,5 +5,7 @@
   "bairro": "Parque do Sol",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-23.6759633",
+  "longitude": "-46.6703307"
 }

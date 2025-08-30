@@ -5,5 +5,7 @@
   "bairro": "Jacaré",
   "localidade": "Cabo Frio",
   "uf": "RJ",
-  "ibge": "3300704"
+  "ibge": "3300704",
+  "latitude": "-22.3008236",
+  "longitude": "-41.7060465"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44032900",
   "logradouro": "Rua Professora Bertholina Carneiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campo Limpo",
   "localidade": "Feira de Santana",
   "uf": "BA",
-  "ibge": "2910800"
+  "ibge": "2910800",
+  "latitude": "-12.225154",
+  "longitude": "-38.9727727"
 }

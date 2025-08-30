@@ -1,9 +1,11 @@
 {
   "cep": "86742970",
   "logradouro": "Avenida João Daniel Machado Benetti",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Zélia",
   "localidade": "Astorga",
   "uf": "PR",
-  "ibge": "4102109"
+  "ibge": "4102109",
+  "latitude": "-23.1756592",
+  "longitude": "-51.6781784"
 }

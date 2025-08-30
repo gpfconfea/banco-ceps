@@ -1,9 +1,11 @@
 {
   "cep": "13041900",
   "logradouro": "Praça Voluntários de 32",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ponte Preta",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9099384",
+  "longitude": "-47.0626332"
 }

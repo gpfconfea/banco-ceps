@@ -5,5 +5,7 @@
   "bairro": "Distrito de Iguatemi (Iguatemi)",
   "localidade": "Maringá",
   "uf": "PR",
-  "ibge": "4115200"
+  "ibge": "4115200",
+  "latitude": "-23.3988366",
+  "longitude": "-51.9877764"
 }

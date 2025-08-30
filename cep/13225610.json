@@ -5,5 +5,7 @@
   "bairro": "Vila Iguaçu",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "latitude": "-23.223466",
+  "longitude": "-46.8493957"
 }

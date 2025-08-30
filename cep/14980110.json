@@ -6,5 +6,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Sales",
   "uf": "SP",
-  "ibge": "3544806"
+  "ibge": "3544806",
+  "latitude": "-21.3424799",
+  "longitude": "-49.5007432"
 }

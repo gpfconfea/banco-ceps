@@ -5,5 +5,7 @@
   "bairro": "Fazenda Dourados - Residencial Atibaia",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7674063",
+  "longitude": "-49.3682619"
 }

@@ -5,5 +5,7 @@
   "bairro": "Araras",
   "localidade": "Batatais",
   "uf": "SP",
-  "ibge": "3505906"
+  "ibge": "3505906",
+  "latitude": "-20.8942864",
+  "longitude": "-47.5756878"
 }

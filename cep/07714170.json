@@ -5,5 +5,7 @@
   "bairro": "Serpa",
   "localidade": "Caieiras",
   "uf": "SP",
-  "ibge": "3509007"
+  "ibge": "3509007",
+  "latitude": "-23.3503636",
+  "longitude": "-46.759761"
 }

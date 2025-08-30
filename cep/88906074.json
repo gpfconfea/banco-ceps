@@ -5,5 +5,7 @@
   "bairro": "Jardim das Avenidas",
   "localidade": "Araranguá",
   "uf": "SC",
-  "ibge": "4201406"
+  "ibge": "4201406",
+  "latitude": "-28.9518454",
+  "longitude": "-49.4660511"
 }

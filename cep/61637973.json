@@ -1,9 +1,11 @@
 {
   "cep": "61637973",
   "logradouro": "Rodovia Estruturante - CE 085 Quilômetro 13 Sala 8",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Garrote",
   "localidade": "Caucaia",
   "uf": "CE",
-  "ibge": "2303709"
+  "ibge": "2303709",
+  "latitude": "-3.7130845",
+  "longitude": "-38.6851352"
 }

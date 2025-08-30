@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-20.3658589",
+  "longitude": "-40.3154877"
 }

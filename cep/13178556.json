@@ -5,5 +5,7 @@
   "bairro": "Residencial Real Parque Sumaré",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "latitude": "-22.8299371",
+  "longitude": "-47.2161873"
 }

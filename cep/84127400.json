@@ -5,5 +5,7 @@
   "bairro": "Mato Queimado",
   "localidade": "Ponta Grossa",
   "uf": "PR",
-  "ibge": "4119905"
+  "ibge": "4119905",
+  "latitude": "-25.1727381",
+  "longitude": "-49.8422933"
 }
