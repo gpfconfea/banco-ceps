@@ -5,5 +5,7 @@
   "bairro": "Sobradinho",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.7588846",
+  "longitude": "-47.8878216"
 }

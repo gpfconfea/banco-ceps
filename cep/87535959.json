@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Xambrê",
   "uf": "PR",
-  "ibge": "4128807"
+  "ibge": "4128807",
+  "latitude": "-23.7242019",
+  "longitude": "-53.4893713"
 }

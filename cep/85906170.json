@@ -5,5 +5,7 @@
   "bairro": "Jardim Porto Alegre",
   "localidade": "Toledo",
   "uf": "PR",
-  "ibge": "4127700"
+  "ibge": "4127700",
+  "latitude": "-24.7147153",
+  "longitude": "-53.7160013"
 }

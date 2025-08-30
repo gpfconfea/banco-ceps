@@ -5,5 +5,7 @@
   "bairro": "Jardim Residence Rio Verde",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.966662",
+  "longitude": "-47.4203365"
 }

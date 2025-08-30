@@ -1,9 +1,11 @@
 {
   "cep": "29815984",
   "logradouro": "Praça Municipal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paulista",
   "localidade": "Barra de São Francisco",
   "uf": "ES",
-  "ibge": "3200904"
+  "ibge": "3200904",
+  "latitude": "-18.7553213",
+  "longitude": "-40.8968398"
 }

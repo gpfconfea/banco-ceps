@@ -5,5 +5,7 @@
   "bairro": "Jardim Doutor Romeu Bueno de Aguiar",
   "localidade": "Morungaba",
   "uf": "SP",
-  "ibge": "3532009"
+  "ibge": "3532009",
+  "latitude": "-22.883101",
+  "longitude": "-46.7969978"
 }

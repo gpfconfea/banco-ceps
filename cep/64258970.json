@@ -1,9 +1,11 @@
 {
   "cep": "64258970",
   "logradouro": "Rua Manoel Nogueira Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Lagoa de São Francisco",
   "uf": "PI",
-  "ibge": "2205573"
+  "ibge": "2205573",
+  "latitude": "-4.3897327",
+  "longitude": "-41.6005646"
 }

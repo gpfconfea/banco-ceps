@@ -5,5 +5,7 @@
   "bairro": "Damas",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-3.748718",
+  "longitude": "-38.5481504"
 }

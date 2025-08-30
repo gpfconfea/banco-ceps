@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rodeio",
   "uf": "SC",
-  "ibge": "4215109"
+  "ibge": "4215109",
+  "latitude": "-26.9254126",
+  "longitude": "-49.3692706"
 }

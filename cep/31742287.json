@@ -5,5 +5,7 @@
   "bairro": "Jardim Guanabara",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8270895",
+  "longitude": "-43.9404234"
 }

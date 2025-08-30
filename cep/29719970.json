@@ -1,9 +1,11 @@
 {
   "cep": "29719970",
   "logradouro": "Rua Miguel Dondoni",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boapaba",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-19.6341481",
+  "longitude": "-40.6190273"
 }

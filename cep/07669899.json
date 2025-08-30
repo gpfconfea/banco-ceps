@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Mairiporã",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.3156528",
+  "longitude": "-46.5824861"
 }

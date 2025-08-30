@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Helena",
   "localidade": "Barueri",
   "uf": "SP",
-  "ibge": "3505708"
+  "ibge": "3505708",
+  "latitude": "-23.5298723",
+  "longitude": "-46.8639342"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "35424971",
   "logradouro": "Rua das Flores",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cachoeira do Brumado",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "latitude": "-20.3990249",
+  "longitude": "-43.2706649"
 }

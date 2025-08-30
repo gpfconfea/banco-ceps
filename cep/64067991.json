@@ -1,9 +1,11 @@
 {
   "cep": "64067991",
   "logradouro": "PI 112",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.068136",
+  "longitude": "-42.7710538"
 }

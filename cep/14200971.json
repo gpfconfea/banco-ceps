@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Simão",
   "uf": "SP",
-  "ibge": "3550902"
+  "ibge": "3550902",
+  "latitude": "-21.3099038",
+  "longitude": "-47.5709197"
 }

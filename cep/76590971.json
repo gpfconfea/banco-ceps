@@ -1,9 +1,11 @@
 {
   "cep": "76590971",
   "logradouro": "Rua São Miguel do Araguaia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro (Tataíra)",
   "localidade": "São Miguel do Araguaia",
   "uf": "GO",
-  "ibge": "5220207"
+  "ibge": "5220207",
+  "latitude": "-13.0813955",
+  "longitude": "-49.9758203"
 }

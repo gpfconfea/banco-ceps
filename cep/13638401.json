@@ -5,5 +5,7 @@
   "bairro": "Jardim Treviso",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.9751828",
+  "longitude": "-47.4228227"
 }

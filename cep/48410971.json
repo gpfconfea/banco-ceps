@@ -1,9 +1,11 @@
 {
   "cep": "48410971",
   "logradouro": "Rua Santa Rita",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caxias",
   "localidade": "Cícero Dantas",
   "uf": "BA",
-  "ibge": "2907806"
+  "ibge": "2907806",
+  "latitude": "-10.4996487",
+  "longitude": "-38.2422195"
 }

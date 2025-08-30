@@ -1,9 +1,11 @@
 {
   "cep": "59578971",
   "logradouro": "Distrito Punau",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Punau",
   "localidade": "Rio do Fogo",
   "uf": "RN",
-  "ibge": "2408953"
+  "ibge": "2408953",
+  "latitude": "-5.3513992",
+  "longitude": "-35.4228852"
 }

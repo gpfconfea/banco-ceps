@@ -5,5 +5,7 @@
   "bairro": "Alvorada",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-21.746476",
+  "longitude": "-48.8311705"
 }

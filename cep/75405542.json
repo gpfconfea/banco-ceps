@@ -5,5 +5,7 @@
   "bairro": "Residencial Portal de Inhumas III",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.3397909",
+  "longitude": "-49.5125956"
 }

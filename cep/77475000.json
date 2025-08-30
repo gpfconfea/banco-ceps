@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Araguaçu",
   "uf": "TO",
-  "ibge": "1702000"
+  "ibge": "1702000",
+  "latitude": "-12.928934",
+  "longitude": "-49.823134"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78115907",
   "logradouro": "Alameda Júlio Muller",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ponte Nova",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6261195",
+  "longitude": "-56.0953325"
 }

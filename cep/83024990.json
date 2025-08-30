@@ -1,9 +1,11 @@
 {
   "cep": "83024990",
   "logradouro": "Vereador Domingos Benvenutto Moletta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "-14.235004",
+  "longitude": "-51.92528"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Desterro do Melo",
   "uf": "MG",
-  "ibge": "3121506"
+  "ibge": "3121506",
+  "latitude": "-21.1480524",
+  "longitude": "-43.5188052"
 }

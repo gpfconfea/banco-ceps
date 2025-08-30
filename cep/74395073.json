@@ -5,5 +5,7 @@
   "bairro": "Residencial Portal Santa Rita",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7182588",
+  "longitude": "-49.3574667"
 }

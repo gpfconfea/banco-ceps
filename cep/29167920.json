@@ -1,9 +1,11 @@
 {
   "cep": "29167920",
   "logradouro": "Avenida Talma Rodrigues Ribeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boulevard Lagoa",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.1665772",
+  "longitude": "-40.2004926"
 }

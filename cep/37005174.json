@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Varginha",
   "uf": "MG",
-  "ibge": "3170701"
+  "ibge": "3170701",
+  "latitude": "-20.8799244",
+  "longitude": "-45.2838789"
 }

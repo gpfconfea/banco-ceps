@@ -1,9 +1,11 @@
 {
   "cep": "84574970",
   "logradouro": "Rua Esperança",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dorizon",
   "localidade": "Mallet",
   "uf": "PR",
-  "ibge": "4113908"
+  "ibge": "4113908",
+  "latitude": "-25.9506588",
+  "longitude": "-50.8554451"
 }

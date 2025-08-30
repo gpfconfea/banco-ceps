@@ -5,5 +5,7 @@
   "bairro": "Jardim Estrela",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.677809",
+  "longitude": "-46.4263807"
 }

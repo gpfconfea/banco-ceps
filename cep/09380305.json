@@ -5,5 +5,7 @@
   "bairro": "Jardim Sônia Maria",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-23.6259865",
+  "longitude": "-46.4798864"
 }

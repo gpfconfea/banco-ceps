@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Bernardino Rodrigues",
   "localidade": "Catiguá",
   "uf": "SP",
-  "ibge": "3511201"
+  "ibge": "3511201",
+  "latitude": "-21.0636863",
+  "longitude": "-49.0636158"
 }

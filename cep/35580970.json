@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Japaraíba",
   "uf": "MG",
-  "ibge": "3135308"
+  "ibge": "3135308",
+  "latitude": "-20.13933",
+  "longitude": "-45.500922"
 }

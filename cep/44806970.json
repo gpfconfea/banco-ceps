@@ -1,9 +1,11 @@
 {
   "cep": "44806970",
   "logradouro": "Praça João José de Almeida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Umbuzeiro",
   "localidade": "Mundo Novo",
   "uf": "BA",
-  "ibge": "2922102"
+  "ibge": "2922102",
+  "latitude": "-11.6715993",
+  "longitude": "-40.3704204"
 }

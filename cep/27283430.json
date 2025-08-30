@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.4978645",
+  "longitude": "-44.0974941"
 }

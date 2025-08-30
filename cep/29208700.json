@@ -5,5 +5,7 @@
   "bairro": "Porto Grande",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "latitude": "-20.7381411",
+  "longitude": "-40.542016"
 }

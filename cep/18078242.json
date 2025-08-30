@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Paula",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4432165",
+  "longitude": "-47.4764663"
 }

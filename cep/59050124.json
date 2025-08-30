@@ -5,5 +5,7 @@
   "bairro": "Quintas",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-5.8610676",
+  "longitude": "-35.3612065"
 }

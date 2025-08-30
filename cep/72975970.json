@@ -1,9 +1,11 @@
 {
   "cep": "72975970",
   "logradouro": "Avenida São Paulo Quadra 23 Lote 10 Loja 3",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cidade dos Pirineus",
   "localidade": "Cocalzinho de Goiás",
   "uf": "GO",
-  "ibge": "5205513"
+  "ibge": "5205513",
+  "latitude": "-23.5505199",
+  "longitude": "-46.6333094"
 }

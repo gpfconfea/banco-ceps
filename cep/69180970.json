@@ -1,9 +1,11 @@
 {
   "cep": "69180970",
   "logradouro": "Avenida Presidente Castelo Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Urucurituba",
   "uf": "AM",
-  "ibge": "1304401"
+  "ibge": "1304401",
+  "latitude": "-3.1325468",
+  "longitude": "-58.1331189"
 }

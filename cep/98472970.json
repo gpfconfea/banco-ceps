@@ -1,9 +1,11 @@
 {
   "cep": "98472970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Luiz",
   "localidade": "Planalto",
   "uf": "RS",
-  "ibge": "4314704"
+  "ibge": "4314704",
+  "latitude": "-17.6520124",
+  "longitude": "-43.3209979"
 }

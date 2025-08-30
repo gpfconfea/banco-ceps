@@ -5,5 +5,7 @@
   "bairro": "Jardim Vila Formosa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4780024",
+  "longitude": "-47.4782343"
 }

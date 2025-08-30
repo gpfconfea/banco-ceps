@@ -1,9 +1,11 @@
 {
   "cep": "58760971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Olho D'Água",
   "uf": "PB",
-  "ibge": "2510402"
+  "ibge": "2510402",
+  "latitude": "-2.4961368",
+  "longitude": "-44.2406137"
 }

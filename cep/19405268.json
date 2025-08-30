@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Watanabe",
   "localidade": "Presidente Venceslau",
   "uf": "SP",
-  "ibge": "3541505"
+  "ibge": "3541505",
+  "latitude": "-21.8816921",
+  "longitude": "-51.8275927"
 }

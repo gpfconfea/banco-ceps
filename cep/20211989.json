@@ -1,9 +1,11 @@
 {
   "cep": "20211989",
-  "logradouro": "Rua Afonso Cavalcanti 22 Térreo Locker Correios",
+  "logradouro": "Rua Afonso Cavalcanti 22 Térreo",
   "complemento": "",
   "bairro": "Cidade Nova",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9096782",
+  "longitude": "-43.2028723"
 }

@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Marechal Cândido Rondon",
   "uf": "PR",
-  "ibge": "4114609"
+  "ibge": "4114609",
+  "latitude": "-24.5673498",
+  "longitude": "-53.9705891"
 }

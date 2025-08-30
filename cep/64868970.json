@@ -1,9 +1,11 @@
 {
   "cep": "64868970",
   "logradouro": "Praça Agenor Dias Pinheiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Baixa Grande do Ribeiro",
   "uf": "PI",
-  "ibge": "2201150"
+  "ibge": "2201150",
+  "latitude": "-7.8621035",
+  "longitude": "-45.2093518"
 }

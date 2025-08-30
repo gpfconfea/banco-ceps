@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Reserva dos Lagos",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-23.026543",
+  "longitude": "-45.573042"
 }

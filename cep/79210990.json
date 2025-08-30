@@ -1,9 +1,11 @@
 {
   "cep": "79210990",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Anastácio",
   "uf": "MS",
-  "ibge": "5000708"
+  "ibge": "5000708",
+  "latitude": "-20.5357765",
+  "longitude": "-56.897951"
 }

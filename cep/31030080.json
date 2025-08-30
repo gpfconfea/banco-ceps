@@ -5,5 +5,7 @@
   "bairro": "Sagrada Família",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9113359",
+  "longitude": "-43.9208918"
 }

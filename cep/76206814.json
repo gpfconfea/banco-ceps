@@ -5,5 +5,7 @@
   "bairro": "Jardim Arco Íris",
   "localidade": "Iporá",
   "uf": "GO",
-  "ibge": "5210208"
+  "ibge": "5210208",
+  "latitude": "-16.4193015",
+  "longitude": "-51.116679"
 }

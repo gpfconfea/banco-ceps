@@ -6,5 +6,7 @@
   "bairro": "Vale Verde",
   "localidade": "Carandaí",
   "uf": "MG",
-  "ibge": "3113206"
+  "ibge": "3113206",
+  "latitude": "-20.9431615",
+  "longitude": "-43.8119039"
 }

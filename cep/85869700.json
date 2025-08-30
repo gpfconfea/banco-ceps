@@ -6,5 +6,7 @@
   "bairro": "Lancaster",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.4898801",
+  "longitude": "-54.5457603"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "85570971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João",
   "localidade": "São João",
   "uf": "PR",
-  "ibge": "4124806"
+  "ibge": "4124806",
+  "latitude": "-1.3695905",
+  "longitude": "-48.365599"
 }

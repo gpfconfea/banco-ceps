@@ -5,5 +5,7 @@
   "bairro": "Betaras",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.3133048",
+  "longitude": "-49.2997838"
 }

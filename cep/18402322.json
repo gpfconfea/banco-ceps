@@ -5,5 +5,7 @@
   "bairro": "Parque Planalto",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-22.7878629",
+  "longitude": "-45.1588507"
 }

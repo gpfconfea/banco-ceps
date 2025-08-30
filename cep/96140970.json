@@ -1,9 +1,11 @@
 {
   "cep": "96140970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cascata",
   "localidade": "Pelotas",
   "uf": "RS",
-  "ibge": "4314407"
+  "ibge": "4314407",
+  "latitude": "-31.5997489",
+  "longitude": "-52.5105224"
 }

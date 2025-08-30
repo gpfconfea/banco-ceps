@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rebouças",
   "uf": "PR",
-  "ibge": "4121505"
+  "ibge": "4121505",
+  "latitude": "-25.6216204",
+  "longitude": "-50.6961377"
 }

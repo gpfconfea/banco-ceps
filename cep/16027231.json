@@ -5,5 +5,7 @@
   "bairro": "Avenida",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-21.2068162",
+  "longitude": "-50.4801273"
 }

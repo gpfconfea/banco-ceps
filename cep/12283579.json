@@ -5,5 +5,7 @@
   "bairro": "Jardim Palmeiras",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.0969842",
+  "longitude": "-45.6668587"
 }

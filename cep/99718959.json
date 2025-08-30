@@ -1,9 +1,11 @@
 {
   "cep": "99718959",
   "logradouro": "Rua Gaspar Martins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Paulo Bento",
   "uf": "RS",
-  "ibge": "4314134"
+  "ibge": "4314134",
+  "latitude": "-27.7023046",
+  "longitude": "-52.4221648"
 }

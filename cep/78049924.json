@@ -1,9 +1,11 @@
 {
   "cep": "78049924",
   "logradouro": "Rua Seis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro Político Administrativo",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-15.5453816",
+  "longitude": "-56.0749328"
 }
