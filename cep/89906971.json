@@ -1,9 +1,11 @@
 {
   "cep": "89906971",
   "logradouro": "Praça 7 de Setembro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Paraíso",
   "uf": "SC",
-  "ibge": "4212239"
+  "ibge": "4212239",
+  "latitude": "-27.6457168",
+  "longitude": "-48.6670121"
 }

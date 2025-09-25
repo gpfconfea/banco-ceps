@@ -5,5 +5,7 @@
   "bairro": "Jardim Alzira",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-23.67015",
+  "longitude": "-46.73214"
 }

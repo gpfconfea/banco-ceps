@@ -1,9 +1,11 @@
 {
   "cep": "24865970",
   "logradouro": "Alameda do Santíssimo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Morada do Sol I (Itambi)",
   "localidade": "Itaboraí",
   "uf": "RJ",
-  "ibge": "3301900"
+  "ibge": "3301900",
+  "latitude": "-21.6589635",
+  "longitude": "-42.3446972"
 }

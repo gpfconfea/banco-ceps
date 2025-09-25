@@ -5,5 +5,7 @@
   "bairro": "Vila Bandeirantes",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.5927478",
+  "longitude": "-46.7370018"
 }

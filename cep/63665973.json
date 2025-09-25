@@ -1,9 +1,11 @@
 {
   "cep": "63665973",
   "logradouro": "Rua José Fernandes Barros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Marruás",
   "localidade": "Tauá",
   "uf": "CE",
-  "ibge": "2313302"
+  "ibge": "2313302",
+  "latitude": "-6.0076879",
+  "longitude": "-40.2935452"
 }

@@ -6,5 +6,7 @@
   "bairro": "Jardim Bella Vitta",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.67931",
+  "longitude": "-49.25645"
 }

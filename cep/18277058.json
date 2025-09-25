@@ -5,5 +5,7 @@
   "bairro": "Village Engenheiro Campos",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.350172",
+  "longitude": "-47.8648419"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58734959",
   "logradouro": "Rua Nossa Senhora da Conceição",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Passagem",
   "uf": "PB",
-  "ibge": "2510709"
+  "ibge": "2510709",
+  "latitude": "-7.13713",
+  "longitude": "-37.04925"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Cearense",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "latitude": "-19.8786471",
+  "longitude": "-43.9314237"
 }

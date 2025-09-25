@@ -5,5 +5,7 @@
   "bairro": "Parque Alvorada",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-23.3464898",
+  "longitude": "-47.8668252"
 }

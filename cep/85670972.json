@@ -1,9 +1,11 @@
 {
   "cep": "85670972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Linha Boeira",
   "localidade": "Salto do Lontra",
   "uf": "PR",
-  "ibge": "4123006"
+  "ibge": "4123006",
+  "latitude": "-25.2147541",
+  "longitude": "-50.9660161"
 }

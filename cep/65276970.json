@@ -1,9 +1,11 @@
 {
   "cep": "65276970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Turilândia",
   "uf": "MA",
-  "ibge": "2112456"
+  "ibge": "2112456",
+  "latitude": "-2.2294698",
+  "longitude": "-45.3037136"
 }

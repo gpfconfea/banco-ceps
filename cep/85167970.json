@@ -1,9 +1,11 @@
 {
   "cep": "85167970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pinhalzinho",
   "localidade": "Goioxim",
   "uf": "PR",
-  "ibge": "4108650"
+  "ibge": "4108650",
+  "latitude": "-25.1005188",
+  "longitude": "-52.254972"
 }

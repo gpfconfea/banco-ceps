@@ -1,9 +1,11 @@
 {
   "cep": "11925971",
   "logradouro": "Rua Rozendo de Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pedrinhas",
   "localidade": "Ilha Comprida",
   "uf": "SP",
-  "ibge": "3520426"
+  "ibge": "3520426",
+  "latitude": "-24.8932466",
+  "longitude": "-47.7975636"
 }

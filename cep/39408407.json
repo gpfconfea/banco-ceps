@@ -5,5 +5,7 @@
   "bairro": "Jardim Liberdade",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-20.9199249",
+  "longitude": "-44.2390976"
 }

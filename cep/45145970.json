@@ -1,9 +1,11 @@
 {
   "cep": "45145970",
   "logradouro": "Praça Cassiano Ferraz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Catolezinho",
   "localidade": "Itambé",
   "uf": "BA",
-  "ibge": "2915809"
+  "ibge": "2915809",
+  "latitude": "-15.251599",
+  "longitude": "-40.6239038"
 }

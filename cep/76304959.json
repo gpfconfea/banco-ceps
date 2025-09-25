@@ -1,9 +1,11 @@
 {
   "cep": "76304959",
   "logradouro": "Avenida Ceres Quadra 6 Lote 4",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Ipiranga de Goiás",
   "uf": "GO",
-  "ibge": "5210158"
+  "ibge": "5210158",
+  "latitude": "-15.17372",
+  "longitude": "-49.6712"
 }

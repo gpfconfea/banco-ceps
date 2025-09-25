@@ -1,9 +1,11 @@
 {
   "cep": "55250991",
   "logradouro": "Rua Principal - Santa Clara",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Sanharó",
   "uf": "PE",
-  "ibge": "2612406"
+  "ibge": "2612406",
+  "latitude": "-8.0445",
+  "longitude": "-34.8877"
 }

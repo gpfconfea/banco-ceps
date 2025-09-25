@@ -5,5 +5,7 @@
   "bairro": "S-11",
   "localidade": "Vilhena",
   "uf": "RO",
-  "ibge": "1100304"
+  "ibge": "1100304",
+  "latitude": "-23.8828292",
+  "longitude": "-46.7379715"
 }

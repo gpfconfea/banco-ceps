@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Areias",
   "uf": "SP",
-  "ibge": "3503505"
+  "ibge": "3503505",
+  "latitude": "-22.58829",
+  "longitude": "-44.69564"
 }

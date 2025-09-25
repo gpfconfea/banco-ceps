@@ -1,9 +1,11 @@
 {
   "cep": "29772990",
   "logradouro": "Avenida Maurílio Antônio de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Mantenópolis",
   "uf": "ES",
-  "ibge": "3203304"
+  "ibge": "3203304",
+  "latitude": "-18.8849",
+  "longitude": "-41.01552"
 }

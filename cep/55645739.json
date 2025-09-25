@@ -5,5 +5,7 @@
   "bairro": "Santana",
   "localidade": "Gravatá",
   "uf": "PE",
-  "ibge": "2606408"
+  "ibge": "2606408",
+  "latitude": "-20.4663209",
+  "longitude": "-45.962032"
 }

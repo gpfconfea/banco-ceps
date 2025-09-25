@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-22.54889",
+  "longitude": "-47.91455"
 }

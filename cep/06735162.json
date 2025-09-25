@@ -6,5 +6,7 @@
   "bairro": "Jardim Portão Vermelho",
   "localidade": "Vargem Grande Paulista",
   "uf": "SP",
-  "ibge": "3556453"
+  "ibge": "3556453",
+  "latitude": "-23.60732",
+  "longitude": "-46.99703"
 }

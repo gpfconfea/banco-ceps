@@ -1,9 +1,11 @@
 {
   "cep": "74921959",
   "logradouro": "Avenida Bela Vista Quadra 15 Lote 22",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Trindade",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.74965",
+  "longitude": "-49.20331"
 }

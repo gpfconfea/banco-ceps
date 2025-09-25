@@ -1,9 +1,11 @@
 {
   "cep": "88820996",
   "logradouro": "Antônio Sebastião Lemos (Mercado Viana)",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Içara",
   "uf": "SC",
-  "ibge": "4207007"
+  "ibge": "4207007",
+  "latitude": "-28.71384",
+  "longitude": "-49.29983"
 }

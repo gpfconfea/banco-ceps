@@ -1,9 +1,11 @@
 {
   "cep": "36230971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bias Fortes",
   "uf": "MG",
-  "ibge": "3106804"
+  "ibge": "3106804",
+  "latitude": "-19.953847",
+  "longitude": "-43.9442564"
 }

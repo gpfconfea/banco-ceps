@@ -5,5 +5,7 @@
   "bairro": "Bela Vista do Piquiri",
   "localidade": "Campina da Lagoa",
   "uf": "PR",
-  "ibge": "4103909"
+  "ibge": "4103909",
+  "latitude": "-24.6831",
+  "longitude": "-52.8818"
 }

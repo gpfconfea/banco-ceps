@@ -5,5 +5,7 @@
   "bairro": "Estrela do Oriente",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9678952",
+  "longitude": "-43.9854227"
 }

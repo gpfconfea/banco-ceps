@@ -5,5 +5,7 @@
   "bairro": "Jardim Barra de Jangadas",
   "localidade": "Peruíbe",
   "uf": "SP",
-  "ibge": "3537602"
+  "ibge": "3537602",
+  "latitude": "-24.3079",
+  "longitude": "-46.99556"
 }

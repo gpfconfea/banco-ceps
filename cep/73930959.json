@@ -1,9 +1,11 @@
 {
   "cep": "73930959",
   "logradouro": "Avenida Campelo de Miranda Quadra 2 Lote 14A",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Simolândia",
   "uf": "GO",
-  "ibge": "5220686"
+  "ibge": "5220686",
+  "latitude": "-14.47555",
+  "longitude": "-46.48535"
 }

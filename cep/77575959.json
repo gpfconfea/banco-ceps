@@ -1,9 +1,11 @@
 {
   "cep": "77575959",
   "logradouro": "Avenida Principal Quadra 2 Lote 1",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Chapada de Areia",
   "uf": "TO",
-  "ibge": "1704600"
+  "ibge": "1704600",
+  "latitude": "-10.1404",
+  "longitude": "-49.17473"
 }

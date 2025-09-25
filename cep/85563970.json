@@ -1,9 +1,11 @@
 {
   "cep": "85563970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Luiz",
   "localidade": "Chopinzinho",
   "uf": "PR",
-  "ibge": "4105409"
+  "ibge": "4105409",
+  "latitude": "-25.8520285",
+  "longitude": "-52.5177958"
 }

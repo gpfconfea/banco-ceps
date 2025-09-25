@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial III",
   "localidade": "Itápolis",
   "uf": "SP",
-  "ibge": "3522703"
+  "ibge": "3522703",
+  "latitude": "-22.28946",
+  "longitude": "-49.10221"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "46370970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guirapa",
   "localidade": "Pindaí",
   "uf": "BA",
-  "ibge": "2924504"
+  "ibge": "2924504",
+  "latitude": "-12.9116486",
+  "longitude": "-38.3532925"
 }

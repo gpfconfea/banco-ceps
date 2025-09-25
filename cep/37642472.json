@@ -6,5 +6,7 @@
   "bairro": "Cachoeira III",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.85294",
+  "longitude": "-46.33938"
 }

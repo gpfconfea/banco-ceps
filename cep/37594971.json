@@ -1,9 +1,11 @@
 {
   "cep": "37594971",
   "logradouro": "Rua Capitão Vidal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sapucaí",
   "localidade": "Jacutinga",
   "uf": "MG",
-  "ibge": "3134905"
+  "ibge": "3134905",
+  "latitude": "-22.3191636",
+  "longitude": "-46.6939631"
 }

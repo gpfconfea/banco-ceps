@@ -5,5 +5,7 @@
   "bairro": "Chácara Santa Maria",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-23.79573",
+  "longitude": "-46.7404"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Antônio II",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5085511",
+  "longitude": "-46.527288"
 }

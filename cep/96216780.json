@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Jardim do Sol",
   "localidade": "Rio Grande",
   "uf": "RS",
-  "ibge": "4315602"
+  "ibge": "4315602",
+  "latitude": "-30.86691",
+  "longitude": "-51.81134"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "65180959",
   "logradouro": "Rua Otaviano Ribeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Humberto de Campos",
   "uf": "MA",
-  "ibge": "2105005"
+  "ibge": "2105005",
+  "latitude": "-2.59708",
+  "longitude": "-43.46238"
 }

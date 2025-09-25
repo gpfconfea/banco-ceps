@@ -1,9 +1,11 @@
 {
   "cep": "62108974",
   "logradouro": "Rua Onofre Gomes de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jordão",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "latitude": "-3.685678",
+  "longitude": "-40.356777"
 }

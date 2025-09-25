@@ -5,5 +5,7 @@
   "bairro": "Tucum",
   "localidade": "Cariacica",
   "uf": "ES",
-  "ibge": "3201308"
+  "ibge": "3201308",
+  "latitude": "-24.9405086",
+  "longitude": "-53.4278545"
 }

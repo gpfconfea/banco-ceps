@@ -5,5 +5,7 @@
   "bairro": "Machado",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-10.9776612",
+  "longitude": "-42.3557145"
 }

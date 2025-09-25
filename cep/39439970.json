@@ -1,9 +1,11 @@
 {
   "cep": "39439970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Umbuzeiro",
   "localidade": "Lontra",
   "uf": "MG",
-  "ibge": "3138658"
+  "ibge": "3138658",
+  "latitude": "-20.09083",
+  "longitude": "-43.0643"
 }

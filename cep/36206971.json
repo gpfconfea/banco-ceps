@@ -1,9 +1,11 @@
 {
   "cep": "36206971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Costas da Mantiqueira",
   "localidade": "Barbacena",
   "uf": "MG",
-  "ibge": "3105608"
+  "ibge": "3105608",
+  "latitude": "-19.953847",
+  "longitude": "-43.9442564"
 }

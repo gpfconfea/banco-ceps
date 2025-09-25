@@ -5,5 +5,7 @@
   "bairro": "Vila Cicma",
   "localidade": "Adamantina",
   "uf": "SP",
-  "ibge": "3500105"
+  "ibge": "3500105",
+  "latitude": "-21.69526",
+  "longitude": "-51.06816"
 }

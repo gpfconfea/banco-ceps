@@ -1,9 +1,11 @@
 {
   "cep": "58450974",
   "logradouro": "Distrito Taboada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Boqueirão",
   "uf": "PB",
-  "ibge": "2502508"
+  "ibge": "2502508",
+  "latitude": "-7.4819416",
+  "longitude": "-36.135257"
 }

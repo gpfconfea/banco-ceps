@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bocaina de Minas",
   "uf": "MG",
-  "ibge": "3107208"
+  "ibge": "3107208",
+  "latitude": "-22.25249",
+  "longitude": "-44.49424"
 }

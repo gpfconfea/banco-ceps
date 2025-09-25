@@ -1,9 +1,11 @@
 {
   "cep": "48747971",
   "logradouro": "Travessa Hamilton Rios",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João",
   "localidade": "Conceição do Coité",
   "uf": "BA",
-  "ibge": "2908408"
+  "ibge": "2908408",
+  "latitude": "-11.5603976",
+  "longitude": "-39.2811776"
 }

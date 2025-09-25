@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaraciama",
   "uf": "MG",
-  "ibge": "3128253"
+  "ibge": "3128253",
+  "latitude": "-20.793",
+  "longitude": "-43.93033"
 }

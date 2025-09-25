@@ -1,9 +1,11 @@
 {
   "cep": "58480973",
   "logradouro": "Sítio Ribeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cabaceiras",
   "uf": "PB",
-  "ibge": "2503100"
+  "ibge": "2503100",
+  "latitude": "-7.416667",
+  "longitude": "-36.366667"
 }

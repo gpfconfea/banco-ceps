@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibicoara",
   "uf": "BA",
-  "ibge": "2912202"
+  "ibge": "2912202",
+  "latitude": "-13.40837",
+  "longitude": "-41.28394"
 }

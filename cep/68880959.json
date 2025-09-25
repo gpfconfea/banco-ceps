@@ -1,9 +1,11 @@
 {
   "cep": "68880959",
   "logradouro": "Travessa São Lazaro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Chaves",
   "uf": "PA",
-  "ibge": "1502509"
+  "ibge": "1502509",
+  "latitude": "-3.78614",
+  "longitude": "-49.66484"
 }

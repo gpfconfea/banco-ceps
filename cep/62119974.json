@@ -1,9 +1,11 @@
 {
   "cep": "62119974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Salgado dos Mendes",
   "localidade": "Forquilha",
   "uf": "CE",
-  "ibge": "2304350"
+  "ibge": "2304350",
+  "latitude": "-3.9815079",
+  "longitude": "-38.614719"
 }

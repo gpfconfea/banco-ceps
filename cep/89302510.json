@@ -5,5 +5,7 @@
   "bairro": "Restinga",
   "localidade": "Mafra",
   "uf": "SC",
-  "ibge": "4210100"
+  "ibge": "4210100",
+  "latitude": "-26.1181",
+  "longitude": "-49.83441"
 }

@@ -5,5 +5,7 @@
   "bairro": "Ressaca",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.69125",
+  "longitude": "-46.92784"
 }

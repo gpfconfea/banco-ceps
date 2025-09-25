@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Belo Horizonte",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-25.3768129",
+  "longitude": "-49.325571"
 }

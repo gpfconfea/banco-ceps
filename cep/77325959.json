@@ -1,9 +1,11 @@
 {
   "cep": "77325959",
   "logradouro": "Rua Baltazar Izidoro Trigueiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Aurora do Tocantins",
   "uf": "TO",
-  "ibge": "1702703"
+  "ibge": "1702703",
+  "latitude": "-12.71383",
+  "longitude": "-46.40921"
 }

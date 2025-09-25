@@ -1,9 +1,11 @@
 {
   "cep": "28820975",
   "logradouro": "Praça Elvira Alves do Nascimento",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boqueirão",
   "localidade": "Silva Jardim",
   "uf": "RJ",
-  "ibge": "3305604"
+  "ibge": "3305604",
+  "latitude": "-22.6137348",
+  "longitude": "-42.4075514"
 }

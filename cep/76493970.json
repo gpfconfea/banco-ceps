@@ -1,9 +1,11 @@
 {
   "cep": "76493970",
   "logradouro": "Praça Adolfo Ferreira de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Amaralina",
   "uf": "GO",
-  "ibge": "5200829"
+  "ibge": "5200829",
+  "latitude": "-13.8761217",
+  "longitude": "-49.4872858"
 }

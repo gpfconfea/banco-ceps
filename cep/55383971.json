@@ -1,9 +1,11 @@
 {
   "cep": "55383971",
   "logradouro": "Praça Principal da Vila de Cabanas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito de Cabanas",
   "localidade": "Cachoeirinha",
   "uf": "PE",
-  "ibge": "2603108"
+  "ibge": "2603108",
+  "latitude": "-8.4106486",
+  "longitude": "-36.3393248"
 }

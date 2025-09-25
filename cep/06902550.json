@@ -5,5 +5,7 @@
   "bairro": "Bonanza",
   "localidade": "Embu-Guaçu",
   "uf": "SP",
-  "ibge": "3515103"
+  "ibge": "3515103",
+  "latitude": "-23.85866",
+  "longitude": "-46.796"
 }

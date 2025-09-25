@@ -1,9 +1,11 @@
 {
   "cep": "29723980",
   "logradouro": "Rua Andréia Morello",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Morello",
   "localidade": "Governador Lindenberg",
   "uf": "ES",
-  "ibge": "3202256"
+  "ibge": "3202256",
+  "latitude": "-19.2519653",
+  "longitude": "-40.4624541"
 }

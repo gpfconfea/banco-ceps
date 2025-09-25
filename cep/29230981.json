@@ -1,9 +1,11 @@
 {
   "cep": "29230981",
   "logradouro": "Rua Laudelino Neves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ubú",
   "localidade": "Anchieta",
   "uf": "ES",
-  "ibge": "3200409"
+  "ibge": "3200409",
+  "latitude": "-20.7797503",
+  "longitude": "-49.7056297"
 }

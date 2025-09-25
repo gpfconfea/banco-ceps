@@ -6,5 +6,7 @@
   "bairro": "João Paulo II",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.17242",
+  "longitude": "-34.88447"
 }

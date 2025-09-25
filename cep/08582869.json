@@ -6,5 +6,7 @@
   "bairro": "Parque Viviane II",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.45524",
+  "longitude": "-46.35999"
 }

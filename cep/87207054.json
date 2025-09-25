@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "42.316274",
+  "longitude": "-71.0342146"
 }

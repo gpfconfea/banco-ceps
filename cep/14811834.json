@@ -5,5 +5,7 @@
   "bairro": "Jardim Ipê Rosa",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.80036",
+  "longitude": "-48.15548"
 }

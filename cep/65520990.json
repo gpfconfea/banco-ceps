@@ -1,9 +1,11 @@
 {
   "cep": "65520990",
   "logradouro": "Rua Cândido Mendes (Ponto Comercial)",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Brejo",
   "uf": "MA",
-  "ibge": "2102101"
+  "ibge": "2102101",
+  "latitude": "-3.68715",
+  "longitude": "-42.75022"
 }

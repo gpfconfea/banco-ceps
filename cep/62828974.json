@@ -1,9 +1,11 @@
 {
   "cep": "62828974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Saquinho",
   "localidade": "Jaguaruana",
   "uf": "CE",
-  "ibge": "2307007"
+  "ibge": "2307007",
+  "latitude": "-4.8100304",
+  "longitude": "-37.7511333"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62112990",
   "logradouro": "Rua do Caracará",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Sobral",
   "uf": "CE",
-  "ibge": "2312908"
+  "ibge": "2312908",
+  "latitude": "-3.71608",
+  "longitude": "-40.01771"
 }

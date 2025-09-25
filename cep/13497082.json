@@ -5,5 +5,7 @@
   "bairro": "Residencial Aquárius",
   "localidade": "Iracemápolis",
   "uf": "SP",
-  "ibge": "3521408"
+  "ibge": "3521408",
+  "latitude": "-22.58889",
+  "longitude": "-47.50593"
 }

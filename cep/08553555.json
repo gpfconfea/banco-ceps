@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Helena",
   "localidade": "Poá",
   "uf": "SP",
-  "ibge": "3539806"
+  "ibge": "3539806",
+  "latitude": "-20.54148",
+  "longitude": "-47.43029"
 }

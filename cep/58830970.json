@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jericó",
   "uf": "PB",
-  "ibge": "2507408"
+  "ibge": "2507408",
+  "latitude": "-6.5505741",
+  "longitude": "-37.8038291"
 }

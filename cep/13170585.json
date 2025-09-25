@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Sumaré",
   "uf": "SP",
-  "ibge": "3552403"
+  "ibge": "3552403",
+  "latitude": "-22.818694",
+  "longitude": "-47.271937"
 }

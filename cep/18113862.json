@@ -5,5 +5,7 @@
   "bairro": "Morros",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.5040148",
+  "longitude": "-47.4582823"
 }

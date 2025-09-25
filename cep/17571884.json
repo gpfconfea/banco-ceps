@@ -5,5 +5,7 @@
   "bairro": "Estância Oralina",
   "localidade": "Oriente",
   "uf": "SP",
-  "ibge": "3534104"
+  "ibge": "3534104",
+  "latitude": "-23.43077",
+  "longitude": "-46.85147"
 }

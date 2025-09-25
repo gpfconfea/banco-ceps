@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quatiguá",
   "uf": "PR",
-  "ibge": "4120705"
+  "ibge": "4120705",
+  "latitude": "-23.56937",
+  "longitude": "-49.91414"
 }

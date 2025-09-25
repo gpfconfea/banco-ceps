@@ -5,5 +5,7 @@
   "bairro": "Jardim da Luz",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "latitude": "-23.6882385",
+  "longitude": "-46.8163251"
 }

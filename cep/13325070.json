@@ -5,5 +5,7 @@
   "bairro": "Reserva Central Parque",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-21.72966",
+  "longitude": "-48.19285"
 }

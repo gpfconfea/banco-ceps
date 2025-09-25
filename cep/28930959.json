@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arraial do Cabo",
   "uf": "RJ",
-  "ibge": "3300258"
+  "ibge": "3300258",
+  "latitude": "-22.96829",
+  "longitude": "-42.02821"
 }

@@ -6,5 +6,7 @@
   "bairro": "Residencial dos Lagos",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.86036",
+  "longitude": "-46.32441"
 }

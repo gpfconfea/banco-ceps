@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-23.4909894",
+  "longitude": "-46.3852196"
 }

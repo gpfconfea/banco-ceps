@@ -5,5 +5,7 @@
   "bairro": "Nova América",
   "localidade": "Aguaí",
   "uf": "SP",
-  "ibge": "3500303"
+  "ibge": "3500303",
+  "latitude": "-22.06529",
+  "longitude": "-46.96629"
 }

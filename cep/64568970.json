@@ -1,9 +1,11 @@
 {
   "cep": "64568970",
   "logradouro": "Praça Doutor Raimundo Maia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Vera Mendes",
   "uf": "PI",
-  "ibge": "2211506"
+  "ibge": "2211506",
+  "latitude": "-7.6045279",
+  "longitude": "-41.4822346"
 }

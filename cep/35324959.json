@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Entre Folhas",
   "uf": "MG",
-  "ibge": "3123858"
+  "ibge": "3123858",
+  "latitude": "-19.62635",
+  "longitude": "-42.23126"
 }

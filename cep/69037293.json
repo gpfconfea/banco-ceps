@@ -6,5 +6,7 @@
   "bairro": "Ponta Negra",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-3.07591",
+  "longitude": "-60.08657"
 }

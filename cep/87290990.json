@@ -1,9 +1,11 @@
 {
   "cep": "87290990",
   "logradouro": "Rua Principal - Escola Dom Pedro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Luiziana",
   "uf": "PR",
-  "ibge": "4113734"
+  "ibge": "4113734",
+  "latitude": "-25.49878",
+  "longitude": "-49.20343"
 }

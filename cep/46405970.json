@@ -1,9 +1,11 @@
 {
   "cep": "46405970",
   "logradouro": "Praça Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Brejinho das Ametistas",
   "localidade": "Caetité",
   "uf": "BA",
-  "ibge": "2905206"
+  "ibge": "2905206",
+  "latitude": "-10.2601704",
+  "longitude": "-40.1947585"
 }

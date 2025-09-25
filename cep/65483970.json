@@ -1,9 +1,11 @@
 {
   "cep": "65483970",
   "logradouro": "Estrada do Bonfim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bonfim do Arari",
   "localidade": "Arari",
   "uf": "MA",
-  "ibge": "2101004"
+  "ibge": "2101004",
+  "latitude": "-3.4139031",
+  "longitude": "-44.7862938"
 }

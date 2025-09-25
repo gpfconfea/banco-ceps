@@ -1,9 +1,11 @@
 {
   "cep": "76395959",
   "logradouro": "Rua Laurentino Martins Rodrigues Quadra 4 Lote 3 A",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Santa Rita do Novo Destino",
   "uf": "GO",
-  "ibge": "5219456"
+  "ibge": "5219456",
+  "latitude": "-15.13597",
+  "longitude": "-49.11827"
 }

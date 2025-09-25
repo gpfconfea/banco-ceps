@@ -5,5 +5,7 @@
   "bairro": "Residencial Kubitschek",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-5.9043959",
+  "longitude": "-44.297965"
 }

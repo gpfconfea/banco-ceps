@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boa Hora",
   "uf": "PI",
-  "ibge": "2201770"
+  "ibge": "2201770",
+  "latitude": "-4.414424",
+  "longitude": "-42.136123"
 }

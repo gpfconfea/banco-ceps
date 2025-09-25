@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pirenópolis",
   "uf": "GO",
-  "ibge": "5217302"
+  "ibge": "5217302",
+  "latitude": "-15.85497",
+  "longitude": "-48.96164"
 }

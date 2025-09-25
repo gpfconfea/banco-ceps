@@ -1,9 +1,11 @@
 {
   "cep": "58303900",
   "logradouro": "Área Rural",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Área Rural de Santa Rita",
   "localidade": "Santa Rita",
   "uf": "PB",
-  "ibge": "2513703"
+  "ibge": "2513703",
+  "latitude": "-7.12157",
+  "longitude": "-34.97794"
 }

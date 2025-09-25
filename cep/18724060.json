@@ -6,5 +6,7 @@
   "bairro": "Vila Maria",
   "localidade": "Paranapanema",
   "uf": "SP",
-  "ibge": "3535804"
+  "ibge": "3535804",
+  "latitude": "-23.39075",
+  "longitude": "-48.72569"
 }

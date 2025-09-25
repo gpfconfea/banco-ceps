@@ -5,5 +5,7 @@
   "bairro": "Villa Real",
   "localidade": "Sabará",
   "uf": "MG",
-  "ibge": "3156700"
+  "ibge": "3156700",
+  "latitude": "-16.71238",
+  "longitude": "-43.81999"
 }

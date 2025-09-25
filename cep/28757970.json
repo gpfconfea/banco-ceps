@@ -1,9 +1,11 @@
 {
   "cep": "28757970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Doutor Elias",
   "localidade": "Trajano de Moraes",
   "uf": "RJ",
-  "ibge": "3305901"
+  "ibge": "3305901",
+  "latitude": "-22.02797",
+  "longitude": "-42.0059019"
 }

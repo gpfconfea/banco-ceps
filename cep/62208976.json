@@ -1,9 +1,11 @@
 {
   "cep": "62208976",
   "logradouro": "Rua Ismael S. de Farias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Major Simplício",
   "localidade": "Nova Russas",
   "uf": "CE",
-  "ibge": "2309300"
+  "ibge": "2309300",
+  "latitude": "-4.7053689",
+  "longitude": "-40.5654726"
 }

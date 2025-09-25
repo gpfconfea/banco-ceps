@@ -1,9 +1,11 @@
 {
   "cep": "12946901",
   "logradouro": "Rua Salvador Hernandes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Floresta",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.14998",
+  "longitude": "-46.55112"
 }

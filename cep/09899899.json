@@ -5,5 +5,7 @@
   "bairro": "Área Rural de São Bernardo do Campo",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "latitude": "-23.6640783",
+  "longitude": "-46.5822289"
 }

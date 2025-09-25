@@ -5,5 +5,7 @@
   "bairro": "Novo Silvestre",
   "localidade": "Viçosa",
   "uf": "MG",
-  "ibge": "3171303"
+  "ibge": "3171303",
+  "latitude": "-20.73604",
+  "longitude": "-42.86115"
 }

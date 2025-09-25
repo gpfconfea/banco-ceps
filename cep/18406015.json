@@ -5,5 +5,7 @@
   "bairro": "Central Park",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-21.203428",
+  "longitude": "-47.8247969"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "latitude": "-29.37852",
+  "longitude": "-50.87643"
 }

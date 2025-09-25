@@ -1,9 +1,11 @@
 {
   "cep": "77375959",
   "logradouro": "Avenida Alice Aires",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Santa Rosa do Tocantins",
   "uf": "TO",
-  "ibge": "1718907"
+  "ibge": "1718907",
+  "latitude": "-11.44973",
+  "longitude": "-48.11808"
 }

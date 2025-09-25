@@ -5,5 +5,7 @@
   "bairro": "Loteamento Villagio Passaredo",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.5395611",
+  "longitude": "-46.6197478"
 }

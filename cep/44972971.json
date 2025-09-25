@@ -1,9 +1,11 @@
 {
   "cep": "44972971",
   "logradouro": "Rua Mário Almeida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa Grande",
   "localidade": "Ibipeba",
   "uf": "BA",
-  "ibge": "2912400"
+  "ibge": "2912400",
+  "latitude": "-11.6116544",
+  "longitude": "-42.1046479"
 }

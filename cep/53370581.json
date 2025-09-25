@@ -5,5 +5,7 @@
   "bairro": "Ouro Preto",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-23.5421242",
+  "longitude": "-46.8241111"
 }

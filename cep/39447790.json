@@ -5,5 +5,7 @@
   "bairro": "Cidade Universitária",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-19.92647",
+  "longitude": "-44.08655"
 }

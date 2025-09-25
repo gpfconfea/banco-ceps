@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Ribeirão Bonito",
   "localidade": "Ribeirão Bonito",
   "uf": "SP",
-  "ibge": "3542909"
+  "ibge": "3542909",
+  "latitude": "-23.40298",
+  "longitude": "-49.2549"
 }

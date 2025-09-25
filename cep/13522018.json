@@ -6,5 +6,7 @@
   "bairro": "Santa Mônica",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "latitude": "-22.56188",
+  "longitude": "-47.89721"
 }

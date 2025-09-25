@@ -1,9 +1,11 @@
 {
   "cep": "86335990",
   "logradouro": "Praça Sesquicentenário",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jandinópolis",
   "localidade": "Leópolis",
   "uf": "PR",
-  "ibge": "4113403"
+  "ibge": "4113403",
+  "latitude": "-22.95748",
+  "longitude": "-50.66475"
 }

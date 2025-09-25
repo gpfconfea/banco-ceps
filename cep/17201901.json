@@ -1,9 +1,11 @@
 {
   "cep": "17201901",
   "logradouro": "Praça Barão do Rio Branco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-22.2968602",
+  "longitude": "-48.558653"
 }

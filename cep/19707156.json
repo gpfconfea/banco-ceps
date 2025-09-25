@@ -5,5 +5,7 @@
   "bairro": "Green Park",
   "localidade": "Paraguaçu Paulista",
   "uf": "SP",
-  "ibge": "3535507"
+  "ibge": "3535507",
+  "latitude": "-22.93052",
+  "longitude": "-46.5586"
 }

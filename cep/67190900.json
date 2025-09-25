@@ -1,9 +1,11 @@
 {
   "cep": "67190900",
   "logradouro": "Ilha Patauateua Chácara Barreiras",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ilha João Pilatos",
   "localidade": "Ananindeua",
   "uf": "PA",
-  "ibge": "1500800"
+  "ibge": "1500800",
+  "latitude": "-1.3735643",
+  "longitude": "-48.3938283"
 }

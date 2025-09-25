@@ -5,5 +5,7 @@
   "bairro": "Jardim São Lourenço",
   "localidade": "Andradina",
   "uf": "SP",
-  "ibge": "3502101"
+  "ibge": "3502101",
+  "latitude": "-20.90211",
+  "longitude": "-51.38247"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim do Triunfo",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.415284",
+  "longitude": "-46.4038689"
 }

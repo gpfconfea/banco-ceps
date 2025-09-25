@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Independência",
   "uf": "SP",
-  "ibge": "3533205"
+  "ibge": "3533205",
+  "latitude": "-21.10668",
+  "longitude": "-51.49016"
 }

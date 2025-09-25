@@ -1,9 +1,11 @@
 {
   "cep": "79424970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pontinha do Cocho",
   "localidade": "Camapuã",
   "uf": "MS",
-  "ibge": "5002605"
+  "ibge": "5002605",
+  "latitude": "-20.5567372",
+  "longitude": "-54.6000015"
 }

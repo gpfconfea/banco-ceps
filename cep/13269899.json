@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Morungaba",
   "localidade": "Morungaba",
   "uf": "SP",
-  "ibge": "3532009"
+  "ibge": "3532009",
+  "latitude": "-22.87482",
+  "longitude": "-46.79284"
 }

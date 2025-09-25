@@ -1,9 +1,11 @@
 {
   "cep": "59395973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Clara",
   "localidade": "Cerro Corá",
   "uf": "RN",
-  "ibge": "2402709"
+  "ibge": "2402709",
+  "latitude": "-5.67174",
+  "longitude": "-35.25883"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "45630971",
   "logradouro": "Rua Joaquim Nabuco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pimenteira",
   "localidade": "Itajuípe",
   "uf": "BA",
-  "ibge": "2915502"
+  "ibge": "2915502",
+  "latitude": "-14.67294",
+  "longitude": "-39.37552"
 }

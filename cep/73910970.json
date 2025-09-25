@@ -1,9 +1,11 @@
 {
   "cep": "73910970",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Guarani de Goiás",
   "uf": "GO",
-  "ibge": "5209408"
+  "ibge": "5209408",
+  "latitude": "-13.9401632",
+  "longitude": "-46.4804467"
 }

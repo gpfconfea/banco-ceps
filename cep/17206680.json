@@ -6,5 +6,7 @@
   "bairro": "Condomínio Vale do Sol",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-22.6655",
+  "longitude": "-47.37685"
 }

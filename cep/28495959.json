@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aperibé",
   "uf": "RJ",
-  "ibge": "3300159"
+  "ibge": "3300159",
+  "latitude": "-21.62583",
+  "longitude": "-42.10302"
 }

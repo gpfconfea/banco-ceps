@@ -5,5 +5,7 @@
   "bairro": "Vila Ester",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-21.6807434",
+  "longitude": "-49.7411556"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "47105970",
   "logradouro": "Vila de Igarité",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Igarité",
   "localidade": "Barra",
   "uf": "BA",
-  "ibge": "2902708"
+  "ibge": "2902708",
+  "latitude": "-11.6134388",
+  "longitude": "-43.3895351"
 }

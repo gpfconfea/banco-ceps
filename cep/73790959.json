@@ -1,9 +1,11 @@
 {
   "cep": "73790959",
   "logradouro": "Avenida Silvino Ferreira Quadra 12 Lote 95",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cavalcante",
   "uf": "GO",
-  "ibge": "5205307"
+  "ibge": "5205307",
+  "latitude": "-13.79721",
+  "longitude": "-47.45816"
 }

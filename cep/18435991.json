@@ -1,9 +1,11 @@
 {
   "cep": "18435991",
   "logradouro": "Rodovia Luiz José Squário, Barreiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Nova Campina",
   "uf": "SP",
-  "ibge": "3532827"
+  "ibge": "3532827",
+  "latitude": "-24.18587",
+  "longitude": "-48.94225"
 }

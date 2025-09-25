@@ -5,5 +5,7 @@
   "bairro": "Balneário de Carapebus",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-20.1803932",
+  "longitude": "-40.2111424"
 }

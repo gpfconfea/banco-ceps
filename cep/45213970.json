@@ -1,9 +1,11 @@
 {
   "cep": "45213970",
   "logradouro": "Praça Ananias Porto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Florestal",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-13.8610105",
+  "longitude": "-40.0825303"
 }

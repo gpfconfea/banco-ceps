@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Castelo",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-23.5942563",
+  "longitude": "-46.5639814"
 }

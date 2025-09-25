@@ -1,9 +1,11 @@
 {
   "cep": "86750990",
   "logradouro": "Rua Principal - Salao Comunitário",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Iguaraçu",
   "uf": "PR",
-  "ibge": "4110003"
+  "ibge": "4110003",
+  "latitude": "-25.49878",
+  "longitude": "-49.20343"
 }

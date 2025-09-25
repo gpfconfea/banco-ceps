@@ -1,9 +1,11 @@
 {
   "cep": "86963970",
   "logradouro": "Rua Joaquim Murtinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bourbonia",
   "localidade": "Barbosa Ferraz",
   "uf": "PR",
-  "ibge": "4102505"
+  "ibge": "4102505",
+  "latitude": "-24.1814802",
+  "longitude": "-52.2163923"
 }

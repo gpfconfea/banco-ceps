@@ -1,9 +1,11 @@
 {
   "cep": "12918991",
   "logradouro": "Estrada Municipal Paschoa Bonafatti Azziz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.97663",
+  "longitude": "-46.70381"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Isabel",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-23.31829",
+  "longitude": "-46.22771"
 }

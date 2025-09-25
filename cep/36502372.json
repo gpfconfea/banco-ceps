@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Monte Belo",
   "localidade": "Ubá",
   "uf": "MG",
-  "ibge": "3169901"
+  "ibge": "3169901",
+  "latitude": "-21.11779",
+  "longitude": "-42.92495"
 }

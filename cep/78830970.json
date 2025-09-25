@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dom Aquino",
   "uf": "MT",
-  "ibge": "5103601"
+  "ibge": "5103601",
+  "latitude": "-15.8117854",
+  "longitude": "-54.921487"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Campo Belo",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-16.672003",
+  "longitude": "-49.10555"
 }

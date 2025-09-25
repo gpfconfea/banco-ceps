@@ -5,5 +5,7 @@
   "bairro": "Náutica",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.4267713",
+  "longitude": "-49.2962294"
 }

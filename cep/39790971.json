@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Água Boa",
   "uf": "MG",
-  "ibge": "3100609"
+  "ibge": "3100609",
+  "latitude": "-17.9917594",
+  "longitude": "-42.3919931"
 }

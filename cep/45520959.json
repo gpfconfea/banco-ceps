@@ -1,9 +1,11 @@
 {
   "cep": "45520959",
   "logradouro": "Rua Beira Mar",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Maraú",
   "uf": "BA",
-  "ibge": "2920700"
+  "ibge": "2920700",
+  "latitude": "-14.10028",
+  "longitude": "-39.01674"
 }

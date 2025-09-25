@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pinto Bandeira",
   "uf": "RS",
-  "ibge": "4314548"
+  "ibge": "4314548",
+  "latitude": "-29.09657",
+  "longitude": "-51.45035"
 }

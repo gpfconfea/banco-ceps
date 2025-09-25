@@ -1,9 +1,11 @@
 {
   "cep": "46475970",
   "logradouro": "Praça Pacífico de Azevedo Neves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Botuquara",
   "localidade": "Riacho de Santana",
   "uf": "BA",
-  "ibge": "2926400"
+  "ibge": "2926400",
+  "latitude": "-13.6063873",
+  "longitude": "-42.9400663"
 }

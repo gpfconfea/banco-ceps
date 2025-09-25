@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cruzaltense",
   "uf": "RS",
-  "ibge": "4306130"
+  "ibge": "4306130",
+  "latitude": "-27.63664",
+  "longitude": "-52.27081"
 }

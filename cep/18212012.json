@@ -5,5 +5,7 @@
   "bairro": "Vila Orestes",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-22.567306",
+  "longitude": "-47.372776"
 }

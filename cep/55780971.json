@@ -1,9 +1,11 @@
 {
   "cep": "55780971",
   "logradouro": "Rua do Comercio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Lagoa de João Carlos",
   "localidade": "Frei Miguelinho",
   "uf": "PE",
-  "ibge": "2605806"
+  "ibge": "2605806",
+  "latitude": "-8.0024877",
+  "longitude": "-34.8917933"
 }

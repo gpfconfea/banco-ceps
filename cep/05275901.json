@@ -1,9 +1,11 @@
 {
   "cep": "05275901",
   "logradouro": "Via Anhangüera Quilômetro 24,2 Módulo 13 Galpão Expresso JA",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Jaraguá",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.43908",
+  "longitude": "-46.78591"
 }

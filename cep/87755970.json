@@ -1,9 +1,11 @@
 {
   "cep": "87755970",
   "logradouro": "Rua Dezesseis de Agosto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Maria",
   "localidade": "Alto Paraná",
   "uf": "PR",
-  "ibge": "4100608"
+  "ibge": "4100608",
+  "latitude": "-22.9730139",
+  "longitude": "-52.308818"
 }

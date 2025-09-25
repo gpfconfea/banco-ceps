@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-23.57478",
+  "longitude": "-46.67984"
 }

@@ -5,5 +5,7 @@
   "bairro": "Retiro",
   "localidade": "Matão",
   "uf": "SP",
-  "ibge": "3529302"
+  "ibge": "3529302",
+  "latitude": "-22.8098522",
+  "longitude": "-47.1758072"
 }

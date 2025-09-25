@@ -1,9 +1,11 @@
 {
   "cep": "38900991",
   "logradouro": "Praça Padre Mário Gerlin",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bambuí",
   "uf": "MG",
-  "ibge": "3105103"
+  "ibge": "3105103",
+  "latitude": "-19.97041",
+  "longitude": "-46.01402"
 }

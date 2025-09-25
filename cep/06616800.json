@@ -5,5 +5,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Jandira",
   "uf": "SP",
-  "ibge": "3525003"
+  "ibge": "3525003",
+  "latitude": "-23.5229016",
+  "longitude": "-46.907696"
 }

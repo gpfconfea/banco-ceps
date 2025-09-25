@@ -1,9 +1,11 @@
 {
   "cep": "78674959",
   "logradouro": "Avenida Santo Antônio Quadra 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Novo Santo Antônio",
   "uf": "MT",
-  "ibge": "5106315"
+  "ibge": "5106315",
+  "latitude": "-12.29017",
+  "longitude": "-50.96719"
 }

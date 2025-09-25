@@ -1,9 +1,11 @@
 {
   "cep": "69495959",
   "logradouro": "Estrada Prefeito Antônio Amâncio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Japurá",
   "uf": "AM",
-  "ibge": "1302108"
+  "ibge": "1302108",
+  "latitude": "-1.88217",
+  "longitude": "-66.99859"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "48140959",
   "logradouro": "Praça Presidente Médice",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pedrão",
   "uf": "BA",
-  "ibge": "2924108"
+  "ibge": "2924108",
+  "latitude": "-12.26035",
+  "longitude": "-38.96835"
 }

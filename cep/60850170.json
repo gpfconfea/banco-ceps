@@ -5,5 +5,7 @@
   "bairro": "Aerolândia",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-5.881423",
+  "longitude": "-38.6128718"
 }

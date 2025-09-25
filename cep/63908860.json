@@ -5,5 +5,7 @@
   "bairro": "Triângulo",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-5.1353932",
+  "longitude": "-39.7297623"
 }

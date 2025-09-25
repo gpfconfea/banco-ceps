@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aurelino Leal",
   "uf": "BA",
-  "ibge": "2902401"
+  "ibge": "2902401",
+  "latitude": "-12.79286",
+  "longitude": "-38.40043"
 }

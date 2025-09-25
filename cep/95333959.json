@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fagundes Varela",
   "uf": "RS",
-  "ibge": "4307864"
+  "ibge": "4307864",
+  "latitude": "-28.88192",
+  "longitude": "-51.68926"
 }

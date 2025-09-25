@@ -1,9 +1,11 @@
 {
   "cep": "46560970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibiajara",
   "localidade": "Rio do Pires",
   "uf": "BA",
-  "ibge": "2926905"
+  "ibge": "2926905",
+  "latitude": "-13.1292908",
+  "longitude": "-42.2921598"
 }

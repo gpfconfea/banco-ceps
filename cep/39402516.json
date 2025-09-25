@@ -5,5 +5,7 @@
   "bairro": "Delfino Magalhães",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-20.7519668",
+  "longitude": "-42.8793775"
 }

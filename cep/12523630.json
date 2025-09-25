@@ -5,5 +5,7 @@
   "bairro": "Vila Ofélia",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-23.9418255",
+  "longitude": "-46.3231377"
 }

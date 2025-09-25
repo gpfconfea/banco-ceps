@@ -1,9 +1,11 @@
 {
   "cep": "45208905",
   "logradouro": "Rua Gildélito Ferraz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jequiezinho",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-13.8744521",
+  "longitude": "-40.0712746"
 }

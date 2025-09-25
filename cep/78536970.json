@@ -1,9 +1,11 @@
 {
   "cep": "78536970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Atlântica",
   "localidade": "Marcelândia",
   "uf": "MT",
-  "ibge": "5105580"
+  "ibge": "5105580",
+  "latitude": "-11.0867354",
+  "longitude": "-54.5198516"
 }
