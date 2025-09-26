@@ -1,9 +1,11 @@
 {
   "cep": "76138970",
   "logradouro": "Praça da Vitória",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Messianópolis",
   "localidade": "Moiporá",
   "uf": "GO",
-  "ibge": "5213400"
+  "ibge": "5213400",
+  "latitude": "-16.6748851",
+  "longitude": "-49.2581677"
 }

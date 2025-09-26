@@ -1,9 +1,11 @@
 {
   "cep": "45213977",
   "logradouro": "Rua Aurino Galvão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Oriente Novo",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-13.8610105",
+  "longitude": "-40.0825303"
 }

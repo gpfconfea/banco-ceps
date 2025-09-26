@@ -5,5 +5,7 @@
   "bairro": "São Jorge",
   "localidade": "Teotônio Vilela",
   "uf": "AL",
-  "ibge": "2709152"
+  "ibge": "2709152",
+  "latitude": "-9.90889",
+  "longitude": "-36.36289"
 }

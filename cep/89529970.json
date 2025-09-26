@@ -1,9 +1,11 @@
 {
   "cep": "89529970",
   "logradouro": "Estrada Geral de Santa Cruz do Petry",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Cruz do Pery",
   "localidade": "Curitibanos",
   "uf": "SC",
-  "ibge": "4204806"
+  "ibge": "4204806",
+  "latitude": "-27.282855",
+  "longitude": "-50.5821037"
 }

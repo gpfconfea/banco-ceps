@@ -1,9 +1,11 @@
 {
   "cep": "39664971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mendonça",
   "localidade": "Veredinha",
   "uf": "MG",
-  "ibge": "3171071"
+  "ibge": "3171071",
+  "latitude": "-19.953847",
+  "longitude": "-43.9442564"
 }

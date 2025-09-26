@@ -1,9 +1,11 @@
 {
   "cep": "55750976",
   "logradouro": "Sítio Lério de Cima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lério de Cima",
   "localidade": "Surubim",
   "uf": "PE",
-  "ibge": "2614501"
+  "ibge": "2614501",
+  "latitude": "-7.8272486",
+  "longitude": "-35.7602829"
 }

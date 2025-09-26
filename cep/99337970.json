@@ -1,9 +1,11 @@
 {
   "cep": "99337970",
   "logradouro": "Estrada Linha Pedregal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pedregal",
   "localidade": "Tunas",
   "uf": "RS",
-  "ibge": "4322152"
+  "ibge": "4322152",
+  "latitude": "-29.08467",
+  "longitude": "-52.90317"
 }

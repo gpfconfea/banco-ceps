@@ -1,9 +1,11 @@
 {
   "cep": "38500979",
   "logradouro": "Praça da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Monte Carmelo",
   "uf": "MG",
-  "ibge": "3143104"
+  "ibge": "3143104",
+  "latitude": "-18.7245575",
+  "longitude": "-47.4979926"
 }

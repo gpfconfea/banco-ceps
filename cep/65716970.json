@@ -1,9 +1,11 @@
 {
   "cep": "65716970",
   "logradouro": "Praça do Mercado Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Paulo Ramos",
   "uf": "MA",
-  "ibge": "2108108"
+  "ibge": "2108108",
+  "latitude": "-4.5720659",
+  "longitude": "-45.1327972"
 }

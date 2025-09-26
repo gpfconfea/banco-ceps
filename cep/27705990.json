@@ -1,9 +1,11 @@
 {
   "cep": "27705990",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Vassouras",
   "uf": "RJ",
-  "ibge": "3306206"
+  "ibge": "3306206",
+  "latitude": "-22.4277",
+  "longitude": "-43.56769"
 }

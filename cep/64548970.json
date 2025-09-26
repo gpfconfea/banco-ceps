@@ -1,9 +1,11 @@
 {
   "cep": "64548970",
   "logradouro": "Praça da Liberdade",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Wall Ferraz",
   "uf": "PI",
-  "ibge": "2211704"
+  "ibge": "2211704",
+  "latitude": "-7.2349843",
+  "longitude": "-41.9121352"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29850973",
   "logradouro": "Contorno Ecoporanga-Ataléia BR-342",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Prata dos Baianos",
   "localidade": "Ecoporanga",
   "uf": "ES",
-  "ibge": "3202108"
+  "ibge": "3202108",
+  "latitude": "-18.3385424",
+  "longitude": "-41.0034737"
 }

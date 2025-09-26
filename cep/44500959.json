@@ -1,9 +1,11 @@
 {
   "cep": "44500959",
   "logradouro": "Travessa João Moreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Banheiro",
   "localidade": "Castro Alves",
   "uf": "BA",
-  "ibge": "2907301"
+  "ibge": "2907301",
+  "latitude": "-12.76644",
+  "longitude": "-39.42642"
 }

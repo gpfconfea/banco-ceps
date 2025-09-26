@@ -1,9 +1,11 @@
 {
   "cep": "99447971",
   "logradouro": "Estrada da Vila Capão Bonito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Capão Bonito",
   "localidade": "Salto do Jacuí",
   "uf": "RS",
-  "ibge": "4316451"
+  "ibge": "4316451",
+  "latitude": "-29.0124587",
+  "longitude": "-53.2632902"
 }

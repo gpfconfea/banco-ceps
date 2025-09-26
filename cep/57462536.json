@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Piranhas",
   "uf": "AL",
-  "ibge": "2707107"
+  "ibge": "2707107",
+  "latitude": "-9.60601",
+  "longitude": "-37.76888"
 }

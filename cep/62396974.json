@@ -1,9 +1,11 @@
 {
   "cep": "62396974",
   "logradouro": "Rua Militão Felindo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Tereza",
   "localidade": "Croatá",
   "uf": "CE",
-  "ibge": "2304236"
+  "ibge": "2304236",
+  "latitude": "-4.3822624",
+  "longitude": "-41.064256"
 }

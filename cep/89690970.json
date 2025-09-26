@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vargeão",
   "uf": "SC",
-  "ibge": "4219101"
+  "ibge": "4219101",
+  "latitude": "-26.8618341",
+  "longitude": "-52.1580377"
 }

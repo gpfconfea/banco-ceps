@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mateus Leme",
   "uf": "MG",
-  "ibge": "3140704"
+  "ibge": "3140704",
+  "latitude": "-20.075474",
+  "longitude": "-44.5812277"
 }

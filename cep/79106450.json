@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-22.5085298",
+  "longitude": "-55.7035152"
 }

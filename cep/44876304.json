@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Irecê",
   "uf": "BA",
-  "ibge": "2914604"
+  "ibge": "2914604",
+  "latitude": "-12.95046",
+  "longitude": "-38.49668"
 }

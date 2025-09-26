@@ -1,9 +1,11 @@
 {
   "cep": "77478959",
   "logradouro": "Avenida Ulisses Guimarães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Sandolândia",
   "uf": "TO",
-  "ibge": "1718840"
+  "ibge": "1718840",
+  "latitude": "-8.95698",
+  "longitude": "-47.33591"
 }

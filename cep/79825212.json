@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-21.9401323",
+  "longitude": "-54.3757435"
 }

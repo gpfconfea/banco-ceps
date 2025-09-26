@@ -1,9 +1,11 @@
 {
   "cep": "45265971",
   "logradouro": "Praça do Campo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caldeirão",
   "localidade": "Caetanos",
   "uf": "BA",
-  "ibge": "2905156"
+  "ibge": "2905156",
+  "latitude": "-12.9890051",
+  "longitude": "-38.5214771"
 }

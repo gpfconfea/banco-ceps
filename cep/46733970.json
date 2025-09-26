@@ -1,9 +1,11 @@
 {
   "cep": "46733970",
   "logradouro": "Praça Bráulio Queiróz Matos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Brejo Luíza de Brito",
   "localidade": "Novo Horizonte",
   "uf": "BA",
-  "ibge": "2923035"
+  "ibge": "2923035",
+  "latitude": "-12.8087604",
+  "longitude": "-42.1685556"
 }

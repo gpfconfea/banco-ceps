@@ -1,9 +1,11 @@
 {
   "cep": "28388970",
   "logradouro": "Praça Francisco Rosa da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bom Jesus do Querendo",
   "localidade": "Natividade",
   "uf": "RJ",
-  "ibge": "3303104"
+  "ibge": "3303104",
+  "latitude": "-20.9798556",
+  "longitude": "-41.8490964"
 }

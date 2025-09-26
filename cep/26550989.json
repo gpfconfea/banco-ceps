@@ -1,9 +1,11 @@
 {
   "cep": "26550989",
-  "logradouro": "Avenida Getúlio de Moura 3610 Térreo Locker Correios",
+  "logradouro": "Avenida Getúlio de Moura 3610 Térreo",
   "complemento": "",
   "bairro": "Juscelino",
   "localidade": "Mesquita",
   "uf": "RJ",
-  "ibge": "3302858"
+  "ibge": "3302858",
+  "latitude": "-22.76983",
+  "longitude": "-43.43406"
 }

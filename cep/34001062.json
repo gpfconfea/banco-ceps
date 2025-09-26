@@ -5,5 +5,7 @@
   "bairro": "Chácara Luiz Daniel",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "latitude": "-19.9888",
+  "longitude": "-43.85069"
 }

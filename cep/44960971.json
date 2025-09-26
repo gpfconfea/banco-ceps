@@ -1,9 +1,11 @@
 {
   "cep": "44960971",
   "logradouro": "Praça Tertuliano Marques de Almeida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Feira Nova",
   "localidade": "Ibititá",
   "uf": "BA",
-  "ibge": "2913101"
+  "ibge": "2913101",
+  "latitude": "-12.251641",
+  "longitude": "-38.9570696"
 }

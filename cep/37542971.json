@@ -1,9 +1,11 @@
 {
   "cep": "37542971",
   "logradouro": "Rua Belizária Rosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Estiva",
   "uf": "MG",
-  "ibge": "3124500"
+  "ibge": "3124500",
+  "latitude": "-22.3859205",
+  "longitude": "-46.0302288"
 }

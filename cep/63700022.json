@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "latitude": "-3.72312",
+  "longitude": "-38.52224"
 }

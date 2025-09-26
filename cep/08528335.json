@@ -6,5 +6,7 @@
   "bairro": "Jardim São Luiz",
   "localidade": "Ferraz de Vasconcelos",
   "uf": "SP",
-  "ibge": "3515707"
+  "ibge": "3515707",
+  "latitude": "-23.55124",
+  "longitude": "-46.37383"
 }

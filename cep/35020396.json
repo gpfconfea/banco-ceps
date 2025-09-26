@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "latitude": "-16.6108164",
+  "longitude": "-42.1857646"
 }

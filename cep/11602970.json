@@ -1,9 +1,11 @@
 {
   "cep": "11602970",
   "logradouro": "Praça João Eduardo de Moraes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Enseada",
   "localidade": "São Sebastião",
   "uf": "SP",
-  "ibge": "3550704"
+  "ibge": "3550704",
+  "latitude": "-23.72738",
+  "longitude": "-45.41932"
 }

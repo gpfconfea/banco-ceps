@@ -5,5 +5,7 @@
   "bairro": "Jardim Espanha",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2076852",
+  "longitude": "-49.9511378"
 }

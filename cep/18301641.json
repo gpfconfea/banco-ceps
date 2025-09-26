@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Minha Casa Minha Vida",
   "localidade": "Capão Bonito",
   "uf": "SP",
-  "ibge": "3510203"
+  "ibge": "3510203",
+  "latitude": "-23.98383",
+  "longitude": "-48.35518"
 }

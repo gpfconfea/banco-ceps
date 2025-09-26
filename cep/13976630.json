@@ -6,5 +6,7 @@
   "bairro": "Tapera Grande",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.4158",
+  "longitude": "-46.83402"
 }

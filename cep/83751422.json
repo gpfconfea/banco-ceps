@@ -6,5 +6,7 @@
   "bairro": "Ronda",
   "localidade": "Lapa",
   "uf": "PR",
-  "ibge": "4113205"
+  "ibge": "4113205",
+  "latitude": "-25.75457",
+  "longitude": "-49.71485"
 }

@@ -5,5 +5,7 @@
   "bairro": "Turvo",
   "localidade": "Tapiraí",
   "uf": "SP",
-  "ibge": "3553500"
+  "ibge": "3553500",
+  "latitude": "-23.8982959",
+  "longitude": "-47.5146352"
 }

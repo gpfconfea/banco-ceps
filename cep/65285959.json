@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Godofredo Viana",
   "uf": "MA",
-  "ibge": "2104305"
+  "ibge": "2104305",
+  "latitude": "-1.42229",
+  "longitude": "-45.76991"
 }

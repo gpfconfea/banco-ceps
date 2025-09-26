@@ -1,9 +1,11 @@
 {
   "cep": "55755971",
   "logradouro": "Vila Diego",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Diogo",
   "localidade": "Casinhas",
   "uf": "PE",
-  "ibge": "2604155"
+  "ibge": "2604155",
+  "latitude": "32.7131659",
+  "longitude": "-117.1590398"
 }

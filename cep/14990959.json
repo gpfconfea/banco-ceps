@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Irapuã",
   "uf": "SP",
-  "ibge": "3521507"
+  "ibge": "3521507",
+  "latitude": "-21.28203",
+  "longitude": "-49.41044"
 }

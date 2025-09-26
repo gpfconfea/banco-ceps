@@ -5,5 +5,7 @@
   "bairro": "Chico Mendes",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-22.8948427",
+  "longitude": "-43.567018"
 }

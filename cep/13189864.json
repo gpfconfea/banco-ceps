@@ -5,5 +5,7 @@
   "bairro": "Parque Vasconcellos",
   "localidade": "Hortolândia",
   "uf": "SP",
-  "ibge": "3519071"
+  "ibge": "3519071",
+  "latitude": "-22.89115",
+  "longitude": "-47.18223"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Santanense",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "latitude": "-21.5346001",
+  "longitude": "-42.6573465"
 }

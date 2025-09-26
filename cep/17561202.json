@@ -5,5 +5,7 @@
   "bairro": "Residencial Eco Paraíso",
   "localidade": "Vera Cruz",
   "uf": "SP",
-  "ibge": "3556602"
+  "ibge": "3556602",
+  "latitude": "-20.48834",
+  "longitude": "-47.41105"
 }

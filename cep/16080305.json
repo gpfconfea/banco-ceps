@@ -5,5 +5,7 @@
   "bairro": "Mini Distrito Industrial Alexandre Biagi",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-23.4963446",
+  "longitude": "-47.4369819"
 }

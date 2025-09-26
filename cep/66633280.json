@@ -5,5 +5,7 @@
   "bairro": "Parque Verde",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-3.7347334",
+  "longitude": "-38.5458601"
 }

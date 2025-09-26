@@ -5,5 +5,7 @@
   "bairro": "Santana II",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.46666",
+  "longitude": "-45.45166"
 }

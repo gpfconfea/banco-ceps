@@ -1,9 +1,11 @@
 {
   "cep": "35393971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Piscamba",
   "localidade": "Jequeri",
   "uf": "MG",
-  "ibge": "3135506"
+  "ibge": "3135506",
+  "latitude": "-20.09075",
+  "longitude": "-43.06458"
 }

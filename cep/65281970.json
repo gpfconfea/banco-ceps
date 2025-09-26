@@ -1,9 +1,11 @@
 {
   "cep": "65281970",
   "logradouro": "Rua Santo Expedito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barão de Tromai",
   "localidade": "Cândido Mendes",
   "uf": "MA",
-  "ibge": "2102606"
+  "ibge": "2102606",
+  "latitude": "-2.5727347",
+  "longitude": "-44.2637149"
 }

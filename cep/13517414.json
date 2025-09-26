@@ -5,5 +5,7 @@
   "bairro": "Jardim Gelsomina",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-23.48861",
+  "longitude": "-46.47855"
 }

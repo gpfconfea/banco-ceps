@@ -5,5 +5,7 @@
   "bairro": "Residencial Fernão Dias",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-19.89749",
+  "longitude": "-44.03032"
 }

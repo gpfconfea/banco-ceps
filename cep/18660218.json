@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Pratânia",
   "uf": "SP",
-  "ibge": "3541059"
+  "ibge": "3541059",
+  "latitude": "-22.80962",
+  "longitude": "-48.66221"
 }

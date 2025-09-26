@@ -1,9 +1,11 @@
 {
   "cep": "62575990",
   "logradouro": "Rua da Agência",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bela Cruz",
   "uf": "CE",
-  "ibge": "2302305"
+  "ibge": "2302305",
+  "latitude": "-3.05342",
+  "longitude": "-40.16838"
 }

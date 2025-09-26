@@ -5,5 +5,7 @@
   "bairro": "Residencial Bela Goiânia",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.5931394",
+  "longitude": "-49.3089697"
 }

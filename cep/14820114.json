@@ -5,5 +5,7 @@
   "bairro": "Residencial Aliança",
   "localidade": "Américo Brasiliense",
   "uf": "SP",
-  "ibge": "3501707"
+  "ibge": "3501707",
+  "latitude": "-21.72048",
+  "longitude": "-48.10349"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Esperança",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.86469",
+  "longitude": "-46.32804"
 }

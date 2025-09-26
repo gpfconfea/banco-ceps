@@ -1,9 +1,11 @@
 {
   "cep": "89968970",
   "logradouro": "Rua Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jorge Lacerda",
   "localidade": "Dionísio Cerqueira",
   "uf": "SC",
-  "ibge": "4205001"
+  "ibge": "4205001",
+  "latitude": "-28.7445221",
+  "longitude": "-49.7625997"
 }

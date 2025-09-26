@@ -1,9 +1,11 @@
 {
   "cep": "97649970",
   "logradouro": "Estrada Serra do Iguariaça",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Passo do Goulart",
   "localidade": "Maçambará",
   "uf": "RS",
-  "ibge": "4311718"
+  "ibge": "4311718",
+  "latitude": "-28.62718",
+  "longitude": "-56.0173"
 }

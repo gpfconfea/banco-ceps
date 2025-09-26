@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Taquarituba",
   "localidade": "Taquarituba",
   "uf": "SP",
-  "ibge": "3553807"
+  "ibge": "3553807",
+  "latitude": "-23.52709",
+  "longitude": "-49.24555"
 }

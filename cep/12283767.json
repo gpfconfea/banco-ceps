@@ -5,5 +5,7 @@
   "bairro": "Residencial Alta Vista 2",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.1365",
+  "longitude": "-45.70948"
 }

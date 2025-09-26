@@ -1,9 +1,11 @@
 {
   "cep": "73870959",
   "logradouro": "Rua Ribeiro dos Santos Quadra 3 Lote 7 Andar Térreo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque São João",
   "localidade": "Cabeceiras",
   "uf": "GO",
-  "ibge": "5204003"
+  "ibge": "5204003",
+  "latitude": "-15.80589",
+  "longitude": "-46.93249"
 }

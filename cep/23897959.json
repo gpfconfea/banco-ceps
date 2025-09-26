@@ -1,9 +1,11 @@
 {
   "cep": "23897959",
   "logradouro": "Rua UO Pavilhão Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "UFRRJ",
   "localidade": "Seropédica",
   "uf": "RJ",
-  "ibge": "3305554"
+  "ibge": "3305554",
+  "latitude": "-22.81127",
+  "longitude": "-43.65146"
 }

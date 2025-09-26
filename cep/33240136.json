@@ -5,5 +5,7 @@
   "bairro": "Vista Alegre",
   "localidade": "Lagoa Santa",
   "uf": "MG",
-  "ibge": "3137601"
+  "ibge": "3137601",
+  "latitude": "-19.67907",
+  "longitude": "-43.91353"
 }

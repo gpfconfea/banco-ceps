@@ -5,5 +5,7 @@
   "bairro": "Residencial Eco Quality",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-20.92451",
+  "longitude": "-48.46941"
 }

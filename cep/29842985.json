@@ -1,9 +1,11 @@
 {
   "cep": "29842985",
   "logradouro": "Estrada Guararema - Água Limpa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guararema",
   "localidade": "Nova Venécia",
   "uf": "ES",
-  "ibge": "3203908"
+  "ibge": "3203908",
+  "latitude": "-18.8303841",
+  "longitude": "-40.7237774"
 }

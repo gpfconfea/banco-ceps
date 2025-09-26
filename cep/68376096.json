@@ -5,5 +5,7 @@
   "bairro": "Alberto Soares",
   "localidade": "Altamira",
   "uf": "PA",
-  "ibge": "1500602"
+  "ibge": "1500602",
+  "latitude": "-23.4477983",
+  "longitude": "-46.7386791"
 }

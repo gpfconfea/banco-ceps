@@ -1,9 +1,11 @@
 {
   "cep": "39550973",
   "logradouro": "Praça São Pedro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Taiobeiras",
   "uf": "MG",
-  "ibge": "3168002"
+  "ibge": "3168002",
+  "latitude": "-15.8200516",
+  "longitude": "-42.1523665"
 }

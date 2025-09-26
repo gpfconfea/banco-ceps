@@ -1,9 +1,11 @@
 {
   "cep": "63250959",
   "logradouro": "Rua Presidente Vargas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Milagres",
   "uf": "CE",
-  "ibge": "2308302"
+  "ibge": "2308302",
+  "latitude": "-7.30871",
+  "longitude": "-38.93227"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "75229971",
   "logradouro": "Rua Francisco de Amorim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio da Esperança",
   "localidade": "Santa Cruz de Goiás",
   "uf": "GO",
-  "ibge": "5219209"
+  "ibge": "5219209",
+  "latitude": "-16.650357",
+  "longitude": "-49.2292239"
 }

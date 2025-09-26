@@ -1,9 +1,11 @@
 {
   "cep": "99163970",
   "logradouro": "Rua Olavo Machado Rico",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campo do Meio",
   "localidade": "Gentil",
   "uf": "RS",
-  "ibge": "4308854"
+  "ibge": "4308854",
+  "latitude": "-29.66961",
+  "longitude": "-51.04366"
 }

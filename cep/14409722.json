@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque dos Pássaros",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-20.5542142",
+  "longitude": "-47.358152"
 }

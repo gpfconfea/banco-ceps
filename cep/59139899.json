@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Natal",
   "localidade": "Natal",
   "uf": "RN",
-  "ibge": "2408102"
+  "ibge": "2408102",
+  "latitude": "-5.7875315",
+  "longitude": "-35.2036206"
 }

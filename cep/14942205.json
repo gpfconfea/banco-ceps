@@ -5,5 +5,7 @@
   "bairro": "Residencial Terras do Imperio",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-22.77687",
+  "longitude": "-47.09034"
 }

@@ -6,5 +6,7 @@
   "bairro": "Nucleo Habitacional Odilon Martins Cruz",
   "localidade": "Pompéia",
   "uf": "SP",
-  "ibge": "3540002"
+  "ibge": "3540002",
+  "latitude": "-22.09849",
+  "longitude": "-50.19312"
 }

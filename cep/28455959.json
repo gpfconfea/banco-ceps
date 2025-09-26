@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José de Ubá",
   "uf": "RJ",
-  "ibge": "3305133"
+  "ibge": "3305133",
+  "latitude": "-21.35898",
+  "longitude": "-41.94186"
 }

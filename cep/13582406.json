@@ -6,5 +6,7 @@
   "bairro": "Jardim São Paulo",
   "localidade": "Ribeirão Bonito",
   "uf": "SP",
-  "ibge": "3542909"
+  "ibge": "3542909",
+  "latitude": "-22.05883",
+  "longitude": "-48.1833"
 }

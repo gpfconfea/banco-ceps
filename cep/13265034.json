@@ -6,5 +6,7 @@
   "bairro": "São Benedito",
   "localidade": "Morungaba",
   "uf": "SP",
-  "ibge": "3532009"
+  "ibge": "3532009",
+  "latitude": "-23.53172",
+  "longitude": "-47.13453"
 }

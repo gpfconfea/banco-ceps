@@ -1,9 +1,11 @@
 {
   "cep": "73950959",
   "logradouro": "Avenida Senador Ramos Caiado Quadra 1 Lote 2",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ipiranga",
   "localidade": "Alvorada do Norte",
   "uf": "GO",
-  "ibge": "5200803"
+  "ibge": "5200803",
+  "latitude": "-16.30818",
+  "longitude": "-48.94033"
 }

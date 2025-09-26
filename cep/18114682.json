@@ -5,5 +5,7 @@
   "bairro": "Residencial Serra Dourada",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.55887",
+  "longitude": "-47.45734"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64175970",
   "logradouro": "Praça da Igreja Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Murici dos Portelas",
   "uf": "PI",
-  "ibge": "2206696"
+  "ibge": "2206696",
+  "latitude": "-4.5859662",
+  "longitude": "-42.8657542"
 }

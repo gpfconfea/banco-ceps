@@ -1,9 +1,11 @@
 {
   "cep": "55660977",
   "logradouro": "Rua Rui Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sítio dos Remédios",
   "localidade": "Bezerros",
   "uf": "PE",
-  "ibge": "2601904"
+  "ibge": "2601904",
+  "latitude": "-8.2386712",
+  "longitude": "-35.7553523"
 }

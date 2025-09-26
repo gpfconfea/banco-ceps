@@ -5,5 +5,7 @@
   "bairro": "Aguazul",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-21.7954626",
+  "longitude": "-50.8939696"
 }

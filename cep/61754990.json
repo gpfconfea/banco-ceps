@@ -1,9 +1,11 @@
 {
   "cep": "61754990",
   "logradouro": "Rua Cândido Benício Sampaio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Aquiraz",
   "uf": "CE",
-  "ibge": "2301000"
+  "ibge": "2301000",
+  "latitude": "-3.87594",
+  "longitude": "-38.41156"
 }

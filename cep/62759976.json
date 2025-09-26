@@ -1,9 +1,11 @@
 {
   "cep": "62759976",
   "logradouro": "Sítio Croatá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sereno de Cima",
   "localidade": "Ocara",
   "uf": "CE",
-  "ibge": "2309458"
+  "ibge": "2309458",
+  "latitude": "-3.5692558",
+  "longitude": "-41.1149687"
 }

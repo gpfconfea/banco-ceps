@@ -1,9 +1,11 @@
 {
   "cep": "62433975",
   "logradouro": "Rua Francisco das Chagas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sambaíba",
   "localidade": "Granja",
   "uf": "CE",
-  "ibge": "2304707"
+  "ibge": "2304707",
+  "latitude": "-3.8136501",
+  "longitude": "-38.6372416"
 }

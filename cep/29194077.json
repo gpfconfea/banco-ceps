@@ -5,5 +5,7 @@
   "bairro": "De Carli",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-23.2745414",
+  "longitude": "-45.887779"
 }

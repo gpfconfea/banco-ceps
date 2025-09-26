@@ -5,5 +5,7 @@
   "bairro": "Jardim Cury",
   "localidade": "Arujá",
   "uf": "SP",
-  "ibge": "3503901"
+  "ibge": "3503901",
+  "latitude": "-20.7625463",
+  "longitude": "-49.389604"
 }

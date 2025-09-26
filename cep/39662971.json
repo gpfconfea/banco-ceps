@@ -1,9 +1,11 @@
 {
   "cep": "39662971",
   "logradouro": "Praça Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caçaratiba",
   "localidade": "Turmalina",
   "uf": "MG",
-  "ibge": "3169703"
+  "ibge": "3169703",
+  "latitude": "-19.9191248",
+  "longitude": "-43.9386291"
 }

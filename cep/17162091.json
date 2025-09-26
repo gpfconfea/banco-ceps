@@ -6,5 +6,7 @@
   "bairro": "Vila São Pedro",
   "localidade": "Arealva",
   "uf": "SP",
-  "ibge": "3503406"
+  "ibge": "3503406",
+  "latitude": "-23.19223",
+  "longitude": "-45.86784"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "68275959",
   "logradouro": "Rua da Feirinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Porto Trombetas",
   "localidade": "Oriximiná",
   "uf": "PA",
-  "ibge": "1505304"
+  "ibge": "1505304",
+  "latitude": "-1.3605",
+  "longitude": "-48.33258"
 }

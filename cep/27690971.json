@@ -1,9 +1,11 @@
 {
   "cep": "27690971",
   "logradouro": "Rua Elio Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Manuel Duarte",
   "localidade": "Rio das Flores",
   "uf": "RJ",
-  "ibge": "3304508"
+  "ibge": "3304508",
+  "latitude": "-22.9166871",
+  "longitude": "-43.083252"
 }

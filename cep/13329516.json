@@ -5,5 +5,7 @@
   "bairro": "Residencial Primavera",
   "localidade": "Salto",
   "uf": "SP",
-  "ibge": "3545209"
+  "ibge": "3545209",
+  "latitude": "-11.8476116",
+  "longitude": "-55.5461564"
 }

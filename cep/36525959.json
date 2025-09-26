@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guiricema",
   "uf": "MG",
-  "ibge": "3129004"
+  "ibge": "3129004",
+  "latitude": "-21.00825",
+  "longitude": "-42.71865"
 }

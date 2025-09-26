@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Canela",
   "uf": "RS",
-  "ibge": "4304408"
+  "ibge": "4304408",
+  "latitude": "-29.36576",
+  "longitude": "-50.81384"
 }

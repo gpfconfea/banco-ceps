@@ -5,5 +5,7 @@
   "bairro": "Parque Primavera",
   "localidade": "São Roque",
   "uf": "SP",
-  "ibge": "3550605"
+  "ibge": "3550605",
+  "latitude": "-23.4319028",
+  "longitude": "-46.5207544"
 }

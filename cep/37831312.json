@@ -6,5 +6,7 @@
   "bairro": "Jardim Limoeiro",
   "localidade": "Guaxupé",
   "uf": "MG",
-  "ibge": "3128709"
+  "ibge": "3128709",
+  "latitude": "-21.32254",
+  "longitude": "-46.70853"
 }

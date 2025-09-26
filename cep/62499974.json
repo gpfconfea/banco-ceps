@@ -1,9 +1,11 @@
 {
   "cep": "62499974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Esperança",
   "localidade": "Moraújo",
   "uf": "CE",
-  "ibge": "2308807"
+  "ibge": "2308807",
+  "latitude": "-3.7449808",
+  "longitude": "-38.6483705"
 }

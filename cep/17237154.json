@@ -5,5 +5,7 @@
   "bairro": "Residencial Adolpho Saggioro",
   "localidade": "Itapuí",
   "uf": "SP",
-  "ibge": "3522901"
+  "ibge": "3522901",
+  "latitude": "-22.23781",
+  "longitude": "-48.71621"
 }

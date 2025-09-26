@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tacaratu",
   "uf": "PE",
-  "ibge": "2614808"
+  "ibge": "2614808",
+  "latitude": "-9.10601",
+  "longitude": "-38.15049"
 }

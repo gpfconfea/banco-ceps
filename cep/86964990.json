@@ -1,9 +1,11 @@
 {
   "cep": "86964990",
   "logradouro": "Rua Coronel Junqueira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Barbosa Ferraz",
   "uf": "PR",
-  "ibge": "4102505"
+  "ibge": "4102505",
+  "latitude": "-24.13444",
+  "longitude": "-51.99286"
 }

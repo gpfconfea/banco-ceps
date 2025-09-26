@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Telêmaco Borba",
   "uf": "PR",
-  "ibge": "4127106"
+  "ibge": "4127106",
+  "latitude": "-24.3110503",
+  "longitude": "-50.6321001"
 }

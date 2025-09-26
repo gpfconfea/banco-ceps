@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pirapetinga",
   "uf": "MG",
-  "ibge": "3151107"
+  "ibge": "3151107",
+  "latitude": "-21.657754",
+  "longitude": "-42.34488"
 }

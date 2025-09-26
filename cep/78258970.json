@@ -1,9 +1,11 @@
 {
   "cep": "78258970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lucialva",
   "localidade": "Jauru",
   "uf": "MT",
-  "ibge": "5105002"
+  "ibge": "5105002",
+  "latitude": "-15.33889",
+  "longitude": "-58.8693659"
 }

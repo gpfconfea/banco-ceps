@@ -5,5 +5,7 @@
   "bairro": "Novo Horizonte",
   "localidade": "Porto Velho",
   "uf": "RO",
-  "ibge": "1100205"
+  "ibge": "1100205",
+  "latitude": "-17.372148",
+  "longitude": "-44.9708958"
 }

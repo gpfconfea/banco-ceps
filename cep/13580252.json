@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial Cezar Torrezan",
   "localidade": "Ribeirão Bonito",
   "uf": "SP",
-  "ibge": "3542909"
+  "ibge": "3542909",
+  "latitude": "-22.07965",
+  "longitude": "-48.17686"
 }

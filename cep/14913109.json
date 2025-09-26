@@ -6,5 +6,7 @@
   "bairro": "Jardim Santa Maria",
   "localidade": "Tabatinga",
   "uf": "SP",
-  "ibge": "3552700"
+  "ibge": "3552700",
+  "latitude": "-21.73969",
+  "longitude": "-48.68878"
 }

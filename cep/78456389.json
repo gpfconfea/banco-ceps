@@ -6,5 +6,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Nova Mutum",
   "uf": "MT",
-  "ibge": "5106224"
+  "ibge": "5106224",
+  "latitude": "-12.55073",
+  "longitude": "-55.71599"
 }

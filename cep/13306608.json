@@ -5,5 +5,7 @@
   "bairro": "Condomínio Villas do Golf",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-22.12225",
+  "longitude": "-51.44076"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Belo",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.757723",
+  "longitude": "-46.9818174"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63588974",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Poço Grande",
   "localidade": "Jucás",
   "uf": "CE",
-  "ibge": "2307403"
+  "ibge": "2307403",
+  "latitude": "-7.13803",
+  "longitude": "-39.7724"
 }

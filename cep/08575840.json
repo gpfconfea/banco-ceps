@@ -5,5 +5,7 @@
   "bairro": "Vila Londrina",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.5031731",
+  "longitude": "-46.3629058"
 }

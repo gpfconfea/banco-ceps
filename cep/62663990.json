@@ -1,9 +1,11 @@
 {
   "cep": "62663990",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Umirim",
   "uf": "CE",
-  "ibge": "2313757"
+  "ibge": "2313757",
+  "latitude": "-3.76963",
+  "longitude": "-38.63064"
 }

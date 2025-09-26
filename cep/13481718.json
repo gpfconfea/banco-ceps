@@ -5,5 +5,7 @@
   "bairro": "Residencial Gabriela",
   "localidade": "Limeira",
   "uf": "SP",
-  "ibge": "3526902"
+  "ibge": "3526902",
+  "latitude": "-22.62067",
+  "longitude": "-47.41881"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44790978",
   "logradouro": "Rua Sulplício José de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Poços",
   "localidade": "Campo Formoso",
   "uf": "BA",
-  "ibge": "2906006"
+  "ibge": "2906006",
+  "latitude": "-11.4830731",
+  "longitude": "-37.9268338"
 }

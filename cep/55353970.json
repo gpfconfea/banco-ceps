@@ -1,9 +1,11 @@
 {
   "cep": "55353970",
   "logradouro": "Praça Amâncio Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Serrinha da Prata",
   "localidade": "Saloá",
   "uf": "PE",
-  "ibge": "2612307"
+  "ibge": "2612307",
+  "latitude": "-9.0160943",
+  "longitude": "-36.7607322"
 }

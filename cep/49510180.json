@@ -5,5 +5,7 @@
   "bairro": "Porto",
   "localidade": "Itabaiana",
   "uf": "SE",
-  "ibge": "2802908"
+  "ibge": "2802908",
+  "latitude": "-23.5757188",
+  "longitude": "-48.0346735"
 }

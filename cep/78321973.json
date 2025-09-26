@@ -1,9 +1,11 @@
 {
   "cep": "78321973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Filadélfia",
   "localidade": "Juína",
   "uf": "MT",
-  "ibge": "5105150"
+  "ibge": "5105150",
+  "latitude": "-11.4193575",
+  "longitude": "-58.7623497"
 }

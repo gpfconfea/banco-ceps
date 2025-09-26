@@ -1,9 +1,11 @@
 {
   "cep": "46605970",
   "logradouro": "Praça Dely Rocha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sussuarana",
   "localidade": "Tanhaçu",
   "uf": "BA",
-  "ibge": "2931004"
+  "ibge": "2931004",
+  "latitude": "-14.1596965",
+  "longitude": "-41.2088334"
 }

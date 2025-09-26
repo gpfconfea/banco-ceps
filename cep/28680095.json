@@ -5,5 +5,7 @@
   "bairro": "Parque Santa Luiza",
   "localidade": "Cachoeiras de Macacu",
   "uf": "RJ",
-  "ibge": "3300803"
+  "ibge": "3300803",
+  "latitude": "-22.46901",
+  "longitude": "-42.65739"
 }

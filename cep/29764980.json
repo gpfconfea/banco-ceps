@@ -1,9 +1,11 @@
 {
   "cep": "29764980",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Palmerino",
   "localidade": "Alto Rio Novo",
   "uf": "ES",
-  "ibge": "3200359"
+  "ibge": "3200359",
+  "latitude": "-19.1011402",
+  "longitude": "-41.0362905"
 }

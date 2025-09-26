@@ -1,9 +1,11 @@
 {
   "cep": "78658959",
   "logradouro": "Avenida João Sacerdote de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Canabrava do Norte",
   "uf": "MT",
-  "ibge": "5102694"
+  "ibge": "5102694",
+  "latitude": "-11.05246",
+  "longitude": "-51.83186"
 }

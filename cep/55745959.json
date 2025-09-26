@@ -1,9 +1,11 @@
 {
   "cep": "55745959",
   "logradouro": "Rua Professor Mariano de Aguiar",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Orobó",
   "uf": "PE",
-  "ibge": "2609709"
+  "ibge": "2609709",
+  "latitude": "-7.74436",
+  "longitude": "-35.60337"
 }

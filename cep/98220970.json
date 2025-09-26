@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio do Bom Retiro",
   "localidade": "Ibirubá",
   "uf": "RS",
-  "ibge": "4310009"
+  "ibge": "4310009",
+  "latitude": "-29.3848465",
+  "longitude": "-50.8794036"
 }

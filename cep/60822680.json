@@ -5,5 +5,7 @@
   "bairro": "Cidade dos Funcionários",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-18.6161312",
+  "longitude": "-46.5000179"
 }

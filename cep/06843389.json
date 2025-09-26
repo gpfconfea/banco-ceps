@@ -6,5 +6,7 @@
   "bairro": "Engenho Velho",
   "localidade": "Embu das Artes",
   "uf": "SP",
-  "ibge": "3515004"
+  "ibge": "3515004",
+  "latitude": "-23.65006",
+  "longitude": "-46.85201"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "55423970",
   "logradouro": "Rua Cirilo Mateus",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Olho D'Água de Dentro",
   "localidade": "Canhotinho",
   "uf": "PE",
-  "ibge": "2603702"
+  "ibge": "2603702",
+  "latitude": "-8.8212771",
+  "longitude": "-36.2291678"
 }

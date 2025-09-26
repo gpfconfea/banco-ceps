@@ -6,5 +6,7 @@
   "bairro": "Distrito Industrial II",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "latitude": "-20.94403",
+  "longitude": "-48.45253"
 }

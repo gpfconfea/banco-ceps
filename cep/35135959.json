@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fernandes Tourinho",
   "uf": "MG",
-  "ibge": "3125804"
+  "ibge": "3125804",
+  "latitude": "-20.02613",
+  "longitude": "-44.02506"
 }

@@ -5,5 +5,7 @@
   "bairro": "Monte Castelo",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-29.7002727",
+  "longitude": "-53.8013796"
 }

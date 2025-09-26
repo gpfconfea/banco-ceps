@@ -5,5 +5,7 @@
   "bairro": "Comasa",
   "localidade": "Joinville",
   "uf": "SC",
-  "ibge": "4209102"
+  "ibge": "4209102",
+  "latitude": "-28.6982534",
+  "longitude": "-49.3887083"
 }

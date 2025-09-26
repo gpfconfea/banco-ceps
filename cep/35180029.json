@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "latitude": "-18.66759",
+  "longitude": "-48.17958"
 }

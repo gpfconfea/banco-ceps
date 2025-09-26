@@ -5,5 +5,7 @@
   "bairro": "Industrial Davide Zorzi",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "latitude": "-27.64602",
+  "longitude": "-52.24998"
 }

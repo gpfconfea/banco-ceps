@@ -5,5 +5,7 @@
   "bairro": "Guamá",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-20.288724",
+  "longitude": "-50.2538744"
 }

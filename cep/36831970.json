@@ -1,9 +1,11 @@
 {
   "cep": "36831970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José da Pedra Menina",
   "localidade": "Espera Feliz",
   "uf": "MG",
-  "ibge": "3124203"
+  "ibge": "3124203",
+  "latitude": "-20.6475954",
+  "longitude": "-41.9094136"
 }

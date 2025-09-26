@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Simão Pereira",
   "uf": "MG",
-  "ibge": "3167509"
+  "ibge": "3167509",
+  "latitude": "-20.38603",
+  "longitude": "-43.5052"
 }

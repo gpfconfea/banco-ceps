@@ -5,5 +5,7 @@
   "bairro": "Jardim Alpestre",
   "localidade": "Campos do Jordão",
   "uf": "SP",
-  "ibge": "3509700"
+  "ibge": "3509700",
+  "latitude": "-22.73326",
+  "longitude": "-45.56982"
 }

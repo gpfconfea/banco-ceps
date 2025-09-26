@@ -5,5 +5,7 @@
   "bairro": "Piedade",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "latitude": "-19.6164827",
+  "longitude": "-43.2115892"
 }

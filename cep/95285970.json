@@ -1,9 +1,11 @@
 {
   "cep": "95285970",
   "logradouro": "Rua Maria Teodora Dos Santos Boeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Silveira",
   "localidade": "São José dos Ausentes",
   "uf": "RS",
-  "ibge": "4318622"
+  "ibge": "4318622",
+  "latitude": "-28.6247765",
+  "longitude": "-49.9333945"
 }

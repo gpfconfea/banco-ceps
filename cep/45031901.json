@@ -1,9 +1,11 @@
 {
   "cep": "45031901",
   "logradouro": "Rua Ministro Hermes Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Universidade",
   "localidade": "Vitória da Conquista",
   "uf": "BA",
-  "ibge": "2933307"
+  "ibge": "2933307",
+  "latitude": "-14.8857316",
+  "longitude": "-40.8045781"
 }

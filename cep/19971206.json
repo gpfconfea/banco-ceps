@@ -5,5 +5,7 @@
   "bairro": "Chácara Albino Rainho",
   "localidade": "Palmital",
   "uf": "SP",
-  "ibge": "3535309"
+  "ibge": "3535309",
+  "latitude": "-23.27586",
+  "longitude": "-45.89687"
 }

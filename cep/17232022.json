@@ -6,5 +6,7 @@
   "bairro": "Núcleo Habitacional Doutor Alvaro Beltram de Souza",
   "localidade": "Itapuí",
   "uf": "SP",
-  "ibge": "3522901"
+  "ibge": "3522901",
+  "latitude": "-22.23568",
+  "longitude": "-48.72327"
 }

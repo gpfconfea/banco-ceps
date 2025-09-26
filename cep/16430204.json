@@ -5,5 +5,7 @@
   "bairro": "Residencial João Zamian",
   "localidade": "Guaiçara",
   "uf": "SP",
-  "ibge": "3517208"
+  "ibge": "3517208",
+  "latitude": "-21.61938",
+  "longitude": "-49.80025"
 }

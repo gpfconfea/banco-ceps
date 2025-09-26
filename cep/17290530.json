@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Jardim Europa",
   "localidade": "Macatuba",
   "uf": "SP",
-  "ibge": "3528007"
+  "ibge": "3528007",
+  "latitude": "-23.51984",
+  "longitude": "-47.48951"
 }

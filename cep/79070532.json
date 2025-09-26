@@ -5,5 +5,7 @@
   "bairro": "Porto Galo",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-23.6335913",
+  "longitude": "-55.0063171"
 }

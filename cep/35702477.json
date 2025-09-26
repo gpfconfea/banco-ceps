@@ -6,5 +6,7 @@
   "bairro": "Residencial Veredas",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "latitude": "-19.47676",
+  "longitude": "-44.27392"
 }

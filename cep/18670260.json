@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Governador Mário Covas",
   "localidade": "Areiópolis",
   "uf": "SP",
-  "ibge": "3503604"
+  "ibge": "3503604",
+  "latitude": "-21.19435",
+  "longitude": "-50.47946"
 }

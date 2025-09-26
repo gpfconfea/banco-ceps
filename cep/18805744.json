@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Vista",
   "localidade": "Piraju",
   "uf": "SP",
-  "ibge": "3538808"
+  "ibge": "3538808",
+  "latitude": "-23.134",
+  "longitude": "-45.9109"
 }

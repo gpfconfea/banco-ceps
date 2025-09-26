@@ -1,9 +1,11 @@
 {
   "cep": "55258970",
   "logradouro": "Rua Antônio Júlio Filho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jenipapo",
   "localidade": "Sanharó",
   "uf": "PE",
-  "ibge": "2612406"
+  "ibge": "2612406",
+  "latitude": "-23.5035614",
+  "longitude": "-47.5187755"
 }

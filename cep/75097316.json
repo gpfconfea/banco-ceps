@@ -6,5 +6,7 @@
   "bairro": "Residencial Vida Nova",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-16.3206",
+  "longitude": "-48.94166"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29652980",
   "logradouro": "Rua Miguel Gonring",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vinte e Cinco de Julho",
   "localidade": "Santa Teresa",
   "uf": "ES",
-  "ibge": "3204609"
+  "ibge": "3204609",
+  "latitude": "-19.7791027",
+  "longitude": "-40.6083541"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cabo Verde",
   "uf": "MG",
-  "ibge": "3109501"
+  "ibge": "3109501",
+  "latitude": "-15.39706",
+  "longitude": "-42.86709"
 }

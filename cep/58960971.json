@@ -1,9 +1,11 @@
 {
   "cep": "58960971",
   "logradouro": "Rua Antonio Ferreira de Freitas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bonito de Santa Fé",
   "uf": "PB",
-  "ibge": "2502409"
+  "ibge": "2502409",
+  "latitude": "-7.3138144",
+  "longitude": "-38.5136811"
 }

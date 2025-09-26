@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.9685597",
+  "longitude": "-39.014182"
 }

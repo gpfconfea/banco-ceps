@@ -1,9 +1,11 @@
 {
   "cep": "59248970",
   "logradouro": "Estrada do Cajueiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cajueiro",
   "localidade": "Lagoa Salgada",
   "uf": "RN",
-  "ibge": "2406601"
+  "ibge": "2406601",
+  "latitude": "-5.2218626",
+  "longitude": "-37.6357101"
 }

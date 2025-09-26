@@ -5,5 +5,7 @@
   "bairro": "São Caetano",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.034411",
+  "longitude": "-51.2220147"
 }

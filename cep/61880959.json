@@ -1,9 +1,11 @@
 {
   "cep": "61880959",
   "logradouro": "Rua Miguel Fernandes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itaitinga",
   "uf": "CE",
-  "ibge": "2306256"
+  "ibge": "2306256",
+  "latitude": "-3.97308",
+  "longitude": "-38.5298"
 }

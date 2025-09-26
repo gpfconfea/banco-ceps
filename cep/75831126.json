@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Mineiros",
   "uf": "GO",
-  "ibge": "5213103"
+  "ibge": "5213103",
+  "latitude": "-17.57241",
+  "longitude": "-52.57286"
 }

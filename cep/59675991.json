@@ -1,9 +1,11 @@
 {
   "cep": "59675991",
   "logradouro": "Av. Principal - Areias Alvas - Associação de Desenvolvimento Sustentável",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Grossos",
   "uf": "RN",
-  "ibge": "2404408"
+  "ibge": "2404408",
+  "latitude": "-4.92192",
+  "longitude": "-37.20875"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "99274970",
   "logradouro": "Estrada Santa Gema",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Gema",
   "localidade": "São Domingos do Sul",
   "uf": "RS",
-  "ibge": "4318051"
+  "ibge": "4318051",
+  "latitude": "-28.53535",
+  "longitude": "-51.88813"
 }

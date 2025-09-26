@@ -5,5 +5,7 @@
   "bairro": "Morro da Mandioca",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "-21.3194302",
+  "longitude": "-49.054206"
 }

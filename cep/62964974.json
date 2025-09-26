@@ -1,9 +1,11 @@
 {
   "cep": "62964974",
   "logradouro": "Rua Silvestre Rebouças",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Olho-D'Água da Bica",
   "localidade": "Tabuleiro do Norte",
   "uf": "CE",
-  "ibge": "2313104"
+  "ibge": "2313104",
+  "latitude": "-5.3886691",
+  "longitude": "-38.0147966"
 }

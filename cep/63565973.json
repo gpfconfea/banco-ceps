@@ -1,9 +1,11 @@
 {
   "cep": "63565973",
   "logradouro": "Rua São Jorge",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Felícia",
   "localidade": "Acopiara",
   "uf": "CE",
-  "ibge": "2300309"
+  "ibge": "2300309",
+  "latitude": "-3.7040222",
+  "longitude": "-38.5741499"
 }

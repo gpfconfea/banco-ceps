@@ -1,9 +1,11 @@
 {
   "cep": "39676971",
   "logradouro": "Rua Santa Maria",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Contrato",
   "localidade": "Itamarandiba",
   "uf": "MG",
-  "ibge": "3132503"
+  "ibge": "3132503",
+  "latitude": "-19.8695784",
+  "longitude": "-43.909014"
 }

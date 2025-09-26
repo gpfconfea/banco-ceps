@@ -1,9 +1,11 @@
 {
   "cep": "63648972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aurora",
   "localidade": "Aurora",
   "uf": "CE",
-  "ibge": "2301703"
+  "ibge": "2301703",
+  "latitude": "-5.9014028",
+  "longitude": "-39.2043968"
 }

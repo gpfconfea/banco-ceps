@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Teolândia",
   "uf": "BA",
-  "ibge": "2931608"
+  "ibge": "2931608",
+  "latitude": "-13.60475",
+  "longitude": "-39.49019"
 }

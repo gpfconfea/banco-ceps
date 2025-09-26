@@ -1,9 +1,11 @@
 {
   "cep": "62787973",
   "logradouro": "Avenida Brunilo Faço",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canta Galo",
   "localidade": "Acarape",
   "uf": "CE",
-  "ibge": "2300150"
+  "ibge": "2300150",
+  "latitude": "-4.2820314",
+  "longitude": "-38.681927"
 }

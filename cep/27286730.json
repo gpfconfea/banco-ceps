@@ -5,5 +5,7 @@
   "bairro": "Candelária",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.4678385",
+  "longitude": "-44.0754004"
 }

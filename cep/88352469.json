@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Brusque",
   "uf": "SC",
-  "ibge": "4202909"
+  "ibge": "4202909",
+  "latitude": "-26.78183",
+  "longitude": "-50.00615"
 }

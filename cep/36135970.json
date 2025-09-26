@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Rita de Jacutinga",
   "uf": "MG",
-  "ibge": "3159308"
+  "ibge": "3159308",
+  "latitude": "-22.1491273",
+  "longitude": "-44.0930284"
 }

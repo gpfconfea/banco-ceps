@@ -6,5 +6,7 @@
   "bairro": "Residencial Dona Hilda Borges de Andrade II",
   "localidade": "Arcos",
   "uf": "MG",
-  "ibge": "3104205"
+  "ibge": "3104205",
+  "latitude": "-20.27959",
+  "longitude": "-45.51667"
 }

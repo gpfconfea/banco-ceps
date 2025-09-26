@@ -1,9 +1,11 @@
 {
   "cep": "62695973",
   "logradouro": "Praça da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mundau",
   "localidade": "Trairi",
   "uf": "CE",
-  "ibge": "2313500"
+  "ibge": "2313500",
+  "latitude": "-3.724712",
+  "longitude": "-38.524421"
 }

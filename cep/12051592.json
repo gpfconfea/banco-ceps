@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Imperial",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.04942",
+  "longitude": "-45.62905"
 }

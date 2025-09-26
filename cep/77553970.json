@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Ipueiras",
   "uf": "TO",
-  "ibge": "1709807"
+  "ibge": "1709807",
+  "latitude": "15.3395",
+  "longitude": "120.83326"
 }

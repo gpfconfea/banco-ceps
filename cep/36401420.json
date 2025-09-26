@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Conselheiro Lafaiete",
   "uf": "MG",
-  "ibge": "3118304"
+  "ibge": "3118304",
+  "latitude": "-20.0675766",
+  "longitude": "-44.3073238"
 }

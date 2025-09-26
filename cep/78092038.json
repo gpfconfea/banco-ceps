@@ -5,5 +5,7 @@
   "bairro": "São João Del Rei",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-16.4462203",
+  "longitude": "-54.5945747"
 }

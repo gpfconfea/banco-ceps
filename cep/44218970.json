@@ -1,9 +1,11 @@
 {
   "cep": "44218970",
   "logradouro": "Rua Edval Barreto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Acupe",
   "localidade": "Santo Amaro",
   "uf": "BA",
-  "ibge": "2928604"
+  "ibge": "2928604",
+  "latitude": "-12.6723982",
+  "longitude": "-38.7468509"
 }
