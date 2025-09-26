@@ -5,5 +5,7 @@
   "bairro": "Alta Vista",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-21.45774",
+  "longitude": "-47.00135"
 }

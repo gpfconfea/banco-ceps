@@ -6,5 +6,7 @@
   "bairro": "Residencial Alto da Colina",
   "localidade": "Guaxupé",
   "uf": "MG",
-  "ibge": "3128709"
+  "ibge": "3128709",
+  "latitude": "-21.29953",
+  "longitude": "-46.69492"
 }

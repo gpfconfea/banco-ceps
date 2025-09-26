@@ -1,9 +1,11 @@
 {
   "cep": "65565970",
   "logradouro": "Avenida Brasil",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Custódio Lima",
   "localidade": "Magalhães de Almeida",
   "uf": "MA",
-  "ibge": "2106300"
+  "ibge": "2106300",
+  "latitude": "-3.2633511",
+  "longitude": "-42.1323477"
 }

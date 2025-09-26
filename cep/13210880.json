@@ -5,5 +5,7 @@
   "bairro": "Parque Morangaba",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.192683",
+  "longitude": "-46.961452"
 }

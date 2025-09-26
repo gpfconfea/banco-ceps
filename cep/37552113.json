@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.2394236",
+  "longitude": "-45.944812"
 }

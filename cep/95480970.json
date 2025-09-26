@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cambará do Sul",
   "uf": "RS",
-  "ibge": "4303608"
+  "ibge": "4303608",
+  "latitude": "-29.0492093",
+  "longitude": "-50.1467794"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29515990",
   "logradouro": "Praça Godofredo Costa de Menezes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Alegre",
   "uf": "ES",
-  "ibge": "3200201"
+  "ibge": "3200201",
+  "latitude": "-20.77302",
+  "longitude": "-41.53729"
 }

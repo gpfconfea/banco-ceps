@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.41067",
+  "longitude": "-45.97045"
 }

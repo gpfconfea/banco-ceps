@@ -5,5 +5,7 @@
   "bairro": "Dom Bosco",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-18.94356",
+  "longitude": "-48.30404"
 }

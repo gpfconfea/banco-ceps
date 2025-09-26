@@ -5,5 +5,7 @@
   "bairro": "Residencial Vila Lombarda",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.9677531",
+  "longitude": "-47.0023342"
 }

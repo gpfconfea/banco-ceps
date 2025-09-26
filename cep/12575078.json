@@ -6,5 +6,7 @@
   "bairro": "Ponte Alta",
   "localidade": "Aparecida",
   "uf": "SP",
-  "ibge": "3502507"
+  "ibge": "3502507",
+  "latitude": "-22.84693",
+  "longitude": "-45.23668"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "86458970",
   "logradouro": "Rua José Gonçalves de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Roque do Pinhal",
   "localidade": "Joaquim Távora",
   "uf": "PR",
-  "ibge": "4112801"
+  "ibge": "4112801",
+  "latitude": "-23.4833329",
+  "longitude": "-49.833333"
 }

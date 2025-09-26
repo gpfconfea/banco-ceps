@@ -1,9 +1,11 @@
 {
   "cep": "36250970",
   "logradouro": "Praça Vicente Prata Mourão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Oliveira Fortes",
   "uf": "MG",
-  "ibge": "3145703"
+  "ibge": "3145703",
+  "latitude": "-21.3405438",
+  "longitude": "-43.4503057"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29807983",
   "logradouro": "Rua José Santiago",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Monte Sinai",
   "localidade": "Barra de São Francisco",
   "uf": "ES",
-  "ibge": "3200904"
+  "ibge": "3200904",
+  "latitude": "-22.3495816",
+  "longitude": "-49.1014126"
 }

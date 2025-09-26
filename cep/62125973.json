@@ -1,9 +1,11 @@
 {
   "cep": "62125973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ventura",
   "localidade": "Alcântaras",
   "uf": "CE",
-  "ibge": "2300507"
+  "ibge": "2300507",
+  "latitude": "-3.4958749",
+  "longitude": "-40.5108853"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64585959",
   "logradouro": "Rua João Raimundo de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Simões",
   "uf": "PI",
-  "ibge": "2210706"
+  "ibge": "2210706",
+  "latitude": "-7.59664",
+  "longitude": "-40.81647"
 }

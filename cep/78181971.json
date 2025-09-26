@@ -1,9 +1,11 @@
 {
   "cep": "78181971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Porto de Fora",
   "localidade": "Santo Antônio do Leverger",
   "uf": "MT",
-  "ibge": "5107800"
+  "ibge": "5107800",
+  "latitude": "-16.0889836",
+  "longitude": "-55.8066243"
 }

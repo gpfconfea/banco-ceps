@@ -5,5 +5,7 @@
   "bairro": "Jardim Serra Azul",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.7502395",
+  "longitude": "-48.1497876"
 }

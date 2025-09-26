@@ -5,5 +5,7 @@
   "bairro": "Jardim Madre Paulin",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.4439",
+  "longitude": "-46.57773"
 }

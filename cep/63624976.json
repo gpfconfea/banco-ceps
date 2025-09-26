@@ -1,9 +1,11 @@
 {
   "cep": "63624976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cangati",
   "localidade": "Solonópole",
   "uf": "CE",
-  "ibge": "2313005"
+  "ibge": "2313005",
+  "latitude": "-5.9014028",
+  "longitude": "-39.2043968"
 }

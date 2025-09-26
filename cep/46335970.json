@@ -1,9 +1,11 @@
 {
   "cep": "46335970",
   "logradouro": "Praça Jantonio Santana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tauapé",
   "localidade": "Licínio de Almeida",
   "uf": "BA",
-  "ibge": "2919405"
+  "ibge": "2919405",
+  "latitude": "-14.5856384",
+  "longitude": "-42.4395597"
 }

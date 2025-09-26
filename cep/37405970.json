@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monsenhor Paulo",
   "uf": "MG",
-  "ibge": "3142601"
+  "ibge": "3142601",
+  "latitude": "-21.7583716",
+  "longitude": "-45.5394868"
 }

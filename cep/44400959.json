@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nazaré",
   "uf": "BA",
-  "ibge": "2922508"
+  "ibge": "2922508",
+  "latitude": "-12.14998",
+  "longitude": "-44.99951"
 }

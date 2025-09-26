@@ -5,5 +5,7 @@
   "bairro": "Jardim Simões",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-23.7175478",
+  "longitude": "-46.6991532"
 }

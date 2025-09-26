@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Barrocas",
   "uf": "BA",
-  "ibge": "2903276"
+  "ibge": "2903276",
+  "latitude": "-11.52878",
+  "longitude": "-39.07673"
 }

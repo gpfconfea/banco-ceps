@@ -1,9 +1,11 @@
 {
   "cep": "47699970",
   "logradouro": "Rua Antônio Carlos Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Colônia do Formoso",
   "localidade": "Coribe",
   "uf": "BA",
-  "ibge": "2909109"
+  "ibge": "2909109",
+  "latitude": "-12.22069",
+  "longitude": "-38.95619"
 }

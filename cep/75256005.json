@@ -5,5 +5,7 @@
   "bairro": "Condomínio Tovolândia",
   "localidade": "Senador Canedo",
   "uf": "GO",
-  "ibge": "5220454"
+  "ibge": "5220454",
+  "latitude": "-18.2112392",
+  "longitude": "-49.7451695"
 }

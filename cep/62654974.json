@@ -1,9 +1,11 @@
 {
   "cep": "62654974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mundaú",
   "localidade": "Uruburetama",
   "uf": "CE",
-  "ibge": "2313807"
+  "ibge": "2313807",
+  "latitude": "-3.37709",
+  "longitude": "-39.45229"
 }

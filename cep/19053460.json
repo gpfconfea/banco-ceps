@@ -5,5 +5,7 @@
   "bairro": "Vila Elizabeth",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-23.8778948",
+  "longitude": "-46.426048"
 }

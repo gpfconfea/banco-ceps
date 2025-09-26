@@ -1,9 +1,11 @@
 {
   "cep": "44850991",
   "logradouro": "Praça Ovídio de Carvalho - Centro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Morro do Chapéu",
   "uf": "BA",
-  "ibge": "2921708"
+  "ibge": "2921708",
+  "latitude": "-11.54506",
+  "longitude": "-41.1561"
 }

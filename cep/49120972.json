@@ -1,9 +1,11 @@
 {
   "cep": "49120972",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itaporanga D'Ajuda",
   "uf": "SE",
-  "ibge": "2803203"
+  "ibge": "2803203",
+  "latitude": "-10.9971184",
+  "longitude": "-37.3073119"
 }

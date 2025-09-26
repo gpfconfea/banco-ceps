@@ -5,5 +5,7 @@
   "bairro": "Vila Roma",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.6134611",
+  "longitude": "-46.4763618"
 }

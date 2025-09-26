@@ -6,5 +6,7 @@
   "bairro": "Matadouro",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.0677",
+  "longitude": "-42.83301"
 }

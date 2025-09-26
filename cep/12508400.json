@@ -5,5 +5,7 @@
   "bairro": "Jardim Alvorada",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-23.55011",
+  "longitude": "-46.9086915"
 }

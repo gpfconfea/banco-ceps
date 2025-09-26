@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Ipês II",
   "localidade": "Taguaí",
   "uf": "SP",
-  "ibge": "3553005"
+  "ibge": "3553005",
+  "latitude": "-23.46067",
+  "longitude": "-49.39669"
 }

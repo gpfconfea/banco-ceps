@@ -1,9 +1,11 @@
 {
   "cep": "68915959",
   "logradouro": "Avenida Costa e Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ferreira Gomes",
   "uf": "AP",
-  "ibge": "1600238"
+  "ibge": "1600238",
+  "latitude": "0.85503",
+  "longitude": "-51.18333"
 }

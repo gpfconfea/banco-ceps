@@ -5,5 +5,7 @@
   "bairro": "São Miguel",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.8523",
+  "longitude": "-46.30338"
 }

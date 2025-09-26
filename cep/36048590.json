@@ -5,5 +5,7 @@
   "bairro": "Granjas Guarujá",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.6712847",
+  "longitude": "-43.3333167"
 }

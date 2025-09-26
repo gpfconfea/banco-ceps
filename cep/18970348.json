@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Santa Rosa",
   "localidade": "Chavantes",
   "uf": "SP",
-  "ibge": "3557204"
+  "ibge": "3557204",
+  "latitude": "-23.26646",
+  "longitude": "-45.90791"
 }

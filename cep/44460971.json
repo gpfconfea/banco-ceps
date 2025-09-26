@@ -1,9 +1,11 @@
 {
   "cep": "44460971",
   "logradouro": "Rua Salvino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Amoreira",
   "localidade": "Itaparica",
   "uf": "BA",
-  "ibge": "2916104"
+  "ibge": "2916104",
+  "latitude": "-12.5116938",
+  "longitude": "-38.4911622"
 }

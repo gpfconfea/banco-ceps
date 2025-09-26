@@ -5,5 +5,7 @@
   "bairro": "Primavera",
   "localidade": "Ibirité",
   "uf": "MG",
-  "ibge": "3129806"
+  "ibge": "3129806",
+  "latitude": "-22.7282565",
+  "longitude": "-47.3782892"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Curitiba",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-23.08438",
+  "longitude": "-52.46001"
 }

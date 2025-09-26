@@ -1,9 +1,11 @@
 {
   "cep": "46834970",
   "logradouro": "Praça José Gomes da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Igatu",
   "localidade": "Andaraí",
   "uf": "BA",
-  "ibge": "2901304"
+  "ibge": "2901304",
+  "latitude": "-12.89646",
+  "longitude": "-41.31858"
 }

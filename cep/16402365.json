@@ -5,5 +5,7 @@
   "bairro": "Residencial Flamboyant",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-22.84937",
+  "longitude": "-45.23176"
 }

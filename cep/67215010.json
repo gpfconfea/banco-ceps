@@ -5,5 +5,7 @@
   "bairro": "Santa Clara",
   "localidade": "Marituba",
   "uf": "PA",
-  "ibge": "1504422"
+  "ibge": "1504422",
+  "latitude": "-7.20843",
+  "longitude": "-34.86779"
 }

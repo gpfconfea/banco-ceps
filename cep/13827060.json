@@ -6,5 +6,7 @@
   "bairro": "Jardim Holanda",
   "localidade": "Holambra",
   "uf": "SP",
-  "ibge": "3519055"
+  "ibge": "3519055",
+  "latitude": "-22.64033",
+  "longitude": "-47.04647"
 }

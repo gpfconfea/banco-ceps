@@ -5,5 +5,7 @@
   "bairro": "Taboão",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4190567",
+  "longitude": "-46.4970273"
 }

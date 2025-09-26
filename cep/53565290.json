@@ -5,5 +5,7 @@
   "bairro": "Alto São Miguel",
   "localidade": "Abreu e Lima",
   "uf": "PE",
-  "ibge": "2600054"
+  "ibge": "2600054",
+  "latitude": "-22.369125",
+  "longitude": "-46.9362878"
 }

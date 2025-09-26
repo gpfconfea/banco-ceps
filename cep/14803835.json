@@ -5,5 +5,7 @@
   "bairro": "Jardim São Camilo II",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-23.4954533",
+  "longitude": "-46.6489887"
 }

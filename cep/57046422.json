@@ -5,5 +5,7 @@
   "bairro": "Serraria",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-16.7209078",
+  "longitude": "-43.8674467"
 }

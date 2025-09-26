@@ -5,5 +5,7 @@
   "bairro": "Residencial Villa Dumont II",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.35517",
+  "longitude": "-49.0705"
 }

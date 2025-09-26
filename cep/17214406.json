@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial José Perez",
   "localidade": "Jaú",
   "uf": "SP",
-  "ibge": "3525300"
+  "ibge": "3525300",
+  "latitude": "-23.01743",
+  "longitude": "-46.82634"
 }

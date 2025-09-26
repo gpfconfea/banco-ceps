@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Saint Claire",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.29195",
+  "longitude": "-47.69282"
 }

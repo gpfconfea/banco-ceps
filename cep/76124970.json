@@ -1,9 +1,11 @@
 {
   "cep": "76124970",
   "logradouro": "Rua Capitão João Gomes Porto Quadra 46 Lote 6",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Aurilândia",
   "uf": "GO",
-  "ibge": "5202601"
+  "ibge": "5202601",
+  "latitude": "-16.6978514",
+  "longitude": "-49.3182183"
 }

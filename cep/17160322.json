@@ -5,5 +5,7 @@
   "bairro": "Jardim Planalto",
   "localidade": "Arealva",
   "uf": "SP",
-  "ibge": "3503406"
+  "ibge": "3503406",
+  "latitude": "-23.71578",
+  "longitude": "-45.42812"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "96820996",
   "logradouro": "Rua Orlando Oscar Baumhardt",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "latitude": "-29.67494",
+  "longitude": "-52.40607"
 }

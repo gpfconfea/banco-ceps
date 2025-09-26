@@ -5,5 +5,7 @@
   "bairro": "Jardim Cristhais",
   "localidade": "Dourados",
   "uf": "MS",
-  "ibge": "5003702"
+  "ibge": "5003702",
+  "latitude": "-20.431352",
+  "longitude": "-51.3278272"
 }

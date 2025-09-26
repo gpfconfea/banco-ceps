@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Alegre",
   "localidade": "Reginópolis",
   "uf": "SP",
-  "ibge": "3542503"
+  "ibge": "3542503",
+  "latitude": "-23.47553",
+  "longitude": "-46.7023"
 }

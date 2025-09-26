@@ -1,9 +1,11 @@
 {
   "cep": "88775970",
   "logradouro": "Estrada Geral Forquilha Rio D'una",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio D'Una",
   "localidade": "Imaruí",
   "uf": "SC",
-  "ibge": "4207205"
+  "ibge": "4207205",
+  "latitude": "-27.21844",
+  "longitude": "-49.63454"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "45560990",
   "logradouro": "Rua G - Firno Leal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Barra do Rocha",
   "uf": "BA",
-  "ibge": "2903102"
+  "ibge": "2903102",
+  "latitude": "-14.20743",
+  "longitude": "-39.60772"
 }

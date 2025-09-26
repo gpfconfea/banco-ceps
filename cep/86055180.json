@@ -5,5 +5,7 @@
   "bairro": "Portal de Versalhes 3",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3387851",
+  "longitude": "-51.1985764"
 }

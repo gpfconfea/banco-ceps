@@ -1,9 +1,11 @@
 {
   "cep": "36708973",
   "logradouro": "Rua Joaquim de Amaral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Providência",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-20.67324",
+  "longitude": "-43.77929"
 }

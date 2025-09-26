@@ -1,9 +1,11 @@
 {
   "cep": "35645971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Silva Campos",
   "localidade": "Pompéu",
   "uf": "MG",
-  "ibge": "3152006"
+  "ibge": "3152006",
+  "latitude": "-19.953847",
+  "longitude": "-43.9442564"
 }

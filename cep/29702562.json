@@ -5,5 +5,7 @@
   "bairro": "Santa Terezinha",
   "localidade": "Colatina",
   "uf": "ES",
-  "ibge": "3201506"
+  "ibge": "3201506",
+  "latitude": "-19.55127",
+  "longitude": "-40.62855"
 }

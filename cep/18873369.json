@@ -5,5 +5,7 @@
   "bairro": "Parque das Flores",
   "localidade": "Fartura",
   "uf": "SP",
-  "ibge": "3515400"
+  "ibge": "3515400",
+  "latitude": "-22.85216",
+  "longitude": "-47.05483"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "38799970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa Seca",
   "localidade": "Varjão de Minas",
   "uf": "MG",
-  "ibge": "3170750"
+  "ibge": "3170750",
+  "latitude": "-19.8172551",
+  "longitude": "-44.1470746"
 }

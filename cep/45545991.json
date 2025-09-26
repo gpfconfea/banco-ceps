@@ -1,9 +1,11 @@
 {
   "cep": "45545991",
   "logradouro": "Avenida Antonio Carlos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ubaitaba",
   "uf": "BA",
-  "ibge": "2932200"
+  "ibge": "2932200",
+  "latitude": "-12.88983",
+  "longitude": "-38.32114"
 }

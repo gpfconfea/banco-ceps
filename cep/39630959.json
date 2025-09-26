@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Virgem da Lapa",
   "uf": "MG",
-  "ibge": "3171600"
+  "ibge": "3171600",
+  "latitude": "-16.80484",
+  "longitude": "-42.33995"
 }

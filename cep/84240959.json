@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Piraí do Sul",
   "uf": "PR",
-  "ibge": "4119400"
+  "ibge": "4119400",
+  "latitude": "-24.53375",
+  "longitude": "-49.93712"
 }

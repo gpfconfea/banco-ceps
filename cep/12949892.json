@@ -5,5 +5,7 @@
   "bairro": "Iara",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.2540143",
+  "longitude": "-47.3232312"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "14884970",
   "logradouro": "Via de Acesso Professor Paulo Donato Castellane",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Industrial",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "latitude": "-21.2755216",
+  "longitude": "-48.3260577"
 }

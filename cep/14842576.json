@@ -6,5 +6,7 @@
   "bairro": "Residencial Bela Vista",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-22.08194",
+  "longitude": "-51.37858"
 }

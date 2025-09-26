@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alto Boa Vista",
   "uf": "MT",
-  "ibge": "5100359"
+  "ibge": "5100359",
+  "latitude": "-11.67291",
+  "longitude": "-51.37932"
 }

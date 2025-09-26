@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Novais",
   "localidade": "Novais",
   "uf": "SP",
-  "ibge": "3533254"
+  "ibge": "3533254",
+  "latitude": "-20.99456",
+  "longitude": "-48.91875"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62763975",
   "logradouro": "Sítio Pai João",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pai João",
   "localidade": "Aratuba",
   "uf": "CE",
-  "ibge": "2301406"
+  "ibge": "2301406",
+  "latitude": "-4.4464521",
+  "longitude": "-39.0321922"
 }

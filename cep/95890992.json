@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Teutônia",
   "uf": "RS",
-  "ibge": "4321451"
+  "ibge": "4321451",
+  "latitude": "-29.47161",
+  "longitude": "-51.81451"
 }

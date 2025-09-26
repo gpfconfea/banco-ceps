@@ -5,5 +5,7 @@
   "bairro": "Vitória",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "latitude": "-19.916789",
+  "longitude": "-43.9409592"
 }

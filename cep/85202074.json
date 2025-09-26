@@ -6,5 +6,7 @@
   "bairro": "São Basilio",
   "localidade": "Pitanga",
   "uf": "PR",
-  "ibge": "4119608"
+  "ibge": "4119608",
+  "latitude": "-24.75962",
+  "longitude": "-51.76921"
 }

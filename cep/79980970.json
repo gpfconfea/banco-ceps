@@ -1,9 +1,11 @@
 {
   "cep": "79980970",
   "logradouro": "Avenida Juscelino Kubistschek de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Mundo Novo",
   "uf": "MS",
-  "ibge": "5005681"
+  "ibge": "5005681",
+  "latitude": "-19.1066472",
+  "longitude": "-51.7386846"
 }

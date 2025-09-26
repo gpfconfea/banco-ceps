@@ -1,9 +1,11 @@
 {
   "cep": "13631902",
   "logradouro": "Praça Vieira de Moraes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-22.0027898",
+  "longitude": "-47.4230376"
 }

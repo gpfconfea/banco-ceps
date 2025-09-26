@@ -1,9 +1,11 @@
 {
   "cep": "65095904",
   "logradouro": "Avenida Engenheiro Emiliano Macieira Quilômetro 3",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tibiri",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.5739218",
+  "longitude": "-44.3547514"
 }

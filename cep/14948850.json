@@ -5,5 +5,7 @@
   "bairro": "Residencial Planalto Paraíso I",
   "localidade": "Ibitinga",
   "uf": "SP",
-  "ibge": "3519600"
+  "ibge": "3519600",
+  "latitude": "-22.92165",
+  "longitude": "-47.0613"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial São Geraldo",
   "localidade": "Itaúna",
   "uf": "MG",
-  "ibge": "3133808"
+  "ibge": "3133808",
+  "latitude": "-23.654223",
+  "longitude": "-46.707059"
 }

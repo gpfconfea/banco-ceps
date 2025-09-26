@@ -5,5 +5,7 @@
   "bairro": "Amadeus",
   "localidade": "Lagoa Santa",
   "uf": "MG",
-  "ibge": "3137601"
+  "ibge": "3137601",
+  "latitude": "-19.63041",
+  "longitude": "-43.89807"
 }

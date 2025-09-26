@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Cotia",
   "uf": "SP",
-  "ibge": "3513009"
+  "ibge": "3513009",
+  "latitude": "-23.76957",
+  "longitude": "-47.03191"
 }

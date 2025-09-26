@@ -1,9 +1,11 @@
 {
   "cep": "59575993",
   "logradouro": "Rua Principal - Panificadora Nossa Senhora de Fátima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Extremoz",
   "uf": "RN",
-  "ibge": "2403608"
+  "ibge": "2403608",
+  "latitude": "-5.68671",
+  "longitude": "-35.24225"
 }

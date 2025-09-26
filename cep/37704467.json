@@ -5,5 +5,7 @@
   "bairro": "Boa Esperança",
   "localidade": "Poços de Caldas",
   "uf": "MG",
-  "ibge": "3151800"
+  "ibge": "3151800",
+  "latitude": "-19.9470502",
+  "longitude": "-44.0040323"
 }

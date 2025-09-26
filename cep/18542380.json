@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Benedito José Diana",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.1892",
+  "longitude": "-47.52846"
 }

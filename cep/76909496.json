@@ -5,5 +5,7 @@
   "bairro": "Residencial Carneiro",
   "localidade": "Ji-Paraná",
   "uf": "RO",
-  "ibge": "1100122"
+  "ibge": "1100122",
+  "latitude": "-22.7506441",
+  "longitude": "-47.3432328"
 }

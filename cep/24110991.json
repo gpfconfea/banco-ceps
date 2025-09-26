@@ -1,9 +1,11 @@
 {
   "cep": "24110991",
   "logradouro": "Rua da Quadra -Barreto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "latitude": "-22.86581",
+  "longitude": "-43.10367"
 }

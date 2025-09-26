@@ -1,9 +1,11 @@
 {
   "cep": "59400959",
   "logradouro": "Rua Segundo Wanderlei",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Tomé",
   "uf": "RN",
-  "ibge": "2412906"
+  "ibge": "2412906",
+  "latitude": "-5.97546",
+  "longitude": "-36.07351"
 }

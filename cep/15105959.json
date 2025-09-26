@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Potirendaba",
   "uf": "SP",
-  "ibge": "3540804"
+  "ibge": "3540804",
+  "latitude": "-21.04241",
+  "longitude": "-49.37936"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "57265971",
   "logradouro": "Distrito Gerais",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Gerais",
   "localidade": "Teotônio Vilela",
   "uf": "AL",
-  "ibge": "2709152"
+  "ibge": "2709152",
+  "latitude": "-9.8916183",
+  "longitude": "-36.3751999"
 }

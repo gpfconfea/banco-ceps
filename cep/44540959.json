@@ -1,9 +1,11 @@
 {
   "cep": "44540959",
   "logradouro": "Praça Doutor Edgard Tupinambá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Conceição do Almeida",
   "uf": "BA",
-  "ibge": "2908309"
+  "ibge": "2908309",
+  "latitude": "-12.77801",
+  "longitude": "-39.17057"
 }

@@ -5,5 +5,7 @@
   "bairro": "Loteamento Balneário Rio do Mar",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.6255903",
+  "longitude": "-45.4241453"
 }

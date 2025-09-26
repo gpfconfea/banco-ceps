@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campo Bom",
   "uf": "RS",
-  "ibge": "4303905"
+  "ibge": "4303905",
+  "latitude": "-29.68609",
+  "longitude": "-51.05244"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58278971",
   "logradouro": "Rodovia BR 071",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jacaraú",
   "uf": "PB",
-  "ibge": "2507309"
+  "ibge": "2507309",
+  "latitude": "-7.11763",
+  "longitude": "-34.88319"
 }

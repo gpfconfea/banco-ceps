@@ -1,9 +1,11 @@
 {
   "cep": "29263985",
   "logradouro": "Praça da Estação",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Isabel",
   "localidade": "Domingos Martins",
   "uf": "ES",
-  "ibge": "3201902"
+  "ibge": "3201902",
+  "latitude": "-20.3679",
+  "longitude": "-40.65542"
 }

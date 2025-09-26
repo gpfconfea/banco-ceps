@@ -5,5 +5,7 @@
   "bairro": "Vale San Fernando",
   "localidade": "Itapetininga",
   "uf": "SP",
-  "ibge": "3522307"
+  "ibge": "3522307",
+  "latitude": "-23.5354977",
+  "longitude": "-46.9065542"
 }

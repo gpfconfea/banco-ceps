@@ -1,9 +1,11 @@
 {
   "cep": "62352990",
   "logradouro": "Rua do Mercado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ubajara",
   "uf": "CE",
-  "ibge": "2313609"
+  "ibge": "2313609",
+  "latitude": "-3.78162",
+  "longitude": "-38.50871"
 }

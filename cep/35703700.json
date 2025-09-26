@@ -5,5 +5,7 @@
   "bairro": "Nova Serrana",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "latitude": "-21.7227962",
+  "longitude": "-44.9840491"
 }

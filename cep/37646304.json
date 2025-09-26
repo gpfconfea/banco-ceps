@@ -5,5 +5,7 @@
   "bairro": "Residencial Roseira",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-18.56021",
+  "longitude": "-46.53906"
 }

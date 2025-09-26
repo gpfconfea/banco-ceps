@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Platina",
   "uf": "SP",
-  "ibge": "3539707"
+  "ibge": "3539707",
+  "latitude": "-23.53054",
+  "longitude": "-47.13553"
 }

@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-19.5915753",
+  "longitude": "-40.1971641"
 }

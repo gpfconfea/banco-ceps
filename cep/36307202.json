@@ -5,5 +5,7 @@
   "bairro": "Vila Marchetti",
   "localidade": "São João Del Rei",
   "uf": "MG",
-  "ibge": "3162500"
+  "ibge": "3162500",
+  "latitude": "-21.5641955",
+  "longitude": "-45.4243368"
 }

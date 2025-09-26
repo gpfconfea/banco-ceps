@@ -5,5 +5,7 @@
   "bairro": "Parque Amazonas",
   "localidade": "Imperatriz",
   "uf": "MA",
-  "ibge": "2105302"
+  "ibge": "2105302",
+  "latitude": "-23.6584543",
+  "longitude": "-46.8414362"
 }

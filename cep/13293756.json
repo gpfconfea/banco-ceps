@@ -5,5 +5,7 @@
   "bairro": "Monterrey",
   "localidade": "Louveira",
   "uf": "SP",
-  "ibge": "3527306"
+  "ibge": "3527306",
+  "latitude": "-23.08356",
+  "longitude": "-46.87868"
 }

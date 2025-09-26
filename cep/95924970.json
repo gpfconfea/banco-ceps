@@ -1,9 +1,11 @@
 {
   "cep": "95924970",
   "logradouro": "Rua Ernesto Giovanella",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bela Vista do Fão",
   "localidade": "Marques de Souza",
   "uf": "RS",
-  "ibge": "4312054"
+  "ibge": "4312054",
+  "latitude": "-29.2046113",
+  "longitude": "-52.247327"
 }

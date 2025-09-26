@@ -1,9 +1,11 @@
 {
   "cep": "58397976",
   "logradouro": "Rua Avelino Rodrigues Moura Costa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Muquém",
   "localidade": "Areia",
   "uf": "PB",
-  "ibge": "2501104"
+  "ibge": "2501104",
+  "latitude": "-6.9416568",
+  "longitude": "-35.7524728"
 }

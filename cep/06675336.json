@@ -5,5 +5,7 @@
   "bairro": "Chácaras Lagoinha",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-22.717761",
+  "longitude": "-47.358181"
 }

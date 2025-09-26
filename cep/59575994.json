@@ -1,9 +1,11 @@
 {
   "cep": "59575994",
   "logradouro": "Rua Cícero Inácio - Praia de Pitangui",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Extremoz",
   "uf": "RN",
-  "ibge": "2403608"
+  "ibge": "2403608",
+  "latitude": "-5.62884",
+  "longitude": "-35.22331"
 }

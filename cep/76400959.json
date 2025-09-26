@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Uruaçu",
   "uf": "GO",
-  "ibge": "5221601"
+  "ibge": "5221601",
+  "latitude": "-14.52394",
+  "longitude": "-49.14282"
 }

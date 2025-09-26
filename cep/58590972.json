@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João do Cariri",
   "uf": "PB",
-  "ibge": "2514008"
+  "ibge": "2514008",
+  "latitude": "-7.4476659",
+  "longitude": "-36.4797126"
 }

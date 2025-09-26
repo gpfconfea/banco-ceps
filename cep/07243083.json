@@ -5,5 +5,7 @@
   "bairro": "Cidade Parque Brasília",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-22.8728895",
+  "longitude": "-48.4449912"
 }

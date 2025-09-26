@@ -5,5 +5,7 @@
   "bairro": "Jardim Nossa Senhora Aparecida",
   "localidade": "Pongaí",
   "uf": "SP",
-  "ibge": "3540101"
+  "ibge": "3540101",
+  "latitude": "-23.70489",
+  "longitude": "-46.62994"
 }

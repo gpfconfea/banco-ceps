@@ -6,5 +6,7 @@
   "bairro": "Jardim Vasco Marques",
   "localidade": "Bocaina",
   "uf": "SP",
-  "ibge": "3506805"
+  "ibge": "3506805",
+  "latitude": "-22.14079",
+  "longitude": "-48.52549"
 }

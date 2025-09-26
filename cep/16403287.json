@@ -5,5 +5,7 @@
   "bairro": "Jardim Guanabara",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-22.8682786",
+  "longitude": "-47.0577949"
 }

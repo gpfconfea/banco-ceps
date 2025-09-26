@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-4.1723106",
+  "longitude": "-42.8812959"
 }

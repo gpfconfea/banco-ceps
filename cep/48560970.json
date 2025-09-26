@@ -1,9 +1,11 @@
 {
   "cep": "48560970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canché",
   "localidade": "Jeremoabo",
   "uf": "BA",
-  "ibge": "2918100"
+  "ibge": "2918100",
+  "latitude": "-10.0717851",
+  "longitude": "-38.3497223"
 }

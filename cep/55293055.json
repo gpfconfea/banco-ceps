@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Garanhuns",
   "uf": "PE",
-  "ibge": "2606002"
+  "ibge": "2606002",
+  "latitude": "-23.5082173",
+  "longitude": "-46.8743087"
 }

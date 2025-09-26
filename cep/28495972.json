@@ -1,9 +1,11 @@
 {
   "cep": "28495972",
   "logradouro": "Rua João Batista Costa Bastos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ponte Seca",
   "localidade": "Aperibé",
   "uf": "RJ",
-  "ibge": "3300159"
+  "ibge": "3300159",
+  "latitude": "-21.6265983",
+  "longitude": "-42.1140321"
 }

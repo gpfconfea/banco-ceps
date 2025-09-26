@@ -1,9 +1,11 @@
 {
   "cep": "42705990",
   "logradouro": "Rua Valença - Vila Praiana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Lauro de Freitas",
   "uf": "BA",
-  "ibge": "2919207"
+  "ibge": "2919207",
+  "latitude": "-12.90037",
+  "longitude": "-38.31119"
 }

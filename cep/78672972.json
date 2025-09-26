@@ -1,9 +1,11 @@
 {
   "cep": "78672972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pontinópolis",
   "localidade": "São Félix do Araguaia",
   "uf": "MT",
-  "ibge": "5107859"
+  "ibge": "5107859",
+  "latitude": "-11.632408",
+  "longitude": "-50.689575"
 }

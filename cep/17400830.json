@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista II",
   "localidade": "Garça",
   "uf": "SP",
-  "ibge": "3516705"
+  "ibge": "3516705",
+  "latitude": "-23.44414",
+  "longitude": "-47.48276"
 }

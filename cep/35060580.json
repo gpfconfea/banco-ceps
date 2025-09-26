@@ -5,5 +5,7 @@
   "bairro": "Carapina",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "latitude": "-20.2905188",
+  "longitude": "-49.2050348"
 }

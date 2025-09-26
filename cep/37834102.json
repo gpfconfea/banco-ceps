@@ -5,5 +5,7 @@
   "bairro": "Jardim Guaxupé",
   "localidade": "Guaxupé",
   "uf": "MG",
-  "ibge": "3128709"
+  "ibge": "3128709",
+  "latitude": "-21.29616",
+  "longitude": "-46.72288"
 }

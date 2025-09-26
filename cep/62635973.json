@@ -1,9 +1,11 @@
 {
   "cep": "62635973",
   "logradouro": "Rua Zona Rual",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Soares",
   "localidade": "Apuiarés",
   "uf": "CE",
-  "ibge": "2300903"
+  "ibge": "2300903",
+  "latitude": "-7.0344956",
+  "longitude": "-38.9128764"
 }

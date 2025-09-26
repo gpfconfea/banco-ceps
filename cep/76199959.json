@@ -1,9 +1,11 @@
 {
   "cep": "76199959",
   "logradouro": "Rua Rui Barbosa Quadra 3A Lote 3",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Cezarina",
   "uf": "GO",
-  "ibge": "5205455"
+  "ibge": "5205455",
+  "latitude": "-16.97335",
+  "longitude": "-49.76902"
 }

@@ -6,5 +6,7 @@
   "bairro": "Jardim Ana",
   "localidade": "Morungaba",
   "uf": "SP",
-  "ibge": "3532009"
+  "ibge": "3532009",
+  "latitude": "-22.57717",
+  "longitude": "-47.42279"
 }

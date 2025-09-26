@@ -5,5 +5,7 @@
   "bairro": "Mirante do Vale",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.8405952",
+  "longitude": "-43.4049983"
 }

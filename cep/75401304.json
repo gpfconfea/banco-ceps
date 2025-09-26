@@ -5,5 +5,7 @@
   "bairro": "Residencial Nova Morada II",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.33702",
+  "longitude": "-49.49914"
 }

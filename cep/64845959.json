@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Marcos Parente",
   "uf": "PI",
-  "ibge": "2206001"
+  "ibge": "2206001",
+  "latitude": "-7.08451",
+  "longitude": "-41.46482"
 }

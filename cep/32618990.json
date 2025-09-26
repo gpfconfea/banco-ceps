@@ -1,9 +1,11 @@
 {
   "cep": "32618990",
   "logradouro": "Estrada da Gentilezaº, bairro Gentileza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Betim",
   "uf": "MG",
-  "ibge": "3106705"
+  "ibge": "3106705",
+  "latitude": "-19.92786",
+  "longitude": "-44.26206"
 }

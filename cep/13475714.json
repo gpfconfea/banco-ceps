@@ -5,5 +5,7 @@
   "bairro": "Bosque dos Ipês",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-23.4961025",
+  "longitude": "-46.7164968"
 }

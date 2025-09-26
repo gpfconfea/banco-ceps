@@ -5,5 +5,7 @@
   "bairro": "Barra Funda",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.55466",
+  "longitude": "-47.44917"
 }

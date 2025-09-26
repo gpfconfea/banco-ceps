@@ -1,9 +1,11 @@
 {
   "cep": "76742970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caiçara",
   "localidade": "Faina",
   "uf": "GO",
-  "ibge": "5207535"
+  "ibge": "5207535",
+  "latitude": "-18.1673",
+  "longitude": "-47.94454"
 }

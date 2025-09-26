@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Óleo",
   "uf": "SP",
-  "ibge": "3533809"
+  "ibge": "3533809",
+  "latitude": "-22.93976",
+  "longitude": "-49.33669"
 }

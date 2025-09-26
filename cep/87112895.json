@@ -5,5 +5,7 @@
   "bairro": "Jardim Campo Belo",
   "localidade": "Sarandi",
   "uf": "PR",
-  "ibge": "4126256"
+  "ibge": "4126256",
+  "latitude": "-23.49058",
+  "longitude": "-51.89992"
 }

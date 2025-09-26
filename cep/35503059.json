@@ -5,5 +5,7 @@
   "bairro": "Residencial Altaville",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-20.20768",
+  "longitude": "-44.92439"
 }

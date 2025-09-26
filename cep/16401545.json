@@ -5,5 +5,7 @@
   "bairro": "Residencial Santana",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-20.92974",
+  "longitude": "-48.46342"
 }

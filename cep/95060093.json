@@ -6,5 +6,7 @@
   "bairro": "Ana Rech",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "latitude": "-29.12074",
+  "longitude": "-51.10019"
 }

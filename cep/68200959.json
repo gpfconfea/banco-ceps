@@ -1,9 +1,11 @@
 {
   "cep": "68200959",
   "logradouro": "Travessa Doutor Arnaldo Moraes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Alenquer",
   "uf": "PA",
-  "ibge": "1500404"
+  "ibge": "1500404",
+  "latitude": "-1.94374",
+  "longitude": "-54.73704"
 }

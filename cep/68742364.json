@@ -5,5 +5,7 @@
   "bairro": "Nova Olinda",
   "localidade": "Castanhal",
   "uf": "PA",
-  "ibge": "1502400"
+  "ibge": "1502400",
+  "latitude": "-23.5650087",
+  "longitude": "-46.2185208"
 }

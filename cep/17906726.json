@@ -6,5 +6,7 @@
   "bairro": "Jardim dos Pássaros",
   "localidade": "Dracena",
   "uf": "SP",
-  "ibge": "3514403"
+  "ibge": "3514403",
+  "latitude": "-23.53122",
+  "longitude": "-46.37996"
 }

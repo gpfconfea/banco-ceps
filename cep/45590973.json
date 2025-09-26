@@ -1,9 +1,11 @@
 {
   "cep": "45590973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Acaraci",
   "localidade": "Dário Meira",
   "uf": "BA",
-  "ibge": "2910008"
+  "ibge": "2910008",
+  "latitude": "-12.4913169",
+  "longitude": "-37.9627168"
 }

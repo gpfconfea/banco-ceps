@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arcoverde",
   "uf": "PE",
-  "ibge": "2601201"
+  "ibge": "2601201",
+  "latitude": "-21.3119334",
+  "longitude": "-46.6948222"
 }

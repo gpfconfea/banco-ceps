@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Anchieta",
   "uf": "ES",
-  "ibge": "3200409"
+  "ibge": "3200409",
+  "latitude": "-20.8059",
+  "longitude": "-40.65063"
 }

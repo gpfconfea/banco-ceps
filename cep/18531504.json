@@ -6,5 +6,7 @@
   "bairro": "Altos do Tietê",
   "localidade": "Tietê",
   "uf": "SP",
-  "ibge": "3554508"
+  "ibge": "3554508",
+  "latitude": "-23.11426",
+  "longitude": "-47.7036"
 }

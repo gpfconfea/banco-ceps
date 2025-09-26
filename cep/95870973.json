@@ -5,5 +5,7 @@
   "bairro": "João da Costa",
   "localidade": "Bom Retiro do Sul",
   "uf": "RS",
-  "ibge": "4302402"
+  "ibge": "4302402",
+  "latitude": "-29.59318",
+  "longitude": "-51.82617"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Monte Carmelo",
   "uf": "MG",
-  "ibge": "3143104"
+  "ibge": "3143104",
+  "latitude": "-18.58678",
+  "longitude": "-46.51671"
 }

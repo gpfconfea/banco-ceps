@@ -5,5 +5,7 @@
   "bairro": "Residencial Villaggio San Rafaello",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-23.5536039",
+  "longitude": "-46.659547"
 }

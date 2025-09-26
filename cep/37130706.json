@@ -5,5 +5,7 @@
   "bairro": "Residencial Ribeiro",
   "localidade": "Alfenas",
   "uf": "MG",
-  "ibge": "3101607"
+  "ibge": "3101607",
+  "latitude": "-21.41548",
+  "longitude": "-45.96108"
 }

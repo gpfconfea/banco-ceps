@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-23.6515531",
+  "longitude": "-46.7907495"
 }

@@ -5,5 +5,7 @@
   "bairro": "Rio da Prata",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.73707",
+  "longitude": "-38.32921"
 }

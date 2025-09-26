@@ -5,5 +5,7 @@
   "bairro": "Vila São João",
   "localidade": "Salto Grande",
   "uf": "SP",
-  "ibge": "3545407"
+  "ibge": "3545407",
+  "latitude": "-22.8838",
+  "longitude": "-49.98507"
 }

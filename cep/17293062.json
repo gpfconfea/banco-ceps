@@ -5,5 +5,7 @@
   "bairro": "Jardim Bem Viver",
   "localidade": "Macatuba",
   "uf": "SP",
-  "ibge": "3528007"
+  "ibge": "3528007",
+  "latitude": "-23.50531",
+  "longitude": "-46.80081"
 }

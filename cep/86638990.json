@@ -1,9 +1,11 @@
 {
   "cep": "86638990",
   "logradouro": "Rua Vereador José Batista Zaine",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Lupionópolis",
   "uf": "PR",
-  "ibge": "4113809"
+  "ibge": "4113809",
+  "latitude": "-22.6998",
+  "longitude": "-51.64259"
 }

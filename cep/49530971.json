@@ -1,9 +1,11 @@
 {
   "cep": "49530971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ribeirópolis",
   "uf": "SE",
-  "ibge": "2806008"
+  "ibge": "2806008",
+  "latitude": "-10.5410118",
+  "longitude": "-37.3644118"
 }

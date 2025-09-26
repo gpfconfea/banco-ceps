@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Quixabá",
   "uf": "PE",
-  "ibge": "2611533"
+  "ibge": "2611533",
+  "latitude": "-7.71858",
+  "longitude": "-37.85229"
 }

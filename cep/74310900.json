@@ -1,9 +1,11 @@
 {
   "cep": "74310900",
   "logradouro": "Rua A3 Quadra 3",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Alpes",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.705471",
+  "longitude": "-49.3002477"
 }

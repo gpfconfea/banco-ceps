@@ -1,9 +1,11 @@
 {
   "cep": "96570974",
   "logradouro": "Rua Alexandrino de Paula Leite",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Minas do Camaquã",
   "localidade": "Caçapava do Sul",
   "uf": "RS",
-  "ibge": "4302808"
+  "ibge": "4302808",
+  "latitude": "-30.8997812",
+  "longitude": "-53.4288904"
 }

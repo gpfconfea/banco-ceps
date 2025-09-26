@@ -1,9 +1,11 @@
 {
   "cep": "49535959",
   "logradouro": "Praça Oliveira Campos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Miguel do Aleixo",
   "uf": "SE",
-  "ibge": "2807006"
+  "ibge": "2807006",
+  "latitude": "-10.38836",
+  "longitude": "-37.38222"
 }

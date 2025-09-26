@@ -1,9 +1,11 @@
 {
   "cep": "96953970",
   "logradouro": "Estrada da Linha Ocidental",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Linha Ocidental",
   "localidade": "Arroio do Tigre",
   "uf": "RS",
-  "ibge": "4301206"
+  "ibge": "4301206",
+  "latitude": "-29.27996",
+  "longitude": "-53.1102"
 }

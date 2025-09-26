@@ -1,9 +1,11 @@
 {
   "cep": "78115976",
   "logradouro": "Rua Benedito Escalante",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ponte Nova",
   "localidade": "Várzea Grande",
   "uf": "MT",
-  "ibge": "5108402"
+  "ibge": "5108402",
+  "latitude": "-15.6306231",
+  "longitude": "-56.1062507"
 }

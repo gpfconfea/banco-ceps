@@ -5,5 +5,7 @@
   "bairro": "Recanto Verde",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5365383",
+  "longitude": "-46.8885174"
 }

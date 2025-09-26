@@ -1,9 +1,11 @@
 {
   "cep": "64995959",
   "logradouro": "Avenida Presidente Tancredo Neves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Nova República",
   "localidade": "Cristalândia do Piauí",
   "uf": "PI",
-  "ibge": "2203008"
+  "ibge": "2203008",
+  "latitude": "-10.64986",
+  "longitude": "-45.18598"
 }

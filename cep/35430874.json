@@ -6,5 +6,7 @@
   "bairro": "Estrela da Mata",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.40941",
+  "longitude": "-42.89583"
 }

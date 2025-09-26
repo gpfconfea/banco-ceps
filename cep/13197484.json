@@ -5,5 +5,7 @@
   "bairro": "Residencial Parque Bela Vista",
   "localidade": "Monte Mor",
   "uf": "SP",
-  "ibge": "3531803"
+  "ibge": "3531803",
+  "latitude": "-23.54825",
+  "longitude": "-46.77939"
 }

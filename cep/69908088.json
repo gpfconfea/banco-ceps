@@ -5,5 +5,7 @@
   "bairro": "Belo Jardim II",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-21.7435344",
+  "longitude": "-43.3463962"
 }

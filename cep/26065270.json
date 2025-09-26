@@ -5,5 +5,7 @@
   "bairro": "Jardim Nazaré",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-22.7577376",
+  "longitude": "-43.4823704"
 }

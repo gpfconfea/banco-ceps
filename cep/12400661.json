@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim Aurora",
   "localidade": "Pindamonhangaba",
   "uf": "SP",
-  "ibge": "3538006"
+  "ibge": "3538006",
+  "latitude": "-23.7040491",
+  "longitude": "-46.6154517"
 }

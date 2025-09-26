@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.39824",
+  "longitude": "-35.06471"
 }

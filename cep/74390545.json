@@ -5,5 +5,7 @@
   "bairro": "Condomínio Eldorado",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-18.4033584",
+  "longitude": "-49.2160967"
 }

@@ -6,5 +6,7 @@
   "bairro": "Reserva da Barra",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.50171",
+  "longitude": "-48.54757"
 }

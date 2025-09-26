@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-20.0639829",
+  "longitude": "-44.2582838"
 }

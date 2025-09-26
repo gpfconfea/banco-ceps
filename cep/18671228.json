@@ -5,5 +5,7 @@
   "bairro": "Residencial Bem Viver",
   "localidade": "Areiópolis",
   "uf": "SP",
-  "ibge": "3503604"
+  "ibge": "3503604",
+  "latitude": "-21.2023",
+  "longitude": "-50.48166"
 }

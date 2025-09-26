@@ -1,9 +1,11 @@
 {
   "cep": "77776980",
   "logradouro": "Rua Adão Rufino Guimarães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra do Ouro",
   "localidade": "Goiatins",
   "uf": "TO",
-  "ibge": "1709005"
+  "ibge": "1709005",
+  "latitude": "-7.7123354",
+  "longitude": "-47.6744418"
 }

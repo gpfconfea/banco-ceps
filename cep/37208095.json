@@ -6,5 +6,7 @@
   "bairro": "Reserva Real",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.2292",
+  "longitude": "-45.03418"
 }

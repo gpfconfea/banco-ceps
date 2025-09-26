@@ -1,9 +1,11 @@
 {
   "cep": "62375973",
   "logradouro": "Estrada Sítio Buriti",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Carnaubal",
   "uf": "CE",
-  "ibge": "2303402"
+  "ibge": "2303402",
+  "latitude": "-4.56068",
+  "longitude": "-37.7634"
 }

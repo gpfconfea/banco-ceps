@@ -1,9 +1,11 @@
 {
   "cep": "47580959",
   "logradouro": "Rua Marechal Dutra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Morpará",
   "uf": "BA",
-  "ibge": "2921609"
+  "ibge": "2921609",
+  "latitude": "-11.56158",
+  "longitude": "-43.27944"
 }

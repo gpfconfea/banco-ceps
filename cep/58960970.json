@@ -1,9 +1,11 @@
 {
   "cep": "58960970",
   "logradouro": "Rua Áurea Dias de Almeida",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bonito de Santa Fé",
   "uf": "PB",
-  "ibge": "2502409"
+  "ibge": "2502409",
+  "latitude": "-7.3149224",
+  "longitude": "-38.5169961"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque Industrial I",
   "localidade": "Tabatinga",
   "uf": "SP",
-  "ibge": "3552700"
+  "ibge": "3552700",
+  "latitude": "-21.73301",
+  "longitude": "-48.70703"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Itália",
   "localidade": "Santa Maria da Serra",
   "uf": "SP",
-  "ibge": "3547007"
+  "ibge": "3547007",
+  "latitude": "-22.56824",
+  "longitude": "-48.16531"
 }

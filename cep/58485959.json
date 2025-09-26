@@ -1,9 +1,11 @@
 {
   "cep": "58485959",
   "logradouro": "Avenida 5 de Maio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Domingos do Cariri",
   "uf": "PB",
-  "ibge": "2513943"
+  "ibge": "2513943",
+  "latitude": "-7.63591",
+  "longitude": "-36.43253"
 }
