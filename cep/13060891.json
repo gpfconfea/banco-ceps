@@ -5,5 +5,7 @@
   "bairro": "Jardim Alto do Ipaussurama",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9348264",
+  "longitude": "-47.1280471"
 }

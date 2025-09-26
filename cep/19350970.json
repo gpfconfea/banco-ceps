@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Emilianópolis",
   "uf": "SP",
-  "ibge": "3515129"
+  "ibge": "3515129",
+  "latitude": "-21.8319502",
+  "longitude": "-51.4828741"
 }

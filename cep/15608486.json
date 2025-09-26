@@ -5,5 +5,7 @@
   "bairro": "São Carlos",
   "localidade": "Fernandópolis",
   "uf": "SP",
-  "ibge": "3515509"
+  "ibge": "3515509",
+  "latitude": "-21.9887",
+  "longitude": "-47.9295"
 }

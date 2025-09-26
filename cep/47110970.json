@@ -1,9 +1,11 @@
 {
   "cep": "47110970",
   "logradouro": "Praça José Mariano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibiraba",
   "localidade": "Barra",
   "uf": "BA",
-  "ibge": "2902708"
+  "ibge": "2902708",
+  "latitude": "-11.0897577",
+  "longitude": "-43.1390524"
 }

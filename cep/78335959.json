@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Colniza",
   "uf": "MT",
-  "ibge": "5103254"
+  "ibge": "5103254",
+  "latitude": "-9.44863",
+  "longitude": "-59.22643"
 }

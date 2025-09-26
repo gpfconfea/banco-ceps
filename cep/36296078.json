@@ -5,5 +5,7 @@
   "bairro": "Santa Maria",
   "localidade": "Barroso",
   "uf": "MG",
-  "ibge": "3105905"
+  "ibge": "3105905",
+  "latitude": "-21.1895",
+  "longitude": "-43.96681"
 }

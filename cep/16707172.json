@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Doutor Clineu de Almeida",
   "localidade": "Guararapes",
   "uf": "SP",
-  "ibge": "3518206"
+  "ibge": "3518206",
+  "latitude": "-21.26323",
+  "longitude": "-50.65568"
 }

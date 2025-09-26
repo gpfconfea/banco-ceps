@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Agricolândia",
   "uf": "PI",
-  "ibge": "2200103"
+  "ibge": "2200103",
+  "latitude": "-5.79789",
+  "longitude": "-42.6613"
 }

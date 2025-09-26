@@ -1,9 +1,11 @@
 {
   "cep": "62298974",
   "logradouro": "Rua São Francisco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Video",
   "localidade": "Catunda",
   "uf": "CE",
-  "ibge": "2303659"
+  "ibge": "2303659",
+  "latitude": "-2.796436",
+  "longitude": "-40.515258"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Santa Terezinha",
   "localidade": "Agudos",
   "uf": "SP",
-  "ibge": "3500709"
+  "ibge": "3500709",
+  "latitude": "-22.46907",
+  "longitude": "-48.99513"
 }

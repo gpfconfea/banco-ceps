@@ -1,9 +1,11 @@
 {
   "cep": "44862970",
   "logradouro": "Rua da Algaroba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tamburil",
   "localidade": "Morro do Chapéu",
   "uf": "BA",
-  "ibge": "2921708"
+  "ibge": "2921708",
+  "latitude": "-11.4850587",
+  "longitude": "-41.492709"
 }

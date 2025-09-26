@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Patrocínio Paulista",
   "localidade": "Patrocínio Paulista",
   "uf": "SP",
-  "ibge": "3536307"
+  "ibge": "3536307",
+  "latitude": "-20.64366",
+  "longitude": "-47.28103"
 }

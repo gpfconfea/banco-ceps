@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Casa Branca",
   "uf": "SP",
-  "ibge": "3510807"
+  "ibge": "3510807",
+  "latitude": "-21.78035",
+  "longitude": "-47.08139"
 }

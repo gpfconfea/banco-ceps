@@ -1,9 +1,11 @@
 {
   "cep": "88610970",
   "logradouro": "Rua Doralino Aguiar Nunes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Sebastião do Arvoredo",
   "localidade": "São Joaquim",
   "uf": "SC",
-  "ibge": "4216503"
+  "ibge": "4216503",
+  "latitude": "-28.2850022",
+  "longitude": "-49.9432884"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Orleans",
   "uf": "SC",
-  "ibge": "4211702"
+  "ibge": "4211702",
+  "latitude": "-28.35991",
+  "longitude": "-49.29127"
 }

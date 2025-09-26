@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.85954",
+  "longitude": "-44.02426"
 }

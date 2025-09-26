@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Anajás",
   "uf": "PA",
-  "ibge": "1500701"
+  "ibge": "1500701",
+  "latitude": "-1.06292",
+  "longitude": "-46.76292"
 }

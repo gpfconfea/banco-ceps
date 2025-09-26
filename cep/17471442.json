@@ -5,5 +5,7 @@
   "bairro": "Residencial Vila Flora",
   "localidade": "Duartina",
   "uf": "SP",
-  "ibge": "3514502"
+  "ibge": "3514502",
+  "latitude": "-23.97194",
+  "longitude": "-46.30509"
 }

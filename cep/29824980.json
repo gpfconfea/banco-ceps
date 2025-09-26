@@ -5,5 +5,7 @@
   "bairro": "Santo Agostinho",
   "localidade": "Água Doce do Norte",
   "uf": "ES",
-  "ibge": "3200169"
+  "ibge": "3200169",
+  "latitude": "-20.8521063",
+  "longitude": "-41.1339974"
 }

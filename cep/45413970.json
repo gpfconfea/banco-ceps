@@ -1,9 +1,11 @@
 {
   "cep": "45413970",
   "logradouro": "Rua Povoado do Bonfim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guerém",
   "localidade": "Valença",
   "uf": "BA",
-  "ibge": "2932903"
+  "ibge": "2932903",
+  "latitude": "-12.5369492",
+  "longitude": "-38.7324704"
 }

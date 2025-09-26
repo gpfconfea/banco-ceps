@@ -5,5 +5,7 @@
   "bairro": "Santa Rosa",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.714178",
+  "longitude": "-43.564147"
 }

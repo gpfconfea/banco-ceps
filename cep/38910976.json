@@ -1,9 +1,11 @@
 {
   "cep": "38910976",
   "logradouro": "Rua Quatrocentos e Treze",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Corguinhos",
   "localidade": "Iguatama",
   "uf": "MG",
-  "ibge": "3130309"
+  "ibge": "3130309",
+  "latitude": "-19.5856759",
+  "longitude": "-46.4015403"
 }

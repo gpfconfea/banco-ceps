@@ -1,9 +1,11 @@
 {
   "cep": "46850972",
   "logradouro": "Praça Dois de Julho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Terra Boa",
   "localidade": "Boa Vista do Tupim",
   "uf": "BA",
-  "ibge": "2903805"
+  "ibge": "2903805",
+  "latitude": "-12.6612445",
+  "longitude": "-40.6070538"
 }

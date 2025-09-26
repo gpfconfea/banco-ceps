@@ -5,5 +5,7 @@
   "bairro": "Vila Cruzeiro",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.589877",
+  "longitude": "-47.9733247"
 }

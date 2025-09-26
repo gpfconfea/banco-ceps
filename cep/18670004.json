@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Areiópolis",
   "uf": "SP",
-  "ibge": "3503604"
+  "ibge": "3503604",
+  "latitude": "-20.53827",
+  "longitude": "-47.4014"
 }

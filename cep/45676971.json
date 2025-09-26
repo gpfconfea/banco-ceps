@@ -1,9 +1,11 @@
 {
   "cep": "45676971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Laje do Banco",
   "localidade": "Aurelino Leal",
   "uf": "BA",
-  "ibge": "2902401"
+  "ibge": "2902401",
+  "latitude": "-12.833853",
+  "longitude": "-38.368085"
 }

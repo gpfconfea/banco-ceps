@@ -5,5 +5,7 @@
   "bairro": "Campos Elíseos",
   "localidade": "Pardinho",
   "uf": "SP",
-  "ibge": "3536109"
+  "ibge": "3536109",
+  "latitude": "-23.43935",
+  "longitude": "-45.08124"
 }

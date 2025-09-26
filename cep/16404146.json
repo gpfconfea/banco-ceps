@@ -5,5 +5,7 @@
   "bairro": "Residencial Himalaia",
   "localidade": "Lins",
   "uf": "SP",
-  "ibge": "3527108"
+  "ibge": "3527108",
+  "latitude": "-22.13594",
+  "longitude": "-51.36883"
 }

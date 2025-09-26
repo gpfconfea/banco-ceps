@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ponto dos Volantes",
   "uf": "MG",
-  "ibge": "3152170"
+  "ibge": "3152170",
+  "latitude": "-16.75263",
+  "longitude": "-41.50353"
 }

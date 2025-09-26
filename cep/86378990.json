@@ -1,9 +1,11 @@
 {
   "cep": "86378990",
   "logradouro": "Rua Constâncio Jussiani",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Itambaracá",
   "uf": "PR",
-  "ibge": "4111001"
+  "ibge": "4111001",
+  "latitude": "-22.97164",
+  "longitude": "-50.47998"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "46443970",
   "logradouro": "Rua Única",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parateca",
   "localidade": "Malhada",
   "uf": "BA",
-  "ibge": "2920205"
+  "ibge": "2920205",
+  "latitude": "-14.3375835",
+  "longitude": "-43.7690335"
 }

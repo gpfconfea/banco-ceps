@@ -1,9 +1,11 @@
 {
   "cep": "99778970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Três Barras",
   "localidade": "Aratiba",
   "uf": "RS",
-  "ibge": "4300901"
+  "ibge": "4300901",
+  "latitude": "-27.63698",
+  "longitude": "-52.53755"
 }

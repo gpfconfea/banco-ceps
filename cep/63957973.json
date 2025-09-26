@@ -1,9 +1,11 @@
 {
   "cep": "63957973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caiçarinha",
   "localidade": "Choró",
   "uf": "CE",
-  "ibge": "2303931"
+  "ibge": "2303931",
+  "latitude": "-2.7956374",
+  "longitude": "-40.5140808"
 }

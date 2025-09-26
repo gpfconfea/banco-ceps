@@ -5,5 +5,7 @@
   "bairro": "Jardim Centenário",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-22.8725788",
+  "longitude": "-47.0898835"
 }

@@ -6,5 +6,7 @@
   "bairro": "Residencial Beatriz 2",
   "localidade": "Palmares Paulista",
   "uf": "SP",
-  "ibge": "3535101"
+  "ibge": "3535101",
+  "latitude": "-21.08946",
+  "longitude": "-48.80794"
 }

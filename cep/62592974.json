@@ -1,9 +1,11 @@
 {
   "cep": "62592974",
   "logradouro": "Rua João Agostinho Nascimento",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Almofala",
   "localidade": "Itarema",
   "uf": "CE",
-  "ibge": "2306553"
+  "ibge": "2306553",
+  "latitude": "-2.93994",
+  "longitude": "-39.82064"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Querência",
   "uf": "MT",
-  "ibge": "5107065"
+  "ibge": "5107065",
+  "latitude": "-12.58538",
+  "longitude": "-52.20784"
 }

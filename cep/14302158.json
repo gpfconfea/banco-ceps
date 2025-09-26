@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Batatais",
   "uf": "SP",
-  "ibge": "3505906"
+  "ibge": "3505906",
+  "latitude": "-23.18801",
+  "longitude": "-46.94242"
 }

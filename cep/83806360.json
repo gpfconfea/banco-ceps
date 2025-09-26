@@ -6,5 +6,7 @@
   "bairro": "Colônia Lima",
   "localidade": "Mandirituba",
   "uf": "PR",
-  "ibge": "4114302"
+  "ibge": "4114302",
+  "latitude": "-25.77528",
+  "longitude": "-49.31563"
 }

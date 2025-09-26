@@ -5,5 +5,7 @@
   "bairro": "Residencial Palmeira",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.357",
+  "longitude": "-49.49891"
 }

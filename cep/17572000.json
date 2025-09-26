@@ -5,5 +5,7 @@
   "bairro": "Novo Oriente",
   "localidade": "Oriente",
   "uf": "SP",
-  "ibge": "3534104"
+  "ibge": "3534104",
+  "latitude": "-22.15323",
+  "longitude": "-50.095"
 }

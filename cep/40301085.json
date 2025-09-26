@@ -5,5 +5,7 @@
   "bairro": "Barbalho",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "42.3840873",
+  "longitude": "-83.3528646"
 }

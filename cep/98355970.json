@@ -1,9 +1,11 @@
 {
   "cep": "98355970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Trentin",
   "localidade": "Jaboticaba",
   "uf": "RS",
-  "ibge": "4310850"
+  "ibge": "4310850",
+  "latitude": "-22.856177",
+  "longitude": "-43.2420381"
 }

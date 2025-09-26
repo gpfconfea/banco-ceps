@@ -5,5 +5,7 @@
   "bairro": "Monsenhor João Alexandre",
   "localidade": "Cláudio",
   "uf": "MG",
-  "ibge": "3116605"
+  "ibge": "3116605",
+  "latitude": "-20.368143",
+  "longitude": "-44.68829"
 }

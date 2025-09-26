@@ -6,5 +6,7 @@
   "bairro": "Prefeito Mauro Sampaio",
   "localidade": "Juazeiro do Norte",
   "uf": "CE",
-  "ibge": "2307304"
+  "ibge": "2307304",
+  "latitude": "-7.24305",
+  "longitude": "-39.30786"
 }

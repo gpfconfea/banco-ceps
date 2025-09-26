@@ -5,5 +5,7 @@
   "bairro": "Jardim Boa Vista",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.0840773",
+  "longitude": "-48.9286451"
 }

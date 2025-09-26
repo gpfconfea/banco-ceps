@@ -1,9 +1,11 @@
 {
   "cep": "62734972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campos Belos",
   "localidade": "Caridade",
   "uf": "CE",
-  "ibge": "2303006"
+  "ibge": "2303006",
+  "latitude": "-3.7449808",
+  "longitude": "-38.6483705"
 }

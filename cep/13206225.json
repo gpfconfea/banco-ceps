@@ -5,5 +5,7 @@
   "bairro": "Jardim Cidapel",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-25.4567034",
+  "longitude": "-49.3347777"
 }

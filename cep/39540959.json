@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João do Paraíso",
   "uf": "MG",
-  "ibge": "3162708"
+  "ibge": "3162708",
+  "latitude": "-15.31435",
+  "longitude": "-42.0165"
 }

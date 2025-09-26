@@ -5,5 +5,7 @@
   "bairro": "Rio Abaixo",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-22.98138",
+  "longitude": "-46.99386"
 }

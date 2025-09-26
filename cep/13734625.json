@@ -5,5 +5,7 @@
   "bairro": "Jardim Imperial",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-23.34332",
+  "longitude": "-47.81266"
 }

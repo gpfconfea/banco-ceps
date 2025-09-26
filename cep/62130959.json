@@ -1,9 +1,11 @@
 {
   "cep": "62130959",
   "logradouro": "Rua Monsenhor Furtado Cavalcante",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Meruoca",
   "uf": "CE",
-  "ibge": "2308203"
+  "ibge": "2308203",
+  "latitude": "-3.53746",
+  "longitude": "-40.45712"
 }

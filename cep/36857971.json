@@ -1,9 +1,11 @@
 {
   "cep": "36857971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pinhotiba",
   "localidade": "Eugenópolis",
   "uf": "MG",
-  "ibge": "3124906"
+  "ibge": "3124906",
+  "latitude": "-18.64755",
+  "longitude": "-48.19267"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Portinari",
   "localidade": "Frutal",
   "uf": "MG",
-  "ibge": "3127107"
+  "ibge": "3127107",
+  "latitude": "-20.01892",
+  "longitude": "-48.92625"
 }

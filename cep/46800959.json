@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ruy Barbosa",
   "uf": "BA",
-  "ibge": "2927200"
+  "ibge": "2927200",
+  "latitude": "-12.28472",
+  "longitude": "-40.50006"
 }

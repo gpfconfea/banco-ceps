@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ibirarema",
   "uf": "SP",
-  "ibge": "3519501"
+  "ibge": "3519501",
+  "latitude": "-22.81689",
+  "longitude": "-50.06839"
 }

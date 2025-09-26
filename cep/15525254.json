@@ -6,5 +6,7 @@
   "bairro": "Residencial Silvestre",
   "localidade": "Parisi",
   "uf": "SP",
-  "ibge": "3536257"
+  "ibge": "3536257",
+  "latitude": "-20.91344",
+  "longitude": "-48.50335"
 }

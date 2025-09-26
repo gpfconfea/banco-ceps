@@ -1,9 +1,11 @@
 {
   "cep": "25900989",
-  "logradouro": "Avenida Simão da Mota 900 Térreo Locker Correios",
+  "logradouro": "Avenida Simão da Mota 900 Térreo",
   "complemento": "",
   "bairro": "Centro",
   "localidade": "Magé",
   "uf": "RJ",
-  "ibge": "3302502"
+  "ibge": "3302502",
+  "latitude": "-22.65614",
+  "longitude": "-43.038"
 }

@@ -6,5 +6,7 @@
   "bairro": "Tijuco Preto",
   "localidade": "Rio Negro",
   "uf": "PR",
-  "ibge": "4122305"
+  "ibge": "4122305",
+  "latitude": "-26.08345",
+  "longitude": "-49.77575"
 }

@@ -5,5 +5,7 @@
   "bairro": "JK Nova Capital",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-18.429846",
+  "longitude": "-49.2170114"
 }

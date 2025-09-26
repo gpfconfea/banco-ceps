@@ -5,5 +5,7 @@
   "bairro": "Parque Maria Cristina",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "latitude": "-23.5811756",
+  "longitude": "-46.6836465"
 }

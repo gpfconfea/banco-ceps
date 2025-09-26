@@ -1,9 +1,11 @@
 {
   "cep": "07789900",
   "logradouro": "Via de Acesso Norte Km 38 Galpão 7 - XBRT",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Empresarial Gato Preto (Jordanésia)",
   "localidade": "Cajamar",
   "uf": "SP",
-  "ibge": "3509205"
+  "ibge": "3509205",
+  "latitude": "-23.34499",
+  "longitude": "-46.83828"
 }

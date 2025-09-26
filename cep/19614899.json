@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Rancharia",
   "localidade": "Rancharia",
   "uf": "SP",
-  "ibge": "3542206"
+  "ibge": "3542206",
+  "latitude": "-22.23916",
+  "longitude": "-50.88877"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29830992",
   "logradouro": "Praça Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Nova Venécia",
   "uf": "ES",
-  "ibge": "3203908"
+  "ibge": "3203908",
+  "latitude": "-18.70105",
+  "longitude": "-40.39968"
 }

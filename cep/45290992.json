@@ -1,9 +1,11 @@
 {
   "cep": "45290992",
   "logradouro": "Rua da Bandinha - MCPC Instalado na Escola Ministro Tarso Dutra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ibicuí",
   "uf": "BA",
-  "ibge": "2912301"
+  "ibge": "2912301",
+  "latitude": "-14.97545",
+  "longitude": "-40.40657"
 }

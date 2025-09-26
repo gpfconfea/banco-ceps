@@ -1,9 +1,11 @@
 {
   "cep": "55760970",
   "logradouro": "Rua Capitão Luiz de França",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Vertente do Lério",
   "uf": "PE",
-  "ibge": "2616183"
+  "ibge": "2616183",
+  "latitude": "-7.7739255",
+  "longitude": "-35.8506134"
 }

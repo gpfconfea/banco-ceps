@@ -5,5 +5,7 @@
   "bairro": "Jardim Cidade Nova",
   "localidade": "Potim",
   "uf": "SP",
-  "ibge": "3540754"
+  "ibge": "3540754",
+  "latitude": "-23.71942",
+  "longitude": "-46.76329"
 }

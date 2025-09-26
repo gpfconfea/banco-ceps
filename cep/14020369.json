@@ -5,5 +5,7 @@
   "bairro": "Jardim São Luiz",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-23.5316362",
+  "longitude": "-46.6588892"
 }

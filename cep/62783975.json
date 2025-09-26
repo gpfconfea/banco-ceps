@@ -1,9 +1,11 @@
 {
   "cep": "62783975",
   "logradouro": "Sítio Piracicaba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Grande Basílio",
   "localidade": "Palmácia",
   "uf": "CE",
-  "ibge": "2310100"
+  "ibge": "2310100",
+  "latitude": "-4.1486454",
+  "longitude": "-38.8447809"
 }

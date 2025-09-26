@@ -6,5 +6,7 @@
   "bairro": "Bairro dos Fragas",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.36061",
+  "longitude": "-47.8352"
 }

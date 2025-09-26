@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Fernandes Pinheiro",
   "uf": "PR",
-  "ibge": "4107736"
+  "ibge": "4107736",
+  "latitude": "-25.41246",
+  "longitude": "-50.54934"
 }

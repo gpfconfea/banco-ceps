@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-21.3714461",
+  "longitude": "-45.5168682"
 }

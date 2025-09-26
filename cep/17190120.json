@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Reginópolis",
   "uf": "SP",
-  "ibge": "3542503"
+  "ibge": "3542503",
+  "latitude": "-21.89101",
+  "longitude": "-49.2169"
 }

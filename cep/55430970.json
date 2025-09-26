@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Angelim",
   "uf": "PE",
-  "ibge": "2601003"
+  "ibge": "2601003",
+  "latitude": "-8.8892987",
+  "longitude": "-36.4945128"
 }

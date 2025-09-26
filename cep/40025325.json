@@ -5,5 +5,7 @@
   "bairro": "Baixa dos Sapateiros",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.3223155",
+  "longitude": "-42.8908435"
 }

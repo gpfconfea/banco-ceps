@@ -1,9 +1,11 @@
 {
   "cep": "39528971",
   "logradouro": "Avenida José Lucas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João do Bonito",
   "localidade": "Mato Verde",
   "uf": "MG",
-  "ibge": "3141009"
+  "ibge": "3141009",
+  "latitude": "-15.3265",
+  "longitude": "-42.83418"
 }

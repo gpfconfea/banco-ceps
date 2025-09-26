@@ -5,5 +5,7 @@
   "bairro": "Jardim Mauá",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-24.3839737",
+  "longitude": "-47.9290814"
 }

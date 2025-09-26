@@ -5,5 +5,7 @@
   "bairro": "Novos Tempos",
   "localidade": "Carangola",
   "uf": "MG",
-  "ibge": "3113305"
+  "ibge": "3113305",
+  "latitude": "-20.73762",
+  "longitude": "-42.01363"
 }

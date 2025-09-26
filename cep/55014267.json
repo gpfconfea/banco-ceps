@@ -5,5 +5,7 @@
   "bairro": "Maurício de Nassau",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-23.5099983",
+  "longitude": "-46.7844533"
 }

@@ -6,5 +6,7 @@
   "bairro": "Aeroporto Bauru Arealva",
   "localidade": "Arealva",
   "uf": "SP",
-  "ibge": "3503406"
+  "ibge": "3503406",
+  "latitude": "-22.00761",
+  "longitude": "-48.95203"
 }

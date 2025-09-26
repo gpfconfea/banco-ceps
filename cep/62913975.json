@@ -1,9 +1,11 @@
 {
   "cep": "62913975",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José",
   "localidade": "Palhano",
   "uf": "CE",
-  "ibge": "2310001"
+  "ibge": "2310001",
+  "latitude": "-3.7449808",
+  "longitude": "-38.6483705"
 }

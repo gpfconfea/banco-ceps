@@ -1,9 +1,11 @@
 {
   "cep": "85548990",
   "logradouro": "Rua São Francisco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Honório Serpa",
   "uf": "PR",
-  "ibge": "4109658"
+  "ibge": "4109658",
+  "latitude": "-26.14346",
+  "longitude": "-52.38558"
 }

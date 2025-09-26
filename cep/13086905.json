@@ -1,9 +1,11 @@
 {
   "cep": "13086905",
   "logradouro": "Estrada de Acesso X-Tal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Polo II de Alta Tecnologia (Campinas)",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-21.8924075",
+  "longitude": "-47.6226853"
 }

@@ -5,5 +5,7 @@
   "bairro": "Água Limpa",
   "localidade": "Volta Redonda",
   "uf": "RJ",
-  "ibge": "3306305"
+  "ibge": "3306305",
+  "latitude": "-22.4732953",
+  "longitude": "-42.2032192"
 }

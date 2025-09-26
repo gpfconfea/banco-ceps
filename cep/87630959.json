@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Atalaia",
   "uf": "PR",
-  "ibge": "4102208"
+  "ibge": "4102208",
+  "latitude": "-23.15177",
+  "longitude": "-52.05437"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62232990",
   "logradouro": "Rua Peixoto Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "latitude": "-4.57266",
+  "longitude": "-40.81668"
 }

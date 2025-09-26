@@ -5,5 +5,7 @@
   "bairro": "Villa São Vicente",
   "localidade": "Franca",
   "uf": "SP",
-  "ibge": "3516200"
+  "ibge": "3516200",
+  "latitude": "-23.5139063",
+  "longitude": "-46.4761109"
 }

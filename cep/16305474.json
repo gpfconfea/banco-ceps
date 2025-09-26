@@ -5,5 +5,7 @@
   "bairro": "Residencial Jardim do Lago V",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-21.4340235",
+  "longitude": "-50.0910616"
 }

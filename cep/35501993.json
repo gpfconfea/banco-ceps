@@ -1,9 +1,11 @@
 {
   "cep": "35501993",
   "logradouro": "Praça da Igreja - Branquinhos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Divinópolis",
   "uf": "MG",
-  "ibge": "3122306"
+  "ibge": "3122306",
+  "latitude": "-20.0542",
+  "longitude": "-44.92355"
 }

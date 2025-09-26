@@ -1,9 +1,11 @@
 {
   "cep": "55662972",
   "logradouro": "Rua José do Patrocinio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Sapucarana",
   "localidade": "Bezerros",
   "uf": "PE",
-  "ibge": "2601904"
+  "ibge": "2601904",
+  "latitude": "-19.9229283",
+  "longitude": "-43.977875"
 }

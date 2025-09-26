@@ -1,9 +1,11 @@
 {
   "cep": "37797971",
   "logradouro": "Praça Antônio Borges Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campestrinho",
   "localidade": "Andradas",
   "uf": "MG",
-  "ibge": "3102605"
+  "ibge": "3102605",
+  "latitude": "-19.926287",
+  "longitude": "-48.3818465"
 }

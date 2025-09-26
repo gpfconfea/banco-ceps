@@ -5,5 +5,7 @@
   "bairro": "Veraneio Maracanã",
   "localidade": "Itaquaquecetuba",
   "uf": "SP",
-  "ibge": "3523107"
+  "ibge": "3523107",
+  "latitude": "-23.4378595",
+  "longitude": "-46.366528"
 }

@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Serra Dourada",
   "uf": "BA",
-  "ibge": "2930303"
+  "ibge": "2930303",
+  "latitude": "-12.75924",
+  "longitude": "-43.95046"
 }

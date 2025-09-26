@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Rafael",
   "uf": "RN",
-  "ibge": "2412807"
+  "ibge": "2412807",
+  "latitude": "-5.80245",
+  "longitude": "-36.88649"
 }

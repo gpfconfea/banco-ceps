@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Vicência",
   "uf": "PE",
-  "ibge": "2616308"
+  "ibge": "2616308",
+  "latitude": "-7.660039",
+  "longitude": "-35.4140328"
 }

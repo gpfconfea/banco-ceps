@@ -5,5 +5,7 @@
   "bairro": "Viverde III",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "latitude": "-22.87476",
+  "longitude": "-43.211"
 }

@@ -5,5 +5,7 @@
   "bairro": "Distrito Industrial III",
   "localidade": "Lavras",
   "uf": "MG",
-  "ibge": "3138203"
+  "ibge": "3138203",
+  "latitude": "-21.23436",
+  "longitude": "-45.02761"
 }

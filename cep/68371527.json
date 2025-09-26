@@ -5,5 +5,7 @@
   "bairro": "Nova Altamira",
   "localidade": "Altamira",
   "uf": "PA",
-  "ibge": "1500602"
+  "ibge": "1500602",
+  "latitude": "-1.5263447",
+  "longitude": "-48.6252784"
 }

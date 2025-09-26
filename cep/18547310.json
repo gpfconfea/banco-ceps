@@ -6,5 +6,7 @@
   "bairro": "Palmital",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.21305",
+  "longitude": "-47.50863"
 }

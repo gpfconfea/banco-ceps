@@ -5,5 +5,7 @@
   "bairro": "Vila Aparecida",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "latitude": "-19.98761",
+  "longitude": "-43.87389"
 }

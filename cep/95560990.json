@@ -1,9 +1,11 @@
 {
   "cep": "95560990",
   "logradouro": "BR 101 Km 09",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Torres",
   "uf": "RS",
-  "ibge": "4321501"
+  "ibge": "4321501",
+  "latitude": "-29.31028",
+  "longitude": "-49.77292"
 }

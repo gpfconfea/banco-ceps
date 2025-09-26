@@ -5,5 +5,7 @@
   "bairro": "Jardim Eliza",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-23.0094679",
+  "longitude": "-47.0217437"
 }

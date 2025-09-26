@@ -5,5 +5,7 @@
   "bairro": "Universitário",
   "localidade": "Videira",
   "uf": "SC",
-  "ibge": "4219309"
+  "ibge": "4219309",
+  "latitude": "-26.99189",
+  "longitude": "-51.17567"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62146974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Padre Linhares",
   "localidade": "Massapê",
   "uf": "CE",
-  "ibge": "2308005"
+  "ibge": "2308005",
+  "latitude": "-3.4958749",
+  "longitude": "-40.5108853"
 }

@@ -5,5 +5,7 @@
   "bairro": "Barra Grande",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.0366747",
+  "longitude": "-49.0481158"
 }

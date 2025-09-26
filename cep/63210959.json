@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mauriti",
   "uf": "CE",
-  "ibge": "2308104"
+  "ibge": "2308104",
+  "latitude": "-7.38779",
+  "longitude": "-38.77418"
 }

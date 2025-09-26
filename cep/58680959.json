@@ -1,9 +1,11 @@
 {
   "cep": "58680959",
   "logradouro": "Rua João Suassuna",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Taperoá",
   "uf": "PB",
-  "ibge": "2516508"
+  "ibge": "2516508",
+  "latitude": "-7.20654",
+  "longitude": "-36.82542"
 }

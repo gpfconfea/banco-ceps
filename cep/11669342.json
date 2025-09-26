@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Nova Caraguá II",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.5570175",
+  "longitude": "-46.9034312"
 }

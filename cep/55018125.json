@@ -5,5 +5,7 @@
   "bairro": "Salgado",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-23.5851106",
+  "longitude": "-46.5740747"
 }

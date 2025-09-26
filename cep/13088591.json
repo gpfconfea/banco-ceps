@@ -5,5 +5,7 @@
   "bairro": "Parque Anhumas",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.8545322",
+  "longitude": "-47.0347167"
 }

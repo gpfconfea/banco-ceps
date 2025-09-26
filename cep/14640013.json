@@ -6,5 +6,7 @@
   "bairro": "Centro",
   "localidade": "Morro Agudo",
   "uf": "SP",
-  "ibge": "3531902"
+  "ibge": "3531902",
+  "latitude": "-22.47726",
+  "longitude": "-48.9625"
 }

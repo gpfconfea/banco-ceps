@@ -1,9 +1,11 @@
 {
   "cep": "69253970",
   "logradouro": "Avenida Mário Guedes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Janauacá",
   "localidade": "Careiro",
   "uf": "AM",
-  "ibge": "1301100"
+  "ibge": "1301100",
+  "latitude": "-3.8192811",
+  "longitude": "-60.3608698"
 }

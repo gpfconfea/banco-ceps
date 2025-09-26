@@ -5,5 +5,7 @@
   "bairro": "Lobo",
   "localidade": "Itatinga",
   "uf": "SP",
-  "ibge": "3523503"
+  "ibge": "3523503",
+  "latitude": "-23.502654",
+  "longitude": "-46.7486529"
 }

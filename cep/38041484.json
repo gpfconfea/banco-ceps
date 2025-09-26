@@ -5,5 +5,7 @@
   "bairro": "Parque Liberdade",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.80779",
+  "longitude": "-47.92054"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Vista da Colina",
   "localidade": "Aguaí",
   "uf": "SP",
-  "ibge": "3500303"
+  "ibge": "3500303",
+  "latitude": "-23.81114",
+  "longitude": "-46.08066"
 }

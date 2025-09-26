@@ -6,5 +6,7 @@
   "bairro": "Vila Rica",
   "localidade": "Vargem Grande Paulista",
   "uf": "SP",
-  "ibge": "3556453"
+  "ibge": "3556453",
+  "latitude": "-23.6413",
+  "longitude": "-46.99969"
 }

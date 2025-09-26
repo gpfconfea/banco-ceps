@@ -5,5 +5,7 @@
   "bairro": "Macaxeira",
   "localidade": "Recife",
   "uf": "PE",
-  "ibge": "2611606"
+  "ibge": "2611606",
+  "latitude": "-2.5375426",
+  "longitude": "-44.2122298"
 }

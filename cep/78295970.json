@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Indiavaí",
   "uf": "MT",
-  "ibge": "5104500"
+  "ibge": "5104500",
+  "latitude": "-15.4991765",
+  "longitude": "-58.5758467"
 }

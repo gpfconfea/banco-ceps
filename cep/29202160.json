@@ -5,5 +5,7 @@
   "bairro": "Comunidade Urbana de Maxinda",
   "localidade": "Guarapari",
   "uf": "ES",
-  "ibge": "3202405"
+  "ibge": "3202405",
+  "latitude": "-29.6476233",
+  "longitude": "-51.0240507"
 }

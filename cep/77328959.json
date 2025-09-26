@@ -1,9 +1,11 @@
 {
   "cep": "77328959",
   "logradouro": "Avenida Tertuliano Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Lavandeira",
   "uf": "TO",
-  "ibge": "1712157"
+  "ibge": "1712157",
+  "latitude": "-12.78693",
+  "longitude": "-46.51028"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Paramirim",
   "uf": "BA",
-  "ibge": "2923605"
+  "ibge": "2923605",
+  "latitude": "-13.43854",
+  "longitude": "-42.23817"
 }

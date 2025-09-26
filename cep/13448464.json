@@ -6,5 +6,7 @@
   "bairro": "Residencial Jacarandá",
   "localidade": "Engenheiro Coelho",
   "uf": "SP",
-  "ibge": "3515152"
+  "ibge": "3515152",
+  "latitude": "-22.49111",
+  "longitude": "-47.16615"
 }

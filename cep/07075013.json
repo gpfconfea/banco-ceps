@@ -5,5 +5,7 @@
   "bairro": "Jardim Palmira",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-22.8533659",
+  "longitude": "-47.2036065"
 }

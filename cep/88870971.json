@@ -1,9 +1,11 @@
 {
   "cep": "88870971",
   "logradouro": "Estrada Chapadão de Brusque",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Brusque do Sul",
   "localidade": "Orleans",
   "uf": "SC",
-  "ibge": "4211702"
+  "ibge": "4211702",
+  "latitude": "-28.25",
+  "longitude": "-49.383333"
 }

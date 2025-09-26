@@ -6,5 +6,7 @@
   "bairro": "Eugênio Ferreira",
   "localidade": "Canela",
   "uf": "RS",
-  "ibge": "4304408"
+  "ibge": "4304408",
+  "latitude": "-29.35721",
+  "longitude": "-50.79442"
 }

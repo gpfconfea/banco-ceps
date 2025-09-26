@@ -5,5 +5,7 @@
   "bairro": "Porto Bragança",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.9152609",
+  "longitude": "-46.5524975"
 }

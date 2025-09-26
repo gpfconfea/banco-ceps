@@ -5,5 +5,7 @@
   "bairro": "Alto das Palmeiras",
   "localidade": "Itu",
   "uf": "SP",
-  "ibge": "3523909"
+  "ibge": "3523909",
+  "latitude": "-23.0520764",
+  "longitude": "-46.9569023"
 }

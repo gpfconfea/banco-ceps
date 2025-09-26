@@ -5,5 +5,7 @@
   "bairro": "Residencial Boa Vista",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-23.3338563",
+  "longitude": "-47.8488997"
 }

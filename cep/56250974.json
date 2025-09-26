@@ -1,9 +1,11 @@
 {
   "cep": "56250974",
   "logradouro": "Sítio Mangueira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado Fazenda Espirito Santo",
   "localidade": "Trindade",
   "uf": "PE",
-  "ibge": "2615607"
+  "ibge": "2615607",
+  "latitude": "-8.12358",
+  "longitude": "-35.29748"
 }

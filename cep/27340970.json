@@ -1,9 +1,11 @@
 {
   "cep": "27340970",
   "logradouro": "Rua da Estação",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Antônio Rocha",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "latitude": "-22.6477914",
+  "longitude": "-44.1521171"
 }

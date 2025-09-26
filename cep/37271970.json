@@ -5,5 +5,7 @@
   "bairro": "Porto dos Mendes",
   "localidade": "Campo Belo",
   "uf": "MG",
-  "ibge": "3111200"
+  "ibge": "3111200",
+  "latitude": "-20.0712973",
+  "longitude": "-44.3142128"
 }

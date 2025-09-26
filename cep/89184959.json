@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Presidente Nereu",
   "uf": "SC",
-  "ibge": "4214102"
+  "ibge": "4214102",
+  "latitude": "-27.27932",
+  "longitude": "-49.39049"
 }

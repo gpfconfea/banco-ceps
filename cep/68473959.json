@@ -1,9 +1,11 @@
 {
   "cep": "68473959",
   "logradouro": "Travessa Rio Jordão Quadra 55",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Espigão",
   "localidade": "Novo Repartimento",
   "uf": "PA",
-  "ibge": "1505064"
+  "ibge": "1505064",
+  "latitude": "-4.25047",
+  "longitude": "-49.94867"
 }

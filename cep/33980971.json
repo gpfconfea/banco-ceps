@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Taquaraçu de Minas",
   "uf": "MG",
-  "ibge": "3168309"
+  "ibge": "3168309",
+  "latitude": "-20.4394289",
+  "longitude": "-46.7321734"
 }

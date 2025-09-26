@@ -5,5 +5,7 @@
   "bairro": "Cercado Grande I",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.49241",
+  "longitude": "-46.81941"
 }

@@ -5,5 +5,7 @@
   "bairro": "Lago Azul",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-20.0881361",
+  "longitude": "-44.2834444"
 }

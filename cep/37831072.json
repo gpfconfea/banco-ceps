@@ -6,5 +6,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Guaxupé",
   "uf": "MG",
-  "ibge": "3128709"
+  "ibge": "3128709",
+  "latitude": "-21.31562",
+  "longitude": "-46.70903"
 }

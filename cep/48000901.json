@@ -1,10 +1,12 @@
 {
   "cep": "48000901",
   "logradouro": "Praça Graciliano de Freitas",
-  "complemento": "s/n",
+  "complemento": "",
   "unidade": "Prefeitura Municipal de Alagoinhas",
   "bairro": "Centro",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "latitude": "-12.13818",
+  "longitude": "-38.42455"
 }

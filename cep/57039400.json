@@ -5,5 +5,7 @@
   "bairro": "Riacho Doce",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.56955",
+  "longitude": "-35.65734"
 }

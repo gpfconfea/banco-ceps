@@ -1,9 +1,11 @@
 {
   "cep": "62354990",
   "logradouro": "Alameda Amador",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ubajara",
   "uf": "CE",
-  "ibge": "2313609"
+  "ibge": "2313609",
+  "latitude": "-3.88858",
+  "longitude": "-40.98124"
 }

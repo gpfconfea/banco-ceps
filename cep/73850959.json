@@ -1,9 +1,11 @@
 {
   "cep": "73850959",
   "logradouro": "Rua 21 de Abril Quadra Quadra 24 Lote 4 Loja 55",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Cristalina",
   "uf": "GO",
-  "ibge": "5206206"
+  "ibge": "5206206",
+  "latitude": "-16.64233",
+  "longitude": "-49.29345"
 }

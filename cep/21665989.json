@@ -1,9 +1,11 @@
 {
   "cep": "21665989",
-  "logradouro": "Estrada Camboatá 2300 Térreo Locker Correios",
+  "logradouro": "Estrada Camboatá 2300 Térreo",
   "complemento": "",
   "bairro": "Guadalupe",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.83643",
+  "longitude": "-43.38159"
 }

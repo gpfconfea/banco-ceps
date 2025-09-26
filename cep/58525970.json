@@ -1,9 +1,11 @@
 {
   "cep": "58525970",
   "logradouro": "Distrito Santa Maria",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Maria",
   "localidade": "São João do Tigre",
   "uf": "PB",
-  "ibge": "2514107"
+  "ibge": "2514107",
+  "latitude": "-8.10621",
+  "longitude": "-36.6446603"
 }

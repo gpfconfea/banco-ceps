@@ -1,9 +1,11 @@
 {
   "cep": "29830984",
   "logradouro": "Praça Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Poção",
   "localidade": "Nova Venécia",
   "uf": "ES",
-  "ibge": "3203908"
+  "ibge": "3203908",
+  "latitude": "-20.6305067",
+  "longitude": "-40.4432833"
 }

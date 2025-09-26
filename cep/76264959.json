@@ -1,9 +1,11 @@
 {
   "cep": "76264959",
   "logradouro": "Rua Antônio Mendes Quadra 29 Lote 270A",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Diorama",
   "uf": "GO",
-  "ibge": "5207105"
+  "ibge": "5207105",
+  "latitude": "-16.23545",
+  "longitude": "-51.25832"
 }

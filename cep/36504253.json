@@ -5,5 +5,7 @@
   "bairro": "Cristal",
   "localidade": "Ubá",
   "uf": "MG",
-  "ibge": "3169901"
+  "ibge": "3169901",
+  "latitude": "-15.56583",
+  "longitude": "-44.59297"
 }

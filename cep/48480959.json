@@ -1,9 +1,11 @@
 {
   "cep": "48480959",
   "logradouro": "Avenida Luís Coelho Moreira Caldas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Crisópolis",
   "uf": "BA",
-  "ibge": "2909604"
+  "ibge": "2909604",
+  "latitude": "-11.50942",
+  "longitude": "-38.14949"
 }

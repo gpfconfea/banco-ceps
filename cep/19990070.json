@@ -6,5 +6,7 @@
   "bairro": "Bairro do Coqueiral",
   "localidade": "Platina",
   "uf": "SP",
-  "ibge": "3539707"
+  "ibge": "3539707",
+  "latitude": "-22.63448",
+  "longitude": "-50.20737"
 }

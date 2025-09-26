@@ -1,9 +1,11 @@
 {
   "cep": "55255990",
   "logradouro": "Rua Manoel Raimundo Oliveira - Distrito Mulungu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Sanharó",
   "uf": "PE",
-  "ibge": "2612406"
+  "ibge": "2612406",
+  "latitude": "-8.43018",
+  "longitude": "-36.52772"
 }

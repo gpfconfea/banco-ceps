@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Miracema",
   "uf": "RJ",
-  "ibge": "3303005"
+  "ibge": "3303005",
+  "latitude": "-22.91136",
+  "longitude": "-43.16869"
 }

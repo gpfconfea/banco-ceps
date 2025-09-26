@@ -1,9 +1,11 @@
 {
   "cep": "63560990",
   "logradouro": "Vila Moreira de Cima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Acopiara",
   "uf": "CE",
-  "ibge": "2300309"
+  "ibge": "2300309",
+  "latitude": "-6.10703",
+  "longitude": "-39.4432"
 }

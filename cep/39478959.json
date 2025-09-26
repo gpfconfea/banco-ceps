@@ -1,9 +1,11 @@
 {
   "cep": "39478959",
   "logradouro": "Rua Machado de Assis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Matias Cardoso",
   "uf": "MG",
-  "ibge": "3140852"
+  "ibge": "3140852",
+  "latitude": "-14.85162",
+  "longitude": "-43.91752"
 }

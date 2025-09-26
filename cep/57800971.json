@@ -1,9 +1,11 @@
 {
   "cep": "57800971",
   "logradouro": "Distrito Timbó",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito de Timbó",
   "localidade": "União dos Palmares",
   "uf": "AL",
-  "ibge": "2709301"
+  "ibge": "2709301",
+  "latitude": "-26.8348807",
+  "longitude": "-49.2638678"
 }

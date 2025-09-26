@@ -1,9 +1,11 @@
 {
   "cep": "76514971",
   "logradouro": "Rua Luiz da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Crixás",
   "uf": "GO",
-  "ibge": "5206404"
+  "ibge": "5206404",
+  "latitude": "-17.79753",
+  "longitude": "-50.93026"
 }

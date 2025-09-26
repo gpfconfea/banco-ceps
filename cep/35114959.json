@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Pescador",
   "uf": "MG",
-  "ibge": "3150000"
+  "ibge": "3150000",
+  "latitude": "-18.35627",
+  "longitude": "-41.59626"
 }

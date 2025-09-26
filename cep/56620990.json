@@ -1,9 +1,11 @@
 {
   "cep": "56620990",
   "logradouro": "Rua do Comércio - Vila Henrique Dias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Sertânia",
   "uf": "PE",
-  "ibge": "2614105"
+  "ibge": "2614105",
+  "latitude": "-8.26616",
+  "longitude": "-37.18576"
 }

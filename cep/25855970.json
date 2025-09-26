@@ -1,9 +1,11 @@
 {
   "cep": "25855970",
   "logradouro": "Praça de Cavaru",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Salutaris",
   "localidade": "Paraíba do Sul",
   "uf": "RJ",
-  "ibge": "3303708"
+  "ibge": "3303708",
+  "latitude": "-22.27078",
+  "longitude": "-43.348819"
 }

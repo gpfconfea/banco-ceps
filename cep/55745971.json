@@ -1,9 +1,11 @@
 {
   "cep": "55745971",
   "logradouro": "Rua Lino Gomes da Rocha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Orobó",
   "uf": "PE",
-  "ibge": "2609709"
+  "ibge": "2609709",
+  "latitude": "-7.6660919",
+  "longitude": "-35.6227429"
 }

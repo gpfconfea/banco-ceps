@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Guaíba",
   "uf": "RS",
-  "ibge": "4309308"
+  "ibge": "4309308",
+  "latitude": "-30.19086",
+  "longitude": "-50.22064"
 }

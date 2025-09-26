@@ -1,9 +1,11 @@
 {
   "cep": "95929970",
   "logradouro": "Rua João Cândido Pontinsn",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Xaxim",
   "localidade": "Progresso",
   "uf": "RS",
-  "ibge": "4315156"
+  "ibge": "4315156",
+  "latitude": "-27.95039",
+  "longitude": "-54.75331"
 }

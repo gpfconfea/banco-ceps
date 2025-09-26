@@ -5,5 +5,7 @@
   "bairro": "Residencial Doutor Luiz Antonio Paschoal",
   "localidade": "Itaí",
   "uf": "SP",
-  "ibge": "3521804"
+  "ibge": "3521804",
+  "latitude": "-23.40268",
+  "longitude": "-49.10157"
 }

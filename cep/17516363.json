@@ -5,5 +5,7 @@
   "bairro": "Residencial Cascata I",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.14872",
+  "longitude": "-49.9424"
 }

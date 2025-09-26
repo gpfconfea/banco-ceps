@@ -5,5 +5,7 @@
   "bairro": "Chácara Floresta",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-22.8964545",
+  "longitude": "-48.439741"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Maria Izabel",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-23.2983682",
+  "longitude": "-46.7545415"
 }

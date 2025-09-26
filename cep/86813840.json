@@ -5,5 +5,7 @@
   "bairro": "Residencial Fariz Gebrim",
   "localidade": "Apucarana",
   "uf": "PR",
-  "ibge": "4101408"
+  "ibge": "4101408",
+  "latitude": "-23.52836",
+  "longitude": "-51.44076"
 }

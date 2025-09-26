@@ -6,5 +6,7 @@
   "bairro": "Loteamento Alphaville Jundiaí - Fase 01",
   "localidade": "Jundiaí",
   "uf": "SP",
-  "ibge": "3525904"
+  "ibge": "3525904",
+  "latitude": "-23.18949",
+  "longitude": "-46.89175"
 }

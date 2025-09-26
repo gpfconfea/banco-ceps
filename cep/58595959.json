@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Caraúbas",
   "uf": "PB",
-  "ibge": "2504074"
+  "ibge": "2504074",
+  "latitude": "-7.72782",
+  "longitude": "-36.49238"
 }
