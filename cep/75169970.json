@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Ouro Verde de Goiás",
   "uf": "GO",
-  "ibge": "5215405"
+  "ibge": "5215405",
+  "latitude": "-16.2200566",
+  "longitude": "-49.1940783"
 }

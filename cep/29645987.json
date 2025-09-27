@@ -1,9 +1,11 @@
 {
   "cep": "29645987",
   "logradouro": "Rua Iná Duarte Médice",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caramuru",
   "localidade": "Santa Maria de Jetibá",
   "uf": "ES",
-  "ibge": "3204559"
+  "ibge": "3204559",
+  "latitude": "-20.02727",
+  "longitude": "-40.74227"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "63714974",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa das Pedras",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "latitude": "-3.8097909",
+  "longitude": "-38.5113799"
 }

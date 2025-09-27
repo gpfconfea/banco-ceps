@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Junqueirópolis",
   "uf": "SP",
-  "ibge": "3526001"
+  "ibge": "3526001",
+  "latitude": "-21.51696",
+  "longitude": "-51.42753"
 }

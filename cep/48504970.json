@@ -1,9 +1,11 @@
 {
   "cep": "48504970",
   "logradouro": "Rua João Nascimento Rehen",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Aribice",
   "localidade": "Euclides da Cunha",
   "uf": "BA",
-  "ibge": "2910701"
+  "ibge": "2910701",
+  "latitude": "-10.5514578",
+  "longitude": "-38.7955166"
 }

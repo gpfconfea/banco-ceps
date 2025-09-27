@@ -6,5 +6,7 @@
   "bairro": "São Francisco",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.83942",
+  "longitude": "-46.31286"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itapé",
   "uf": "BA",
-  "ibge": "2916203"
+  "ibge": "2916203",
+  "latitude": "-10.2209393",
+  "longitude": "-37.4202279"
 }

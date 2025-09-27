@@ -5,5 +5,7 @@
   "bairro": "Novo Santo Antônio",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.47808",
+  "longitude": "-45.43705"
 }

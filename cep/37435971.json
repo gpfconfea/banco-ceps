@@ -1,9 +1,11 @@
 {
   "cep": "37435971",
   "logradouro": "Praça Coronel Reis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Águas de Contendas",
   "localidade": "Conceição do Rio Verde",
   "uf": "MG",
-  "ibge": "3117702"
+  "ibge": "3117702",
+  "latitude": "-21.1368304",
+  "longitude": "-44.2585016"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62295974",
   "logradouro": "Vila Riacho das Pedras",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Raimundo Martins",
   "localidade": "Santa Quitéria",
   "uf": "CE",
-  "ibge": "2312205"
+  "ibge": "2312205",
+  "latitude": "-4.33217",
+  "longitude": "-40.15705"
 }

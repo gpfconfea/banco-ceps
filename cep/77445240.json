@@ -5,5 +5,7 @@
   "bairro": "Cidade Industrial",
   "localidade": "Gurupi",
   "uf": "TO",
-  "ibge": "1709500"
+  "ibge": "1709500",
+  "latitude": "-5.46907",
+  "longitude": "-47.8945"
 }

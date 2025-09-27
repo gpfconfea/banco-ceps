@@ -1,9 +1,11 @@
 {
   "cep": "58441973",
   "logradouro": "Praça João Miguel Leão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José da Mata",
   "localidade": "Campina Grande",
   "uf": "PB",
-  "ibge": "2504009"
+  "ibge": "2504009",
+  "latitude": "-7.17806",
+  "longitude": "-35.98141"
 }

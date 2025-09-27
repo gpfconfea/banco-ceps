@@ -5,5 +5,7 @@
   "bairro": "Vale das Águas",
   "localidade": "Iacanga",
   "uf": "SP",
-  "ibge": "3519105"
+  "ibge": "3519105",
+  "latitude": "-23.4984",
+  "longitude": "-46.51514"
 }

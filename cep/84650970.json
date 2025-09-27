@@ -1,9 +1,11 @@
 {
   "cep": "84650970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio do Iratim",
   "localidade": "Bituruna",
   "uf": "PR",
-  "ibge": "4102901"
+  "ibge": "4102901",
+  "latitude": "-25.9784342",
+  "longitude": "-51.6203028"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "83860973",
   "logradouro": "Estrada Belo Horizonte",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campina dos Maias",
   "localidade": "Piên",
   "uf": "PR",
-  "ibge": "4119103"
+  "ibge": "4119103",
+  "latitude": "-26.1465337",
+  "longitude": "-49.4278582"
 }

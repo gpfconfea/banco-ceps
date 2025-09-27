@@ -1,9 +1,11 @@
 {
   "cep": "63895973",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jacampari",
   "localidade": "Boa Viagem",
   "uf": "CE",
-  "ibge": "2302404"
+  "ibge": "2302404",
+  "latitude": "-5.125844",
+  "longitude": "-39.730736"
 }

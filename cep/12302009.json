@@ -5,5 +5,7 @@
   "bairro": "Jardim Rio Comprido",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-22.91822",
+  "longitude": "-47.07863"
 }

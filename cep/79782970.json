@@ -1,9 +1,11 @@
 {
   "cep": "79782970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Porto XV de Novembro",
   "localidade": "Bataguassu",
   "uf": "MS",
-  "ibge": "5001904"
+  "ibge": "5001904",
+  "latitude": "-20.5567372",
+  "longitude": "-54.6000015"
 }

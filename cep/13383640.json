@@ -5,5 +5,7 @@
   "bairro": "Residencial Vale dos Lírios",
   "localidade": "Nova Odessa",
   "uf": "SP",
-  "ibge": "3533403"
+  "ibge": "3533403",
+  "latitude": "-22.8104576",
+  "longitude": "-47.280452"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Icém",
   "uf": "SP",
-  "ibge": "3519808"
+  "ibge": "3519808",
+  "latitude": "-20.3403611",
+  "longitude": "-49.196535"
 }

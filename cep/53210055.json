@@ -5,5 +5,7 @@
   "bairro": "Caixa D'Água",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-23.3079143",
+  "longitude": "-51.2081387"
 }

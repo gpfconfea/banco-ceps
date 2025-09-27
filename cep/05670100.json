@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.587179",
+  "longitude": "-46.6929935"
 }

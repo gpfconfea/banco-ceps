@@ -1,9 +1,11 @@
 {
   "cep": "88725970",
   "logradouro": "Estrada Geral de Azambuja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Azambuja",
   "localidade": "Pedras Grandes",
   "uf": "SC",
-  "ibge": "4212403"
+  "ibge": "4212403",
+  "latitude": "-28.4975271",
+  "longitude": "-49.2482782"
 }

@@ -5,5 +5,7 @@
   "bairro": "Barreiro",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-7.0333649",
+  "longitude": "-55.4165747"
 }

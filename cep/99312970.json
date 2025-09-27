@@ -1,9 +1,11 @@
 {
   "cep": "99312970",
   "logradouro": "Estrada do Rincão do Bugre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bugre",
   "localidade": "Soledade",
   "uf": "RS",
-  "ibge": "4320800"
+  "ibge": "4320800",
+  "latitude": "-30.13016",
+  "longitude": "-51.1411"
 }

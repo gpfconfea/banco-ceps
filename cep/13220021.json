@@ -5,5 +5,7 @@
   "bairro": "Vila Cristo Redentor",
   "localidade": "Várzea Paulista",
   "uf": "SP",
-  "ibge": "3556503"
+  "ibge": "3556503",
+  "latitude": "-23.2064724",
+  "longitude": "-46.84861"
 }

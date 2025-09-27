@@ -1,9 +1,11 @@
 {
   "cep": "45213971",
   "logradouro": "Praça Santo Antonio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itaibó",
   "localidade": "Jequié",
   "uf": "BA",
-  "ibge": "2918001"
+  "ibge": "2918001",
+  "latitude": "-13.8625824",
+  "longitude": "-40.080979"
 }

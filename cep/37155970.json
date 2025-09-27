@@ -1,9 +1,11 @@
 {
   "cep": "37155970",
   "logradouro": "Rua Porto do Itaci",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itaci",
   "localidade": "Carmo do Rio Claro",
   "uf": "MG",
-  "ibge": "3114402"
+  "ibge": "3114402",
+  "latitude": "-20.933333",
+  "longitude": "-45.95"
 }

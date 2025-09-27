@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora de Fátima",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-22.7368772",
+  "longitude": "-47.3113336"
 }

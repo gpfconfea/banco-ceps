@@ -1,9 +1,11 @@
 {
   "cep": "63712974",
   "logradouro": "Rua João Ferreira dos Anjos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "latitude": "-5.40534",
+  "longitude": "-40.63769"
 }

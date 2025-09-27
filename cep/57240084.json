@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Miguel dos Campos",
   "uf": "AL",
-  "ibge": "2708600"
+  "ibge": "2708600",
+  "latitude": "-23.5867575",
+  "longitude": "-46.6759394"
 }

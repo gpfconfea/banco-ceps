@@ -1,9 +1,11 @@
 {
   "cep": "48445959",
   "logradouro": "Praça Ananias Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Heliópolis",
   "uf": "BA",
-  "ibge": "2911857"
+  "ibge": "2911857",
+  "latitude": "-10.67644",
+  "longitude": "-38.28286"
 }

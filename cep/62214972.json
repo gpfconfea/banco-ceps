@@ -1,9 +1,11 @@
 {
   "cep": "62214972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ramadinha",
   "localidade": "Ararendá",
   "uf": "CE",
-  "ibge": "2301257"
+  "ibge": "2301257",
+  "latitude": "-4.7452433",
+  "longitude": "-40.9072228"
 }

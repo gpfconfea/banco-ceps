@@ -5,5 +5,7 @@
   "bairro": "Coqueiro",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-8.0363459",
+  "longitude": "-50.0069706"
 }

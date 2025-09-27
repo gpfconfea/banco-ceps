@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional San Fernando",
   "localidade": "Rolândia",
   "uf": "PR",
-  "ibge": "4122404"
+  "ibge": "4122404",
+  "latitude": "-23.33564",
+  "longitude": "-51.38747"
 }

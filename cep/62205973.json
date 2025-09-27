@@ -1,9 +1,11 @@
 {
   "cep": "62205973",
   "logradouro": "Rua Joaquim Justino Gonçalves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Betânia",
   "localidade": "Nova Russas",
   "uf": "CE",
-  "ibge": "2309300"
+  "ibge": "2309300",
+  "latitude": "-4.6271414",
+  "longitude": "-40.5187443"
 }

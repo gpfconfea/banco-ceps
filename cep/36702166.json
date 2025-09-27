@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-21.48622",
+  "longitude": "-42.79084"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "29772983",
   "logradouro": "Avenida Maurício Antônio de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Luzia de Mantenópolis",
   "localidade": "Mantenópolis",
   "uf": "ES",
-  "ibge": "3203304"
+  "ibge": "3203304",
+  "latitude": "-23.5375668",
+  "longitude": "-46.1837828"
 }

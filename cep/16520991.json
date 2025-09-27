@@ -1,9 +1,11 @@
 {
   "cep": "16520991",
   "logradouro": "Rua Doze de Outubro, Centro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cafelândia",
   "uf": "SP",
-  "ibge": "3508801"
+  "ibge": "3508801",
+  "latitude": "-21.5851",
+  "longitude": "-49.44129"
 }

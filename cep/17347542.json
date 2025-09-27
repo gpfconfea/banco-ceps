@@ -6,5 +6,7 @@
   "bairro": "Residencial Santa Tereza",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.48846",
+  "longitude": "-48.57998"
 }

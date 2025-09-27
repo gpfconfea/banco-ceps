@@ -5,5 +5,7 @@
   "bairro": "Jardim Jockey Club",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-16.4712498",
+  "longitude": "-54.613409"
 }

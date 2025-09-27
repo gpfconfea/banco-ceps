@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-23.529532",
+  "longitude": "-46.1893967"
 }

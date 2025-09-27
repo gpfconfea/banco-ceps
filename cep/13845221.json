@@ -5,5 +5,7 @@
   "bairro": "Imóvel Pedregulhal",
   "localidade": "Mogi Guaçu",
   "uf": "SP",
-  "ibge": "3530706"
+  "ibge": "3530706",
+  "latitude": "-23.327627",
+  "longitude": "-46.719451"
 }

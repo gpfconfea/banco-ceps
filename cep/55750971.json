@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Surubim",
   "uf": "PE",
-  "ibge": "2614501"
+  "ibge": "2614501",
+  "latitude": "-8.6774887",
+  "longitude": "-35.5847283"
 }

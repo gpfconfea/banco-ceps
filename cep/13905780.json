@@ -5,5 +5,7 @@
   "bairro": "Residencial Quinta de São Thiago",
   "localidade": "Amparo",
   "uf": "SP",
-  "ibge": "3501905"
+  "ibge": "3501905",
+  "latitude": "-22.70371",
+  "longitude": "-46.80851"
 }

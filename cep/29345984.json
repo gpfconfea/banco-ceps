@@ -1,9 +1,11 @@
 {
   "cep": "29345984",
   "logradouro": "Rua Manoel José da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Praia dos Cações",
   "localidade": "Marataízes",
   "uf": "ES",
-  "ibge": "3203320"
+  "ibge": "3203320",
+  "latitude": "-21.0497841",
+  "longitude": "-40.8348115"
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio Residencial Vila Rica I",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.22062",
+  "longitude": "-45.93089"
 }

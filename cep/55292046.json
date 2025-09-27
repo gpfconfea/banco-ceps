@@ -5,5 +5,7 @@
   "bairro": "Aloísio Souto Pinto",
   "localidade": "Garanhuns",
   "uf": "PE",
-  "ibge": "2606002"
+  "ibge": "2606002",
+  "latitude": "-2.9548876",
+  "longitude": "-44.810695"
 }

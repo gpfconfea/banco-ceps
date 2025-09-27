@@ -1,9 +1,11 @@
 {
   "cep": "62953990",
   "logradouro": "Rua do Juazeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Morada Nova",
   "uf": "CE",
-  "ibge": "2308708"
+  "ibge": "2308708",
+  "latitude": "-4.81182",
+  "longitude": "-38.50729"
 }

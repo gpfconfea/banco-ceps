@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Senador Modestino Gonçalves",
   "uf": "MG",
-  "ibge": "3165909"
+  "ibge": "3165909",
+  "latitude": "-17.94814",
+  "longitude": "-43.22297"
 }

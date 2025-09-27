@@ -1,9 +1,11 @@
 {
   "cep": "47230970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Peixe",
   "localidade": "Campo Alegre de Lourdes",
   "uf": "BA",
-  "ibge": "2905909"
+  "ibge": "2905909",
+  "latitude": "-9.4759617",
+  "longitude": "-43.5400807"
 }

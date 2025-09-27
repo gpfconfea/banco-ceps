@@ -6,5 +6,7 @@
   "bairro": "Vila Sylvia",
   "localidade": "Campos do Jordão",
   "uf": "SP",
-  "ibge": "3509700"
+  "ibge": "3509700",
+  "latitude": "-22.70833",
+  "longitude": "-45.55902"
 }

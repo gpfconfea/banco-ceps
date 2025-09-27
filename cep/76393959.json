@@ -1,9 +1,11 @@
 {
   "cep": "76393959",
   "logradouro": "Rua 3 Quadra 15 Lote 119",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Vila Propício",
   "uf": "GO",
-  "ibge": "5222302"
+  "ibge": "5222302",
+  "latitude": "-15.45507",
+  "longitude": "-48.88509"
 }

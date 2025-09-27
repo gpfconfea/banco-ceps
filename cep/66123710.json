@@ -5,5 +5,7 @@
   "bairro": "Sacramenta",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-23.4447749",
+  "longitude": "-46.7140799"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Goianésia do Pará",
   "uf": "PA",
-  "ibge": "1503093"
+  "ibge": "1503093",
+  "latitude": "-3.83895",
+  "longitude": "-49.1009"
 }

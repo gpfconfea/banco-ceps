@@ -1,9 +1,11 @@
 {
   "cep": "48960971",
   "logradouro": "Rua Severiano Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Rosa de Lima",
   "localidade": "Jaguarari",
   "uf": "BA",
-  "ibge": "2917706"
+  "ibge": "2917706",
+  "latitude": "-10.09566",
+  "longitude": "-39.86814"
 }

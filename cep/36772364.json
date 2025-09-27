@@ -5,5 +5,7 @@
   "bairro": "Centenário",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "latitude": "-19.8541438",
+  "longitude": "-43.8930772"
 }

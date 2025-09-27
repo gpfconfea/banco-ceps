@@ -1,9 +1,11 @@
 {
   "cep": "63539974",
   "logradouro": "Vila Bela Vista",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bela Vista",
   "localidade": "Cariús",
   "uf": "CE",
-  "ibge": "2303303"
+  "ibge": "2303303",
+  "latitude": "-3.75093",
+  "longitude": "-38.56214"
 }

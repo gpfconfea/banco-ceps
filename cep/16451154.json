@@ -5,5 +5,7 @@
   "bairro": "Vila Bana",
   "localidade": "Getulina",
   "uf": "SP",
-  "ibge": "3517000"
+  "ibge": "3517000",
+  "latitude": "-21.79932",
+  "longitude": "-49.93506"
 }

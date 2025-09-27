@@ -1,9 +1,11 @@
 {
   "cep": "27365970",
   "logradouro": "Praça Oswaldo Porto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Floriano",
   "localidade": "Barra Mansa",
   "uf": "RJ",
-  "ibge": "3300407"
+  "ibge": "3300407",
+  "latitude": "-22.8735133",
+  "longitude": "-42.0516995"
 }

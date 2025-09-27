@@ -5,5 +5,7 @@
   "bairro": "São Luiz",
   "localidade": "Congonhas",
   "uf": "MG",
-  "ibge": "3118007"
+  "ibge": "3118007",
+  "latitude": "-20.51049",
+  "longitude": "-43.85403"
 }

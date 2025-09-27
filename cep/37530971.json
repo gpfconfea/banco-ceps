@@ -1,9 +1,11 @@
 {
   "cep": "37530971",
   "logradouro": "Praça José Pires Vieira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Brazópolis",
   "uf": "MG",
-  "ibge": "3108909"
+  "ibge": "3108909",
+  "latitude": "-22.473871",
+  "longitude": "-45.6179988"
 }

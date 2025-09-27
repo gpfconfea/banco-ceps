@@ -1,9 +1,11 @@
 {
   "cep": "62352974",
   "logradouro": "Rua Domingo Diogo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Araticum",
   "localidade": "Ubajara",
   "uf": "CE",
-  "ibge": "2313609"
+  "ibge": "2313609",
+  "latitude": "-3.8143245",
+  "longitude": "-40.8800549"
 }

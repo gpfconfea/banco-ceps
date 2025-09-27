@@ -5,5 +5,7 @@
   "bairro": "Vila Progresso",
   "localidade": "Niterói",
   "uf": "RJ",
-  "ibge": "3303302"
+  "ibge": "3303302",
+  "latitude": "-21.7598985",
+  "longitude": "-41.3585583"
 }

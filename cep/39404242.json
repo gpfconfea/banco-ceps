@@ -5,5 +5,7 @@
   "bairro": "Interlagos",
   "localidade": "Montes Claros",
   "uf": "MG",
-  "ibge": "3143302"
+  "ibge": "3143302",
+  "latitude": "-3.7738679",
+  "longitude": "-38.5679836"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Inhapim",
   "uf": "MG",
-  "ibge": "3130903"
+  "ibge": "3130903",
+  "latitude": "-19.54836",
+  "longitude": "-42.12348"
 }

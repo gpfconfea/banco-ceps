@@ -1,9 +1,11 @@
 {
   "cep": "58860972",
   "logradouro": "Rua da Telpa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Paulista",
   "uf": "PB",
-  "ibge": "2510907"
+  "ibge": "2510907",
+  "latitude": "-7.074444",
+  "longitude": "-36.7294104"
 }

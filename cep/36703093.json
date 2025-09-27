@@ -5,5 +5,7 @@
   "bairro": "Bela Vista",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-19.82746",
+  "longitude": "-43.09589"
 }

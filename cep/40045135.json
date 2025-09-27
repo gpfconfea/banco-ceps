@@ -5,5 +5,7 @@
   "bairro": "Saúde",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-14.2168068",
+  "longitude": "-39.5231222"
 }

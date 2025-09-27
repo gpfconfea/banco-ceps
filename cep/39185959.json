@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Gonçalo do Rio Preto",
   "uf": "MG",
-  "ibge": "3125507"
+  "ibge": "3125507",
+  "latitude": "-18.00445",
+  "longitude": "-43.38199"
 }

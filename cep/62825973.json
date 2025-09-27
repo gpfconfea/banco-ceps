@@ -1,9 +1,11 @@
 {
   "cep": "62825973",
   "logradouro": "Rua Francisco Pereira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São José do Lagamar",
   "localidade": "Jaguaruana",
   "uf": "CE",
-  "ibge": "2307007"
+  "ibge": "2307007",
+  "latitude": "-4.7907521",
+  "longitude": "-37.7445346"
 }

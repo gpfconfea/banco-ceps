@@ -1,9 +1,11 @@
 {
   "cep": "62929974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Água Fria",
   "localidade": "Quixeré",
   "uf": "CE",
-  "ibge": "2311504"
+  "ibge": "2311504",
+  "latitude": "-5.0423631",
+  "longitude": "-38.0124557"
 }

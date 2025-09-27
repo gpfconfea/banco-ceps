@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Rubelita",
   "uf": "MG",
-  "ibge": "3156502"
+  "ibge": "3156502",
+  "latitude": "-20.434249",
+  "longitude": "-41.867889"
 }

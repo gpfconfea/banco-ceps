@@ -5,5 +5,7 @@
   "bairro": "Pantanal",
   "localidade": "Florianópolis",
   "uf": "SC",
-  "ibge": "4205407"
+  "ibge": "4205407",
+  "latitude": "-27.9892644",
+  "longitude": "-49.58863"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Campo Erê",
   "uf": "SC",
-  "ibge": "4203501"
+  "ibge": "4203501",
+  "latitude": "-26.39264",
+  "longitude": "-53.07867"
 }

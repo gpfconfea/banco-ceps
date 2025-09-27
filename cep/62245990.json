@@ -1,9 +1,11 @@
 {
   "cep": "62245990",
   "logradouro": "Rua Ernesto B. da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "latitude": "-4.50139",
+  "longitude": "-40.81833"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "58798971",
   "logradouro": "Rua José Cipriano dos Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Nova Olinda",
   "uf": "PB",
-  "ibge": "2510204"
+  "ibge": "2510204",
+  "latitude": "-7.4857564",
+  "longitude": "-37.9952065"
 }

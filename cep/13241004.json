@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Nicola Tafarelo",
   "localidade": "Jarinu",
   "uf": "SP",
-  "ibge": "3525201"
+  "ibge": "3525201",
+  "latitude": "-23.27453",
+  "longitude": "-45.89833"
 }

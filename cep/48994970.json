@@ -1,9 +1,11 @@
 {
   "cep": "48994970",
   "logradouro": "Vila de Tanquinho do Poço",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tanquinho do Poço",
   "localidade": "Andorinha",
   "uf": "BA",
-  "ibge": "2901353"
+  "ibge": "2901353",
+  "latitude": "-10.4088269",
+  "longitude": "-39.9452074"
 }

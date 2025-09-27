@@ -5,5 +5,7 @@
   "bairro": "Jardim Gatolândia",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-23.54182",
+  "longitude": "-46.608545"
 }

@@ -5,5 +5,7 @@
   "bairro": "Paraíso",
   "localidade": "Angra dos Reis",
   "uf": "RJ",
-  "ibge": "3300100"
+  "ibge": "3300100",
+  "latitude": "-23.02058",
+  "longitude": "-44.22317"
 }

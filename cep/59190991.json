@@ -1,9 +1,11 @@
 {
   "cep": "59190991",
   "logradouro": "Rua da Igreja - Posto de Correios - Barra de Cunhaú",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Canguaretama",
   "uf": "RN",
-  "ibge": "2402204"
+  "ibge": "2402204",
+  "latitude": "-6.31398",
+  "longitude": "-35.04245"
 }

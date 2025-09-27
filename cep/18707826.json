@@ -5,5 +5,7 @@
   "bairro": "Altos da Primavera",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-23.08294",
+  "longitude": "-48.91668"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jatobá",
   "localidade": "Petrolina",
   "uf": "PE",
-  "ibge": "2611101"
+  "ibge": "2611101",
+  "latitude": "-23.4540591",
+  "longitude": "-46.718463"
 }

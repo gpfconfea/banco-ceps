@@ -1,9 +1,11 @@
 {
   "cep": "68230971",
   "logradouro": "Rua Solimões Bloco G07 Sala 01",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila de Munguba",
   "localidade": "Almeirim",
   "uf": "PA",
-  "ibge": "1500503"
+  "ibge": "1500503",
+  "latitude": "-0.9088103",
+  "longitude": "-52.4273059"
 }

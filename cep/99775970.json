@@ -1,9 +1,11 @@
 {
   "cep": "99775970",
   "logradouro": "Rua Mathias Holz Sobrinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Dourado",
   "localidade": "Aratiba",
   "uf": "RS",
-  "ibge": "4300901"
+  "ibge": "4300901",
+  "latitude": "-29.51194",
+  "longitude": "-51.9661"
 }

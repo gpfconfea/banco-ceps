@@ -1,9 +1,11 @@
 {
   "cep": "45653902",
   "logradouro": "Praça José Joaquim Seabra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ilhéus",
   "uf": "BA",
-  "ibge": "2913606"
+  "ibge": "2913606",
+  "latitude": "-12.1369636",
+  "longitude": "-38.4234745"
 }

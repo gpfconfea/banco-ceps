@@ -1,9 +1,11 @@
 {
   "cep": "36526970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vilas Boas",
   "localidade": "Guiricema",
   "uf": "MG",
-  "ibge": "3129004"
+  "ibge": "3129004",
+  "latitude": "-21.0080562",
+  "longitude": "-42.7189937"
 }

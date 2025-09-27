@@ -6,5 +6,7 @@
   "bairro": "Jardim Santa Hermínia",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.2095054",
+  "longitude": "-45.7812105"
 }

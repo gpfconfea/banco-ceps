@@ -5,5 +5,7 @@
   "bairro": "São Marcos",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9232529",
+  "longitude": "-38.4469481"
 }

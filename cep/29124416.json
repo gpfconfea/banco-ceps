@@ -5,5 +5,7 @@
   "bairro": "Barramares",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-18.7235798",
+  "longitude": "-39.8855766"
 }

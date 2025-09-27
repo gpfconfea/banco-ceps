@@ -5,5 +5,7 @@
   "bairro": "Núcleo Sampaio Vidal",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-22.9299754",
+  "longitude": "-47.1173592"
 }

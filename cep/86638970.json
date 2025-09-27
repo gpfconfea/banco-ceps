@@ -1,9 +1,11 @@
 {
   "cep": "86638970",
   "logradouro": "Rua Etore de Antonio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mairá",
   "localidade": "Lupionópolis",
   "uf": "PR",
-  "ibge": "4113809"
+  "ibge": "4113809",
+  "latitude": "-23.2997638",
+  "longitude": "-51.3519572"
 }

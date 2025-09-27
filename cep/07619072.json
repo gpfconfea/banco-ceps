@@ -5,5 +5,7 @@
   "bairro": "Roseira",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.40377",
+  "longitude": "-46.6406"
 }

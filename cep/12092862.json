@@ -5,5 +5,7 @@
   "bairro": "Água Grande",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.00523",
+  "longitude": "-45.55589"
 }

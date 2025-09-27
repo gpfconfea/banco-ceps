@@ -5,5 +5,7 @@
   "bairro": "Ulisses Guimarães",
   "localidade": "Vila Velha",
   "uf": "ES",
-  "ibge": "3205200"
+  "ibge": "3205200",
+  "latitude": "-18.9114588",
+  "longitude": "-40.0785822"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62725959",
   "logradouro": "Rua Trajano Honorato",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa do Mato",
   "localidade": "Itatira",
   "uf": "CE",
-  "ibge": "2306603"
+  "ibge": "2306603",
+  "latitude": "-4.65102",
+  "longitude": "-39.67647"
 }

@@ -5,5 +5,7 @@
   "bairro": "Parque São Carlos",
   "localidade": "Dracena",
   "uf": "SP",
-  "ibge": "3514403"
+  "ibge": "3514403",
+  "latitude": "-21.5025",
+  "longitude": "-51.54092"
 }

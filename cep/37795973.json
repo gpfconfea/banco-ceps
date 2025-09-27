@@ -1,9 +1,11 @@
 {
   "cep": "37795973",
   "logradouro": "Rua Vereador Sebastião Dias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Andradas",
   "uf": "MG",
-  "ibge": "3102605"
+  "ibge": "3102605",
+  "latitude": "-20.6378034",
+  "longitude": "-43.7957289"
 }

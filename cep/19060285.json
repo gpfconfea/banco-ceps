@@ -5,5 +5,7 @@
   "bairro": "Jardim das Rosas",
   "localidade": "Presidente Prudente",
   "uf": "SP",
-  "ibge": "3541406"
+  "ibge": "3541406",
+  "latitude": "-23.6039149",
+  "longitude": "-46.6336363"
 }

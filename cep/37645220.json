@@ -5,5 +5,7 @@
   "bairro": "dos Pedrosos",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.82399",
+  "longitude": "-46.32695"
 }

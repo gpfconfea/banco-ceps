@@ -1,9 +1,11 @@
 {
   "cep": "56148970",
   "logradouro": "Rua Santa Terezinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ori",
   "localidade": "Serrita",
   "uf": "PE",
-  "ibge": "2614006"
+  "ibge": "2614006",
+  "latitude": "-7.6927282",
+  "longitude": "-39.3624889"
 }

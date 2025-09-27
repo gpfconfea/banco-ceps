@@ -1,9 +1,11 @@
 {
   "cep": "45690972",
   "logradouro": "Praça São Sebastião",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Comandatuba",
   "localidade": "Una",
   "uf": "BA",
-  "ibge": "2932507"
+  "ibge": "2932507",
+  "latitude": "-9.93179",
+  "longitude": "-36.54878"
 }

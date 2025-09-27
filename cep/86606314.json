@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Santiago",
   "localidade": "Rolândia",
   "uf": "PR",
-  "ibge": "4122404"
+  "ibge": "4122404",
+  "latitude": "-23.55635",
+  "longitude": "-51.41005"
 }

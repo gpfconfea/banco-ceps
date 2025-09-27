@@ -1,9 +1,11 @@
 {
   "cep": "78860971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Peresópolis",
   "localidade": "Nova Brasilândia",
   "uf": "MT",
-  "ibge": "5106208"
+  "ibge": "5106208",
+  "latitude": "-10.5549152",
+  "longitude": "-55.9483848"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Cipreste",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.5521083",
+  "longitude": "-46.502142"
 }

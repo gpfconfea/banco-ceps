@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itambé",
   "uf": "BA",
-  "ibge": "2915809"
+  "ibge": "2915809",
+  "latitude": "-15.24043",
+  "longitude": "-40.62278"
 }

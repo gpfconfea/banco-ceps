@@ -5,5 +5,7 @@
   "bairro": "Aeroclube",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.074983",
+  "longitude": "-34.8401816"
 }

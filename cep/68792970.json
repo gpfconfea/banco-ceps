@@ -1,9 +1,11 @@
 {
   "cep": "68792970",
   "logradouro": "Rua Raimundo Gama",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Americano",
   "localidade": "Santa Isabel do Pará",
   "uf": "PA",
-  "ibge": "1506500"
+  "ibge": "1506500",
+  "latitude": "-1.3107891",
+  "longitude": "-48.0766397"
 }

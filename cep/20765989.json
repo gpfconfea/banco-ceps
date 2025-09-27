@@ -1,9 +1,11 @@
 {
   "cep": "20765989",
-  "logradouro": "Avenida Pastor Martin Luther King Jr 126 Bloco 1 Loja 1212 Térreo Locker Correios",
+  "logradouro": "Avenida Pastor Martin Luther King Jr 126 Bloco 1 Loja 1212 Térreo",
   "complemento": "",
   "bairro": "Del Castilho",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.8801",
+  "longitude": "-43.26953"
 }

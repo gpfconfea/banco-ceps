@@ -5,5 +5,7 @@
   "bairro": "Meu Sítio",
   "localidade": "Itabirito",
   "uf": "MG",
-  "ibge": "3131901"
+  "ibge": "3131901",
+  "latitude": "-20.279",
+  "longitude": "-43.79561"
 }

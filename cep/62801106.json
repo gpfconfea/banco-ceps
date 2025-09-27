@@ -6,5 +6,7 @@
   "bairro": "Prefeito Armando Rocha",
   "localidade": "Aracati",
   "uf": "CE",
-  "ibge": "2301109"
+  "ibge": "2301109",
+  "latitude": "-4.581",
+  "longitude": "-37.79181"
 }

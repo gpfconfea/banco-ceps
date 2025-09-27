@@ -5,5 +5,7 @@
   "bairro": "Vila Alvorada",
   "localidade": "Tupã",
   "uf": "SP",
-  "ibge": "3555000"
+  "ibge": "3555000",
+  "latitude": "-23.5344678",
+  "longitude": "-46.9103086"
 }

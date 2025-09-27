@@ -6,5 +6,7 @@
   "bairro": "Hospício",
   "localidade": "Araruama",
   "uf": "RJ",
-  "ibge": "3300209"
+  "ibge": "3300209",
+  "latitude": "-22.8881",
+  "longitude": "-42.35156"
 }

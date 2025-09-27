@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ladainha",
   "uf": "MG",
-  "ibge": "3137007"
+  "ibge": "3137007",
+  "latitude": "-17.63187",
+  "longitude": "-41.74059"
 }

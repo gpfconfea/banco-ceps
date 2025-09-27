@@ -5,5 +5,7 @@
   "bairro": "Taquacetuba",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "latitude": "-23.699349",
+  "longitude": "-46.567876"
 }

@@ -5,5 +5,7 @@
   "bairro": "Rosa Mística",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.48182",
+  "longitude": "-45.41299"
 }

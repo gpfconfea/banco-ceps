@@ -1,9 +1,11 @@
 {
   "cep": "47980970",
   "logradouro": "Rua da Delegacia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caripare",
   "localidade": "Riachão das Neves",
   "uf": "BA",
-  "ibge": "2926202"
+  "ibge": "2926202",
+  "latitude": "-11.7511866",
+  "longitude": "-44.9146637"
 }

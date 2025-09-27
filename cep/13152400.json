@@ -5,5 +5,7 @@
   "bairro": "Jardim Beto Spana",
   "localidade": "Cosmópolis",
   "uf": "SP",
-  "ibge": "3512803"
+  "ibge": "3512803",
+  "latitude": "-22.63312",
+  "longitude": "-47.19059"
 }

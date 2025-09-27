@@ -5,5 +5,7 @@
   "bairro": "Baronesa",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.5283008",
+  "longitude": "-46.3998261"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Isabel",
   "localidade": "Cuiabá",
   "uf": "MT",
-  "ibge": "5103403"
+  "ibge": "5103403",
+  "latitude": "-22.1251723",
+  "longitude": "-51.4473404"
 }

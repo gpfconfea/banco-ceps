@@ -1,9 +1,11 @@
 {
   "cep": "63535974",
   "logradouro": "Mercado Público",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Sebastião",
   "localidade": "Cariús",
   "uf": "CE",
-  "ibge": "2303303"
+  "ibge": "2303303",
+  "latitude": "-6.61085",
+  "longitude": "-39.63224"
 }

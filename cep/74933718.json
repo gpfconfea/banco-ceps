@@ -5,5 +5,7 @@
   "bairro": "Jardins Sevilha",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.77313",
+  "longitude": "-49.25703"
 }

@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Aruanã",
   "uf": "GO",
-  "ibge": "5202502"
+  "ibge": "5202502",
+  "latitude": "-17.80036",
+  "longitude": "-50.93045"
 }

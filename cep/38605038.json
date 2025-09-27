@@ -5,5 +5,7 @@
   "bairro": "Chapadinha",
   "localidade": "Paracatu",
   "uf": "MG",
-  "ibge": "3147006"
+  "ibge": "3147006",
+  "latitude": "-17.22651",
+  "longitude": "-46.85555"
 }

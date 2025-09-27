@@ -1,9 +1,11 @@
 {
   "cep": "18323990",
   "logradouro": "Via Itapevaº - Distrito de Araçaíba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Apiaí",
   "uf": "SP",
-  "ibge": "3502705"
+  "ibge": "3502705",
+  "latitude": "-24.42623",
+  "longitude": "-48.84974"
 }

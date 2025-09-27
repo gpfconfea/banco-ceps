@@ -1,9 +1,11 @@
 {
   "cep": "25995972",
   "logradouro": "Estrada Serra do Sampaio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Água Quente",
   "localidade": "Teresópolis",
   "uf": "RJ",
-  "ibge": "3305802"
+  "ibge": "3305802",
+  "latitude": "-22.7308677",
+  "longitude": "-43.5019151"
 }

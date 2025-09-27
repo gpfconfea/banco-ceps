@@ -5,5 +5,7 @@
   "bairro": "Residencial Mariana",
   "localidade": "Guaiçara",
   "uf": "SP",
-  "ibge": "3517208"
+  "ibge": "3517208",
+  "latitude": "-22.09537",
+  "longitude": "-51.43052"
 }

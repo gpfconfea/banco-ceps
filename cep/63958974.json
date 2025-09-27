@@ -1,9 +1,11 @@
 {
   "cep": "63958974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barbada",
   "localidade": "Choró",
   "uf": "CE",
-  "ibge": "2303931"
+  "ibge": "2303931",
+  "latitude": "-5.3004207",
+  "longitude": "-38.9199987"
 }

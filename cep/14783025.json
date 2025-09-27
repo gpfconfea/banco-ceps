@@ -5,5 +5,7 @@
   "bairro": "Jardim Silvia",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-22.8571969",
+  "longitude": "-48.4575004"
 }

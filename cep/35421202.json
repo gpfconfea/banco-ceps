@@ -6,5 +6,7 @@
   "bairro": "Liberdade",
   "localidade": "Mariana",
   "uf": "MG",
-  "ibge": "3140001"
+  "ibge": "3140001",
+  "latitude": "-21.77395",
+  "longitude": "-43.39337"
 }

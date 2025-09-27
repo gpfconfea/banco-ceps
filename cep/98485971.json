@@ -1,9 +1,11 @@
 {
   "cep": "98485971",
   "logradouro": "Estrada do Distrito de Sertãozinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sertãozinho",
   "localidade": "Alpestre",
   "uf": "RS",
-  "ibge": "4300505"
+  "ibge": "4300505",
+  "latitude": "-27.21323",
+  "longitude": "-53.07839"
 }

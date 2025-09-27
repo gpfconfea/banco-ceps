@@ -1,9 +1,11 @@
 {
   "cep": "62253975",
   "logradouro": "Rua João Ximenes Feitosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Flores",
   "localidade": "Ipu",
   "uf": "CE",
-  "ibge": "2305803"
+  "ibge": "2305803",
+  "latitude": "-4.3220187",
+  "longitude": "-40.7092475"
 }

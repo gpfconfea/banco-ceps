@@ -1,9 +1,11 @@
 {
   "cep": "44258971",
   "logradouro": "Rua Allan Kardec",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bento Simões",
   "localidade": "Irará",
   "uf": "BA",
-  "ibge": "2914505"
+  "ibge": "2914505",
+  "latitude": "-12.0407597",
+  "longitude": "-38.7648283"
 }

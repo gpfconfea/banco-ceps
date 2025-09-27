@@ -1,9 +1,11 @@
 {
   "cep": "36409970",
   "logradouro": "Praça Manoel Lemos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Buarque de Macedo",
   "localidade": "Conselheiro Lafaiete",
   "uf": "MG",
-  "ibge": "3118304"
+  "ibge": "3118304",
+  "latitude": "-20.344667",
+  "longitude": "-46.8534042"
 }

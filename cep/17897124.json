@@ -6,5 +6,7 @@
   "bairro": "Residencial Athenas",
   "localidade": "Junqueirópolis",
   "uf": "SP",
-  "ibge": "3526001"
+  "ibge": "3526001",
+  "latitude": "-21.49678",
+  "longitude": "-51.43475"
 }

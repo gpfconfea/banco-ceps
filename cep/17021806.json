@@ -5,5 +5,7 @@
   "bairro": "Jardim Marília",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.356129",
+  "longitude": "-47.3780536"
 }

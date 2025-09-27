@@ -5,5 +5,7 @@
   "bairro": "Jardim Colibri",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.1865339",
+  "longitude": "-49.9329162"
 }

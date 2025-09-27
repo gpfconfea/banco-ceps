@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Maracanaú",
   "uf": "CE",
-  "ibge": "2307650"
+  "ibge": "2307650",
+  "latitude": "-3.80954",
+  "longitude": "-38.62731"
 }

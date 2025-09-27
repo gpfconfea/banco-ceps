@@ -1,9 +1,11 @@
 {
   "cep": "62830974",
   "logradouro": "Rua Coronel Roseno",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Giqui",
   "localidade": "Jaguaruana",
   "uf": "CE",
-  "ibge": "2307007"
+  "ibge": "2307007",
+  "latitude": "-7.2151394",
+  "longitude": "-48.1917315"
 }

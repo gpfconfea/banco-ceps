@@ -6,5 +6,7 @@
   "bairro": "Veloso",
   "localidade": "Roseira",
   "uf": "SP",
-  "ibge": "3544301"
+  "ibge": "3544301",
+  "latitude": "-22.38941",
+  "longitude": "-51.2879"
 }

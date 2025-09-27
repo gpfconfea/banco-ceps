@@ -5,5 +5,7 @@
   "bairro": "Santa Eugênia",
   "localidade": "Lagoa da Prata",
   "uf": "MG",
-  "ibge": "3137205"
+  "ibge": "3137205",
+  "latitude": "-20.02923",
+  "longitude": "-45.52713"
 }

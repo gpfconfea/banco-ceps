@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Maria",
   "localidade": "Jacareí",
   "uf": "SP",
-  "ibge": "3524402"
+  "ibge": "3524402",
+  "latitude": "-23.5407378",
+  "longitude": "-46.6425588"
 }

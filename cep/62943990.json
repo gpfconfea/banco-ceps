@@ -1,9 +1,11 @@
 {
   "cep": "62943990",
   "logradouro": "Rua Ana Nogueira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Morada Nova",
   "uf": "CE",
-  "ibge": "2308708"
+  "ibge": "2308708",
+  "latitude": "-5.10515",
+  "longitude": "-38.36458"
 }

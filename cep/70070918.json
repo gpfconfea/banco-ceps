@@ -5,5 +5,7 @@
   "bairro": "Asa Sul",
   "localidade": "Brasília",
   "uf": "DF",
-  "ibge": "5300108"
+  "ibge": "5300108",
+  "latitude": "-15.8025091",
+  "longitude": "-47.882409"
 }

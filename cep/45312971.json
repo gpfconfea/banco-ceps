@@ -1,9 +1,11 @@
 {
   "cep": "45312971",
   "logradouro": "Rua do Alto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Engenheiro França",
   "localidade": "Ubaíra",
   "uf": "BA",
-  "ibge": "2932101"
+  "ibge": "2932101",
+  "latitude": "-13.2719616",
+  "longitude": "-39.6613867"
 }

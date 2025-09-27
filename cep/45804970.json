@@ -1,9 +1,11 @@
 {
   "cep": "45804970",
   "logradouro": "Travessa Ruy Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barrolândia",
   "localidade": "Belmonte",
   "uf": "BA",
-  "ibge": "2903409"
+  "ibge": "2903409",
+  "latitude": "-12.9204307",
+  "longitude": "-38.4722023"
 }

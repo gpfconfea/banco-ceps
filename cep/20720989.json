@@ -1,9 +1,11 @@
 {
   "cep": "20720989",
-  "logradouro": "Rua Dias da Cruz 182 Térreo Locker Correios",
+  "logradouro": "Rua Dias da Cruz 182 Térreo",
   "complemento": "",
   "bairro": "Méier",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.9028",
+  "longitude": "-43.2823"
 }

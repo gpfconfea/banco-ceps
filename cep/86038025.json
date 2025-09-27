@@ -5,5 +5,7 @@
   "bairro": "Conjunto Café",
   "localidade": "Londrina",
   "uf": "PR",
-  "ibge": "4113700"
+  "ibge": "4113700",
+  "latitude": "-23.3129958",
+  "longitude": "-51.1606651"
 }

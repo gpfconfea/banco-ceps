@@ -5,5 +5,7 @@
   "bairro": "Bairro da Germana",
   "localidade": "Caçapava",
   "uf": "SP",
-  "ibge": "3508504"
+  "ibge": "3508504",
+  "latitude": "-23.1303914",
+  "longitude": "-45.6499507"
 }

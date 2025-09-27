@@ -5,5 +5,7 @@
   "bairro": "Alto da Boa Vista",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.73265",
+  "longitude": "-49.25873"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Belvedere",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-20.1384894",
+  "longitude": "-44.8836413"
 }

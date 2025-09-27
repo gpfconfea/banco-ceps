@@ -5,5 +5,7 @@
   "bairro": "Nossa Senhora das Dores",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-23.1838574",
+  "longitude": "-46.8452948"
 }

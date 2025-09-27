@@ -5,5 +5,7 @@
   "bairro": "Vila Torres Galvão",
   "localidade": "Paulista",
   "uf": "PE",
-  "ibge": "2610707"
+  "ibge": "2610707",
+  "latitude": "-22.3545197",
+  "longitude": "-46.9485406"
 }

@@ -6,5 +6,7 @@
   "bairro": "Residencial Luiz Donadi",
   "localidade": "Tabapuã",
   "uf": "SP",
-  "ibge": "3552601"
+  "ibge": "3552601",
+  "latitude": "-20.96346",
+  "longitude": "-49.04168"
 }

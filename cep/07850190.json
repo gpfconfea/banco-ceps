@@ -5,5 +5,7 @@
   "bairro": "Vila Amália",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-23.333564",
+  "longitude": "-46.7231029"
 }

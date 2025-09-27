@@ -5,5 +5,7 @@
   "bairro": "Jardim Icaraí",
   "localidade": "Ibaté",
   "uf": "SP",
-  "ibge": "3519303"
+  "ibge": "3519303",
+  "latitude": "-22.73816",
+  "longitude": "-47.40766"
 }

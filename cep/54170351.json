@@ -5,5 +5,7 @@
   "bairro": "Socorro",
   "localidade": "Jaboatão dos Guararapes",
   "uf": "PE",
-  "ibge": "2607901"
+  "ibge": "2607901",
+  "latitude": "-8.4907516",
+  "longitude": "-36.0677583"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "11970970",
   "logradouro": "Praça Coronel Mariano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itapeuna",
   "localidade": "Eldorado",
   "uf": "SP",
-  "ibge": "3514809"
+  "ibge": "3514809",
+  "latitude": "-23.2563578",
+  "longitude": "-47.2965482"
 }

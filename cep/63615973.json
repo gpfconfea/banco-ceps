@@ -1,9 +1,11 @@
 {
   "cep": "63615973",
   "logradouro": "Rua Cícero Justino Sobrinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boa Vista",
   "localidade": "Mombaça",
   "uf": "CE",
-  "ibge": "2308500"
+  "ibge": "2308500",
+  "latitude": "-5.7451694",
+  "longitude": "-39.6272966"
 }

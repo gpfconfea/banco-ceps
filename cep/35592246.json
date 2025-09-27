@@ -5,5 +5,7 @@
   "bairro": "Marília",
   "localidade": "Lagoa da Prata",
   "uf": "MG",
-  "ibge": "3137205"
+  "ibge": "3137205",
+  "latitude": "-20.03023",
+  "longitude": "-45.52666"
 }

@@ -5,5 +5,7 @@
   "bairro": "Núcleo Habitacional Vanuire",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-23.5496386",
+  "longitude": "-46.2502764"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Nossa Senhora de Fátima",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-22.22476",
+  "longitude": "-45.91463"
 }

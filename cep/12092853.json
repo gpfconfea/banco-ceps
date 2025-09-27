@@ -5,5 +5,7 @@
   "bairro": "Jardim do Lago I",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.0290674",
+  "longitude": "-45.5857452"
 }

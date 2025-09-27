@@ -1,9 +1,11 @@
 {
   "cep": "34990973",
   "logradouro": "Rua Adair Costa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Nova União",
   "uf": "MG",
-  "ibge": "3136603"
+  "ibge": "3136603",
+  "latitude": "-21.7795994",
+  "longitude": "-43.3545892"
 }

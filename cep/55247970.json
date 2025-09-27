@@ -1,9 +1,11 @@
 {
   "cep": "55247970",
   "logradouro": "Rua Nossa Senhora de Fátima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Gravatá dos Gomes",
   "localidade": "Poção",
   "uf": "PE",
-  "ibge": "2611200"
+  "ibge": "2611200",
+  "latitude": "-8.25314",
+  "longitude": "-36.63066"
 }

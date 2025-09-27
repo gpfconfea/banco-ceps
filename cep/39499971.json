@@ -1,9 +1,11 @@
 {
   "cep": "39499971",
   "logradouro": "Vila Canabrava II Distrito de Capitânia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Capitânia",
   "localidade": "Montalvânia",
   "uf": "MG",
-  "ibge": "3142700"
+  "ibge": "3142700",
+  "latitude": "-14.4487104",
+  "longitude": "-44.4748018"
 }

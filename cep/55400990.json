@@ -1,9 +1,11 @@
 {
   "cep": "55400990",
   "logradouro": "Rua da Rodagem - Povoado de Roçadinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Catende",
   "uf": "PE",
-  "ibge": "2604205"
+  "ibge": "2604205",
+  "latitude": "-8.88716",
+  "longitude": "-36.19635"
 }

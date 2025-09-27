@@ -1,9 +1,11 @@
 {
   "cep": "58071902",
   "logradouro": "Rodovia BR-230 Bloco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cristo Redentor",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.169946",
+  "longitude": "-34.867106"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64225970",
   "logradouro": "Praça Vereador Arimatéia Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Bom Princípio do Piauí",
   "uf": "PI",
-  "ibge": "2201919"
+  "ibge": "2201919",
+  "latitude": "-3.1354963",
+  "longitude": "-41.6410914"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Tamboré",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.15347",
+  "longitude": "-51.45919"
 }
