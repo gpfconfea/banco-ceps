@@ -1,9 +1,11 @@
 {
   "cep": "58913970",
   "logradouro": "Rua da Telpa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Umari",
   "localidade": "São João do Rio do Peixe",
   "uf": "PB",
-  "ibge": "2500700"
+  "ibge": "2500700",
+  "latitude": "-7.074444",
+  "longitude": "-36.7294104"
 }

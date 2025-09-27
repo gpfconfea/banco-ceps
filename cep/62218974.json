@@ -1,9 +1,11 @@
 {
   "cep": "62218974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sacramento",
   "localidade": "Ipaporanga",
   "uf": "CE",
-  "ibge": "2305654"
+  "ibge": "2305654",
+  "latitude": "-2.7956374",
+  "longitude": "-40.5140808"
 }

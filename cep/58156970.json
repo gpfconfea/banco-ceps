@@ -1,9 +1,11 @@
 {
   "cep": "58156970",
   "logradouro": "Rua José de Lima Ramos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Bom Sucesso",
   "localidade": "Bom Sucesso",
   "uf": "PB",
-  "ibge": "2502300"
+  "ibge": "2502300",
+  "latitude": "-7.1871116",
+  "longitude": "-36.3781252"
 }

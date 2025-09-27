@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Buritinópolis",
   "uf": "GO",
-  "ibge": "5203962"
+  "ibge": "5203962",
+  "latitude": "-16.8257706",
+  "longitude": "-49.2503863"
 }

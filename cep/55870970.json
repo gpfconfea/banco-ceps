@@ -1,9 +1,11 @@
 {
   "cep": "55870970",
   "logradouro": "Praça Siqueira Campos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Timbaúba",
   "uf": "PE",
-  "ibge": "2615300"
+  "ibge": "2615300",
+  "latitude": "-7.5137006",
+  "longitude": "-35.316922"
 }

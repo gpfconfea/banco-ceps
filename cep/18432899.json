@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Ribeirão Branco",
   "localidade": "Ribeirão Branco",
   "uf": "SP",
-  "ibge": "3543006"
+  "ibge": "3543006",
+  "latitude": "-24.22122",
+  "longitude": "-48.76348"
 }

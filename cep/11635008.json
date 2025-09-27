@@ -5,5 +5,7 @@
   "bairro": "Engenho D Água",
   "localidade": "Ilhabela",
   "uf": "SP",
-  "ibge": "3520400"
+  "ibge": "3520400",
+  "latitude": "-23.79336",
+  "longitude": "-45.35843"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Lisboa",
   "localidade": "Belford Roxo",
   "uf": "RJ",
-  "ibge": "3300456"
+  "ibge": "3300456",
+  "latitude": "-22.9685448",
+  "longitude": "-43.7051069"
 }

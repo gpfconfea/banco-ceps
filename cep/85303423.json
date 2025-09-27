@@ -6,5 +6,7 @@
   "bairro": "São Francisco",
   "localidade": "Laranjeiras do Sul",
   "uf": "PR",
-  "ibge": "4113304"
+  "ibge": "4113304",
+  "latitude": "-25.40292",
+  "longitude": "-52.39673"
 }

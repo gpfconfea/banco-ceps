@@ -6,5 +6,7 @@
   "bairro": "Loteamento Capuava I",
   "localidade": "São José dos Campos",
   "uf": "SP",
-  "ibge": "3549904"
+  "ibge": "3549904",
+  "latitude": "-23.64406",
+  "longitude": "-46.50857"
 }

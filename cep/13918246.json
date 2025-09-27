@@ -5,5 +5,7 @@
   "bairro": "Residencial Haras Patente",
   "localidade": "Jaguariúna",
   "uf": "SP",
-  "ibge": "3524709"
+  "ibge": "3524709",
+  "latitude": "-22.70571",
+  "longitude": "-46.98632"
 }

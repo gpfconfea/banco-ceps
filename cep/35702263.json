@@ -5,5 +5,7 @@
   "bairro": "Nova Cidade",
   "localidade": "Sete Lagoas",
   "uf": "MG",
-  "ibge": "3167202"
+  "ibge": "3167202",
+  "latitude": "-22.1232916",
+  "longitude": "-45.0469337"
 }

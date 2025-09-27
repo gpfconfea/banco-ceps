@@ -1,9 +1,11 @@
 {
   "cep": "96855970",
   "logradouro": "Estrada Linha São Martinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Linha São Martinho",
   "localidade": "São Martinho",
   "uf": "RS",
-  "ibge": "4319109"
+  "ibge": "4319109",
+  "latitude": "-27.70569",
+  "longitude": "-53.96805"
 }

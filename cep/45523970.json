@@ -1,9 +1,11 @@
 {
   "cep": "45523970",
   "logradouro": "Praça da Bandeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibiaçu",
   "localidade": "Maraú",
   "uf": "BA",
-  "ibge": "2920700"
+  "ibge": "2920700",
+  "latitude": "-14.2807635",
+  "longitude": "-38.9949615"
 }

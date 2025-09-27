@@ -1,9 +1,11 @@
 {
   "cep": "29188990",
   "logradouro": "Avenida Vicente Catunda Farias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Fundão",
   "uf": "ES",
-  "ibge": "3202207"
+  "ibge": "3202207",
+  "latitude": "-20.00081",
+  "longitude": "-40.41283"
 }

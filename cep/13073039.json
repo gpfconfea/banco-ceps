@@ -5,5 +5,7 @@
   "bairro": "Vila Nova",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.4717053",
+  "longitude": "-46.5319479"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "45435959",
   "logradouro": "Avenida Hildebrando de Araújo Góes Box 106-S",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ituberá",
   "uf": "BA",
-  "ibge": "2917300"
+  "ibge": "2917300",
+  "latitude": "-13.73269",
+  "longitude": "-39.1403"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Serra Verde",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-22.3802",
+  "longitude": "-49.12997"
 }

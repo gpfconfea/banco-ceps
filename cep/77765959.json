@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Barra do Ouro",
   "uf": "TO",
-  "ibge": "1703073"
+  "ibge": "1703073",
+  "latitude": "-7.71479",
+  "longitude": "-47.6791"
 }

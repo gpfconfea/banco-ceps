@@ -5,5 +5,7 @@
   "bairro": "Vila Poddis",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "latitude": "-22.43354",
+  "longitude": "-45.46975"
 }

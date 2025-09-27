@@ -1,9 +1,11 @@
 {
   "cep": "36528970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tuiutinga",
   "localidade": "Guiricema",
   "uf": "MG",
-  "ibge": "3129004"
+  "ibge": "3129004",
+  "latitude": "-19.953847",
+  "longitude": "-43.9442564"
 }

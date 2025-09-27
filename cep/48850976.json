@@ -1,9 +1,11 @@
 {
   "cep": "48850976",
   "logradouro": "Fazenda Cajazeiras",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bela Vista de Covas",
   "localidade": "Itiúba",
   "uf": "BA",
-  "ibge": "2917003"
+  "ibge": "2917003",
+  "latitude": "-12.93936",
+  "longitude": "-38.37358"
 }

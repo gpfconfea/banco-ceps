@@ -5,5 +5,7 @@
   "bairro": "Coqueiro",
   "localidade": "Crato",
   "uf": "CE",
-  "ibge": "2304202"
+  "ibge": "2304202",
+  "latitude": "-7.273627",
+  "longitude": "-39.4340214"
 }

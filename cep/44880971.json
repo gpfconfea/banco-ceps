@@ -1,9 +1,11 @@
 {
   "cep": "44880971",
   "logradouro": "Praça Cassiano Marins",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canal",
   "localidade": "Cafarnaum",
   "uf": "BA",
-  "ibge": "2905305"
+  "ibge": "2905305",
+  "latitude": "-11.6918349",
+  "longitude": "-41.4691991"
 }

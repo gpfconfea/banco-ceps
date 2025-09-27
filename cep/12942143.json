@@ -6,5 +6,7 @@
   "bairro": "Itapetinga",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.14705",
+  "longitude": "-46.54635"
 }

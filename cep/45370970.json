@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Irajuba",
   "uf": "BA",
-  "ibge": "2914208"
+  "ibge": "2914208",
+  "latitude": "-13.251585",
+  "longitude": "-40.0841476"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64830959",
   "logradouro": "Praça Dias D'Avila",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jerumenha",
   "uf": "PI",
-  "ibge": "2205300"
+  "ibge": "2205300",
+  "latitude": "-7.09082",
+  "longitude": "-43.50961"
 }

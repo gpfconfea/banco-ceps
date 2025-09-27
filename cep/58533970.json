@@ -1,9 +1,11 @@
 {
   "cep": "58533970",
   "logradouro": "Distrito Pindurao",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pindurão",
   "localidade": "Camalaú",
   "uf": "PB",
-  "ibge": "2503902"
+  "ibge": "2503902",
+  "latitude": "-7.8882378",
+  "longitude": "-36.8242022"
 }

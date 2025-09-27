@@ -1,9 +1,11 @@
 {
   "cep": "99379970",
   "logradouro": "Estrada de Três Pinheiros",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Três Pinheiros",
   "localidade": "Fontoura Xavier",
   "uf": "RS",
-  "ibge": "4308300"
+  "ibge": "4308300",
+  "latitude": "-29.09719",
+  "longitude": "-52.32977"
 }

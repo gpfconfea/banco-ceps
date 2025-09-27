@@ -1,9 +1,11 @@
 {
   "cep": "57270972",
   "logradouro": "Distrito Barro Vermelho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barro Vermelho",
   "localidade": "Junqueiro",
   "uf": "AL",
-  "ibge": "2704005"
+  "ibge": "2704005",
+  "latitude": "-29.9366526",
+  "longitude": "-50.8977629"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "35623971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Poções de Paineiras",
   "localidade": "Paineiras",
   "uf": "MG",
-  "ibge": "3146404"
+  "ibge": "3146404",
+  "latitude": "-19.8155065",
+  "longitude": "-43.2003505"
 }

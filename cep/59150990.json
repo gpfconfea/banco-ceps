@@ -1,9 +1,11 @@
 {
   "cep": "59150990",
   "logradouro": "Rua Projetada - Pirangi de Dentro - Posto de Saúde - Marcondes Bezerra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Parnamirim",
   "uf": "RN",
-  "ibge": "2403251"
+  "ibge": "2403251",
+  "latitude": "-5.92623",
+  "longitude": "-35.28918"
 }

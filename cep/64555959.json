@@ -1,9 +1,11 @@
 {
   "cep": "64555959",
   "logradouro": "Travessa Benedito Mendes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São José do Peixe",
   "uf": "PI",
-  "ibge": "2210102"
+  "ibge": "2210102",
+  "latitude": "-7.49541",
+  "longitude": "-42.56466"
 }

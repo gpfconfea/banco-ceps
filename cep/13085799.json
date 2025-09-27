@@ -5,5 +5,7 @@
   "bairro": "Piracambaia I",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.7829732",
+  "longitude": "-46.6923562"
 }

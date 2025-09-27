@@ -5,5 +5,7 @@
   "bairro": "Jardim Maria Luiza",
   "localidade": "Itapuí",
   "uf": "SP",
-  "ibge": "3522901"
+  "ibge": "3522901",
+  "latitude": "-22.8914",
+  "longitude": "-47.24434"
 }

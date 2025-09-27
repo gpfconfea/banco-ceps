@@ -1,9 +1,11 @@
 {
   "cep": "28345970",
   "logradouro": "Rua Doutor José Bruno Garcia Silveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itajara",
   "localidade": "Itaperuna",
   "uf": "RJ",
-  "ibge": "3302205"
+  "ibge": "3302205",
+  "latitude": "-21.2001578",
+  "longitude": "-41.8803055"
 }

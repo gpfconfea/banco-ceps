@@ -1,9 +1,11 @@
 {
   "cep": "73825959",
   "logradouro": "Rua 7 de Setembro Quadra 14 Lote 01",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jardim Nova Aurora",
   "localidade": "Vila Boa",
   "uf": "GO",
-  "ibge": "5222203"
+  "ibge": "5222203",
+  "latitude": "-15.03466",
+  "longitude": "-47.05317"
 }

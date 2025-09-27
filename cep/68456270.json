@@ -5,5 +5,7 @@
   "bairro": "Colorado",
   "localidade": "Tucuruí",
   "uf": "PA",
-  "ibge": "1508100"
+  "ibge": "1508100",
+  "latitude": "-4.77341",
+  "longitude": "-48.07677"
 }

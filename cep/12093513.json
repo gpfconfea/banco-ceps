@@ -5,5 +5,7 @@
   "bairro": "Cataguá",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.07481",
+  "longitude": "-45.56166"
 }

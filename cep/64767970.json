@@ -1,9 +1,11 @@
 {
   "cep": "64767970",
   "logradouro": "Rua Antônio Suldário",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Campo Alegre do Fidalgo",
   "uf": "PI",
-  "ibge": "2202117"
+  "ibge": "2202117",
+  "latitude": "-8.3753679",
+  "longitude": "-41.8365797"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "28960991",
   "logradouro": "Sítio Esmeraldaº",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Iguaba Grande",
   "uf": "RJ",
-  "ibge": "3301876"
+  "ibge": "3301876",
+  "latitude": "-22.84214",
+  "longitude": "-42.24118"
 }

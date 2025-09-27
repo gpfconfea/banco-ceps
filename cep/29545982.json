@@ -1,9 +1,11 @@
 {
   "cep": "29545982",
   "logradouro": "Rua João Natavelli",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Marta",
   "localidade": "Ibitirama",
   "uf": "ES",
-  "ibge": "3202553"
+  "ibge": "3202553",
+  "latitude": "-20.5120617",
+  "longitude": "-41.7166872"
 }

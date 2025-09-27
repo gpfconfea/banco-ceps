@@ -6,5 +6,7 @@
   "bairro": "Loteamento Vitória",
   "localidade": "Barra Bonita",
   "uf": "SP",
-  "ibge": "3505302"
+  "ibge": "3505302",
+  "latitude": "-22.45925",
+  "longitude": "-48.57109"
 }

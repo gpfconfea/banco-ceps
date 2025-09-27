@@ -1,9 +1,11 @@
 {
   "cep": "63604976",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Joaquim do Salgado",
   "localidade": "Senador Pompeu",
   "uf": "CE",
-  "ibge": "2312700"
+  "ibge": "2312700",
+  "latitude": "-3.7449808",
+  "longitude": "-38.6483705"
 }

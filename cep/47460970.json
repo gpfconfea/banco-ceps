@@ -1,9 +1,11 @@
 {
   "cep": "47460970",
   "logradouro": "Rua Eneas Ribeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itajubaquara",
   "localidade": "Gentio do Ouro",
   "uf": "BA",
-  "ibge": "2911303"
+  "ibge": "2911303",
+  "latitude": "-11.3906455",
+  "longitude": "-42.673854"
 }

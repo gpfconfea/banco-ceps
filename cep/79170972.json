@@ -1,9 +1,11 @@
 {
   "cep": "79170972",
   "logradouro": "Travessa do Meio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Sidrolândia",
   "uf": "MS",
-  "ibge": "5007901"
+  "ibge": "5007901",
+  "latitude": "-3.4911432",
+  "longitude": "-45.2519911"
 }

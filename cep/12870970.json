@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arapeí",
   "uf": "SP",
-  "ibge": "3503158"
+  "ibge": "3503158",
+  "latitude": "-22.6724559",
+  "longitude": "-44.4472499"
 }

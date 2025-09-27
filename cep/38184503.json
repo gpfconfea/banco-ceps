@@ -5,5 +5,7 @@
   "bairro": "Barreiro",
   "localidade": "Araxá",
   "uf": "MG",
-  "ibge": "3104007"
+  "ibge": "3104007",
+  "latitude": "-15.60875",
+  "longitude": "-44.38862"
 }

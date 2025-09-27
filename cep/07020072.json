@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Francisca",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4744963",
+  "longitude": "-46.5286897"
 }

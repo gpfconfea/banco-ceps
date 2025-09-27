@@ -1,9 +1,11 @@
 {
   "cep": "63814972",
   "logradouro": "Vila Nenenlândia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nenenlândia",
   "localidade": "Quixeramobim",
   "uf": "CE",
-  "ibge": "2311405"
+  "ibge": "2311405",
+  "latitude": "-5.4584616",
+  "longitude": "-39.1847496"
 }

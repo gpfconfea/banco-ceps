@@ -1,9 +1,11 @@
 {
   "cep": "62770990",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pacoti",
   "uf": "CE",
-  "ibge": "2309805"
+  "ibge": "2309805",
+  "latitude": "-3.76963",
+  "longitude": "-38.63064"
 }

@@ -5,5 +5,7 @@
   "bairro": "Condomínio Itamaraty",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-19.66015",
+  "longitude": "-43.8731"
 }

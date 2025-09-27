@@ -1,9 +1,11 @@
 {
   "cep": "45255970",
   "logradouro": "Avenida Manoel Messias de Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Mirante",
   "uf": "BA",
-  "ibge": "2921450"
+  "ibge": "2921450",
+  "latitude": "-10.3891494",
+  "longitude": "-37.3839356"
 }

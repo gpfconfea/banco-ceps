@@ -5,5 +5,7 @@
   "bairro": "Residencial Paraíso",
   "localidade": "Taubaté",
   "uf": "SP",
-  "ibge": "3554102"
+  "ibge": "3554102",
+  "latitude": "-23.047075",
+  "longitude": "-45.5593682"
 }

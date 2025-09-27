@@ -1,9 +1,11 @@
 {
   "cep": "97648990",
   "logradouro": "Agropecuária Sobradinho° - 3º distrito Encruzilhada",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Encruzilhada",
   "localidade": "Maçambará",
   "uf": "RS",
-  "ibge": "4311718"
+  "ibge": "4311718",
+  "latitude": "-29.14485",
+  "longitude": "-56.06803"
 }

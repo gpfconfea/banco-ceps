@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Ademir Bortoli",
   "localidade": "Pongaí",
   "uf": "SP",
-  "ibge": "3540101"
+  "ibge": "3540101",
+  "latitude": "-23.28104",
+  "longitude": "-45.88975"
 }

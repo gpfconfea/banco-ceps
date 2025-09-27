@@ -1,9 +1,11 @@
 {
   "cep": "28557970",
   "logradouro": "Avenida Humberto Soeiro de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ipituna",
   "localidade": "São Sebastião do Alto",
   "uf": "RJ",
-  "ibge": "3305307"
+  "ibge": "3305307",
+  "latitude": "-22.8074963",
+  "longitude": "-43.014709"
 }

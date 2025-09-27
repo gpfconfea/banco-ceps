@@ -1,9 +1,11 @@
 {
   "cep": "47585970",
   "logradouro": "Vila de Quixabá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Quixabá",
   "localidade": "Morpará",
   "uf": "BA",
-  "ibge": "2921609"
+  "ibge": "2921609",
+  "latitude": "-11.7980803",
+  "longitude": "-43.1696065"
 }

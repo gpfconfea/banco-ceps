@@ -1,9 +1,11 @@
 {
   "cep": "48850971",
   "logradouro": "Rua da Estação",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Jacurici",
   "localidade": "Itiúba",
   "uf": "BA",
-  "ibge": "2917003"
+  "ibge": "2917003",
+  "latitude": "-10.84874",
+  "longitude": "-39.71781"
 }

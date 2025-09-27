@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "Humaitá",
   "uf": "AM",
-  "ibge": "1301704"
+  "ibge": "1301704",
+  "latitude": "-7.5126224",
+  "longitude": "-63.0327826"
 }

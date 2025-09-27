@@ -6,5 +6,7 @@
   "bairro": "Área Rural de Sapezal",
   "localidade": "Sapezal",
   "uf": "MT",
-  "ibge": "5107875"
+  "ibge": "5107875",
+  "latitude": "-13.53955",
+  "longitude": "-58.81639"
 }

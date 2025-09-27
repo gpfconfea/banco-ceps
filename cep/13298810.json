@@ -5,5 +5,7 @@
   "bairro": "Vila Aparecida",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-23.97312",
+  "longitude": "-48.87265"
 }

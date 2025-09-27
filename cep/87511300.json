@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Metropolitano",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-25.53082",
+  "longitude": "-54.54294"
 }

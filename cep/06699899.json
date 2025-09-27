@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Itapevi",
   "localidade": "Itapevi",
   "uf": "SP",
-  "ibge": "3522505"
+  "ibge": "3522505",
+  "latitude": "-23.5469174",
+  "longitude": "-46.927177"
 }

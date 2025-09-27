@@ -5,5 +5,7 @@
   "bairro": "Engenho",
   "localidade": "Taquaraçu de Minas",
   "uf": "MG",
-  "ibge": "3168309"
+  "ibge": "3168309",
+  "latitude": "-16.90151",
+  "longitude": "-44.07479"
 }

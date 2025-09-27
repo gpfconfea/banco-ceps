@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Treviso",
   "uf": "SC",
-  "ibge": "4218350"
+  "ibge": "4218350",
+  "latitude": "-28.50943",
+  "longitude": "-49.45732"
 }

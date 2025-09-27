@@ -5,5 +5,7 @@
   "bairro": "Distrito Agroindustrial de Goianira",
   "localidade": "Goianira",
   "uf": "GO",
-  "ibge": "5208806"
+  "ibge": "5208806",
+  "latitude": "-18.39613",
+  "longitude": "-49.28467"
 }

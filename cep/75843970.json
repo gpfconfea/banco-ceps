@@ -1,9 +1,11 @@
 {
   "cep": "75843970",
   "logradouro": "Avenida Goiás Quadra 32 Lote 13",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Portelândia",
   "uf": "GO",
-  "ibge": "5218102"
+  "ibge": "5218102",
+  "latitude": "-17.3536",
+  "longitude": "-52.67895"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "28894990",
   "logradouro": "Rua Três Mariasº",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "latitude": "-22.51036",
+  "longitude": "-41.94906"
 }

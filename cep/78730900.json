@@ -1,9 +1,11 @@
 {
   "cep": "78730900",
   "logradouro": "Travessa Francisco José de Santana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Santa Maria",
   "localidade": "Rondonópolis",
   "uf": "MT",
-  "ibge": "5107602"
+  "ibge": "5107602",
+  "latitude": "-16.4675211",
+  "longitude": "-54.6101319"
 }

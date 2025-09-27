@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São João do Piauí",
   "uf": "PI",
-  "ibge": "2210003"
+  "ibge": "2210003",
+  "latitude": "-8.35858",
+  "longitude": "-42.24841"
 }

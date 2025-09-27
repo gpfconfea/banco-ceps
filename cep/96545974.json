@@ -1,9 +1,11 @@
 {
   "cep": "96545974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cortado",
   "localidade": "Novo Cabrais",
   "uf": "RS",
-  "ibge": "4313391"
+  "ibge": "4313391",
+  "latitude": "-30.3017018",
+  "longitude": "-51.3239026"
 }

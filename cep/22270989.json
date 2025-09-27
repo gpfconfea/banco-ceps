@@ -1,9 +1,11 @@
 {
   "cep": "22270989",
-  "logradouro": "Rua Voluntários da Pátria 254 Loja A/B Térreo Locker Correios",
+  "logradouro": "Rua Voluntários da Pátria 254 Loja A/B Térreo",
   "complemento": "",
   "bairro": "Botafogo",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.95346",
+  "longitude": "-43.19053"
 }

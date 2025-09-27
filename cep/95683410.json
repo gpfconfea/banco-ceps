@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Canela",
   "uf": "RS",
-  "ibge": "4304408"
+  "ibge": "4304408",
+  "latitude": "-29.3644",
+  "longitude": "-50.83949"
 }

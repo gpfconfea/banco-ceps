@@ -1,9 +1,11 @@
 {
   "cep": "95551970",
   "logradouro": "Rua Catalunia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Frei Sebastião",
   "localidade": "Palmares do Sul",
   "uf": "RS",
-  "ibge": "4313656"
+  "ibge": "4313656",
+  "latitude": "-30.2596595",
+  "longitude": "-50.5110784"
 }

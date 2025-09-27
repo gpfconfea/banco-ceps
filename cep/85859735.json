@@ -6,5 +6,7 @@
   "bairro": "Lote Grande",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.47455",
+  "longitude": "-54.50191"
 }

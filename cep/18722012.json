@@ -6,5 +6,7 @@
   "bairro": "Vila Leme",
   "localidade": "Paranapanema",
   "uf": "SP",
-  "ibge": "3535804"
+  "ibge": "3535804",
+  "latitude": "-23.38074",
+  "longitude": "-48.72966"
 }

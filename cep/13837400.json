@@ -5,5 +5,7 @@
   "bairro": "Jardim das Palmeiras",
   "localidade": "Conchal",
   "uf": "SP",
-  "ibge": "3512209"
+  "ibge": "3512209",
+  "latitude": "-22.3253",
+  "longitude": "-47.15795"
 }

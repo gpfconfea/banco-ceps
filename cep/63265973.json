@@ -1,9 +1,11 @@
 {
   "cep": "63265973",
   "logradouro": "Sítio Timbaúba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Felipe",
   "localidade": "Brejo Santo",
   "uf": "CE",
-  "ibge": "2302503"
+  "ibge": "2302503",
+  "latitude": "-7.1606791",
+  "longitude": "-38.7847425"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "39701970",
   "logradouro": "Rua José Alexandre",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Rita",
   "localidade": "Peçanha",
   "uf": "MG",
-  "ibge": "3148608"
+  "ibge": "3148608",
+  "latitude": "-19.7653848",
+  "longitude": "-44.0859657"
 }

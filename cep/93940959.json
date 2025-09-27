@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lindolfo Collor",
   "uf": "RS",
-  "ibge": "4311627"
+  "ibge": "4311627",
+  "latitude": "-29.59005",
+  "longitude": "-51.21618"
 }

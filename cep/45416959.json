@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Presidente Tancredo Neves",
   "uf": "BA",
-  "ibge": "2925758"
+  "ibge": "2925758",
+  "latitude": "-13.45389",
+  "longitude": "-39.42215"
 }

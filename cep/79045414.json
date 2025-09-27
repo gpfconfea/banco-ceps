@@ -5,5 +5,7 @@
   "bairro": "Bairro Industrial",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4598852",
+  "longitude": "-54.5456964"
 }

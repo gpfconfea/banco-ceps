@@ -1,9 +1,11 @@
 {
   "cep": "62565973",
   "logradouro": "Rua José Arnaldo Fonsêca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Panacuí",
   "localidade": "Marco",
   "uf": "CE",
-  "ibge": "2307809"
+  "ibge": "2307809",
+  "latitude": "-3.1288748",
+  "longitude": "-40.1585979"
 }

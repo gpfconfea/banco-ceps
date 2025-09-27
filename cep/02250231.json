@@ -5,5 +5,7 @@
   "bairro": "Vila Pedrosa",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.49534",
+  "longitude": "-46.62395"
 }

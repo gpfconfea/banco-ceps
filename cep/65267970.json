@@ -1,9 +1,11 @@
 {
   "cep": "65267970",
   "logradouro": "Avenida Governador Antônio Dino",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Central do Maranhão",
   "uf": "MA",
-  "ibge": "2103125"
+  "ibge": "2103125",
+  "latitude": "-2.1957064",
+  "longitude": "-44.8292885"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "48440970",
   "logradouro": "Praça Prefeito Marcello Brito",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ribeira do Amparo",
   "uf": "BA",
-  "ibge": "2926509"
+  "ibge": "2926509",
+  "latitude": "-11.0404704",
+  "longitude": "-38.4309948"
 }

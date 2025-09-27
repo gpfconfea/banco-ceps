@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cruz das Almas",
   "uf": "BA",
-  "ibge": "2909802"
+  "ibge": "2909802",
+  "latitude": "-12.66182",
+  "longitude": "-39.13448"
 }

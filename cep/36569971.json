@@ -5,5 +5,7 @@
   "bairro": "Vinte Alqueires",
   "localidade": "Porto Firme",
   "uf": "MG",
-  "ibge": "3152303"
+  "ibge": "3152303",
+  "latitude": "-20.66787",
+  "longitude": "-43.08721"
 }

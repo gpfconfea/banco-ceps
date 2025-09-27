@@ -1,9 +1,11 @@
 {
   "cep": "48986970",
   "logradouro": "Rua do Povoado de Cariaca",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Senhor do Bonfim",
   "uf": "BA",
-  "ibge": "2930105"
+  "ibge": "2930105",
+  "latitude": "-20.3338123",
+  "longitude": "-40.3580247"
 }

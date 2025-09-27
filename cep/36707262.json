@@ -5,5 +5,7 @@
   "bairro": "Jardim Lisboa",
   "localidade": "Leopoldina",
   "uf": "MG",
-  "ibge": "3138401"
+  "ibge": "3138401",
+  "latitude": "-21.53972",
+  "longitude": "-42.6409"
 }

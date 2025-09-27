@@ -5,5 +5,7 @@
   "bairro": "Dom Couto",
   "localidade": "Formiga",
   "uf": "MG",
-  "ibge": "3126109"
+  "ibge": "3126109",
+  "latitude": "-20.48441",
+  "longitude": "-45.43716"
 }

@@ -5,5 +5,7 @@
   "bairro": "Rodeio",
   "localidade": "Cáceres",
   "uf": "MT",
-  "ibge": "5102504"
+  "ibge": "5102504",
+  "latitude": "-14.72085",
+  "longitude": "-56.31547"
 }

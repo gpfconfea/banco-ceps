@@ -1,9 +1,11 @@
 {
   "cep": "64580970",
   "logradouro": "Rua Luiz Lelis de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Patos do Piauí",
   "uf": "PI",
-  "ibge": "2207777"
+  "ibge": "2207777",
+  "latitude": "-7.6390666",
+  "longitude": "-41.3209993"
 }

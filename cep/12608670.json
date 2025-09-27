@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Lorena",
   "uf": "SP",
-  "ibge": "3527207"
+  "ibge": "3527207",
+  "latitude": "-23.1323089",
+  "longitude": "-46.7199164"
 }

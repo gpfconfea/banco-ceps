@@ -1,9 +1,11 @@
 {
   "cep": "56250973",
   "logradouro": "Sítio Juá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Juá",
   "localidade": "Trindade",
   "uf": "PE",
-  "ibge": "2615607"
+  "ibge": "2615607",
+  "latitude": "-8.0681381",
+  "longitude": "-35.9712281"
 }

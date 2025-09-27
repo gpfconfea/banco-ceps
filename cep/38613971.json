@@ -1,9 +1,11 @@
 {
   "cep": "38613971",
   "logradouro": "Rua Bento Alves da Mata",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Palmeirinha",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-16.3596675",
+  "longitude": "-46.902586"
 }

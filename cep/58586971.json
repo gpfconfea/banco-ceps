@@ -1,9 +1,11 @@
 {
   "cep": "58586971",
   "logradouro": "Distrito Sucuru",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sucuru",
   "localidade": "Serra Branca",
   "uf": "PB",
-  "ibge": "2515500"
+  "ibge": "2515500",
+  "latitude": "-7.4828261",
+  "longitude": "-36.6639815"
 }

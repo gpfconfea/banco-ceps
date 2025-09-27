@@ -5,5 +5,7 @@
   "bairro": "Alto Alegre",
   "localidade": "Rio Branco",
   "uf": "AC",
-  "ibge": "1200401"
+  "ibge": "1200401",
+  "latitude": "-3.0024377",
+  "longitude": "-59.9856291"
 }

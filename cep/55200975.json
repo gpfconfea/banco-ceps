@@ -1,9 +1,11 @@
 {
   "cep": "55200975",
   "logradouro": "Praça Leopoldo de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ipanema",
   "localidade": "Pesqueira",
   "uf": "PE",
-  "ibge": "2610905"
+  "ibge": "2610905",
+  "latitude": "-21.5592565",
+  "longitude": "-45.4485891"
 }

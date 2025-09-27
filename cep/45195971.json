@@ -1,9 +1,11 @@
 {
   "cep": "45195971",
   "logradouro": "Praça Florisvaldo Rocha Macedo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lucaia",
   "localidade": "Planalto",
   "uf": "BA",
-  "ibge": "2925006"
+  "ibge": "2925006",
+  "latitude": "-14.7489342",
+  "longitude": "-40.5086728"
 }

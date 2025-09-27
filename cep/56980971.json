@@ -1,9 +1,11 @@
 {
   "cep": "56980971",
   "logradouro": "Rua Laudelino Jeronimo da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Cachoeirinha",
   "localidade": "Mirandiba",
   "uf": "PE",
-  "ibge": "2609303"
+  "ibge": "2609303",
+  "latitude": "-8.0188847",
+  "longitude": "-38.805475"
 }

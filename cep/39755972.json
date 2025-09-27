@@ -1,9 +1,11 @@
 {
   "cep": "39755972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Materlândia",
   "uf": "MG",
-  "ibge": "3140605"
+  "ibge": "3140605",
+  "latitude": "-15.71448",
+  "longitude": "-44.01668"
 }

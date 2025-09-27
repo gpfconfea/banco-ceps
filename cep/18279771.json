@@ -5,5 +5,7 @@
   "bairro": "Residencial Terras do Carmo 2",
   "localidade": "Tatuí",
   "uf": "SP",
-  "ibge": "3554003"
+  "ibge": "3554003",
+  "latitude": "-23.33123",
+  "longitude": "-47.84597"
 }

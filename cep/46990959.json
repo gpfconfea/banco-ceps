@@ -1,9 +1,11 @@
 {
   "cep": "46990959",
   "logradouro": "Praça Jutahy Magalhães",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Souto Soares",
   "uf": "BA",
-  "ibge": "2930808"
+  "ibge": "2930808",
+  "latitude": "-12.09008",
+  "longitude": "-41.64539"
 }

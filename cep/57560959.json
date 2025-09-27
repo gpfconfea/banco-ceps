@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dois Riachos",
   "uf": "AL",
-  "ibge": "2702504"
+  "ibge": "2702504",
+  "latitude": "-9.38639",
+  "longitude": "-37.08959"
 }

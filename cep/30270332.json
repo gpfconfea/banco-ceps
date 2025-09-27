@@ -5,5 +5,7 @@
   "bairro": "Cônego Pinheiro",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.9189878",
+  "longitude": "-43.909224"
 }

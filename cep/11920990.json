@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Iguape",
   "uf": "SP",
-  "ibge": "3520301"
+  "ibge": "3520301",
+  "latitude": "-24.53721",
+  "longitude": "-47.55287"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "99334970",
   "logradouro": "Estrada Linha Cerro Preto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cerro Preto",
   "localidade": "Tunas",
   "uf": "RS",
-  "ibge": "4322152"
+  "ibge": "4322152",
+  "latitude": "-29.12685",
+  "longitude": "-52.86527"
 }

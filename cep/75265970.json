@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Vianópolis",
   "uf": "GO",
-  "ibge": "5222005"
+  "ibge": "5222005",
+  "latitude": "-16.7429693",
+  "longitude": "-48.516713"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "76369970",
   "logradouro": "Avenida Lauzimar de Oliveira Quadra 15 Lote 12",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "São Luiz do Norte",
   "uf": "GO",
-  "ibge": "5220157"
+  "ibge": "5220157",
+  "latitude": "-14.8640349",
+  "longitude": "-49.32773"
 }

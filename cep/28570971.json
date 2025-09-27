@@ -5,5 +5,7 @@
   "bairro": "Coronel Teixeira",
   "localidade": "Itaocara",
   "uf": "RJ",
-  "ibge": "3302106"
+  "ibge": "3302106",
+  "latitude": "-21.7128712",
+  "longitude": "-42.1330309"
 }

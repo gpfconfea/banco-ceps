@@ -6,5 +6,7 @@
   "bairro": "Residencial Tenentes",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.83007",
+  "longitude": "-46.32148"
 }

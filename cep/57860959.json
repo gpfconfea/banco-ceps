@@ -1,9 +1,11 @@
 {
   "cep": "57860959",
   "logradouro": "Avenida Valdemar Pontes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São José da Laje",
   "uf": "AL",
-  "ibge": "2708303"
+  "ibge": "2708303",
+  "latitude": "-9.01083",
+  "longitude": "-36.05731"
 }

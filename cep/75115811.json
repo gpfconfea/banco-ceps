@@ -5,5 +5,7 @@
   "bairro": "Residencial Novo Mundo",
   "localidade": "Anápolis",
   "uf": "GO",
-  "ibge": "5201108"
+  "ibge": "5201108",
+  "latitude": "-17.4002567",
+  "longitude": "-50.3775368"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cananéia",
   "uf": "SP",
-  "ibge": "3509908"
+  "ibge": "3509908",
+  "latitude": "-25.01442",
+  "longitude": "-47.92852"
 }

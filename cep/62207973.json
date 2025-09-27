@@ -1,9 +1,11 @@
 {
   "cep": "62207973",
   "logradouro": "Rua do Posto de Saúde",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Espacinha",
   "localidade": "Nova Russas",
   "uf": "CE",
-  "ibge": "2309300"
+  "ibge": "2309300",
+  "latitude": "-3.7250408",
+  "longitude": "-38.5695555"
 }

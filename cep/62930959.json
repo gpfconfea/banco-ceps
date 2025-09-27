@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Limoeiro do Norte",
   "uf": "CE",
-  "ibge": "2307601"
+  "ibge": "2307601",
+  "latitude": "-5.14886",
+  "longitude": "-38.09374"
 }

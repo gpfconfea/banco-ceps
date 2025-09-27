@@ -5,5 +5,7 @@
   "bairro": "Renascence Residencial",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-23.58475",
+  "longitude": "-46.73388"
 }

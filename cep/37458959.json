@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alagoa",
   "uf": "MG",
-  "ibge": "3101300"
+  "ibge": "3101300",
+  "latitude": "-22.17035",
+  "longitude": "-44.63912"
 }

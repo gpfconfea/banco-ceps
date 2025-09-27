@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alhandra",
   "uf": "PB",
-  "ibge": "2500601"
+  "ibge": "2500601",
+  "latitude": "-7.41948",
+  "longitude": "-34.91128"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Paiva",
   "localidade": "Guaiçara",
   "uf": "SP",
-  "ibge": "3517208"
+  "ibge": "3517208",
+  "latitude": "-21.62069",
+  "longitude": "-49.80411"
 }

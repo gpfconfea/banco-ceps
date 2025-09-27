@@ -5,5 +5,7 @@
   "bairro": "Residencial Pires da Luz",
   "localidade": "Ubá",
   "uf": "MG",
-  "ibge": "3169901"
+  "ibge": "3169901",
+  "latitude": "-18.85541",
+  "longitude": "-41.953458"
 }

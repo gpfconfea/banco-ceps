@@ -5,5 +5,7 @@
   "bairro": "Jardim Curitiba",
   "localidade": "Sinop",
   "uf": "MT",
-  "ibge": "5107909"
+  "ibge": "5107909",
+  "latitude": "-25.09492",
+  "longitude": "-50.16311"
 }

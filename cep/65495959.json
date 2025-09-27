@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Miranda do Norte",
   "uf": "MA",
-  "ibge": "2106755"
+  "ibge": "2106755",
+  "latitude": "-3.56312",
+  "longitude": "-44.58533"
 }

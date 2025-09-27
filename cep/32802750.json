@@ -5,5 +5,7 @@
   "bairro": "Cidade Jardim",
   "localidade": "Esmeraldas",
   "uf": "MG",
-  "ibge": "3124104"
+  "ibge": "3124104",
+  "latitude": "-19.76243",
+  "longitude": "-44.313"
 }

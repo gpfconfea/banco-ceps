@@ -5,5 +5,7 @@
   "bairro": "Residencial Bela Vista",
   "localidade": "Quatá",
   "uf": "SP",
-  "ibge": "3541703"
+  "ibge": "3541703",
+  "latitude": "-22.23251",
+  "longitude": "-50.7105"
 }

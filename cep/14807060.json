@@ -6,5 +6,7 @@
   "bairro": "Vila Furlan",
   "localidade": "Araraquara",
   "uf": "SP",
-  "ibge": "3503208"
+  "ibge": "3503208",
+  "latitude": "-21.8109879",
+  "longitude": "-48.1615929"
 }

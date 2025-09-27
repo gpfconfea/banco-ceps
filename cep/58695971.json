@@ -1,9 +1,11 @@
 {
   "cep": "58695971",
   "logradouro": "Rua Dois Irmãos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Desterro",
   "uf": "PB",
-  "ibge": "2505402"
+  "ibge": "2505402",
+  "latitude": "-7.1561016",
+  "longitude": "-34.8860472"
 }

@@ -5,5 +5,7 @@
   "bairro": "Chácara Faggion",
   "localidade": "Suzano",
   "uf": "SP",
-  "ibge": "3552502"
+  "ibge": "3552502",
+  "latitude": "-23.51014",
+  "longitude": "-46.29032"
 }

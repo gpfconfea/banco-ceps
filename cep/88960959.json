@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sombrio",
   "uf": "SC",
-  "ibge": "4217709"
+  "ibge": "4217709",
+  "latitude": "-29.10987",
+  "longitude": "-49.62959"
 }

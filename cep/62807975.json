@@ -1,9 +1,11 @@
 {
   "cep": "62807975",
   "logradouro": "Sítio Córregos dos Fernandes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Córrego dos Fernandes",
   "localidade": "Aracati",
   "uf": "CE",
-  "ibge": "2301109"
+  "ibge": "2301109",
+  "latitude": "-4.5611543",
+  "longitude": "-37.7689913"
 }

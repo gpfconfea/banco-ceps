@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Boituva",
   "uf": "SP",
-  "ibge": "3507001"
+  "ibge": "3507001",
+  "latitude": "-23.30691",
+  "longitude": "-47.67604"
 }

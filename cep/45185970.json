@@ -1,9 +1,11 @@
 {
   "cep": "45185970",
   "logradouro": "Rua da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Coquinhos",
   "localidade": "Anagé",
   "uf": "BA",
-  "ibge": "2901205"
+  "ibge": "2901205",
+  "latitude": "-12.80172",
+  "longitude": "-38.26424"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "39833970",
   "logradouro": "Rua João Camargo Figueiredo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Guarataia",
   "localidade": "Itambacuri",
   "uf": "MG",
-  "ibge": "3132701"
+  "ibge": "3132701",
+  "latitude": "-18.034097",
+  "longitude": "-41.6833441"
 }

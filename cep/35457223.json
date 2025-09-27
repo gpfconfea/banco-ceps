@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Itabirito",
   "uf": "MG",
-  "ibge": "3131901"
+  "ibge": "3131901",
+  "latitude": "-20.24522",
+  "longitude": "-43.77588"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "46768970",
   "logradouro": "Praça João Paulo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cabrália",
   "localidade": "Piatã",
   "uf": "BA",
-  "ibge": "2924306"
+  "ibge": "2924306",
+  "latitude": "-12.8542787",
+  "longitude": "-41.8416147"
 }

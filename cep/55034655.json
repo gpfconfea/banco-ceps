@@ -5,5 +5,7 @@
   "bairro": "Agamenom Magalhães",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-20.9139891",
+  "longitude": "-46.9690589"
 }

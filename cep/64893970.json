@@ -1,9 +1,11 @@
 {
   "cep": "64893970",
   "logradouro": "Praça do Mercado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Tamboril do Piauí",
   "uf": "PI",
-  "ibge": "2210953"
+  "ibge": "2210953",
+  "latitude": "-7.2324593",
+  "longitude": "-42.1786615"
 }

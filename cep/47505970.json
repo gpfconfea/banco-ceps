@@ -1,9 +1,11 @@
 {
   "cep": "47505970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Águas do Paulista",
   "localidade": "Paratinga",
   "uf": "BA",
-  "ibge": "2923704"
+  "ibge": "2923704",
+  "latitude": "-12.833853",
+  "longitude": "-38.368085"
 }

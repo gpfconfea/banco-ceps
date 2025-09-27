@@ -1,9 +1,11 @@
 {
   "cep": "37970971",
   "logradouro": "Rua Benedito M. Prado",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pratápolis",
   "uf": "MG",
-  "ibge": "3152907"
+  "ibge": "3152907",
+  "latitude": "-20.821295",
+  "longitude": "-46.828156"
 }

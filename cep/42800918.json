@@ -1,9 +1,11 @@
 {
   "cep": "42800918",
   "logradouro": "Rua de Contorno do Centro Administrativo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.7075623",
+  "longitude": "-38.3192652"
 }

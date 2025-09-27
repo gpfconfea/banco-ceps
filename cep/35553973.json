@@ -1,9 +1,11 @@
 {
   "cep": "35553973",
   "logradouro": "Rua Ribeiro Pena",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Marilândia",
   "localidade": "Itapecerica",
   "uf": "MG",
-  "ibge": "3133501"
+  "ibge": "3133501",
+  "latitude": "-20.4735028",
+  "longitude": "-45.1349177"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "64093990",
   "logradouro": "Rua Imperatriz Teresa Cristina - Verde Cap",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Teresina",
   "uf": "PI",
-  "ibge": "2211001"
+  "ibge": "2211001",
+  "latitude": "-5.14373",
+  "longitude": "-42.69209"
 }

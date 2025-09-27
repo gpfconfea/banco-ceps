@@ -1,9 +1,11 @@
 {
   "cep": "62865973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caponguinha",
   "localidade": "Pindoretama",
   "uf": "CE",
-  "ibge": "2310852"
+  "ibge": "2310852",
+  "latitude": "-4.0450451",
+  "longitude": "-38.2921375"
 }

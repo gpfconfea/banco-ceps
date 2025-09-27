@@ -1,9 +1,11 @@
 {
   "cep": "59680959",
   "logradouro": "Praça Coronel Pompeu Jácome",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Campo Grande",
   "uf": "RN",
-  "ibge": "2401305"
+  "ibge": "2401305",
+  "latitude": "-5.86221",
+  "longitude": "-37.31171"
 }

@@ -5,5 +5,7 @@
   "bairro": "Breno Garcia",
   "localidade": "Gravataí",
   "uf": "RS",
-  "ibge": "4309209"
+  "ibge": "4309209",
+  "latitude": "-29.94289",
+  "longitude": "-51.03889"
 }

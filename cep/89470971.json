@@ -1,9 +1,11 @@
 {
   "cep": "89470971",
   "logradouro": "Estrada Geral de Paula Pereira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paula Pereira",
   "localidade": "Canoinhas",
   "uf": "SC",
-  "ibge": "4203808"
+  "ibge": "4203808",
+  "latitude": "-26.042058",
+  "longitude": "-50.516896"
 }

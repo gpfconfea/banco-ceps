@@ -1,9 +1,11 @@
 {
   "cep": "77913959",
   "logradouro": "Avenida Ayrton Senna",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Palmeiras do Tocantins",
   "uf": "TO",
-  "ibge": "1713809"
+  "ibge": "1713809",
+  "latitude": "-6.61369",
+  "longitude": "-47.54583"
 }

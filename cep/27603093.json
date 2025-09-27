@@ -5,5 +5,7 @@
   "bairro": "Bairro de Fátima",
   "localidade": "Valença",
   "uf": "RJ",
-  "ibge": "3306107"
+  "ibge": "3306107",
+  "latitude": "-22.24062",
+  "longitude": "-43.71319"
 }

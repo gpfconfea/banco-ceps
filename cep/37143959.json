@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Serrania",
   "uf": "MG",
-  "ibge": "3166907"
+  "ibge": "3166907",
+  "latitude": "-21.54983",
+  "longitude": "-46.05095"
 }

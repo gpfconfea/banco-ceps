@@ -5,5 +5,7 @@
   "bairro": "Jardim Itapuã",
   "localidade": "Sorocaba",
   "uf": "SP",
-  "ibge": "3552205"
+  "ibge": "3552205",
+  "latitude": "-23.4686486",
+  "longitude": "-47.5013945"
 }

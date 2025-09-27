@@ -1,9 +1,11 @@
 {
   "cep": "36675971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Domingos",
   "localidade": "Santo Antônio do Aventureiro",
   "uf": "MG",
-  "ibge": "3160009"
+  "ibge": "3160009",
+  "latitude": "-21.714304",
+  "longitude": "-42.8154855"
 }

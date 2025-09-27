@@ -5,5 +5,7 @@
   "bairro": "Condomínio Terras de São Paulo",
   "localidade": "Aguaí",
   "uf": "SP",
-  "ibge": "3500303"
+  "ibge": "3500303",
+  "latitude": "-22.04104",
+  "longitude": "-46.97824"
 }

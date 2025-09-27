@@ -5,5 +5,7 @@
   "bairro": "Boa Vista",
   "localidade": "Arapiraca",
   "uf": "AL",
-  "ibge": "2700300"
+  "ibge": "2700300",
+  "latitude": "-23.5556815",
+  "longitude": "-46.3844097"
 }

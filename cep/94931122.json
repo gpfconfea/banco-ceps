@@ -5,5 +5,7 @@
   "bairro": "Central Park",
   "localidade": "Cachoeirinha",
   "uf": "RS",
-  "ibge": "4303103"
+  "ibge": "4303103",
+  "latitude": "-29.94564",
+  "longitude": "-51.08323"
 }

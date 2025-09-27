@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Matinha",
   "uf": "MA",
-  "ibge": "2106508"
+  "ibge": "2106508",
+  "latitude": "-3.09279",
+  "longitude": "-45.03147"
 }

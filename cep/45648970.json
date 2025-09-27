@@ -1,9 +1,11 @@
 {
   "cep": "45648970",
   "logradouro": "Praça Manoel José Teixeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itapitanga",
   "uf": "BA",
-  "ibge": "2916609"
+  "ibge": "2916609",
+  "latitude": "-14.5409746",
+  "longitude": "-39.5448928"
 }

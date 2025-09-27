@@ -5,5 +5,7 @@
   "bairro": "São Marcos",
   "localidade": "Cataguases",
   "uf": "MG",
-  "ibge": "3115300"
+  "ibge": "3115300",
+  "latitude": "-21.41097",
+  "longitude": "-42.67291"
 }

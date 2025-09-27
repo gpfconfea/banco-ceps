@@ -5,5 +5,7 @@
   "bairro": "Vila Residencial de Furnas",
   "localidade": "Itumbiara",
   "uf": "GO",
-  "ibge": "5211503"
+  "ibge": "5211503",
+  "latitude": "-13.4230499",
+  "longitude": "-49.1357203"
 }

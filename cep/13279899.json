@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Valinhos",
   "localidade": "Valinhos",
   "uf": "SP",
-  "ibge": "3556206"
+  "ibge": "3556206",
+  "latitude": "-23.0089373",
+  "longitude": "-47.0274094"
 }

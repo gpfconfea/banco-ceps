@@ -5,5 +5,7 @@
   "bairro": "Núcleo Residencial Afonso Zupardo",
   "localidade": "Itatiba",
   "uf": "SP",
-  "ibge": "3523404"
+  "ibge": "3523404",
+  "latitude": "-23.6700883",
+  "longitude": "-46.6107478"
 }

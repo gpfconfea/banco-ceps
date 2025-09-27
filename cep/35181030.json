@@ -5,5 +5,7 @@
   "bairro": "Alegre",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "latitude": "-19.8205801",
+  "longitude": "-43.9504618"
 }

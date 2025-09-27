@@ -1,9 +1,11 @@
 {
   "cep": "65875970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rocado",
   "localidade": "Pastos Bons",
   "uf": "MA",
-  "ibge": "2108009"
+  "ibge": "2108009",
+  "latitude": "-2.5610835",
+  "longitude": "-44.1879788"
 }

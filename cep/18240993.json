@@ -1,9 +1,11 @@
 {
   "cep": "18240993",
   "logradouro": "Estrada Municipal do Machadinhoº - Bairro do Machadinho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Angatuba",
   "uf": "SP",
-  "ibge": "3502200"
+  "ibge": "3502200",
+  "latitude": "-23.46897",
+  "longitude": "-48.43848"
 }

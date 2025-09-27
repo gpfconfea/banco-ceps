@@ -5,5 +5,7 @@
   "bairro": "Residencial Campestre Vila Rica",
   "localidade": "Rio Claro",
   "uf": "SP",
-  "ibge": "3543907"
+  "ibge": "3543907",
+  "latitude": "-22.4507277",
+  "longitude": "-47.5734917"
 }

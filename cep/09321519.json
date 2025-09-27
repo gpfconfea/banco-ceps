@@ -5,5 +5,7 @@
   "bairro": "Jardim Zaira",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-22.8366826",
+  "longitude": "-45.2516348"
 }

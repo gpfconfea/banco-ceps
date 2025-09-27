@@ -5,5 +5,7 @@
   "bairro": "Jardim Trianon",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.79219",
+  "longitude": "-53.30943"
 }

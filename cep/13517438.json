@@ -5,5 +5,7 @@
   "bairro": "Residencial Cidade Jardim",
   "localidade": "Charqueada",
   "uf": "SP",
-  "ibge": "3511706"
+  "ibge": "3511706",
+  "latitude": "-21.16682",
+  "longitude": "-48.96661"
 }

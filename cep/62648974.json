@@ -1,9 +1,11 @@
 {
   "cep": "62648974",
   "logradouro": "Rua Casa de Pedra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Porfirio Sampaio",
   "localidade": "Pentecoste",
   "uf": "CE",
-  "ibge": "2310704"
+  "ibge": "2310704",
+  "latitude": "-3.76546",
+  "longitude": "-39.07532"
 }

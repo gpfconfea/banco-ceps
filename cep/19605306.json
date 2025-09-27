@@ -6,5 +6,7 @@
   "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi",
   "localidade": "Rancharia",
   "uf": "SP",
-  "ibge": "3542206"
+  "ibge": "3542206",
+  "latitude": "-22.2255",
+  "longitude": "-50.91265"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Campina",
   "uf": "SP",
-  "ibge": "3532827"
+  "ibge": "3532827",
+  "latitude": "-24.1199",
+  "longitude": "-48.90518"
 }

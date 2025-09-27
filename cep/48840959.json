@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cansanção",
   "uf": "BA",
-  "ibge": "2906808"
+  "ibge": "2906808",
+  "latitude": "-10.6669",
+  "longitude": "-39.49606"
 }

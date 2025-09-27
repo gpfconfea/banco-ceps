@@ -5,5 +5,7 @@
   "bairro": "Vila Aeroporto",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.8080752",
+  "longitude": "-44.0030721"
 }

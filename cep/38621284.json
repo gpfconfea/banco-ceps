@@ -5,5 +5,7 @@
   "bairro": "Industrial",
   "localidade": "Unaí",
   "uf": "MG",
-  "ibge": "3170404"
+  "ibge": "3170404",
+  "latitude": "-19.97076",
+  "longitude": "-43.99709"
 }

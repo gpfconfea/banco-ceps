@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Sabino",
   "localidade": "Sabino",
   "uf": "SP",
-  "ibge": "3544608"
+  "ibge": "3544608",
+  "latitude": "-21.45979",
+  "longitude": "-49.57548"
 }

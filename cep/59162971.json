@@ -1,9 +1,11 @@
 {
   "cep": "59162971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Manibu",
   "localidade": "São José de Mipibu",
   "uf": "RN",
-  "ibge": "2412203"
+  "ibge": "2412203",
+  "latitude": "-5.9674876",
+  "longitude": "-35.2790164"
 }

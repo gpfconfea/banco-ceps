@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bernardo do Mearim",
   "uf": "MA",
-  "ibge": "2101939"
+  "ibge": "2101939",
+  "latitude": "-4.6270462",
+  "longitude": "-44.7611493"
 }

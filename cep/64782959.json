@@ -1,9 +1,11 @@
 {
   "cep": "64782959",
   "logradouro": "Rua Félix José da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Jurema",
   "uf": "PI",
-  "ibge": "2205532"
+  "ibge": "2205532",
+  "latitude": "-9.22164",
+  "longitude": "-43.12702"
 }

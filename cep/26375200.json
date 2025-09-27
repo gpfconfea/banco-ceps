@@ -5,5 +5,7 @@
   "bairro": "Campo Alegre",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.9225806",
+  "longitude": "-43.6253914"
 }

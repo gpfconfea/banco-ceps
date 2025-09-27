@@ -1,9 +1,11 @@
 {
   "cep": "27190970",
   "logradouro": "Praça da Concordia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Monumento",
   "localidade": "Piraí",
   "uf": "RJ",
-  "ibge": "3304003"
+  "ibge": "3304003",
+  "latitude": "-22.4680048",
+  "longitude": "-44.4485711"
 }

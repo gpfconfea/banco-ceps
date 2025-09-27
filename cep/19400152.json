@@ -5,5 +5,7 @@
   "bairro": "Jardim das Laranjeiras",
   "localidade": "Presidente Venceslau",
   "uf": "SP",
-  "ibge": "3541505"
+  "ibge": "3541505",
+  "latitude": "-21.87972",
+  "longitude": "-51.852"
 }

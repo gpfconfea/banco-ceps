@@ -1,9 +1,11 @@
 {
   "cep": "49190970",
   "logradouro": "Praça dos Esportes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pirambu",
   "uf": "SE",
-  "ibge": "2805307"
+  "ibge": "2805307",
+  "latitude": "-22.8805041",
+  "longitude": "-43.2813971"
 }

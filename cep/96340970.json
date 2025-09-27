@@ -1,9 +1,11 @@
 {
   "cep": "96340970",
   "logradouro": "Estrada das Pedreiras",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pedreiras",
   "localidade": "Arroio Grande",
   "uf": "RS",
-  "ibge": "4301305"
+  "ibge": "4301305",
+  "latitude": "-31.40933",
+  "longitude": "-52.66778"
 }

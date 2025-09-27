@@ -5,5 +5,7 @@
   "bairro": "Professor Cantídio de Moura Campos",
   "localidade": "Botucatu",
   "uf": "SP",
-  "ibge": "3507506"
+  "ibge": "3507506",
+  "latitude": "-23.62848",
+  "longitude": "-46.58552"
 }

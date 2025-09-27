@@ -5,5 +5,7 @@
   "bairro": "Circular",
   "localidade": "Duque de Caxias",
   "uf": "RJ",
-  "ibge": "3301702"
+  "ibge": "3301702",
+  "latitude": "-22.7824598",
+  "longitude": "-43.3074312"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "33805901",
   "logradouro": "Rua do Sapé",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila do Sapé",
   "localidade": "Ribeirão das Neves",
   "uf": "MG",
-  "ibge": "3154606"
+  "ibge": "3154606",
+  "latitude": "-19.75676",
+  "longitude": "-44.096"
 }

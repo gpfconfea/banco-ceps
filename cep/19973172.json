@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Palmital",
   "uf": "SP",
-  "ibge": "3535309"
+  "ibge": "3535309",
+  "latitude": "-22.79177",
+  "longitude": "-50.22548"
 }

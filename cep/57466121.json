@@ -6,5 +6,7 @@
   "bairro": "Centro Histórico",
   "localidade": "Piranhas",
   "uf": "AL",
-  "ibge": "2707107"
+  "ibge": "2707107",
+  "latitude": "-16.43241",
+  "longitude": "-51.81745"
 }

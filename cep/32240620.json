@@ -5,5 +5,7 @@
   "bairro": "Bandeirantes",
   "localidade": "Contagem",
   "uf": "MG",
-  "ibge": "3118601"
+  "ibge": "3118601",
+  "latitude": "-19.96992",
+  "longitude": "-44.04856"
 }

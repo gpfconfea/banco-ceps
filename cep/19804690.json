@@ -5,5 +5,7 @@
   "bairro": "Vila São Benedito",
   "localidade": "Assis",
   "uf": "SP",
-  "ibge": "3504008"
+  "ibge": "3504008",
+  "latitude": "-23.7117291",
+  "longitude": "-46.4948373"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila David",
   "localidade": "Bragança Paulista",
   "uf": "SP",
-  "ibge": "3507605"
+  "ibge": "3507605",
+  "latitude": "-22.9356094",
+  "longitude": "-46.5525401"
 }

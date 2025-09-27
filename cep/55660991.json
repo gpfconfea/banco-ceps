@@ -1,9 +1,11 @@
 {
   "cep": "55660991",
   "logradouro": "Rua do Comércio - Povoado de Cajazeiras",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Bezerros",
   "uf": "PE",
-  "ibge": "2601904"
+  "ibge": "2601904",
+  "latitude": "-8.1412",
+  "longitude": "-35.39579"
 }

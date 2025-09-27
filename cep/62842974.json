@@ -1,9 +1,11 @@
 {
   "cep": "62842974",
   "logradouro": "Rua Luiz Barbosa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sucatinga",
   "localidade": "Beberibe",
   "uf": "CE",
-  "ibge": "2302206"
+  "ibge": "2302206",
+  "latitude": "-4.2644197",
+  "longitude": "-38.0537225"
 }
