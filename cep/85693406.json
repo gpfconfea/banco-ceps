@@ -5,5 +5,7 @@
   "bairro": "Aeroporto",
   "localidade": "Palmas",
   "uf": "PR",
-  "ibge": "4117602"
+  "ibge": "4117602",
+  "latitude": "-26.47722",
+  "longitude": "-51.97166"
 }

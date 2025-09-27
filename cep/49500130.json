@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Itabaiana",
   "uf": "SE",
-  "ibge": "2802908"
+  "ibge": "2802908",
+  "latitude": "-22.6899798",
+  "longitude": "-43.5118674"
 }

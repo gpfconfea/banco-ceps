@@ -1,9 +1,11 @@
 {
   "cep": "62814974",
   "logradouro": "Rua Aldenora Holanda",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Manibu",
   "localidade": "Icapuí",
   "uf": "CE",
-  "ibge": "2305357"
+  "ibge": "2305357",
+  "latitude": "-4.7158559",
+  "longitude": "-37.3547456"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "36973970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pinheiro de Minas",
   "localidade": "Martins Soares",
   "uf": "MG",
-  "ibge": "3140530"
+  "ibge": "3140530",
+  "latitude": "-20.2334258",
+  "longitude": "-41.8489995"
 }

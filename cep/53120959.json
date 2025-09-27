@@ -1,9 +1,11 @@
 {
   "cep": "53120959",
   "logradouro": "Praça João Pessoa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Carmo",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-8.00007",
+  "longitude": "-34.89167"
 }

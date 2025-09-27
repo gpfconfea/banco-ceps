@@ -1,9 +1,11 @@
 {
   "cep": "98468970",
   "logradouro": "Estrada para São Valentin da Gruta",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Valentin da Gruta",
   "localidade": "Ametista do Sul",
   "uf": "RS",
-  "ibge": "4300646"
+  "ibge": "4300646",
+  "latitude": "-27.39188",
+  "longitude": "-53.15333"
 }

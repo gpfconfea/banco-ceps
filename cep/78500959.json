@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Colíder",
   "uf": "MT",
-  "ibge": "5103205"
+  "ibge": "5103205",
+  "latitude": "-10.80836",
+  "longitude": "-55.45794"
 }

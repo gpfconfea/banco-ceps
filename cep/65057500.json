@@ -5,5 +5,7 @@
   "bairro": "São Bernardo",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-28.0010367",
+  "longitude": "-54.9952915"
 }

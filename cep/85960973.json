@@ -1,9 +1,11 @@
 {
   "cep": "85960973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Curvado",
   "localidade": "Marechal Cândido Rondon",
   "uf": "PR",
-  "ibge": "4114609"
+  "ibge": "4114609",
+  "latitude": "-24.489502",
+  "longitude": "-54.312085"
 }

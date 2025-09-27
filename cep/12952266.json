@@ -5,5 +5,7 @@
   "bairro": "Chácara Parque São Pedro",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.14367",
+  "longitude": "-46.58809"
 }

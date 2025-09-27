@@ -5,5 +5,7 @@
   "bairro": "Cuiabá",
   "localidade": "Petrópolis",
   "uf": "RJ",
-  "ibge": "3303906"
+  "ibge": "3303906",
+  "latitude": "-22.3379099",
+  "longitude": "-43.0499485"
 }

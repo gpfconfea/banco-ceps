@@ -6,5 +6,7 @@
   "bairro": "Villa Garden",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-22.85264",
+  "longitude": "-46.31673"
 }

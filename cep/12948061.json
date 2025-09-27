@@ -5,5 +5,7 @@
   "bairro": "Parque São José",
   "localidade": "Atibaia",
   "uf": "SP",
-  "ibge": "3504107"
+  "ibge": "3504107",
+  "latitude": "-23.12338",
+  "longitude": "-46.55986"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "62237975",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Balseiros",
   "localidade": "Ipueiras",
   "uf": "CE",
-  "ibge": "2305902"
+  "ibge": "2305902",
+  "latitude": "-4.5971581",
+  "longitude": "-41.1948484"
 }

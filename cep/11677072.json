@@ -5,5 +5,7 @@
   "bairro": "Condomínio Amorim",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-22.1323562",
+  "longitude": "-51.4236493"
 }

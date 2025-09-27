@@ -1,9 +1,11 @@
 {
   "cep": "36735970",
   "logradouro": "Praça Major Afonso Ferreira de Souza",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Caiapó",
   "localidade": "Pirapetinga",
   "uf": "MG",
-  "ibge": "3151107"
+  "ibge": "3151107",
+  "latitude": "-21.6559281",
+  "longitude": "-42.3437939"
 }

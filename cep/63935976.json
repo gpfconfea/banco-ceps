@@ -1,9 +1,11 @@
 {
   "cep": "63935976",
   "logradouro": "Estrada Fazenda Guarujá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tapuiara",
   "localidade": "Quixadá",
   "uf": "CE",
-  "ibge": "2311306"
+  "ibge": "2311306",
+  "latitude": "-4.9684385",
+  "longitude": "-39.0161259"
 }

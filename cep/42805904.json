@@ -1,9 +1,11 @@
 {
   "cep": "42805904",
   "logradouro": "Rodovia BA-522 - Via COPEC",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lama Preta",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.6908",
+  "longitude": "-38.34364"
 }

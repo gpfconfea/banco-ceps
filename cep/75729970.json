@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Três Ranchos",
   "uf": "GO",
-  "ibge": "5221304"
+  "ibge": "5221304",
+  "latitude": "-18.355833",
+  "longitude": "-47.779444"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "78188970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Mimoso",
   "localidade": "Santo Antônio do Leverger",
   "uf": "MT",
-  "ibge": "5107800"
+  "ibge": "5107800",
+  "latitude": "-15.8636506",
+  "longitude": "-56.078527"
 }

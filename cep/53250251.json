@@ -5,5 +5,7 @@
   "bairro": "Fragoso",
   "localidade": "Olinda",
   "uf": "PE",
-  "ibge": "2609600"
+  "ibge": "2609600",
+  "latitude": "-22.7384279",
+  "longitude": "-47.4015293"
 }

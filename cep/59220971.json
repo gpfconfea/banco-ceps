@@ -1,9 +1,11 @@
 {
   "cep": "59220971",
   "logradouro": "Sítio Figueredo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sítio Figueredo",
   "localidade": "Coronel Ezequiel",
   "uf": "RN",
-  "ibge": "2402808"
+  "ibge": "2402808",
+  "latitude": "-6.2556021",
+  "longitude": "-37.8620677"
 }

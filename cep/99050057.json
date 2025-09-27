@@ -5,5 +5,7 @@
   "bairro": "Petrópolis",
   "localidade": "Passo Fundo",
   "uf": "RS",
-  "ibge": "4314100"
+  "ibge": "4314100",
+  "latitude": "-21.5608421",
+  "longitude": "-45.4407355"
 }

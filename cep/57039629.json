@@ -5,5 +5,7 @@
   "bairro": "Pescaria",
   "localidade": "Maceió",
   "uf": "AL",
-  "ibge": "2704302"
+  "ibge": "2704302",
+  "latitude": "-9.6339438",
+  "longitude": "-35.7419854"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "99805970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Coronel Teixeira",
   "localidade": "Marcelino Ramos",
   "uf": "RS",
-  "ibge": "4311908"
+  "ibge": "4311908",
+  "latitude": "-27.4645831",
+  "longitude": "-51.9078007"
 }

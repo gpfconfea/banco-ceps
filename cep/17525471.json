@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Vale do Canaã",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2152025",
+  "longitude": "-49.9502936"
 }

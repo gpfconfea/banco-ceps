@@ -5,5 +5,7 @@
   "bairro": "Fluminense",
   "localidade": "Queimados",
   "uf": "RJ",
-  "ibge": "3304144"
+  "ibge": "3304144",
+  "latitude": "-22.8808501",
+  "longitude": "-43.5407335"
 }

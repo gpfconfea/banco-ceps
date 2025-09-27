@@ -1,9 +1,11 @@
 {
   "cep": "63603974",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Codiá",
   "localidade": "Senador Pompeu",
   "uf": "CE",
-  "ibge": "2312700"
+  "ibge": "2312700",
+  "latitude": "-2.7956374",
+  "longitude": "-40.5140808"
 }

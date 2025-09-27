@@ -1,9 +1,11 @@
 {
   "cep": "95808970",
   "logradouro": "Rua Centro Linha Brasilº",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro Linha Brasil",
   "localidade": "Venâncio Aires",
   "uf": "RS",
-  "ibge": "4322608"
+  "ibge": "4322608",
+  "latitude": "-29.54069",
+  "longitude": "-52.2992662"
 }

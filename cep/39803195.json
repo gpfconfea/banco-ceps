@@ -5,5 +5,7 @@
   "bairro": "Filadélfia",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "latitude": "-19.8415098",
+  "longitude": "-45.4073949"
 }

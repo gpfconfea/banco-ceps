@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Virmond",
   "uf": "PR",
-  "ibge": "4128658"
+  "ibge": "4128658",
+  "latitude": "-25.53488",
+  "longitude": "-49.20817"
 }

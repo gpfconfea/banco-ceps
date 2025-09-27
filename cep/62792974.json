@@ -1,9 +1,11 @@
 {
   "cep": "62792974",
   "logradouro": "Vila de Barra Nova",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra Nova",
   "localidade": "Redenção",
   "uf": "CE",
-  "ibge": "2311603"
+  "ibge": "2311603",
+  "latitude": "-4.1005526",
+  "longitude": "-38.1516533"
 }

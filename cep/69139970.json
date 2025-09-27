@@ -1,9 +1,11 @@
 {
   "cep": "69139970",
   "logradouro": "Rua Nascimento Vigia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santana",
   "localidade": "São Sebastião do Uatumã",
   "uf": "AM",
-  "ibge": "1303957"
+  "ibge": "1303957",
+  "latitude": "-1.9722197",
+  "longitude": "-58.9206295"
 }

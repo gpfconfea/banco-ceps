@@ -1,9 +1,11 @@
 {
   "cep": "63700977",
   "logradouro": "Área Rural",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Área Rural de Crateús",
   "localidade": "Crateús",
   "uf": "CE",
-  "ibge": "2304103"
+  "ibge": "2304103",
+  "latitude": "-3.7449808",
+  "longitude": "-38.6483705"
 }

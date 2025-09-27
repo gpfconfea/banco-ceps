@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Rosa do Sul",
   "uf": "SC",
-  "ibge": "4215653"
+  "ibge": "4215653",
+  "latitude": "-29.1377",
+  "longitude": "-49.71461"
 }

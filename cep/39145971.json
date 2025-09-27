@@ -1,9 +1,11 @@
 {
   "cep": "39145971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itapanhoacanga",
   "localidade": "Alvorada de Minas",
   "uf": "MG",
-  "ibge": "3102407"
+  "ibge": "3102407",
+  "latitude": "-19.7992332",
+  "longitude": "-44.0903843"
 }

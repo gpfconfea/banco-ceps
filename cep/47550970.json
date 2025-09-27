@@ -1,9 +1,11 @@
 {
   "cep": "47550970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ipucaba",
   "localidade": "Oliveira dos Brejinhos",
   "uf": "BA",
-  "ibge": "2923209"
+  "ibge": "2923209",
+  "latitude": "-12.3158918",
+  "longitude": "-42.8968006"
 }

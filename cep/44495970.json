@@ -1,9 +1,11 @@
 {
   "cep": "44495970",
   "logradouro": "Rua da Matriz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Maragogipinho",
   "localidade": "Aratuípe",
   "uf": "BA",
-  "ibge": "2902302"
+  "ibge": "2902302",
+  "latitude": "-12.8708703",
+  "longitude": "-38.4332576"
 }

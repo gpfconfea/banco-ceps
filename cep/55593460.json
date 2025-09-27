@@ -5,5 +5,7 @@
   "bairro": "Muro Alto",
   "localidade": "Ipojuca",
   "uf": "PE",
-  "ibge": "2607208"
+  "ibge": "2607208",
+  "latitude": "-8.45029",
+  "longitude": "-34.98776"
 }

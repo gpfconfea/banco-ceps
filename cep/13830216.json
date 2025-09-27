@@ -5,5 +5,7 @@
   "bairro": "Residencial Cidade Jardim",
   "localidade": "Santo Antônio de Posse",
   "uf": "SP",
-  "ibge": "3548005"
+  "ibge": "3548005",
+  "latitude": "-22.59335",
+  "longitude": "-46.91199"
 }

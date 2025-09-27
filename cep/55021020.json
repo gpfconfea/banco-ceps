@@ -5,5 +5,7 @@
   "bairro": "Serras do Vale",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-24.9515675",
+  "longitude": "-53.4827088"
 }

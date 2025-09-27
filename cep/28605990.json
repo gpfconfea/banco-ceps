@@ -1,9 +1,11 @@
 {
   "cep": "28605990",
   "logradouro": "Rua Romana Vilas Boas Schuenckº",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Nova Friburgo",
   "uf": "RJ",
-  "ibge": "3303401"
+  "ibge": "3303401",
+  "latitude": "-22.27692",
+  "longitude": "-42.496"
 }

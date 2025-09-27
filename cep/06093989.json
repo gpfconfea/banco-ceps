@@ -1,9 +1,11 @@
 {
   "cep": "06093989",
   "logradouro": "Praça Antônio Menk",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Osasco",
   "uf": "SP",
-  "ibge": "3534401"
+  "ibge": "3534401",
+  "latitude": "-23.52943",
+  "longitude": "-46.77471"
 }

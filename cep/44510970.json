@@ -1,9 +1,11 @@
 {
   "cep": "44510970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Petim",
   "localidade": "Castro Alves",
   "uf": "BA",
-  "ibge": "2907301"
+  "ibge": "2907301",
+  "latitude": "-12.9892687",
+  "longitude": "-38.5194209"
 }

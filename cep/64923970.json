@@ -1,9 +1,11 @@
 {
   "cep": "64923970",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Alvorada do Gurguéia",
   "uf": "PI",
-  "ibge": "2200459"
+  "ibge": "2200459",
+  "latitude": "-8.4343249",
+  "longitude": "-43.843963"
 }

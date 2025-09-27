@@ -1,9 +1,11 @@
 {
   "cep": "28779970",
   "logradouro": "Praça M. Bento Franco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Triunfo",
   "localidade": "Santa Maria Madalena",
   "uf": "RJ",
-  "ibge": "3304607"
+  "ibge": "3304607",
+  "latitude": "-22.0483303",
+  "longitude": "-41.9418745"
 }

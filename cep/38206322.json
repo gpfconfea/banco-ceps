@@ -5,5 +5,7 @@
   "bairro": "Nova Proença",
   "localidade": "Frutal",
   "uf": "MG",
-  "ibge": "3127107"
+  "ibge": "3127107",
+  "latitude": "-20.0233",
+  "longitude": "-48.90253"
 }

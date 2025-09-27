@@ -1,9 +1,11 @@
 {
   "cep": "55755975",
   "logradouro": "Sítio Vila Nova",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Vila Nova",
   "localidade": "Casinhas",
   "uf": "PE",
-  "ibge": "2604155"
+  "ibge": "2604155",
+  "latitude": "-7.74472",
+  "longitude": "-35.72352"
 }

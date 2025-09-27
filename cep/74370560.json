@@ -6,5 +6,7 @@
   "bairro": "Setor Santa Rita",
   "localidade": "Goiânia",
   "uf": "GO",
-  "ibge": "5208707"
+  "ibge": "5208707",
+  "latitude": "-16.7298225",
+  "longitude": "-49.3385183"
 }

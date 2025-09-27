@@ -5,5 +5,7 @@
   "bairro": "Água Limpa",
   "localidade": "Ouro Preto",
   "uf": "MG",
-  "ibge": "3146107"
+  "ibge": "3146107",
+  "latitude": "-20.38111",
+  "longitude": "-43.51477"
 }

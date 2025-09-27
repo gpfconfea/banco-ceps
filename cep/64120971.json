@@ -1,9 +1,11 @@
 {
   "cep": "64120971",
   "logradouro": "Praça Barão de Gurguéia",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "União",
   "uf": "PI",
-  "ibge": "2211100"
+  "ibge": "2211100",
+  "latitude": "-4.585903",
+  "longitude": "-42.8654601"
 }

@@ -5,5 +5,7 @@
   "bairro": "Real Sul",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.2229741",
+  "longitude": "-47.8599486"
 }

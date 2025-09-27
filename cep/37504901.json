@@ -1,9 +1,11 @@
 {
   "cep": "37504901",
   "logradouro": "Rua Engenheiro Albert Starke",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Distrito Industrial",
   "localidade": "Itajubá",
   "uf": "MG",
-  "ibge": "3132404"
+  "ibge": "3132404",
+  "latitude": "-22.4243468",
+  "longitude": "-45.4751311"
 }

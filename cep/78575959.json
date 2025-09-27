@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Juara",
   "uf": "MT",
-  "ibge": "5105101"
+  "ibge": "5105101",
+  "latitude": "-11.25323",
+  "longitude": "-57.50708"
 }

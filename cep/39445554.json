@@ -5,5 +5,7 @@
   "bairro": "Planalto",
   "localidade": "Janaúba",
   "uf": "MG",
-  "ibge": "3135100"
+  "ibge": "3135100",
+  "latitude": "-15.79908",
+  "longitude": "-43.32233"
 }

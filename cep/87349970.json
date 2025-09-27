@@ -1,9 +1,11 @@
 {
   "cep": "87349970",
   "logradouro": "Avenida Messias Eduardo Felix",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Salles de Oliveira",
   "localidade": "Campina da Lagoa",
   "uf": "PR",
-  "ibge": "4103909"
+  "ibge": "4103909",
+  "latitude": "-24.71524",
+  "longitude": "-52.77306"
 }

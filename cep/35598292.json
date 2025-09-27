@@ -5,5 +5,7 @@
   "bairro": "Fortunato Rezende",
   "localidade": "Arcos",
   "uf": "MG",
-  "ibge": "3104205"
+  "ibge": "3104205",
+  "latitude": "-20.27671",
+  "longitude": "-45.53062"
 }

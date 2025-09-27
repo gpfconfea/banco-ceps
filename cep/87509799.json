@@ -5,5 +5,7 @@
   "bairro": "Jardim Cima",
   "localidade": "Umuarama",
   "uf": "PR",
-  "ibge": "4128104"
+  "ibge": "4128104",
+  "latitude": "-23.761313",
+  "longitude": "-53.312836"
 }

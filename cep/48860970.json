@@ -1,9 +1,11 @@
 {
   "cep": "48860970",
   "logradouro": "Rua Terezinha Salles",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Queimadas",
   "uf": "BA",
-  "ibge": "2925808"
+  "ibge": "2925808",
+  "latitude": "-11.17553",
+  "longitude": "-42.02615"
 }

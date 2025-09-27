@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tejupá",
   "uf": "SP",
-  "ibge": "3554201"
+  "ibge": "3554201",
+  "latitude": "-22.73019",
+  "longitude": "-47.65467"
 }

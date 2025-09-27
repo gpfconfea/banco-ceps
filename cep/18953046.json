@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Vereador Pedro Rosin",
   "localidade": "Ipaussu",
   "uf": "SP",
-  "ibge": "3520905"
+  "ibge": "3520905",
+  "latitude": "-23.06162",
+  "longitude": "-49.62603"
 }

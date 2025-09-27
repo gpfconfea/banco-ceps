@@ -1,9 +1,11 @@
 {
   "cep": "29378990",
   "logradouro": "Avenida Vinte e Quatro de Junho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Venda Nova do Imigrante",
   "uf": "ES",
-  "ibge": "3205069"
+  "ibge": "3205069",
+  "latitude": "-20.33563",
+  "longitude": "-41.1686"
 }

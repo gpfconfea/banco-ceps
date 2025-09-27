@@ -5,5 +5,7 @@
   "bairro": "Jardim Modelo",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.4669765",
+  "longitude": "-46.5752628"
 }

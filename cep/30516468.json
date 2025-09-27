@@ -5,5 +5,7 @@
   "bairro": "Nova Gameleira",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-19.943382",
+  "longitude": "-43.988577"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vale Verde",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.4082094",
+  "longitude": "-42.8837909"
 }

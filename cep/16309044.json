@@ -5,5 +5,7 @@
   "bairro": "Residencial Portal das Primaveras",
   "localidade": "Penápolis",
   "uf": "SP",
-  "ibge": "3537305"
+  "ibge": "3537305",
+  "latitude": "-23.246049",
+  "longitude": "-47.3101592"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Tabuleiro",
   "uf": "MG",
-  "ibge": "3167905"
+  "ibge": "3167905",
+  "latitude": "-21.36027",
+  "longitude": "-43.25163"
 }

@@ -5,5 +5,7 @@
   "bairro": "",
   "localidade": "Abreu e Lima",
   "uf": "PE",
-  "ibge": "2600054"
+  "ibge": "2600054",
+  "latitude": "-7.92108",
+  "longitude": "-34.91199"
 }

@@ -5,5 +5,7 @@
   "bairro": "Solar das Candeias",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-16.7856823",
+  "longitude": "-49.257108"
 }

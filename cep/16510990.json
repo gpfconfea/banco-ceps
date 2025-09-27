@@ -1,9 +1,11 @@
 {
   "cep": "16510990",
   "logradouro": "Rua Coronel Armando Simões, Simões",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Cafelândia",
   "uf": "SP",
-  "ibge": "3508801"
+  "ibge": "3508801",
+  "latitude": "-21.80507",
+  "longitude": "-49.60114"
 }

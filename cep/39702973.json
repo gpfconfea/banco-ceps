@@ -1,9 +1,11 @@
 {
   "cep": "39702973",
   "logradouro": "Rua Florianópolis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Peçanha",
   "uf": "MG",
-  "ibge": "3148608"
+  "ibge": "3148608",
+  "latitude": "-18.6676",
+  "longitude": "-48.18373"
 }

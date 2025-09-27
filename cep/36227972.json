@@ -1,9 +1,11 @@
 {
   "cep": "36227972",
   "logradouro": "Unidade do Posto de Saúde",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paraíso da Piedade",
   "localidade": "Piedade do Rio Grande",
   "uf": "MG",
-  "ibge": "3150307"
+  "ibge": "3150307",
+  "latitude": "-16.7259827",
+  "longitude": "-43.8540167"
 }

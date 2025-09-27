@@ -5,5 +5,7 @@
   "bairro": "Residencial Spazio Verde Comendador",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.33643",
+  "longitude": "-49.06128"
 }

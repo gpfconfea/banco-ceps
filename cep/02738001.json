@@ -5,5 +5,7 @@
   "bairro": "Vila Bancária Munhoz",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5454212",
+  "longitude": "-46.5762322"
 }

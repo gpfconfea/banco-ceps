@@ -1,9 +1,11 @@
 {
   "cep": "19450971",
   "logradouro": "Rua Três",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Núcleo do Assentamento da Agrovila III",
   "localidade": "Caiuá",
   "uf": "SP",
-  "ibge": "3509106"
+  "ibge": "3509106",
+  "latitude": "-21.83376",
+  "longitude": "-51.994"
 }

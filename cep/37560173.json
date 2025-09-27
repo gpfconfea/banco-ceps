@@ -5,5 +5,7 @@
   "bairro": "Jardim Aeroporto",
   "localidade": "Pouso Alegre",
   "uf": "MG",
-  "ibge": "3152501"
+  "ibge": "3152501",
+  "latitude": "-21.2079453",
+  "longitude": "-43.7804747"
 }

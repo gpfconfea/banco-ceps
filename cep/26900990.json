@@ -1,9 +1,11 @@
 {
   "cep": "26900990",
   "logradouro": "Rua Lourdes Sebatiane",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Miguel Pereira",
   "uf": "RJ",
-  "ibge": "3302908"
+  "ibge": "3302908",
+  "latitude": "-22.45789",
+  "longitude": "-43.48538"
 }

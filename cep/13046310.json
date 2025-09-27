@@ -5,5 +5,7 @@
   "bairro": "Jardim Estoril",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-23.5558988",
+  "longitude": "-46.3478123"
 }

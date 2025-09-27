@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Dolcinópolis",
   "uf": "SP",
-  "ibge": "3514205"
+  "ibge": "3514205",
+  "latitude": "-23.5434817",
+  "longitude": "-46.3765223"
 }

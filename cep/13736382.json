@@ -5,5 +5,7 @@
   "bairro": "Jardim Progresso",
   "localidade": "Mococa",
   "uf": "SP",
-  "ibge": "3530508"
+  "ibge": "3530508",
+  "latitude": "-22.3838084",
+  "longitude": "-46.9353638"
 }

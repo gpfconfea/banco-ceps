@@ -1,9 +1,11 @@
 {
   "cep": "45301970",
   "logradouro": "Rua da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Corta Mão",
   "localidade": "Amargosa",
   "uf": "BA",
-  "ibge": "2901007"
+  "ibge": "2901007",
+  "latitude": "-13.027111",
+  "longitude": "-39.7206558"
 }

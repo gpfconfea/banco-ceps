@@ -1,9 +1,11 @@
 {
   "cep": "62395973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa da Cruz",
   "localidade": "Croatá",
   "uf": "CE",
-  "ibge": "2304236"
+  "ibge": "2304236",
+  "latitude": "-7.2321422",
+  "longitude": "-39.4111177"
 }

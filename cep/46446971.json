@@ -1,9 +1,11 @@
 {
   "cep": "46446971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ramalho",
   "localidade": "Feira da Mata",
   "uf": "BA",
-  "ibge": "2910776"
+  "ibge": "2910776",
+  "latitude": "-12.4913169",
+  "longitude": "-37.9627168"
 }

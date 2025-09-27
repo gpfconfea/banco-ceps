@@ -1,9 +1,11 @@
 {
   "cep": "45156970",
   "logradouro": "Rua Nelson Palles de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Brasília",
   "localidade": "Ribeirão do Largo",
   "uf": "BA",
-  "ibge": "2926657"
+  "ibge": "2926657",
+  "latitude": "-15.4512366",
+  "longitude": "-40.7445128"
 }

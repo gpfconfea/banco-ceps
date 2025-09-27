@@ -1,9 +1,11 @@
 {
   "cep": "48859970",
   "logradouro": "Praça da Igreja",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Adro de São Gonçalo",
   "localidade": "Itiúba",
   "uf": "BA",
-  "ibge": "2917003"
+  "ibge": "2917003",
+  "latitude": "-9.43363",
+  "longitude": "-39.78005"
 }

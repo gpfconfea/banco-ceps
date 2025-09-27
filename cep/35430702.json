@@ -6,5 +6,7 @@
   "bairro": "Rosário do Pontal",
   "localidade": "Ponte Nova",
   "uf": "MG",
-  "ibge": "3152105"
+  "ibge": "3152105",
+  "latitude": "-20.34343",
+  "longitude": "-42.91147"
 }

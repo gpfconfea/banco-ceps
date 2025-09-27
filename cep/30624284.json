@@ -5,5 +5,7 @@
   "bairro": "Vila Cemig",
   "localidade": "Belo Horizonte",
   "uf": "MG",
-  "ibge": "3106200"
+  "ibge": "3106200",
+  "latitude": "-22.2700523",
+  "longitude": "-46.3684516"
 }

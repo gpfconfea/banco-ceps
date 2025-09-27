@@ -5,5 +5,7 @@
   "bairro": "Cidade Nova",
   "localidade": "Pederneiras",
   "uf": "SP",
-  "ibge": "3536703"
+  "ibge": "3536703",
+  "latitude": "-22.32347",
+  "longitude": "-48.7972"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Primavera",
   "localidade": "Serra",
   "uf": "ES",
-  "ibge": "3205002"
+  "ibge": "3205002",
+  "latitude": "-29.9263755",
+  "longitude": "-51.0936166"
 }

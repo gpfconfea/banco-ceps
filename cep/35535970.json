@@ -1,9 +1,11 @@
 {
   "cep": "35535970",
   "logradouro": "Praça do Rosário Francisco Rosa de Lima",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bom Jardim das Pedras",
   "localidade": "Carmópolis de Minas",
   "uf": "MG",
-  "ibge": "3114501"
+  "ibge": "3114501",
+  "latitude": "-20.540812",
+  "longitude": "-44.6386557"
 }

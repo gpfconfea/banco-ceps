@@ -1,9 +1,11 @@
 {
   "cep": "44482971",
   "logradouro": "Rua José Alves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Camassandi",
   "localidade": "Jaguaripe",
   "uf": "BA",
-  "ibge": "2917805"
+  "ibge": "2917805",
+  "latitude": "-13.1568792",
+  "longitude": "-39.0036121"
 }

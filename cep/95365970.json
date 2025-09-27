@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São Jorge",
   "uf": "RS",
-  "ibge": "4318440"
+  "ibge": "4318440",
+  "latitude": "-28.4993801",
+  "longitude": "-51.7041645"
 }

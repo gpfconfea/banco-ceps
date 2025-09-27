@@ -1,9 +1,11 @@
 {
   "cep": "78586970",
   "logradouro": "Rua Coxim",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Novo Cruzeiro",
   "localidade": "Alta Floresta",
   "uf": "MT",
-  "ibge": "5100250"
+  "ibge": "5100250",
+  "latitude": "-9.8598263",
+  "longitude": "-56.0663349"
 }

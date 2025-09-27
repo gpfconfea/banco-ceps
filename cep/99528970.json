@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Coqueiros do Sul",
   "uf": "RS",
-  "ibge": "4305850"
+  "ibge": "4305850",
+  "latitude": "-28.1199099",
+  "longitude": "-52.784736"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "69620970",
   "logradouro": "Praça São Cristovão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Amaturá",
   "uf": "AM",
-  "ibge": "1300060"
+  "ibge": "1300060",
+  "latitude": "-3.36518",
+  "longitude": "-68.19965"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "47530959",
   "logradouro": "Travessa Duque de Caxias",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Oliveira dos Brejinhos",
   "uf": "BA",
-  "ibge": "2923209"
+  "ibge": "2923209",
+  "latitude": "-12.31696",
+  "longitude": "-42.89551"
 }

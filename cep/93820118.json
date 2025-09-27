@@ -5,5 +5,7 @@
   "bairro": "Horizonte",
   "localidade": "Sapiranga",
   "uf": "RS",
-  "ibge": "4319901"
+  "ibge": "4319901",
+  "latitude": "-29.8328255",
+  "longitude": "-51.1336171"
 }

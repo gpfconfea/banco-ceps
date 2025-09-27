@@ -1,9 +1,11 @@
 {
   "cep": "76349959",
   "logradouro": "Avenida Antônio de Oliveira Quadra 29 Lote 1",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Nova América",
   "uf": "GO",
-  "ibge": "5214705"
+  "ibge": "5214705",
+  "latitude": "-15.02165",
+  "longitude": "-49.89695"
 }

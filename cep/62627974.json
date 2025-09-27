@@ -1,10 +1,12 @@
 {
   "cep": "62627974",
   "logradouro": "Vila Coité",
-  "complemento": "s/n",
+  "complemento": "",
   "unidade": "AGC Coité",
   "bairro": "Coité",
   "localidade": "Irauçuba",
   "uf": "CE",
-  "ibge": "2306108"
+  "ibge": "2306108",
+  "latitude": "-3.73557",
+  "longitude": "-39.89411"
 }

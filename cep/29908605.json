@@ -5,5 +5,7 @@
   "bairro": "Nova Esperança",
   "localidade": "Linhares",
   "uf": "ES",
-  "ibge": "3203205"
+  "ibge": "3203205",
+  "latitude": "-19.5224127",
+  "longitude": "-40.6271017"
 }

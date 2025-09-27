@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Arenápolis",
   "uf": "MT",
-  "ibge": "5101308"
+  "ibge": "5101308",
+  "latitude": "-23.4222713",
+  "longitude": "-51.953132"
 }

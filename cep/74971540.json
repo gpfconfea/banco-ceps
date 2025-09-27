@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Sinai",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-14.1017059",
+  "longitude": "-46.6459921"
 }

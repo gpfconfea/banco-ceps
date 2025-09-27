@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Mônica",
   "localidade": "Taboão da Serra",
   "uf": "SP",
-  "ibge": "3552809"
+  "ibge": "3552809",
+  "latitude": "-23.615145",
+  "longitude": "-46.721535"
 }

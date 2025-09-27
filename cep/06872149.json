@@ -5,5 +5,7 @@
   "bairro": "Parque Delfim Verde",
   "localidade": "Itapecerica da Serra",
   "uf": "SP",
-  "ibge": "3522208"
+  "ibge": "3522208",
+  "latitude": "36.6973277",
+  "longitude": "-6.1318795"
 }

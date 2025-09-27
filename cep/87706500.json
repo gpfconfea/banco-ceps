@@ -5,5 +5,7 @@
   "bairro": "Residencial Canaã",
   "localidade": "Paranavaí",
   "uf": "PR",
-  "ibge": "4118402"
+  "ibge": "4118402",
+  "latitude": "-23.11373",
+  "longitude": "-52.47706"
 }

@@ -5,5 +5,7 @@
   "bairro": "Nova Vila Bretas",
   "localidade": "Governador Valadares",
   "uf": "MG",
-  "ibge": "3127701"
+  "ibge": "3127701",
+  "latitude": "-19.90908",
+  "longitude": "-43.9446555"
 }

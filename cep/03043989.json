@@ -1,9 +1,11 @@
 {
   "cep": "03043989",
-  "logradouro": "Estação Brás Térreo Locker Correios",
-  "complemento": "s/n",
+  "logradouro": "Estação Brás Térreo",
+  "complemento": "",
   "bairro": "Brás",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.69854",
+  "longitude": "-46.69283"
 }

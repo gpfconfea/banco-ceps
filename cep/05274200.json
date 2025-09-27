@@ -6,5 +6,7 @@
   "bairro": "Residencial das Orquídeas",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.43427",
+  "longitude": "-46.80002"
 }

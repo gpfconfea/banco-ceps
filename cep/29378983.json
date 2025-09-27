@@ -1,9 +1,11 @@
 {
   "cep": "29378983",
   "logradouro": "Avenida Vinte e Quatro de Junho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São João de Viçosa",
   "localidade": "Venda Nova do Imigrante",
   "uf": "ES",
-  "ibge": "3205069"
+  "ibge": "3205069",
+  "latitude": "-20.326316",
+  "longitude": "-41.1446663"
 }

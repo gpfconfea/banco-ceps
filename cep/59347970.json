@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ouro Branco",
   "uf": "RN",
-  "ibge": "2408508"
+  "ibge": "2408508",
+  "latitude": "-6.7017476",
+  "longitude": "-36.9447673"
 }

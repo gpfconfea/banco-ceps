@@ -1,9 +1,11 @@
 {
   "cep": "65340970",
   "logradouro": "Avenida Doutor Dantas Ribeiro Neto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Conceição do Lago-Açu",
   "uf": "MA",
-  "ibge": "2103554"
+  "ibge": "2103554",
+  "latitude": "-3.802312",
+  "longitude": "-44.813111"
 }

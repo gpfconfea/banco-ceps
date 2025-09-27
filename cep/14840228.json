@@ -5,5 +5,7 @@
   "bairro": "Vila Gomes de Azevedo I",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.35092",
+  "longitude": "-48.22653"
 }

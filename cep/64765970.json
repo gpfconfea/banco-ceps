@@ -1,9 +1,11 @@
 {
   "cep": "64765970",
   "logradouro": "Avenida Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "João Costa",
   "uf": "PI",
-  "ibge": "2205359"
+  "ibge": "2205359",
+  "latitude": "-7.24042",
+  "longitude": "-40.86271"
 }

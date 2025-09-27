@@ -6,5 +6,7 @@
   "bairro": "Jardim São Dimas",
   "localidade": "São Pedro",
   "uf": "SP",
-  "ibge": "3550407"
+  "ibge": "3550407",
+  "latitude": "-23.2015",
+  "longitude": "-45.88843"
 }

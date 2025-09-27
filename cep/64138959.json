@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Lagoa Alegre",
   "uf": "PI",
-  "ibge": "2205557"
+  "ibge": "2205557",
+  "latitude": "-4.51577",
+  "longitude": "-42.62388"
 }

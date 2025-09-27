@@ -5,5 +5,7 @@
   "bairro": "Real Village",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-23.51996",
+  "longitude": "-46.78921"
 }

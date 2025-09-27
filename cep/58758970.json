@@ -1,9 +1,11 @@
 {
   "cep": "58758970",
   "logradouro": "Rua do Comércio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São José de Princesa",
   "uf": "PB",
-  "ibge": "2514552"
+  "ibge": "2514552",
+  "latitude": "-7.7407726",
+  "longitude": "-38.0983248"
 }

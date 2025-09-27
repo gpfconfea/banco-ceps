@@ -5,5 +5,7 @@
   "bairro": "Parque dos Eucaliptos",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-22.9067281",
+  "longitude": "-47.0483695"
 }

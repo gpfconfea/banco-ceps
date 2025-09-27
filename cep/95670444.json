@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Gramado",
   "uf": "RS",
-  "ibge": "4309100"
+  "ibge": "4309100",
+  "latitude": "-29.37798",
+  "longitude": "-50.86207"
 }

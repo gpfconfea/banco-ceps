@@ -5,5 +5,7 @@
   "bairro": "Santa Tereza",
   "localidade": "Vitória",
   "uf": "ES",
-  "ibge": "3205309"
+  "ibge": "3205309",
+  "latitude": "40.0210269",
+  "longitude": "-75.301311"
 }

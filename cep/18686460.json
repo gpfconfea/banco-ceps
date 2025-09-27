@@ -5,5 +5,7 @@
   "bairro": "Residencial Spazio Verde",
   "localidade": "Lençóis Paulista",
   "uf": "SP",
-  "ibge": "3526803"
+  "ibge": "3526803",
+  "latitude": "-23.5248485",
+  "longitude": "-46.7717519"
 }

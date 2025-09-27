@@ -5,5 +5,7 @@
   "bairro": "Atalaia",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "latitude": "-19.9985885",
+  "longitude": "-44.0265077"
 }

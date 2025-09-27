@@ -1,9 +1,11 @@
 {
   "cep": "78663971",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Antônio",
   "localidade": "São José do Xingu",
   "uf": "MT",
-  "ibge": "5107354"
+  "ibge": "5107354",
+  "latitude": "-23.9196768",
+  "longitude": "-46.2833839"
 }

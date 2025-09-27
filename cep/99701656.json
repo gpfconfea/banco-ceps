@@ -5,5 +5,7 @@
   "bairro": "José Bonifácio",
   "localidade": "Erechim",
   "uf": "RS",
-  "ibge": "4307005"
+  "ibge": "4307005",
+  "latitude": "-27.6300584",
+  "longitude": "-52.2576292"
 }

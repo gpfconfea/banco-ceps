@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Medina",
   "uf": "MG",
-  "ibge": "3141405"
+  "ibge": "3141405",
+  "latitude": "-16.22482",
+  "longitude": "-41.47795"
 }

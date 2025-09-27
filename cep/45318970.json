@@ -1,9 +1,11 @@
 {
   "cep": "45318970",
   "logradouro": "Distrito de Tartaruga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tartaruga",
   "localidade": "Milagres",
   "uf": "BA",
-  "ibge": "2921302"
+  "ibge": "2921302",
+  "latitude": "-12.9451838",
+  "longitude": "-39.6820225"
 }

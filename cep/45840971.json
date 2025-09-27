@@ -1,9 +1,11 @@
 {
   "cep": "45840971",
   "logradouro": "Praça Sidnei Chaves",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Monte Alegre",
   "localidade": "Guaratinga",
   "uf": "BA",
-  "ibge": "2911808"
+  "ibge": "2911808",
+  "latitude": "-16.4536769",
+  "longitude": "-39.9893311"
 }

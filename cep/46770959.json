@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Iramaia",
   "uf": "BA",
-  "ibge": "2914307"
+  "ibge": "2914307",
+  "latitude": "-13.29277",
+  "longitude": "-40.95954"
 }

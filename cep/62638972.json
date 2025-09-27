@@ -1,9 +1,11 @@
 {
   "cep": "62638972",
   "logradouro": "Rua Zona Rural",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canafistula",
   "localidade": "Apuiarés",
   "uf": "CE",
-  "ibge": "2300903"
+  "ibge": "2300903",
+  "latitude": "-7.0344956",
+  "longitude": "-38.9128764"
 }

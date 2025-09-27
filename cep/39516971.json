@@ -1,9 +1,11 @@
 {
   "cep": "39516971",
   "logradouro": "Praça Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barrinha",
   "localidade": "Mamonas",
   "uf": "MG",
-  "ibge": "3139250"
+  "ibge": "3139250",
+  "latitude": "-19.8868353",
+  "longitude": "-43.8506779"
 }

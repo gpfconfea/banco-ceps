@@ -5,5 +5,7 @@
   "bairro": "Jardim Alice",
   "localidade": "Franco da Rocha",
   "uf": "SP",
-  "ibge": "3516408"
+  "ibge": "3516408",
+  "latitude": "-23.576121",
+  "longitude": "-46.5758039"
 }

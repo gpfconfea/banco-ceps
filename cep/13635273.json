@@ -5,5 +5,7 @@
   "bairro": "Jardim Ferrari II",
   "localidade": "Pirassununga",
   "uf": "SP",
-  "ibge": "3539301"
+  "ibge": "3539301",
+  "latitude": "-21.99112",
+  "longitude": "-47.41015"
 }

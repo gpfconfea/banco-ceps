@@ -1,9 +1,11 @@
 {
   "cep": "62448974",
   "logradouro": "Rua João Batista Fontenele",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Ibuguaçu",
   "localidade": "Granja",
   "uf": "CE",
-  "ibge": "2304707"
+  "ibge": "2304707",
+  "latitude": "-3.1184636",
+  "longitude": "-40.8303492"
 }

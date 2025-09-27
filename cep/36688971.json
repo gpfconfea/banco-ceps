@@ -1,9 +1,11 @@
 {
   "cep": "36688971",
   "logradouro": "Rua José Alves Quina",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Taruaçu",
   "localidade": "São João Nepomuceno",
   "uf": "MG",
-  "ibge": "3162906"
+  "ibge": "3162906",
+  "latitude": "-19.9734597",
+  "longitude": "-44.2917692"
 }

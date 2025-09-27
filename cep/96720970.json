@@ -1,9 +1,11 @@
 {
   "cep": "96720970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Morrinhos",
   "localidade": "São Jerônimo",
   "uf": "RS",
-  "ibge": "4318408"
+  "ibge": "4318408",
+  "latitude": "-29.969161",
+  "longitude": "-51.714335"
 }

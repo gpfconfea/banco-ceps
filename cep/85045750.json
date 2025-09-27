@@ -5,5 +5,7 @@
   "bairro": "Bonsucesso",
   "localidade": "Guarapuava",
   "uf": "PR",
-  "ibge": "4109401"
+  "ibge": "4109401",
+  "latitude": "-25.5029691",
+  "longitude": "-54.5553464"
 }

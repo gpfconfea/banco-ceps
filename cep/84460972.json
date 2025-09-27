@@ -1,9 +1,11 @@
 {
   "cep": "84460972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Ivaí",
   "uf": "PR",
-  "ibge": "4111407"
+  "ibge": "4111407",
+  "latitude": "-23.7204252",
+  "longitude": "-51.8771598"
 }

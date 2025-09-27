@@ -5,5 +5,7 @@
   "bairro": "Porto D'Antas",
   "localidade": "Aracaju",
   "uf": "SE",
-  "ibge": "2800308"
+  "ibge": "2800308",
+  "latitude": "-22.7261156",
+  "longitude": "-47.3119988"
 }

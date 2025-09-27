@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Santa Inês",
   "uf": "BA",
-  "ibge": "2927903"
+  "ibge": "2927903",
+  "latitude": "-13.2867",
+  "longitude": "-39.81986"
 }

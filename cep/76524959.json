@@ -1,9 +1,11 @@
 {
   "cep": "76524959",
   "logradouro": "Rua Jeva de Souza Quadra 14 Lote 1",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Santo Antônio",
   "localidade": "Nova Crixás",
   "uf": "GO",
-  "ibge": "5214838"
+  "ibge": "5214838",
+  "latitude": "-14.54583",
+  "longitude": "-49.96871"
 }

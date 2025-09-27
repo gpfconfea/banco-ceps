@@ -5,5 +5,7 @@
   "bairro": "Residencial Belas Artes",
   "localidade": "Cianorte",
   "uf": "PR",
-  "ibge": "4105508"
+  "ibge": "4105508",
+  "latitude": "-25.0892158",
+  "longitude": "-50.1328373"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ingazeira",
   "uf": "PE",
-  "ibge": "2607109"
+  "ibge": "2607109",
+  "latitude": "-7.6764445",
+  "longitude": "-37.4592122"
 }

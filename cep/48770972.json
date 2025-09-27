@@ -1,9 +1,11 @@
 {
   "cep": "48770972",
   "logradouro": "Praça Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor",
   "localidade": "Teofilândia",
   "uf": "BA",
-  "ibge": "2931509"
+  "ibge": "2931509",
+  "latitude": "-10.2601704",
+  "longitude": "-40.1947585"
 }

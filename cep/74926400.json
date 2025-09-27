@@ -5,5 +5,7 @@
   "bairro": "Verde Vale",
   "localidade": "Aparecida de Goiânia",
   "uf": "GO",
-  "ibge": "5201405"
+  "ibge": "5201405",
+  "latitude": "-17.8936922",
+  "longitude": "-51.7235828"
 }

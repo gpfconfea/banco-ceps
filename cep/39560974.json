@@ -1,9 +1,11 @@
 {
   "cep": "39560974",
   "logradouro": "Avenida Guilhermino Ferreira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Salinas",
   "uf": "MG",
-  "ibge": "3157005"
+  "ibge": "3157005",
+  "latitude": "-16.167456",
+  "longitude": "-42.2978984"
 }

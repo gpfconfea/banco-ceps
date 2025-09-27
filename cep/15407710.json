@@ -5,5 +5,7 @@
   "bairro": "Residencial Harmonia",
   "localidade": "Olímpia",
   "uf": "SP",
-  "ibge": "3533908"
+  "ibge": "3533908",
+  "latitude": "-23.59034",
+  "longitude": "-46.69036"
 }

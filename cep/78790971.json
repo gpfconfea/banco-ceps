@@ -1,9 +1,11 @@
 {
   "cep": "78790971",
   "logradouro": "Rua das Seringueiras",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Michelin",
   "localidade": "Itiquira",
   "uf": "MT",
-  "ibge": "5104609"
+  "ibge": "5104609",
+  "latitude": "-16.621352",
+  "longitude": "-54.4814404"
 }

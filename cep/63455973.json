@@ -1,9 +1,11 @@
 {
   "cep": "63455973",
   "logradouro": "Vila Pedrinhas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pedrinhas",
   "localidade": "Icó",
   "uf": "CE",
-  "ibge": "2305407"
+  "ibge": "2305407",
+  "latitude": "-3.0666669",
+  "longitude": "-39.983333"
 }

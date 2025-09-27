@@ -5,5 +5,7 @@
   "bairro": "Cidade Universitária",
   "localidade": "Engenheiro Coelho",
   "uf": "SP",
-  "ibge": "3515152"
+  "ibge": "3515152",
+  "latitude": "-22.48883",
+  "longitude": "-47.15964"
 }

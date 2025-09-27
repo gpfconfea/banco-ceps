@@ -1,9 +1,11 @@
 {
   "cep": "77349972",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Arraias",
   "uf": "TO",
-  "ibge": "1702406"
+  "ibge": "1702406",
+  "latitude": "-12.8507354",
+  "longitude": "-46.7990658"
 }

@@ -5,5 +5,7 @@
   "bairro": "Martinho Campos",
   "localidade": "Três Pontas",
   "uf": "MG",
-  "ibge": "3169406"
+  "ibge": "3169406",
+  "latitude": "-21.3937575",
+  "longitude": "-45.6464816"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "28250974",
   "logradouro": "Praça São Pedro do Paraíso",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Pedro do Paraíso",
   "localidade": "Italva",
   "uf": "RJ",
-  "ibge": "3302056"
+  "ibge": "3302056",
+  "latitude": "-21.3680581",
+  "longitude": "-41.7215466"
 }

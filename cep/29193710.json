@@ -5,5 +5,7 @@
   "bairro": "Residencial Valle Verde",
   "localidade": "Aracruz",
   "uf": "ES",
-  "ibge": "3200607"
+  "ibge": "3200607",
+  "latitude": "-19.81528",
+  "longitude": "-40.2715"
 }

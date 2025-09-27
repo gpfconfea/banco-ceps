@@ -1,9 +1,11 @@
 {
   "cep": "64788970",
   "logradouro": "Avenida Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Fartura do Piauí",
   "uf": "PI",
-  "ibge": "2203750"
+  "ibge": "2203750",
+  "latitude": "-6.8479929",
+  "longitude": "-41.3413366"
 }

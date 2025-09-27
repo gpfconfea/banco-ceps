@@ -1,9 +1,11 @@
 {
   "cep": "44797970",
   "logradouro": "Rua Celino da Silva Nunes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Campo Formoso",
   "uf": "BA",
-  "ibge": "2906006"
+  "ibge": "2906006",
+  "latitude": "-10.5077925",
+  "longitude": "-40.3230885"
 }

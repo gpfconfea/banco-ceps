@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Inhaúma",
   "uf": "MG",
-  "ibge": "3131000"
+  "ibge": "3131000",
+  "latitude": "-19.28679",
+  "longitude": "-43.95562"
 }

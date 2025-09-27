@@ -1,9 +1,11 @@
 {
   "cep": "77318959",
   "logradouro": "Rua Gercino Lopes Silveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Novo Jardim",
   "uf": "TO",
-  "ibge": "1715259"
+  "ibge": "1715259",
+  "latitude": "-11.82066",
+  "longitude": "-46.62667"
 }

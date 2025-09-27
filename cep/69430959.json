@@ -1,9 +1,11 @@
 {
   "cep": "69430959",
   "logradouro": "Rua Vicente Gomes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Francisco",
   "localidade": "Beruri",
   "uf": "AM",
-  "ibge": "1300631"
+  "ibge": "1300631",
+  "latitude": "-3.89702",
+  "longitude": "-61.37324"
 }

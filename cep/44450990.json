@@ -1,9 +1,11 @@
 {
   "cep": "44450990",
   "logradouro": "Praça do Cairu",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Salinas da Margarida",
   "uf": "BA",
-  "ibge": "2927309"
+  "ibge": "2927309",
+  "latitude": "-12.87777",
+  "longitude": "-38.75784"
 }

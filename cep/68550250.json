@@ -5,5 +5,7 @@
   "bairro": "Alto Paraná",
   "localidade": "Redenção",
   "uf": "PA",
-  "ibge": "1506138"
+  "ibge": "1506138",
+  "latitude": "-25.4645278",
+  "longitude": "-49.2388168"
 }

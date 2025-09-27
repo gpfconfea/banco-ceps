@@ -1,9 +1,11 @@
 {
   "cep": "63176972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Brejinho",
   "localidade": "Araripe",
   "uf": "CE",
-  "ibge": "2301307"
+  "ibge": "2301307",
+  "latitude": "-3.7449808",
+  "longitude": "-38.6483705"
 }

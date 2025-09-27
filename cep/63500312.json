@@ -5,5 +5,7 @@
   "bairro": "Taboleiro",
   "localidade": "Iguatu",
   "uf": "CE",
-  "ibge": "2305506"
+  "ibge": "2305506",
+  "latitude": "-7.0957959",
+  "longitude": "-34.8634176"
 }

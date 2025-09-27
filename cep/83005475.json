@@ -5,5 +5,7 @@
   "bairro": "São Pedro",
   "localidade": "São José dos Pinhais",
   "uf": "PR",
-  "ibge": "4125506"
+  "ibge": "4125506",
+  "latitude": "40.1726077",
+  "longitude": "-8.6846858"
 }

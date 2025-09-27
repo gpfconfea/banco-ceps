@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Aiuruoca",
   "uf": "MG",
-  "ibge": "3101201"
+  "ibge": "3101201",
+  "latitude": "-21.97637",
+  "longitude": "-44.6037"
 }

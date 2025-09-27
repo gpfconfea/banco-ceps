@@ -1,9 +1,11 @@
 {
   "cep": "69422970",
   "logradouro": "Praça 15 de Fevereiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Iranduba",
   "uf": "AM",
-  "ibge": "1301852"
+  "ibge": "1301852",
+  "latitude": "-22.9030884",
+  "longitude": "-43.1735877"
 }

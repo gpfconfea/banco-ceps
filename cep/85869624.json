@@ -5,5 +5,7 @@
   "bairro": "Ipê",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-23.3557542",
+  "longitude": "-51.1810076"
 }

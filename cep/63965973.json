@@ -1,9 +1,11 @@
 {
   "cep": "63965973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rinaré",
   "localidade": "Banabuiú",
   "uf": "CE",
-  "ibge": "2301851"
+  "ibge": "2301851",
+  "latitude": "-3.7449808",
+  "longitude": "-38.6483705"
 }

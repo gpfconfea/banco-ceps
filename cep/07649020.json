@@ -5,5 +5,7 @@
   "bairro": "Tapera Grande",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.30029",
+  "longitude": "-46.46199"
 }

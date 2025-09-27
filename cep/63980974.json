@@ -1,9 +1,11 @@
 {
   "cep": "63980974",
   "logradouro": "Rua da Praça",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Nova Vida",
   "localidade": "Ibaretama",
   "uf": "CE",
-  "ibge": "2305266"
+  "ibge": "2305266",
+  "latitude": "-3.7714418",
+  "longitude": "-38.5702057"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "99314970",
   "logradouro": "Rua Santa Terezinha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santa Terezinha",
   "localidade": "Soledade",
   "uf": "RS",
-  "ibge": "4320800"
+  "ibge": "4320800",
+  "latitude": "-29.24147",
+  "longitude": "-51.532"
 }

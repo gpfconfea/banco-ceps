@@ -6,5 +6,7 @@
   "bairro": "Vila Santa Maria",
   "localidade": "Casa Branca",
   "uf": "SP",
-  "ibge": "3510807"
+  "ibge": "3510807",
+  "latitude": "-23.57765",
+  "longitude": "-46.56947"
 }

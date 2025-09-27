@@ -5,5 +5,7 @@
   "bairro": "Loteamento Residencial Parque do Carvalho",
   "localidade": "Fartura",
   "uf": "SP",
-  "ibge": "3515400"
+  "ibge": "3515400",
+  "latitude": "-23.37232",
+  "longitude": "-49.51094"
 }

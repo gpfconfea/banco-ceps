@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Moeda",
   "uf": "MG",
-  "ibge": "3142304"
+  "ibge": "3142304",
+  "latitude": "-20.33238",
+  "longitude": "-44.0531"
 }

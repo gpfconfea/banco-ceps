@@ -5,5 +5,7 @@
   "bairro": "Sete de Setembro",
   "localidade": "Cacoal",
   "uf": "RO",
-  "ibge": "1100049"
+  "ibge": "1100049",
+  "latitude": "-28.13128",
+  "longitude": "-54.46285"
 }

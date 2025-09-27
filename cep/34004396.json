@@ -5,5 +5,7 @@
   "bairro": "Residencial Vale das Araras",
   "localidade": "Nova Lima",
   "uf": "MG",
-  "ibge": "3144805"
+  "ibge": "3144805",
+  "latitude": "-21.888658",
+  "longitude": "-45.5921854"
 }

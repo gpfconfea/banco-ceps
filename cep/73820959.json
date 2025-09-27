@@ -1,9 +1,11 @@
 {
   "cep": "73820959",
   "logradouro": "Rua Joaquim Neri Sobrinho Quadra 34 Lote 8",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Nova Roma",
   "uf": "GO",
-  "ibge": "5214903"
+  "ibge": "5214903",
+  "latitude": "-13.74184",
+  "longitude": "-46.87883"
 }

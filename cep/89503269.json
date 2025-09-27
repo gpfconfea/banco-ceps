@@ -5,5 +5,7 @@
   "bairro": "Figueroa",
   "localidade": "Caçador",
   "uf": "SC",
-  "ibge": "4203006"
+  "ibge": "4203006",
+  "latitude": "-26.7877218",
+  "longitude": "-51.0314463"
 }

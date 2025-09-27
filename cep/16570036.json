@@ -5,5 +5,7 @@
   "bairro": "Residencial Boa Vista",
   "localidade": "Guarantã",
   "uf": "SP",
-  "ibge": "3518107"
+  "ibge": "3518107",
+  "latitude": "-21.89477",
+  "longitude": "-49.59136"
 }

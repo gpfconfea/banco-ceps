@@ -1,9 +1,11 @@
 {
   "cep": "83251993",
   "logradouro": "Praça Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Paranaguá",
   "uf": "PR",
-  "ibge": "4118204"
+  "ibge": "4118204",
+  "latitude": "-25.51614",
+  "longitude": "-48.50545"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "44200990",
   "logradouro": "Rua do Porto - São Braz",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Santo Amaro",
   "uf": "BA",
-  "ibge": "2928604"
+  "ibge": "2928604",
+  "latitude": "-12.70514",
+  "longitude": "-38.75386"
 }

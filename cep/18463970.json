@@ -1,9 +1,11 @@
 {
   "cep": "18463970",
   "logradouro": "Rua Francisco Fernandes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Cerrado",
   "localidade": "Itararé",
   "uf": "SP",
-  "ibge": "3523206"
+  "ibge": "3523206",
+  "latitude": "-24.11698",
+  "longitude": "-49.32596"
 }

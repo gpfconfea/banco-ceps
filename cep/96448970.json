@@ -5,5 +5,7 @@
   "bairro": "Colônia Nova",
   "localidade": "Aceguá",
   "uf": "RS",
-  "ibge": "4300034"
+  "ibge": "4300034",
+  "latitude": "-31.87043",
+  "longitude": "-54.16043"
 }

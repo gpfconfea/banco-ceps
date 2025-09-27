@@ -5,5 +5,7 @@
   "bairro": "Lourdes",
   "localidade": "Juiz de Fora",
   "uf": "MG",
-  "ibge": "3136702"
+  "ibge": "3136702",
+  "latitude": "-19.9615201",
+  "longitude": "-43.9186847"
 }

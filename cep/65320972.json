@@ -1,9 +1,11 @@
 {
   "cep": "65320972",
   "logradouro": "Rua do Campo",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Povoado São João do Grajaú",
   "localidade": "Vitorino Freire",
   "uf": "MA",
-  "ibge": "2113009"
+  "ibge": "2113009",
+  "latitude": "-5.68545",
+  "longitude": "-43.10198"
 }

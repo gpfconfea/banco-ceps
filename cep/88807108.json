@@ -5,5 +5,7 @@
   "bairro": "São Sebastião",
   "localidade": "Criciúma",
   "uf": "SC",
-  "ibge": "4204608"
+  "ibge": "4204608",
+  "latitude": "-28.6933311",
+  "longitude": "-49.4389751"
 }

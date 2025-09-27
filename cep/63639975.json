@@ -1,9 +1,11 @@
 {
   "cep": "63639975",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Monte Grave",
   "localidade": "Milhã",
   "uf": "CE",
-  "ibge": "2308351"
+  "ibge": "2308351",
+  "latitude": "-3.6978693",
+  "longitude": "-38.5816522"
 }

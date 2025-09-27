@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Braz Cavenaghi",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-20.805823",
+  "longitude": "-49.3513433"
 }

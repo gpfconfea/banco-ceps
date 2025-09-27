@@ -5,5 +5,7 @@
   "bairro": "Jardim Regatas",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.13256",
+  "longitude": "-47.84684"
 }

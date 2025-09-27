@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ariranha",
   "uf": "SP",
-  "ibge": "3503703"
+  "ibge": "3503703",
+  "latitude": "-21.18846",
+  "longitude": "-48.78782"
 }

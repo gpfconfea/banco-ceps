@@ -6,5 +6,7 @@
   "bairro": "Estância Jardim Planalto",
   "localidade": "Bocaina",
   "uf": "SP",
-  "ibge": "3506805"
+  "ibge": "3506805",
+  "latitude": "-22.15231",
+  "longitude": "-48.54128"
 }

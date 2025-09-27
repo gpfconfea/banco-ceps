@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Cumbe",
   "uf": "SE",
-  "ibge": "2801900"
+  "ibge": "2801900",
+  "latitude": "-10.35512",
+  "longitude": "-37.18172"
 }

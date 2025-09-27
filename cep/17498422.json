@@ -5,5 +5,7 @@
   "bairro": "Jardim São Francisco",
   "localidade": "Piratininga",
   "uf": "SP",
-  "ibge": "3539400"
+  "ibge": "3539400",
+  "latitude": "-23.62443",
+  "longitude": "-46.44565"
 }

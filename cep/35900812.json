@@ -5,5 +5,7 @@
   "bairro": "Vale do Sol",
   "localidade": "Itabira",
   "uf": "MG",
-  "ibge": "3131703"
+  "ibge": "3131703",
+  "latitude": "-21.7943711",
+  "longitude": "-46.5451207"
 }

@@ -5,5 +5,7 @@
   "bairro": "Itaquanduba",
   "localidade": "Ilhabela",
   "uf": "SP",
-  "ibge": "3520400"
+  "ibge": "3520400",
+  "latitude": "-23.41805",
+  "longitude": "-49.09805"
 }

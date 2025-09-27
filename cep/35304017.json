@@ -5,5 +5,7 @@
   "bairro": "Anápolis",
   "localidade": "Caratinga",
   "uf": "MG",
-  "ibge": "3113404"
+  "ibge": "3113404",
+  "latitude": "-20.6846476",
+  "longitude": "-43.7887425"
 }

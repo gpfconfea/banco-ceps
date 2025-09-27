@@ -5,5 +5,7 @@
   "bairro": "Setor Bela Vista",
   "localidade": "Goianésia",
   "uf": "GO",
-  "ibge": "5208608"
+  "ibge": "5208608",
+  "latitude": "-15.32177",
+  "longitude": "-49.13666"
 }
