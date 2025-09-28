@@ -1,9 +1,11 @@
 {
   "cep": "59508990",
   "logradouro": "Rua Central - Pataxó",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ipanguaçu",
   "uf": "RN",
-  "ibge": "2404705"
+  "ibge": "2404705",
+  "latitude": "-5.79796",
+  "longitude": "-35.19909"
 }

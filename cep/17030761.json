@@ -5,5 +5,7 @@
   "bairro": "Residencial do Bosque",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.3344901",
+  "longitude": "-49.1131468"
 }

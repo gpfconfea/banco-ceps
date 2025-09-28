@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Penalva",
   "uf": "MA",
-  "ibge": "2108306"
+  "ibge": "2108306",
+  "latitude": "-3.29247",
+  "longitude": "-45.17552"
 }

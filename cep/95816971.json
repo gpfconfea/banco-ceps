@@ -1,9 +1,11 @@
 {
   "cep": "95816971",
   "logradouro": "Estrada Picada Nova",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Estância Nova",
   "localidade": "Venâncio Aires",
   "uf": "RS",
-  "ibge": "4322608"
+  "ibge": "4322608",
+  "latitude": "-29.65549",
+  "longitude": "-52.08841"
 }

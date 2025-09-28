@@ -1,9 +1,11 @@
 {
   "cep": "69870959",
   "logradouro": "Rua Joaquim Borba",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Envira",
   "uf": "AM",
-  "ibge": "1301506"
+  "ibge": "1301506",
+  "latitude": "-7.43598",
+  "longitude": "-70.028"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim Europa",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-23.29605",
+  "longitude": "-46.76921"
 }

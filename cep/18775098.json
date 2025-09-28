@@ -5,5 +5,7 @@
   "bairro": "Santa Luzia",
   "localidade": "Iaras",
   "uf": "SP",
-  "ibge": "3519253"
+  "ibge": "3519253",
+  "latitude": "-21.68864",
+  "longitude": "-48.0882"
 }

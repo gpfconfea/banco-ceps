@@ -1,9 +1,11 @@
 {
   "cep": "62663975",
   "logradouro": "Avenida Felisbela Caetano",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "São Joaquim",
   "localidade": "Umirim",
   "uf": "CE",
-  "ibge": "2313757"
+  "ibge": "2313757",
+  "latitude": "-3.6926746",
+  "longitude": "-39.4491586"
 }

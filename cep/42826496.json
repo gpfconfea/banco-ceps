@@ -6,5 +6,7 @@
   "bairro": "Nova Abrantes (Abrantes)",
   "localidade": "Camaçari",
   "uf": "BA",
-  "ibge": "2905701"
+  "ibge": "2905701",
+  "latitude": "-12.83061",
+  "longitude": "-38.25586"
 }

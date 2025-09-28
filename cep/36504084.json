@@ -5,5 +5,7 @@
   "bairro": "Santa Clara",
   "localidade": "Ubá",
   "uf": "MG",
-  "ibge": "3169901"
+  "ibge": "3169901",
+  "latitude": "-22.4373665",
+  "longitude": "-45.4604642"
 }

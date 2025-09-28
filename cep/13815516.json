@@ -5,5 +5,7 @@
   "bairro": "Pederneiras",
   "localidade": "Mogi Mirim",
   "uf": "SP",
-  "ibge": "3530805"
+  "ibge": "3530805",
+  "latitude": "-22.3151665",
+  "longitude": "-48.587247"
 }

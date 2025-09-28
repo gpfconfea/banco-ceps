@@ -6,5 +6,7 @@
   "bairro": "Vila Gaúcha",
   "localidade": "Marechal Cândido Rondon",
   "uf": "PR",
-  "ibge": "4114609"
+  "ibge": "4114609",
+  "latitude": "-24.55798",
+  "longitude": "-54.07529"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "95983970",
   "logradouro": "Estrada Linha Itapucá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itapucá",
   "localidade": "Itapucá",
   "uf": "RS",
-  "ibge": "4310579"
+  "ibge": "4310579",
+  "latitude": "-29.0916462",
+  "longitude": "-51.9889319"
 }

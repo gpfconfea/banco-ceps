@@ -6,5 +6,7 @@
   "bairro": "Residencial Recanto Itapirinha",
   "localidade": "Itapira",
   "uf": "SP",
-  "ibge": "3522604"
+  "ibge": "3522604",
+  "latitude": "-22.45196",
+  "longitude": "-46.81364"
 }

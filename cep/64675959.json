@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Alegrete do Piauí",
   "uf": "PI",
-  "ibge": "2200277"
+  "ibge": "2200277",
+  "latitude": "-7.243",
+  "longitude": "-40.85952"
 }

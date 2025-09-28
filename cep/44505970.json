@@ -1,9 +1,11 @@
 {
   "cep": "44505970",
   "logradouro": "Distrito de Crussaí",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Crussaí",
   "localidade": "Castro Alves",
   "uf": "BA",
-  "ibge": "2907301"
+  "ibge": "2907301",
+  "latitude": "-12.8741418",
+  "longitude": "-39.3454314"
 }

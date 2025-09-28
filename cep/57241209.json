@@ -5,5 +5,7 @@
   "bairro": "Lourdes",
   "localidade": "São Miguel dos Campos",
   "uf": "AL",
-  "ibge": "2708600"
+  "ibge": "2708600",
+  "latitude": "-9.81",
+  "longitude": "-36.114"
 }

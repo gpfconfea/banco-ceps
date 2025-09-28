@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Ribeira do Pombal",
   "uf": "BA",
-  "ibge": "2926608"
+  "ibge": "2926608",
+  "latitude": "-10.83687",
+  "longitude": "-38.54107"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Sertanópolis",
   "uf": "PR",
-  "ibge": "4126504"
+  "ibge": "4126504",
+  "latitude": "-23.05932",
+  "longitude": "-51.03843"
 }

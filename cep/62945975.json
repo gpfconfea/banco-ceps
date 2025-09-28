@@ -1,9 +1,11 @@
 {
   "cep": "62945975",
   "logradouro": "Vila Juazeiro",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Juazeiro de Baixo",
   "localidade": "Morada Nova",
   "uf": "CE",
-  "ibge": "2308708"
+  "ibge": "2308708",
+  "latitude": "-5.15",
+  "longitude": "-38.566667"
 }

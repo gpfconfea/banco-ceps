@@ -5,5 +5,7 @@
   "bairro": "Jardim Pôr do Sol",
   "localidade": "Itapeva",
   "uf": "SP",
-  "ibge": "3522406"
+  "ibge": "3522406",
+  "latitude": "-23.9822612",
+  "longitude": "-48.8690838"
 }

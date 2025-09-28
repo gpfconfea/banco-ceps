@@ -5,5 +5,7 @@
   "bairro": "Municipal",
   "localidade": "Bento Gonçalves",
   "uf": "RS",
-  "ibge": "4302105"
+  "ibge": "4302105",
+  "latitude": "-29.2959491",
+  "longitude": "-51.3439448"
 }

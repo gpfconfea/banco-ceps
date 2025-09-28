@@ -5,5 +5,7 @@
   "bairro": "Jardim Santa Lídia",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.70178",
+  "longitude": "-46.51617"
 }

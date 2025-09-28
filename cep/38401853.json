@@ -5,5 +5,7 @@
   "bairro": "Maria Rezende",
   "localidade": "Uberlândia",
   "uf": "MG",
-  "ibge": "3170206"
+  "ibge": "3170206",
+  "latitude": "-18.889544",
+  "longitude": "-48.299978"
 }

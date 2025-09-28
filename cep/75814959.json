@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Caçu",
   "uf": "GO",
-  "ibge": "5204300"
+  "ibge": "5204300",
+  "latitude": "-18.56515",
+  "longitude": "-51.13628"
 }

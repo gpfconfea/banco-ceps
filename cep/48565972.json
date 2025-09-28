@@ -1,9 +1,11 @@
 {
   "cep": "48565972",
   "logradouro": "Praça José Valentim de Carvalho",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Tingui",
   "localidade": "Sítio do Quinto",
   "uf": "BA",
-  "ibge": "2930766"
+  "ibge": "2930766",
+  "latitude": "-10.344562",
+  "longitude": "-38.1113447"
 }

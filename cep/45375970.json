@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Planaltino",
   "uf": "BA",
-  "ibge": "2924900"
+  "ibge": "2924900",
+  "latitude": "-13.2588429",
+  "longitude": "-40.3719846"
 }

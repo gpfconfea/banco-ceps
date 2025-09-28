@@ -5,5 +5,7 @@
   "bairro": "Vila Sarney",
   "localidade": "São Luís",
   "uf": "MA",
-  "ibge": "2111300"
+  "ibge": "2111300",
+  "latitude": "-2.6341654",
+  "longitude": "-44.2704036"
 }

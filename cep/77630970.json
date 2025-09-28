@@ -1,9 +1,11 @@
 {
   "cep": "77630970",
   "logradouro": "Praça de Lizarda M. Freitas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Lizarda",
   "uf": "TO",
-  "ibge": "1712405"
+  "ibge": "1712405",
+  "latitude": "-10.17528",
+  "longitude": "-48.2982474"
 }

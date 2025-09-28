@@ -1,9 +1,11 @@
 {
   "cep": "35639971",
   "logradouro": "Área Rural - Povoado de Traçadal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Traçadal",
   "localidade": "Morada Nova de Minas",
   "uf": "MG",
-  "ibge": "3143500"
+  "ibge": "3143500",
+  "latitude": "-19.57281",
+  "longitude": "-45.30495"
 }

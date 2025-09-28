@@ -5,5 +5,7 @@
   "bairro": "Área Rural de Nova Luzitânia",
   "localidade": "Nova Luzitânia",
   "uf": "SP",
-  "ibge": "3533304"
+  "ibge": "3533304",
+  "latitude": "-20.85652",
+  "longitude": "-50.26222"
 }

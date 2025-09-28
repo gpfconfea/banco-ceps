@@ -6,5 +6,7 @@
   "bairro": "Eucalipto",
   "localidade": "Teófilo Otoni",
   "uf": "MG",
-  "ibge": "3168606"
+  "ibge": "3168606",
+  "latitude": "-17.85199",
+  "longitude": "-41.51153"
 }

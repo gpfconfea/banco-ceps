@@ -5,5 +5,7 @@
   "bairro": "Jardim Hermolino de Carvalho",
   "localidade": "Guaimbê",
   "uf": "SP",
-  "ibge": "3517307"
+  "ibge": "3517307",
+  "latitude": "-23.55221",
+  "longitude": "-46.38335"
 }

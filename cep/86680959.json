@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nossa Senhora das Graças",
   "uf": "PR",
-  "ibge": "4116406"
+  "ibge": "4116406",
+  "latitude": "-22.9158",
+  "longitude": "-51.79786"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "43900970",
   "logradouro": "Praça Camerindo de Freitas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São Francisco do Conde",
   "uf": "BA",
-  "ibge": "2929206"
+  "ibge": "2929206",
+  "latitude": "-12.6187909",
+  "longitude": "-38.6789542"
 }

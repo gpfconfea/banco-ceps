@@ -5,5 +5,7 @@
   "bairro": "Vila Albertina",
   "localidade": "Ribeirão Preto",
   "uf": "SP",
-  "ibge": "3543402"
+  "ibge": "3543402",
+  "latitude": "-21.178881",
+  "longitude": "-47.8089165"
 }

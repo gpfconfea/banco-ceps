@@ -5,5 +5,7 @@
   "bairro": "Jardim Proença",
   "localidade": "Campinas",
   "uf": "SP",
-  "ibge": "3509502"
+  "ibge": "3509502",
+  "latitude": "-22.9126131",
+  "longitude": "-47.0492107"
 }

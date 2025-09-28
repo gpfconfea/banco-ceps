@@ -1,9 +1,11 @@
 {
   "cep": "95810971",
   "logradouro": "Estrada Linha Cachoeira Baixa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Deodoro",
   "localidade": "Venâncio Aires",
   "uf": "RS",
-  "ibge": "4322608"
+  "ibge": "4322608",
+  "latitude": "-29.60322",
+  "longitude": "-52.19807"
 }

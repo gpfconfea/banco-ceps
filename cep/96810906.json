@@ -1,9 +1,11 @@
 {
   "cep": "96810906",
   "logradouro": "Praça da Bandeira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Santa Cruz do Sul",
   "uf": "RS",
-  "ibge": "4316808"
+  "ibge": "4316808",
+  "latitude": "-29.7137645",
+  "longitude": "-52.4278156"
 }

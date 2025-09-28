@@ -5,5 +5,7 @@
   "bairro": "Viverde I",
   "localidade": "Rio das Ostras",
   "uf": "RJ",
-  "ibge": "3304524"
+  "ibge": "3304524",
+  "latitude": "-22.5055176",
+  "longitude": "-41.925622"
 }

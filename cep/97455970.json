@@ -1,9 +1,11 @@
 {
   "cep": "97455970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Saicã",
   "localidade": "Cacequi",
   "uf": "RS",
-  "ibge": "4302907"
+  "ibge": "4302907",
+  "latitude": "-30.3017018",
+  "longitude": "-51.3239026"
 }

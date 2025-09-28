@@ -1,9 +1,11 @@
 {
   "cep": "18505970",
   "logradouro": "Rua João Henrique de Campos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Laras",
   "localidade": "Laranjal Paulista",
   "uf": "SP",
-  "ibge": "3526407"
+  "ibge": "3526407",
+  "latitude": "-22.9241721",
+  "longitude": "-47.8988314"
 }

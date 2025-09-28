@@ -1,9 +1,11 @@
 {
   "cep": "64155959",
   "logradouro": "Praça Hortêncio Augusto Rocha",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "São João do Arraial",
   "uf": "PI",
-  "ibge": "2209971"
+  "ibge": "2209971",
+  "latitude": "-3.81393",
+  "longitude": "-42.45513"
 }

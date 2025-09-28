@@ -5,5 +5,7 @@
   "bairro": "Setor Central",
   "localidade": "Edealina",
   "uf": "GO",
-  "ibge": "5207352"
+  "ibge": "5207352",
+  "latitude": "-18.16858",
+  "longitude": "-47.944"
 }

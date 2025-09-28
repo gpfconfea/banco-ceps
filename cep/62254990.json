@@ -1,9 +1,11 @@
 {
   "cep": "62254990",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ipu",
   "uf": "CE",
-  "ibge": "2305803"
+  "ibge": "2305803",
+  "latitude": "-3.76963",
+  "longitude": "-38.63064"
 }

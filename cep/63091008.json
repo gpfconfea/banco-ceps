@@ -5,5 +5,7 @@
   "bairro": "Rosário",
   "localidade": "Barbalha",
   "uf": "CE",
-  "ibge": "2301901"
+  "ibge": "2301901",
+  "latitude": "-7.3139",
+  "longitude": "-39.30493"
 }

@@ -5,5 +5,7 @@
   "bairro": "Residencial Santa Rita",
   "localidade": "Barretos",
   "uf": "SP",
-  "ibge": "3505500"
+  "ibge": "3505500",
+  "latitude": "-20.543388",
+  "longitude": "-48.5697402"
 }

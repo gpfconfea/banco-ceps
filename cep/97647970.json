@@ -1,9 +1,11 @@
 {
   "cep": "97647970",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bororé",
   "localidade": "Maçambará",
   "uf": "RS",
-  "ibge": "4311718"
+  "ibge": "4311718",
+  "latitude": "-30.3017018",
+  "longitude": "-51.3239026"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "61893975",
   "logradouro": "Rua Luiz Valentim Leitão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Itacima",
   "localidade": "Guaiúba",
   "uf": "CE",
-  "ibge": "2304954"
+  "ibge": "2304954",
+  "latitude": "-4.0407208",
+  "longitude": "-38.6339753"
 }

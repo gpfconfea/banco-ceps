@@ -6,5 +6,7 @@
   "bairro": "Jardim Boa Vista",
   "localidade": "Caruaru",
   "uf": "PE",
-  "ibge": "2604106"
+  "ibge": "2604106",
+  "latitude": "-8.27158",
+  "longitude": "-35.98411"
 }

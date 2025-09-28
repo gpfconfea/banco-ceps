@@ -6,5 +6,7 @@
   "bairro": "Distrito Industrial Pessegueiros",
   "localidade": "Extrema",
   "uf": "MG",
-  "ibge": "3125101"
+  "ibge": "3125101",
+  "latitude": "-18.86593",
+  "longitude": "-48.29765"
 }

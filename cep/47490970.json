@@ -1,9 +1,11 @@
 {
   "cep": "47490970",
   "logradouro": "Rua Coronel José Nogueira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo Inácio",
   "localidade": "Gentio do Ouro",
   "uf": "BA",
-  "ibge": "2911303"
+  "ibge": "2911303",
+  "latitude": "-11.1098427",
+  "longitude": "-42.7199924"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "99777970",
   "logradouro": "Estrada de Pio X",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Pio X",
   "localidade": "Aratiba",
   "uf": "RS",
-  "ibge": "4300901"
+  "ibge": "4300901",
+  "latitude": "-29.15486",
+  "longitude": "-51.18765"
 }

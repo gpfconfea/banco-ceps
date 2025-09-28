@@ -1,9 +1,11 @@
 {
   "cep": "77610970",
   "logradouro": "Avenida Primeiro de Maio",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Novo Acordo",
   "uf": "TO",
-  "ibge": "1715101"
+  "ibge": "1715101",
+  "latitude": "-2.5093604",
+  "longitude": "-44.2412681"
 }

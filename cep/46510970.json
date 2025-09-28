@@ -1,9 +1,11 @@
 {
   "cep": "46510970",
   "logradouro": "Vila Canativa",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Canatiba",
   "localidade": "Macaúbas",
   "uf": "BA",
-  "ibge": "2919801"
+  "ibge": "2919801",
+  "latitude": "-13.0827771",
+  "longitude": "-42.8435947"
 }

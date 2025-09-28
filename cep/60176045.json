@@ -5,5 +5,7 @@
   "bairro": "Papicu",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "-5.7208422",
+  "longitude": "-38.1522806"
 }

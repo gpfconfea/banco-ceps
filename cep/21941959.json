@@ -1,9 +1,11 @@
 {
   "cep": "21941959",
   "logradouro": "Avenida Vinte de Janeiro Andar 3º Sala 3023",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Galeão",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.81359",
+  "longitude": "-43.2451"
 }

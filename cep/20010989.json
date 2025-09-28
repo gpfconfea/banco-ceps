@@ -1,9 +1,11 @@
 {
   "cep": "20010989",
-  "logradouro": "Rua Primeiro de Março 64 Térreo Locker Correios",
+  "logradouro": "Rua Primeiro de Março 64 Térreo",
   "complemento": "",
   "bairro": "Centro",
   "localidade": "Rio de Janeiro",
   "uf": "RJ",
-  "ibge": "3304557"
+  "ibge": "3304557",
+  "latitude": "-22.90159",
+  "longitude": "-43.1762"
 }

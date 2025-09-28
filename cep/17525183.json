@@ -5,5 +5,7 @@
   "bairro": "Jardim Acapulco",
   "localidade": "Marília",
   "uf": "SP",
-  "ibge": "3529005"
+  "ibge": "3529005",
+  "latitude": "-22.2312806",
+  "longitude": "-49.9629675"
 }

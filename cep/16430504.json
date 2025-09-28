@@ -5,5 +5,7 @@
   "bairro": "Jardim Bela Vista",
   "localidade": "Guaiçara",
   "uf": "SP",
-  "ibge": "3517208"
+  "ibge": "3517208",
+  "latitude": "-21.61685",
+  "longitude": "-49.79654"
 }

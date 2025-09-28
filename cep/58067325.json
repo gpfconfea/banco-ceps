@@ -6,5 +6,7 @@
   "bairro": "Gramame",
   "localidade": "João Pessoa",
   "uf": "PB",
-  "ibge": "2507507"
+  "ibge": "2507507",
+  "latitude": "-7.2",
+  "longitude": "-34.87138"
 }

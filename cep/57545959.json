@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Inhapi",
   "uf": "AL",
-  "ibge": "2703304"
+  "ibge": "2703304",
+  "latitude": "-9.22173",
+  "longitude": "-37.74943"
 }

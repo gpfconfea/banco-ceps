@@ -1,9 +1,11 @@
 {
   "cep": "18650972",
   "logradouro": "Via Carlos Denucci",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Parque Albatroz",
   "localidade": "São Manuel",
   "uf": "SP",
-  "ibge": "3550100"
+  "ibge": "3550100",
+  "latitude": "-22.722707",
+  "longitude": "-48.5631286"
 }

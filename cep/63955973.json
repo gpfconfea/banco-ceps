@@ -1,9 +1,11 @@
 {
   "cep": "63955973",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Monte Castelo",
   "localidade": "Choró",
   "uf": "CE",
-  "ibge": "2303931"
+  "ibge": "2303931",
+  "latitude": "-3.7241",
+  "longitude": "-38.5509"
 }

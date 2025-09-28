@@ -1,9 +1,11 @@
 {
   "cep": "28390959",
   "logradouro": "Rua Prefeito Synval Augusto Ferreira da Silva",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Porciúncula",
   "uf": "RJ",
-  "ibge": "3304102"
+  "ibge": "3304102",
+  "latitude": "-20.96275",
+  "longitude": "-42.03978"
 }

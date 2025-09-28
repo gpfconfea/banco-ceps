@@ -5,5 +5,7 @@
   "bairro": "Ouro Verde",
   "localidade": "Camaquã",
   "uf": "RS",
-  "ibge": "4303509"
+  "ibge": "4303509",
+  "latitude": "-29.67282",
+  "longitude": "-49.96603"
 }

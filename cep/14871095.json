@@ -5,5 +5,7 @@
   "bairro": "Sorocabano",
   "localidade": "Jaboticabal",
   "uf": "SP",
-  "ibge": "3524303"
+  "ibge": "3524303",
+  "latitude": "-23.5555567",
+  "longitude": "-46.5086106"
 }

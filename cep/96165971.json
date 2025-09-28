@@ -1,9 +1,11 @@
 {
   "cep": "96165971",
   "logradouro": "Área Rural",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Passo das Pedras",
   "localidade": "Capão do Leão",
   "uf": "RS",
-  "ibge": "4304663"
+  "ibge": "4304663",
+  "latitude": "-31.76355",
+  "longitude": "-52.7085"
 }

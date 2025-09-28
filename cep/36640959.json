@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mar de Espanha",
   "uf": "MG",
-  "ibge": "3139805"
+  "ibge": "3139805",
+  "latitude": "-21.86813",
+  "longitude": "-42.98832"
 }

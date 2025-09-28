@@ -1,9 +1,11 @@
 {
   "cep": "46660970",
   "logradouro": "Vila do Triunfo do Sincorá",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Triunfo do Sincorá",
   "localidade": "Barra da Estiva",
   "uf": "BA",
-  "ibge": "2902807"
+  "ibge": "2902807",
+  "latitude": "-13.6155342",
+  "longitude": "-41.1062298"
 }

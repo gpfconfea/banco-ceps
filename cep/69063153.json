@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Manaus",
   "uf": "AM",
-  "ibge": "1302603"
+  "ibge": "1302603",
+  "latitude": "-7.222846",
+  "longitude": "-39.333179"
 }

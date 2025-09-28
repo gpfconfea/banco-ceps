@@ -5,5 +5,7 @@
   "bairro": "Liberdade",
   "localidade": "Salvador",
   "uf": "BA",
-  "ibge": "2927408"
+  "ibge": "2927408",
+  "latitude": "-12.9203833",
+  "longitude": "-38.3180701"
 }

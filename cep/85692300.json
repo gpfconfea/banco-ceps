@@ -5,5 +5,7 @@
   "bairro": "Lagoão",
   "localidade": "Palmas",
   "uf": "PR",
-  "ibge": "4117602"
+  "ibge": "4117602",
+  "latitude": "-26.47406",
+  "longitude": "-51.99609"
 }

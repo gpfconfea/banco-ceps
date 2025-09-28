@@ -1,9 +1,11 @@
 {
   "cep": "95816970",
   "logradouro": "Estrada RST-287",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Estância Nova",
   "localidade": "Venâncio Aires",
   "uf": "RS",
-  "ibge": "4322608"
+  "ibge": "4322608",
+  "latitude": "-29.6552131",
+  "longitude": "-52.0894929"
 }

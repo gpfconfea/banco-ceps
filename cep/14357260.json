@@ -5,5 +5,7 @@
   "bairro": "Residencial Vila Toscana",
   "localidade": "Altinópolis",
   "uf": "SP",
-  "ibge": "3501004"
+  "ibge": "3501004",
+  "latitude": "-21.01889",
+  "longitude": "-47.36506"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim América",
   "localidade": "Paracatu",
   "uf": "MG",
-  "ibge": "3147006"
+  "ibge": "3147006",
+  "latitude": "-15.32522",
+  "longitude": "-43.66952"
 }

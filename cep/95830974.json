@@ -1,9 +1,11 @@
 {
   "cep": "95830974",
   "logradouro": "Distrito Boqueirão",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Boqueirão",
   "localidade": "General Câmara",
   "uf": "RS",
-  "ibge": "4308805"
+  "ibge": "4308805",
+  "latitude": "-29.1051592",
+  "longitude": "-54.8731219"
 }

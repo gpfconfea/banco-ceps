@@ -5,5 +5,7 @@
   "bairro": "Parque Araxá",
   "localidade": "Fortaleza",
   "uf": "CE",
-  "ibge": "2304400"
+  "ibge": "2304400",
+  "latitude": "42.080537",
+  "longitude": "-72.539114"
 }

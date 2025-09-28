@@ -6,5 +6,7 @@
   "bairro": "Residencial Luana",
   "localidade": "Araçatuba",
   "uf": "SP",
-  "ibge": "3502804"
+  "ibge": "3502804",
+  "latitude": "-21.20002",
+  "longitude": "-50.48184"
 }

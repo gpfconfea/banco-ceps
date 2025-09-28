@@ -1,9 +1,11 @@
 {
   "cep": "45158970",
   "logradouro": "Praça Hercílio Antonio Viana",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Lagoa Grande",
   "localidade": "Cândido Sales",
   "uf": "BA",
-  "ibge": "2906709"
+  "ibge": "2906709",
+  "latitude": "-15.3075377",
+  "longitude": "-41.3983324"
 }

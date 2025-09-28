@@ -5,5 +5,7 @@
   "bairro": "Alves Dias",
   "localidade": "São Bernardo do Campo",
   "uf": "SP",
-  "ibge": "3548708"
+  "ibge": "3548708",
+  "latitude": "-23.9293383",
+  "longitude": "-47.0741426"
 }

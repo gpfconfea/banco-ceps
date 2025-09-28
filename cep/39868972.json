@@ -1,9 +1,11 @@
 {
   "cep": "39868972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Serra dos Aimorés",
   "uf": "MG",
-  "ibge": "3166709"
+  "ibge": "3166709",
+  "latitude": "-17.78562",
+  "longitude": "-40.1918283"
 }

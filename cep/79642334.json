@@ -5,5 +5,7 @@
   "bairro": "Residencial Montanini",
   "localidade": "Três Lagoas",
   "uf": "MS",
-  "ibge": "5008305"
+  "ibge": "5008305",
+  "latitude": "-20.4449911",
+  "longitude": "-52.8796587"
 }

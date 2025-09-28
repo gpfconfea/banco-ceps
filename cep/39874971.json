@@ -1,9 +1,11 @@
 {
   "cep": "39874971",
   "logradouro": "Rua Princesa Izabel",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bom Jesus da Vitória",
   "localidade": "Santa Helena de Minas",
   "uf": "MG",
-  "ibge": "3157658"
+  "ibge": "3157658",
+  "latitude": "-16.9366536",
+  "longitude": "-40.6882024"
 }

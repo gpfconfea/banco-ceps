@@ -5,5 +5,7 @@
   "bairro": "Parque Residencial Colúmbia",
   "localidade": "Guaratinguetá",
   "uf": "SP",
-  "ibge": "3518404"
+  "ibge": "3518404",
+  "latitude": "-22.78966",
+  "longitude": "-45.17929"
 }

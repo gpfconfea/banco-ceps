@@ -1,9 +1,11 @@
 {
   "cep": "95550970",
   "logradouro": "Estrada Divisa de Palmares",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Granja Getúlio Vargas",
   "localidade": "Palmares do Sul",
   "uf": "RS",
-  "ibge": "4313656"
+  "ibge": "4313656",
+  "latitude": "-30.32154",
+  "longitude": "-50.41737"
 }

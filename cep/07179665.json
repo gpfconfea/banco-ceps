@@ -5,5 +5,7 @@
   "bairro": "Chácaras de Recreio Oasis",
   "localidade": "Guarulhos",
   "uf": "SP",
-  "ibge": "3518800"
+  "ibge": "3518800",
+  "latitude": "-23.4013489",
+  "longitude": "-46.421931"
 }

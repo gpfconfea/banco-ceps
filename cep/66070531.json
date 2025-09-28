@@ -5,5 +5,7 @@
   "bairro": "Canudos",
   "localidade": "Belém",
   "uf": "PA",
-  "ibge": "1501402"
+  "ibge": "1501402",
+  "latitude": "-22.5760987",
+  "longitude": "-47.3986224"
 }

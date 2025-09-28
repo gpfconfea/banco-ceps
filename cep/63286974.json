@@ -1,9 +1,11 @@
 {
   "cep": "63286974",
   "logradouro": "Rua Sítio Santo André",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Santo André",
   "localidade": "Penaforte",
   "uf": "CE",
-  "ibge": "2310605"
+  "ibge": "2310605",
+  "latitude": "-7.8288389",
+  "longitude": "-39.0757995"
 }

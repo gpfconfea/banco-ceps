@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Jaboatão dos Guararapes",
   "uf": "PE",
-  "ibge": "2607901"
+  "ibge": "2607901",
+  "latitude": "-22.2926397",
+  "longitude": "-48.5602584"
 }

@@ -6,5 +6,7 @@
   "bairro": "Jardim Casablanca",
   "localidade": "Peruíbe",
   "uf": "SP",
-  "ibge": "3537602"
+  "ibge": "3537602",
+  "latitude": "-23.65195",
+  "longitude": "-46.74825"
 }

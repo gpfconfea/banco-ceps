@@ -1,9 +1,11 @@
 {
   "cep": "55280991",
   "logradouro": "Praça Paulo Gouveia de Brito - Vila Poço do Boi",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Pedra",
   "uf": "PE",
-  "ibge": "2610806"
+  "ibge": "2610806",
+  "latitude": "-8.51419",
+  "longitude": "-37.01752"
 }

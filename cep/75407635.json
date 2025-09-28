@@ -5,5 +5,7 @@
   "bairro": "Anhanguera 4ª Etapa",
   "localidade": "Inhumas",
   "uf": "GO",
-  "ibge": "5210000"
+  "ibge": "5210000",
+  "latitude": "-16.67346",
+  "longitude": "-49.28586"
 }

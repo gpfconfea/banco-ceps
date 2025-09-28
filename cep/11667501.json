@@ -5,5 +5,7 @@
   "bairro": "Jardim dos Sindicatos",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-23.2007043",
+  "longitude": "-45.9627127"
 }

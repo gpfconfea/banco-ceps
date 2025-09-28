@@ -1,9 +1,11 @@
 {
   "cep": "68488971",
   "logradouro": "Vila da Comunidade de Placas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Breu Branco",
   "uf": "PA",
-  "ibge": "1501782"
+  "ibge": "1501782",
+  "latitude": "-3.7772104",
+  "longitude": "-49.567468"
 }

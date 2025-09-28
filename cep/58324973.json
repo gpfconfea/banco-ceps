@@ -1,9 +1,11 @@
 {
   "cep": "58324973",
   "logradouro": "Rua das Princesas",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Pitimbu",
   "uf": "PB",
-  "ibge": "2511905"
+  "ibge": "2511905",
+  "latitude": "-7.5400864",
+  "longitude": "-34.8257139"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "96680970",
   "logradouro": "Estrada Municipal Bexiga",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Bexiga",
   "localidade": "Rio Pardo",
   "uf": "RS",
-  "ibge": "4315701"
+  "ibge": "4315701",
+  "latitude": "-29.7413681",
+  "longitude": "-52.254972"
 }

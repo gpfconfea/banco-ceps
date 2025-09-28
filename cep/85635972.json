@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Nova Esperança do Sudoeste",
   "uf": "PR",
-  "ibge": "4116950"
+  "ibge": "4116950",
+  "latitude": "-25.9024186",
+  "longitude": "-53.2599333"
 }

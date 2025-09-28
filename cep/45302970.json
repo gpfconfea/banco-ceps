@@ -1,9 +1,11 @@
 {
   "cep": "45302970",
   "logradouro": "Praça Manoel Dias de Oliveira",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Diógenes Sampaio",
   "localidade": "Amargosa",
   "uf": "BA",
-  "ibge": "2901007"
+  "ibge": "2901007",
+  "latitude": "-13.0297318",
+  "longitude": "-39.60207"
 }

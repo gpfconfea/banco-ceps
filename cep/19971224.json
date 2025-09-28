@@ -5,5 +5,7 @@
   "bairro": "Jardim Olímpico",
   "localidade": "Palmital",
   "uf": "SP",
-  "ibge": "3535309"
+  "ibge": "3535309",
+  "latitude": "-22.32884",
+  "longitude": "-49.02869"
 }

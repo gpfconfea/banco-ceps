@@ -1,9 +1,11 @@
 {
   "cep": "35738972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Campo de Santana",
   "localidade": "Prudente de Morais",
   "uf": "MG",
-  "ibge": "3153608"
+  "ibge": "3153608",
+  "latitude": "-19.953847",
+  "longitude": "-43.9442564"
 }

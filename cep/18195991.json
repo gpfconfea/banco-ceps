@@ -1,9 +1,11 @@
 {
   "cep": "18195991",
   "logradouro": "Avenida Bom Jesus, Bairro Porto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Capela do Alto",
   "uf": "SP",
-  "ibge": "3510302"
+  "ibge": "3510302",
+  "latitude": "-23.53412",
+  "longitude": "-47.76333"
 }

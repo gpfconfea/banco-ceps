@@ -6,5 +6,7 @@
   "bairro": "Vila Amorim",
   "localidade": "Guariba",
   "uf": "SP",
-  "ibge": "3518602"
+  "ibge": "3518602",
+  "latitude": "-21.36025",
+  "longitude": "-48.22965"
 }

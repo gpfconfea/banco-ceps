@@ -5,5 +5,7 @@
   "bairro": "Jardim Dona Laura",
   "localidade": "Avaré",
   "uf": "SP",
-  "ibge": "3504503"
+  "ibge": "3504503",
+  "latitude": "-22.857762",
+  "longitude": "-47.1538936"
 }

@@ -5,5 +5,7 @@
   "bairro": "Prado",
   "localidade": "Gravatá",
   "uf": "PE",
-  "ibge": "2606408"
+  "ibge": "2606408",
+  "latitude": "-25.5513127",
+  "longitude": "-49.1980879"
 }

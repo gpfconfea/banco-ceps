@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "São José do Povo",
   "uf": "MT",
-  "ibge": "5107297"
+  "ibge": "5107297",
+  "latitude": "-16.4710996",
+  "longitude": "-54.6496609"
 }

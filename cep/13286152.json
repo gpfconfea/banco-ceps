@@ -5,5 +5,7 @@
   "bairro": "Santa Cândida",
   "localidade": "Vinhedo",
   "uf": "SP",
-  "ibge": "3556701"
+  "ibge": "3556701",
+  "latitude": "-23.01324",
+  "longitude": "-46.99245"
 }

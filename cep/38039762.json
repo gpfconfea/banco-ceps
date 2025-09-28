@@ -5,5 +5,7 @@
   "bairro": "Peirópolis",
   "localidade": "Uberaba",
   "uf": "MG",
-  "ibge": "3170107"
+  "ibge": "3170107",
+  "latitude": "-19.7333329",
+  "longitude": "-47.75"
 }

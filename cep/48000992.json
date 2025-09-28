@@ -1,9 +1,11 @@
 {
   "cep": "48000992",
   "logradouro": "Rua Galdêncio Vasconcelos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Alagoinhas",
   "uf": "BA",
-  "ibge": "2900702"
+  "ibge": "2900702",
+  "latitude": "-12.11464",
+  "longitude": "-38.41483"
 }

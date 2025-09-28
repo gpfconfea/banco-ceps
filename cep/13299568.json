@@ -6,5 +6,7 @@
   "bairro": "Nova Cristalina",
   "localidade": "Itupeva",
   "uf": "SP",
-  "ibge": "3524006"
+  "ibge": "3524006",
+  "latitude": "-24.1185",
+  "longitude": "-48.89837"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "45690973",
   "logradouro": "Rua Central",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Colônia",
   "localidade": "Una",
   "uf": "BA",
-  "ibge": "2932507"
+  "ibge": "2932507",
+  "latitude": "-12.9120157",
+  "longitude": "-38.4703178"
 }

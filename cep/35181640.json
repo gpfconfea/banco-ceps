@@ -5,5 +5,7 @@
   "bairro": "Celeste",
   "localidade": "Timóteo",
   "uf": "MG",
-  "ibge": "3168705"
+  "ibge": "3168705",
+  "latitude": "-19.54441",
+  "longitude": "-42.63945"
 }

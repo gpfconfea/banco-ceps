@@ -1,9 +1,11 @@
 {
   "cep": "46550972",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Varzinha",
   "localidade": "Rio do Pires",
   "uf": "BA",
-  "ibge": "2926905"
+  "ibge": "2926905",
+  "latitude": "-13.1264",
+  "longitude": "-42.2925"
 }

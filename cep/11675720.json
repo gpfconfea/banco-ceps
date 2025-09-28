@@ -5,5 +5,7 @@
   "bairro": "Rio do Ouro",
   "localidade": "Caraguatatuba",
   "uf": "SP",
-  "ibge": "3510500"
+  "ibge": "3510500",
+  "latitude": "-21.124847",
+  "longitude": "-47.8238649"
 }

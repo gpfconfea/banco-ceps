@@ -5,5 +5,7 @@
   "bairro": "Jardim Luzitano",
   "localidade": "Mauá",
   "uf": "SP",
-  "ibge": "3529401"
+  "ibge": "3529401",
+  "latitude": "-20.3943594",
+  "longitude": "-51.3307703"
 }

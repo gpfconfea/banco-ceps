@@ -1,9 +1,11 @@
 {
   "cep": "29950971",
   "logradouro": "Estrada Dom José Dalvit",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Barra Seca",
   "localidade": "Jaguaré",
   "uf": "ES",
-  "ibge": "3203056"
+  "ibge": "3203056",
+  "latitude": "-18.90749",
+  "longitude": "-40.076277"
 }

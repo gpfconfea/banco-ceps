@@ -1,9 +1,11 @@
 {
   "cep": "64233970",
   "logradouro": "Avenida do Francisco Portela dos Santos",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Caraúbas do Piauí",
   "uf": "PI",
-  "ibge": "2202539"
+  "ibge": "2202539",
+  "latitude": "-3.4801981",
+  "longitude": "-41.8434956"
 }

@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Americana",
   "uf": "SP",
-  "ibge": "3501608"
+  "ibge": "3501608",
+  "latitude": "-23.5259048",
+  "longitude": "-46.7893579"
 }

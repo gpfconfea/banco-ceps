@@ -6,5 +6,7 @@
   "bairro": "Residencial São Paulo",
   "localidade": "Dracena",
   "uf": "SP",
-  "ibge": "3514403"
+  "ibge": "3514403",
+  "latitude": "-23.56793",
+  "longitude": "-46.40726"
 }

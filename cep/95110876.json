@@ -6,5 +6,7 @@
   "bairro": "Nossa Senhora da Conceição",
   "localidade": "Caxias do Sul",
   "uf": "RS",
-  "ibge": "4305108"
+  "ibge": "4305108",
+  "latitude": "-29.16558",
+  "longitude": "-51.15326"
 }

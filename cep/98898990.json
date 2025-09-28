@@ -1,9 +1,11 @@
 {
   "cep": "98898990",
   "logradouro": "Av Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Ubiretama",
   "uf": "RS",
-  "ibge": "4322343"
+  "ibge": "4322343",
+  "latitude": "-31.59887",
+  "longitude": "-52.26085"
 }

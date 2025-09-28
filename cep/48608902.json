@@ -1,9 +1,11 @@
 {
   "cep": "48608902",
   "logradouro": "Avenida Guararapes",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Alves de Souza",
   "localidade": "Paulo Afonso",
   "uf": "BA",
-  "ibge": "2924009"
+  "ibge": "2924009",
+  "latitude": "-9.3977437",
+  "longitude": "-38.2164514"
 }

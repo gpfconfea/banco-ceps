@@ -1,9 +1,11 @@
 {
   "cep": "18540991",
   "logradouro": "Rua Três, Posto de Saúde, Fazenda CAIC, Agrovila",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Porto Feliz",
   "uf": "SP",
-  "ibge": "3540606"
+  "ibge": "3540606",
+  "latitude": "-23.21892",
+  "longitude": "-47.51709"
 }

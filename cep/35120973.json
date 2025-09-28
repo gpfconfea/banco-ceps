@@ -1,9 +1,11 @@
 {
   "cep": "35120973",
   "logradouro": "Rua Conselheiro Pena",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Itanhomi",
   "uf": "MG",
-  "ibge": "3133204"
+  "ibge": "3133204",
+  "latitude": "-19.1734269",
+  "longitude": "-41.8589542"
 }

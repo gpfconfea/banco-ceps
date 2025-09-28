@@ -1,9 +1,11 @@
 {
   "cep": "64343970",
   "logradouro": "Rua São Francisco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Juazeiro do Piauí",
   "uf": "PI",
-  "ibge": "2205516"
+  "ibge": "2205516",
+  "latitude": "-5.171116",
+  "longitude": "-41.702956"
 }

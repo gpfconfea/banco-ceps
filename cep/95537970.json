@@ -1,9 +1,11 @@
 {
   "cep": "95537970",
   "logradouro": "Estrada do Ressaco",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sanga Funda",
   "localidade": "Terra de Areia",
   "uf": "RS",
-  "ibge": "4321436"
+  "ibge": "4321436",
+  "latitude": "-29.6098256",
+  "longitude": "-50.1191837"
 }

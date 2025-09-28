@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Mairiporã",
   "uf": "SP",
-  "ibge": "3528502"
+  "ibge": "3528502",
+  "latitude": "-23.32112",
+  "longitude": "-46.57889"
 }

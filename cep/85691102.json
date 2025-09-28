@@ -5,5 +5,7 @@
   "bairro": "São José",
   "localidade": "Palmas",
   "uf": "PR",
-  "ibge": "4117602"
+  "ibge": "4117602",
+  "latitude": "-24.83422",
+  "longitude": "-54.06167"
 }

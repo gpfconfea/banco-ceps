@@ -1,9 +1,11 @@
 {
   "cep": "26650991",
   "logradouro": "Rua Manuel de Lucas - Palmeiras da Serra",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Engenheiro Paulo de Frontin",
   "uf": "RJ",
-  "ibge": "3301801"
+  "ibge": "3301801",
+  "latitude": "-22.47464",
+  "longitude": "-43.58371"
 }

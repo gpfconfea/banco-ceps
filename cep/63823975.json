@@ -1,9 +1,11 @@
 {
   "cep": "63823975",
   "logradouro": "Rua Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Paus Brancos",
   "localidade": "Quixeramobim",
   "uf": "CE",
-  "ibge": "2311405"
+  "ibge": "2311405",
+  "latitude": "-5.1992504",
+  "longitude": "-39.2942221"
 }

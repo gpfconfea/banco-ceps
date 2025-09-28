@@ -1,9 +1,11 @@
 {
   "cep": "45310971",
   "logradouro": "Rua Rio Preto",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Três Braços",
   "localidade": "Ubaíra",
   "uf": "BA",
-  "ibge": "2932101"
+  "ibge": "2932101",
+  "latitude": "-13.25995",
+  "longitude": "-39.66168"
 }

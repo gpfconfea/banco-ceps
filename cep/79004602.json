@@ -5,5 +5,7 @@
   "bairro": "Jardim Monte Líbano",
   "localidade": "Campo Grande",
   "uf": "MS",
-  "ibge": "5002704"
+  "ibge": "5002704",
+  "latitude": "-20.4973859",
+  "longitude": "-54.5885093"
 }

@@ -5,5 +5,7 @@
   "bairro": "Vila Clementino",
   "localidade": "São Paulo",
   "uf": "SP",
-  "ibge": "3550308"
+  "ibge": "3550308",
+  "latitude": "-23.5999083",
+  "longitude": "-46.6513246"
 }

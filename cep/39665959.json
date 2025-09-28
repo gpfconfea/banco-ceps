@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Carbonita",
   "uf": "MG",
-  "ibge": "3113503"
+  "ibge": "3113503",
+  "latitude": "-17.52698",
+  "longitude": "-43.01647"
 }

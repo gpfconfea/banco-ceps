@@ -5,5 +5,7 @@
   "bairro": "Conjunto Habitacional Augustinho Kriguer",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.55166",
+  "longitude": "-47.4441"
 }

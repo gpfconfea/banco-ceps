@@ -5,5 +5,7 @@
   "bairro": "Nova Era",
   "localidade": "Cáceres",
   "uf": "MT",
-  "ibge": "5102504"
+  "ibge": "5102504",
+  "latitude": "-15.78787",
+  "longitude": "-57.42118"
 }

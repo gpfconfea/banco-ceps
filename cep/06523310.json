@@ -5,5 +5,7 @@
   "bairro": "Morada do Sol",
   "localidade": "Santana de Parnaíba",
   "uf": "SP",
-  "ibge": "3547304"
+  "ibge": "3547304",
+  "latitude": "-23.562763",
+  "longitude": "-46.6443553"
 }

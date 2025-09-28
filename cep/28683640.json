@@ -5,5 +5,7 @@
   "bairro": "Castália",
   "localidade": "Cachoeiras de Macacu",
   "uf": "RJ",
-  "ibge": "3300803"
+  "ibge": "3300803",
+  "latitude": "-22.43229",
+  "longitude": "-42.64222"
 }

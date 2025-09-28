@@ -1,9 +1,11 @@
 {
   "cep": "89346970",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Rio da Anta",
   "localidade": "Itaiópolis",
   "uf": "SC",
-  "ibge": "4208104"
+  "ibge": "4208104",
+  "latitude": "-26.5318158",
+  "longitude": "-49.7910923"
 }

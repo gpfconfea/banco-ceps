@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Ourinhos",
   "uf": "SP",
-  "ibge": "3534708"
+  "ibge": "3534708",
+  "latitude": "-23.5678594",
+  "longitude": "-46.7078451"
 }

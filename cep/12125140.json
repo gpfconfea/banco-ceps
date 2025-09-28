@@ -6,5 +6,7 @@
   "bairro": "Loteamento Parque dos Pássaros",
   "localidade": "Tremembé",
   "uf": "SP",
-  "ibge": "3554805"
+  "ibge": "3554805",
+  "latitude": "-23.18125",
+  "longitude": "-45.8468"
 }

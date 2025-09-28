@@ -5,5 +5,7 @@
   "bairro": "Jardim Santo Antônio I",
   "localidade": "Campo Limpo Paulista",
   "uf": "SP",
-  "ibge": "3509601"
+  "ibge": "3509601",
+  "latitude": "-23.2120418",
+  "longitude": "-46.7696342"
 }

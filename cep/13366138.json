@@ -6,5 +6,7 @@
   "bairro": "Residencial Flamboyant",
   "localidade": "Capivari",
   "uf": "SP",
-  "ibge": "3510401"
+  "ibge": "3510401",
+  "latitude": "-22.99452",
+  "longitude": "-47.49626"
 }

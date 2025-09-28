@@ -5,5 +5,7 @@
   "bairro": "Vila Engler",
   "localidade": "Bauru",
   "uf": "SP",
-  "ibge": "3506003"
+  "ibge": "3506003",
+  "latitude": "-22.9349121",
+  "longitude": "-47.0378406"
 }

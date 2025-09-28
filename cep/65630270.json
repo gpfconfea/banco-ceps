@@ -5,5 +5,7 @@
   "bairro": "Santo Antônio",
   "localidade": "Timon",
   "uf": "MA",
-  "ibge": "2112209"
+  "ibge": "2112209",
+  "latitude": "-7.5324535",
+  "longitude": "-46.0355021"
 }

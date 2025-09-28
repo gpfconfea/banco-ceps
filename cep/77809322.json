@@ -5,5 +5,7 @@
   "bairro": "Jardim Paulista",
   "localidade": "Araguaína",
   "uf": "TO",
-  "ibge": "1702109"
+  "ibge": "1702109",
+  "latitude": "-23.1732135",
+  "longitude": "-49.3837528"
 }

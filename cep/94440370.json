@@ -5,5 +5,7 @@
   "bairro": "Santo Onofre",
   "localidade": "Viamão",
   "uf": "RS",
-  "ibge": "4323002"
+  "ibge": "4323002",
+  "latitude": "-30.0445588",
+  "longitude": "-51.097543"
 }

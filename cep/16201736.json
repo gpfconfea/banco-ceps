@@ -6,5 +6,7 @@
   "bairro": "Residencial Villa Lobos",
   "localidade": "Birigui",
   "uf": "SP",
-  "ibge": "3506508"
+  "ibge": "3506508",
+  "latitude": "-23.48089",
+  "longitude": "-46.85527"
 }

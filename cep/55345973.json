@@ -1,9 +1,11 @@
 {
   "cep": "55345973",
   "logradouro": "Rua Quatis",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Centro",
   "localidade": "Iati",
   "uf": "PE",
-  "ibge": "2606507"
+  "ibge": "2606507",
+  "latitude": "-22.7905717",
+  "longitude": "-43.1850104"
 }

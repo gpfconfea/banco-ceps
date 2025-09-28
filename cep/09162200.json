@@ -5,5 +5,7 @@
   "bairro": "Parque Rio Grande",
   "localidade": "Santo André",
   "uf": "SP",
-  "ibge": "3547809"
+  "ibge": "3547809",
+  "latitude": "-23.7701608",
+  "longitude": "-46.4057744"
 }

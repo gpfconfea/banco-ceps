@@ -1,9 +1,11 @@
 {
   "cep": "89887972",
   "logradouro": "Estrada Geral",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Sede Oldemburg",
   "localidade": "Palmitos",
   "uf": "SC",
-  "ibge": "4212106"
+  "ibge": "4212106",
+  "latitude": "-27.17298",
+  "longitude": "-50.80455"
 }

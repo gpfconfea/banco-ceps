@@ -5,5 +5,7 @@
   "bairro": "São Francisco",
   "localidade": "Itapipoca",
   "uf": "CE",
-  "ibge": "2306405"
+  "ibge": "2306405",
+  "latitude": "-3.49768",
+  "longitude": "-39.59266"
 }

@@ -5,5 +5,7 @@
   "bairro": "Mato Dentro",
   "localidade": "Almirante Tamandaré",
   "uf": "PR",
-  "ibge": "4100400"
+  "ibge": "4100400",
+  "latitude": "-25.29278",
+  "longitude": "-49.30012"
 }

@@ -1,9 +1,11 @@
 {
   "cep": "89344970",
   "logradouro": "Avenida Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Iraputã",
   "localidade": "Itaiópolis",
   "uf": "SC",
-  "ibge": "4208104"
+  "ibge": "4208104",
+  "latitude": "-26.4505",
+  "longitude": "-50.01173"
 }

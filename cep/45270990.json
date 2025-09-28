@@ -1,9 +1,11 @@
 {
   "cep": "45270990",
   "logradouro": "Praça Lomanto Júnior",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Nova Canaã",
   "uf": "BA",
-  "ibge": "2922706"
+  "ibge": "2922706",
+  "latitude": "-13.35827",
+  "longitude": "-39.81435"
 }

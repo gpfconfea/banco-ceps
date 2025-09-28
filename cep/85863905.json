@@ -5,5 +5,7 @@
   "bairro": "Polo Centro",
   "localidade": "Foz do Iguaçu",
   "uf": "PR",
-  "ibge": "4108304"
+  "ibge": "4108304",
+  "latitude": "-25.52084",
+  "longitude": "-54.56297"
 }

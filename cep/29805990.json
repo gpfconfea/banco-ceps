@@ -1,9 +1,11 @@
 {
   "cep": "29805990",
   "logradouro": "Estrada Principal",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "",
   "localidade": "Barra de São Francisco",
   "uf": "ES",
-  "ibge": "3200904"
+  "ibge": "3200904",
+  "latitude": "-18.75443",
+  "longitude": "-40.80547"
 }

@@ -5,5 +5,7 @@
   "bairro": "Kennedy",
   "localidade": "Nova Iguaçu",
   "uf": "RJ",
-  "ibge": "3303500"
+  "ibge": "3303500",
+  "latitude": "-23.4421697",
+  "longitude": "-46.5289749"
 }

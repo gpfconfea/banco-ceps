@@ -1,9 +1,11 @@
 {
   "cep": "77553959",
   "logradouro": "Avenida Santo Antônio Quadra 32 Lote 3",
-  "complemento": "s/n",
+  "complemento": "",
   "bairro": "Setor Central",
   "localidade": "Ipueiras",
   "uf": "TO",
-  "ibge": "1709807"
+  "ibge": "1709807",
+  "latitude": "14.94779",
+  "longitude": "120.09033"
 }

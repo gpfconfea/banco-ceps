@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Bela Vista do Piauí",
   "uf": "PI",
-  "ibge": "2201556"
+  "ibge": "2201556",
+  "latitude": "-7.96933",
+  "longitude": "-41.87051"
 }

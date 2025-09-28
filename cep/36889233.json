@@ -5,5 +5,7 @@
   "bairro": "Porto",
   "localidade": "Muriaé",
   "uf": "MG",
-  "ibge": "3143906"
+  "ibge": "3143906",
+  "latitude": "-19.8849927",
+  "longitude": "-43.8506235"
 }

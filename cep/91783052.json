@@ -6,5 +6,7 @@
   "bairro": "Lami",
   "localidade": "Porto Alegre",
   "uf": "RS",
-  "ibge": "4314902"
+  "ibge": "4314902",
+  "latitude": "-30.06824",
+  "longitude": "-51.20662"
 }

@@ -5,5 +5,7 @@
   "bairro": "Mato Preto",
   "localidade": "São Bento do Sul",
   "uf": "SC",
-  "ibge": "4215802"
+  "ibge": "4215802",
+  "latitude": "-26.21326",
+  "longitude": "-49.39005"
 }

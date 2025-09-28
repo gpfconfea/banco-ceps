@@ -5,5 +5,7 @@
   "bairro": "Centro",
   "localidade": "Boqueirão",
   "uf": "PB",
-  "ibge": "2502508"
+  "ibge": "2502508",
+  "latitude": "-7.48213",
+  "longitude": "-36.13407"
 }

@@ -5,5 +5,7 @@
   "bairro": "Jardim São Pedro",
   "localidade": "Votorantim",
   "uf": "SP",
-  "ibge": "3557006"
+  "ibge": "3557006",
+  "latitude": "-23.315873",
+  "longitude": "-45.9382481"
 }
